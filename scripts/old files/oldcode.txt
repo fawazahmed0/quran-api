@@ -1,0 +1,291 @@
+// executing commands from node js, like executing python script  , use py -3 to launch version 3
+
+// see test.js and test.py on running python script from node js, also instead of using script try using commands directly inside node if possible and small, python -c print('hello')
+
+// use Sync version, to avoid errors
+
+
+/*
+// https://nodejs.org/api/fs.html#fs_fs_mkdir_path_options_callback
+// async is much faster, but is errorprone, check it later if it's working fine or not
+// fs.mkdir('tmp/a/apple', { recursive: true },()=>{} );
+// Folder that holds all the quran editions
+fs.mkdirSync('editions', { recursive: true });
+// Folder that holds all the translations that needs to be added
+fs.mkdirSync('start', { recursive: true });
+// Folder that holds all the translations that were added
+fs.mkdirSync('finished', { recursive: true });
+
+
+
+// https://stackoverflow.com/a/2497040
+fs.writeFileSync('tmp/test-sync', 'Hey there');
+
+fs.readFileSync('tmp/test-sync').toString();
+
+fs.readdirSync('tmp/a')
+*/
+
+/*
+somearr = fs.readFileSync('ml.abdulhameed').toString().split('\n')
+
+latinreturn = genLatin(somearr)
+fs.writeFileSync('cleanedtest.txt', JSON.stringify(latinreturn));
+console.log("lenght of arr is ",latinreturn.length)
+*/
+// search(["In the name of Allah, the Compassionate, the"])
+// deleteEditions(['eng-unknown1','sqi-unknown1'])
+// create(true)
+
+/*
+        var content = fs.readFileSync(path.join(startDir, filename)).toString();
+        // https://stackoverflow.com/a/54502026
+
+        var textarr = content.split(/\r?\n/);
+
+        // now remove all lines with empty strings or spaces or tabs
+        // https://stackoverflow.com/a/281335
+        // return elememnt only if they are not spaces/tabs and emptyline
+        var filterarr = textarr.filter(elem => !/^\s*$/.test(elem))
+        // search & validate JSON in array
+        var jsondata = {};
+        var temp = getJSONInArray(filterarr)
+
+        if (!Array.isArray(temp)){
+          logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format")
+          if(jsonrequired)
+          continue
+        }
+         else {
+          // parse the json
+          jsondata = temp[0]
+          // remove the json from the translation array
+          filterarr.splice(temp[1])
+        }
+    */
+    /*
+    for (var i = -1; i > -100; i--) {
+
+      if (isValidJSON(filterarr.slice(i).join('\n'))) {
+        // Not sure I should lowercase it or not
+        jsondata = JSON.parse(filterarr.slice(i).join('\n'))
+
+        filterarr.splice(i)
+        console.log('correct format')
+        console.log(jsondata)
+        console.log(filterarr)
+        break;
+      }
+
+      if (i == -99)
+        console.log("No JSON found in file ", filename, " continuing as it is optional to have JSON")
+
+    }
+*/
+
+
+
+
+
+
+
+
+
+
+    /*
+        // generate json
+        var genJSON = await generateJSON(testarr, jsondata)
+        // generate files
+        generateFiles(testarr, genJSON)
+        // save the json data and snippet inside the jsondb variable
+        await jsonDB(genJSON['name'] + '.txt')
+    */
+    // generate(testarr,jsondata)
+    //  console.log(isoLangMap(detectLang(testarr)))
+	
+	
+	
+	
+	
+	
+	
+    // latin translation generation:
+
+    //  console.log("latin: ", isLatin(testarr))
+    //  console.log("diacritical", isDiacritic(testarr))
+    //console.log(genLatin(testarr))
+
+
+    // dirCheck(testarr.slice(0,10).join('\n')).then(console.log)
+	
+	
+	
+	
+	
+	
+	
+	/*
+    var editionsarr = fs.readdirSync(editionsDir)
+    // removing .json and .min.json files
+    editionsarr = editionsarr.filter(ed => !ed.includes('.'))
+    // removing duplicates if any, not sure if required
+    editionsarr = [...new Set(editionsarr)]
+    editionsarr.sort()
+    edjson = {
+      "editions": []
+    }
+    var i = 0
+    for (var edition of editionsarr) {
+
+      edjson.editions[i] = {}
+      edjson.editions[i]['edition'] = edition
+      i++
+    }
+    fs.writeFileSync(editionsDir + ".json", JSON.stringify(edjson))
+  */
+  // sanitize and rename fonts to correctnames also
+  // newjson['author'].toLowerCase().replace(/[^A-Za-z]+/gi, "").substring(0, 10)
+  
+  
+  
+  
+  /*
+
+    // removing duplicates if any, not sure if required
+    fontsarr = [...new Set(fontsarr)]
+    fontsarr.sort()
+    fontjson = {
+      "fonts": []
+    }
+    var i = 0
+    for (var font of fontsarr) {
+
+      fontjson.fonts[i] = {}
+      fontjson.fonts[i]['font'] = font
+      i++
+    }
+  */
+  
+  
+  
+  
+  
+  
+  
+  /*
+    // stores filenames of editions have same line
+    var filename = [];
+    for (i = 0; i < timesToTest; i++) {
+      // choosing random line
+      rand = Math.floor(Math.random() * 6236)
+      filename.push(search(arr[rand], rand))
+      // checking last element is undefined or not
+      if (filename.slice(-1)[0]) {
+        result++
+      }
+
+    }
+    if (timesToTest == result)
+      return [...new Set(filename)]
+  */
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  /*
+    if (!lineno) {
+      content = cleanify(content)
+      if (content.includes(str))
+        return filename
+    }
+
+    else {
+      contentarr = content.split(/\r?\n/)
+
+      if (cleanify(contentarr[lineno]) == str)
+        return filename
+    }
+
+  }
+*/
+
+
+/*
+function renameEdition(arr){
+await jsonDB()
+  for(var val of arr){
+
+    // first check if edtion with new name exists or not
+
+   var files = val.split('|')
+  var oldname = files[0].trim()
+  var newname = files[1].trim()
+
+if(!jsondb[oldname+'.txt']){
+  logmsg = "\nedition with "+oldname +"doesn't exists, please use the correct editionname"
+  console.log(logmsg)
+  fs.appendFileSync(logfile, logmsg)
+ continue;
+}
+
+if(jsondb[newname+'.txt']){
+  logmsg = "\nedition with same name for "+newname +" exists, please use another edition name"
+  console.log(logmsg)
+  fs.appendFileSync(logfile, logmsg)
+ continue;
+}
+
+
+
+   var oldfilepath = path.join(linebylineDir, oldname+".txt")
+   var newfilepath = path.join(linebylineDir, newname+".txt")
+  var data = fs.readFileSync(oldfilepath).toString()
+var arr = data.replace(JSON.stringify('\n'+jsondb[oldname+'.txt'][jsondata], null, prettyindent), "").split(/\r?\n/)
+
+
+ var genjson = await generateJSON(arr,jsondb[oldname+'.txt'][jsondata] , newname)
+var chapverse = fs.readFileSync(path).toString()
+fs.writeFileSync(oldfilepath, arr.join('\n')+ '\n' + JSON.stringify(genjson, null, prettyindent));
+
+
+//await jsonDB()
+//listingsGen()
+
+  }
+
+
+}
+*/
+
+
+
+/*
+// checks whether the given language supports latin generation or not
+// This function is unused, we will remove it, gtranslate can convert to latin using script of the language,
+// irrespective of whetehr it supports translation of that langauge or not
+function checkGTranslateSup(lang) {
+  lang = lang.toLowerCase()
+  var iso1 = isocodes[lang].iso1
+  var iso2 = isocodes[lang].iso2
+
+  for (var [code, glang] of Object.entries(gLangCodes)) {
+
+    if (lang.includes(glang) || glang.includes(lang))
+      return true
+  }
+  // sometimes google assigns differnt codes to languages, and not use iso code, for eg: iw is hebrew in glangcodes, in iso its he for hebrew
+  // thats the reason this is checked at last if the above fails, to avoid any mistake
+  for (var [code, glang] of Object.entries(gLangCodes)) {
+
+    if (iso1 == code || iso2 == code)
+      return true
+  }
+  return false
+
+}
+*/

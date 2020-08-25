@@ -1,0 +1,25 @@
+// inject the code at translate.google.com to get language and their langcode
+
+
+// Ref: https://stackoverflow.com/questions/7474354/include-jquery-in-the-javascript-console
+var script = document.createElement('script');script.src = "https://code.jquery.com/jquery-3.5.1.min.js";document.getElementsByTagName('head')[0].appendChild(script);
+
+
+var arr = []
+
+
+for(i=0;i<$('*[class="language_list_item language_list_item_language_name"]').length;i++){
+
+langcode = $('*[class="language_list_item language_list_item_language_name"]').parent()[i].getAttribute("class").trim().match(/-.*$/)[0].substring(1)
+
+
+lang = $('*[class="language_list_item language_list_item_language_name"]')[i].textContent.trim()
+
+arr.push(langcode+","+lang)
+
+
+}
+
+arr=[...new Set(arr)]
+
+console.log(JSON.stringify(arr.sort()))
