@@ -110,6 +110,9 @@ async function create(update) {
   var context = await browser.newContext();
   page = await context.newPage();
 
+  // Saving flags used
+  logmsg("\nFlags Used\ncheckduplicate:"+checkduplicate+"\njsonrequired:"+jsonrequired+"\ngenerateLatin:"+generateLatin)
+
   // Starting to read files in startDir
   for (var filename of fs.readdirSync(startDir)) {
     logmsg("\nStarting to create files for " + filename)
@@ -117,10 +120,14 @@ async function create(update) {
     // filterarr doesn't contain jsondata and empty lines in it
     var [orgarr, filterarr, jsondata] = readDBTxt(path.join(startDir, filename))
     if (!jsondata) {
-      logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format")
+      logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format", true)
       jsondata = {}
-      if (jsonrequired)
+      if (jsonrequired){
+        var tempjson = '{"author":"Name of Author","langauge":"Name of langauge","source":"","comments":""}'
+        logmsg("\nAdd json at end of file in the following format:\n\n"+JSON.stringify(JSON.parse(tempjson),null,prettyindent))
         continue
+      }
+
     }
     // validates the translation for mistakes such as extra newline etc and corrects it and clean the translation from any number patterns ,etc
     var cleanarr = validateCleanTrans(filterarr, filename, orgarr)
