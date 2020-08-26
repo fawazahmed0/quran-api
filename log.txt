@@ -1,3 +1,8 @@
 
 BEGIN:
 C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Starting to create files for en.itani.txt
+Generating Edition
+ Generated edition eng-talalitani

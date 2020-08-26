@@ -48,7 +48,7 @@ for (i = 1; i <= 114; i++) {
 var capitalize = words => words.split(' ').map(w => w[0].toUpperCase() + w.substring(1)).join(' ')
 // stores iso codes
 var isocodes;
-//stores hizb,juz etc start and end
+//stores maqra,juz etc start and end
 var qinfo;
 // stores the google language codes
 var gLangCodes;

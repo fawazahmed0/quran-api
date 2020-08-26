@@ -139,6 +139,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.min.json"
     },
+    "eng_talalitani": {
+        "name": "eng-talalitani",
+        "author": "Talal Itani",
+        "language": "English",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-talalitani.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-talalitani.min.json"
+    },
     "eng_ummmuhammad": {
         "name": "eng-ummmuhammad",
         "author": "Umm Muhammad",
