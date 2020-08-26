@@ -25155,3 +25155,11 @@ Generating Edition
  Generated edition zho-majian1
 BEGIN:
 C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Starting to create files for quran-academy
+Generating Edition
+ Generated edition ara-quranacademy
+Starting to create files for quran-uthmani-khaled.txt
+Generating Edition
+ Generated edition ara-qurankhaledhosn

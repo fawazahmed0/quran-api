@@ -69,6 +69,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quran-lad4.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quran-lad4.min.json"
     },
+    "ara_quranacademy": {
+        "name": "ara-quranacademy",
+        "author": "Quran Academy",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://github.com/quranacademy/quran-text",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranacademy.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranacademy.min.json"
+    },
+    "ara_qurankhaledhosn": {
+        "name": "ara-qurankhaledhosn",
+        "author": "Quran Khaled Hosney",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://github.com/khaledhosny/quran-data",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurankhaledhosn.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurankhaledhosn.min.json"
+    },
     "ara_qurannastaleeq": {
         "name": "ara-qurannastaleeq",
         "author": "Quran Nastaleeq",
