@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 80,
             "verse": 1,
@@ -53,12 +53,12 @@
         {
             "chapter": 80,
             "verse": 11,
-            "text": "Jué bùrán! Zhè què shì yī zhǒng jiàoxùn."
+            "text": "Jué bùrán! Zhè què shì yīzhǒng jiàoxùn."
         },
         {
             "chapter": 80,
             "verse": 12,
-            "text": "Shéi yù jìsòng tā, jiù jiào shéi jìsòng tā ba."
+            "text": "Shuí yù jìsòng tā, jiù jiào shuí jìsòng tā ba."
         },
         {
             "chapter": 80,
@@ -143,7 +143,7 @@
         {
             "chapter": 80,
             "verse": 29,
-            "text": "yǔ gǎnlǎn hé hǎi zǎo,"
+            "text": "yǔ zǐ dūn hé hǎi zǎo,"
         },
         {
             "chapter": 80,
@@ -213,7 +213,7 @@
         {
             "chapter": 81,
             "verse": 1,
-            "text": "Dāng tàiyáng àn chù de shíhòu,"
+            "text": "Dāng tàiyáng àn dǎn de shíhòu,"
         },
         {
             "chapter": 81,
@@ -253,7 +253,7 @@
         {
             "chapter": 81,
             "verse": 9,
-            "text": "Tā wèishéme zuìguo ér zāo shāhài ne?"
+            "text": "`Tā wèishéme zuìguo ér zāo shāhài ne?'"
         },
         {
             "chapter": 81,
@@ -273,17 +273,17 @@
         {
             "chapter": 81,
             "verse": 13,
-            "text": "Dāng lèyuán bèi sòng jìn de shíhòu,"
+            "text": "dāng lèyuán bèi sòng jìn de shíhòu,"
         },
         {
             "chapter": 81,
             "verse": 14,
-            "text": "měi gèrén dōu zhīdào tā suǒzuòguò de shàn è."
+            "text": "měi gè rén dōu zhīdào tā suǒzuòguò de shàn è."
         },
         {
             "chapter": 81,
             "verse": 15,
-            "text": "Wǒ shì yǐ yùnxíng de zhòng xīng"
+            "text": "Wǒ shì yǐ yùnxíng de zhòng xīng——"
         },
         {
             "chapter": 81,
@@ -343,17 +343,17 @@
         {
             "chapter": 81,
             "verse": 27,
-            "text": "Zhè zhǐshì duì yú quán shìjiè de jiàohuì"
+            "text": "Zhè zhǐshì duìyú quán shìjiè de jiàohuì——"
         },
         {
             "chapter": 81,
             "verse": 28,
-            "text": "duì yú nǐmen zhōng yù xúnguīdǎojǔ zhě de jiàohuì,"
+            "text": "duìyú nǐmen zhōng yù xúnguīdǎojǔ zhě de jiàohuì,"
         },
         {
             "chapter": 81,
             "verse": 29,
-            "text": "nǐmen bù yù xúnguīdǎojǔ, chúfēi zhēnzhǔ--quán shìjiè de zhǔ--yìyù de shíhòu."
+            "text": "nǐmen bù yù xúnguīdǎojǔ, chúfēi zhēnzhǔ——quán shìjiè de zhǔ——yìyù de shíhòu."
         }
     ]
 }

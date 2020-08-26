@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 16,
             "verse": 1,
@@ -8,7 +8,7 @@
         {
             "chapter": 16,
             "verse": 2,
-            "text": "Tā shǐ tiānshénmen fèng tā de mìnglìng, xiétóng jīngshén, jiànglín tāsuǒ yìyù de púrén, shuō: Nǐmen yīngdāng jǐnggào shìrén shuō: Chú wǒ zhī wài, jué wú yīng shòu chóngbài de, suǒyǐ nǐmen yīngdāng jìngwèi wǒ."
+            "text": "Tā shǐ tiānshénmen fèng tā de mìnglìng, xiétóng jīngshén, jiànglín tāsuǒ yìyù de pú rén, shuō:`Nǐmen yīngdāng jǐnggào shìrén shuō: Chú wǒ zhī wài, jué wú yīng shòu chóngbài de, suǒyǐ nǐmen yīngdāng jìngwèi wǒ.'"
         },
         {
             "chapter": 16,
@@ -18,7 +18,7 @@
         {
             "chapter": 16,
             "verse": 4,
-            "text": "Tā yòng jīngyè chuàngzàole rén, ér rén què túrán biàn chéngle (tā de) míngxiǎn de duìshǒu."
+            "text": "Tā yòng jīngyè chuàngzàole rén, ér rén què túrán biànchéngle (tā de) míngxiǎn de duìshǒu."
         },
         {
             "chapter": 16,
@@ -53,7 +53,7 @@
         {
             "chapter": 16,
             "verse": 11,
-            "text": "Tā wèi nǐmen ér shēngchǎn zhuāngjià, yóugǎnlǎn, yē zǎo, pútáo hé gè zhǒng guǒshí. Duìyú néng sīwéi de mínzhòng, cǐ zhōng què yǒuyī zhǒng jīxiàng."
+            "text": "Tā wèi nǐmen ér shēngchǎn zhuāngjià, yóugǎnlǎn, yē zǎo, pútáo hé gèzhǒng guǒshí. Duìyú néng sīwéi de mínzhòng, cǐ zhōng què yǒu yīzhǒng jīxiàng."
         },
         {
             "chapter": 16,
@@ -63,12 +63,12 @@
         {
             "chapter": 16,
             "verse": 13,
-            "text": "(Tā yòu wèi nǐmen ér zhìfú) tāsuǒ wéi nǐmen chuàngzào yú dàdì de gèsè wùpǐn, duìyú néng jìqǔ jiàohuì de mínzhòng, cǐ zhōng què yǒuyī zhǒng jīxiàng."
+            "text": "(Tā yòu wèi nǐmen ér zhìfú) tā suǒwéi nǐmen chuàngzào yú dàdì de gèsè wùpǐn, duìyú néng jìqǔ jiàohuì de mínzhòng, cǐ zhōng què yǒu yīzhǒng jīxiàng."
         },
         {
             "chapter": 16,
             "verse": 14,
-            "text": "Tā zhìfú hǎiyáng, yǐbiàn nǐmen yú qǔ qízhōng de xiān ròu, zuò nǐmen de shípǐn; huò cǎiqǔ qízhōng de zhūbǎo, zuò nǐmen de zhuāngshì. Nǐ kàn chuánbó zài qízhōng pòlàng ér xíng, yǐbiàn nǐmen xúnqiú tā de ēnhuì, yǐbiàn nǐmen gǎnxiè."
+            "text": "Tā zhìfú hǎiyáng, yǐbiàn nǐmen yú qǔ qízhōng de xiānròu, zuò nǐmen de shípǐn; huò cǎiqǔ qízhōng de zhūbǎo, zuò nǐmen de zhuāngshì. Nǐ kàn chuánbó zài qízhōng pòlàng ér xíng, yǐbiàn nǐmen xúnqiú tā de ēnhuì, yǐbiàn nǐmen gǎnxiè."
         },
         {
             "chapter": 16,
@@ -103,7 +103,7 @@
         {
             "chapter": 16,
             "verse": 21,
-            "text": "Tāmen shì sǐ de, bùshì huó de, tāmen bù zhīdào chóngbài zhěmen jiàng zài hé shí fùhuó."
+            "text": "Tāmen shì sǐ de, bùshì huó de, tāmen bù zhīdào chóngbài zhěmen jiàng zài héshí fùhuó."
         },
         {
             "chapter": 16,
@@ -113,12 +113,12 @@
         {
             "chapter": 16,
             "verse": 23,
-            "text": "Wúyí de, zhēnzhǔ zhīdào tāmen suǒ yǐnhuì de, hé tāmen suǒ biǎobái de, tā què shì bù xǐ'ài zì dà zhě de."
+            "text": "Wúyí de, zhēnzhǔ zhīdào tāmen suǒyǐnhuì de, hé tāmen suǒ biǎobái de, tā què shì bù xǐ'ài zì dà zhě de."
         },
         {
             "chapter": 16,
             "verse": 24,
-            "text": "Yǒurén wèn tāmen: Nǐmen de zhǔ céng jiàng shì shénme? Tāmen shuō: Gǔrén de shénhuà."
+            "text": "Yǒurén wèn tāmen:`Nǐmen de zhǔ céng jiàng shì shénme?'Tāmen shuō: Gǔrén de shénhuà."
         },
         {
             "chapter": 16,
@@ -133,12 +133,12 @@
         {
             "chapter": 16,
             "verse": 27,
-            "text": "Ránhòu zài fùhuó rì tā yào língrù tāmen, bìng shěnwèn tāmen shuō: Wǒ nàxiē huǒbàn--nǐmen wèile tāmen ér yǔxìn shìmen xiāng zhēnglùn de--rújīn zài nǎlǐ ne? Yǒu xuéshì zhě jiāngyào shuō: Língrù hé xíngfá jīnrì bì guīyú bù xìndào zhě."
+            "text": "Ránhòu zài fùhuó rì tā yào língrù tāmen, bìng shěnwèn tāmen shuō:`Wǒ nàxiē huǒbàn——nǐmen wèile tāmen ér yǔ xìnshìmen xiāng zhēnglùn de——rújīn zài nǎlǐ ne?'Yǒu xuéshì zhě jiāngyào shuō:`Língrù hé xíngfá jīnrì bì guīyú bù xìndào zhě.'"
         },
         {
             "chapter": 16,
             "verse": 28,
-            "text": "Tāmen zài zì kuī de qíngkuàng xià, tiānshénmen shǐ tāmen sǐwáng. Tāmen biǎoshì qūfú, shuō: Wǒmen méiyǒu fànguò shèn me zuì'è. Bùrán! Zhēnzhǔ què shì quánzhī nǐmen de xíngwéi de."
+            "text": "Tāmen zài zì kuī de qíngkuàng xià, tiānshénmen shǐ tāmen sǐwáng. Tāmen biǎoshì qūfú, shuō:`Wǒmen méiyǒu fànguò shèn me zuì'è.'Bùrán! Zhēnzhǔ què shì quánzhī nǐmen de xíngwéi de."
         },
         {
             "chapter": 16,

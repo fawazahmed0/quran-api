@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 37,
             "verse": 83,
@@ -13,7 +13,7 @@
         {
             "chapter": 37,
             "verse": 85,
-            "text": "Dangshi, ta dui ta de fuqin he zongzu shuo: Nimen chongbai shenme?"
+            "text": "Dangshi, ta dui ta de fuqin he zongzu shuo:`Nimen chongbai shenme?"
         },
         {
             "chapter": 37,
@@ -23,7 +23,7 @@
         {
             "chapter": 37,
             "verse": 87,
-            "text": "Nimen dui quan shijie de zhu, jiujing zuo shenme caice?"
+            "text": "Nimen dui quan shijie de zhu, jiujing zuo shenme caice?'"
         },
         {
             "chapter": 37,
@@ -33,7 +33,7 @@
         {
             "chapter": 37,
             "verse": 89,
-            "text": "ranhou shuo: Wo shibi yaohai bing."
+            "text": "ranhou shuo:`Wo shibi yaohai bing.'"
         },
         {
             "chapter": 37,
@@ -43,17 +43,17 @@
         {
             "chapter": 37,
             "verse": 91,
-            "text": "ta jiu qiaoqiao de zouxiang tamen de zhong shenling, ta shuo: Nimen zenme bu chi dongxi ne?"
+            "text": "ta jiu qiao qiao de zouxiang tamen de zhong shenling, ta shuo:`Nimen zenme bu chi dongxi ne?"
         },
         {
             "chapter": 37,
             "verse": 92,
-            "text": "Nimen zenme bu shuohua ne?"
+            "text": "Nimen zenme bu shuohua ne?'"
         },
         {
             "chapter": 37,
             "verse": 93,
-            "text": "Ta jiu qiaoqiao yi youshou daji tamen."
+            "text": "Ta jiu qiao qiao de yi youshou daji tamen."
         },
         {
             "chapter": 37,
@@ -63,32 +63,32 @@
         {
             "chapter": 37,
             "verse": 95,
-            "text": "ta shuo: Nimen chongbai ziji suo diaoke de ouxiang ma?"
+            "text": "ta shuo:`Nimen chongbai ziji suo diaoke de ouxiang ma?"
         },
         {
             "chapter": 37,
             "verse": 96,
-            "text": "Zhenzhu chuangzao nimen, he nimen de xingwei."
+            "text": "Zhenzhu chuangzao nimen, he nimen de xingwei.'"
         },
         {
             "chapter": 37,
             "verse": 97,
-            "text": "Tamen shuo: Nimen yingdang wei ta er xiu yige huolu, ranhou, jiang ta tou zai liehuo zhong."
+            "text": "Tamen shuo:`Nimen yingdang wei ta er xiu yige huolu, ranhou, jiang ta tou zai liehuo zhong.'"
         },
         {
             "chapter": 37,
             "verse": 98,
-            "text": "Tamen yu mouhai ta, er wo que shi tamen bian cheng zhan xiafeng de."
+            "text": "Tamen yu mouhai ta, er wo que shi tamen biancheng zhan xia feng de."
         },
         {
             "chapter": 37,
             "verse": 99,
-            "text": "Ta shuo: Wo guoran yao qianyi dao wo de zhu suo qishi wo di difang qu, ta jiang zhidao wo."
+            "text": "Ta shuo:`Wo guoran yao qianyi dao wo de zhu suo qishi wo di difang qu, ta jiang zhidao wo."
         },
         {
             "chapter": 37,
             "verse": 100,
-            "text": "Wo de zhu ya! Qiu ni shangci wo yige shanliang de erzi."
+            "text": "Wo de zhu ya! Qiu ni shangci wo yige shanliang de erzi.'"
         },
         {
             "chapter": 37,
@@ -98,22 +98,22 @@
         {
             "chapter": 37,
             "verse": 102,
-            "text": "Dang ta zhang dao neng bangzhe ta caozuo de shihou, ta shuo: Wo de xiaozi a! Wo que yi meng jian wo zai ni wei xisheng. Ni kaolu yixia! Ni jiujing shi shenme yijian? Ta shuo: Wo de fuqin a! Qing ni zhixing ni suo feng de mingling ba! Ruguo zhenzhu yiyu, ni jiang faxian wo shi jianren de."
+            "text": "Dang ta zhang dao neng bangzhe ta caozuo de shihou, ta shuo:`Wo de xiaozi a! Wo que yi mengjian wo zai ni wei xisheng. Ni kaolu yixia! Ni jiujing you shenme yijian?'Ta shuo:`Wo de fuqin a! Qing ni zhixing ni suo feng de mingling ba! Ruguo zhenzhu yiyu, ni jiang faxian wo shi jianren de.'"
         },
         {
             "chapter": 37,
             "verse": 103,
-            "text": "Tamen lia ji yi shunfu zhenzhu, er ta shi ta de erzi ce wozhe."
+            "text": "Tamen lia ji yi shunfu zhenzhu, er ta shi ta de erzi cewozhe."
         },
         {
             "chapter": 37,
             "verse": 104,
-            "text": "Wo hanjiao shuo: Yi bo la xin a!"
+            "text": "Wo hanjiao shuo:`Yi bo la xin a!"
         },
         {
             "chapter": 37,
             "verse": 105,
-            "text": "Ni que yi zhengshi nage mengle. Wo biding yao zheyang baochou xingshan de renmen."
+            "text": "Ni que yi zhengshi nage mengle.'Wo biding yao zheyang baochou xingshan de renmen."
         },
         {
             "chapter": 37,
@@ -123,7 +123,7 @@
         {
             "chapter": 37,
             "verse": 107,
-            "text": "Wo yi yi ge weida de xisheng shule ta."
+            "text": "Wo yi yige weida de xisheng shule ta."
         },
         {
             "chapter": 37,
@@ -133,7 +133,7 @@
         {
             "chapter": 37,
             "verse": 109,
-            "text": "Zhu yi bo la xin ping'an!"
+            "text": "`Zhu yi bo la xin ping'an!'"
         },
         {
             "chapter": 37,
@@ -143,7 +143,7 @@
         {
             "chapter": 37,
             "verse": 111,
-            "text": "Ta que shi wo de xindao de puren,"
+            "text": "Ta que shi wo de xindao de pu ren,"
         },
         {
             "chapter": 37,
@@ -163,7 +163,7 @@
         {
             "chapter": 37,
             "verse": 115,
-            "text": "Wo ceng shi tamen lia ji qi zongzu, de mian yu da nan."
+            "text": "Wo ceng shi tamen lia ji qi zongzu, de mian yu danan."
         },
         {
             "chapter": 37,
@@ -188,7 +188,7 @@
         {
             "chapter": 37,
             "verse": 120,
-            "text": "Zhu mu sa he ha lun ping'an!"
+            "text": "`Zhu mu sa he ha lun ping'an!'"
         },
         {
             "chapter": 37,
@@ -198,7 +198,7 @@
         {
             "chapter": 37,
             "verse": 122,
-            "text": "Tamen lia que shi wo de xindao de puren."
+            "text": "Tamen lia que shi wo de xindao de pu ren."
         },
         {
             "chapter": 37,
@@ -208,17 +208,17 @@
         {
             "chapter": 37,
             "verse": 124,
-            "text": "Dangshi, ta dui ta de zongzu shuo: Nandao nimen bu jingwei zhenzhu ma?"
+            "text": "Dangshi, ta dui ta de zongzu shuo:`Nandao nimen bu jingwei zhenzhu ma?"
         },
         {
             "chapter": 37,
             "verse": 125,
-            "text": "Nandao nimen qidao bai er li, er sheqi zui youyue de chuangzao zhe"
+            "text": "Nandao nimen qidao bai er li, er sheqi zui youyue de chuangzao zhe——"
         },
         {
             "chapter": 37,
             "verse": 126,
-            "text": "zhenzhu, nimen de zhu, nimen zuxian de zhu ma?"
+            "text": "zhenzhu, nimen de zhu, nimen zuxian de zhu ma?'"
         },
         {
             "chapter": 37,
@@ -238,7 +238,7 @@
         {
             "chapter": 37,
             "verse": 130,
-            "text": "Zhu yi lei ya si ping'an!"
+            "text": "`Zhu yi lei ya si ping'an!'"
         },
         {
             "chapter": 37,
@@ -248,7 +248,7 @@
         {
             "chapter": 37,
             "verse": 132,
-            "text": "Ta que shi wo de xindao de puren."
+            "text": "Ta que shi wo de xindao de pu ren."
         },
         {
             "chapter": 37,
@@ -263,7 +263,7 @@
         {
             "chapter": 37,
             "verse": 135,
-            "text": "weiyou yige lao fu ren he qiyu de ren, meiyou huode zhengjiu."
+            "text": "weiyou yige lao furen he qiyu de ren, meiyou huode zhengjiu."
         },
         {
             "chapter": 37,
@@ -293,7 +293,7 @@
         {
             "chapter": 37,
             "verse": 141,
-            "text": "Ta jiu nianjiu, ta que shi shibai de,"
+            "text": "Ta jiu nian [men gui], ta que shi shibai de,"
         },
         {
             "chapter": 37,
@@ -303,7 +303,7 @@
         {
             "chapter": 37,
             "verse": 143,
-            "text": "Jiaruo bushi chang zansong zhenzhu zhe,"
+            "text": "Jiaruo ta bushi chang zansong zhenzhu zhe,"
         },
         {
             "chapter": 37,

@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 37,
             "verse": 22,
@@ -13,7 +13,7 @@
         {
             "chapter": 37,
             "verse": 24,
-            "text": "Bìng lánzhù tāmen, yīnwèi tāmen díquè yào shòushěn wèn."
+            "text": "bìng lánzhù tāmen, yīnwèi tāmen díquè yào shòu shěnwèn."
         },
         {
             "chapter": 37,
@@ -33,12 +33,12 @@
         {
             "chapter": 37,
             "verse": 28,
-            "text": "zhèxiē rén shuō: Nǐmen què yǐ yòng quánlì xiépò wǒmen."
+            "text": "zhèxiē rén shuō:`Nǐmen què yǐ yòng quánlì xiépò wǒmen.'"
         },
         {
             "chapter": 37,
             "verse": 29,
-            "text": "Nàxiē rén shuō: Bùrán! Nǐmen zìjǐ yuánlái bu shì xìndào zhě,"
+            "text": "Nàxiē rén shuō:`Bùrán! Nǐmen zìjǐ yuánlái bu shì xìndào zhě,"
         },
         {
             "chapter": 37,
@@ -53,7 +53,7 @@
         {
             "chapter": 37,
             "verse": 32,
-            "text": "Suǒyǐ wǒmen shǐ nǐmen mí wù, wǒmen zìjǐ yě què shì mí wù de."
+            "text": "Suǒyǐ wǒmen shǐ nǐmen mí wù, wǒmen zìjǐ yě què shì mí wù de.'"
         },
         {
             "chapter": 37,
@@ -68,12 +68,12 @@
         {
             "chapter": 37,
             "verse": 35,
-            "text": "Tāmen què shì zhèyàng de: Yǒurén duì tāmen shuō: Chú zhēnzhǔ wài, jué wú yīng shòu chóngbài de, tāmen jiù wàngzìzūndà,"
+            "text": "Tāmen què shì zhèyàng de: Yǒurén duì tāmen shuō:`Chú zhēnzhǔ wài, jué wú yīng shòu chóngbài de', tāmen jiù wàngzìzūndà,"
         },
         {
             "chapter": 37,
             "verse": 36,
-            "text": "bìngqiě shuō: Nándào wǒmen wùbì yào wéi yīgè kuángwàng de shīrén, ér pāoqì wǒmen de zhòng shénlíng ma?"
+            "text": "bìngqiě shuō:`Nándào wǒmen wùbì yào wéi yīgè kuángwàng de shīrén, ér pāoqì wǒmen de zhòng shénlíng ma?'"
         },
         {
             "chapter": 37,
@@ -93,17 +93,17 @@
         {
             "chapter": 37,
             "verse": 40,
-            "text": "Wéi zhēnzhǔ de qiánchéng de zhòng pū,"
+            "text": "Wéi zhēnzhǔ de qiánchéng de zhòng pú,"
         },
         {
             "chapter": 37,
             "verse": 41,
-            "text": "jiāng xiǎngshòu yī zhǒng kězhī de jǐyǎng"
+            "text": "jiāng xiǎngshòu yīzhǒng kězhī de jǐyǎng——"
         },
         {
             "chapter": 37,
             "verse": 42,
-            "text": "gè zhǒng shuǐguǒ, tóngshí tāmen shì shòu yōudài de;"
+            "text": "gèzhǒng shuǐguǒ, tóngshí tāmen shì shòu yōudài de;"
         },
         {
             "chapter": 37,
@@ -123,7 +123,7 @@
         {
             "chapter": 37,
             "verse": 46,
-            "text": "yánsè jiébái, yǐn zhě wúbù chēng wèi měiwèi;"
+            "text": "yánsè jiébái, yǐn zhě wú bù chēng wèi měiwèi;"
         },
         {
             "chapter": 37,
@@ -148,22 +148,22 @@
         {
             "chapter": 37,
             "verse": 51,
-            "text": "Tāmen zhōng yǒuyīgèrén shuō: Wǒ yǒu yīgè péngyǒu,"
+            "text": "Tāmen zhōng yǒuyīgèrén shuō:`Wǒ yǒu yī gè péngyǒu,"
         },
         {
             "chapter": 37,
             "verse": 52,
-            "text": "tā wèn wǒ:'Nǐ què shì chéngxìn de ma?"
+            "text": "tā wèn wǒ:“Nǐ què shì chéngxìn de ma?"
         },
         {
             "chapter": 37,
             "verse": 53,
-            "text": "Nándào wǒmen sǐ hòu, yǐ biàn wèi chéntǔ hé xiǔ gǔ de shíhòu, hái bìdìng yào shòu bàochóu ma?"
+            "text": "Nándào wǒmen sǐhòu, yǐ biàn wèi chéntǔ hé xiǔ gǔ de shíhòu, hái bìdìng yào shòu bàochóu ma?”'"
         },
         {
             "chapter": 37,
             "verse": 54,
-            "text": "Tā shuō: Nǐmen yuàn kàn tā ma?"
+            "text": "Tā shuō:`Nǐmen yuàn kàn tā ma?'"
         },
         {
             "chapter": 37,
@@ -173,7 +173,7 @@
         {
             "chapter": 37,
             "verse": 56,
-            "text": "tā shuō: Yǐ zhēnzhǔ fāshì, nǐ díquè jīhū xiànhàile wǒ."
+            "text": "tā shuō:`Yǐ zhēnzhǔ fāshì, nǐ díquè jīhū xiànhàile wǒ."
         },
         {
             "chapter": 37,
@@ -198,22 +198,22 @@
         {
             "chapter": 37,
             "verse": 61,
-            "text": "gōngzuò zhě yīngdāng wèi huòdé zhèyàng de chénggōng ér gōngzuò."
+            "text": "gōngzuò zhě yīngdāng wèi huòdé zhèyàng de chénggōng ér gōngzuò.'"
         },
         {
             "chapter": 37,
             "verse": 62,
-            "text": "Nà shì gèng shàn de kuǎndài ne? Háishì zǎn hù shù?"
+            "text": "Nà shì gèng shàn de kuǎndài ne? Háishì cuán hù shù?"
         },
         {
             "chapter": 37,
             "verse": 63,
-            "text": "Wǒ yǐ tā wéi bù yì zhě de zhémó."
+            "text": "Wǒ yǐ tā wéi bùyì zhě de zhémó."
         },
         {
             "chapter": 37,
             "verse": 64,
-            "text": "Tā shì huǒ yù dǐ shēngzhǎng de kē shù,"
+            "text": "Tā shì zài huǒ yù dǐ shēngzhǎng de yī kē shù,"
         },
         {
             "chapter": 37,
@@ -243,7 +243,7 @@
         {
             "chapter": 37,
             "verse": 70,
-            "text": "tāmen què yīzhe tāmen zōngjī ér bēnchí."
+            "text": "tāmen què yīzhe tāmen de zōngjī ér bēnchí."
         },
         {
             "chapter": 37,
@@ -263,7 +263,7 @@
         {
             "chapter": 37,
             "verse": 74,
-            "text": "Chúfēi zhēnzhǔ de chúnjié de púrénmen."
+            "text": "Chúfēi zhēnzhǔ de chúnjié de pú rénmen."
         },
         {
             "chapter": 37,
@@ -273,7 +273,7 @@
         {
             "chapter": 37,
             "verse": 76,
-            "text": "Wǒ zhěngjiù tā hé tā de xìntúmen tuōlí dà nàn."
+            "text": "Wǒ zhěngjiù tā hé tā de xìntúmen tuōlí dànàn."
         },
         {
             "chapter": 37,
@@ -288,7 +288,7 @@
         {
             "chapter": 37,
             "verse": 79,
-            "text": "Zài gè mínzú zhōng, dōu yǒurén shuō: Zhù nǔ hā píng'ān!"
+            "text": "Zài gè mínzú zhōng, dōu yǒurén shuō:`Zhù nǔ hā píng'ān!'"
         },
         {
             "chapter": 37,

@@ -1,9 +1,9 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 76,
             "verse": 19,
-            "text": "Xuduo changsheng bulao de shaonian, lunliuzhe fushi tamen. Dang ni kanjian naxie shaonian de shihou, ni yiwei tamen shi xie sanman de zhenzhu."
+            "text": "Xuduo changsheng bulao de shaonian, lunliuzhe fushi tamen. Dang ni kanjian naxie shaonian de shihou, ni yi wei tamen shi xie sanman de zhenzhu."
         },
         {
             "chapter": 76,
@@ -13,12 +13,12 @@
         {
             "chapter": 76,
             "verse": 21,
-            "text": "Tamen jiang chuanzhuo ling luo jinduan de lu pao, tamen jiang xiangshou yin zhuo de zhuangshi, tamen de zhu, jiang yi chunjie de yinliao shangci tamen."
+            "text": "Tamen jiang chuanzhuo lingluo jinduan de lu pao, tamen jiang xiangshou yin zhuo de zhuangshi, tamen de zhu, jiang yi chunjie de yinliao shangci tamen."
         },
         {
             "chapter": 76,
             "verse": 22,
-            "text": "(Jiang dui tamen shuo:) Zhe que shi nimen de baochou, nimen de laoji shi you baochou de."
+            "text": "(Jiang dui tamen shuo:)`Zhe que shi nimen de baochou, nimen de laoji shi you baochou de.'"
         },
         {
             "chapter": 76,
@@ -38,7 +38,7 @@
         {
             "chapter": 76,
             "verse": 26,
-            "text": "yeli, ni yingdang yi xiao bu fen shijian xiang ta koutou, yi da bu fen shijian zansong ta."
+            "text": "Yeli, ni yingdang yi xiao bu fen shijian xiang ta koutou, yi da bu fen shijian zansong ta."
         },
         {
             "chapter": 76,
@@ -53,12 +53,12 @@
         {
             "chapter": 76,
             "verse": 29,
-            "text": "Zhe que shi jiaohui, shei yuanyi juewu, shei keyi xuanze yitiao tongda ta de zhu de daolu."
+            "text": "Zhe que shi jiaohui, shui yuanyi juewu, shui keyi xuanze yitiao tongda ta de zhu de daolu."
         },
         {
             "chapter": 76,
             "verse": 30,
-            "text": "Chu zhenzhu yiyu wai, nimen jue bu yiyu. Zhenzhu shi quanzhi de, shi zhi rui de."
+            "text": "Chu zhenzhu yiyu wai, nimen jue buyiyu. Zhenzhu shi quanzhi de, shi zhi rui de."
         },
         {
             "chapter": 76,
@@ -208,12 +208,12 @@
         {
             "chapter": 77,
             "verse": 29,
-            "text": "Nimen qu xiangshou nimen suo fouren de xingfa ba!"
+            "text": "`Nimen qu xiangshou nimen suo fouren de xingfa ba!"
         },
         {
             "chapter": 77,
             "verse": 30,
-            "text": "Nimen qu xiangshou yousan ge quan de yin ying ba!"
+            "text": "Nimen qu xiangshou yousan ge quan de yin ying ba!'"
         },
         {
             "chapter": 77,
@@ -278,7 +278,7 @@
         {
             "chapter": 77,
             "verse": 43,
-            "text": "jiang dui tamen shuo: Nimen cengjing xingshan, gu nimen tongkuai di yinshi ba!"
+            "text": "jiang dui tamen shuo:`Nimen cengjing xingshan, gu nimen tongkuai di yinshi ba!'"
         },
         {
             "chapter": 77,
@@ -293,7 +293,7 @@
         {
             "chapter": 77,
             "verse": 46,
-            "text": "Nimen zhanshi chihe xiangshou ba! Nimen que shi fanzui de ren."
+            "text": "`Nimen zhanshi chihe xiangshou ba! Nimen que shi fanzui de ren.'"
         },
         {
             "chapter": 77,
@@ -303,7 +303,7 @@
         {
             "chapter": 77,
             "verse": 48,
-            "text": "Youren dui tamen shuo: Nimen dang jugong. Tamen bu ken jugong."
+            "text": "Youren dui tamen shuo:`Nimen dang jugong.'Tamen bu ken jugong."
         },
         {
             "chapter": 77,

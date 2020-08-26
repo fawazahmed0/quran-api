@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 80,
             "verse": 1,
@@ -53,12 +53,12 @@
         {
             "chapter": 80,
             "verse": 11,
-            "text": "Jue buran! Zhe que shi yi zhong jiaoxun."
+            "text": "Jue buran! Zhe que shi yizhong jiaoxun."
         },
         {
             "chapter": 80,
             "verse": 12,
-            "text": "Shei yu jisong ta, jiu jiao shei jisong ta ba."
+            "text": "Shui yu jisong ta, jiu jiao shui jisong ta ba."
         },
         {
             "chapter": 80,
@@ -143,7 +143,7 @@
         {
             "chapter": 80,
             "verse": 29,
-            "text": "yu ganlan he hai zao,"
+            "text": "yu zi dun he hai zao,"
         },
         {
             "chapter": 80,
@@ -213,7 +213,7 @@
         {
             "chapter": 81,
             "verse": 1,
-            "text": "Dang taiyang an chu de shihou,"
+            "text": "Dang taiyang an dan de shihou,"
         },
         {
             "chapter": 81,
@@ -253,7 +253,7 @@
         {
             "chapter": 81,
             "verse": 9,
-            "text": "Ta weisheme zuiguo er zao shahai ne?"
+            "text": "`Ta weisheme zuiguo er zao shahai ne?'"
         },
         {
             "chapter": 81,
@@ -273,17 +273,17 @@
         {
             "chapter": 81,
             "verse": 13,
-            "text": "Dang leyuan bei song jin de shihou,"
+            "text": "dang leyuan bei song jin de shihou,"
         },
         {
             "chapter": 81,
             "verse": 14,
-            "text": "mei geren dou zhidao ta suozuoguo de shan e."
+            "text": "mei ge ren dou zhidao ta suozuoguo de shan e."
         },
         {
             "chapter": 81,
             "verse": 15,
-            "text": "Wo shi yi yunxing de zhong xing"
+            "text": "Wo shi yi yunxing de zhong xing——"
         },
         {
             "chapter": 81,
@@ -343,17 +343,17 @@
         {
             "chapter": 81,
             "verse": 27,
-            "text": "Zhe zhishi dui yu quan shijie de jiaohui"
+            "text": "Zhe zhishi duiyu quan shijie de jiaohui——"
         },
         {
             "chapter": 81,
             "verse": 28,
-            "text": "dui yu nimen zhong yu xunguidaoju zhe de jiaohui,"
+            "text": "duiyu nimen zhong yu xunguidaoju zhe de jiaohui,"
         },
         {
             "chapter": 81,
             "verse": 29,
-            "text": "nimen bu yu xunguidaoju, chufei zhenzhu--quan shijie de zhu--yiyu de shihou."
+            "text": "nimen bu yu xunguidaoju, chufei zhenzhu——quan shijie de zhu——yiyu de shihou."
         }
     ]
 }

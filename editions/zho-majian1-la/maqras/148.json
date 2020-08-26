@@ -1,9 +1,9 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 26,
             "verse": 52,
-            "text": "Wo ceng qishi mu sa (shuo): Ni zai yejian shuailing wo de zhong pu er luxing, nimen que shi bei zhuigan de."
+            "text": "Wo ceng qishi mu sa (shuo):`Ni zai yejian shuailing wo de zhong pu er luxing, nimen que shi bei zhuigan de.'"
         },
         {
             "chapter": 26,
@@ -13,7 +13,7 @@
         {
             "chapter": 26,
             "verse": 54,
-            "text": "Ta shuo: Zhexie ren que shi yi xiao cuo ren."
+            "text": "Ta shuo:`Zhexie ren que shi yi xiao cuo ren."
         },
         {
             "chapter": 26,
@@ -23,7 +23,7 @@
         {
             "chapter": 26,
             "verse": 56,
-            "text": "women que shi jinshen de tuanti."
+            "text": "women que shi jinshen de tuanti.'"
         },
         {
             "chapter": 26,
@@ -48,17 +48,17 @@
         {
             "chapter": 26,
             "verse": 61,
-            "text": "Dang liang jun xiang wang de shihou, mu sa de tonghuomen shuo: Women shi bi yao bei diren zhui shang."
+            "text": "Dang liang jun xiang wang de shihou, mu sa de tonghuomen shuo:`Women shi bi yao bei diren zhui shang.'"
         },
         {
             "chapter": 26,
             "verse": 62,
-            "text": "Ta shuo: Jue bu hui de! Wo de zhu tong wo zai yiqi, ta jiang yindao wo."
+            "text": "Ta shuo:`Jue bu hui de! Wo de zhu tong wo zai yiqi, ta jiang yindao wo.'"
         },
         {
             "chapter": 26,
             "verse": 63,
-            "text": "Wo qishi mu sa shuo: Ni yingdang yong ni de shouzhang ji hai. Hai jiu lie kai, mei yibufen, xiang yizuo dashan."
+            "text": "Wo qishi mu sa shuo:`Ni yingdang yong ni de shouzhang ji hai.'Hai jiu lie kai, mei yibufen, xiang yizuo dashan."
         },
         {
             "chapter": 26,
@@ -78,7 +78,7 @@
         {
             "chapter": 26,
             "verse": 67,
-            "text": "Ci zhong que youyi zhong jixiang, dan tamen daban bushi xindao zhe."
+            "text": "Ci zhong que you yizhong jixiang, dan tamen daban bushi xindao zhe."
         },
         {
             "chapter": 26,
@@ -93,37 +93,37 @@
         {
             "chapter": 26,
             "verse": 70,
-            "text": "Dangri, ta dui ta de fuqin he zongzu shuo: Nimen chongbai shenme?"
+            "text": "Dangri, ta dui ta de fuqin he zongzu shuo:`Nimen chongbai shenme?'"
         },
         {
             "chapter": 26,
             "verse": 71,
-            "text": "Tamen shuo: Women chongbai ouxiang, women yizhi shi qiancheng de."
+            "text": "Tamen shuo:`Women chongbai ouxiang, women yizhi shi qiancheng de.'"
         },
         {
             "chapter": 26,
             "verse": 72,
-            "text": "Ta shuo: Nimen qidao de shihou, tamen neng tingjian ma?"
+            "text": "Ta shuo:`Nimen qidao de shihou, tamen neng tingjian ma?"
         },
         {
             "chapter": 26,
             "verse": 73,
-            "text": "Tamen neng jiang fu yu nimen huo jiang huo yu nimen ma?"
+            "text": "Tamen neng jiang fu yu nimen huo jiang huo yu nimen ma?'"
         },
         {
             "chapter": 26,
             "verse": 74,
-            "text": "Tamen shuo: Buran, women ceng faxian women de zuxian shi nayang zuo de."
+            "text": "Tamen shuo:`Buran, women ceng faxian women de zuxian shi nayang zuo de.'"
         },
         {
             "chapter": 26,
             "verse": 75,
-            "text": "Ta shuo: Nimen gaosu wo ba! Nimen suo chongbai de shi shenme?"
+            "text": "Ta shuo:`Nimen gaosu wo ba! Nimen suo chongbai de shi shenme?"
         },
         {
             "chapter": 26,
             "verse": 76,
-            "text": "Nimen zui gu de zuxian chongbai de shi shenme?"
+            "text": "Nimen zui gu de zuxian suo chongbai de shi shenme?"
         },
         {
             "chapter": 26,
@@ -183,7 +183,7 @@
         {
             "chapter": 26,
             "verse": 88,
-            "text": "ji caichan he zisun dou wu biyi zhi ri."
+            "text": "ji caichan he zisun dou wu biyi zhi ri.'"
         },
         {
             "chapter": 26,
@@ -203,7 +203,7 @@
         {
             "chapter": 26,
             "verse": 92,
-            "text": "Jiangyao xiang tamen shuo: Nimen yiqian she zhenzhu er chongbai de, rujin zai nali ne?"
+            "text": "Jiangyao xiang tamen shuo:`Nimen yiqian she zhenzhu er chongbai de, rujin zai nali ne?"
         },
         {
             "chapter": 26,
@@ -213,22 +213,22 @@
         {
             "chapter": 26,
             "verse": 94,
-            "text": "Jiang bei touru huo yu zhong de, shi tamen he mi wu zhe,"
+            "text": "Jiang bei touru huo yuzhong de, shi tamen he mi wu zhe,"
         },
         {
             "chapter": 26,
             "verse": 95,
-            "text": "yiji yi bo lie si de yixie budui."
+            "text": "yiji yi bo lie si de yixie budui.'"
         },
         {
             "chapter": 26,
             "verse": 96,
-            "text": "Tamen zai huo yu zhong zhengbianzhe shuo:"
+            "text": "Tamen zai huo yuzhong zhengbianzhe shuo:"
         },
         {
             "chapter": 26,
             "verse": 97,
-            "text": "Zhi zhenzhu fashi, yiqian, women queshi zai mingxian de mi wu zhong."
+            "text": "`Zhi zhenzhu fashi, yiqian, women queshi zai mingxian de mi wu zhong."
         },
         {
             "chapter": 26,
@@ -253,7 +253,7 @@
         {
             "chapter": 26,
             "verse": 102,
-            "text": "Dan yuan women jiang fanhui chenshi, women jiangyao bian cheng xindao zhe."
+            "text": "Dan yuan women jiang fanhui chenshi, women jiangyao biancheng xindao zhe.'"
         },
         {
             "chapter": 26,
@@ -273,7 +273,7 @@
         {
             "chapter": 26,
             "verse": 106,
-            "text": "Dangshi, tamen de dixiong nu ha dui tamen shuo: Nimen zenme bu jingwei zhenzhu ne?"
+            "text": "Dangshi, tamen de dixiong nu ha dui tamen shuo:`Nimen zenme bu jingwei zhenzhu ne?"
         },
         {
             "chapter": 26,
@@ -293,7 +293,7 @@
         {
             "chapter": 26,
             "verse": 110,
-            "text": "Gu nimen yingdang jingwei zhenzhu, yingdang fucong wo."
+            "text": "Gu nimen yingdang jingwei zhenzhu, yingdang fucong wo.'"
         }
     ]
 }

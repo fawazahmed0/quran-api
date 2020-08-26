@@ -18,7 +18,7 @@
         {
             "chapter": 16,
             "verse": 123,
-            "text": "Ranhou, wo qishi ni shuo: Ni yingdang zunshou xinfeng zhengjiao de yi bo la xin de zongjiao, ta bushi yi wu pei zhu de."
+            "text": "Ranhou, wo qishi ni shuo:`Ni yingdang zunshou xinfeng zhengjiao de yi bo la xin de zongjiao, ta bushi yi wu pei zhu de.'"
         },
         {
             "chapter": 16,
@@ -28,7 +28,7 @@
         {
             "chapter": 16,
             "verse": 125,
-            "text": "Ni ying ping zhihui heshan yan er quan ren zunxun zhu dao, ni yingdang yi zui youxiu de taidu yu ren bianlun, ni de zhu dique zhidao shei shi beili ta de zhengdao de, ta dique zhidao shei shi zunxun ta de zhengdao de."
+            "text": "Ni ying ping zhihui heshan yan er quan ren zunxun zhu dao, ni yingdang yi zui youxiu de taidu yu ren bianlun, ni de zhu dique zhidao shui shi beili ta de zhengdao de, ta dique zhidao shui shi zunxun ta de zhengdao de."
         },
         {
             "chapter": 16,
@@ -38,12 +38,12 @@
         {
             "chapter": 16,
             "verse": 127,
-            "text": "Ni yingdang rongren--ni de rongren zhi lai zhenzhu de youzhu--ni buyao wei tamen er beishang, buyao wei tamen de jimou er fannao."
+            "text": "Ni yingdang rongren——ni de rongren zhi lai zhenzhu de youzhu——ni buyao wei tamen er beishang, buyao wei tamen de jimou er fannao."
         },
         {
             "chapter": 16,
             "verse": 128,
-            "text": "Zhen zhu que shi tong jingwei zhe he xingshan zhe zai yiqi de."
+            "text": "Zhenzhu que shi tong jingwei zhe he xingshan zhe zai yiqi de."
         }
     ]
 }

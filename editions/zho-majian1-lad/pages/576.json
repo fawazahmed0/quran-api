@@ -33,12 +33,12 @@
         {
             "chapter": 74,
             "verse": 24,
-            "text": "érqiě shuō: Zhè zhǐshì chuánxí de móshù,"
+            "text": "érqiě shuō:`Zhè zhǐshì chuánxí de móshù,"
         },
         {
             "chapter": 74,
             "verse": 25,
-            "text": "zhè zhǐshì fánrén de yáncí."
+            "text": "zhè zhǐshì fánrén de yáncí.'"
         },
         {
             "chapter": 74,
@@ -48,7 +48,7 @@
         {
             "chapter": 74,
             "verse": 27,
-            "text": "Nǐ zěn néng zhīdào huǒ yù shì shénme?"
+            "text": "nǐ zěn néng zhīdào huǒ yù shì shénme?"
         },
         {
             "chapter": 74,
@@ -68,7 +68,7 @@
         {
             "chapter": 74,
             "verse": 31,
-            "text": "Wǒ zhǐ jiāng guǎnlǐ huǒ yù de chéng tiānshén, wǒ zhǐ yǐ tāmen de shùmù, kǎoyàn bùxìndào de rénmen, yǐbiàn céng shòu tiān jīng de rénmen rèn qīng, ér xìndào de rénmen gèngjiā dǔxìn; yǐmiǎn céng shòu tiān jīng de rénmen hé xìndào de rénmen huáiyí; yǐbiàn xīnzhōng yǒu bìng zhě hé bù xìndào zhě shuō: Zhēnzhǔ shè zhège pìyù zuò shénme? Zhēnzhǔ zhèyàng shǐ tāsuǒ yìyù de rén wù rù mítú, shǐ tāsuǒ yìyù de rén zūnxún zhènglù. Zhǐyǒu nǐ de zhǔ, néng zhīdào tā de jūnduì, zhè zhǐshì rénlèi de jiàoxùn."
+            "text": "Wǒ zhǐ jiāng guǎnlǐ huǒ yù de chéng tiānshén, wǒ zhǐ yǐ tāmen de shùmù, kǎoyàn bù xìndào de rénmen, yǐbiàn céng shòu tiān jīng de rénmen rèn qīng, ér xìndào de rénmen gèngjiā dǔxìn; yǐmiǎn céng shòu tiān jīng de rénmen hé xìndào de rénmen huáiyí; yǐbiàn xīnzhōng yǒu bìng zhě hé bù xìndào zhě shuō:`Zhēnzhǔ shè zhège pìyù zuò shénme?'Zhēn zhǔ zhèyàng shǐ tāsuǒ yìyù de rén wù rù mítú, shǐ tāsuǒ yìyù de rén zūnxún zhènglù. Zhǐyǒu nǐ de zhǔ, néng zhīdào tā de jūnduì, zhè zhǐshì rénlèi de jiàoxùn."
         },
         {
             "chapter": 74,
@@ -78,7 +78,7 @@
         {
             "chapter": 74,
             "verse": 33,
-            "text": "yǐ shìqù de hēiyè méngshì,"
+            "text": "Yǐ shìqù de hēiyè méngshì,"
         },
         {
             "chapter": 74,
@@ -88,7 +88,7 @@
         {
             "chapter": 74,
             "verse": 35,
-            "text": "huǒ yù què shì yīgè dà nàn,"
+            "text": "huǒ yù què shì yīgè dànàn,"
         },
         {
             "chapter": 74,
@@ -123,12 +123,12 @@
         {
             "chapter": 74,
             "verse": 42,
-            "text": "nǐmen wèishéme duò rù huǒ yù ne?"
+            "text": "`nǐmen wèishéme duò rù huǒ yù ne?'"
         },
         {
             "chapter": 74,
             "verse": 43,
-            "text": "Tāmen shuō: Wǒmen méiyǒu lǐbài,"
+            "text": "Tāmen shuō:`Wǒmen méiyǒu lǐbài,"
         },
         {
             "chapter": 74,
@@ -148,7 +148,7 @@
         {
             "chapter": 74,
             "verse": 47,
-            "text": "yīzhí dào sǐwáng jiànglínliǎo wǒmen."
+            "text": "yīzhí dào sǐwáng jiànglínliǎo wǒmen.'"
         }
     ]
 }

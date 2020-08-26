@@ -63,7 +63,7 @@
         {
             "chapter": 91,
             "verse": 13,
-            "text": "shizhe jiu dui tamen shuo: Nimen rang zhenzhu de mu tuo ziyou yinshui ba."
+            "text": "shizhe jiu dui tamen shuo:`Nimen rang zhenzhu de mu tuo ziyou yinshui ba.'"
         },
         {
             "chapter": 91,
@@ -128,7 +128,7 @@
         {
             "chapter": 92,
             "verse": 11,
-            "text": "Dang ta lunwang de shihou, ta de caichan yu ta you she mo biyi ne!"
+            "text": "Dang ta lunwang de shihou, ta de caichan yu ta you she me biyi ne!"
         },
         {
             "chapter": 92,
@@ -143,7 +143,7 @@
         {
             "chapter": 92,
             "verse": 14,
-            "text": "Guwo jinggao nimen yi zhong fa yan de huo,"
+            "text": "Guwo jinggao nimen yizhong fa yan de huo,"
         }
     ]
 }

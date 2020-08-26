@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 100,
             "verse": 9,
@@ -18,17 +18,17 @@
         {
             "chapter": 101,
             "verse": 1,
-            "text": "Dà nàn"
+            "text": "Dànàn"
         },
         {
             "chapter": 101,
             "verse": 2,
-            "text": "dà nàn shì shénme?"
+            "text": "dànàn shì shénme?"
         },
         {
             "chapter": 101,
             "verse": 3,
-            "text": "Nǐ zěn néng zhīdào dà nàn shì shénme?"
+            "text": "Nǐ zěn néng zhīdào dànàn shì shénme?"
         },
         {
             "chapter": 101,
@@ -38,7 +38,7 @@
         {
             "chapter": 101,
             "verse": 5,
-            "text": "shānyuè jiāng shì shūsōng de cǎi róng."
+            "text": "shānyuè jiāng shì shūsōng de biàn róng."
         },
         {
             "chapter": 101,
@@ -63,7 +63,7 @@
         {
             "chapter": 101,
             "verse": 10,
-            "text": "Nǐ zěn néng zhīdào shēn kēng li yǒu shé me?"
+            "text": "Nǐ zěn néng zhīdào shēn kēng lǐ yǒu shé me?"
         },
         {
             "chapter": 101,
@@ -138,7 +138,7 @@
         {
             "chapter": 104,
             "verse": 3,
-            "text": "tā yǐwéi tā de cáichǎn, néng shǐ tā bù miè."
+            "text": "tā yǐwéi tā de cáichǎn, néng shǐ tā bùmiè."
         },
         {
             "chapter": 104,
@@ -148,7 +148,7 @@
         {
             "chapter": 104,
             "verse": 5,
-            "text": "Nǐ zěn néng zhīdào huǐmiè kēng shì shénmó?"
+            "text": "Nǐ zěn néng zhīdào huǐmiè kēng shì shénme?"
         },
         {
             "chapter": 104,
@@ -178,7 +178,7 @@
         {
             "chapter": 105,
             "verse": 2,
-            "text": "Nándào tā méiyǒu shǐ tāmen de jìmóu, biàn chéng wúyì de ma?"
+            "text": "Nándào tā méiyǒu shǐ tāmen de jìmóu, biànchéng wúyì de ma?"
         },
         {
             "chapter": 105,
@@ -193,7 +193,7 @@
         {
             "chapter": 105,
             "verse": 5,
-            "text": "shǐ tāmen biàn chéng chī shèng de gāncǎo yīyàng."
+            "text": "shǐ tāmen biànchéng chī shèng de gāncǎo yīyàng."
         },
         {
             "chapter": 106,
@@ -263,12 +263,12 @@
         {
             "chapter": 108,
             "verse": 3,
-            "text": "Yuànhèn nǐ zhě, què shì juéhòu de."
+            "text": "Yuànhèn nǐ zhě, què shì jué hòu de."
         },
         {
             "chapter": 109,
             "verse": 1,
-            "text": "Nǐ shuō: Bù xìndào de rénmen a!"
+            "text": "Nǐ shuō:\"Bù xìndào de rénmen a!"
         },
         {
             "chapter": 109,
@@ -398,7 +398,7 @@
         {
             "chapter": 114,
             "verse": 4,
-            "text": "miǎn zāo qiánfú de jiàosuō zhě de dúhài"
+            "text": "Miǎn zāo qiánfú de jiàosuō zhě de dúhài"
         },
         {
             "chapter": 114,

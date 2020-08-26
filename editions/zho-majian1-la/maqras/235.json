@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 82,
             "verse": 1,
@@ -133,7 +133,7 @@
         {
             "chapter": 83,
             "verse": 8,
-            "text": "Ni zen neng zhidao e xing bu shi shenmo?"
+            "text": "Ni zen neng zhidao e xing bu shi shenme?"
         },
         {
             "chapter": 83,
@@ -143,7 +143,7 @@
         {
             "chapter": 83,
             "verse": 10,
-            "text": "Zai na ri, shang zai fouren de renmen"
+            "text": "Zai na ri, shang zai fouren de renmen——"
         },
         {
             "chapter": 83,
@@ -158,7 +158,7 @@
         {
             "chapter": 83,
             "verse": 13,
-            "text": "Dang bieren dui ta xuandu wo de jixiang de shihou, ta shuo: Zhe shi guren de gushi."
+            "text": "Dang bieren dui ta xuandu wo de jixiang de shihou, ta shuo:`Zhe shi guren de gushi.'"
         },
         {
             "chapter": 83,
@@ -178,7 +178,7 @@
         {
             "chapter": 83,
             "verse": 17,
-            "text": "Ranhou, huozhe jiang dui tamen shuo: Zhe jiushi nimen suo fouren de."
+            "text": "Ranhou, huozhe jiang dui tamen shuo:`Zhe jiushi nimen suo fouren de.'"
         },
         {
             "chapter": 83,
@@ -188,7 +188,7 @@
         {
             "chapter": 83,
             "verse": 19,
-            "text": "Ni zen neng zhidao shanxing bu shi shenmo?"
+            "text": "Ni zen neng zhidao shanxing bu shi shenme?"
         },
         {
             "chapter": 83,
@@ -198,7 +198,7 @@
         {
             "chapter": 83,
             "verse": 21,
-            "text": "zhenzhu suo qinjin de tian shenmen jiang zuozheng ta."
+            "text": "zhenzhu suo qinjin de tian shenmen jiang zuo zheng ta."
         },
         {
             "chapter": 83,
@@ -253,7 +253,7 @@
         {
             "chapter": 83,
             "verse": 32,
-            "text": "dang tamen yujian xinshimen de shihou, tamen shuo: Zhe deng ren que shi mi wu de."
+            "text": "dang tamen yujian xinshimen de shihou, tamen shuo:`Zhe deng ren que shi mi wu de.'"
         },
         {
             "chapter": 83,
@@ -273,7 +273,7 @@
         {
             "chapter": 83,
             "verse": 36,
-            "text": "bu xindao de renmen yi huode tamen de xingwei de baochoule ma?"
+            "text": "`bu xindao de renmen yi huode tamen de xingwei de baochoule ma?'"
         }
     ]
 }

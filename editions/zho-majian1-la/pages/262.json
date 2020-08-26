@@ -3,7 +3,7 @@
         {
             "chapter": 15,
             "verse": 1,
-            "text": "Ai lie fu, lia mu, la yi. Zhexie shi tian jing--mingbai de “gulanjing” de jie wen."
+            "text": "Ai lie fu, lia mu, la yi. Zhexie shi tian jing——mingbai de “gulanjing” de jie wen."
         },
         {
             "chapter": 15,
@@ -28,12 +28,12 @@
         {
             "chapter": 15,
             "verse": 6,
-            "text": "Tamen shuo: Shouxiang shi jiaohui de ren a! Ni que shi yige fengzi."
+            "text": "Tamen shuo:`Shouxiang shi jiaohui de ren a! Ni que shi yige fengzi."
         },
         {
             "chapter": 15,
             "verse": 7,
-            "text": "Ni zen bu zhaoshi women yixie tianshen ne? Ruguo ni shi shuo shihua de."
+            "text": "Ni zen bu zhaoshi women yixie tianshen ne? Ruguo ni shi shuo shihua de.'"
         },
         {
             "chapter": 15,
@@ -73,7 +73,7 @@
         {
             "chapter": 15,
             "verse": 15,
-            "text": "tamen biding shuo: Women de yanjing shou mengbile, buran, women shi zhongle moshu de minzhong."
+            "text": "tamen biding shuo:`Women de yanjing shou mengbile, buran, women shi zhongle moshu de minzhong.'"
         }
     ]
 }

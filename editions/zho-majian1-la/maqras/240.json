@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 100,
             "verse": 9,
@@ -18,17 +18,17 @@
         {
             "chapter": 101,
             "verse": 1,
-            "text": "Da nan"
+            "text": "Danan"
         },
         {
             "chapter": 101,
             "verse": 2,
-            "text": "da nan shi shenme?"
+            "text": "danan shi shenme?"
         },
         {
             "chapter": 101,
             "verse": 3,
-            "text": "Ni zen neng zhidao da nan shi shenme?"
+            "text": "Ni zen neng zhidao danan shi shenme?"
         },
         {
             "chapter": 101,
@@ -38,7 +38,7 @@
         {
             "chapter": 101,
             "verse": 5,
-            "text": "shanyue jiang shi shusong de cai rong."
+            "text": "shanyue jiang shi shusong de bian rong."
         },
         {
             "chapter": 101,
@@ -138,7 +138,7 @@
         {
             "chapter": 104,
             "verse": 3,
-            "text": "ta yiwei ta de caichan, neng shi ta bu mie."
+            "text": "ta yiwei ta de caichan, neng shi ta bumie."
         },
         {
             "chapter": 104,
@@ -148,7 +148,7 @@
         {
             "chapter": 104,
             "verse": 5,
-            "text": "Ni zen neng zhidao huimie keng shi shenmo?"
+            "text": "Ni zen neng zhidao huimie keng shi shenme?"
         },
         {
             "chapter": 104,
@@ -178,7 +178,7 @@
         {
             "chapter": 105,
             "verse": 2,
-            "text": "Nandao ta meiyou shi tamen de jimou, bian cheng wuyi de ma?"
+            "text": "Nandao ta meiyou shi tamen de jimou, biancheng wuyi de ma?"
         },
         {
             "chapter": 105,
@@ -193,7 +193,7 @@
         {
             "chapter": 105,
             "verse": 5,
-            "text": "shi tamen bian cheng chi sheng de gancao yiyang."
+            "text": "shi tamen biancheng chi sheng de gancao yiyang."
         },
         {
             "chapter": 106,
@@ -263,12 +263,12 @@
         {
             "chapter": 108,
             "verse": 3,
-            "text": "Yuanhen ni zhe, que shi juehou de."
+            "text": "Yuanhen ni zhe, que shi jue hou de."
         },
         {
             "chapter": 109,
             "verse": 1,
-            "text": "Ni shuo: Bu xindao de renmen a!"
+            "text": "Ni shuo:\"Bu xindao de renmen a!"
         },
         {
             "chapter": 109,
@@ -398,7 +398,7 @@
         {
             "chapter": 114,
             "verse": 4,
-            "text": "mian zao qianfu de jiaosuo zhe de duhai"
+            "text": "Mian zao qianfu de jiaosuo zhe de duhai"
         },
         {
             "chapter": 114,

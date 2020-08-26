@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 1,
             "verse": 1,
@@ -8,7 +8,7 @@
         {
             "chapter": 1,
             "verse": 2,
-            "text": "yīqiè zànsòng quán guīzhēnzhǔ, zhòng shìjiè de zhǔ,"
+            "text": "yīqiè zànsòng, quán guīzhēnzhǔ, quán shìjiè de zhǔ,"
         },
         {
             "chapter": 1,
@@ -18,17 +18,17 @@
         {
             "chapter": 1,
             "verse": 4,
-            "text": "bàoyìng rì de zhǔ,"
+            "text": "bàoyìng rì de zhǔ."
         },
         {
             "chapter": 1,
             "verse": 5,
-            "text": "wǒmen zhǐ chóngbài nǐ, zhǐ qiú nǐ yòuzhù"
+            "text": "Wǒmen zhǐ chóngbài nǐ, zhǐ qiú nǐ yòuzhù,"
         },
         {
             "chapter": 1,
             "verse": 6,
-            "text": "qiú nǐ yǐnlǐng wǒmen zhènglù,"
+            "text": "qiú nǐ yǐndǎo wǒmen shàng zhènglù,"
         },
         {
             "chapter": 1,
@@ -73,7 +73,7 @@
         {
             "chapter": 2,
             "verse": 8,
-            "text": "Yǒuxiē rén shuō: Wǒmen yǐ xìn zhēnzhǔ hé mòrìle. Qíshí, tāmen jué bùshì xìnshì."
+            "text": "Yǒuxiē rén shuō:`Wǒmen yǐ xìn zhēnzhǔ hé mòrìle.'Qíshí, tāmen jué bùshì xìnshì."
         },
         {
             "chapter": 2,
@@ -83,12 +83,12 @@
         {
             "chapter": 2,
             "verse": 10,
-            "text": "Tāmen de xīn li yǒu bìng, gù zhēnzhǔ zēngjiā tāmen de xīnbìng; tāmen jiāng wéi shuōhuǎng ér zāoshòu zhòngdà de xíngfá."
+            "text": "Tāmen de xīnlǐ yǒu bìng, gù zhēnzhǔ zēngjiā tāmen de xīnbìng; tāmen jiāng wéi shuōhuǎng ér zāoshòu zhòngdà de xíngfá."
         },
         {
             "chapter": 2,
             "verse": 11,
-            "text": "Yǒurén duì tāmen shuō: Nǐmen bùyào zài dìfāng shàng zuò'è. Tāmen jiù shuō: Wǒmen zhǐshì tiáojiě de rén."
+            "text": "Yǒurén duì tāmen shuō:`Nǐmen bùyào zài dìfāng shàng zuò'è.'Tāmen jiù shuō:`Wǒmen zhǐshì tiáojiě de rén.'"
         },
         {
             "chapter": 2,
@@ -98,12 +98,12 @@
         {
             "chapter": 2,
             "verse": 13,
-            "text": "Yǒurén duì tāmen shuō: Nǐmen yīngdāng xiàng zhòngrén nàyàng xìndào. Tāmen jiù shuō: Wǒmen néng xiàng yúrén nàyàng qīngxìn ma? Zhēn de, tāmen què shì yúrén, dàn tāmen bù zhīdào."
+            "text": "Yǒurén duì tāmen shuō:`Nǐmen yīngdāng xiàng zhòngrén nàyàng xìndào.'Tāmen jiù shuō:`Wǒmen néng xiàng yúrén nàyàng qīngxìn ma?'Zhēn de, tāmen què shì yúrén, dàn tāmen bù zhīdào."
         },
         {
             "chapter": 2,
             "verse": 14,
-            "text": "Tāmen yùjiàn xìnshìmen jiù shuō: Wǒmen yǐ xìndàole. Tāmen huíqù jiànle zìjǐ de èmó, jiù shuō: Wǒmen què shì nǐmen de tóng dǎng, wǒmen bùguò shì yúnòng tāmen bàle."
+            "text": "Tāmen yùjiàn xìnshìmen jiù shuō:`Wǒmen yǐ xìndàole.'Tāmen huíqù jiànle zìjǐ de èmó, jiù shuō:`Wǒmen què shì nǐmen de tóng dǎng, wǒmen bùguò shì yúnòng tāmen bàle.'"
         },
         {
             "chapter": 2,
@@ -118,7 +118,7 @@
         {
             "chapter": 2,
             "verse": 17,
-            "text": "Tāmen pìrú rán huǒ de rén, dāng huǒguāng zhào liàngle tāmen de sìzhōu de shíhòu, zhēnzhǔ bǎ tāmen de huǒguāng ná qù, ràng tāmen zài chóngchóng de hēi'àn zhōng, shénmó yě kàn bùjiàn."
+            "text": "Tāmen pìrú rán huǒ de rén, dāng huǒguāng zhào liàngle tāmen de sìzhōu de shíhòu, zhēnzhǔ bǎ tāmen de huǒguāng ná qù, ràng tāmen zài chóngchóng de hēi'àn zhōng, shénme yě kàn bùjiàn."
         },
         {
             "chapter": 2,
@@ -128,12 +128,12 @@
         {
             "chapter": 2,
             "verse": 19,
-            "text": "Huòzhě rú zāoyù qīngpén dàyǔ zhě, yǔ li yǒu chóngchóng hēi'àn, yòu yǒu léi hé diàn, tāmen kǒngpà zhèn sǐ, gù yòng shǒuzhǐ sāi zhù ěrduǒ, yǐ bì jí léi. Zhēnzhǔ shì zhōuzhī bù xìndào de rénmen de."
+            "text": "Huòzhě rú zāoyù qīngpén dàyǔ zhě, yǔ lǐ yǒu chóngchóng hēi'àn, yòu yǒu léi hé diàn, tāmen kǒngpà zhèn sǐ, gù yòng shǒuzhǐ sāi zhù ěrduǒ, yǐ bì jí léi. Zhēnzhǔ shì zhōuzhī bù xìndào de rénmen de."
         },
         {
             "chapter": 2,
             "verse": 20,
-            "text": "Diànguāng jīhū duóle tāmen de shìjué, měi féng diànguāng wèi tāmen ér zhàoyào de shíhòu, tāmen zài diànguāng zhōng qiánjìn; hēi'àn de shíhòu, tāmen jiù zhànzhù. Jiǎrú zhēnzhǔ yìyù, tā bì chǐduó tāmen de tīngjué hé shìjué. Zhēnzhǔ duì yú wànshì què shì quánnéng de."
+            "text": "Diànguāng jīhū duóle tāmen de shìjué, měi féng diànguāng wèi tāmen ér zhàoyào de shíhòu, tāmen zài diànguāng zhōng qiánjìn; hēi'àn de shíhòu, tāmen jiù zhànzhù. Jiǎrú zhēnzhǔ yìyù, tā bì chǐduó tāmen de tīngjué hé shìjué. Zhēnzhǔ duìyú wànshì què shì quánnéng de."
         },
         {
             "chapter": 2,
@@ -148,7 +148,7 @@
         {
             "chapter": 2,
             "verse": 23,
-            "text": "Rúguǒ nǐmen huáiyí wǒ suǒ jiàng shì gěi wǒ de púrén de jīngdiǎn, nàmò, nǐmen shì nǐzuò yī zhāng, bìng shě zhēnzhǔ ér qídǎo nǐmen de jiànzhèng, rúguǒ nǐmen shì chéngshí de."
+            "text": "Rúguǒ nǐmen huáiyí wǒ suǒ jiàng shì gěi wǒ de pú rén de jīngdiǎn, nàmò, nǐmen shì nǐzuò yī zhāng, bìng shě zhēnzhǔ ér qídǎo nǐmen de jiànzhèng, rúguǒ nǐmen shì chéngshí de."
         },
         {
             "chapter": 2,
@@ -158,7 +158,7 @@
         {
             "chapter": 2,
             "verse": 25,
-            "text": "Nǐ dāng xiàng xìndào ér xíngshàn de rén bàoxǐ; tāmen jiāng xiǎngyǒu xǔduō xià lín zhū hé de lèyuán, měi dāng tāmen déyǐ yuán lǐ de yī zhǒng shuǐguǒ wèi jǐyǎng de shíhòu, tāmen dōu shuō: Zhè shì wǒmen yǐqián suǒ shòu cì de. Qíshí, tāmen suǒ shòu cì de shì lèisì de. Tāmen zài lèyuán lǐ jiāng xiǎngyǒu chúnjié de pèi'ǒu, tāmen jiāng yǒng jū qízhōng."
+            "text": "Nǐ dāng xiàng xìndào ér xíngshàn de rén bàoxǐ; tāmen jiāng xiǎngyǒu xǔduō xià lín zhū hé de lèyuán, měi dāng tāmen déyǐ yuán lǐ de yīzhǒng shuǐguǒ wèi jǐyǎng de shíhòu, tāmen dōu shuō:`Zhè shì wǒmen yǐqián suǒ shòu cì de.'Qíshí, tāmen suǒ shòu cì de shì lèisì de. Tāmen zài lèyuán lǐ jiāng xiǎngyǒu chúnjié de pèi'ǒu, tāmen jiāng yǒng jū qízhōng."
         }
     ]
 }

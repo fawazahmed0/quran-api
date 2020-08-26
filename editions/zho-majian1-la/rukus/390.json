@@ -13,7 +13,7 @@
         {
             "chapter": 37,
             "verse": 141,
-            "text": "Ta jiu nianjiu, ta que shi shibai de,"
+            "text": "Ta jiu nian [men gui], ta que shi shibai de,"
         },
         {
             "chapter": 37,
@@ -23,7 +23,7 @@
         {
             "chapter": 37,
             "verse": 143,
-            "text": "Jiaruo bushi chang zansong zhenzhu zhe,"
+            "text": "Jiaruo ta bushi chang zansong zhenzhu zhe,"
         },
         {
             "chapter": 37,
@@ -68,7 +68,7 @@
         {
             "chapter": 37,
             "verse": 152,
-            "text": "Zhenzhu yi shengyule. Tamen que shi shuohuang zhe."
+            "text": "`Zhenzhu yi shengyule.'Tamen que shi shuohuang zhe."
         },
         {
             "chapter": 37,
@@ -78,7 +78,7 @@
         {
             "chapter": 37,
             "verse": 154,
-            "text": "Nimen you she me liyou? Nimen zenme zheyang panduan ne?"
+            "text": "Nimen you shenme liyou? Nimen zenme zheyang panduan ne?"
         },
         {
             "chapter": 37,
@@ -93,7 +93,7 @@
         {
             "chapter": 37,
             "verse": 157,
-            "text": "Na chu nimen de jingdian lai ba, tangruo nimen shi chengshi de!"
+            "text": "Na chu nimen de jingdian lai ba, tangruo nimen shi chengshi de ren!"
         },
         {
             "chapter": 37,
@@ -103,12 +103,12 @@
         {
             "chapter": 37,
             "verse": 159,
-            "text": "chaojue zai zhenzhu! Ta shi chao hu tamen de xushu de,"
+            "text": "——chaojue zai zhenzhu! Ta shi chao hu tamen de xushu de"
         },
         {
             "chapter": 37,
             "verse": 160,
-            "text": "wei zhenzhu de chunjie de zhong pu, bu bei jujin."
+            "text": "——wei zhenzhu de chunjie de zhong pu, bu bei jujin."
         },
         {
             "chapter": 37,
@@ -128,7 +128,7 @@
         {
             "chapter": 37,
             "verse": 164,
-            "text": "(Zhong tianshen shuo): Women ren ren dou you yige zhiding di diwei,"
+            "text": "(Zhong tianshen shuo):`Women ren ren dou you yige zhiding di diwei,"
         },
         {
             "chapter": 37,
@@ -138,7 +138,7 @@
         {
             "chapter": 37,
             "verse": 166,
-            "text": "women biding shi zansong zhenzhu de."
+            "text": "women biding shi zansong zhenzhu de.'"
         },
         {
             "chapter": 37,
@@ -148,12 +148,12 @@
         {
             "chapter": 37,
             "verse": 168,
-            "text": "Jiaruo women you guren suo yiliu de jiaohui,"
+            "text": "`Jiaruo women you guren suo yiliu de jiaohui,"
         },
         {
             "chapter": 37,
             "verse": 169,
-            "text": "namo, women bi shi zhenzhu de chunjie de puren."
+            "text": "namo, women bi shi zhenzhu de chunjie de pu ren.'"
         },
         {
             "chapter": 37,
@@ -163,7 +163,7 @@
         {
             "chapter": 37,
             "verse": 171,
-            "text": "Wo dui wo suo paiqian de pu renmen yi you yue zai xianle,"
+            "text": "Wo dui wo suo paiqian de pu renmen yi you yue yan zai xianle,"
         },
         {
             "chapter": 37,
@@ -208,7 +208,7 @@
         {
             "chapter": 37,
             "verse": 180,
-            "text": "Chaojue zai ni de zhu--zun rong de zhuzai! Ta shi chao hu tamen de xushu de."
+            "text": "Chaojue zai ni de zhu——zun rong de zhuzai! Ta shi chao hu tamen de xushu de."
         },
         {
             "chapter": 37,
@@ -218,7 +218,7 @@
         {
             "chapter": 37,
             "verse": 182,
-            "text": "Yiqie zansong, quan guizhen zhu--quan shijie de zhu!"
+            "text": "Yiqie zansong, quan guizhenzhu——quan shijie de zhu!"
         }
     ]
 }

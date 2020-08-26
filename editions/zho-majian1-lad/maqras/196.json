@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 42,
             "verse": 51,
@@ -8,12 +8,12 @@
         {
             "chapter": 42,
             "verse": 52,
-            "text": "Wǒ zhèyàng qǐshì nǐ cóng wǒ de mìnglìng zhōng fāchū de jīngshén. Nǐ běnlái bu zhīdào tiān jīng shì shénme, zhèngxìn shì shénme; dàn wǒ yǐ tiān jīng wèi guāngmíng, ér jiè cǐ guāngmíng yǐndǎo wǒ suǒ yù yǐndǎo de púrén. Nǐ què shì zhǐshì zhènglù zhě."
+            "text": "Wǒ zhèyàng qǐshì nǐ cóng wǒ de mìnglìng zhōng fāchū de jīngshén. Nǐ běnlái bu zhīdào tiān jīng shì shénme, zhèngxìn shì shénme; dàn wǒ yǐ tiān jīng wèi guāngmíng, ér jiè cǐ guāngmíng yǐndǎo wǒ suǒ yù yǐndǎo de pú rén. Nǐ què shì zhǐshì zhènglù zhě."
         },
         {
             "chapter": 42,
             "verse": 53,
-            "text": "Nà shì zhēnzhǔ de lù. Tiāndì wànwù, dōu shì tā de. Zhēn de, wànshì zhǐ guīzhēn zhǔ."
+            "text": "Nà shì zhēnzhǔ de lù. Tiāndì wànwù, dōu shì tā de. Zhēn de, wànshì zhǐ guīzhēnzhǔ."
         },
         {
             "chapter": 43,
@@ -38,7 +38,7 @@
         {
             "chapter": 43,
             "verse": 5,
-            "text": "Nándào yīnwèi nǐmen shì guòfèn de mínzhòng, wǒ jiù shǐ nǐmen bùdé shòu jiàoxùn ma?"
+            "text": "Nándào yīnwèi nǐmen shìguò fèn de mínzhòng, wǒ jiù shǐ nǐmen bùdé shòu jiàoxùn ma?"
         },
         {
             "chapter": 43,
@@ -53,17 +53,17 @@
         {
             "chapter": 43,
             "verse": 8,
-            "text": "Wǒ céng huǐmièle bǐ nǐ de zōngzú gèng qiánghèng zhě, xiān mín de shílì mín shìqùle."
+            "text": "Wǒ céng huǐmièle bǐ nǐ de zōngzú gèng qiánghèng zhě, xiān mín de shílì yǐ shìqùle."
         },
         {
             "chapter": 43,
             "verse": 9,
-            "text": "Rúguǒ nǐ wèn tāmen: Shéi chuàngzàole tiāndì? Tāmen bìdìng shuō: Wànnéng de, quánzhī de zhǔ chuàngzàole tiāndì."
+            "text": "Rúguǒ nǐ wèn tāmen:`Shuí chuàngzàole tiāndì?'Tāmen bìdìng shuō:`Wànnéng de, quánzhī de zhǔ chuàngzàole tiāndì.'"
         },
         {
             "chapter": 43,
             "verse": 10,
-            "text": "Tā yǐ dà dì wèi nǐmen de ānxí zhī suǒ, tā wèi nǐmen zài dà dìshàng kāipì xǔduō dàolù, yǐbiàn nǐmen dádào lǚxíng de mùdì de."
+            "text": "Tā yǐ dàdì wèi nǐmen de ānxí zhī suǒ, tā wèi nǐmen zài dà dìshàng kāipì xǔduō dàolù, yǐbiàn nǐmen dádào lǚxíng de mùdì de."
         },
         {
             "chapter": 43,
@@ -78,17 +78,17 @@
         {
             "chapter": 43,
             "verse": 13,
-            "text": "yǐbiàn nǐmen duān zuò zài shàngmiàn. Ránhòu, zài duān zuò de shíhòu, xiǎngzhe nǐmen zhǔ de ēndiǎn, bìngqiě shuō: Zànsòng zhēn zhǔ, chāojué wànwù! Tā wèi wǒmen zhìfú cǐ wù, wǒmen duìyú tā běn shì wúnéng de."
+            "text": "yǐbiàn nǐmen duān zuò zài shàngmiàn. Ránhòu, zài duān zuò de shíhòu, xiǎngzhe nǐmen zhǔ de ēndiǎn, bìngqiě shuō:`Zànsòng zhēnzhǔ, chāojué wànwù! Tā wèi wǒmen zhìfú cǐ wù, wǒmen duìyú tā běn shì wúnéng de."
         },
         {
             "chapter": 43,
             "verse": 14,
-            "text": "Wǒmen bìdìng guīyú wǒmen de zhǔ."
+            "text": "Wǒmen bìdìng guīyú wǒmen de zhǔ.'"
         },
         {
             "chapter": 43,
             "verse": 15,
-            "text": "Tāmen bǎ tā de yībùfèn púrén, dàng zuò tā de fēnzǐ; rén què shì míngxiǎn de gū ēn zhě."
+            "text": "Tāmen bǎ tā de yī bù fèn pú rén, dàng zuò tā de érzi; rén què shì míngxiǎn de gū ēn zhě."
         },
         {
             "chapter": 43,
@@ -98,22 +98,22 @@
         {
             "chapter": 43,
             "verse": 17,
-            "text": "Tāmen wàngyán zhìrén zhǔ yǒu nǚ'ér, dàn tāmen zhōng de yīgè rén tīng shuō zìjǐ de qī zǐ shēng nǚ'ér de shíhòu, tā de liǎnsè biàn chéng àndàn de, érqiě tā shì ǎo nù de."
+            "text": "Tāmen wàngyán zhìrén zhǔ yǒu nǚ'ér, dàn tāmen zhōng de yīgèrén tīng shuō zìjǐ de qī zǐ shēng nǚ'ér de shíhòu, tā de liǎnsè biànchéng àndàn de, érqiě tā shì ǎo nù de."
         },
         {
             "chapter": 43,
             "verse": 18,
-            "text": "Zài shǒushì zhōng cháng dà, qiě bùnéng xióngbiàn zhě, nándào tāmen yǐ tā guīzhēnzhǔ ma?"
+            "text": "Zài shǒushì zhōng cháng dà, qiě bùnéng xióngbiàn zhě, nándào tāmen yǐ tā guīzhēn zhǔ ma?"
         },
         {
             "chapter": 43,
             "verse": 19,
-            "text": "Zhòng tiānshén běn shì zhēnzhǔ de núpú, tāmen què yǐ zhòng tiānshén wèi nǚxìng. Tāmen céng jiànzhèng zhēn zhǔ chuàngzào zhòng tiānshén ma? Tāmen de jiànzhèng jiāng bèi jìlù xiàlái, tāmen yě jiāng bèi shěnwèn."
+            "text": "Zhòng tiānshén běn shì zhēn zhǔ de núpú, tāmen què yǐ zhòng tiānshén wèi nǚxìng. Tāmen céng jiànzhèng zhēn zhǔ chuàngzào zhòng tiānshén ma? Tāmen de jiànzhèng jiāng bèi jìlù xiàlái, tāmen yě jiāng bèi shěnwèn."
         },
         {
             "chapter": 43,
             "verse": 20,
-            "text": "Tāmen shuō: Jiǎruò zhìrén zhǔ yìyù, wǒmen shì bù huì chóngbài tāmen de. Tāmen duìyú cǐ shuō, háo wú rènshí; nǐmen zhǐshì zài shuōhuǎng huà."
+            "text": "Tāmen shuō:`Jiǎruò zhìrén zhǔ yìyù, wǒmen shì bù huì chóngbài tāmen de.'Tāmen duìyú cǐ shuō, háo wú rènshí; tāmen zhǐshì zài shuōhuǎng huà."
         },
         {
             "chapter": 43,
@@ -123,12 +123,12 @@
         {
             "chapter": 43,
             "verse": 22,
-            "text": "Bùrán, tāmen shuō: Wǒmen què yǐ fāxiàn wǒmen de zǔxiān shi xìnfèng yī zhǒng zōngjiào de, wǒmen què shì zūnxún tāmen de yíjī ér dé zhèngdào de."
+            "text": "Bùrán, tāmen shuō:`Wǒmen què yǐ fāxiàn wǒmen de zǔxiān shi xìnfèng yīzhǒng zōngjiào de, wǒmen què shì zūnxún tāmen de yíjī ér dé zhèngdào de.'"
         },
         {
             "chapter": 43,
             "verse": 23,
-            "text": "Zài nǐ zhīqián, měi féng wǒ zhèyàng pàiqiǎn jǐnggào zhě dào yīgè chéngshì qù, nàlǐ de háohuá zhě zǒng shì shuō: Wǒmen què yǐ fāxiàn wǒmen de zǔxiān shi xìnfèng yī zhǒng zōngjiào de, wǒmen què shì zūnxún tāmen de yíjī de."
+            "text": "Zài nǐ zhīqián, měi féng wǒ zhèyàng pàiqiǎn jǐnggào zhě dào yīgè chéngshì qù, nàlǐ de háohuá zhě zǒng shì shuō:`Wǒmen què yǐ fāxiàn wǒmen de zǔxiān shi xìnfèng yīzhǒng zōngjiào de, wǒmen què shì zūnxún tāmen de yíjī de.'"
         }
     ]
 }

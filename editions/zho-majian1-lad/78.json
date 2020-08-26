@@ -58,7 +58,7 @@
         {
             "chapter": 78,
             "verse": 12,
-            "text": "wǒ céng zài nǐmen shàngmiàn jiànzàole 7 céng jiāngù de tiān,"
+            "text": "wǒ céng zài nǐmen shàngmiàn jiànzàole qī céng jiāngù de tiān,"
         },
         {
             "chapter": 78,
@@ -98,7 +98,7 @@
         {
             "chapter": 78,
             "verse": 20,
-            "text": "shānluán jiāng bèi yídòng, ér biàn chéng huànyǐng;"
+            "text": "shānluán jiāng bèi yídòng, ér biànchéng huànyǐng;"
         },
         {
             "chapter": 78,
@@ -123,7 +123,7 @@
         {
             "chapter": 78,
             "verse": 25,
-            "text": "zhǐ yǐn fèishuǐ hé nóng zhī."
+            "text": "zhǐ yǐn fèishuǐ hé nóngzhī."
         },
         {
             "chapter": 78,
@@ -148,17 +148,17 @@
         {
             "chapter": 78,
             "verse": 30,
-            "text": "(Jiāng duì tāmen shuō:) Nǐmen chángshì ba! Wǒ zhǐ zēngjiā nǐmen suǒ shòu de xíngfá."
+            "text": "(Jiāng duì tāmen shuō:)`Nǐmen chángshì ba! Wǒ zhǐ zēngjiā nǐmen suǒ shòu de xíngfá.'"
         },
         {
             "chapter": 78,
             "verse": 31,
-            "text": "Jìngwèi de rénmen bì yǒuyī zhǒng shōuhuò,"
+            "text": "Jìngwèi de rénmen bì yǒu yīzhǒng shōuhuò,"
         },
         {
             "chapter": 78,
             "verse": 32,
-            "text": "Xǔduō yuánpǔ hé pútáo,"
+            "text": "xǔduō yuánpǔ hé pútáo,"
         },
         {
             "chapter": 78,
@@ -173,12 +173,12 @@
         {
             "chapter": 78,
             "verse": 35,
-            "text": "Tāmen zài nàlǐmiàn tīng bù dào è yán hé huǎnghuà."
+            "text": "Tāmen zài nà lǐmiàn tīng bù dào è yán hé huǎnghuà."
         },
         {
             "chapter": 78,
             "verse": 36,
-            "text": "Nà shì cóng nǐ de zhǔ fāchū de bàochóu chōngzú de shǎngcì."
+            "text": "Nà shì cóng nǐ de zhǔ fāchū de bàochóu——chōngzú de shǎngcì."
         },
         {
             "chapter": 78,
@@ -193,12 +193,12 @@
         {
             "chapter": 78,
             "verse": 39,
-            "text": "Nà shì bì yǒu de rìzi, shéi yìyù, shéi jiù zé qǔ yīgè xiàng tā de zhǔ de guīsù."
+            "text": "Nà shì bì yǒu de rìzi, shuí yìyù, shuí jiù zé qǔ yīgè xiàng tā de zhǔ de guīsù."
         },
         {
             "chapter": 78,
             "verse": 40,
-            "text": "Wǒ díquè jǐnggào nǐmen yī zhǒng línjìn de xíngfá, zài nà rì, gè rén jiāngyào kànjiàn zìjǐ suǒ yǐ zuò de gōngzuò, bù xìndào de rénmen jiāngyào shuō: A! Dàn yuàn wǒ yuán shì chéntǔ."
+            "text": "Wǒ díquè jǐnggào nǐmen yīzhǒng línjìn de xíngfá, zài nà rì, gèrén jiāngyào kànjiàn zìjǐ suǒ yǐ zuò de gōngzuò, bù xìndào de rénmen jiāngyào shuō:`A! Dàn yuàn wǒ yuán shì chéntǔ.'"
         }
     ]
 }

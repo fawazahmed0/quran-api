@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 37,
             "verse": 145,
@@ -38,7 +38,7 @@
         {
             "chapter": 37,
             "verse": 152,
-            "text": "Zhēnzhǔ yǐ shēngyùle. Tāmen què shì shuōhuǎng zhě."
+            "text": "`Zhēnzhǔ yǐ shēngyùle.'Tāmen què shì shuōhuǎng zhě."
         },
         {
             "chapter": 37,
@@ -48,7 +48,7 @@
         {
             "chapter": 37,
             "verse": 154,
-            "text": "Nǐmen yǒu shé me lǐyóu? Nǐmen zěnme zhèyàng pànduàn ne?"
+            "text": "Nǐmen yǒu shénme lǐyóu? Nǐmen zěnme zhèyàng pànduàn ne?"
         },
         {
             "chapter": 37,
@@ -63,7 +63,7 @@
         {
             "chapter": 37,
             "verse": 157,
-            "text": "Ná chū nǐmen de jīngdiǎn lái ba, tǎngruò nǐmen shì chéngshí de!"
+            "text": "Ná chū nǐmen de jīngdiǎn lái ba, tǎngruò nǐmen shì chéngshí de rén!"
         },
         {
             "chapter": 37,
@@ -73,12 +73,12 @@
         {
             "chapter": 37,
             "verse": 159,
-            "text": "chāojué zāi zhēnzhǔ! Tā shì chāo hū tāmen de xùshù de,"
+            "text": "——chāojué zāi zhēnzhǔ! Tā shì chāo hū tāmen de xùshù de"
         },
         {
             "chapter": 37,
             "verse": 160,
-            "text": "wéi zhēnzhǔ de chúnjié de zhòng pū, bù bèi jūjìn."
+            "text": "——wéi zhēnzhǔ de chúnjié de zhòng pú, bù bèi jūjìn."
         },
         {
             "chapter": 37,
@@ -98,7 +98,7 @@
         {
             "chapter": 37,
             "verse": 164,
-            "text": "(Zhòng tiānshén shuō): Wǒmen rén rén dōu yǒu yīgè zhǐdìng dì dìwèi,"
+            "text": "(Zhòng tiānshén shuō):`Wǒmen rén rén dōu yǒu yīgè zhǐdìng dì dìwèi,"
         },
         {
             "chapter": 37,
@@ -108,7 +108,7 @@
         {
             "chapter": 37,
             "verse": 166,
-            "text": "wǒmen bìdìng shì zànsòng zhēnzhǔ de."
+            "text": "wǒmen bìdìng shì zànsòng zhēnzhǔ de.'"
         },
         {
             "chapter": 37,
@@ -118,12 +118,12 @@
         {
             "chapter": 37,
             "verse": 168,
-            "text": "Jiǎruò wǒmen yǒu gǔrén suǒ yíliú de jiàohuì,"
+            "text": "`Jiǎruò wǒmen yǒu gǔrén suǒ yíliú de jiàohuì,"
         },
         {
             "chapter": 37,
             "verse": 169,
-            "text": "nàmò, wǒmen bì shì zhēnzhǔ de chúnjié de púrén."
+            "text": "nàmò, wǒmen bì shì zhēnzhǔ de chúnjié de pú rén.'"
         },
         {
             "chapter": 37,
@@ -133,7 +133,7 @@
         {
             "chapter": 37,
             "verse": 171,
-            "text": "Wǒ duì wǒ suǒ pàiqiǎn de pú rénmen yǐ yǒu yuē zài xiānle,"
+            "text": "Wǒ duì wǒ suǒ pàiqiǎn de pú rénmen yǐ yǒu yuē yán zài xiānle,"
         },
         {
             "chapter": 37,
@@ -178,7 +178,7 @@
         {
             "chapter": 37,
             "verse": 180,
-            "text": "Chāojué zāi nǐ de zhǔ--zūn róng de zhǔzǎi! Tā shì chāo hū tāmen de xùshù de."
+            "text": "Chāojué zāi nǐ de zhǔ——zūn róng de zhǔzǎi! Tā shì chāo hū tāmen de xùshù de."
         },
         {
             "chapter": 37,
@@ -188,7 +188,7 @@
         {
             "chapter": 37,
             "verse": 182,
-            "text": "Yīqiè zànsòng, quán guīzhēn zhǔ--quán shìjiè de zhǔ!"
+            "text": "Yīqiè zànsòng, quán guīzhēnzhǔ——quán shìjiè de zhǔ!"
         },
         {
             "chapter": 38,
@@ -208,17 +208,17 @@
         {
             "chapter": 38,
             "verse": 4,
-            "text": "Tāmen jīngyà, yīnwèi tāmen běn zú zhōng de jǐnggào zhě láilín tāmen. Bù xìndào de rénmen shuō: Zhè shì yīgè shùshì, shì yīgè shuōhuǎng zhě."
+            "text": "Tāmen jīngyà, yīnwèi tāmen běn zú zhōng de jǐnggào zhě láilín tāmen. Bù xìndào de rénmen shuō:`Zhè shì yīgè shùshì, shì yīgè shuōhuǎng zhě."
         },
         {
             "chapter": 38,
             "verse": 5,
-            "text": "Nándào tā yào jiāng xǔduō shénlíng biàn chéng yīgè shénlíng ma? Zhè què shì yī jiàn guàishì."
+            "text": "Nándào tā yào jiāng xǔduō shénlíng biànchéng yīgè shénlíng ma? Zhè què shì yī jiàn guàishì.'"
         },
         {
             "chapter": 38,
             "verse": 6,
-            "text": "Tāmen zhōng de guìzúmen qǐshēn shuō: Nǐmen zǒu ba! Nǐmen jiānrěnzhe chóngbài nǐmen de zhòng shénlíng bà! Zhè què shì yī jiàn qián dìng de shì."
+            "text": "Tāmen zhōng de guìzúmen qǐshēn shuō:`Nǐmen zǒu bà! Nǐmen jiānrěnzhe chóngbài nǐmen de zhòng shénlíng bà! Zhè què shì yī jiàn qián dìng de shì."
         },
         {
             "chapter": 38,
@@ -228,12 +228,12 @@
         {
             "chapter": 38,
             "verse": 8,
-            "text": "Nándào jiàohuì jiàng yú tā, ér bù jiàng yú wǒmen ma? Bùrán! Tāmen duìyú wǒ de jiàoxùn, shì zài huáiyí zhī zhōng, bùrán! Tāmen hái méiyǒu chángshì wǒ de xíngfá."
+            "text": "Nándào jiàohuì jiàng yú tā, ér bù jiàng yú wǒmen ma?'Bùrán! Tāmen duìyú wǒ de jiàoxùn, shì zài huáiyí zhī zhōng, bùrán! Tāmen hái méiyǒu chángshì wǒ de xíngfá."
         },
         {
             "chapter": 38,
             "verse": 9,
-            "text": "Nándào tāmen yǒu nǐ wànnéng de, bó shī de zhǔ de cí'ēn de kùcáng?"
+            "text": "Nándào tāmen yǒu nǐ wànnéng de, bó shī de zhǔ de cí'ēn de kùcáng ma?"
         },
         {
             "chapter": 38,
@@ -263,22 +263,22 @@
         {
             "chapter": 38,
             "verse": 15,
-            "text": "Zhèxiē rén, zhǐ děngdài yīshēng hǎnjiào, nà shì bù dāngē yī shàshí de."
+            "text": "Zhèxiē rén, zhǐ děngdài yī shēng hǎnjiào, nà shì bù dāngē yī shàshí de."
         },
         {
             "chapter": 38,
             "verse": 16,
-            "text": "Tāmen shuō: Wǒmen de zhǔ a! Zài qīngsuàn rì zhīqián, qǐng nǐ kuài jiāng wǒmen suǒ yīng dé de xíngfá, jiàng yú wǒmen ba!"
+            "text": "Tāmen shuō:`Wǒmen de zhǔ a! Zài qīngsuàn rì zhīqián, qǐng nǐ kuài jiāng wǒmen suǒ yīng dé de xíngfá, jiàng yú wǒmen ba!'"
         },
         {
             "chapter": 38,
             "verse": 17,
-            "text": "Nǐ dāng rěnshòu tāmen suǒ shuō dehuà, nǐ dāng jìyì wǒ de púrén--yǒu nénglì de dá wǔ dé, tā què shì guīyī zhēnzhǔ de."
+            "text": "Nǐ dāng rěnshòu tāmen suǒ shuō dehuà, nǐ dāng jìyì wǒ de pú rén——yǒu nénglì de dá wǔ dé, tā què shì guīyī zhēnzhǔ de."
         },
         {
             "chapter": 38,
             "verse": 18,
-            "text": "Wǒ què yǐ shǐ zhū shān fúcóng tā, tāmen zǎowǎn zànsòng."
+            "text": "Wǒ què yǐ shǐ zhūshān fúcóng tā, tāmen zǎowǎn zànsòng."
         },
         {
             "chapter": 38,

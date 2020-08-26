@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 82,
             "verse": 1,
@@ -133,7 +133,7 @@
         {
             "chapter": 83,
             "verse": 8,
-            "text": "Nǐ zěn néng zhīdào è xíng bù shì shénmó?"
+            "text": "Nǐ zěn néng zhīdào è xíng bù shì shénme?"
         },
         {
             "chapter": 83,
@@ -143,7 +143,7 @@
         {
             "chapter": 83,
             "verse": 10,
-            "text": "Zài nà rì, shāng zāi fǒurèn de rénmen"
+            "text": "Zài nà rì, shāng zāi fǒurèn de rénmen——"
         },
         {
             "chapter": 83,
@@ -158,7 +158,7 @@
         {
             "chapter": 83,
             "verse": 13,
-            "text": "Dāng biérén duì tā xuāndú wǒ de jīxiàng de shíhòu, tā shuō: Zhè shì gǔrén de gùshì."
+            "text": "Dāng biérén duì tā xuāndú wǒ de jīxiàng de shíhòu, tā shuō:`Zhè shì gǔrén de gùshì.'"
         },
         {
             "chapter": 83,
@@ -178,7 +178,7 @@
         {
             "chapter": 83,
             "verse": 17,
-            "text": "Ránhòu, huòzhě jiāng duì tāmen shuō: Zhè jiùshì nǐmen suǒ fǒurèn de."
+            "text": "Ránhòu, huòzhě jiāng duì tāmen shuō:`Zhè jiùshì nǐmen suǒ fǒurèn de.'"
         },
         {
             "chapter": 83,
@@ -188,7 +188,7 @@
         {
             "chapter": 83,
             "verse": 19,
-            "text": "Nǐ zěn néng zhīdào shànxíng bù shì shénmó?"
+            "text": "Nǐ zěn néng zhīdào shànxíng bù shì shénme?"
         },
         {
             "chapter": 83,
@@ -198,7 +198,7 @@
         {
             "chapter": 83,
             "verse": 21,
-            "text": "zhēnzhǔ suǒ qīnjìn de tiān shénmen jiāng zuòzhèng tā."
+            "text": "zhēnzhǔ suǒ qīnjìn de tiān shénmen jiāng zuò zhèng tā."
         },
         {
             "chapter": 83,
@@ -253,7 +253,7 @@
         {
             "chapter": 83,
             "verse": 32,
-            "text": "dāng tāmen yùjiàn xìnshìmen de shíhòu, tāmen shuō: Zhè děng rén què shì mí wù de."
+            "text": "dāng tāmen yùjiàn xìnshìmen de shíhòu, tāmen shuō:`Zhè děng rén què shì mí wù de.'"
         },
         {
             "chapter": 83,
@@ -273,7 +273,7 @@
         {
             "chapter": 83,
             "verse": 36,
-            "text": "bù xìndào de rénmen yǐ huòdé tāmen de xíngwéi de bàochóule ma?"
+            "text": "`bù xìndào de rénmen yǐ huòdé tāmen de xíngwéi de bàochóule ma?'"
         }
     ]
 }

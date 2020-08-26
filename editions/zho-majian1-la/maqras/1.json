@@ -1,5 +1,5 @@
 {
-    "hizbs": [
+    "maqras": [
         {
             "chapter": 1,
             "verse": 1,
@@ -8,7 +8,7 @@
         {
             "chapter": 1,
             "verse": 2,
-            "text": "yiqie zansong quan guizhenzhu, zhong shijie de zhu,"
+            "text": "yiqie zansong, quan guizhenzhu, quan shijie de zhu,"
         },
         {
             "chapter": 1,
@@ -18,17 +18,17 @@
         {
             "chapter": 1,
             "verse": 4,
-            "text": "baoying ri de zhu,"
+            "text": "baoying ri de zhu."
         },
         {
             "chapter": 1,
             "verse": 5,
-            "text": "women zhi chongbai ni, zhi qiu ni youzhu"
+            "text": "Women zhi chongbai ni, zhi qiu ni youzhu,"
         },
         {
             "chapter": 1,
             "verse": 6,
-            "text": "qiu ni yinling women zhenglu,"
+            "text": "qiu ni yindao women shang zhenglu,"
         },
         {
             "chapter": 1,
@@ -73,7 +73,7 @@
         {
             "chapter": 2,
             "verse": 8,
-            "text": "Youxie ren shuo: Women yi xin zhenzhu he morile. Qishi, tamen jue bushi xinshi."
+            "text": "Youxie ren shuo:`Women yi xin zhenzhu he morile.'Qishi, tamen jue bushi xinshi."
         },
         {
             "chapter": 2,
@@ -83,12 +83,12 @@
         {
             "chapter": 2,
             "verse": 10,
-            "text": "Tamen de xin li you bing, gu zhenzhu zengjia tamen de xinbing; tamen jiang wei shuohuang er zaoshou zhongda de xingfa."
+            "text": "Tamen de xinli you bing, gu zhenzhu zengjia tamen de xinbing; tamen jiang wei shuohuang er zaoshou zhongda de xingfa."
         },
         {
             "chapter": 2,
             "verse": 11,
-            "text": "Youren dui tamen shuo: Nimen buyao zai difang shang zuo'e. Tamen jiu shuo: Women zhishi tiaojie de ren."
+            "text": "Youren dui tamen shuo:`Nimen buyao zai difang shang zuo'e.'Tamen jiu shuo:`Women zhishi tiaojie de ren.'"
         },
         {
             "chapter": 2,
@@ -98,12 +98,12 @@
         {
             "chapter": 2,
             "verse": 13,
-            "text": "Youren dui tamen shuo: Nimen yingdang xiang zhongren nayang xindao. Tamen jiu shuo: Women neng xiang yuren nayang qingxin ma? Zhen de, tamen que shi yuren, dan tamen bu zhidao."
+            "text": "Youren dui tamen shuo:`Nimen yingdang xiang zhongren nayang xindao.'Tamen jiu shuo:`Women neng xiang yuren nayang qingxin ma?'Zhen de, tamen que shi yuren, dan tamen bu zhidao."
         },
         {
             "chapter": 2,
             "verse": 14,
-            "text": "Tamen yujian xinshimen jiu shuo: Women yi xindaole. Tamen huiqu jianle ziji de emo, jiu shuo: Women que shi nimen de tong dang, women buguo shi yunong tamen bale."
+            "text": "Tamen yujian xinshimen jiu shuo:`Women yi xindaole.'Tamen huiqu jianle ziji de emo, jiu shuo:`Women que shi nimen de tong dang, women buguo shi yunong tamen bale.'"
         },
         {
             "chapter": 2,
@@ -118,7 +118,7 @@
         {
             "chapter": 2,
             "verse": 17,
-            "text": "Tamen piru ran huo de ren, dang huoguang zhao liangle tamen de sizhou de shihou, zhenzhu ba tamen de huoguang na qu, rang tamen zai chongchong de hei'an zhong, shenmo ye kan bujian."
+            "text": "Tamen piru ran huo de ren, dang huoguang zhao liangle tamen de sizhou de shihou, zhenzhu ba tamen de huoguang na qu, rang tamen zai chongchong de hei'an zhong, shenme ye kan bujian."
         },
         {
             "chapter": 2,
@@ -133,7 +133,7 @@
         {
             "chapter": 2,
             "verse": 20,
-            "text": "Dianguang jihu duole tamen de shijue, mei feng dianguang wei tamen er zhaoyao de shihou, tamen zai dianguang zhong qianjin; hei'an de shihou, tamen jiu zhanzhu. Jiaru zhenzhu yiyu, ta bi chiduo tamen de tingjue he shijue. Zhenzhu dui yu wanshi que shi quanneng de."
+            "text": "Dianguang jihu duole tamen de shijue, mei feng dianguang wei tamen er zhaoyao de shihou, tamen zai dianguang zhong qianjin; hei'an de shihou, tamen jiu zhanzhu. Jiaru zhenzhu yiyu, ta bi chiduo tamen de tingjue he shijue. Zhenzhu duiyu wanshi que shi quanneng de."
         },
         {
             "chapter": 2,
@@ -148,7 +148,7 @@
         {
             "chapter": 2,
             "verse": 23,
-            "text": "Ruguo nimen huaiyi wo suo jiang shi gei wo de puren de jingdian, namo, nimen shi nizuo yi zhang, bing she zhenzhu er qidao nimen de jianzheng, ruguo nimen shi chengshi de."
+            "text": "Ruguo nimen huaiyi wo suo jiang shi gei wo de pu ren de jingdian, namo, nimen shi nizuo yi zhang, bing she zhenzhu er qidao nimen de jianzheng, ruguo nimen shi chengshi de."
         },
         {
             "chapter": 2,
@@ -158,7 +158,7 @@
         {
             "chapter": 2,
             "verse": 25,
-            "text": "Ni dang xiang xindao er xingshan de ren baoxi; tamen jiang xiangyou xuduo xia lin zhu he de leyuan, mei dang tamen deyi yuan li de yi zhong shuiguo wei jiyang de shihou, tamen dou shuo: Zhe shi women yiqian suo shou ci de. Qishi, tamen suo shou ci de shi leisi de. Tamen zai leyuan li jiang xiangyou chunjie de pei'ou, tamen jiang yong ju qizhong."
+            "text": "Ni dang xiang xindao er xingshan de ren baoxi; tamen jiang xiangyou xuduo xia lin zhu he de leyuan, mei dang tamen deyi yuan li de yizhong shuiguo wei jiyang de shihou, tamen dou shuo:`Zhe shi women yiqian suo shou ci de.'Qishi, tamen suo shou ci de shi leisi de. Tamen zai leyuan li jiang xiangyou chunjie de pei'ou, tamen jiang yong ju qizhong."
         }
     ]
 }

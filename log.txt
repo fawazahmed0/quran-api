@@ -6,3 +6,19 @@ C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
 Starting to create files for en.itani.txt
 Generating Edition
  Generated edition eng-talalitani
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js delete zho-majian1
+ deletion completed for zho-majian1
+ deletion completed for zho-majian1-la
+ deletion completed for zho-majian1-lad
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Starting to create files for zho-majian1.txt
+Generating Edition
+ Generated edition zho-majian1
+Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
+latin script generated for this language
+Creating Latin Script for the language
+Generating diacritical and non diacritical Editions for this langauge
+ Generated edition zho-majian1-lad
+ Generated edition zho-majian1-la
