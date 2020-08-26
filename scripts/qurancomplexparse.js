@@ -15,7 +15,7 @@ var path = require('path');
 
 var sura ="سُوْرَةُ"
 var basmala = "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ"
-var filename = "Nastaleeq v10.txt"
+var filename = "HafsNastaleeq Ver10.txt"
 
 var suraregex =  new RegExp(sura+".*", "gi");
 

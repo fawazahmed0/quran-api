@@ -6236,7 +6236,7 @@ Allathee yuwaswisu fee sudoori alnnasi
 Mina aljinnati waalnnasi
 {
     "name": "ara-quran-la3",
-    "author": "Quran Translitration",
+    "author": "Quran Transliteration",
     "language": "Arabic",
     "direction": "ltr",
     "source": "",

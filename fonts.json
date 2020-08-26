@@ -1,4 +1,7 @@
 {
+    "hafs_nastaleeq_ver10": {
+        "otf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-nastaleeq-ver10.otf"
+    },
     "noorehuda_regular": {
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda-regular.ttf"
     },
@@ -7,5 +10,8 @@
     },
     "quran_taha": {
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/quran-taha.ttf"
+    },
+    "uthmanic_hafs_ver13": {
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs-ver13.ttf"
     }
 }

@@ -6236,7 +6236,7 @@ alladhi yuwaswisu fi suduri l-nasi
 mina l-jinati wal-nasi
 {
     "name": "ara-quran-la5",
-    "author": "Quran Translitration",
+    "author": "Quran Transliteration",
     "language": "Arabic",
     "direction": "ltr",
     "source": "",

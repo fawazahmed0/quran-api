@@ -6236,7 +6236,7 @@ Allathee yuwaswisu fee sudoori annas
 Mina aljinnati wannas
 {
     "name": "ara-quran-la2",
-    "author": "Quran Translitration",
+    "author": "Quran Transliteration",
     "language": "Arabic",
     "direction": "ltr",
     "source": "",

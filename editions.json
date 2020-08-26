@@ -21,7 +21,7 @@
     },
     "ara_quran_la2": {
         "name": "ara-quran-la2",
-        "author": "Quran Translitration",
+        "author": "Quran Transliteration",
         "language": "Arabic",
         "direction": "ltr",
         "source": "",
@@ -31,7 +31,7 @@
     },
     "ara_quran_la3": {
         "name": "ara-quran-la3",
-        "author": "Quran Translitration",
+        "author": "Quran Transliteration",
         "language": "Arabic",
         "direction": "ltr",
         "source": "",
@@ -41,7 +41,7 @@
     },
     "ara_quran_la4": {
         "name": "ara-quran-la4",
-        "author": "Quran Translitration",
+        "author": "Quran Transliteration",
         "language": "Arabic",
         "direction": "ltr",
         "source": "",
@@ -51,7 +51,7 @@
     },
     "ara_quran_la5": {
         "name": "ara-quran-la5",
-        "author": "Quran Translitration",
+        "author": "Quran Transliteration",
         "language": "Arabic",
         "direction": "ltr",
         "source": "",
@@ -61,7 +61,7 @@
     },
     "ara_quran_lad4": {
         "name": "ara-quran-lad4",
-        "author": "Quran Translitration",
+        "author": "Quran Transliteration",
         "language": "Arabic",
         "direction": "ltr",
         "source": "",

@@ -97,13 +97,13 @@ async function create(update) {
   // saving database snippet, filename and it's json data in jsondb variable
   await jsonDB()
   // saving isocodes in json
-  isocodes = fs.readFileSync(path.join(__dirname, 'info', 'iso-codes.min.json')).toString();
+  isocodes = fs.readFileSync(path.join(__dirname, 'isocodes', 'iso-codes.min.json')).toString();
   isocodes = JSON.parse(isocodes)
   // saving quran data such as how many rukus, etc, this will be used to generate the rukus endpoint
-  qinfo = fs.readFileSync(path.join(__dirname, 'info', 'quran-info.min.json')).toString();
+  qinfo = fs.readFileSync(path.join(__dirname, 'info.min.json')).toString();
   qinfo = JSON.parse(qinfo)
   // saving google translate language codes in json
-  gLangCodes = fs.readFileSync(path.join(__dirname, 'info', 'google-codes.min.json')).toString();
+  gLangCodes = fs.readFileSync(path.join(__dirname, 'isocodes', 'google-codes.min.json')).toString();
   gLangCodes = JSON.parse(gLangCodes)
   // Launching browser as we will need it for checking direction of the language
   var browser = await firefox.launch();

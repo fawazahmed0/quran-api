@@ -6236,7 +6236,7 @@ alladhī yuwaswisu fī ṣudūri l-nāsi
 mina l-jinati wal-nāsi
 {
     "name": "ara-quran-lad4",
-    "author": "Quran Translitration",
+    "author": "Quran Transliteration",
     "language": "Arabic",
     "direction": "ltr",
     "source": "",
