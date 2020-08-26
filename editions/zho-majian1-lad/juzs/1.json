@@ -1,0 +1,744 @@
+{
+    "juzs": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Fèng zhìrén zhì cí de zhēnzhǔ zhī míng"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "yīqiè zànsòng quán guīzhēnzhǔ, zhòng shìjiè de zhǔ,"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "zhìrén zhì cí de zhǔ,"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "bàoyìng rì de zhǔ,"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "wǒmen zhǐ chóngbài nǐ, zhǐ qiú nǐ yòuzhù"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "qiú nǐ yǐnlǐng wǒmen zhènglù,"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "nǐ suǒ yòuzhù zhě de lù, bùshì shòu qiǎn nù zhě de lù, yě bùshì mí wù zhě de lù."
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Ài liè fú, liǎ mù, mǐ mù."
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "Zhè bù jīng, qízhōng háo wú kěyí, shì jìngwèi zhě de xiàngdǎo."
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "Tāmen quèxìn yōuxuán, jǐn shǒu bài gōng, bìng fēn shě wǒ suǒ gěi yǔ tāmen de."
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "Tāmen quèxìn jiàng shì nǐ de jīngdiǎn, hé zài nǐ yǐqián jiàng shì de jīngdiǎn, bìngqiě dǔxìn hòushì."
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Zhè děng rén, shì zūnshǒu tāmen de zhǔ de zhèngdào de; zhè děng rén, què shì chénggōng de."
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Bùxìndào zhě, nǐ duì tāmen jiāyǐ jǐnggào yǔ fǒu, zhè zài tāmen shì yīyàng de, tāmen bìjìng bù xìndào."
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Zhēnzhǔ yǐ fēngbì tāmen de xīn hé ěr, tāmen de yǎn shàng yǒu yì mó; tāmen jiāng shòu zhòngdà de xíngfá."
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "Yǒuxiē rén shuō: Wǒmen yǐ xìn zhēnzhǔ hé mòrìle. Qíshí, tāmen jué bùshì xìnshì."
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "Tāmen xiǎng qīmán zhēnzhǔ hé xìnshì, qíshí, tāmen zhǐshì zì qī, què bù juéwù."
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "Tāmen de xīn li yǒu bìng, gù zhēnzhǔ zēngjiā tāmen de xīnbìng; tāmen jiāng wéi shuōhuǎng ér zāoshòu zhòngdà de xíngfá."
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Yǒurén duì tāmen shuō: Nǐmen bùyào zài dìfāng shàng zuò'è. Tāmen jiù shuō: Wǒmen zhǐshì tiáojiě de rén."
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "Zhēn de, tāmen què shì zuò'è zhě, dàn tāmen bù juéwù."
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Yǒurén duì tāmen shuō: Nǐmen yīngdāng xiàng zhòngrén nàyàng xìndào. Tāmen jiù shuō: Wǒmen néng xiàng yúrén nàyàng qīngxìn ma? Zhēn de, tāmen què shì yúrén, dàn tāmen bù zhīdào."
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Tāmen yùjiàn xìnshìmen jiù shuō: Wǒmen yǐ xìndàole. Tāmen huíqù jiànle zìjǐ de èmó, jiù shuō: Wǒmen què shì nǐmen de tóng dǎng, wǒmen bùguò shì yúnòng tāmen bàle."
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Zhēnzhǔ jiàng yòng tāmen de yúnòng huán bào tāmen, jiāng rèn suí tāmen fǎnghuáng yú bèinì zhī zhōng."
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "Zhè děng rén, yǐ zhèngdào huànqǔ mí wù, suǒyǐ tāmen de jiāoyì bìng wèi huò lì, tāmen bùshì zūnxún zhèngdào de."
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Tāmen pìrú rán huǒ de rén, dāng huǒguāng zhào liàngle tāmen de sìzhōu de shíhòu, zhēnzhǔ bǎ tāmen de huǒguāng ná qù, ràng tāmen zài chóngchóng de hēi'àn zhōng, shénmó yě kàn bùjiàn."
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "(Tāmen) shì lóng de, shì yǎ de, shì xiā de, suǒyǐ tāmen zhímíbùwù."
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Huòzhě rú zāoyù qīngpén dàyǔ zhě, yǔ li yǒu chóngchóng hēi'àn, yòu yǒu léi hé diàn, tāmen kǒngpà zhèn sǐ, gù yòng shǒuzhǐ sāi zhù ěrduǒ, yǐ bì jí léi. Zhēnzhǔ shì zhōuzhī bù xìndào de rénmen de."
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "Diànguāng jīhū duóle tāmen de shìjué, měi féng diànguāng wèi tāmen ér zhàoyào de shíhòu, tāmen zài diànguāng zhōng qiánjìn; hēi'àn de shíhòu, tāmen jiù zhànzhù. Jiǎrú zhēnzhǔ yìyù, tā bì chǐduó tāmen de tīngjué hé shìjué. Zhēnzhǔ duì yú wànshì què shì quánnéng de."
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Zhòngrén a! Nǐmen de zhǔ, chuàngzàole nǐmen, hé nǐmen yǐqián de rén, nǐmen dāng chóngbài tā, yǐbiàn nǐmen jìngwèi."
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "Tā yǐ dàdì wèi nǐmen de xí, yǐ tiānkōng wèi nǐmen de mù, bìngqiě cóng yún zhōng jiàngxià yǔshuǐ, ér jiè yǔshuǐ shēng xǔduō guǒshí, zuò nǐmen de jǐyǎng, suǒyǐ nǐmen bùyào míngzhīgùfàn de gěi zhēnzhǔ shùlì pǐdí."
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "Rúguǒ nǐmen huáiyí wǒ suǒ jiàng shì gěi wǒ de púrén de jīngdiǎn, nàmò, nǐmen shì nǐzuò yī zhāng, bìng shě zhēnzhǔ ér qídǎo nǐmen de jiànzhèng, rúguǒ nǐmen shì chéngshí de."
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "Rúguǒ nǐmen bùnéng zuò ──nǐmen jué bùnéng zuò ──nàmò, nǐmen dàng fángbèi huǒ yù, nà shì yòngrén hé shí zuò ránliào de, yǐ wéi bù xìndào de rénmen yùbèi hǎole."
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "Nǐ dāng xiàng xìndào ér xíngshàn de rén bàoxǐ; tāmen jiāng xiǎngyǒu xǔduō xià lín zhū hé de lèyuán, měi dāng tāmen déyǐ yuán lǐ de yī zhǒng shuǐguǒ wèi jǐyǎng de shíhòu, tāmen dōu shuō: Zhè shì wǒmen yǐqián suǒ shòu cì de. Qíshí, tāmen suǒ shòu cì de shì lèisì de. Tāmen zài lèyuán lǐ jiāng xiǎngyǒu chúnjié de pèi'ǒu, tāmen jiāng yǒng jū qízhōng."
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "Zhēnzhǔ díquè bù xián yǐ wénzi huò gèng xiǎo de shìwù shè rènhé pìyù; xìndào zhě, dōu zhīdào nà shì cóng tāmen de zhǔ jiàng shì de zhēnlǐ; bù xìndào zhě, quèshuō: Zhēnzhǔ shè zhège pìyù de zōngzhǐ shì shénmó? Tā yǐ pìyù shǐ xǔduō rén rù mítú, yě yǐ pìyù shǐ xǔduō rén shàng zhènglù; dàn chú bèinì zhě wài, tā bù yǐ pìyù shǐ rén rù mítú."
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "Tāmen yǔ zhēnzhǔ dìyuē zhīhòu, bìng duànjué zhēnzhǔ mìng rén liánluò de, qiě zài dìfāng shàng zuò'è; zhè děng rén, què shì kuī shé de."
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Nǐmen zěnmó bù xìn zhēn zhǔ ne? Nǐmen yuán shì sǐ de, ér tā yǐ shēngmìng fùyǔ nǐmen, ránhòu shǐ nǐmen sǐwáng, ránhòu shǐ nǐmen fùhuó; ránhòu nǐmen yào bèi zhào guī yú tā."
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "Tā yǐ wèi nǐmen chuàngzàole dà dìshàng de yīqiè shìwù, fù jīngyíng zhū tiān, wánchéngle qī céng tiān. Tā duì yú wànwù shì quánzhī de."
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Dāngshí, nǐ de zhǔ duì zhòng tiānshén shuō: Wǒ bìdìng zài dà dìshàng shèzhì yīgè dàilǐ rén. Tāmen shuō: Wǒmen zàn nǐ chāojué, wǒmen zàn nǐ qīngjìng, nǐ hái yào zài dà dìshàng shèzhì zuò'è hé liú xiě zhě ma? Tā shuō: Wǒ zhīdào nǐmen suǒ bù zhīdào de."
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "Tā jiāng wànwù de míngchēng, dōu jiàoshòu ā dān, ránhòu yǐ wànwù zhāoshì zhòng tiānshén, shuō: Nǐmen bǎ zhèxiē shìwù de míngchēng gàosù wǒ ba, rúguǒ nǐmen shì chéngshí de."
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Tāmen shuō: Zàn nǐ chāojué, chúle nǐ suǒ jiàoshòu wǒmen de zhīshì wài, wǒmen háo wú zhīshì, nǐ què shì quánzhī de, què shì zhì ruì de."
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "Tā shuō: Ā dān a! Nǐ bǎ zhèxiē shìwù de míngchēng gàosù tāmen ba. Dāng tā bǎ nàxiē shìwù de míngchēng gàosù tāmen de shíhòu, zhēnzhǔ shuō: Nándào wǒ méiyǒu duì nǐmen shuōguò ma? Wǒ díquè zhīdào tiāndì de yōuxuán, wǒ díquè zhīdào nǐmen suǒ biǎobái de, hé nǐmen suǒyǐnhuì de."
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Dāngshí, wǒ duì zhòng tiānshén shuō: Nǐmen xiàng ā dān kòutóu ba! Tāmen jiù kòutóu, wéiyǒu yì bo liè sī bù kěn, tā zì dà, tā yuán shì bùxìndào de."
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Wǒ shuō: Ā dān a! Nǐ hé nǐ de qī zǐ tóng zhù lèyuán ba! Nǐmen liǎ kěyǐ rènyì chī yuán lǐ suǒyǒu fēngfù de shíwù, nǐmen liǎ bùyào línjìn zhè kē shù; fǒuzé, jiù yào biàn chéng bù yì de rén."
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Ránhòu, èmó shǐ tāmen liǎ wèi nà kē shù ér fànzuì, suì jiāng tāmen liǎ rén cóng suǒ jū de lèyuán zhōng yòu chū. Wǒ shuō: Nǐmen hùxiāng chóushì xiàqù ba. Dàdìshàng yǒu nǐmen zhànshí de zhùchù hé xiǎngshòu."
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Ránhòu, ā dān fèng dào cóng zhǔ jiàng shì de jǐ jiàn jiè mìng, zhǔ jiù shù yòule tā. Zhǔ què shì zhì yòu de, què shì zhì cí de."
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Wǒ shuō: Nǐmen dōu cóng zhèlǐ xiàqù ba! Wǒ de yǐndǎo rúguǒ dàodá nǐmen, nàmò, shéi zūnshǒu wǒ de yǐndǎo, shéi zài jiānglái méiyǒu kǒngjù, yě bù chóu."
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "Bùxìndào érqiě fǒurèn wǒ de jīxiàng de rén, shì huǒ yù de jūmín, tāmen jiāng yǒng jū qízhōng."
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Yǐsèliè de hòuyì a! Nǐmen dāng míngjì wǒ suǒ cì nǐmen de ēnhuì, nǐmen dāng lǚxíng duì wǒ de yuē yán, wǒ jiù lǚxíng duì nǐmen de yuē yán; nǐmen yīngdāng zhǐ wèijù wǒ."
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Nǐmen dāng xìn wǒ suǒ jiàng shì de, zhè néng zhèngshí nǐmen suǒyǒu de jīngdiǎn, nǐmen bùyào zuò shǒuxiān bùxìn de rén, bùyào yǐ liánjià chūmài wǒ de jīxiàng, nǐmen yīngdāng zhǐ jìngwèi wǒ."
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Nǐmen bùyào míngzhīgùfàn de yǐ wěi luànzhēn, yǐnhuì zhēnlǐ."
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Nǐmen dāng jǐn shǒu bài gōng, wán nà tiān kè, yǔ jūgōng zhě tóng qí jūgōng."
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "Nǐmen shì dújīng de rén, zěnmó quàn rénwéi shàn, ér wàngquè zìshēn ne? Nándào nǐmen bù liǎojiě ma?"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Nǐmen dāng jiè jiānrěn hé lǐbài ér qiú yòuzhù. Lǐbài què shì yī jiàn nánshì, dàn duì gōngjìng de rén què bù nán."
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "Tāmen quèxìn zìjǐ bìdìng jiàn zhǔ, bìdìng guī zhǔ."
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "Yǐsèliè de hòuyì a! Nǐmen dāng míngjì wǒ suǒ cì nǐmen de ēndiǎn, bìng míngjì wǒ céng shǐ nǐmen chāoyuè shìrén."
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Nǐmen dàng fángbèi jiānglái yǒu zhèyàng de yī rì: Rènhé rén bùnéng tì rènhé rén bāng yīdiǎn máng, rènhé rén de shuō qíng, dōu bù méng jiēshòu, rènhé rén de shújīn, dōu bù méng cǎinà, tāmen yě bù huò yuánzhù."
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "Dāngshí, wǒ zhěngjiù nǐmen tuōlíle fǎlǎo de bǎixìng. Tāmen shǐ nǐmen zāoshòu kùxíng; túshā nǐmen de érzi, liúcún nǐmen de nǚzǐ; zhè shì cóng nǐmen de zhǔ jiàngxià de dà nàn."
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "Wǒ wèi nǐmen fēnkāi hǎishuǐ, zhěngjiùle nǐmen, bìng nì shāle fǎlǎo de bǎixìng, zhè shì nǐmen kànzhe de."
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "Dāngshí, wǒ yǔ mù sà yuē qí sìshí rì, zài tā líbié nǐmen zhīhòu, nǐmen rèn dú wèi shén, nǐmen shì bù yì de."
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Zài nà jiàn shì zhīhòu, wǒ shù ráole nǐmen, yǐbiàn nǐmen gǎnxiè."
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "Dāngshí, wǒ yǐ jīngdiǎn hé zhèngjù shǎngcì mù sà, yǐbiàn nǐmen zūnxún zhèngdào."
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "Dāngshí, mù sà duì tā de zōngzú shuō: Wǒ de zōngzú a! Nǐmen què yīn rèn dú wèi shén ér zì qī, gù nǐmen dāng xiàng zàowùzhǔ huǐzuì, dāng chǔsǐ zuìrén. Zài zhēnzhǔ kàn lái, zhè duì yú nǐmen què shì gèng hǎo de. Tā jiù shù yòu nǐmen. Tā què shì zhì yòu de, què shì zhì cí de."
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "Dāngshí, nǐmen shuō: Mù sà a! Wǒmen jué bù xìn nǐ, zhídào wǒmen qīnyǎn kànjiàn zhēnzhǔ. Gù jí léi xíjíle nǐmen, zhè shì nǐmen kànzhe de."
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Zài nǐmen yūn sǐ zhīhòu, wǒ shǐ nǐmen sūxǐng, yǐbiàn nǐmen gǎnxiè."
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Wǒ céng shǐ báiyún yīnbì nǐmen, yòu jiàng gānlù hé ānchún gěi nǐmen. Nǐmen kěyǐ chī wǒ suǒ gōngjǐ nǐmen de jiāměi shíwù. Tāmen méiyǒu sǔnhài wǒ, dàn tāmen zì qī."
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "Dāngshí, wǒ shuō: Nǐmen jìn zhè chéngshì qù, nǐmen kěyǐ suíyì chī qízhōng suǒyǒu fēngfù de shíwù. Nǐmen yīngdāng jūgōng ér jìn chéng mén, bìngqiě shuō:`Shì wǒ zhòngfù.'Wǒ jiāng shè yòu nǐmen de zhǒngzhǒng zuìguo, wǒ yào hòu bào shànrén."
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Dàn bù yì de rén gǎibiànle tāmen suǒ fèng de zhǔ yán, gùwǒ jiàng tiānzāi yú bù yì zhě, nà shì yóuyú tāmen de fànzuì."
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "Dāngshí, mù sà tì tā de zōngzú qí shuǐ, wǒ shuō: Nǐ yòng shǒuzhàng dǎ nà pánshí ba. Shí'èr dào shuǐquán, jiù cóng nà pánshí lǐ yǒng chūlái, gè bùluò dōu zhīdào zìjǐ de yǐnshuǐ chǔ. Nǐmen kěyǐ chī yǐn zhēnzhǔ de jǐyǎng, nǐmen bùyào zài dìfāng shàng wéifēizuòdǎi."
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Dāngshí, nǐmen shuō: Mù sà a! Zhuān chī yīyàng shíwù, wǒmen jué bùnéng rěnshòu, suǒ yǐ qǐng nǐ tì wǒmen qǐngqiú nǐ de zhǔ, wèi wǒmen shēngchū dà dì suǒ chǎn de shūcài ──huángguā, dàsuàn, biǎndòu hé yùcōng. Tā shuō: Nándào nǐmen yào yǐ jiào guì de huànqǔ jiào jiàn de ma? Nǐmen dào yīzuò chéng lǐ qù ba! Nǐmen bìděi zìjǐ suǒ qǐngqiú de shíwù. Tāmen xiànyú bēijiàn hé qióngkùn zhōng, tāmen yīng shòu zhēnzhǔ de qiǎn nù. Zhè shì yīnwèi tāmen bù xìn zhēnzhǔ de jīxiàng, érqiě wǎng shā zhòng xiānzhī; zhè yòu shì yīnwèi tāmen wéikàng zhǔmìng, chāoyuè fǎdù."
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "Xìndào zhě, yóutài jiàotú, jīdū jiàotú, bài xīng jiàotú, fán xìn zhēnzhǔ hé mòrì, bìngqiě xíngshàn de, jiānglái zài zhǔ nàlǐ bìděi xiǎngshòu zìjǐ de bàochóu, tāmen jiānglái méiyǒu kǒngjù, yě bù yōuchóu."
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Dāngshí, wǒ yǔ nǐmen dìyuē, bìng jiāng shān shùlì zài nǐmen de shàngmiàn, wǒ shuō: Nǐmen dāng jiānshǒu wǒ suǒ cì nǐmen de jīngdiǎn, bìngqiě dāng láojì qízhōng de lǜ lì, yǐbiàn nǐmen jìngwèi."
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Yǐhòu, nǐmen bèipàn. Jiǎruò méiyǒu zhēnzhǔ shǎngcì nǐmen de ēnhuì hé cí'ēn, nǐmen bìdìng biàn chéng kuī shé zhě."
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Nǐmen què yǐ rènshí nǐmen zhōng yǒuxiē rén, zài ānxírì chāoyuè fǎdù, gùwǒ duì tāmen shuō: Nǐmen biàn chéng bēijiàn de yuánhóu ba."
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "Wǒ yǐ zhè zhǒng xíngfá wèi qián rén hé hòu rén de jiè yǔ jìngwèi zhě de jiàoxùn."
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Dāngshí, mù sà duì tā de zōngzú shuō: Zhēnzhǔ díquè mìnglìng nǐmen zǎi yītóu niú. Tāmen shuō: Nǐ yúnòng wǒmen ma? Tā shuō: Wǒ qiú zhēnzhǔ bǎoyòu wǒ, yǐmiǎn wǒ biàn chéng yúrén."
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Tāmen shuō: Qǐng nǐ tì wǒmen qǐngqiú nǐ de zhǔ wèi wǒmen shuōmíng nà tóu niú de qíngzhuàng. Tā shuō: Wǒ de zhǔ shuō: Nà tóu niú què shì bùlǎo bù shǎo, niánlíng shìzhòng de. Nǐmen zūnmìng ér xíng ba!"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Tāmen shuō: Qǐng nǐ tì wǒmen qǐngqiú nǐ de zhǔ wèi wǒmen shuōmíng nà tóu niú de máosè. Tā shuō wǒ de zhǔ shuō: Nà tóu niú máosè chún huáng, jiàn zhě xǐyuè."
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "Tāmen shuō: Qǐng nǐ tì wǒmen qǐngqiú nǐ de zhǔ wèi wǒmen shuōmíng nà tóu niú de qíngzhuàng, yīnwèi zài wǒmen kàn lái, niú dōu shì xiāngsì de, rúguǒ zhēnzhǔ yìyù, wǒmen bì huò zhǐdǎo."
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "Tā shuō: Wǒ de zhǔ shuō: Nà tóu niú bùshì shòuguò xùnliàn de, jì bù gēng tiándì, yòu bù zhuǎn shuǐ chē, què shì quánměi wú bān de. Tāmen shuō: Xiànzài nǐ jiēshì zhēnxiàngle. Tāmen jiù zǎile nà tóu niú, dàn fēi chū zìyuàn."
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "Dāngshí, nǐmen shāle yīgè rén, nǐmen hùxiāng dǐlài. Ér zhēnzhǔ shì yào jiēchuān nǐmen suǒ yǐnhuì de shìshí de."
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "Gùwǒ shuō: Nǐmen yòng tā de yībùfèn dǎ tā ba! Zhēnzhǔ rúcǐ shǐ sǐzhě fùhuó, bìng yǐ tā de jīxiàng zhāoshì nǐmen, yǐbiàn nǐmen liǎojiě."
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "Cǐhòu, nǐmen de xīn biàn yìngle, biàn dé xiàng shítou yīyàng, huò bǐ shítou hái yìng. Yǒuxiē shítou, héshuǐ cóng qízhōng yǒng chū; yǒuxiē shítou, zìjǐ pòliè, ér shuǐquán cóng qízhōng liúchū; yǒuxiē shítou wèi jùpà zhēnzhǔ ér zhuìluò. Zhēnzhǔ jué bù hūshì nǐmen de xíngwéi."
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "Nǐmen hái qìtú tāmen huì wèi nǐmen de quànhuà ér xìndào ma? Tāmen dāngzhōng yǒu yīpài rén, céng tīng dào zhēnzhǔ de yányǔ, tāmen jì liǎojiě zhīhòu, biàn míngzhīgùfàn de jiāyǐ cuàngǎi."
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "Tāmen yùjiàn xìnshìmen, jiù shuō: Wǒmen yǐ xìndàole. Tāmen bǐcǐ sīxià jùhuì de shíhòu, tāmen quèshuō: Nǐmen bǎ zhēnzhǔ suǒ qǐshì nǐmen de gàosù tāmen, shǐ tāmen jiānglái dé zài zhǔ nàlǐ jù cǐ yǔ nǐmen zhēnglùn ma? Nándào nǐmen bù liǎojiě ma?"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "Nándào tāmen bù xiǎodé zhēnzhǔ zhīdào tāmen suǒ yǐnhuì de, hé tāmen suǒ biǎobái de ma?"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Tāmen zhōng yǒuxiē wénmáng, bùzhī jīngdiǎn, zhǐ zhī wàngyán, tāmen zhuān shì cāicè."
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "Āi zāi! Tāmen qīnshǒu xiě jīng, ránhòu shuō: Zhè shì zhēnzhǔ suǒ jiàng shì de. Tāmen yù jiè cǐ huànqǔ xiēwéi de dàijià. Āi zāi! Tāmen qīnshǒu suǒ xiě de. Āi zāi! Tāmen zìjǐ suǒ yíng móu de."
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "Tāmen shuō: Huǒ jué bù jiēchù wǒmen, chúfēi ruògān yǒu shǔ de rìzi. Nǐ shuō: Zhēnzhǔ shì jué bù shuǎngyuē de, nǐmen céng yǔ zhēnzhǔ dìyuē ne? Háishì jiǎjiè zhēnzhǔ de míngyì ér shuō chū zìjǐ suǒ bù zhīdào de shì ne?"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Bùrán, fán zuò'è ér wéi qí zuìniè suǒ bāoluó zhě, dōu shì huǒ yù de jūmín, tāmen jiāng yǒng jū qízhōng."
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "Xìndào érqiě xíngshàn zhě, shì lèyuán de jūmín, tāmen jiāng yǒng jū qízhōng."
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Dāngshí, wǒ yǔ yǐsèliè de hòuyì dìyuē, shuō: Nǐmen yīngdāng zhǐ chóngbài zhēnzhǔ, bìng dāng xiàojìng fùmǔ, hémù qīnqī, liánxù gū'ér, zhènjì pínmín, duì rén shuō shàn yán, jǐn shǒu bài gōng, wán nà tiān kè. Ránhòu, nǐmen chú shǎoshù rén wài, dōu wéibèi yuē yán, nǐmen shì chángcháng shuǎngyuē de."
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "Dāngshí, wǒ yǔ nǐmen dìyuē, shuō: Nǐmen bùyào zì xiāng cánshā, bùyào bǎ tóngzú de rén zhú chū jìngwài. Nǐmen yǐjīng chéngnuò, érqiě zhèngshíle."
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Ránhòu, nǐmen zì xiāng cánshā, érqiě bǎ yībùfèn tóngzú de rén zhú chū jìngwài, nǐmen tóng è xiāng jì, lángbèiwéijiān dì duìfù tāmen ──rúguǒ tāmen bèi fú láiguī, nǐmen què tì tāmen shúshēn ──qūzhú tāmen, zài nǐmen shì fànfǎ de xíngwéi. Nǐmen quèxìn jīngdiǎn lǐ de yībùfèn lǜ lì, ér bùxìn bié yībùfèn ma? Nǐmen zhōng zuò cǐ shì zhě, qí bàochóu bù wài zài jīnshì shēnghuó zhōng shòurǔ, zài fùhuó rì, bèi pàn shòu zuì yánlì de xíngfá. Zhēn zhǔ jué bù hūshì nǐmen de xíngwéi."
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "Zhè děng rén, shì yǐhòu shì huànqǔ jīnshì shēnghuó de, gù tāmen suǒ shòu de xíngfá, bù bèi jiǎnqīng, tāmen yě bù bèi yuánzhù."
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Wǒ què yǐ bǎ jīngdiǎn shǎngcì mù sà, bìng zài tā zhīhòu jìxù pàiqiǎn xǔduō shǐzhě, wǒ bǎ xǔduō míngzhèng shǎngcì gěi mài ěr yàn zhīzǐ ěr sā, bìng yǐ xuán líng fúzhù tā. Nándào měi féng shǐzhě bǎ nǐmen de sīxīn suǒ bù xǐ'ài de dōngxī dài lái gěi nǐmen de shíhòu, nǐmen zǒng shì wàngzìzūndà ma? Yībùfèn shǐzhě, bèi nǐmen jiāyǐ fǒurèn; yībùfèn shǐzhě, bèi nǐmen jiāyǐ shāhài."
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "Tāmen shuō: Wǒmen de xīn shì shòu méngbì de. Bùrán, zhēnzhǔ wèi tāmen bùxìndào ér qì jué tāmen, gù tāmen de xìnyǎng shì hěn shǎo de."
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Dāng yī bù jīngdiǎn néng zhèngshí tāmen suǒyǒu de jīngdiǎn, cóng zhēnzhǔ jiànglín tāmen de shíhòu,(tāmen bùxìn tā). Yǐqián tāmen chángcháng qídǎo, xīwàng jiè tā lái kèfú bùxìndào zhě, rán'ér dāng tāmen yèyǐ rènshí de zhēnlǐ jiànglín tāmen de shíhòu, tāmen bùxìn tā. Gù zhēnzhǔ de qì jué jiā yú bùxìndào zhě."
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Tāmen yīn zhēnzhǔ bǎ tā de ēnhuì jiàng gěi tāsuǒ yìyù de púrén, gù tāmen xīnhuái jídù, yīn'ér bù xìn zhēnzhǔ suǒ jiàng shì de jīngdiǎn; tāmen wèi cǐ ér chūmài zìjǐ, tāmen suǒdé de dàijià zhēn èliè. Gù tāmen yīng shòu jiābèi de qiǎn nù. Bù xìndào zhě, jiāng shòu língrù de xíngfá."
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Yǒurén duì tāmen shuō: Nǐmen yīngdāng xìn zhēnzhǔ suǒ jiàng shì de jīngdiǎn. Tāmen jiù shuō: Wǒmen xìn wǒmen suǒ shòu de qǐshì. Tāmen bù xìn cǐhòu de jīngdiǎn, qíshí, zhè bù jīngdiǎn shì zhēnshí de, néng zhèngshí tāmen suǒyǒu de jīngdiǎn. Nǐ shuō: Rúguǒ nǐmen shì xìndào de rén, yǐqián nǐmen wéishènmó shāhài zhòng xiānzhī ne?"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Mù sà què yǐ zhāoshì nǐmen xǔduō míngzhèng, tā líkāi nǐmen zhīhòu, nǐmen què rèn dú wèi shén, nǐmen shì bù yì de."
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "Dāngshí, wǒ yǔ nǐmen dìyuē, bìng jiāng shānyuè shùlì zài nǐmen de shàngmiàn, wǒ shuō: Nǐmen dāng jiānshǒu wǒ suǒ cì nǐmen de jīngdiǎn, bìng dāng tīngcóng. Tāmen shuō: Wǒmen tīng ér bù cóng. Tāmen bù xìndào, gù duì dú zhī ài, yǐ jìnrùnle tāmen de xīnlíng. Nǐ shuō: Rúguǒ nǐmen shì xìnshì, nàmò, nǐmen de xìnyǎng suǒ mìng nǐmen de zhēn èliè!"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "Nǐ shuō: Rúguǒ zài zhēnzhǔ nàlǐ de hòushì de ānzhái, shì nǐmen sīyǒu de, tārén bùdé gòngxiǎng, nàmò, nǐmen ruòshì chéngshí de, nǐmen jiù xīwàng zǎosǐ ba!"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Tāmen yīnwèi céngjīng fànzuì, suǒyǐ jué bù xīwàng zǎosǐ. Zhēnzhǔ duì yú bù yì de rén, shì quánzhī de."
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "Nǐ bì fāxiàn tāmen bǐ shìrén hái tānshēng, cǐ nà yǐ wù pèi zhǔ de hái tānshēng; tāmen zhōng měi gèrén, dōu yuàn xiǎng shòu qiānsuì, dàn tāmen zòng xiǎng shàng shòu, zhōng bùmiǎn yào shòu xíngfá. Zhēnzhǔ shì míngchá tāmen de xíngwéi de."
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "Nǐ shuō: Fán chóushì jí bǔ lì lǐ de, dōu shì yīnwèi tā fèng zhēnzhǔ de mìnglìng bǎ qǐshì jiàng zài nǐ de xīn shàng, yǐ zhèngshí gǔ jīng, yǐndǎo shìrén, bìng xiàng xìnshìmen bàoxǐ."
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Fán chóushì zhēnzhǔ, zhòng tiānshén, zhòng shǐzhě, yǐjí jí bǔ lì lǐ hé mǐ kǎ lǐ de, xūzhī zhēnzhǔ shì chóushì bù xìndào de rénmen de."
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Wǒ què yǐ jiàng shì nǐ xǔduō míngxiǎn de jīxiàng, zhǐyǒu zuìrén bù xìn tā."
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "Tāmen měi féng dìjié yī xiàng méngyuē, bùshì jiù yǒu yībùfèn rén pāoqì tā ma? Bùrán, tāmen dàbàn shì bù xìndào de."
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Dāng yīgè shǐzhě néng zhèngshí tāmen suǒyǒu de jīngdiǎn de, cóng zhēnzhǔ nàlǐ láilín tāmen de shíhòu, xìnfèng tiān jīng de rén zhōng yǒu yībùfèn rén, bǎ zhēnzhǔ de jīngdiǎn pāoqì zài tāmen de bèihòu, hǎo xiàng tāmen bù zhīdào yīyàng."
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "Tāmen zūn suí zhòng èmó duì yú sù lái màn de guó quán suǒ xuāndú de wúmiè yánlùn ──sù lái màn méiyǒu pàn dào, zhòng èmó què pàn dàole ──tāmen jiào rén móshù, bìng jiāng bābǐlún de liǎng gè tiānshén hā lǔ tè hé mǎ lǔ tè suǒdé de móshù jiào rén. Tāmen liǎ zài jiàoshòu rènhé rén zhīqián, bì shuō: Wǒmen zhǐshì shìyàn, gù nǐ bùkě pàn dào. Tāmen jiù cóng tāmen liǎ xuéle kěyǐ líjiàn fūqī de móshù, dàn bùdé zhēnzhǔ de xǔkě, tāmen jué bùnéng yòng móshù shānghài rènhé rén. Tāmen xuéle duì zìjǐ yǒuhài ér wúyì de dōngxī. Tāmen què yǐ zhīdào shéi gòu qǔ móshù, shéi zài hòushì jué wú fú fen. Tāmen zhǐ yǐ cǐ chūmài zìjǐ, zhè dàijià zhēn èliè! Jiǎruò tāmen zhīdào,(bì bù kěn xué)."
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Jiǎruò tāmen xìndào, érqiě jìngwèi, nàmò, cóng zhēnzhǔ nàlǐ jiàngxià de bàochóu, bì shì gèng hǎo de; jiǎruò tāmen zhīdào,(bì yǐ xìndào)."
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Xìndào de rénmen a! Nǐmen bùyào (duì shǐzhě) shuō: Lā yí nà, nǐmen yīngdāng shuō: Wēn zhù ěr nà, nǐmen yīngdāng tīngcóng. Bù xìndào zhě, jiāng shòu tòngkǔ de xíngfá."
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Bù xìndào zhě ──xìnfèng tiān jīng de hé yǐ wù pèi zhǔ de ──dōu bù yuàn yǒu rènhé fúlì cóng nǐmen de zhǔ jiàng yú nǐmen. Zhēnzhǔ bǎ tā de cí'ēn zhuān cì gěi tāsuǒ yìyù de rén, zhēnzhǔ shì yǒu hóng ēn de."
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Fánshì wǒ suǒ fèichú de, huò shǐ rén wàngjì de qǐshì, wǒ bì yǐ gèng hǎo de huò tóngyàng de qǐshì dàitì tā. Nándào nǐ bù zhīdào zhēnzhǔ duì yú wànshì shì quánnéng de ma?"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "Nándào nǐ bù zhīdào zhēnzhǔ yǒu tiāndì de guó quán ma? Chú zhēnzhǔ zhī wài, nǐmen jì méiyǒu rènhé bǎohù zhě, yòu méiyǒu rènhé yuánzhù zhě."
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Nǐmen xiǎng qǐngwèn nǐmen de shǐzhě, xiàng yǐqián tāmen qǐngwèn mù sà yīyàng ma? Yǐ zhèngxìn huànqǔ mí wù de rén, què yǐ míshī zhèngdàole."
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Xìnfèng tiān jīng de rén dāngzhōng, yǒu xǔduō rén wéi yuàn shǐ nǐmen zài jì xìndào zhīhòu biàn chéng bù xìndào zhě, zhè shì yīnwèi tāmen zài zhēnlǐ jì míng zhīhòu jí shì nǐmen de yuángù. Dàn nǐmen yīngdāng shù ráo tāmen, yuánliàng tāmen, zhídào zhēnzhǔ fābù mìnglìng. Zhēnzhǔ duì yú wànshì què shì quánnéng de."
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Nǐmen yīngdāng jǐn shǒu bài gōng, wán nà tiān kè. Fán nǐmen wèi zìjǐ ér xíng de shàn, nǐmen jiàng zài zhēnzhǔ nàlǐ fā jiàn qí bàochóu. Zhēnzhǔ què shì míngchá nǐmen de xíngwéi de."
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Tāmen shuō: Chú yóutài jiàotú hé jīdū jiàotú wài, bié de rén jué bùdé rù lèyuán. Zhè shì tāmen de wàngxiǎng. Nǐ shuō: Rúguǒ nǐmen shì chéngshí de, nàmò, nǐmen ná chū zhèngjù lái ba!"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Bùrán, fán quántǐ guīshùn zhēnzhǔ, érqiě xíngshàn zhě, jiàng zài zhǔ nàlǐ xiǎngshòu bàochóu, tāmen jiānglái méiyǒu kǒngjù, yě méiyǒu yōuchóu."
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Yóutài jiàotú hé jīdū jiàotú, dōu shì sòngdú tiān jīng de, yóutài jiàotú quèshuō: Jīdū jiàotú háo wú píngjù. Jīdū jiàotú yě shuō: Yóutài jiàotú háo wú píngjù. Wúzhīshì de rén, tāmen yě shuō zhè zhǒng huà. Gù fùhuó rì zhēnzhǔ jiàng pànjué tāmen suǒ zhēnglùn de shìfēi."
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Zǔzhǐ rén rù qīngzhēnsì qù niàn sòng zhēnzhǔ de zūn míng, qiě túmóu chāihuǐ qīngzhēnsì zhě, yǒu shéi bǐ tāmen hái bù yì ne? Zhè děng rén, chúfēi zài huángkǒng zhī zhōng, bùyí jìn qīngzhēnsì qù. Tāmen zài jīnshì jiāng shòurǔ, zài hòushì jiāng shòu zhòngdà de xíngfá."
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Dōngfāng hé xīfāng dōu shì zhēnzhǔ de; wúlùn nǐmen zhuǎnxiàng nǎ fāng, nàlǐ jiùshì zhēnzhǔ de fāngxiàng. Zhēnzhǔ què shì kuāndà de, què shì quánzhī de."
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Tāmen shuō: Zhēnzhǔ yǐ rénwéi zi. Zànsòng zhēnzhǔ, chāojué wànwù! Bùrán, tiāndì wànwù, dōu shì tā de; yīqiè dōu shì fúcóng tā de."
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "Tā shì tiāndì de chuàngzào zhě, dāng tā pànjué yī jiàn shì de shíhòu, tā zhǐ duì nà jiàn shì shuō shēng yǒu, tā jiù yǒule."
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Wú zhì zhě shuō: Wéishènmó zhēnzhǔ bù hé wǒmen shuōhuà ne? Wéishènmó bù yǒuyī zhǒng jīxiàng jiànglín wǒmen ne? Tāmen zhīqián de rén yě shuōguò zhèyàng dehuà; tāmen de xīn shì xiāngsì de. Wǒ què yǐ wèi dǔxìn de mínzhòng chǎnmíng xǔduō jīxiàngle."
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "Wǒ què yǐ shǐ nǐ běn zhēnlǐ ér wéi bàoxǐ zhě hé jǐnggào zhě; nǐ duì huǒ yù de jūmín bù fù zérèn."
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Yóutài jiàotú hé jīdū jiàotú jué bù xǐhuān nǐ, zhídào nǐ shùncóng tāmen de zōngjiào. Nǐ shuō: Zhēnzhǔ de zhǐdǎo, què shì zhǐdǎo. Zài zhīshì jiànglín nǐ zhīhòu, rúguǒ nǐ shùncóng tāmen de sīyù, nàmò, nǐ jué wú rènhé bǎohù zhě huò yuánzhù zhě, yǐ fǎnkàng zhēnzhǔ."
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Méng wǒ shǎngcì jīngdiǎn ér qièshí dì jiāyǐ zūnshǒu zhě, shì xìn nà jīngdiǎn de. Bùxìn nà jīngdiǎn zhě, shì kuī shé de."
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Yǐsèliè de hòuyì a! Nǐmen yīngdāng míngjì wǒ suǒ shī yú nǐmen de ēndiǎn, bìng míngjì wǒ céng shǐ nǐmen chāoyuè shìrén."
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Nǐmen dàng fángbèi jiānglái yǒu zhèyàng de yī rì, rènhé rén bùnéng tì rènhé rén bāng yīdiǎn máng, rènhé rén de shújīn, dōu bù méng jiēshòu, shuō qíng duì yú rènhé rén dōu wú bìyì, tāmen yě bù huò yuánzhù."
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Dāngshí, yì bo lā xīn de zhǔ yòng ruògān jiè mìng shìyàn tā, tā jiù shíjiànle nàxiē jiè mìng. Tā shuō: Wǒ bìdìng rènmìng nǐ wèi zhòng púrén de shībiǎo. Yì bo lā xīn shuō: Wǒ de yībùfèn hòuyì, yě dé wéirén shībiǎo ma? Tā shuō: Wǒ de rènmìng, bù bāokuò bù yì de rénmen."
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Dāngshí, wǒ yǐ tiān fáng wèi zhòngrén de guīsù de hé ānníng de. Nǐmen dāng yǐ yì bo lā xīn de lìzú dì wéi lǐbài chù. Wǒ mìng yì bo lā xīn hé yì sīmǎ yí shuō: Nǐmen liǎ yīngdāng wèi xuánrào zhìjìng zhě, qiánchéng zhù shǒu zhě, jūgōng kòutóu zhě, qīngjié wǒ de fángwū."
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "Dāngshí, yì bo lā xīn shuō: Wǒ de zhǔ a! Qiú nǐ shǐ zhèlǐ biàn chéng ānníng dì dìfāng, qiú nǐ yǐ gè zhǒng liángshí gōngjǐ zhèlǐ de jūmín ──tāmen zhōngxìn zhēnzhǔ hé mòrì de rén. Tā shuō: Bù xìndào zhě, wǒ jiāng shǐ tā zhànshí xiǎngshòu, ránhòu qiǎngbī tā qù shòu huǒxíng. Nà jiéguǒ zhēn èliè!"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "Dāngshí, yì bo lā xīn hé yì sīmǎ yí shù qǐ tiān fáng de jīchǔ, tāmen liǎ qídǎo shuō: Wǒmen de zhǔ a! Qiú nǐ jiēshòu wǒmen de jìngyì, nǐ què shì quán cōng de, què shì quánzhī de."
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Wǒmen de zhǔ a! Qiú nǐ shǐ wǒmen biàn chéng nǐ de liǎng gè shùnmín, bìng cóng wǒmen de hòuyì zhōng zàochéng guīshùn nǐ de mínzú, qiú nǐ zhāoshì wǒmen cháojìn de yíshì, qiú nǐ shù yòu wǒmen, nǐ què shì zhì yòu de, què shì zhì cí de."
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Wǒmen de zhǔ a! Qiú nǐ zài tāmen zhōngjiān pàiqiǎn yīgè tóngzú de shǐzhě, duì tāmen xuāndú nǐ de qǐshì, jiàoshòu tāmen tiān jīng hé zhìhuì, bìngqiě xūn táo tāmen. Nǐ què shì wànnéng de, què shì zhì ruì de."
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Chú wàngzìfěibáo zhě wài, shéi yuàn bǐqì yì bo lā xīn de zōngjiào ne? Zài jīnshì, wǒ què yǐ jiǎnxuǎnle tā; zài hòushì, tā bì jūyú shànrén zhī liè."
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "Dāngshí, tā de zhǔ duì tā shuō: Nǐ guīshùn ba. Tā shuō: Wǒ yǐ guīshùn quán shìjiè de zhǔle."
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "Yì bo lā xīn hé yè ěr gū bái dōu céng yǐ cǐ zhǔfù zìjǐ de érzi shuō: Wǒ de érzimen a! Zhēnzhǔ què yǐ wèi nǐmen jiǎnxuǎnle zhège zōngjiào, suǒyǐ nǐmen chúfēi chéngle guīshùn de rén bù kěyǐ sǐ."
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Dāng yè ěr gū bái lín sǐ de shíhòu, nǐmen zài yì ma? Dāngshí, tā duì tā de érzimen shuō: Wǒ sǐ zhīhòu, nǐmen jiāng chóngbài shénmó? Tāmen shuō: Wǒmen jiāng chóngbài nǐ suǒ chóngbài de, hé nǐ de zǔxiān yì bo lā xīn, yì sīmǎ yí, yì sī hā gé suǒ chóngbài de ──dú yī de zhǔzǎi ──wǒmen zhǐ guīshùn tā."
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Nà shì yǐ shìqù de mínzú, tāmen dé xiǎngshòu tāmen de xíngwéi de bàochóu, nǐmen dé xiǎngshòu nǐmen de xíngwéi de bàochóu, nǐmen duì tāmen de xíngwéi bù fù zérèn."
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Tāmen shuō: Nǐmen yīngdāng biàn chéng yóutài jiàotú hé jīdū jiàotú, nǐmen cáinéng huòdé zhèngdào. Nǐ shuō: Bùrán, wǒmen zūnxún chóngfèng zhèngjiào de yì bo lā xīn de zōngjiào, tā bùshì yǐ wù pèi zhǔ zhě."
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "Nǐmen shuō: Wǒmen xìn wǒmen suǒ shòu de qǐshì, yǔ yì bo lā xīn, yì sīmǎ yí, yì sī hā gé, yè ěr gū bái hé gè zhīpài suǒ shòu de qǐshì, yǔ mù sà hé ěr sā shòu cì de jīngdiǎn, yǔ zhòng xiānzhī shòu zhǔ suǒ cì de jīngdiǎn; wǒmen duì tāmen zhōng rènhé yīgè, dōu bù jiāyǐ qíshì, wǒmen zhǐ shùn zhēnzhǔ."
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "Rúguǒ tāmen xiàng nǐmen yàng xìndào, nàmò, tāmen què yǐ zūnxún zhèngdàole; rúguǒ tāmen bèiqì zhèngdào, nàmò, tāmen zhǐ xiànyú fǎnduì zhōng; zhēnzhǔ jiàng tì nǐmen dǐyù tāmen. Tā què shì quán cōng de, què shì quánzhī de."
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "Nǐmen dāng bǎochí zhēnzhǔ de xǐlǐ, yǒu shéi bǐ zhēnzhǔ shī xǐ dé gèng hǎo ne? Wǒmen zhǐ chóngbài tā."
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "Nǐ shuō: Nándào nǐmen hé wǒmen zhēnglùn zhēnzhǔ ma? Qíshí, tā shì wǒmen de zhǔ, yěshì nǐmen de zhǔ; wǒmen jiāng shòu wǒmen de xíngwéi de bàochóu, nǐmen yě jiāng shòu nǐmen de xíngwéi de bàochóu; wǒmen zhǐshì zhōngyú tā de."
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Nándào nǐmen shuōguò yì bo lā xīn, yì sīmǎ yí, yì sī hā gé, yè ěr gū bái hé gè zhīpài, dōu shì yóutài jiàotú, huò jīdū jiàotú ma? Nǐ shuō: Nǐmen gèng yǒu zhīshì ne? Háishì zhēnzhǔ gèng yǒu zhīshì ne? Zìjǐ shǒuzhōng yǒu cóng zhēnzhǔ jiàng shì de zhèngjù, ér jiāyǐ yǐnhuì de rén, yǒu shéi bǐ tā hái bù yì ne? Zhēnzhǔ jué bù hūshì nǐmen de xíngwéi."
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Nà shì yǐ shìqù de mínzú, tāmen dé xiǎngshòu tāmen de xíngwéi de bàochóu, nǐmen yě dé xiǎngshòu nǐmen de xíngwéi de bàochóu, nǐmen duì tāmen de xíngwéi bù fù zérèn."
+        }
+    ]
+}

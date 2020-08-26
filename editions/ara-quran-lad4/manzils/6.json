@@ -1,0 +1,4214 @@
+{
+    "manzils": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "wal-ṣāfāti ṣaffan"
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "fal-zājirāti zajran"
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "fal-tāliyāti dhik'ran"
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "inna ilāhakum lawāḥidun"
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "rabbu l-samāwāti wal-arḍi wamā baynahumā warabbu l-mashāriqi"
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "innā zayyannā l-samāa l-dun'yā bizīnatin l-kawākibi"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "waḥif'ẓan min kulli shayṭānin māridin"
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "lā yassammaʿūna ilā l-mala-i l-aʿlā wayuq'dhafūna min kulli jānibin"
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "duḥūran walahum ʿadhābun wāṣibun"
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "illā man khaṭifa l-khaṭfata fa-atbaʿahu shihābun thāqibun"
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "fa-is'taftihim ahum ashaddu khalqan am man khalaqnā innā khalaqnāhum min ṭīnin lāzibin"
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "bal ʿajib'ta wayaskharūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "wa-idhā dhukkirū lā yadhkurūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "wa-idhā ra-aw āyatan yastaskhirūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "waqālū in hādhā illā siḥ'run mubīnun"
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "a-idhā mit'nā wakunnā turāban waʿiẓāman a-innā lamabʿūthūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "awaābāunā l-awalūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "qul naʿam wa-antum dākhirūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "fa-innamā hiya zajratun wāḥidatun fa-idhā hum yanẓurūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "waqālū yāwaylanā hādhā yawmu l-dīni"
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "hādhā yawmu l-faṣli alladhī kuntum bihi tukadhibūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "uḥ'shurū alladhīna ẓalamū wa-azwājahum wamā kānū yaʿbudūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "min dūni l-lahi fa-ih'dūhum ilā ṣirāṭi l-jaḥīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "waqifūhum innahum masūlūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "mā lakum lā tanāṣarūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "bal humu l-yawma mus'taslimūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "wa-aqbala baʿḍuhum ʿalā baʿḍin yatasāalūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "qālū innakum kuntum tatūnanā ʿani l-yamīni"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "qālū bal lam takūnū mu'minīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "wamā kāna lanā ʿalaykum min sul'ṭānin bal kuntum qawman ṭāghīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "faḥaqqa ʿalaynā qawlu rabbinā innā ladhāiqūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "fa-aghwaynākum innā kunnā ghāwīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "fa-innahum yawma-idhin fī l-ʿadhābi mush'tarikūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "innā kadhālika nafʿalu bil-muj'rimīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "innahum kānū idhā qīla lahum lā ilāha illā l-lahu yastakbirūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "wayaqūlūna a-innā latārikū ālihatinā lishāʿirin majnūnin"
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "bal jāa bil-ḥaqi waṣaddaqa l-mur'salīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "innakum ladhāiqū l-ʿadhābi l-alīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "wamā tuj'zawna illā mā kuntum taʿmalūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "illā ʿibāda l-lahi l-mukh'laṣīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "ulāika lahum riz'qun maʿlūmun"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "fawākihu wahum muk'ramūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "fī jannāti l-naʿīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "ʿalā sururin mutaqābilīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "yuṭāfu ʿalayhim bikasin min maʿīnin"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "bayḍāa ladhatin lilshāribīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "lā fīhā ghawlun walā hum ʿanhā yunzafūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "waʿindahum qāṣirātu l-ṭarfi ʿīnun"
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "ka-annahunna bayḍun maknūnun"
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "fa-aqbala baʿḍuhum ʿalā baʿḍin yatasāalūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "qāla qāilun min'hum innī kāna lī qarīnun"
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "yaqūlu a-innaka lamina l-muṣadiqīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "a-idhā mit'nā wakunnā turāban waʿiẓāman a-innā lamadīnūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "qāla hal antum muṭṭaliʿūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "fa-iṭṭalaʿa faraāhu fī sawāi l-jaḥīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "qāla tal-lahi in kidtta latur'dīni"
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "walawlā niʿ'matu rabbī lakuntu mina l-muḥ'ḍarīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "afamā naḥnu bimayyitīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "illā mawtatanā l-ūlā wamā naḥnu bimuʿadhabīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "inna hādhā lahuwa l-fawzu l-ʿaẓīmu"
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "limith'li hādhā falyaʿmali l-ʿāmilūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "adhālika khayrun nuzulan am shajaratu l-zaqūmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "innā jaʿalnāhā fit'natan lilẓẓālimīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "innahā shajaratun takhruju fī aṣli l-jaḥīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "ṭalʿuhā ka-annahu ruūsu l-shayāṭīni"
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "fa-innahum laākilūna min'hā famāliūna min'hā l-buṭūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "thumma inna lahum ʿalayhā lashawban min ḥamīmin"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "thumma inna marjiʿahum la-ilā l-jaḥīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "innahum alfaw ābāahum ḍāllīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "fahum ʿalā āthārihim yuh'raʿūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "walaqad ḍalla qablahum aktharu l-awalīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "walaqad arsalnā fīhim mundhirīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "fa-unẓur kayfa kāna ʿāqibatu l-mundharīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "illā ʿibāda l-lahi l-mukh'laṣīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "walaqad nādānā nūḥun falaniʿ'ma l-mujībūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "wanajjaynāhu wa-ahlahu mina l-karbi l-ʿaẓīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "wajaʿalnā dhurriyyatahu humu l-bāqīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "wataraknā ʿalayhi fī l-ākhirīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "salāmun ʿalā nūḥin fī l-ʿālamīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "innā kadhālika najzī l-muḥ'sinīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "innahu min ʿibādinā l-mu'minīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "thumma aghraqnā l-ākharīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "wa-inna min shīʿatihi la-ib'rāhīma"
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "idh jāa rabbahu biqalbin salīmin"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "idh qāla li-abīhi waqawmihi mādhā taʿbudūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "a-if'kan ālihatan dūna l-lahi turīdūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "famā ẓannukum birabbi l-ʿālamīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "fanaẓara naẓratan fī l-nujūmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "faqāla innī saqīmun"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "fatawallaw ʿanhu mud'birīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "farāgha ilā ālihatihim faqāla alā takulūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "mā lakum lā tanṭiqūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "farāgha ʿalayhim ḍarban bil-yamīni"
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "fa-aqbalū ilayhi yaziffūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "qāla ataʿbudūna mā tanḥitūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "wal-lahu khalaqakum wamā taʿmalūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "qālū ib'nū lahu bun'yānan fa-alqūhu fī l-jaḥīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "fa-arādū bihi kaydan fajaʿalnāhumu l-asfalīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "waqāla innī dhāhibun ilā rabbī sayahdīni"
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "rabbi hab lī mina l-ṣāliḥīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "fabasharnāhu bighulāmin ḥalīmin"
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "falammā balagha maʿahu l-saʿya qāla yābunayya innī arā fī l-manāmi annī adhbaḥuka fa-unẓur mādhā tarā qāla yāabati if'ʿal mā tu'maru satajidunī in shāa l-lahu mina l-ṣābirīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "falammā aslamā watallahu lil'jabīni"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "wanādaynāhu an yāib'rāhīmu"
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "qad ṣaddaqta l-ru'yā innā kadhālika najzī l-muḥ'sinīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "inna hādhā lahuwa l-balāu l-mubīnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "wafadaynāhu bidhib'ḥin ʿaẓīmin"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "wataraknā ʿalayhi fī l-ākhirīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "salāmun ʿalā ib'rāhīma"
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "kadhālika najzī l-muḥ'sinīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "innahu min ʿibādinā l-mu'minīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "wabasharnāhu bi-is'ḥāqa nabiyyan mina l-ṣāliḥīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "wabāraknā ʿalayhi waʿalā is'ḥāqa wamin dhurriyyatihimā muḥ'sinun waẓālimun linafsihi mubīnun"
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "walaqad manannā ʿalā mūsā wahārūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "wanajjaynāhumā waqawmahumā mina l-karbi l-ʿaẓīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "wanaṣarnāhum fakānū humu l-ghālibīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "waātaynāhumā l-kitāba l-mus'tabīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "wahadaynāhumā l-ṣirāṭa l-mus'taqīma"
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "wataraknā ʿalayhimā fī l-ākhirīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "salāmun ʿalā mūsā wahārūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "innā kadhālika najzī l-muḥ'sinīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "innahumā min ʿibādinā l-mu'minīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "wa-inna il'yāsa lamina l-mur'salīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "idh qāla liqawmihi alā tattaqūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "atadʿūna baʿlan watadharūna aḥsana l-khāliqīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "al-laha rabbakum warabba ābāikumu l-awalīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "fakadhabūhu fa-innahum lamuḥ'ḍarūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "illā ʿibāda l-lahi l-mukh'laṣīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "wataraknā ʿalayhi fī l-ākhirīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "salāmun ʿalā il yāsīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "innā kadhālika najzī l-muḥ'sinīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "innahu min ʿibādinā l-mu'minīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "wa-inna lūṭan lamina l-mur'salīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "idh najjaynāhu wa-ahlahu ajmaʿīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "illā ʿajūzan fī l-ghābirīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "thumma dammarnā l-ākharīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "wa-innakum latamurrūna ʿalayhim muṣ'biḥīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "wabi-al-layli afalā taʿqilūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "wa-inna yūnusa lamina l-mur'salīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "idh abaqa ilā l-ful'ki l-mashḥūni"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "fasāhama fakāna mina l-mud'ḥaḍīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "fal-taqamahu l-ḥūtu wahuwa mulīmun"
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "falawlā annahu kāna mina l-musabiḥīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "lalabitha fī baṭnihi ilā yawmi yub'ʿathūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "fanabadhnāhu bil-ʿarāi wahuwa saqīmun"
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "wa-anbatnā ʿalayhi shajaratan min yaqṭīnin"
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "wa-arsalnāhu ilā mi-ati alfin aw yazīdūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "faāmanū famattaʿnāhum ilā ḥīnin"
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "fa-is'taftihim alirabbika l-banātu walahumu l-banūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "am khalaqnā l-malāikata ināthan wahum shāhidūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "alā innahum min if'kihim layaqūlūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "walada l-lahu wa-innahum lakādhibūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "aṣṭafā l-banāti ʿalā l-banīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "mā lakum kayfa taḥkumūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "afalā tadhakkarūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "am lakum sul'ṭānun mubīnun"
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "fatū bikitābikum in kuntum ṣādiqīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "wajaʿalū baynahu wabayna l-jinati nasaban walaqad ʿalimati l-jinatu innahum lamuḥ'ḍarūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "sub'ḥāna l-lahi ʿammā yaṣifūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "illā ʿibāda l-lahi l-mukh'laṣīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "fa-innakum wamā taʿbudūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "mā antum ʿalayhi bifātinīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "illā man huwa ṣāli l-jaḥīmi"
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "wamā minnā illā lahu maqāmun maʿlūmun"
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "wa-innā lanaḥnu l-ṣāfūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "wa-innā lanaḥnu l-musabiḥūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "wa-in kānū layaqūlūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "law anna ʿindanā dhik'ran mina l-awalīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "lakunnā ʿibāda l-lahi l-mukh'laṣīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "fakafarū bihi fasawfa yaʿlamūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "walaqad sabaqat kalimatunā liʿibādinā l-mur'salīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "innahum lahumu l-manṣūrūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "wa-inna jundanā lahumu l-ghālibūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "fatawalla ʿanhum ḥattā ḥīnin"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "wa-abṣir'hum fasawfa yub'ṣirūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "afabiʿadhābinā yastaʿjilūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "fa-idhā nazala bisāḥatihim fasāa ṣabāḥu l-mundharīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "watawalla ʿanhum ḥattā ḥīnin"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "wa-abṣir fasawfa yub'ṣirūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "sub'ḥāna rabbika rabbi l-ʿizati ʿammā yaṣifūna"
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "wasalāmun ʿalā l-mur'salīna"
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "wal-ḥamdu lillahi rabbi l-ʿālamīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 1,
+            "text": "sad wal-qur'āni dhī l-dhik'ri"
+        },
+        {
+            "chapter": 38,
+            "verse": 2,
+            "text": "bali alladhīna kafarū fī ʿizzatin washiqāqin"
+        },
+        {
+            "chapter": 38,
+            "verse": 3,
+            "text": "kam ahlaknā min qablihim min qarnin fanādaw walāta ḥīna manāṣin"
+        },
+        {
+            "chapter": 38,
+            "verse": 4,
+            "text": "waʿajibū an jāahum mundhirun min'hum waqāla l-kāfirūna hādhā sāḥirun kadhābun"
+        },
+        {
+            "chapter": 38,
+            "verse": 5,
+            "text": "ajaʿala l-ālihata ilāhan wāḥidan inna hādhā lashayon ʿujābun"
+        },
+        {
+            "chapter": 38,
+            "verse": 6,
+            "text": "wa-inṭalaqa l-mala-u min'hum ani im'shū wa-iṣ'birū ʿalā ālihatikum inna hādhā lashayon yurādu"
+        },
+        {
+            "chapter": 38,
+            "verse": 7,
+            "text": "mā samiʿ'nā bihādhā fī l-milati l-ākhirati in hādhā illā ikh'tilāqun"
+        },
+        {
+            "chapter": 38,
+            "verse": 8,
+            "text": "a-unzila ʿalayhi l-dhik'ru min bayninā bal hum fī shakkin min dhik'rī bal lammā yadhūqū ʿadhābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 9,
+            "text": "am ʿindahum khazāinu raḥmati rabbika l-ʿazīzi l-wahābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 10,
+            "text": "am lahum mul'ku l-samāwāti wal-arḍi wamā baynahumā falyartaqū fī l-asbābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 11,
+            "text": "jundun mā hunālika mahzūmun mina l-aḥzābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 12,
+            "text": "kadhabat qablahum qawmu nūḥin waʿādun wafir'ʿawnu dhū l-awtādi"
+        },
+        {
+            "chapter": 38,
+            "verse": 13,
+            "text": "wathamūdu waqawmu lūṭin wa-aṣḥābu al'aykati ulāika l-aḥzābu"
+        },
+        {
+            "chapter": 38,
+            "verse": 14,
+            "text": "in kullun illā kadhaba l-rusula faḥaqqa ʿiqābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 15,
+            "text": "wamā yanẓuru hāulāi illā ṣayḥatan wāḥidatan mā lahā min fawāqin"
+        },
+        {
+            "chapter": 38,
+            "verse": 16,
+            "text": "waqālū rabbanā ʿajjil lanā qiṭṭanā qabla yawmi l-ḥisābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 17,
+            "text": "iṣ'bir ʿalā mā yaqūlūna wa-udh'kur ʿabdanā dāwūda dhā l-aydi innahu awwābun"
+        },
+        {
+            "chapter": 38,
+            "verse": 18,
+            "text": "innā sakharnā l-jibāla maʿahu yusabbiḥ'na bil-ʿashiyi wal-ish'rāqi"
+        },
+        {
+            "chapter": 38,
+            "verse": 19,
+            "text": "wal-ṭayra maḥshūratan kullun lahu awwābun"
+        },
+        {
+            "chapter": 38,
+            "verse": 20,
+            "text": "washadadnā mul'kahu waātaynāhu l-ḥik'mata wafaṣla l-khiṭābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 21,
+            "text": "wahal atāka naba-u l-khaṣmi idh tasawwarū l-miḥ'rāba"
+        },
+        {
+            "chapter": 38,
+            "verse": 22,
+            "text": "idh dakhalū ʿalā dāwūda fafaziʿa min'hum qālū lā takhaf khaṣmāni baghā baʿḍunā ʿalā baʿḍin fa-uḥ'kum baynanā bil-ḥaqi walā tush'ṭiṭ wa-ih'dinā ilā sawāi l-ṣirāṭi"
+        },
+        {
+            "chapter": 38,
+            "verse": 23,
+            "text": "inna hādhā akhī lahu tis'ʿun watis'ʿūna naʿjatan waliya naʿjatun wāḥidatun faqāla akfil'nīhā waʿazzanī fī l-khiṭābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 24,
+            "text": "qāla laqad ẓalamaka bisuāli naʿjatika ilā niʿājihi wa-inna kathīran mina l-khulaṭāi layabghī baʿḍuhum ʿalā baʿḍin illā alladhīna āmanū waʿamilū l-ṣāliḥāti waqalīlun mā hum waẓanna dāwūdu annamā fatannāhu fa-is'taghfara rabbahu wakharra rākiʿan wa-anāba"
+        },
+        {
+            "chapter": 38,
+            "verse": 25,
+            "text": "faghafarnā lahu dhālika wa-inna lahu ʿindanā lazul'fā waḥus'na maābin"
+        },
+        {
+            "chapter": 38,
+            "verse": 26,
+            "text": "yādāwūdu innā jaʿalnāka khalīfatan fī l-arḍi fa-uḥ'kum bayna l-nāsi bil-ḥaqi walā tattabiʿi l-hawā fayuḍillaka ʿan sabīli l-lahi inna alladhīna yaḍillūna ʿan sabīli l-lahi lahum ʿadhābun shadīdun bimā nasū yawma l-ḥisābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 27,
+            "text": "wamā khalaqnā l-samāa wal-arḍa wamā baynahumā bāṭilan dhālika ẓannu alladhīna kafarū fawaylun lilladhīna kafarū mina l-nāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 28,
+            "text": "am najʿalu alladhīna āmanū waʿamilū l-ṣāliḥāti kal-muf'sidīna fī l-arḍi am najʿalu l-mutaqīna kal-fujāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 29,
+            "text": "kitābun anzalnāhu ilayka mubārakun liyaddabbarū āyātihi waliyatadhakkara ulū l-albābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 30,
+            "text": "wawahabnā lidāwūda sulaymāna niʿ'ma l-ʿabdu innahu awwābun"
+        },
+        {
+            "chapter": 38,
+            "verse": 31,
+            "text": "idh ʿuriḍa ʿalayhi bil-ʿashiyi l-ṣāfinātu l-jiyādu"
+        },
+        {
+            "chapter": 38,
+            "verse": 32,
+            "text": "faqāla innī aḥbabtu ḥubba l-khayri ʿan dhik'ri rabbī ḥattā tawārat bil-ḥijābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 33,
+            "text": "ruddūhā ʿalayya faṭafiqa masḥan bil-sūqi wal-aʿnāqi"
+        },
+        {
+            "chapter": 38,
+            "verse": 34,
+            "text": "walaqad fatannā sulaymāna wa-alqaynā ʿalā kur'siyyihi jasadan thumma anāba"
+        },
+        {
+            "chapter": 38,
+            "verse": 35,
+            "text": "qāla rabbi igh'fir lī wahab lī mul'kan lā yanbaghī li-aḥadin min baʿdī innaka anta l-wahābu"
+        },
+        {
+            "chapter": 38,
+            "verse": 36,
+            "text": "fasakharnā lahu l-rīḥa tajrī bi-amrihi rukhāan ḥaythu aṣāba"
+        },
+        {
+            "chapter": 38,
+            "verse": 37,
+            "text": "wal-shayāṭīna kulla bannāin waghawwāṣin"
+        },
+        {
+            "chapter": 38,
+            "verse": 38,
+            "text": "waākharīna muqarranīna fī l-aṣfādi"
+        },
+        {
+            "chapter": 38,
+            "verse": 39,
+            "text": "hādhā ʿaṭāunā fa-um'nun aw amsik bighayri ḥisābin"
+        },
+        {
+            "chapter": 38,
+            "verse": 40,
+            "text": "wa-inna lahu ʿindanā lazul'fā waḥus'na maābin"
+        },
+        {
+            "chapter": 38,
+            "verse": 41,
+            "text": "wa-udh'kur ʿabdanā ayyūba idh nādā rabbahu annī massaniya l-shayṭānu binuṣ'bin waʿadhābin"
+        },
+        {
+            "chapter": 38,
+            "verse": 42,
+            "text": "ur'kuḍ birij'lika hādhā mugh'tasalun bāridun washarābun"
+        },
+        {
+            "chapter": 38,
+            "verse": 43,
+            "text": "wawahabnā lahu ahlahu wamith'lahum maʿahum raḥmatan minnā wadhik'rā li-ulī l-albābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 44,
+            "text": "wakhudh biyadika ḍigh'than fa-iḍ'rib bihi walā taḥnath innā wajadnāhu ṣābiran niʿ'ma l-ʿabdu innahu awwābun"
+        },
+        {
+            "chapter": 38,
+            "verse": 45,
+            "text": "wa-udh'kur ʿibādanā ib'rāhīma wa-is'ḥāqa wayaʿqūba ulī l-aydī wal-abṣāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 46,
+            "text": "innā akhlaṣnāhum bikhāliṣatin dhik'rā l-dāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 47,
+            "text": "wa-innahum ʿindanā lamina l-muṣ'ṭafayna l-akhyāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 48,
+            "text": "wa-udh'kur is'māʿīla wal-yasaʿa wadhā l-kif'li wakullun mina l-akhyāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 49,
+            "text": "hādhā dhik'run wa-inna lil'muttaqīna laḥus'na maābin"
+        },
+        {
+            "chapter": 38,
+            "verse": 50,
+            "text": "jannāti ʿadnin mufattaḥatan lahumu l-abwābu"
+        },
+        {
+            "chapter": 38,
+            "verse": 51,
+            "text": "muttakiīna fīhā yadʿūna fīhā bifākihatin kathīratin washarābin"
+        },
+        {
+            "chapter": 38,
+            "verse": 52,
+            "text": "waʿindahum qāṣirātu l-ṭarfi atrābun"
+        },
+        {
+            "chapter": 38,
+            "verse": 53,
+            "text": "hādhā mā tūʿadūna liyawmi l-ḥisābi"
+        },
+        {
+            "chapter": 38,
+            "verse": 54,
+            "text": "inna hādhā lariz'qunā mā lahu min nafādin"
+        },
+        {
+            "chapter": 38,
+            "verse": 55,
+            "text": "hādhā wa-inna lilṭṭāghīna lasharra maābin"
+        },
+        {
+            "chapter": 38,
+            "verse": 56,
+            "text": "jahannama yaṣlawnahā fabi'sa l-mihādu"
+        },
+        {
+            "chapter": 38,
+            "verse": 57,
+            "text": "hādhā falyadhūqūhu ḥamīmun waghassāqun"
+        },
+        {
+            "chapter": 38,
+            "verse": 58,
+            "text": "waākharu min shaklihi azwājun"
+        },
+        {
+            "chapter": 38,
+            "verse": 59,
+            "text": "hādhā fawjun muq'taḥimun maʿakum lā marḥaban bihim innahum ṣālū l-nāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 60,
+            "text": "qālū bal antum lā marḥaban bikum antum qaddamtumūhu lanā fabi'sa l-qarāru"
+        },
+        {
+            "chapter": 38,
+            "verse": 61,
+            "text": "qālū rabbanā man qaddama lanā hādhā fazid'hu ʿadhāban ḍiʿ'fan fī l-nāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 62,
+            "text": "waqālū mā lanā lā narā rijālan kunnā naʿudduhum mina l-ashrāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 63,
+            "text": "attakhadhnāhum sikh'riyyan am zāghat ʿanhumu l-abṣāru"
+        },
+        {
+            "chapter": 38,
+            "verse": 64,
+            "text": "inna dhālika laḥaqqun takhāṣumu ahli l-nāri"
+        },
+        {
+            "chapter": 38,
+            "verse": 65,
+            "text": "qul innamā anā mundhirun wamā min ilāhin illā l-lahu l-wāḥidu l-qahāru"
+        },
+        {
+            "chapter": 38,
+            "verse": 66,
+            "text": "rabbu l-samāwāti wal-arḍi wamā baynahumā l-ʿazīzu l-ghafāru"
+        },
+        {
+            "chapter": 38,
+            "verse": 67,
+            "text": "qul huwa naba-on ʿaẓīmun"
+        },
+        {
+            "chapter": 38,
+            "verse": 68,
+            "text": "antum ʿanhu muʿ'riḍūna"
+        },
+        {
+            "chapter": 38,
+            "verse": 69,
+            "text": "mā kāna liya min ʿil'min bil-mala-i l-aʿlā idh yakhtaṣimūna"
+        },
+        {
+            "chapter": 38,
+            "verse": 70,
+            "text": "in yūḥā ilayya illā annamā anā nadhīrun mubīnun"
+        },
+        {
+            "chapter": 38,
+            "verse": 71,
+            "text": "idh qāla rabbuka lil'malāikati innī khāliqun basharan min ṭīnin"
+        },
+        {
+            "chapter": 38,
+            "verse": 72,
+            "text": "fa-idhā sawwaytuhu wanafakhtu fīhi min rūḥī faqaʿū lahu sājidīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 73,
+            "text": "fasajada l-malāikatu kulluhum ajmaʿūna"
+        },
+        {
+            "chapter": 38,
+            "verse": 74,
+            "text": "illā ib'līsa is'takbara wakāna mina l-kāfirīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 75,
+            "text": "qāla yāib'līsu mā manaʿaka an tasjuda limā khalaqtu biyadayya astakbarta am kunta mina l-ʿālīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 76,
+            "text": "qāla anā khayrun min'hu khalaqtanī min nārin wakhalaqtahu min ṭīnin"
+        },
+        {
+            "chapter": 38,
+            "verse": 77,
+            "text": "qāla fa-ukh'ruj min'hā fa-innaka rajīmun"
+        },
+        {
+            "chapter": 38,
+            "verse": 78,
+            "text": "wa-inna ʿalayka laʿnatī ilā yawmi l-dīni"
+        },
+        {
+            "chapter": 38,
+            "verse": 79,
+            "text": "qāla rabbi fa-anẓir'nī ilā yawmi yub'ʿathūna"
+        },
+        {
+            "chapter": 38,
+            "verse": 80,
+            "text": "qāla fa-innaka mina l-munẓarīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 81,
+            "text": "ilā yawmi l-waqti l-maʿlūmi"
+        },
+        {
+            "chapter": 38,
+            "verse": 82,
+            "text": "qāla fabiʿizzatika la-ugh'wiyannahum ajmaʿīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 83,
+            "text": "illā ʿibādaka min'humu l-mukh'laṣīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 84,
+            "text": "qāla fal-ḥaqu wal-ḥaqa aqūlu"
+        },
+        {
+            "chapter": 38,
+            "verse": 85,
+            "text": "la-amla-anna jahannama minka wamimman tabiʿaka min'hum ajmaʿīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 86,
+            "text": "qul mā asalukum ʿalayhi min ajrin wamā anā mina l-mutakalifīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 87,
+            "text": "in huwa illā dhik'run lil'ʿālamīna"
+        },
+        {
+            "chapter": 38,
+            "verse": 88,
+            "text": "walataʿlamunna naba-ahu baʿda ḥīnin"
+        },
+        {
+            "chapter": 39,
+            "verse": 1,
+            "text": "tanzīlu l-kitābi mina l-lahi l-ʿazīzi l-ḥakīmi"
+        },
+        {
+            "chapter": 39,
+            "verse": 2,
+            "text": "innā anzalnā ilayka l-kitāba bil-ḥaqi fa-uʿ'budi l-laha mukh'liṣan lahu l-dīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 3,
+            "text": "alā lillahi l-dīnu l-khāliṣu wa-alladhīna ittakhadhū min dūnihi awliyāa mā naʿbuduhum illā liyuqarribūnā ilā l-lahi zul'fā inna l-laha yaḥkumu baynahum fī mā hum fīhi yakhtalifūna inna l-laha lā yahdī man huwa kādhibun kaffārun"
+        },
+        {
+            "chapter": 39,
+            "verse": 4,
+            "text": "law arāda l-lahu an yattakhidha waladan la-iṣ'ṭafā mimmā yakhluqu mā yashāu sub'ḥānahu huwa l-lahu l-wāḥidu l-qahāru"
+        },
+        {
+            "chapter": 39,
+            "verse": 5,
+            "text": "khalaqa l-samāwāti wal-arḍa bil-ḥaqi yukawwiru al-layla ʿalā l-nahāri wayukawwiru l-nahāra ʿalā al-layli wasakhara l-shamsa wal-qamara kullun yajrī li-ajalin musamman alā huwa l-ʿazīzu l-ghafāru"
+        },
+        {
+            "chapter": 39,
+            "verse": 6,
+            "text": "khalaqakum min nafsin wāḥidatin thumma jaʿala min'hā zawjahā wa-anzala lakum mina l-anʿāmi thamāniyata azwājin yakhluqukum fī buṭūni ummahātikum khalqan min baʿdi khalqin fī ẓulumātin thalāthin dhālikumu l-lahu rabbukum lahu l-mul'ku lā ilāha illā huwa fa-annā tuṣ'rafūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 7,
+            "text": "in takfurū fa-inna l-laha ghaniyyun ʿankum walā yarḍā liʿibādihi l-kuf'ra wa-in tashkurū yarḍahu lakum walā taziru wāziratun wiz'ra ukh'rā thumma ilā rabbikum marjiʿukum fayunabbi-ukum bimā kuntum taʿmalūna innahu ʿalīmun bidhāti l-ṣudūri"
+        },
+        {
+            "chapter": 39,
+            "verse": 8,
+            "text": "wa-idhā massa l-insāna ḍurrun daʿā rabbahu munīban ilayhi thumma idhā khawwalahu niʿ'matan min'hu nasiya mā kāna yadʿū ilayhi min qablu wajaʿala lillahi andādan liyuḍilla ʿan sabīlihi qul tamattaʿ bikuf'rika qalīlan innaka min aṣḥābi l-nāri"
+        },
+        {
+            "chapter": 39,
+            "verse": 9,
+            "text": "amman huwa qānitun ānāa al-layli sājidan waqāiman yaḥdharu l-ākhirata wayarjū raḥmata rabbihi qul hal yastawī alladhīna yaʿlamūna wa-alladhīna lā yaʿlamūna innamā yatadhakkaru ulū l-albābi"
+        },
+        {
+            "chapter": 39,
+            "verse": 10,
+            "text": "qul yāʿibādi alladhīna āmanū ittaqū rabbakum lilladhīna aḥsanū fī hādhihi l-dun'yā ḥasanatun wa-arḍu l-lahi wāsiʿatun innamā yuwaffā l-ṣābirūna ajrahum bighayri ḥisābin"
+        },
+        {
+            "chapter": 39,
+            "verse": 11,
+            "text": "qul innī umir'tu an aʿbuda l-laha mukh'liṣan lahu l-dīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 12,
+            "text": "wa-umir'tu li-an akūna awwala l-mus'limīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 13,
+            "text": "qul innī akhāfu in ʿaṣaytu rabbī ʿadhāba yawmin ʿaẓīmin"
+        },
+        {
+            "chapter": 39,
+            "verse": 14,
+            "text": "quli l-laha aʿbudu mukh'liṣan lahu dīnī"
+        },
+        {
+            "chapter": 39,
+            "verse": 15,
+            "text": "fa-uʿ'budū mā shi'tum min dūnihi qul inna l-khāsirīna alladhīna khasirū anfusahum wa-ahlīhim yawma l-qiyāmati alā dhālika huwa l-khus'rānu l-mubīnu"
+        },
+        {
+            "chapter": 39,
+            "verse": 16,
+            "text": "lahum min fawqihim ẓulalun mina l-nāri wamin taḥtihim ẓulalun dhālika yukhawwifu l-lahu bihi ʿibādahu yāʿibādi fa-ittaqūni"
+        },
+        {
+            "chapter": 39,
+            "verse": 17,
+            "text": "wa-alladhīna ij'tanabū l-ṭāghūta an yaʿbudūhā wa-anābū ilā l-lahi lahumu l-bush'rā fabashir ʿibādi"
+        },
+        {
+            "chapter": 39,
+            "verse": 18,
+            "text": "alladhīna yastamiʿūna l-qawla fayattabiʿūna aḥsanahu ulāika alladhīna hadāhumu l-lahu wa-ulāika hum ulū l-albābi"
+        },
+        {
+            "chapter": 39,
+            "verse": 19,
+            "text": "afaman ḥaqqa ʿalayhi kalimatu l-ʿadhābi afa-anta tunqidhu man fī l-nāri"
+        },
+        {
+            "chapter": 39,
+            "verse": 20,
+            "text": "lākini alladhīna ittaqaw rabbahum lahum ghurafun min fawqihā ghurafun mabniyyatun tajrī min taḥtihā l-anhāru waʿda l-lahi lā yukh'lifu l-lahu l-mīʿāda"
+        },
+        {
+            "chapter": 39,
+            "verse": 21,
+            "text": "alam tara anna l-laha anzala mina l-samāi māan fasalakahu yanābīʿa fī l-arḍi thumma yukh'riju bihi zarʿan mukh'talifan alwānuhu thumma yahīju fatarāhu muṣ'farran thumma yajʿaluhu ḥuṭāman inna fī dhālika ladhik'rā li-ulī l-albābi"
+        },
+        {
+            "chapter": 39,
+            "verse": 22,
+            "text": "afaman sharaḥa l-lahu ṣadrahu lil'is'lāmi fahuwa ʿalā nūrin min rabbihi fawaylun lil'qāsiyati qulūbuhum min dhik'ri l-lahi ulāika fī ḍalālin mubīnin"
+        },
+        {
+            "chapter": 39,
+            "verse": 23,
+            "text": "al-lahu nazzala aḥsana l-ḥadīthi kitāban mutashābihan mathāniya taqshaʿirru min'hu julūdu alladhīna yakhshawna rabbahum thumma talīnu julūduhum waqulūbuhum ilā dhik'ri l-lahi dhālika hudā l-lahi yahdī bihi man yashāu waman yuḍ'lili l-lahu famā lahu min hādin"
+        },
+        {
+            "chapter": 39,
+            "verse": 24,
+            "text": "afaman yattaqī biwajhihi sūa l-ʿadhābi yawma l-qiyāmati waqīla lilẓẓālimīna dhūqū mā kuntum taksibūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 25,
+            "text": "kadhaba alladhīna min qablihim fa-atāhumu l-ʿadhābu min ḥaythu lā yashʿurūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 26,
+            "text": "fa-adhāqahumu l-lahu l-khiz'ya fī l-ḥayati l-dun'yā walaʿadhābu l-ākhirati akbaru law kānū yaʿlamūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 27,
+            "text": "walaqad ḍarabnā lilnnāsi fī hādhā l-qur'āni min kulli mathalin laʿallahum yatadhakkarūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 28,
+            "text": "qur'ānan ʿarabiyyan ghayra dhī ʿiwajin laʿallahum yattaqūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 29,
+            "text": "ḍaraba l-lahu mathalan rajulan fīhi shurakāu mutashākisūna warajulan salaman lirajulin hal yastawiyāni mathalan l-ḥamdu lillahi bal aktharuhum lā yaʿlamūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 30,
+            "text": "innaka mayyitun wa-innahum mayyitūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 31,
+            "text": "thumma innakum yawma l-qiyāmati ʿinda rabbikum takhtaṣimūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 32,
+            "text": "faman aẓlamu mimman kadhaba ʿalā l-lahi wakadhaba bil-ṣid'qi idh jāahu alaysa fī jahannama mathwan lil'kāfirīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 33,
+            "text": "wa-alladhī jāa bil-ṣid'qi waṣaddaqa bihi ulāika humu l-mutaqūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 34,
+            "text": "lahum mā yashāūna ʿinda rabbihim dhālika jazāu l-muḥ'sinīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 35,
+            "text": "liyukaffira l-lahu ʿanhum aswa-a alladhī ʿamilū wayajziyahum ajrahum bi-aḥsani alladhī kānū yaʿmalūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 36,
+            "text": "alaysa l-lahu bikāfin ʿabdahu wayukhawwifūnaka bi-alladhīna min dūnihi waman yuḍ'lili l-lahu famā lahu min hādin"
+        },
+        {
+            "chapter": 39,
+            "verse": 37,
+            "text": "waman yahdi l-lahu famā lahu min muḍillin alaysa l-lahu biʿazīzin dhī intiqāmin"
+        },
+        {
+            "chapter": 39,
+            "verse": 38,
+            "text": "wala-in sa-altahum man khalaqa l-samāwāti wal-arḍa layaqūlunna l-lahu qul afara-aytum mā tadʿūna min dūni l-lahi in arādaniya l-lahu biḍurrin hal hunna kāshifātu ḍurrihi aw arādanī biraḥmatin hal hunna mum'sikātu raḥmatihi qul ḥasbiya l-lahu ʿalayhi yatawakkalu l-mutawakilūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 39,
+            "text": "qul yāqawmi iʿ'malū ʿalā makānatikum innī ʿāmilun fasawfa taʿlamūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 40,
+            "text": "man yatīhi ʿadhābun yukh'zīhi wayaḥillu ʿalayhi ʿadhābun muqīmun"
+        },
+        {
+            "chapter": 39,
+            "verse": 41,
+            "text": "innā anzalnā ʿalayka l-kitāba lilnnāsi bil-ḥaqi famani ih'tadā falinafsihi waman ḍalla fa-innamā yaḍillu ʿalayhā wamā anta ʿalayhim biwakīlin"
+        },
+        {
+            "chapter": 39,
+            "verse": 42,
+            "text": "al-lahu yatawaffā l-anfusa ḥīna mawtihā wa-allatī lam tamut fī manāmihā fayum'siku allatī qaḍā ʿalayhā l-mawta wayur'silu l-ukh'rā ilā ajalin musamman inna fī dhālika laāyātin liqawmin yatafakkarūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 43,
+            "text": "ami ittakhadhū min dūni l-lahi shufaʿāa qul awalaw kānū lā yamlikūna shayan walā yaʿqilūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 44,
+            "text": "qul lillahi l-shafāʿatu jamīʿan lahu mul'ku l-samāwāti wal-arḍi thumma ilayhi tur'jaʿūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 45,
+            "text": "wa-idhā dhukira l-lahu waḥdahu ish'ma-azzat qulūbu alladhīna lā yu'minūna bil-ākhirati wa-idhā dhukira alladhīna min dūnihi idhā hum yastabshirūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 46,
+            "text": "quli l-lahuma fāṭira l-samāwāti wal-arḍi ʿālima l-ghaybi wal-shahādati anta taḥkumu bayna ʿibādika fī mā kānū fīhi yakhtalifūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 47,
+            "text": "walaw anna lilladhīna ẓalamū mā fī l-arḍi jamīʿan wamith'lahu maʿahu la-if'tadaw bihi min sūi l-ʿadhābi yawma l-qiyāmati wabadā lahum mina l-lahi mā lam yakūnū yaḥtasibūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 48,
+            "text": "wabadā lahum sayyiātu mā kasabū waḥāqa bihim mā kānū bihi yastahziūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 49,
+            "text": "fa-idhā massa l-insāna ḍurrun daʿānā thumma idhā khawwalnāhu niʿ'matan minnā qāla innamā ūtītuhu ʿalā ʿil'min bal hiya fit'natun walākinna aktharahum lā yaʿlamūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 50,
+            "text": "qad qālahā alladhīna min qablihim famā aghnā ʿanhum mā kānū yaksibūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 51,
+            "text": "fa-aṣābahum sayyiātu mā kasabū wa-alladhīna ẓalamū min hāulāi sayuṣībuhum sayyiātu mā kasabū wamā hum bimuʿ'jizīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 52,
+            "text": "awalam yaʿlamū anna l-laha yabsuṭu l-riz'qa liman yashāu wayaqdiru inna fī dhālika laāyātin liqawmin yu'minūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 53,
+            "text": "qul yāʿibādiya alladhīna asrafū ʿalā anfusihim lā taqnaṭū min raḥmati l-lahi inna l-laha yaghfiru l-dhunūba jamīʿan innahu huwa l-ghafūru l-raḥīmu"
+        },
+        {
+            "chapter": 39,
+            "verse": 54,
+            "text": "wa-anībū ilā rabbikum wa-aslimū lahu min qabli an yatiyakumu l-ʿadhābu thumma lā tunṣarūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 55,
+            "text": "wa-ittabiʿū aḥsana mā unzila ilaykum min rabbikum min qabli an yatiyakumu l-ʿadhābu baghtatan wa-antum lā tashʿurūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 56,
+            "text": "an taqūla nafsun yāḥasratā ʿalā mā farraṭtu fī janbi l-lahi wa-in kuntu lamina l-sākhirīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 57,
+            "text": "aw taqūla law anna l-laha hadānī lakuntu mina l-mutaqīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 58,
+            "text": "aw taqūla ḥīna tarā l-ʿadhāba law anna lī karratan fa-akūna mina l-muḥ'sinīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 59,
+            "text": "balā qad jāatka āyātī fakadhabta bihā wa-is'takbarta wakunta mina l-kāfirīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 60,
+            "text": "wayawma l-qiyāmati tarā alladhīna kadhabū ʿalā l-lahi wujūhuhum mus'waddatun alaysa fī jahannama mathwan lil'mutakabbirīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 61,
+            "text": "wayunajjī l-lahu alladhīna ittaqaw bimafāzatihim lā yamassuhumu l-sūu walā hum yaḥzanūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 62,
+            "text": "al-lahu khāliqu kulli shayin wahuwa ʿalā kulli shayin wakīlun"
+        },
+        {
+            "chapter": 39,
+            "verse": 63,
+            "text": "lahu maqālīdu l-samāwāti wal-arḍi wa-alladhīna kafarū biāyāti l-lahi ulāika humu l-khāsirūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 64,
+            "text": "qul afaghayra l-lahi tamurūnnī aʿbudu ayyuhā l-jāhilūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 65,
+            "text": "walaqad ūḥiya ilayka wa-ilā alladhīna min qablika la-in ashrakta layaḥbaṭanna ʿamaluka walatakūnanna mina l-khāsirīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 66,
+            "text": "bali l-laha fa-uʿ'bud wakun mina l-shākirīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 67,
+            "text": "wamā qadarū l-laha ḥaqqa qadrihi wal-arḍu jamīʿan qabḍatuhu yawma l-qiyāmati wal-samāwātu maṭwiyyātun biyamīnihi sub'ḥānahu wataʿālā ʿammā yush'rikūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 68,
+            "text": "wanufikha fī l-ṣūri faṣaʿiqa man fī l-samāwāti waman fī l-arḍi illā man shāa l-lahu thumma nufikha fīhi ukh'rā fa-idhā hum qiyāmun yanẓurūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 69,
+            "text": "wa-ashraqati l-arḍu binūri rabbihā wawuḍiʿa l-kitābu wajīa bil-nabiyīna wal-shuhadāi waquḍiya baynahum bil-ḥaqi wahum lā yuẓ'lamūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 70,
+            "text": "wawuffiyat kullu nafsin mā ʿamilat wahuwa aʿlamu bimā yafʿalūna"
+        },
+        {
+            "chapter": 39,
+            "verse": 71,
+            "text": "wasīqa alladhīna kafarū ilā jahannama zumaran ḥattā idhā jāūhā futiḥat abwābuhā waqāla lahum khazanatuhā alam yatikum rusulun minkum yatlūna ʿalaykum āyāti rabbikum wayundhirūnakum liqāa yawmikum hādhā qālū balā walākin ḥaqqat kalimatu l-ʿadhābi ʿalā l-kāfirīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 72,
+            "text": "qīla ud'khulū abwāba jahannama khālidīna fīhā fabi'sa mathwā l-mutakabirīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 73,
+            "text": "wasīqa alladhīna ittaqaw rabbahum ilā l-janati zumaran ḥattā idhā jāūhā wafutiḥat abwābuhā waqāla lahum khazanatuhā salāmun ʿalaykum ṭib'tum fa-ud'khulūhā khālidīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 74,
+            "text": "waqālū l-ḥamdu lillahi alladhī ṣadaqanā waʿdahu wa-awrathanā l-arḍa natabawwa-u mina l-janati ḥaythu nashāu faniʿ'ma ajru l-ʿāmilīna"
+        },
+        {
+            "chapter": 39,
+            "verse": 75,
+            "text": "watarā l-malāikata ḥāffīna min ḥawli l-ʿarshi yusabbiḥūna biḥamdi rabbihim waquḍiya baynahum bil-ḥaqi waqīla l-ḥamdu lillahi rabbi l-ʿālamīna"
+        },
+        {
+            "chapter": 40,
+            "verse": 1,
+            "text": "hha-meem"
+        },
+        {
+            "chapter": 40,
+            "verse": 2,
+            "text": "tanzīlu l-kitābi mina l-lahi l-ʿazīzi l-ʿalīmi"
+        },
+        {
+            "chapter": 40,
+            "verse": 3,
+            "text": "ghāfiri l-dhanbi waqābili l-tawbi shadīdi l-ʿiqābi dhī l-ṭawli lā ilāha illā huwa ilayhi l-maṣīru"
+        },
+        {
+            "chapter": 40,
+            "verse": 4,
+            "text": "mā yujādilu fī āyāti l-lahi illā alladhīna kafarū falā yaghrur'ka taqallubuhum fī l-bilādi"
+        },
+        {
+            "chapter": 40,
+            "verse": 5,
+            "text": "kadhabat qablahum qawmu nūḥin wal-aḥzābu min baʿdihim wahammat kullu ummatin birasūlihim liyakhudhūhu wajādalū bil-bāṭili liyud'ḥiḍū bihi l-ḥaqa fa-akhadhtuhum fakayfa kāna ʿiqābi"
+        },
+        {
+            "chapter": 40,
+            "verse": 6,
+            "text": "wakadhālika ḥaqqat kalimatu rabbika ʿalā alladhīna kafarū annahum aṣḥābu l-nāri"
+        },
+        {
+            "chapter": 40,
+            "verse": 7,
+            "text": "alladhīna yaḥmilūna l-ʿarsha waman ḥawlahu yusabbiḥūna biḥamdi rabbihim wayu'minūna bihi wayastaghfirūna lilladhīna āmanū rabbanā wasiʿ'ta kulla shayin raḥmatan waʿil'man fa-igh'fir lilladhīna tābū wa-ittabaʿū sabīlaka waqihim ʿadhāba l-jaḥīmi"
+        },
+        {
+            "chapter": 40,
+            "verse": 8,
+            "text": "rabbanā wa-adkhil'hum jannāti ʿadnin allatī waʿadttahum waman ṣalaḥa min ābāihim wa-azwājihim wadhurriyyātihim innaka anta l-ʿazīzu l-ḥakīmu"
+        },
+        {
+            "chapter": 40,
+            "verse": 9,
+            "text": "waqihimu l-sayiāti waman taqi l-sayiāti yawma-idhin faqad raḥim'tahu wadhālika huwa l-fawzu l-ʿaẓīmu"
+        },
+        {
+            "chapter": 40,
+            "verse": 10,
+            "text": "inna alladhīna kafarū yunādawna lamaqtu l-lahi akbaru min maqtikum anfusakum idh tud'ʿawna ilā l-īmāni fatakfurūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 11,
+            "text": "qālū rabbanā amattanā ith'natayni wa-aḥyaytanā ith'natayni fa-iʿ'tarafnā bidhunūbinā fahal ilā khurūjin min sabīlin"
+        },
+        {
+            "chapter": 40,
+            "verse": 12,
+            "text": "dhālikum bi-annahu idhā duʿiya l-lahu waḥdahu kafartum wa-in yush'rak bihi tu'minū fal-ḥuk'mu lillahi l-ʿaliyi l-kabīri"
+        },
+        {
+            "chapter": 40,
+            "verse": 13,
+            "text": "huwa alladhī yurīkum āyātihi wayunazzilu lakum mina l-samāi riz'qan wamā yatadhakkaru illā man yunību"
+        },
+        {
+            "chapter": 40,
+            "verse": 14,
+            "text": "fa-id'ʿū l-laha mukh'liṣīna lahu l-dīna walaw kariha l-kāfirūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 15,
+            "text": "rafīʿu l-darajāti dhū l-ʿarshi yul'qī l-rūḥa min amrihi ʿalā man yashāu min ʿibādihi liyundhira yawma l-talāqi"
+        },
+        {
+            "chapter": 40,
+            "verse": 16,
+            "text": "yawma hum bārizūna lā yakhfā ʿalā l-lahi min'hum shayon limani l-mul'ku l-yawma lillahi l-wāḥidi l-qahāri"
+        },
+        {
+            "chapter": 40,
+            "verse": 17,
+            "text": "al-yawma tuj'zā kullu nafsin bimā kasabat lā ẓul'ma l-yawma inna l-laha sarīʿu l-ḥisābi"
+        },
+        {
+            "chapter": 40,
+            "verse": 18,
+            "text": "wa-andhir'hum yawma l-āzifati idhi l-qulūbu ladā l-ḥanājiri kāẓimīna mā lilẓẓālimīna min ḥamīmin walā shafīʿin yuṭāʿu"
+        },
+        {
+            "chapter": 40,
+            "verse": 19,
+            "text": "yaʿlamu khāinata l-aʿyuni wamā tukh'fī l-ṣudūru"
+        },
+        {
+            "chapter": 40,
+            "verse": 20,
+            "text": "wal-lahu yaqḍī bil-ḥaqi wa-alladhīna yadʿūna min dūnihi lā yaqḍūna bishayin inna l-laha huwa l-samīʿu l-baṣīru"
+        },
+        {
+            "chapter": 40,
+            "verse": 21,
+            "text": "awalam yasīrū fī l-arḍi fayanẓurū kayfa kāna ʿāqibatu alladhīna kānū min qablihim kānū hum ashadda min'hum quwwatan waāthāran fī l-arḍi fa-akhadhahumu l-lahu bidhunūbihim wamā kāna lahum mina l-lahi min wāqin"
+        },
+        {
+            "chapter": 40,
+            "verse": 22,
+            "text": "dhālika bi-annahum kānat tatīhim rusuluhum bil-bayināti fakafarū fa-akhadhahumu l-lahu innahu qawiyyun shadīdu l-ʿiqābi"
+        },
+        {
+            "chapter": 40,
+            "verse": 23,
+            "text": "walaqad arsalnā mūsā biāyātinā wasul'ṭānin mubīnin"
+        },
+        {
+            "chapter": 40,
+            "verse": 24,
+            "text": "ilā fir'ʿawna wahāmāna waqārūna faqālū sāḥirun kadhābun"
+        },
+        {
+            "chapter": 40,
+            "verse": 25,
+            "text": "falammā jāahum bil-ḥaqi min ʿindinā qālū uq'tulū abnāa alladhīna āmanū maʿahu wa-is'taḥyū nisāahum wamā kaydu l-kāfirīna illā fī ḍalālin"
+        },
+        {
+            "chapter": 40,
+            "verse": 26,
+            "text": "waqāla fir'ʿawnu dharūnī aqtul mūsā walyadʿu rabbahu innī akhāfu an yubaddila dīnakum aw an yuẓ'hira fī l-arḍi l-fasāda"
+        },
+        {
+            "chapter": 40,
+            "verse": 27,
+            "text": "waqāla mūsā innī ʿudh'tu birabbī warabbikum min kulli mutakabbirin lā yu'minu biyawmi l-ḥisābi"
+        },
+        {
+            "chapter": 40,
+            "verse": 28,
+            "text": "waqāla rajulun mu'minun min āli fir'ʿawna yaktumu īmānahu ataqtulūna rajulan an yaqūla rabbiya l-lahu waqad jāakum bil-bayināti min rabbikum wa-in yaku kādhiban faʿalayhi kadhibuhu wa-in yaku ṣādiqan yuṣib'kum baʿḍu alladhī yaʿidukum inna l-laha lā yahdī man huwa mus'rifun kadhābun"
+        },
+        {
+            "chapter": 40,
+            "verse": 29,
+            "text": "yāqawmi lakumu l-mul'ku l-yawma ẓāhirīna fī l-arḍi faman yanṣurunā min basi l-lahi in jāanā qāla fir'ʿawnu mā urīkum illā mā arā wamā ahdīkum illā sabīla l-rashādi"
+        },
+        {
+            "chapter": 40,
+            "verse": 30,
+            "text": "waqāla alladhī āmana yāqawmi innī akhāfu ʿalaykum mith'la yawmi l-aḥzābi"
+        },
+        {
+            "chapter": 40,
+            "verse": 31,
+            "text": "mith'la dabi qawmi nūḥin waʿādin wathamūda wa-alladhīna min baʿdihim wamā l-lahu yurīdu ẓul'man lil'ʿibādi"
+        },
+        {
+            "chapter": 40,
+            "verse": 32,
+            "text": "wayāqawmi innī akhāfu ʿalaykum yawma l-tanādi"
+        },
+        {
+            "chapter": 40,
+            "verse": 33,
+            "text": "yawma tuwallūna mud'birīna mā lakum mina l-lahi min ʿāṣimin waman yuḍ'lili l-lahu famā lahu min hādin"
+        },
+        {
+            "chapter": 40,
+            "verse": 34,
+            "text": "walaqad jāakum yūsufu min qablu bil-bayināti famā zil'tum fī shakkin mimmā jāakum bihi ḥattā idhā halaka qul'tum lan yabʿatha l-lahu min baʿdihi rasūlan kadhālika yuḍillu l-lahu man huwa mus'rifun mur'tābun"
+        },
+        {
+            "chapter": 40,
+            "verse": 35,
+            "text": "alladhīna yujādilūna fī āyāti l-lahi bighayri sul'ṭānin atāhum kabura maqtan ʿinda l-lahi waʿinda alladhīna āmanū kadhālika yaṭbaʿu l-lahu ʿalā kulli qalbi mutakabbirin jabbārin"
+        },
+        {
+            "chapter": 40,
+            "verse": 36,
+            "text": "waqāla fir'ʿawnu yāhāmānu ib'ni lī ṣarḥan laʿallī ablughu l-asbāba"
+        },
+        {
+            "chapter": 40,
+            "verse": 37,
+            "text": "asbāba l-samāwāti fa-aṭṭaliʿa ilā ilāhi mūsā wa-innī la-aẓunnuhu kādhiban wakadhālika zuyyina lifir'ʿawna sūu ʿamalihi waṣudda ʿani l-sabīli wamā kaydu fir'ʿawna illā fī tabābin"
+        },
+        {
+            "chapter": 40,
+            "verse": 38,
+            "text": "waqāla alladhī āmana yāqawmi ittabiʿūni ahdikum sabīla l-rashādi"
+        },
+        {
+            "chapter": 40,
+            "verse": 39,
+            "text": "yāqawmi innamā hādhihi l-ḥayatu l-dun'yā matāʿun wa-inna l-ākhirata hiya dāru l-qarāri"
+        },
+        {
+            "chapter": 40,
+            "verse": 40,
+            "text": "man ʿamila sayyi-atan falā yuj'zā illā mith'lahā waman ʿamila ṣāliḥan min dhakarin aw unthā wahuwa mu'minun fa-ulāika yadkhulūna l-janata yur'zaqūna fīhā bighayri ḥisābin"
+        },
+        {
+            "chapter": 40,
+            "verse": 41,
+            "text": "wayāqawmi mā lī adʿūkum ilā l-najati watadʿūnanī ilā l-nāri"
+        },
+        {
+            "chapter": 40,
+            "verse": 42,
+            "text": "tadʿūnanī li-akfura bil-lahi wa-ush'rika bihi mā laysa lī bihi ʿil'mun wa-anā adʿūkum ilā l-ʿazīzi l-ghafāri"
+        },
+        {
+            "chapter": 40,
+            "verse": 43,
+            "text": "lā jarama annamā tadʿūnanī ilayhi laysa lahu daʿwatun fī l-dun'yā walā fī l-ākhirati wa-anna maraddanā ilā l-lahi wa-anna l-mus'rifīna hum aṣḥābu l-nāri"
+        },
+        {
+            "chapter": 40,
+            "verse": 44,
+            "text": "fasatadhkurūna mā aqūlu lakum wa-ufawwiḍu amrī ilā l-lahi inna l-laha baṣīrun bil-ʿibādi"
+        },
+        {
+            "chapter": 40,
+            "verse": 45,
+            "text": "fawaqāhu l-lahu sayyiāti mā makarū waḥāqa biāli fir'ʿawna sūu l-ʿadhābi"
+        },
+        {
+            "chapter": 40,
+            "verse": 46,
+            "text": "al-nāru yuʿ'raḍūna ʿalayhā ghuduwwan waʿashiyyan wayawma taqūmu l-sāʿatu adkhilū āla fir'ʿawna ashadda l-ʿadhābi"
+        },
+        {
+            "chapter": 40,
+            "verse": 47,
+            "text": "wa-idh yataḥājjūna fī l-nāri fayaqūlu l-ḍuʿafāu lilladhīna is'takbarū innā kunnā lakum tabaʿan fahal antum mugh'nūna ʿannā naṣīban mina l-nāri"
+        },
+        {
+            "chapter": 40,
+            "verse": 48,
+            "text": "qāla alladhīna is'takbarū innā kullun fīhā inna l-laha qad ḥakama bayna l-ʿibādi"
+        },
+        {
+            "chapter": 40,
+            "verse": 49,
+            "text": "waqāla alladhīna fī l-nāri likhazanati jahannama id'ʿū rabbakum yukhaffif ʿannā yawman mina l-ʿadhābi"
+        },
+        {
+            "chapter": 40,
+            "verse": 50,
+            "text": "qālū awalam taku tatīkum rusulukum bil-bayināti qālū balā qālū fa-id'ʿū wamā duʿāu l-kāfirīna illā fī ḍalālin"
+        },
+        {
+            "chapter": 40,
+            "verse": 51,
+            "text": "innā lananṣuru rusulanā wa-alladhīna āmanū fī l-ḥayati l-dun'yā wayawma yaqūmu l-ashhādu"
+        },
+        {
+            "chapter": 40,
+            "verse": 52,
+            "text": "yawma lā yanfaʿu l-ẓālimīna maʿdhiratuhum walahumu l-laʿnatu walahum sūu l-dāri"
+        },
+        {
+            "chapter": 40,
+            "verse": 53,
+            "text": "walaqad ātaynā mūsā l-hudā wa-awrathnā banī is'rāīla l-kitāba"
+        },
+        {
+            "chapter": 40,
+            "verse": 54,
+            "text": "hudan wadhik'rā li-ulī l-albābi"
+        },
+        {
+            "chapter": 40,
+            "verse": 55,
+            "text": "fa-iṣ'bir inna waʿda l-lahi ḥaqqun wa-is'taghfir lidhanbika wasabbiḥ biḥamdi rabbika bil-ʿashiyi wal-ib'kāri"
+        },
+        {
+            "chapter": 40,
+            "verse": 56,
+            "text": "inna alladhīna yujādilūna fī āyāti l-lahi bighayri sul'ṭānin atāhum in fī ṣudūrihim illā kib'run mā hum bibālighīhi fa-is'taʿidh bil-lahi innahu huwa l-samīʿu l-baṣīru"
+        },
+        {
+            "chapter": 40,
+            "verse": 57,
+            "text": "lakhalqu l-samāwāti wal-arḍi akbaru min khalqi l-nāsi walākinna akthara l-nāsi lā yaʿlamūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 58,
+            "text": "wamā yastawī l-aʿmā wal-baṣīru wa-alladhīna āmanū waʿamilū l-ṣāliḥāti walā l-musīu qalīlan mā tatadhakkarūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 59,
+            "text": "inna l-sāʿata laātiyatun lā rayba fīhā walākinna akthara l-nāsi lā yu'minūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 60,
+            "text": "waqāla rabbukumu id'ʿūnī astajib lakum inna alladhīna yastakbirūna ʿan ʿibādatī sayadkhulūna jahannama dākhirīna"
+        },
+        {
+            "chapter": 40,
+            "verse": 61,
+            "text": "al-lahu alladhī jaʿala lakumu al-layla litaskunū fīhi wal-nahāra mub'ṣiran inna l-laha ladhū faḍlin ʿalā l-nāsi walākinna akthara l-nāsi lā yashkurūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 62,
+            "text": "dhālikumu l-lahu rabbukum khāliqu kulli shayin lā ilāha illā huwa fa-annā tu'fakūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 63,
+            "text": "kadhālika yu'faku alladhīna kānū biāyāti l-lahi yajḥadūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 64,
+            "text": "al-lahu alladhī jaʿala lakumu l-arḍa qarāran wal-samāa bināan waṣawwarakum fa-aḥsana ṣuwarakum warazaqakum mina l-ṭayibāti dhālikumu l-lahu rabbukum fatabāraka l-lahu rabbu l-ʿālamīna"
+        },
+        {
+            "chapter": 40,
+            "verse": 65,
+            "text": "huwa l-ḥayu lā ilāha illā huwa fa-id'ʿūhu mukh'liṣīna lahu l-dīna l-ḥamdu lillahi rabbi l-ʿālamīna"
+        },
+        {
+            "chapter": 40,
+            "verse": 66,
+            "text": "qul innī nuhītu an aʿbuda alladhīna tadʿūna min dūni l-lahi lammā jāaniya l-bayinātu min rabbī wa-umir'tu an us'lima lirabbi l-ʿālamīna"
+        },
+        {
+            "chapter": 40,
+            "verse": 67,
+            "text": "huwa alladhī khalaqakum min turābin thumma min nuṭ'fatin thumma min ʿalaqatin thumma yukh'rijukum ṭif'lan thumma litablughū ashuddakum thumma litakūnū shuyūkhan waminkum man yutawaffā min qablu walitablughū ajalan musamman walaʿallakum taʿqilūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 68,
+            "text": "huwa alladhī yuḥ'yī wayumītu fa-idhā qaḍā amran fa-innamā yaqūlu lahu kun fayakūnu"
+        },
+        {
+            "chapter": 40,
+            "verse": 69,
+            "text": "alam tara ilā alladhīna yujādilūna fī āyāti l-lahi annā yuṣ'rafūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 70,
+            "text": "alladhīna kadhabū bil-kitābi wabimā arsalnā bihi rusulanā fasawfa yaʿlamūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 71,
+            "text": "idhi l-aghlālu fī aʿnāqihim wal-salāsilu yus'ḥabūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 72,
+            "text": "fī l-ḥamīmi thumma fī l-nāri yus'jarūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 73,
+            "text": "thumma qīla lahum ayna mā kuntum tush'rikūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 74,
+            "text": "min dūni l-lahi qālū ḍallū ʿannā bal lam nakun nadʿū min qablu shayan kadhālika yuḍillu l-lahu l-kāfirīna"
+        },
+        {
+            "chapter": 40,
+            "verse": 75,
+            "text": "dhālikum bimā kuntum tafraḥūna fī l-arḍi bighayri l-ḥaqi wabimā kuntum tamraḥūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 76,
+            "text": "ud'khulū abwāba jahannama khālidīna fīhā fabi'sa mathwā l-mutakabirīna"
+        },
+        {
+            "chapter": 40,
+            "verse": 77,
+            "text": "fa-iṣ'bir inna waʿda l-lahi ḥaqqun fa-immā nuriyannaka baʿḍa alladhī naʿiduhum aw natawaffayannaka fa-ilaynā yur'jaʿūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 78,
+            "text": "walaqad arsalnā rusulan min qablika min'hum man qaṣaṣnā ʿalayka wamin'hum man lam naqṣuṣ ʿalayka wamā kāna lirasūlin an yatiya biāyatin illā bi-idh'ni l-lahi fa-idhā jāa amru l-lahi quḍiya bil-ḥaqi wakhasira hunālika l-mub'ṭilūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 79,
+            "text": "al-lahu alladhī jaʿala lakumu l-anʿāma litarkabū min'hā wamin'hā takulūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 80,
+            "text": "walakum fīhā manāfiʿu walitablughū ʿalayhā ḥājatan fī ṣudūrikum waʿalayhā waʿalā l-ful'ki tuḥ'malūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 81,
+            "text": "wayurīkum āyātihi fa-ayya āyāti l-lahi tunkirūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 82,
+            "text": "afalam yasīrū fī l-arḍi fayanẓurū kayfa kāna ʿāqibatu alladhīna min qablihim kānū akthara min'hum wa-ashadda quwwatan waāthāran fī l-arḍi famā aghnā ʿanhum mā kānū yaksibūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 83,
+            "text": "falammā jāathum rusuluhum bil-bayināti fariḥū bimā ʿindahum mina l-ʿil'mi waḥāqa bihim mā kānū bihi yastahziūna"
+        },
+        {
+            "chapter": 40,
+            "verse": 84,
+            "text": "falammā ra-aw basanā qālū āmannā bil-lahi waḥdahu wakafarnā bimā kunnā bihi mush'rikīna"
+        },
+        {
+            "chapter": 40,
+            "verse": 85,
+            "text": "falam yaku yanfaʿuhum īmānuhum lammā ra-aw basanā sunnata l-lahi allatī qad khalat fī ʿibādihi wakhasira hunālika l-kāfirūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 1,
+            "text": "hha-meem"
+        },
+        {
+            "chapter": 41,
+            "verse": 2,
+            "text": "tanzīlun mina l-raḥmāni l-raḥīmi"
+        },
+        {
+            "chapter": 41,
+            "verse": 3,
+            "text": "kitābun fuṣṣilat āyātuhu qur'ānan ʿarabiyyan liqawmin yaʿlamūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 4,
+            "text": "bashīran wanadhīran fa-aʿraḍa aktharuhum fahum lā yasmaʿūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 5,
+            "text": "waqālū qulūbunā fī akinnatin mimmā tadʿūnā ilayhi wafī ādhāninā waqrun wamin bayninā wabaynika ḥijābun fa-iʿ'mal innanā ʿāmilūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 6,
+            "text": "qul innamā anā basharun mith'lukum yūḥā ilayya annamā ilāhukum ilāhun wāḥidun fa-is'taqīmū ilayhi wa-is'taghfirūhu wawaylun lil'mush'rikīna"
+        },
+        {
+            "chapter": 41,
+            "verse": 7,
+            "text": "alladhīna lā yu'tūna l-zakata wahum bil-ākhirati hum kāfirūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 8,
+            "text": "inna alladhīna āmanū waʿamilū l-ṣāliḥāti lahum ajrun ghayru mamnūnin"
+        },
+        {
+            "chapter": 41,
+            "verse": 9,
+            "text": "qul a-innakum latakfurūna bi-alladhī khalaqa l-arḍa fī yawmayni watajʿalūna lahu andādan dhālika rabbu l-ʿālamīna"
+        },
+        {
+            "chapter": 41,
+            "verse": 10,
+            "text": "wajaʿala fīhā rawāsiya min fawqihā wabāraka fīhā waqaddara fīhā aqwātahā fī arbaʿati ayyāmin sawāan lilssāilīna"
+        },
+        {
+            "chapter": 41,
+            "verse": 11,
+            "text": "thumma is'tawā ilā l-samāi wahiya dukhānun faqāla lahā walil'arḍi i'tiyā ṭawʿan aw karhan qālatā ataynā ṭāiʿīna"
+        },
+        {
+            "chapter": 41,
+            "verse": 12,
+            "text": "faqaḍāhunna sabʿa samāwātin fī yawmayni wa-awḥā fī kulli samāin amrahā wazayyannā l-samāa l-dun'yā bimaṣābīḥa waḥif'ẓan dhālika taqdīru l-ʿazīzi l-ʿalīmi"
+        },
+        {
+            "chapter": 41,
+            "verse": 13,
+            "text": "fa-in aʿraḍū faqul andhartukum ṣāʿiqatan mith'la ṣāʿiqati ʿādin wathamūda"
+        },
+        {
+            "chapter": 41,
+            "verse": 14,
+            "text": "idh jāathumu l-rusulu min bayni aydīhim wamin khalfihim allā taʿbudū illā l-laha qālū law shāa rabbunā la-anzala malāikatan fa-innā bimā ur'sil'tum bihi kāfirūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 15,
+            "text": "fa-ammā ʿādun fa-is'takbarū fī l-arḍi bighayri l-ḥaqi waqālū man ashaddu minnā quwwatan awalam yaraw anna l-laha alladhī khalaqahum huwa ashaddu min'hum quwwatan wakānū biāyātinā yajḥadūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 16,
+            "text": "fa-arsalnā ʿalayhim rīḥan ṣarṣaran fī ayyāmin naḥisātin linudhīqahum ʿadhāba l-khiz'yi fī l-ḥayati l-dun'yā walaʿadhābu l-ākhirati akhzā wahum lā yunṣarūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 17,
+            "text": "wa-ammā thamūdu fahadaynāhum fa-is'taḥabbū l-ʿamā ʿalā l-hudā fa-akhadhathum ṣāʿiqatu l-ʿadhābi l-hūni bimā kānū yaksibūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 18,
+            "text": "wanajjaynā alladhīna āmanū wakānū yattaqūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 19,
+            "text": "wayawma yuḥ'sharu aʿdāu l-lahi ilā l-nāri fahum yūzaʿūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 20,
+            "text": "ḥattā idhā mā jāūhā shahida ʿalayhim samʿuhum wa-abṣāruhum wajulūduhum bimā kānū yaʿmalūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 21,
+            "text": "waqālū lijulūdihim lima shahidttum ʿalaynā qālū anṭaqanā l-lahu alladhī anṭaqa kulla shayin wahuwa khalaqakum awwala marratin wa-ilayhi tur'jaʿūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 22,
+            "text": "wamā kuntum tastatirūna an yashhada ʿalaykum samʿukum walā abṣārukum walā julūdukum walākin ẓanantum anna l-laha lā yaʿlamu kathīran mimmā taʿmalūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 23,
+            "text": "wadhālikum ẓannukumu alladhī ẓanantum birabbikum ardākum fa-aṣbaḥtum mina l-khāsirīna"
+        },
+        {
+            "chapter": 41,
+            "verse": 24,
+            "text": "fa-in yaṣbirū fal-nāru mathwan lahum wa-in yastaʿtibū famā hum mina l-muʿ'tabīna"
+        },
+        {
+            "chapter": 41,
+            "verse": 25,
+            "text": "waqayyaḍnā lahum quranāa fazayyanū lahum mā bayna aydīhim wamā khalfahum waḥaqqa ʿalayhimu l-qawlu fī umamin qad khalat min qablihim mina l-jini wal-insi innahum kānū khāsirīna"
+        },
+        {
+            "chapter": 41,
+            "verse": 26,
+            "text": "waqāla alladhīna kafarū lā tasmaʿū lihādhā l-qur'āni wal-ghaw fīhi laʿallakum taghlibūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 27,
+            "text": "falanudhīqanna alladhīna kafarū ʿadhāban shadīdan walanajziyannahum aswa-a alladhī kānū yaʿmalūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 28,
+            "text": "dhālika jazāu aʿdāi l-lahi l-nāru lahum fīhā dāru l-khul'di jazāan bimā kānū biāyātinā yajḥadūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 29,
+            "text": "waqāla alladhīna kafarū rabbanā arinā alladhayni aḍallānā mina l-jini wal-insi najʿalhumā taḥta aqdāminā liyakūnā mina l-asfalīna"
+        },
+        {
+            "chapter": 41,
+            "verse": 30,
+            "text": "inna alladhīna qālū rabbunā l-lahu thumma is'taqāmū tatanazzalu ʿalayhimu l-malāikatu allā takhāfū walā taḥzanū wa-abshirū bil-janati allatī kuntum tūʿadūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 31,
+            "text": "naḥnu awliyāukum fī l-ḥayati l-dun'yā wafī l-ākhirati walakum fīhā mā tashtahī anfusukum walakum fīhā mā taddaʿūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 32,
+            "text": "nuzulan min ghafūrin raḥīmin"
+        },
+        {
+            "chapter": 41,
+            "verse": 33,
+            "text": "waman aḥsanu qawlan mimman daʿā ilā l-lahi waʿamila ṣāliḥan waqāla innanī mina l-mus'limīna"
+        },
+        {
+            "chapter": 41,
+            "verse": 34,
+            "text": "walā tastawī l-ḥasanatu walā l-sayi-atu id'faʿ bi-allatī hiya aḥsanu fa-idhā alladhī baynaka wabaynahu ʿadāwatun ka-annahu waliyyun ḥamīmun"
+        },
+        {
+            "chapter": 41,
+            "verse": 35,
+            "text": "wamā yulaqqāhā illā alladhīna ṣabarū wamā yulaqqāhā illā dhū ḥaẓẓin ʿaẓīmin"
+        },
+        {
+            "chapter": 41,
+            "verse": 36,
+            "text": "wa-immā yanzaghannaka mina l-shayṭāni nazghun fa-is'taʿidh bil-lahi innahu huwa l-samīʿu l-ʿalīmu"
+        },
+        {
+            "chapter": 41,
+            "verse": 37,
+            "text": "wamin āyātihi al-laylu wal-nahāru wal-shamsu wal-qamaru lā tasjudū lilshamsi walā lil'qamari wa-us'judū lillahi alladhī khalaqahunna in kuntum iyyāhu taʿbudūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 38,
+            "text": "fa-ini is'takbarū fa-alladhīna ʿinda rabbika yusabbiḥūna lahu bi-al-layli wal-nahāri wahum lā yasamūna"
+        },
+        {
+            "chapter": 41,
+            "verse": 39,
+            "text": "wamin āyātihi annaka tarā l-arḍa khāshiʿatan fa-idhā anzalnā ʿalayhā l-māa ih'tazzat warabat inna alladhī aḥyāhā lamuḥ'yī l-mawtā innahu ʿalā kulli shayin qadīrun"
+        },
+        {
+            "chapter": 41,
+            "verse": 40,
+            "text": "inna alladhīna yul'ḥidūna fī āyātinā lā yakhfawna ʿalaynā afaman yul'qā fī l-nāri khayrun am man yatī āminan yawma l-qiyāmati iʿ'malū mā shi'tum innahu bimā taʿmalūna baṣīrun"
+        },
+        {
+            "chapter": 41,
+            "verse": 41,
+            "text": "inna alladhīna kafarū bil-dhik'ri lammā jāahum wa-innahu lakitābun ʿazīzun"
+        },
+        {
+            "chapter": 41,
+            "verse": 42,
+            "text": "lā yatīhi l-bāṭilu min bayni yadayhi walā min khalfihi tanzīlun min ḥakīmin ḥamīdin"
+        },
+        {
+            "chapter": 41,
+            "verse": 43,
+            "text": "mā yuqālu laka illā mā qad qīla lilrrusuli min qablika inna rabbaka ladhū maghfiratin wadhū ʿiqābin alīmin"
+        },
+        {
+            "chapter": 41,
+            "verse": 44,
+            "text": "walaw jaʿalnāhu qur'ānan aʿjamiyyan laqālū lawlā fuṣṣilat āyātuhu āʿ'jamiyyun waʿarabiyyun qul huwa lilladhīna āmanū hudan washifāon wa-alladhīna lā yu'minūna fī ādhānihim waqrun wahuwa ʿalayhim ʿaman ulāika yunādawna min makānin baʿīdin"
+        },
+        {
+            "chapter": 41,
+            "verse": 45,
+            "text": "walaqad ātaynā mūsā l-kitāba fa-ukh'tulifa fīhi walawlā kalimatun sabaqat min rabbika laquḍiya baynahum wa-innahum lafī shakkin min'hu murībin"
+        },
+        {
+            "chapter": 41,
+            "verse": 46,
+            "text": "man ʿamila ṣāliḥan falinafsihi waman asāa faʿalayhā wamā rabbuka biẓallāmin lil'ʿabīdi"
+        },
+        {
+            "chapter": 41,
+            "verse": 47,
+            "text": "ilayhi yuraddu ʿil'mu l-sāʿati wamā takhruju min thamarātin min akmāmihā wamā taḥmilu min unthā walā taḍaʿu illā biʿil'mihi wayawma yunādīhim ayna shurakāī qālū ādhannāka mā minnā min shahīdin"
+        },
+        {
+            "chapter": 41,
+            "verse": 48,
+            "text": "waḍalla ʿanhum mā kānū yadʿūna min qablu waẓannū mā lahum min maḥīṣin"
+        },
+        {
+            "chapter": 41,
+            "verse": 49,
+            "text": "lā yasamu l-insānu min duʿāi l-khayri wa-in massahu l-sharu fayaūsun qanūṭun"
+        },
+        {
+            "chapter": 41,
+            "verse": 50,
+            "text": "wala-in adhaqnāhu raḥmatan minnā min baʿdi ḍarrāa massathu layaqūlanna hādhā lī wamā aẓunnu l-sāʿata qāimatan wala-in rujiʿ'tu ilā rabbī inna lī ʿindahu lalḥus'nā falanunabbi-anna alladhīna kafarū bimā ʿamilū walanudhīqannahum min ʿadhābin ghalīẓin"
+        },
+        {
+            "chapter": 41,
+            "verse": 51,
+            "text": "wa-idhā anʿamnā ʿalā l-insāni aʿraḍa wanaā bijānibihi wa-idhā massahu l-sharu fadhū duʿāin ʿarīḍin"
+        },
+        {
+            "chapter": 41,
+            "verse": 52,
+            "text": "qul ara-aytum in kāna min ʿindi l-lahi thumma kafartum bihi man aḍallu mimman huwa fī shiqāqin baʿīdin"
+        },
+        {
+            "chapter": 41,
+            "verse": 53,
+            "text": "sanurīhim āyātinā fī l-āfāqi wafī anfusihim ḥattā yatabayyana lahum annahu l-ḥaqu awalam yakfi birabbika annahu ʿalā kulli shayin shahīdun"
+        },
+        {
+            "chapter": 41,
+            "verse": 54,
+            "text": "alā innahum fī mir'yatin min liqāi rabbihim alā innahu bikulli shayin muḥīṭun"
+        },
+        {
+            "chapter": 42,
+            "verse": 1,
+            "text": "hha-meem"
+        },
+        {
+            "chapter": 42,
+            "verse": 2,
+            "text": "ain-seen-qaf"
+        },
+        {
+            "chapter": 42,
+            "verse": 3,
+            "text": "kadhālika yūḥī ilayka wa-ilā alladhīna min qablika l-lahu l-ʿazīzu l-ḥakīmu"
+        },
+        {
+            "chapter": 42,
+            "verse": 4,
+            "text": "lahu mā fī l-samāwāti wamā fī l-arḍi wahuwa l-ʿaliyu l-ʿaẓīmu"
+        },
+        {
+            "chapter": 42,
+            "verse": 5,
+            "text": "takādu l-samāwātu yatafaṭṭarna min fawqihinna wal-malāikatu yusabbiḥūna biḥamdi rabbihim wayastaghfirūna liman fī l-arḍi alā inna l-laha huwa l-ghafūru l-raḥīmu"
+        },
+        {
+            "chapter": 42,
+            "verse": 6,
+            "text": "wa-alladhīna ittakhadhū min dūnihi awliyāa l-lahu ḥafīẓun ʿalayhim wamā anta ʿalayhim biwakīlin"
+        },
+        {
+            "chapter": 42,
+            "verse": 7,
+            "text": "wakadhālika awḥaynā ilayka qur'ānan ʿarabiyyan litundhira umma l-qurā waman ḥawlahā watundhira yawma l-jamʿi lā rayba fīhi farīqun fī l-janati wafarīqun fī l-saʿīri"
+        },
+        {
+            "chapter": 42,
+            "verse": 8,
+            "text": "walaw shāa l-lahu lajaʿalahum ummatan wāḥidatan walākin yud'khilu man yashāu fī raḥmatihi wal-ẓālimūna mā lahum min waliyyin walā naṣīrin"
+        },
+        {
+            "chapter": 42,
+            "verse": 9,
+            "text": "ami ittakhadhū min dūnihi awliyāa fal-lahu huwa l-waliyu wahuwa yuḥ'yī l-mawtā wahuwa ʿalā kulli shayin qadīrun"
+        },
+        {
+            "chapter": 42,
+            "verse": 10,
+            "text": "wamā ikh'talaftum fīhi min shayin faḥuk'muhu ilā l-lahi dhālikumu l-lahu rabbī ʿalayhi tawakkaltu wa-ilayhi unību"
+        },
+        {
+            "chapter": 42,
+            "verse": 11,
+            "text": "fāṭiru l-samāwāti wal-arḍi jaʿala lakum min anfusikum azwājan wamina l-anʿāmi azwājan yadhra-ukum fīhi laysa kamith'lihi shayon wahuwa l-samīʿu l-baṣīru"
+        },
+        {
+            "chapter": 42,
+            "verse": 12,
+            "text": "lahu maqālīdu l-samāwāti wal-arḍi yabsuṭu l-riz'qa liman yashāu wayaqdiru innahu bikulli shayin ʿalīmun"
+        },
+        {
+            "chapter": 42,
+            "verse": 13,
+            "text": "sharaʿa lakum mina l-dīni mā waṣṣā bihi nūḥan wa-alladhī awḥaynā ilayka wamā waṣṣaynā bihi ib'rāhīma wamūsā waʿīsā an aqīmū l-dīna walā tatafarraqū fīhi kabura ʿalā l-mush'rikīna mā tadʿūhum ilayhi l-lahu yajtabī ilayhi man yashāu wayahdī ilayhi man yunību"
+        },
+        {
+            "chapter": 42,
+            "verse": 14,
+            "text": "wamā tafarraqū illā min baʿdi mā jāahumu l-ʿil'mu baghyan baynahum walawlā kalimatun sabaqat min rabbika ilā ajalin musamman laquḍiya baynahum wa-inna alladhīna ūrithū l-kitāba min baʿdihim lafī shakkin min'hu murībin"
+        },
+        {
+            "chapter": 42,
+            "verse": 15,
+            "text": "falidhālika fa-ud'ʿu wa-is'taqim kamā umir'ta walā tattabiʿ ahwāahum waqul āmantu bimā anzala l-lahu min kitābin wa-umir'tu li-aʿdila baynakumu l-lahu rabbunā warabbukum lanā aʿmālunā walakum aʿmālukum lā ḥujjata baynanā wabaynakumu l-lahu yajmaʿu baynanā wa-ilayhi l-maṣīru"
+        },
+        {
+            "chapter": 42,
+            "verse": 16,
+            "text": "wa-alladhīna yuḥājjūna fī l-lahi min baʿdi mā us'tujība lahu ḥujjatuhum dāḥiḍatun ʿinda rabbihim waʿalayhim ghaḍabun walahum ʿadhābun shadīdun"
+        },
+        {
+            "chapter": 42,
+            "verse": 17,
+            "text": "al-lahu alladhī anzala l-kitāba bil-ḥaqi wal-mīzāna wamā yud'rīka laʿalla l-sāʿata qarībun"
+        },
+        {
+            "chapter": 42,
+            "verse": 18,
+            "text": "yastaʿjilu bihā alladhīna lā yu'minūna bihā wa-alladhīna āmanū mush'fiqūna min'hā wayaʿlamūna annahā l-ḥaqu alā inna alladhīna yumārūna fī l-sāʿati lafī ḍalālin baʿīdin"
+        },
+        {
+            "chapter": 42,
+            "verse": 19,
+            "text": "al-lahu laṭīfun biʿibādihi yarzuqu man yashāu wahuwa l-qawiyu l-ʿazīzu"
+        },
+        {
+            "chapter": 42,
+            "verse": 20,
+            "text": "man kāna yurīdu ḥartha l-ākhirati nazid lahu fī ḥarthihi waman kāna yurīdu ḥartha l-dun'yā nu'tihi min'hā wamā lahu fī l-ākhirati min naṣībin"
+        },
+        {
+            "chapter": 42,
+            "verse": 21,
+            "text": "am lahum shurakāu sharaʿū lahum mina l-dīni mā lam yadhan bihi l-lahu walawlā kalimatu l-faṣli laquḍiya baynahum wa-inna l-ẓālimīna lahum ʿadhābun alīmun"
+        },
+        {
+            "chapter": 42,
+            "verse": 22,
+            "text": "tarā l-ẓālimīna mush'fiqīna mimmā kasabū wahuwa wāqiʿun bihim wa-alladhīna āmanū waʿamilū l-ṣāliḥāti fī rawḍāti l-janāti lahum mā yashāūna ʿinda rabbihim dhālika huwa l-faḍlu l-kabīru"
+        },
+        {
+            "chapter": 42,
+            "verse": 23,
+            "text": "dhālika alladhī yubashiru l-lahu ʿibādahu alladhīna āmanū waʿamilū l-ṣāliḥāti qul lā asalukum ʿalayhi ajran illā l-mawadata fī l-qur'bā waman yaqtarif ḥasanatan nazid lahu fīhā ḥus'nan inna l-laha ghafūrun shakūrun"
+        },
+        {
+            "chapter": 42,
+            "verse": 24,
+            "text": "am yaqūlūna if'tarā ʿalā l-lahi kadhiban fa-in yasha-i l-lahu yakhtim ʿalā qalbika wayamḥu l-lahu l-bāṭila wayuḥiqqu l-ḥaqa bikalimātihi innahu ʿalīmun bidhāti l-ṣudūri"
+        },
+        {
+            "chapter": 42,
+            "verse": 25,
+            "text": "wahuwa alladhī yaqbalu l-tawbata ʿan ʿibādihi wayaʿfū ʿani l-sayiāti wayaʿlamu mā tafʿalūna"
+        },
+        {
+            "chapter": 42,
+            "verse": 26,
+            "text": "wayastajību alladhīna āmanū waʿamilū l-ṣāliḥāti wayazīduhum min faḍlihi wal-kāfirūna lahum ʿadhābun shadīdun"
+        },
+        {
+            "chapter": 42,
+            "verse": 27,
+            "text": "walaw basaṭa l-lahu l-riz'qa liʿibādihi labaghaw fī l-arḍi walākin yunazzilu biqadarin mā yashāu innahu biʿibādihi khabīrun baṣīrun"
+        },
+        {
+            "chapter": 42,
+            "verse": 28,
+            "text": "wahuwa alladhī yunazzilu l-ghaytha min baʿdi mā qanaṭū wayanshuru raḥmatahu wahuwa l-waliyu l-ḥamīdu"
+        },
+        {
+            "chapter": 42,
+            "verse": 29,
+            "text": "wamin āyātihi khalqu l-samāwāti wal-arḍi wamā batha fīhimā min dābbatin wahuwa ʿalā jamʿihim idhā yashāu qadīrun"
+        },
+        {
+            "chapter": 42,
+            "verse": 30,
+            "text": "wamā aṣābakum min muṣībatin fabimā kasabat aydīkum wayaʿfū ʿan kathīrin"
+        },
+        {
+            "chapter": 42,
+            "verse": 31,
+            "text": "wamā antum bimuʿ'jizīna fī l-arḍi wamā lakum min dūni l-lahi min waliyyin walā naṣīrin"
+        },
+        {
+            "chapter": 42,
+            "verse": 32,
+            "text": "wamin āyātihi l-jawāri fī l-baḥri kal-aʿlāmi"
+        },
+        {
+            "chapter": 42,
+            "verse": 33,
+            "text": "in yasha yus'kini l-rīḥa fayaẓlalna rawākida ʿalā ẓahrihi inna fī dhālika laāyātin likulli ṣabbārin shakūrin"
+        },
+        {
+            "chapter": 42,
+            "verse": 34,
+            "text": "aw yūbiq'hunna bimā kasabū wayaʿfu ʿan kathīrin"
+        },
+        {
+            "chapter": 42,
+            "verse": 35,
+            "text": "wayaʿlama alladhīna yujādilūna fī āyātinā mā lahum min maḥīṣin"
+        },
+        {
+            "chapter": 42,
+            "verse": 36,
+            "text": "famā ūtītum min shayin famatāʿu l-ḥayati l-dun'yā wamā ʿinda l-lahi khayrun wa-abqā lilladhīna āmanū waʿalā rabbihim yatawakkalūna"
+        },
+        {
+            "chapter": 42,
+            "verse": 37,
+            "text": "wa-alladhīna yajtanibūna kabāira l-ith'mi wal-fawāḥisha wa-idhā mā ghaḍibū hum yaghfirūna"
+        },
+        {
+            "chapter": 42,
+            "verse": 38,
+            "text": "wa-alladhīna is'tajābū lirabbihim wa-aqāmū l-ṣalata wa-amruhum shūrā baynahum wamimmā razaqnāhum yunfiqūna"
+        },
+        {
+            "chapter": 42,
+            "verse": 39,
+            "text": "wa-alladhīna idhā aṣābahumu l-baghyu hum yantaṣirūna"
+        },
+        {
+            "chapter": 42,
+            "verse": 40,
+            "text": "wajazāu sayyi-atin sayyi-atun mith'luhā faman ʿafā wa-aṣlaḥa fa-ajruhu ʿalā l-lahi innahu lā yuḥibbu l-ẓālimīna"
+        },
+        {
+            "chapter": 42,
+            "verse": 41,
+            "text": "walamani intaṣara baʿda ẓul'mihi fa-ulāika mā ʿalayhim min sabīlin"
+        },
+        {
+            "chapter": 42,
+            "verse": 42,
+            "text": "innamā l-sabīlu ʿalā alladhīna yaẓlimūna l-nāsa wayabghūna fī l-arḍi bighayri l-ḥaqi ulāika lahum ʿadhābun alīmun"
+        },
+        {
+            "chapter": 42,
+            "verse": 43,
+            "text": "walaman ṣabara waghafara inna dhālika lamin ʿazmi l-umūri"
+        },
+        {
+            "chapter": 42,
+            "verse": 44,
+            "text": "waman yuḍ'lili l-lahu famā lahu min waliyyin min baʿdihi watarā l-ẓālimīna lammā ra-awū l-ʿadhāba yaqūlūna hal ilā maraddin min sabīlin"
+        },
+        {
+            "chapter": 42,
+            "verse": 45,
+            "text": "watarāhum yuʿ'raḍūna ʿalayhā khāshiʿīna mina l-dhuli yanẓurūna min ṭarfin khafiyyin waqāla alladhīna āmanū inna l-khāsirīna alladhīna khasirū anfusahum wa-ahlīhim yawma l-qiyāmati alā inna l-ẓālimīna fī ʿadhābin muqīmin"
+        },
+        {
+            "chapter": 42,
+            "verse": 46,
+            "text": "wamā kāna lahum min awliyāa yanṣurūnahum min dūni l-lahi waman yuḍ'lili l-lahu famā lahu min sabīlin"
+        },
+        {
+            "chapter": 42,
+            "verse": 47,
+            "text": "is'tajībū lirabbikum min qabli an yatiya yawmun lā maradda lahu mina l-lahi mā lakum min malja-in yawma-idhin wamā lakum min nakīrin"
+        },
+        {
+            "chapter": 42,
+            "verse": 48,
+            "text": "fa-in aʿraḍū famā arsalnāka ʿalayhim ḥafīẓan in ʿalayka illā l-balāghu wa-innā idhā adhaqnā l-insāna minnā raḥmatan fariḥa bihā wa-in tuṣib'hum sayyi-atun bimā qaddamat aydīhim fa-inna l-insāna kafūrun"
+        },
+        {
+            "chapter": 42,
+            "verse": 49,
+            "text": "lillahi mul'ku l-samāwāti wal-arḍi yakhluqu mā yashāu yahabu liman yashāu ināthan wayahabu liman yashāu l-dhukūra"
+        },
+        {
+            "chapter": 42,
+            "verse": 50,
+            "text": "aw yuzawwijuhum dhuk'rānan wa-ināthan wayajʿalu man yashāu ʿaqīman innahu ʿalīmun qadīrun"
+        },
+        {
+            "chapter": 42,
+            "verse": 51,
+            "text": "wamā kāna libasharin an yukallimahu l-lahu illā waḥyan aw min warāi ḥijābin aw yur'sila rasūlan fayūḥiya bi-idh'nihi mā yashāu innahu ʿaliyyun ḥakīmun"
+        },
+        {
+            "chapter": 42,
+            "verse": 52,
+            "text": "wakadhālika awḥaynā ilayka rūḥan min amrinā mā kunta tadrī mā l-kitābu walā l-īmānu walākin jaʿalnāhu nūran nahdī bihi man nashāu min ʿibādinā wa-innaka latahdī ilā ṣirāṭin mus'taqīmin"
+        },
+        {
+            "chapter": 42,
+            "verse": 53,
+            "text": "ṣirāṭi l-lahi alladhī lahu mā fī l-samāwāti wamā fī l-arḍi alā ilā l-lahi taṣīru l-umūru"
+        },
+        {
+            "chapter": 43,
+            "verse": 1,
+            "text": "hha-meem"
+        },
+        {
+            "chapter": 43,
+            "verse": 2,
+            "text": "wal-kitābi l-mubīni"
+        },
+        {
+            "chapter": 43,
+            "verse": 3,
+            "text": "innā jaʿalnāhu qur'ānan ʿarabiyyan laʿallakum taʿqilūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 4,
+            "text": "wa-innahu fī ummi l-kitābi ladaynā laʿaliyyun ḥakīmun"
+        },
+        {
+            "chapter": 43,
+            "verse": 5,
+            "text": "afanaḍribu ʿankumu l-dhik'ra ṣafḥan an kuntum qawman mus'rifīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 6,
+            "text": "wakam arsalnā min nabiyyin fī l-awalīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 7,
+            "text": "wamā yatīhim min nabiyyin illā kānū bihi yastahziūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 8,
+            "text": "fa-ahlaknā ashadda min'hum baṭshan wamaḍā mathalu l-awalīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 9,
+            "text": "wala-in sa-altahum man khalaqa l-samāwāti wal-arḍa layaqūlunna khalaqahunna l-ʿazīzu l-ʿalīmu"
+        },
+        {
+            "chapter": 43,
+            "verse": 10,
+            "text": "alladhī jaʿala lakumu l-arḍa mahdan wajaʿala lakum fīhā subulan laʿallakum tahtadūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 11,
+            "text": "wa-alladhī nazzala mina l-samāi māan biqadarin fa-ansharnā bihi baldatan maytan kadhālika tukh'rajūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 12,
+            "text": "wa-alladhī khalaqa l-azwāja kullahā wajaʿala lakum mina l-ful'ki wal-anʿāmi mā tarkabūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 13,
+            "text": "litastawū ʿalā ẓuhūrihi thumma tadhkurū niʿ'mata rabbikum idhā is'tawaytum ʿalayhi wataqūlū sub'ḥāna alladhī sakhara lanā hādhā wamā kunnā lahu muq'rinīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 14,
+            "text": "wa-innā ilā rabbinā lamunqalibūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 15,
+            "text": "wajaʿalū lahu min ʿibādihi juz'an inna l-insāna lakafūrun mubīnun"
+        },
+        {
+            "chapter": 43,
+            "verse": 16,
+            "text": "ami ittakhadha mimmā yakhluqu banātin wa-aṣfākum bil-banīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 17,
+            "text": "wa-idhā bushira aḥaduhum bimā ḍaraba lilrraḥmāni mathalan ẓalla wajhuhu mus'waddan wahuwa kaẓīmun"
+        },
+        {
+            "chapter": 43,
+            "verse": 18,
+            "text": "awaman yunasha-u fī l-ḥil'yati wahuwa fī l-khiṣāmi ghayru mubīnin"
+        },
+        {
+            "chapter": 43,
+            "verse": 19,
+            "text": "wajaʿalū l-malāikata alladhīna hum ʿibādu l-raḥmāni ināthan ashahidū khalqahum satuk'tabu shahādatuhum wayus'alūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 20,
+            "text": "waqālū law shāa l-raḥmānu mā ʿabadnāhum mā lahum bidhālika min ʿil'min in hum illā yakhruṣūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 21,
+            "text": "am ātaynāhum kitāban min qablihi fahum bihi mus'tamsikūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 22,
+            "text": "bal qālū innā wajadnā ābāanā ʿalā ummatin wa-innā ʿalā āthārihim muh'tadūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 23,
+            "text": "wakadhālika mā arsalnā min qablika fī qaryatin min nadhīrin illā qāla mut'rafūhā innā wajadnā ābāanā ʿalā ummatin wa-innā ʿalā āthārihim muq'tadūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 24,
+            "text": "qāla awalaw ji'tukum bi-ahdā mimmā wajadttum ʿalayhi ābāakum qālū innā bimā ur'sil'tum bihi kāfirūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 25,
+            "text": "fa-intaqamnā min'hum fa-unẓur kayfa kāna ʿāqibatu l-mukadhibīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 26,
+            "text": "wa-idh qāla ib'rāhīmu li-abīhi waqawmihi innanī barāon mimmā taʿbudūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 27,
+            "text": "illā alladhī faṭaranī fa-innahu sayahdīni"
+        },
+        {
+            "chapter": 43,
+            "verse": 28,
+            "text": "wajaʿalahā kalimatan bāqiyatan fī ʿaqibihi laʿallahum yarjiʿūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 29,
+            "text": "bal mattaʿtu hāulāi waābāahum ḥattā jāahumu l-ḥaqu warasūlun mubīnun"
+        },
+        {
+            "chapter": 43,
+            "verse": 30,
+            "text": "walammā jāahumu l-ḥaqu qālū hādhā siḥ'run wa-innā bihi kāfirūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 31,
+            "text": "waqālū lawlā nuzzila hādhā l-qur'ānu ʿalā rajulin mina l-qaryatayni ʿaẓīmin"
+        },
+        {
+            "chapter": 43,
+            "verse": 32,
+            "text": "ahum yaqsimūna raḥmata rabbika naḥnu qasamnā baynahum maʿīshatahum fī l-ḥayati l-dun'yā warafaʿnā baʿḍahum fawqa baʿḍin darajātin liyattakhidha baʿḍuhum baʿḍan sukh'riyyan waraḥmatu rabbika khayrun mimmā yajmaʿūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 33,
+            "text": "walawlā an yakūna l-nāsu ummatan wāḥidatan lajaʿalnā liman yakfuru bil-raḥmāni libuyūtihim suqufan min fiḍḍatin wamaʿārija ʿalayhā yaẓharūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 34,
+            "text": "walibuyūtihim abwāban wasururan ʿalayhā yattakiūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 35,
+            "text": "wazukh'rufan wa-in kullu dhālika lammā matāʿu l-ḥayati l-dun'yā wal-ākhiratu ʿinda rabbika lil'muttaqīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 36,
+            "text": "waman yaʿshu ʿan dhik'ri l-raḥmāni nuqayyiḍ lahu shayṭānan fahuwa lahu qarīnun"
+        },
+        {
+            "chapter": 43,
+            "verse": 37,
+            "text": "wa-innahum layaṣuddūnahum ʿani l-sabīli wayaḥsabūna annahum muh'tadūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 38,
+            "text": "ḥattā idhā jāanā qāla yālayta baynī wabaynaka buʿ'da l-mashriqayni fabi'sa l-qarīnu"
+        },
+        {
+            "chapter": 43,
+            "verse": 39,
+            "text": "walan yanfaʿakumu l-yawma idh ẓalamtum annakum fī l-ʿadhābi mush'tarikūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 40,
+            "text": "afa-anta tus'miʿu l-ṣuma aw tahdī l-ʿum'ya waman kāna fī ḍalālin mubīnin"
+        },
+        {
+            "chapter": 43,
+            "verse": 41,
+            "text": "fa-immā nadhhabanna bika fa-innā min'hum muntaqimūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 42,
+            "text": "aw nuriyannaka alladhī waʿadnāhum fa-innā ʿalayhim muq'tadirūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 43,
+            "text": "fa-is'tamsik bi-alladhī ūḥiya ilayka innaka ʿalā ṣirāṭin mus'taqīmin"
+        },
+        {
+            "chapter": 43,
+            "verse": 44,
+            "text": "wa-innahu ladhik'run laka waliqawmika wasawfa tus'alūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 45,
+            "text": "wasal man arsalnā min qablika min rusulinā ajaʿalnā min dūni l-raḥmāni ālihatan yuʿ'badūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 46,
+            "text": "walaqad arsalnā mūsā biāyātinā ilā fir'ʿawna wamala-ihi faqāla innī rasūlu rabbi l-ʿālamīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 47,
+            "text": "falammā jāahum biāyātinā idhā hum min'hā yaḍḥakūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 48,
+            "text": "wamā nurīhim min āyatin illā hiya akbaru min ukh'tihā wa-akhadhnāhum bil-ʿadhābi laʿallahum yarjiʿūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 49,
+            "text": "waqālū yāayyuha l-sāḥiru ud'ʿu lanā rabbaka bimā ʿahida ʿindaka innanā lamuh'tadūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 50,
+            "text": "falammā kashafnā ʿanhumu l-ʿadhāba idhā hum yankuthūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 51,
+            "text": "wanādā fir'ʿawnu fī qawmihi qāla yāqawmi alaysa lī mul'ku miṣ'ra wahādhihi l-anhāru tajrī min taḥtī afalā tub'ṣirūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 52,
+            "text": "am anā khayrun min hādhā alladhī huwa mahīnun walā yakādu yubīnu"
+        },
+        {
+            "chapter": 43,
+            "verse": 53,
+            "text": "falawlā ul'qiya ʿalayhi aswiratun min dhahabin aw jāa maʿahu l-malāikatu muq'tarinīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 54,
+            "text": "fa-is'takhaffa qawmahu fa-aṭāʿūhu innahum kānū qawman fāsiqīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 55,
+            "text": "falammā āsafūnā intaqamnā min'hum fa-aghraqnāhum ajmaʿīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 56,
+            "text": "fajaʿalnāhum salafan wamathalan lil'ākhirīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 57,
+            "text": "walammā ḍuriba ub'nu maryama mathalan idhā qawmuka min'hu yaṣiddūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 58,
+            "text": "waqālū aālihatunā khayrun am huwa mā ḍarabūhu laka illā jadalan bal hum qawmun khaṣimūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 59,
+            "text": "in huwa illā ʿabdun anʿamnā ʿalayhi wajaʿalnāhu mathalan libanī is'rāīla"
+        },
+        {
+            "chapter": 43,
+            "verse": 60,
+            "text": "walaw nashāu lajaʿalnā minkum malāikatan fī l-arḍi yakhlufūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 61,
+            "text": "wa-innahu laʿil'mun lilssāʿati falā tamtarunna bihā wa-ittabiʿūni hādhā ṣirāṭun mus'taqīmun"
+        },
+        {
+            "chapter": 43,
+            "verse": 62,
+            "text": "walā yaṣuddannakumu l-shayṭānu innahu lakum ʿaduwwun mubīnun"
+        },
+        {
+            "chapter": 43,
+            "verse": 63,
+            "text": "walammā jāa ʿīsā bil-bayināti qāla qad ji'tukum bil-ḥik'mati wali-ubayyina lakum baʿḍa alladhī takhtalifūna fīhi fa-ittaqū l-laha wa-aṭīʿūni"
+        },
+        {
+            "chapter": 43,
+            "verse": 64,
+            "text": "inna l-laha huwa rabbī warabbukum fa-uʿ'budūhu hādhā ṣirāṭun mus'taqīmun"
+        },
+        {
+            "chapter": 43,
+            "verse": 65,
+            "text": "fa-ikh'talafa l-aḥzābu min baynihim fawaylun lilladhīna ẓalamū min ʿadhābi yawmin alīmin"
+        },
+        {
+            "chapter": 43,
+            "verse": 66,
+            "text": "hal yanẓurūna illā l-sāʿata an tatiyahum baghtatan wahum lā yashʿurūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 67,
+            "text": "al-akhilāu yawma-idhin baʿḍuhum libaʿḍin ʿaduwwun illā l-mutaqīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 68,
+            "text": "yāʿibādi lā khawfun ʿalaykumu l-yawma walā antum taḥzanūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 69,
+            "text": "alladhīna āmanū biāyātinā wakānū mus'limīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 70,
+            "text": "ud'khulū l-janata antum wa-azwājukum tuḥ'barūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 71,
+            "text": "yuṭāfu ʿalayhim biṣiḥāfin min dhahabin wa-akwābin wafīhā mā tashtahīhi l-anfusu wataladhu l-aʿyunu wa-antum fīhā khālidūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 72,
+            "text": "watil'ka l-janatu allatī ūrith'tumūhā bimā kuntum taʿmalūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 73,
+            "text": "lakum fīhā fākihatun kathīratun min'hā takulūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 74,
+            "text": "inna l-muj'rimīna fī ʿadhābi jahannama khālidūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 75,
+            "text": "lā yufattaru ʿanhum wahum fīhi mub'lisūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 76,
+            "text": "wamā ẓalamnāhum walākin kānū humu l-ẓālimīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 77,
+            "text": "wanādaw yāmāliku liyaqḍi ʿalaynā rabbuka qāla innakum mākithūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 78,
+            "text": "laqad ji'nākum bil-ḥaqi walākinna aktharakum lil'ḥaqqi kārihūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 79,
+            "text": "am abramū amran fa-innā mub'rimūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 80,
+            "text": "am yaḥsabūna annā lā nasmaʿu sirrahum wanajwāhum balā warusulunā ladayhim yaktubūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 81,
+            "text": "qul in kāna lilrraḥmāni waladun fa-anā awwalu l-ʿābidīna"
+        },
+        {
+            "chapter": 43,
+            "verse": 82,
+            "text": "sub'ḥāna rabbi l-samāwāti wal-arḍi rabbi l-ʿarshi ʿammā yaṣifūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 83,
+            "text": "fadharhum yakhūḍū wayalʿabū ḥattā yulāqū yawmahumu alladhī yūʿadūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 84,
+            "text": "wahuwa alladhī fī l-samāi ilāhun wafī l-arḍi ilāhun wahuwa l-ḥakīmu l-ʿalīmu"
+        },
+        {
+            "chapter": 43,
+            "verse": 85,
+            "text": "watabāraka alladhī lahu mul'ku l-samāwāti wal-arḍi wamā baynahumā waʿindahu ʿil'mu l-sāʿati wa-ilayhi tur'jaʿūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 86,
+            "text": "walā yamliku alladhīna yadʿūna min dūnihi l-shafāʿata illā man shahida bil-ḥaqi wahum yaʿlamūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 87,
+            "text": "wala-in sa-altahum man khalaqahum layaqūlunna l-lahu fa-annā yu'fakūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 88,
+            "text": "waqīlihi yārabbi inna hāulāi qawmun lā yu'minūna"
+        },
+        {
+            "chapter": 43,
+            "verse": 89,
+            "text": "fa-iṣ'faḥ ʿanhum waqul salāmun fasawfa yaʿlamūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 1,
+            "text": "hha-meem"
+        },
+        {
+            "chapter": 44,
+            "verse": 2,
+            "text": "wal-kitābi l-mubīni"
+        },
+        {
+            "chapter": 44,
+            "verse": 3,
+            "text": "innā anzalnāhu fī laylatin mubārakatin innā kunnā mundhirīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 4,
+            "text": "fīhā yuf'raqu kullu amrin ḥakīmin"
+        },
+        {
+            "chapter": 44,
+            "verse": 5,
+            "text": "amran min ʿindinā innā kunnā mur'silīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 6,
+            "text": "raḥmatan min rabbika innahu huwa l-samīʿu l-ʿalīmu"
+        },
+        {
+            "chapter": 44,
+            "verse": 7,
+            "text": "rabbi l-samāwāti wal-arḍi wamā baynahumā in kuntum mūqinīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 8,
+            "text": "lā ilāha illā huwa yuḥ'yī wayumītu rabbukum warabbu ābāikumu l-awalīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 9,
+            "text": "bal hum fī shakkin yalʿabūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 10,
+            "text": "fa-ir'taqib yawma tatī l-samāu bidukhānin mubīnin"
+        },
+        {
+            "chapter": 44,
+            "verse": 11,
+            "text": "yaghshā l-nāsa hādhā ʿadhābun alīmun"
+        },
+        {
+            "chapter": 44,
+            "verse": 12,
+            "text": "rabbanā ik'shif ʿannā l-ʿadhāba innā mu'minūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 13,
+            "text": "annā lahumu l-dhik'rā waqad jāahum rasūlun mubīnun"
+        },
+        {
+            "chapter": 44,
+            "verse": 14,
+            "text": "thumma tawallaw ʿanhu waqālū muʿallamun majnūnun"
+        },
+        {
+            "chapter": 44,
+            "verse": 15,
+            "text": "innā kāshifū l-ʿadhābi qalīlan innakum ʿāidūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 16,
+            "text": "yawma nabṭishu l-baṭshata l-kub'rā innā muntaqimūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 17,
+            "text": "walaqad fatannā qablahum qawma fir'ʿawna wajāahum rasūlun karīmun"
+        },
+        {
+            "chapter": 44,
+            "verse": 18,
+            "text": "an addū ilayya ʿibāda l-lahi innī lakum rasūlun amīnun"
+        },
+        {
+            "chapter": 44,
+            "verse": 19,
+            "text": "wa-an lā taʿlū ʿalā l-lahi innī ātīkum bisul'ṭānin mubīnin"
+        },
+        {
+            "chapter": 44,
+            "verse": 20,
+            "text": "wa-innī ʿudh'tu birabbī warabbikum an tarjumūni"
+        },
+        {
+            "chapter": 44,
+            "verse": 21,
+            "text": "wa-in lam tu'minū lī fa-iʿ'tazilūni"
+        },
+        {
+            "chapter": 44,
+            "verse": 22,
+            "text": "fadaʿā rabbahu anna hāulāi qawmun muj'rimūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 23,
+            "text": "fa-asri biʿibādī laylan innakum muttabaʿūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 24,
+            "text": "wa-ut'ruki l-baḥra rahwan innahum jundun mugh'raqūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 25,
+            "text": "kam tarakū min jannātin waʿuyūnin"
+        },
+        {
+            "chapter": 44,
+            "verse": 26,
+            "text": "wazurūʿin wamaqāmin karīmin"
+        },
+        {
+            "chapter": 44,
+            "verse": 27,
+            "text": "wanaʿmatin kānū fīhā fākihīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 28,
+            "text": "kadhālika wa-awrathnāhā qawman ākharīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 29,
+            "text": "famā bakat ʿalayhimu l-samāu wal-arḍu wamā kānū munẓarīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 30,
+            "text": "walaqad najjaynā banī is'rāīla mina l-ʿadhābi l-muhīni"
+        },
+        {
+            "chapter": 44,
+            "verse": 31,
+            "text": "min fir'ʿawna innahu kāna ʿāliyan mina l-mus'rifīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 32,
+            "text": "walaqadi ikh'tarnāhum ʿalā ʿil'min ʿalā l-ʿālamīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 33,
+            "text": "waātaynāhum mina l-āyāti mā fīhi balāon mubīnun"
+        },
+        {
+            "chapter": 44,
+            "verse": 34,
+            "text": "inna hāulāi layaqūlūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 35,
+            "text": "in hiya illā mawtatunā l-ūlā wamā naḥnu bimunsharīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 36,
+            "text": "fatū biābāinā in kuntum ṣādiqīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 37,
+            "text": "ahum khayrun am qawmu tubbaʿin wa-alladhīna min qablihim ahlaknāhum innahum kānū muj'rimīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 38,
+            "text": "wamā khalaqnā l-samāwāti wal-arḍa wamā baynahumā lāʿibīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 39,
+            "text": "mā khalaqnāhumā illā bil-ḥaqi walākinna aktharahum lā yaʿlamūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 40,
+            "text": "inna yawma l-faṣli mīqātuhum ajmaʿīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 41,
+            "text": "yawma lā yugh'nī mawlan ʿan mawlan shayan walā hum yunṣarūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 42,
+            "text": "illā man raḥima l-lahu innahu huwa l-ʿazīzu l-raḥīmu"
+        },
+        {
+            "chapter": 44,
+            "verse": 43,
+            "text": "inna shajarata l-zaqūmi"
+        },
+        {
+            "chapter": 44,
+            "verse": 44,
+            "text": "ṭaʿāmu l-athīmi"
+        },
+        {
+            "chapter": 44,
+            "verse": 45,
+            "text": "kal-muh'li yaghlī fī l-buṭūni"
+        },
+        {
+            "chapter": 44,
+            "verse": 46,
+            "text": "kaghalyi l-ḥamīmi"
+        },
+        {
+            "chapter": 44,
+            "verse": 47,
+            "text": "khudhūhu fa-iʿ'tilūhu ilā sawāi l-jaḥīmi"
+        },
+        {
+            "chapter": 44,
+            "verse": 48,
+            "text": "thumma ṣubbū fawqa rasihi min ʿadhābi l-ḥamīmi"
+        },
+        {
+            "chapter": 44,
+            "verse": 49,
+            "text": "dhuq innaka anta l-ʿazīzu l-karīmu"
+        },
+        {
+            "chapter": 44,
+            "verse": 50,
+            "text": "inna hādhā mā kuntum bihi tamtarūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 51,
+            "text": "inna l-mutaqīna fī maqāmin amīnin"
+        },
+        {
+            "chapter": 44,
+            "verse": 52,
+            "text": "fī jannātin waʿuyūnin"
+        },
+        {
+            "chapter": 44,
+            "verse": 53,
+            "text": "yalbasūna min sundusin wa-is'tabraqin mutaqābilīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 54,
+            "text": "kadhālika wazawwajnāhum biḥūrin ʿīnin"
+        },
+        {
+            "chapter": 44,
+            "verse": 55,
+            "text": "yadʿūna fīhā bikulli fākihatin āminīna"
+        },
+        {
+            "chapter": 44,
+            "verse": 56,
+            "text": "lā yadhūqūna fīhā l-mawta illā l-mawtata l-ūlā wawaqāhum ʿadhāba l-jaḥīmi"
+        },
+        {
+            "chapter": 44,
+            "verse": 57,
+            "text": "faḍlan min rabbika dhālika huwa l-fawzu l-ʿaẓīmu"
+        },
+        {
+            "chapter": 44,
+            "verse": 58,
+            "text": "fa-innamā yassarnāhu bilisānika laʿallahum yatadhakkarūna"
+        },
+        {
+            "chapter": 44,
+            "verse": 59,
+            "text": "fa-ir'taqib innahum mur'taqibūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 1,
+            "text": "hha-meem"
+        },
+        {
+            "chapter": 45,
+            "verse": 2,
+            "text": "tanzīlu l-kitābi mina l-lahi l-ʿazīzi l-ḥakīmi"
+        },
+        {
+            "chapter": 45,
+            "verse": 3,
+            "text": "inna fī l-samāwāti wal-arḍi laāyātin lil'mu'minīna"
+        },
+        {
+            "chapter": 45,
+            "verse": 4,
+            "text": "wafī khalqikum wamā yabuthu min dābbatin āyātun liqawmin yūqinūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 5,
+            "text": "wa-ikh'tilāfi al-layli wal-nahāri wamā anzala l-lahu mina l-samāi min riz'qin fa-aḥyā bihi l-arḍa baʿda mawtihā wataṣrīfi l-riyāḥi āyātun liqawmin yaʿqilūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 6,
+            "text": "til'ka āyātu l-lahi natlūhā ʿalayka bil-ḥaqi fabi-ayyi ḥadīthin baʿda l-lahi waāyātihi yu'minūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 7,
+            "text": "waylun likulli affākin athīmin"
+        },
+        {
+            "chapter": 45,
+            "verse": 8,
+            "text": "yasmaʿu āyāti l-lahi tut'lā ʿalayhi thumma yuṣirru mus'takbiran ka-an lam yasmaʿhā fabashir'hu biʿadhābin alīmin"
+        },
+        {
+            "chapter": 45,
+            "verse": 9,
+            "text": "wa-idhā ʿalima min āyātinā shayan ittakhadhahā huzuwan ulāika lahum ʿadhābun muhīnun"
+        },
+        {
+            "chapter": 45,
+            "verse": 10,
+            "text": "min warāihim jahannamu walā yugh'nī ʿanhum mā kasabū shayan walā mā ittakhadhū min dūni l-lahi awliyāa walahum ʿadhābun ʿaẓīmun"
+        },
+        {
+            "chapter": 45,
+            "verse": 11,
+            "text": "hādhā hudan wa-alladhīna kafarū biāyāti rabbihim lahum ʿadhābun min rij'zin alīmun"
+        },
+        {
+            "chapter": 45,
+            "verse": 12,
+            "text": "al-lahu alladhī sakhara lakumu l-baḥra litajriya l-ful'ku fīhi bi-amrihi walitabtaghū min faḍlihi walaʿallakum tashkurūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 13,
+            "text": "wasakhara lakum mā fī l-samāwāti wamā fī l-arḍi jamīʿan min'hu inna fī dhālika laāyātin liqawmin yatafakkarūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 14,
+            "text": "qul lilladhīna āmanū yaghfirū lilladhīna lā yarjūna ayyāma l-lahi liyajziya qawman bimā kānū yaksibūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 15,
+            "text": "man ʿamila ṣāliḥan falinafsihi waman asāa faʿalayhā thumma ilā rabbikum tur'jaʿūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 16,
+            "text": "walaqad ātaynā banī is'rāīla l-kitāba wal-ḥuk'ma wal-nubuwata warazaqnāhum mina l-ṭayibāti wafaḍḍalnāhum ʿalā l-ʿālamīna"
+        },
+        {
+            "chapter": 45,
+            "verse": 17,
+            "text": "waātaynāhum bayyinātin mina l-amri famā ikh'talafū illā min baʿdi mā jāahumu l-ʿil'mu baghyan baynahum inna rabbaka yaqḍī baynahum yawma l-qiyāmati fīmā kānū fīhi yakhtalifūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 18,
+            "text": "thumma jaʿalnāka ʿalā sharīʿatin mina l-amri fa-ittabiʿ'hā walā tattabiʿ ahwāa alladhīna lā yaʿlamūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 19,
+            "text": "innahum lan yugh'nū ʿanka mina l-lahi shayan wa-inna l-ẓālimīna baʿḍuhum awliyāu baʿḍin wal-lahu waliyyu l-mutaqīna"
+        },
+        {
+            "chapter": 45,
+            "verse": 20,
+            "text": "hādhā baṣāiru lilnnāsi wahudan waraḥmatun liqawmin yūqinūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 21,
+            "text": "am ḥasiba alladhīna ij'taraḥū l-sayiāti an najʿalahum ka-alladhīna āmanū waʿamilū l-ṣāliḥāti sawāan maḥyāhum wamamātuhum sāa mā yaḥkumūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 22,
+            "text": "wakhalaqa l-lahu l-samāwāti wal-arḍa bil-ḥaqi walituj'zā kullu nafsin bimā kasabat wahum lā yuẓ'lamūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 23,
+            "text": "afara-ayta mani ittakhadha ilāhahu hawāhu wa-aḍallahu l-lahu ʿalā ʿil'min wakhatama ʿalā samʿihi waqalbihi wajaʿala ʿalā baṣarihi ghishāwatan faman yahdīhi min baʿdi l-lahi afalā tadhakkarūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 24,
+            "text": "waqālū mā hiya illā ḥayātunā l-dun'yā namūtu wanaḥyā wamā yuh'likunā illā l-dahru wamā lahum bidhālika min ʿil'min in hum illā yaẓunnūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 25,
+            "text": "wa-idhā tut'lā ʿalayhim āyātunā bayyinātin mā kāna ḥujjatahum illā an qālū i'tū biābāinā in kuntum ṣādiqīna"
+        },
+        {
+            "chapter": 45,
+            "verse": 26,
+            "text": "quli l-lahu yuḥ'yīkum thumma yumītukum thumma yajmaʿukum ilā yawmi l-qiyāmati lā rayba fīhi walākinna akthara l-nāsi lā yaʿlamūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 27,
+            "text": "walillahi mul'ku l-samāwāti wal-arḍi wayawma taqūmu l-sāʿatu yawma-idhin yakhsaru l-mub'ṭilūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 28,
+            "text": "watarā kulla ummatin jāthiyatan kullu ummatin tud'ʿā ilā kitābihā l-yawma tuj'zawna mā kuntum taʿmalūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 29,
+            "text": "hādhā kitābunā yanṭiqu ʿalaykum bil-ḥaqi innā kunnā nastansikhu mā kuntum taʿmalūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 30,
+            "text": "fa-ammā alladhīna āmanū waʿamilū l-ṣāliḥāti fayud'khiluhum rabbuhum fī raḥmatihi dhālika huwa l-fawzu l-mubīnu"
+        },
+        {
+            "chapter": 45,
+            "verse": 31,
+            "text": "wa-ammā alladhīna kafarū afalam takun āyātī tut'lā ʿalaykum fa-is'takbartum wakuntum qawman muj'rimīna"
+        },
+        {
+            "chapter": 45,
+            "verse": 32,
+            "text": "wa-idhā qīla inna waʿda l-lahi ḥaqqun wal-sāʿatu lā rayba fīhā qul'tum mā nadrī mā l-sāʿatu in naẓunnu illā ẓannan wamā naḥnu bimus'tayqinīna"
+        },
+        {
+            "chapter": 45,
+            "verse": 33,
+            "text": "wabadā lahum sayyiātu mā ʿamilū waḥāqa bihim mā kānū bihi yastahziūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 34,
+            "text": "waqīla l-yawma nansākum kamā nasītum liqāa yawmikum hādhā wamawākumu l-nāru wamā lakum min nāṣirīna"
+        },
+        {
+            "chapter": 45,
+            "verse": 35,
+            "text": "dhālikum bi-annakumu ittakhadhtum āyāti l-lahi huzuwan wagharratkumu l-ḥayatu l-dun'yā fal-yawma lā yukh'rajūna min'hā walā hum yus'taʿtabūna"
+        },
+        {
+            "chapter": 45,
+            "verse": 36,
+            "text": "falillahi l-ḥamdu rabbi l-samāwāti warabbi l-arḍi rabbi l-ʿālamīna"
+        },
+        {
+            "chapter": 45,
+            "verse": 37,
+            "text": "walahu l-kib'riyāu fī l-samāwāti wal-arḍi wahuwa l-ʿazīzu l-ḥakīmu"
+        },
+        {
+            "chapter": 46,
+            "verse": 1,
+            "text": "hha-meem"
+        },
+        {
+            "chapter": 46,
+            "verse": 2,
+            "text": "tanzīlu l-kitābi mina l-lahi l-ʿazīzi l-ḥakīmi"
+        },
+        {
+            "chapter": 46,
+            "verse": 3,
+            "text": "mā khalaqnā l-samāwāti wal-arḍa wamā baynahumā illā bil-ḥaqi wa-ajalin musamman wa-alladhīna kafarū ʿammā undhirū muʿ'riḍūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 4,
+            "text": "qul ara-aytum mā tadʿūna min dūni l-lahi arūnī mādhā khalaqū mina l-arḍi am lahum shir'kun fī l-samāwāti i'tūnī bikitābin min qabli hādhā aw athāratin min ʿil'min in kuntum ṣādiqīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 5,
+            "text": "waman aḍallu mimman yadʿū min dūni l-lahi man lā yastajību lahu ilā yawmi l-qiyāmati wahum ʿan duʿāihim ghāfilūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 6,
+            "text": "wa-idhā ḥushira l-nāsu kānū lahum aʿdāan wakānū biʿibādatihim kāfirīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 7,
+            "text": "wa-idhā tut'lā ʿalayhim āyātunā bayyinātin qāla alladhīna kafarū lil'ḥaqqi lammā jāahum hādhā siḥ'run mubīnun"
+        },
+        {
+            "chapter": 46,
+            "verse": 8,
+            "text": "am yaqūlūna if'tarāhu qul ini if'taraytuhu falā tamlikūna lī mina l-lahi shayan huwa aʿlamu bimā tufīḍūna fīhi kafā bihi shahīdan baynī wabaynakum wahuwa l-ghafūru l-raḥīmu"
+        },
+        {
+            "chapter": 46,
+            "verse": 9,
+            "text": "qul mā kuntu bid'ʿan mina l-rusuli wamā adrī mā yuf'ʿalu bī walā bikum in attabiʿu illā mā yūḥā ilayya wamā anā illā nadhīrun mubīnun"
+        },
+        {
+            "chapter": 46,
+            "verse": 10,
+            "text": "qul ara-aytum in kāna min ʿindi l-lahi wakafartum bihi washahida shāhidun min banī is'rāīla ʿalā mith'lihi faāmana wa-is'takbartum inna l-laha lā yahdī l-qawma l-ẓālimīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 11,
+            "text": "waqāla alladhīna kafarū lilladhīna āmanū law kāna khayran mā sabaqūnā ilayhi wa-idh lam yahtadū bihi fasayaqūlūna hādhā if'kun qadīmun"
+        },
+        {
+            "chapter": 46,
+            "verse": 12,
+            "text": "wamin qablihi kitābu mūsā imāman waraḥmatan wahādhā kitābun muṣaddiqun lisānan ʿarabiyyan liyundhira alladhīna ẓalamū wabush'rā lil'muḥ'sinīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 13,
+            "text": "inna alladhīna qālū rabbunā l-lahu thumma is'taqāmū falā khawfun ʿalayhim walā hum yaḥzanūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 14,
+            "text": "ulāika aṣḥābu l-janati khālidīna fīhā jazāan bimā kānū yaʿmalūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 15,
+            "text": "wawaṣṣaynā l-insāna biwālidayhi iḥ'sānan ḥamalathu ummuhu kur'han wawaḍaʿathu kur'han waḥamluhu wafiṣāluhu thalāthūna shahran ḥattā idhā balagha ashuddahu wabalagha arbaʿīna sanatan qāla rabbi awziʿ'nī an ashkura niʿ'mataka allatī anʿamta ʿalayya waʿalā wālidayya wa-an aʿmala ṣāliḥan tarḍāhu wa-aṣliḥ lī fī dhurriyyatī innī tub'tu ilayka wa-innī mina l-mus'limīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 16,
+            "text": "ulāika alladhīna nataqabbalu ʿanhum aḥsana mā ʿamilū wanatajāwazu ʿan sayyiātihim fī aṣḥābi l-janati waʿda l-ṣid'qi alladhī kānū yūʿadūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 17,
+            "text": "wa-alladhī qāla liwālidayhi uffin lakumā ataʿidāninī an ukh'raja waqad khalati l-qurūnu min qablī wahumā yastaghīthāni l-laha waylaka āmin inna waʿda l-lahi ḥaqqun fayaqūlu mā hādhā illā asāṭīru l-awalīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 18,
+            "text": "ulāika alladhīna ḥaqqa ʿalayhimu l-qawlu fī umamin qad khalat min qablihim mina l-jini wal-insi innahum kānū khāsirīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 19,
+            "text": "walikullin darajātun mimmā ʿamilū waliyuwaffiyahum aʿmālahum wahum lā yuẓ'lamūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 20,
+            "text": "wayawma yuʿ'raḍu alladhīna kafarū ʿalā l-nāri adhhabtum ṭayyibātikum fī ḥayātikumu l-dun'yā wa-is'tamtaʿtum bihā fal-yawma tuj'zawna ʿadhāba l-hūni bimā kuntum tastakbirūna fī l-arḍi bighayri l-ḥaqi wabimā kuntum tafsuqūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 21,
+            "text": "wa-udh'kur akhā ʿādin idh andhara qawmahu bil-aḥqāfi waqad khalati l-nudhuru min bayni yadayhi wamin khalfihi allā taʿbudū illā l-laha innī akhāfu ʿalaykum ʿadhāba yawmin ʿaẓīmin"
+        },
+        {
+            "chapter": 46,
+            "verse": 22,
+            "text": "qālū aji'tanā litafikanā ʿan ālihatinā fatinā bimā taʿidunā in kunta mina l-ṣādiqīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 23,
+            "text": "qāla innamā l-ʿil'mu ʿinda l-lahi wa-uballighukum mā ur'sil'tu bihi walākinnī arākum qawman tajhalūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 24,
+            "text": "falammā ra-awhu ʿāriḍan mus'taqbila awdiyatihim qālū hādhā ʿāriḍun mum'ṭirunā bal huwa mā is'taʿjaltum bihi rīḥun fīhā ʿadhābun alīmun"
+        },
+        {
+            "chapter": 46,
+            "verse": 25,
+            "text": "tudammiru kulla shayin bi-amri rabbihā fa-aṣbaḥū lā yurā illā masākinuhum kadhālika najzī l-qawma l-muj'rimīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 26,
+            "text": "walaqad makkannāhum fīmā in makkannākum fīhi wajaʿalnā lahum samʿan wa-abṣāran wa-afidatan famā aghnā ʿanhum samʿuhum walā abṣāruhum walā afidatuhum min shayin idh kānū yajḥadūna biāyāti l-lahi waḥāqa bihim mā kānū bihi yastahziūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 27,
+            "text": "walaqad ahlaknā mā ḥawlakum mina l-qurā waṣarrafnā l-āyāti laʿallahum yarjiʿūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 28,
+            "text": "falawlā naṣarahumu alladhīna ittakhadhū min dūni l-lahi qur'bānan ālihatan bal ḍallū ʿanhum wadhālika if'kuhum wamā kānū yaftarūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 29,
+            "text": "wa-idh ṣarafnā ilayka nafaran mina l-jini yastamiʿūna l-qur'āna falammā ḥaḍarūhu qālū anṣitū falammā quḍiya wallaw ilā qawmihim mundhirīna"
+        },
+        {
+            "chapter": 46,
+            "verse": 30,
+            "text": "qālū yāqawmanā innā samiʿ'nā kitāban unzila min baʿdi mūsā muṣaddiqan limā bayna yadayhi yahdī ilā l-ḥaqi wa-ilā ṭarīqin mus'taqīmin"
+        },
+        {
+            "chapter": 46,
+            "verse": 31,
+            "text": "yāqawmanā ajībū dāʿiya l-lahi waāminū bihi yaghfir lakum min dhunūbikum wayujir'kum min ʿadhābin alīmin"
+        },
+        {
+            "chapter": 46,
+            "verse": 32,
+            "text": "waman lā yujib dāʿiya l-lahi falaysa bimuʿ'jizin fī l-arḍi walaysa lahu min dūnihi awliyāu ulāika fī ḍalālin mubīnin"
+        },
+        {
+            "chapter": 46,
+            "verse": 33,
+            "text": "awalam yaraw anna l-laha alladhī khalaqa l-samāwāti wal-arḍa walam yaʿya bikhalqihinna biqādirin ʿalā an yuḥ'yiya l-mawtā balā innahu ʿalā kulli shayin qadīrun"
+        },
+        {
+            "chapter": 46,
+            "verse": 34,
+            "text": "wayawma yuʿ'raḍu alladhīna kafarū ʿalā l-nāri alaysa hādhā bil-ḥaqi qālū balā warabbinā qāla fadhūqū l-ʿadhāba bimā kuntum takfurūna"
+        },
+        {
+            "chapter": 46,
+            "verse": 35,
+            "text": "fa-iṣ'bir kamā ṣabara ulū l-ʿazmi mina l-rusuli walā tastaʿjil lahum ka-annahum yawma yarawna mā yūʿadūna lam yalbathū illā sāʿatan min nahārin balāghun fahal yuh'laku illā l-qawmu l-fāsiqūna"
+        },
+        {
+            "chapter": 47,
+            "verse": 1,
+            "text": "alladhīna kafarū waṣaddū ʿan sabīli l-lahi aḍalla aʿmālahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 2,
+            "text": "wa-alladhīna āmanū waʿamilū l-ṣāliḥāti waāmanū bimā nuzzila ʿalā muḥammadin wahuwa l-ḥaqu min rabbihim kaffara ʿanhum sayyiātihim wa-aṣlaḥa bālahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 3,
+            "text": "dhālika bi-anna alladhīna kafarū ittabaʿū l-bāṭila wa-anna alladhīna āmanū ittabaʿū l-ḥaqa min rabbihim kadhālika yaḍribu l-lahu lilnnāsi amthālahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 4,
+            "text": "fa-idhā laqītumu alladhīna kafarū faḍarba l-riqābi ḥattā idhā athkhantumūhum fashuddū l-wathāqa fa-immā mannan baʿdu wa-immā fidāan ḥattā taḍaʿa l-ḥarbu awzārahā dhālika walaw yashāu l-lahu la-intaṣara min'hum walākin liyabluwā baʿḍakum bibaʿḍin wa-alladhīna qutilū fī sabīli l-lahi falan yuḍilla aʿmālahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 5,
+            "text": "sayahdīhim wayuṣ'liḥu bālahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 6,
+            "text": "wayud'khiluhumu l-janata ʿarrafahā lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 7,
+            "text": "yāayyuhā alladhīna āmanū in tanṣurū l-laha yanṣur'kum wayuthabbit aqdāmakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 8,
+            "text": "wa-alladhīna kafarū fataʿsan lahum wa-aḍalla aʿmālahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 9,
+            "text": "dhālika bi-annahum karihū mā anzala l-lahu fa-aḥbaṭa aʿmālahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 10,
+            "text": "afalam yasīrū fī l-arḍi fayanẓurū kayfa kāna ʿāqibatu alladhīna min qablihim dammara l-lahu ʿalayhim walil'kāfirīna amthāluhā"
+        },
+        {
+            "chapter": 47,
+            "verse": 11,
+            "text": "dhālika bi-anna l-laha mawlā alladhīna āmanū wa-anna l-kāfirīna lā mawlā lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 12,
+            "text": "inna l-laha yud'khilu alladhīna āmanū waʿamilū l-ṣāliḥāti jannātin tajrī min taḥtihā l-anhāru wa-alladhīna kafarū yatamattaʿūna wayakulūna kamā takulu l-anʿāmu wal-nāru mathwan lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 13,
+            "text": "waka-ayyin min qaryatin hiya ashaddu quwwatan min qaryatika allatī akhrajatka ahlaknāhum falā nāṣira lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 14,
+            "text": "afaman kāna ʿalā bayyinatin min rabbihi kaman zuyyina lahu sūu ʿamalihi wa-ittabaʿū ahwāahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 15,
+            "text": "mathalu l-janati allatī wuʿida l-mutaqūna fīhā anhārun min māin ghayri āsinin wa-anhārun min labanin lam yataghayyar ṭaʿmuhu wa-anhārun min khamrin ladhatin lilshāribīna wa-anhārun min ʿasalin muṣaffan walahum fīhā min kulli l-thamarāti wamaghfiratun min rabbihim kaman huwa khālidun fī l-nāri wasuqū māan ḥamīman faqaṭṭaʿa amʿāahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 16,
+            "text": "wamin'hum man yastamiʿu ilayka ḥattā idhā kharajū min ʿindika qālū lilladhīna ūtū l-ʿil'ma mādhā qāla ānifan ulāika alladhīna ṭabaʿa l-lahu ʿalā qulūbihim wa-ittabaʿū ahwāahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 17,
+            "text": "wa-alladhīna ih'tadaw zādahum hudan waātāhum taqwāhum"
+        },
+        {
+            "chapter": 47,
+            "verse": 18,
+            "text": "fahal yanẓurūna illā l-sāʿata an tatiyahum baghtatan faqad jāa ashrāṭuhā fa-annā lahum idhā jāathum dhik'rāhum"
+        },
+        {
+            "chapter": 47,
+            "verse": 19,
+            "text": "fa-iʿ'lam annahu lā ilāha illā l-lahu wa-is'taghfir lidhanbika walil'mu'minīna wal-mu'mināti wal-lahu yaʿlamu mutaqallabakum wamathwākum"
+        },
+        {
+            "chapter": 47,
+            "verse": 20,
+            "text": "wayaqūlu alladhīna āmanū lawlā nuzzilat sūratun fa-idhā unzilat sūratun muḥ'kamatun wadhukira fīhā l-qitālu ra-ayta alladhīna fī qulūbihim maraḍun yanẓurūna ilayka naẓara l-maghshiyi ʿalayhi mina l-mawti fa-awlā lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 21,
+            "text": "ṭāʿatun waqawlun maʿrūfun fa-idhā ʿazama l-amru falaw ṣadaqū l-laha lakāna khayran lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 22,
+            "text": "fahal ʿasaytum in tawallaytum an tuf'sidū fī l-arḍi watuqaṭṭiʿū arḥāmakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 23,
+            "text": "ulāika alladhīna laʿanahumu l-lahu fa-aṣammahum wa-aʿmā abṣārahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 24,
+            "text": "afalā yatadabbarūna l-qur'āna am ʿalā qulūbin aqfāluhā"
+        },
+        {
+            "chapter": 47,
+            "verse": 25,
+            "text": "inna alladhīna ir'taddū ʿalā adbārihim min baʿdi mā tabayyana lahumu l-hudā l-shayṭānu sawwala lahum wa-amlā lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 26,
+            "text": "dhālika bi-annahum qālū lilladhīna karihū mā nazzala l-lahu sanuṭīʿukum fī baʿḍi l-amri wal-lahu yaʿlamu is'rārahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 27,
+            "text": "fakayfa idhā tawaffathumu l-malāikatu yaḍribūna wujūhahum wa-adbārahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 28,
+            "text": "dhālika bi-annahumu ittabaʿū mā askhaṭa l-laha wakarihū riḍ'wānahu fa-aḥbaṭa aʿmālahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 29,
+            "text": "am ḥasiba alladhīna fī qulūbihim maraḍun an lan yukh'rija l-lahu aḍghānahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 30,
+            "text": "walaw nashāu la-araynākahum falaʿaraftahum bisīmāhum walataʿrifannahum fī laḥni l-qawli wal-lahu yaʿlamu aʿmālakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 31,
+            "text": "walanabluwannakum ḥattā naʿlama l-mujāhidīna minkum wal-ṣābirīna wanabluwā akhbārakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 32,
+            "text": "inna alladhīna kafarū waṣaddū ʿan sabīli l-lahi washāqqū l-rasūla min baʿdi mā tabayyana lahumu l-hudā lan yaḍurrū l-laha shayan wasayuḥ'biṭu aʿmālahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 33,
+            "text": "yāayyuhā alladhīna āmanū aṭīʿū l-laha wa-aṭīʿū l-rasūla walā tub'ṭilū aʿmālakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 34,
+            "text": "inna alladhīna kafarū waṣaddū ʿan sabīli l-lahi thumma mātū wahum kuffārun falan yaghfira l-lahu lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 35,
+            "text": "falā tahinū watadʿū ilā l-salmi wa-antumu l-aʿlawna wal-lahu maʿakum walan yatirakum aʿmālakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 36,
+            "text": "innamā l-ḥayatu l-dun'yā laʿibun walahwun wa-in tu'minū watattaqū yu'tikum ujūrakum walā yasalkum amwālakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 37,
+            "text": "in yasalkumūhā fayuḥ'fikum tabkhalū wayukh'rij aḍghānakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 38,
+            "text": "hāantum hāulāi tud'ʿawna litunfiqū fī sabīli l-lahi faminkum man yabkhalu waman yabkhal fa-innamā yabkhalu ʿan nafsihi wal-lahu l-ghaniyu wa-antumu l-fuqarāu wa-in tatawallaw yastabdil qawman ghayrakum thumma lā yakūnū amthālakum"
+        },
+        {
+            "chapter": 48,
+            "verse": 1,
+            "text": "innā fataḥnā laka fatḥan mubīnan"
+        },
+        {
+            "chapter": 48,
+            "verse": 2,
+            "text": "liyaghfira laka l-lahu mā taqaddama min dhanbika wamā ta-akhara wayutimma niʿ'matahu ʿalayka wayahdiyaka ṣirāṭan mus'taqīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 3,
+            "text": "wayanṣuraka l-lahu naṣran ʿazīzan"
+        },
+        {
+            "chapter": 48,
+            "verse": 4,
+            "text": "huwa alladhī anzala l-sakīnata fī qulūbi l-mu'minīna liyazdādū īmānan maʿa īmānihim walillahi junūdu l-samāwāti wal-arḍi wakāna l-lahu ʿalīman ḥakīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 5,
+            "text": "liyud'khila l-mu'minīna wal-mu'mināti jannātin tajrī min taḥtihā l-anhāru khālidīna fīhā wayukaffira ʿanhum sayyiātihim wakāna dhālika ʿinda l-lahi fawzan ʿaẓīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 6,
+            "text": "wayuʿadhiba l-munāfiqīna wal-munāfiqāti wal-mush'rikīna wal-mush'rikāti l-ẓānīna bil-lahi ẓanna l-sawi ʿalayhim dāiratu l-sawi waghaḍiba l-lahu ʿalayhim walaʿanahum wa-aʿadda lahum jahannama wasāat maṣīran"
+        },
+        {
+            "chapter": 48,
+            "verse": 7,
+            "text": "walillahi junūdu l-samāwāti wal-arḍi wakāna l-lahu ʿazīzan ḥakīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 8,
+            "text": "innā arsalnāka shāhidan wamubashiran wanadhīran"
+        },
+        {
+            "chapter": 48,
+            "verse": 9,
+            "text": "litu'minū bil-lahi warasūlihi watuʿazzirūhu watuwaqqirūhu watusabbiḥūhu buk'ratan wa-aṣīlan"
+        },
+        {
+            "chapter": 48,
+            "verse": 10,
+            "text": "inna alladhīna yubāyiʿūnaka innamā yubāyiʿūna l-laha yadu l-lahi fawqa aydīhim faman nakatha fa-innamā yankuthu ʿalā nafsihi waman awfā bimā ʿāhada ʿalayhu l-laha fasayu'tīhi ajran ʿaẓīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 11,
+            "text": "sayaqūlu laka l-mukhalafūna mina l-aʿrābi shaghalatnā amwālunā wa-ahlūnā fa-is'taghfir lanā yaqūlūna bi-alsinatihim mā laysa fī qulūbihim qul faman yamliku lakum mina l-lahi shayan in arāda bikum ḍarran aw arāda bikum nafʿan bal kāna l-lahu bimā taʿmalūna khabīran"
+        },
+        {
+            "chapter": 48,
+            "verse": 12,
+            "text": "bal ẓanantum an lan yanqaliba l-rasūlu wal-mu'minūna ilā ahlīhim abadan wazuyyina dhālika fī qulūbikum waẓanantum ẓanna l-sawi wakuntum qawman būran"
+        },
+        {
+            "chapter": 48,
+            "verse": 13,
+            "text": "waman lam yu'min bil-lahi warasūlihi fa-innā aʿtadnā lil'kāfirīna saʿīran"
+        },
+        {
+            "chapter": 48,
+            "verse": 14,
+            "text": "walillahi mul'ku l-samāwāti wal-arḍi yaghfiru liman yashāu wayuʿadhibu man yashāu wakāna l-lahu ghafūran raḥīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 15,
+            "text": "sayaqūlu l-mukhalafūna idhā inṭalaqtum ilā maghānima litakhudhūhā dharūnā nattabiʿ'kum yurīdūna an yubaddilū kalāma l-lahi qul lan tattabiʿūnā kadhālikum qāla l-lahu min qablu fasayaqūlūna bal taḥsudūnanā bal kānū lā yafqahūna illā qalīlan"
+        },
+        {
+            "chapter": 48,
+            "verse": 16,
+            "text": "qul lil'mukhallafīna mina l-aʿrābi satud'ʿawna ilā qawmin ulī basin shadīdin tuqātilūnahum aw yus'limūna fa-in tuṭīʿū yu'tikumu l-lahu ajran ḥasanan wa-in tatawallaw kamā tawallaytum min qablu yuʿadhib'kum ʿadhāban alīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 17,
+            "text": "laysa ʿalā l-aʿmā ḥarajun walā ʿalā l-aʿraji ḥarajun walā ʿalā l-marīḍi ḥarajun waman yuṭiʿi l-laha warasūlahu yud'khil'hu jannātin tajrī min taḥtihā l-anhāru waman yatawalla yuʿadhib'hu ʿadhāban alīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 18,
+            "text": "laqad raḍiya l-lahu ʿani l-mu'minīna idh yubāyiʿūnaka taḥta l-shajarati faʿalima mā fī qulūbihim fa-anzala l-sakīnata ʿalayhim wa-athābahum fatḥan qarīban"
+        },
+        {
+            "chapter": 48,
+            "verse": 19,
+            "text": "wamaghānima kathīratan yakhudhūnahā wakāna l-lahu ʿazīzan ḥakīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 20,
+            "text": "waʿadakumu l-lahu maghānima kathīratan takhudhūnahā faʿajjala lakum hādhihi wakaffa aydiya l-nāsi ʿankum walitakūna āyatan lil'mu'minīna wayahdiyakum ṣirāṭan mus'taqīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 21,
+            "text": "wa-ukh'rā lam taqdirū ʿalayhā qad aḥāṭa l-lahu bihā wakāna l-lahu ʿalā kulli shayin qadīran"
+        },
+        {
+            "chapter": 48,
+            "verse": 22,
+            "text": "walaw qātalakumu alladhīna kafarū lawallawū l-adbāra thumma lā yajidūna waliyyan walā naṣīran"
+        },
+        {
+            "chapter": 48,
+            "verse": 23,
+            "text": "sunnata l-lahi allatī qad khalat min qablu walan tajida lisunnati l-lahi tabdīlan"
+        },
+        {
+            "chapter": 48,
+            "verse": 24,
+            "text": "wahuwa alladhī kaffa aydiyahum ʿankum wa-aydiyakum ʿanhum bibaṭni makkata min baʿdi an aẓfarakum ʿalayhim wakāna l-lahu bimā taʿmalūna baṣīran"
+        },
+        {
+            "chapter": 48,
+            "verse": 25,
+            "text": "humu alladhīna kafarū waṣaddūkum ʿani l-masjidi l-ḥarāmi wal-hadya maʿkūfan an yablugha maḥillahu walawlā rijālun mu'minūna wanisāon mu'minātun lam taʿlamūhum an taṭaūhum fatuṣībakum min'hum maʿarratun bighayri ʿil'min liyud'khila l-lahu fī raḥmatihi man yashāu law tazayyalū laʿadhabnā alladhīna kafarū min'hum ʿadhāban alīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 26,
+            "text": "idh jaʿala alladhīna kafarū fī qulūbihimu l-ḥamiyata ḥamiyyata l-jāhiliyati fa-anzala l-lahu sakīnatahu ʿalā rasūlihi waʿalā l-mu'minīna wa-alzamahum kalimata l-taqwā wakānū aḥaqqa bihā wa-ahlahā wakāna l-lahu bikulli shayin ʿalīman"
+        },
+        {
+            "chapter": 48,
+            "verse": 27,
+            "text": "laqad ṣadaqa l-lahu rasūlahu l-ru'yā bil-ḥaqi latadkhulunna l-masjida l-ḥarāma in shāa l-lahu āminīna muḥalliqīna ruūsakum wamuqaṣṣirīna lā takhāfūna faʿalima mā lam taʿlamū fajaʿala min dūni dhālika fatḥan qarīban"
+        },
+        {
+            "chapter": 48,
+            "verse": 28,
+            "text": "huwa alladhī arsala rasūlahu bil-hudā wadīni l-ḥaqi liyuẓ'hirahu ʿalā l-dīni kullihi wakafā bil-lahi shahīdan"
+        },
+        {
+            "chapter": 48,
+            "verse": 29,
+            "text": "muḥammadun rasūlu l-lahi wa-alladhīna maʿahu ashiddāu ʿalā l-kufāri ruḥamāu baynahum tarāhum rukkaʿan sujjadan yabtaghūna faḍlan mina l-lahi wariḍ'wānan sīmāhum fī wujūhihim min athari l-sujūdi dhālika mathaluhum fī l-tawrāti wamathaluhum fī l-injīli kazarʿin akhraja shaṭahu faāzarahu fa-is'taghlaẓa fa-is'tawā ʿalā sūqihi yuʿ'jibu l-zurāʿa liyaghīẓa bihimu l-kufāra waʿada l-lahu alladhīna āmanū waʿamilū l-ṣāliḥāti min'hum maghfiratan wa-ajran ʿaẓīman"
+        },
+        {
+            "chapter": 49,
+            "verse": 1,
+            "text": "yāayyuhā alladhīna āmanū lā tuqaddimū bayna yadayi l-lahi warasūlihi wa-ittaqū l-laha inna l-laha samīʿun ʿalīmun"
+        },
+        {
+            "chapter": 49,
+            "verse": 2,
+            "text": "yāayyuhā alladhīna āmanū lā tarfaʿū aṣwātakum fawqa ṣawti l-nabiyi walā tajharū lahu bil-qawli kajahri baʿḍikum libaʿḍin an taḥbaṭa aʿmālukum wa-antum lā tashʿurūna"
+        },
+        {
+            "chapter": 49,
+            "verse": 3,
+            "text": "inna alladhīna yaghuḍḍūna aṣwātahum ʿinda rasūli l-lahi ulāika alladhīna im'taḥana l-lahu qulūbahum lilttaqwā lahum maghfiratun wa-ajrun ʿaẓīmun"
+        },
+        {
+            "chapter": 49,
+            "verse": 4,
+            "text": "inna alladhīna yunādūnaka min warāi l-ḥujurāti aktharuhum lā yaʿqilūna"
+        },
+        {
+            "chapter": 49,
+            "verse": 5,
+            "text": "walaw annahum ṣabarū ḥattā takhruja ilayhim lakāna khayran lahum wal-lahu ghafūrun raḥīmun"
+        },
+        {
+            "chapter": 49,
+            "verse": 6,
+            "text": "yāayyuhā alladhīna āmanū in jāakum fāsiqun binaba-in fatabayyanū an tuṣībū qawman bijahālatin fatuṣ'biḥū ʿalā mā faʿaltum nādimīna"
+        },
+        {
+            "chapter": 49,
+            "verse": 7,
+            "text": "wa-iʿ'lamū anna fīkum rasūla l-lahi law yuṭīʿukum fī kathīrin mina l-amri laʿanittum walākinna l-laha ḥabbaba ilaykumu l-īmāna wazayyanahu fī qulūbikum wakarraha ilaykumu l-kuf'ra wal-fusūqa wal-ʿiṣ'yāna ulāika humu l-rāshidūna"
+        },
+        {
+            "chapter": 49,
+            "verse": 8,
+            "text": "faḍlan mina l-lahi waniʿ'matan wal-lahu ʿalīmun ḥakīmun"
+        },
+        {
+            "chapter": 49,
+            "verse": 9,
+            "text": "wa-in ṭāifatāni mina l-mu'minīna iq'tatalū fa-aṣliḥū baynahumā fa-in baghat iḥ'dāhumā ʿalā l-ukh'rā faqātilū allatī tabghī ḥattā tafīa ilā amri l-lahi fa-in fāat fa-aṣliḥū baynahumā bil-ʿadli wa-aqsiṭū inna l-laha yuḥibbu l-muq'siṭīna"
+        },
+        {
+            "chapter": 49,
+            "verse": 10,
+            "text": "innamā l-mu'minūna ikh'watun fa-aṣliḥū bayna akhawaykum wa-ittaqū l-laha laʿallakum tur'ḥamūna"
+        },
+        {
+            "chapter": 49,
+            "verse": 11,
+            "text": "yāayyuhā alladhīna āmanū lā yaskhar qawmun min qawmin ʿasā an yakūnū khayran min'hum walā nisāon min nisāin ʿasā an yakunna khayran min'hunna walā talmizū anfusakum walā tanābazū bil-alqābi bi'sa l-s'mu l-fusūqu baʿda l-īmāni waman lam yatub fa-ulāika humu l-ẓālimūna"
+        },
+        {
+            "chapter": 49,
+            "verse": 12,
+            "text": "yāayyuhā alladhīna āmanū ij'tanibū kathīran mina l-ẓani inna baʿḍa l-ẓani ith'mun walā tajassasū walā yaghtab baʿḍukum baʿḍan ayuḥibbu aḥadukum an yakula laḥma akhīhi maytan fakarih'tumūhu wa-ittaqū l-laha inna l-laha tawwābun raḥīmun"
+        },
+        {
+            "chapter": 49,
+            "verse": 13,
+            "text": "yāayyuhā l-nāsu innā khalaqnākum min dhakarin wa-unthā wajaʿalnākum shuʿūban waqabāila litaʿārafū inna akramakum ʿinda l-lahi atqākum inna l-laha ʿalīmun khabīrun"
+        },
+        {
+            "chapter": 49,
+            "verse": 14,
+            "text": "qālati l-aʿrābu āmannā qul lam tu'minū walākin qūlū aslamnā walammā yadkhuli l-īmānu fī qulūbikum wa-in tuṭīʿū l-laha warasūlahu lā yalit'kum min aʿmālikum shayan inna l-laha ghafūrun raḥīmun"
+        },
+        {
+            "chapter": 49,
+            "verse": 15,
+            "text": "innamā l-mu'minūna alladhīna āmanū bil-lahi warasūlihi thumma lam yartābū wajāhadū bi-amwālihim wa-anfusihim fī sabīli l-lahi ulāika humu l-ṣādiqūna"
+        },
+        {
+            "chapter": 49,
+            "verse": 16,
+            "text": "qul atuʿallimūna l-laha bidīnikum wal-lahu yaʿlamu mā fī l-samāwāti wamā fī l-arḍi wal-lahu bikulli shayin ʿalīmun"
+        },
+        {
+            "chapter": 49,
+            "verse": 17,
+            "text": "yamunnūna ʿalayka an aslamū qul lā tamunnū ʿalayya is'lāmakum bali l-lahu yamunnu ʿalaykum an hadākum lil'īmāni in kuntum ṣādiqīna"
+        },
+        {
+            "chapter": 49,
+            "verse": 18,
+            "text": "inna l-laha yaʿlamu ghayba l-samāwāti wal-arḍi wal-lahu baṣīrun bimā taʿmalūna"
+        }
+    ]
+}

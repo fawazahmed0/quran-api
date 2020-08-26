@@ -1,0 +1,829 @@
+{
+    "chapter": [
+        {
+            "chapter": 6,
+            "verse": 1,
+            "text": "al-hamdu lillahi alladhi khalaqa l-samawati wal-arda wajaʿala l-zulumati wal-nura thumma alladhina kafaru birabbihim yaʿdiluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 2,
+            "text": "huwa alladhi khalaqakum min tinin thumma qada ajalan wa-ajalun musamman ʿindahu thumma antum tamtaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 3,
+            "text": "wahuwa l-lahu fi l-samawati wafi l-ardi yaʿlamu sirrakum wajahrakum wayaʿlamu ma taksibuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 4,
+            "text": "wama tatihim min ayatin min ayati rabbihim illa kanu ʿanha muʿ'ridina"
+        },
+        {
+            "chapter": 6,
+            "verse": 5,
+            "text": "faqad kadhabu bil-haqi lamma jaahum fasawfa yatihim anbau ma kanu bihi yastahziuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 6,
+            "text": "alam yaraw kam ahlakna min qablihim min qarnin makkannahum fi l-ardi ma lam numakkin lakum wa-arsalna l-samaa ʿalayhim mid'raran wajaʿalna l-anhara tajri min tahtihim fa-ahlaknahum bidhunubihim wa-anshana min baʿdihim qarnan akharina"
+        },
+        {
+            "chapter": 6,
+            "verse": 7,
+            "text": "walaw nazzalna ʿalayka kitaban fi qir'tasin falamasuhu bi-aydihim laqala alladhina kafaru in hadha illa sih'run mubinun"
+        },
+        {
+            "chapter": 6,
+            "verse": 8,
+            "text": "waqalu lawla unzila ʿalayhi malakun walaw anzalna malakan laqudiya l-amru thumma la yunzaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 9,
+            "text": "walaw jaʿalnahu malakan lajaʿalnahu rajulan walalabasna ʿalayhim ma yalbisuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 10,
+            "text": "walaqadi us'tuh'zi-a birusulin min qablika fahaqa bi-alladhina sakhiru min'hum ma kanu bihi yastahziuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 11,
+            "text": "qul siru fi l-ardi thumma unzuru kayfa kana ʿaqibatu l-mukadhibina"
+        },
+        {
+            "chapter": 6,
+            "verse": 12,
+            "text": "qul liman ma fi l-samawati wal-ardi qul lillahi kataba ʿala nafsihi l-rahmata layajmaʿannakum ila yawmi l-qiyamati la rayba fihi alladhina khasiru anfusahum fahum la yu'minuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 13,
+            "text": "walahu ma sakana fi al-layli wal-nahari wahuwa l-samiʿu l-ʿalimu"
+        },
+        {
+            "chapter": 6,
+            "verse": 14,
+            "text": "qul aghayra l-lahi attakhidhu waliyyan fatiri l-samawati wal-ardi wahuwa yut'ʿimu wala yut'ʿamu qul inni umir'tu an akuna awwala man aslama wala takunanna mina l-mush'rikina"
+        },
+        {
+            "chapter": 6,
+            "verse": 15,
+            "text": "qul inni akhafu in ʿasaytu rabbi ʿadhaba yawmin ʿazimin"
+        },
+        {
+            "chapter": 6,
+            "verse": 16,
+            "text": "man yus'raf ʿanhu yawma-idhin faqad rahimahu wadhalika l-fawzu l-mubinu"
+        },
+        {
+            "chapter": 6,
+            "verse": 17,
+            "text": "wa-in yamsaska l-lahu bidurrin fala kashifa lahu illa huwa wa-in yamsaska bikhayrin fahuwa ʿala kulli shayin qadirun"
+        },
+        {
+            "chapter": 6,
+            "verse": 18,
+            "text": "wahuwa l-qahiru fawqa ʿibadihi wahuwa l-hakimu l-khabiru"
+        },
+        {
+            "chapter": 6,
+            "verse": 19,
+            "text": "qul ayyu shayin akbaru shahadatan quli l-lahu shahidun bayni wabaynakum wauhiya ilayya hadha l-qur'anu li-undhirakum bihi waman balagha a-innakum latashhaduna anna maʿa l-lahi alihatan ukh'ra qul la ashhadu qul innama huwa ilahun wahidun wa-innani barion mimma tush'rikuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 20,
+            "text": "alladhina ataynahumu l-kitaba yaʿrifunahu kama yaʿrifuna abnaahumu alladhina khasiru anfusahum fahum la yu'minuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 21,
+            "text": "waman azlamu mimmani if'tara ʿala l-lahi kadhiban aw kadhaba biayatihi innahu la yuf'lihu l-zalimuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 22,
+            "text": "wayawma nahshuruhum jamiʿan thumma naqulu lilladhina ashraku ayna shurakaukumu alladhina kuntum tazʿumuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 23,
+            "text": "thumma lam takun fit'natuhum illa an qalu wal-lahi rabbina ma kunna mush'rikina"
+        },
+        {
+            "chapter": 6,
+            "verse": 24,
+            "text": "unzur kayfa kadhabu ʿala anfusihim wadalla ʿanhum ma kanu yaftaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 25,
+            "text": "wamin'hum man yastamiʿu ilayka wajaʿalna ʿala qulubihim akinnatan an yafqahuhu wafi adhanihim waqran wa-in yaraw kulla ayatin la yu'minu biha hatta idha jauka yujadilunaka yaqulu alladhina kafaru in hadha illa asatiru l-awalina"
+        },
+        {
+            "chapter": 6,
+            "verse": 26,
+            "text": "wahum yanhawna ʿanhu wayanawna ʿanhu wa-in yuh'likuna illa anfusahum wama yashʿuruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 27,
+            "text": "walaw tara idh wuqifu ʿala l-nari faqalu yalaytana nuraddu wala nukadhiba biayati rabbina wanakuna mina l-mu'minina"
+        },
+        {
+            "chapter": 6,
+            "verse": 28,
+            "text": "bal bada lahum ma kanu yukh'funa min qablu walaw ruddu laʿadu lima nuhu ʿanhu wa-innahum lakadhibuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 29,
+            "text": "waqalu in hiya illa hayatuna l-dun'ya wama nahnu bimabʿuthina"
+        },
+        {
+            "chapter": 6,
+            "verse": 30,
+            "text": "walaw tara idh wuqifu ʿala rabbihim qala alaysa hadha bil-haqi qalu bala warabbina qala fadhuqu l-ʿadhaba bima kuntum takfuruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 31,
+            "text": "qad khasira alladhina kadhabu biliqai l-lahi hatta idha jaathumu l-saʿatu baghtatan qalu yahasratana ʿala ma farratna fiha wahum yahmiluna awzarahum ʿala zuhurihim ala saa ma yaziruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 32,
+            "text": "wama l-hayatu l-dun'ya illa laʿibun walahwun walalddaru l-akhiratu khayrun lilladhina yattaquna afala taʿqiluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 33,
+            "text": "qad naʿlamu innahu layahzunuka alladhi yaquluna fa-innahum la yukadhibunaka walakinna l-zalimina biayati l-lahi yajhaduna"
+        },
+        {
+            "chapter": 6,
+            "verse": 34,
+            "text": "walaqad kudhibat rusulun min qablika fasabaru ʿala ma kudhibu waudhu hatta atahum nasruna wala mubaddila likalimati l-lahi walaqad jaaka min naba-i l-mur'salina"
+        },
+        {
+            "chapter": 6,
+            "verse": 35,
+            "text": "wa-in kana kabura ʿalayka iʿ'raduhum fa-ini is'tataʿta an tabtaghiya nafaqan fi l-ardi aw sullaman fi l-samai fatatiyahum biayatin walaw shaa l-lahu lajamaʿahum ʿala l-huda fala takunanna mina l-jahilina"
+        },
+        {
+            "chapter": 6,
+            "verse": 36,
+            "text": "innama yastajibu alladhina yasmaʿuna wal-mawta yabʿathuhumu l-lahu thumma ilayhi yur'jaʿuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 37,
+            "text": "waqalu lawla nuzzila ʿalayhi ayatun min rabbihi qul inna l-laha qadirun ʿala an yunazzila ayatan walakinna aktharahum la yaʿlamuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 38,
+            "text": "wama min dabbatin fi l-ardi wala tairin yatiru bijanahayhi illa umamun amthalukum ma farratna fi l-kitabi min shayin thumma ila rabbihim yuh'sharuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 39,
+            "text": "wa-alladhina kadhabu biayatina summun wabuk'mun fi l-zulumati man yasha-i l-lahu yud'lil'hu waman yasha yajʿalhu ʿala siratin mus'taqimin"
+        },
+        {
+            "chapter": 6,
+            "verse": 40,
+            "text": "qul ara-aytakum in atakum ʿadhabu l-lahi aw atatkumu l-saʿatu aghayra l-lahi tadʿuna in kuntum sadiqina"
+        },
+        {
+            "chapter": 6,
+            "verse": 41,
+            "text": "bal iyyahu tadʿuna fayakshifu ma tadʿuna ilayhi in shaa watansawna ma tush'rikuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 42,
+            "text": "walaqad arsalna ila umamin min qablika fa-akhadhnahum bil-basai wal-darai laʿallahum yatadarraʿuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 43,
+            "text": "falawla idh jaahum basuna tadarraʿu walakin qasat qulubuhum wazayyana lahumu l-shaytanu ma kanu yaʿmaluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 44,
+            "text": "falamma nasu ma dhukkiru bihi fatahna ʿalayhim abwaba kulli shayin hatta idha farihu bima utu akhadhnahum baghtatan fa-idha hum mub'lisuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 45,
+            "text": "faqutiʿa dabiru l-qawmi alladhina zalamu wal-hamdu lillahi rabbi l-ʿalamina"
+        },
+        {
+            "chapter": 6,
+            "verse": 46,
+            "text": "qul ara-aytum in akhadha l-lahu samʿakum wa-absarakum wakhatama ʿala qulubikum man ilahun ghayru l-lahi yatikum bihi unzur kayfa nusarrifu l-ayati thumma hum yasdifuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 47,
+            "text": "qul ara-aytakum in atakum ʿadhabu l-lahi baghtatan aw jahratan hal yuh'laku illa l-qawmu l-zalimuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 48,
+            "text": "wama nur'silu l-mur'salina illa mubashirina wamundhirina faman amana wa-aslaha fala khawfun ʿalayhim wala hum yahzanuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 49,
+            "text": "wa-alladhina kadhabu biayatina yamassuhumu l-ʿadhabu bima kanu yafsuquna"
+        },
+        {
+            "chapter": 6,
+            "verse": 50,
+            "text": "qul la aqulu lakum ʿindi khazainu l-lahi wala aʿlamu l-ghayba wala aqulu lakum inni malakun in attabiʿu illa ma yuha ilayya qul hal yastawi l-aʿma wal-basiru afala tatafakkaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 51,
+            "text": "wa-andhir bihi alladhina yakhafuna an yuh'sharu ila rabbihim laysa lahum min dunihi waliyyun wala shafiʿun laʿallahum yattaquna"
+        },
+        {
+            "chapter": 6,
+            "verse": 52,
+            "text": "wala tatrudi alladhina yadʿuna rabbahum bil-ghadati wal-ʿashiyi yuriduna wajhahu ma ʿalayka min hisabihim min shayin wama min hisabika ʿalayhim min shayin fatatrudahum fatakuna mina l-zalimina"
+        },
+        {
+            "chapter": 6,
+            "verse": 53,
+            "text": "wakadhalika fatanna baʿdahum bibaʿdin liyaqulu ahaulai manna l-lahu ʿalayhim min baynina alaysa l-lahu bi-aʿlama bil-shakirina"
+        },
+        {
+            "chapter": 6,
+            "verse": 54,
+            "text": "wa-idha jaaka alladhina yu'minuna biayatina faqul salamun ʿalaykum kataba rabbukum ʿala nafsihi l-rahmata annahu man ʿamila minkum suan bijahalatin thumma taba min baʿdihi wa-aslaha fa-annahu ghafurun rahimun"
+        },
+        {
+            "chapter": 6,
+            "verse": 55,
+            "text": "wakadhalika nufassilu l-ayati walitastabina sabilu l-muj'rimina"
+        },
+        {
+            "chapter": 6,
+            "verse": 56,
+            "text": "qul inni nuhitu an aʿbuda alladhina tadʿuna min duni l-lahi qul la attabiʿu ahwaakum qad dalaltu idhan wama ana mina l-muh'tadina"
+        },
+        {
+            "chapter": 6,
+            "verse": 57,
+            "text": "qul inni ʿala bayyinatin min rabbi wakadhabtum bihi ma ʿindi ma tastaʿjiluna bihi ini l-huk'mu illa lillahi yaqussu l-haqa wahuwa khayru l-fasilina"
+        },
+        {
+            "chapter": 6,
+            "verse": 58,
+            "text": "qul law anna ʿindi ma tastaʿjiluna bihi laqudiya l-amru bayni wabaynakum wal-lahu aʿlamu bil-zalimina"
+        },
+        {
+            "chapter": 6,
+            "verse": 59,
+            "text": "waʿindahu mafatihu l-ghaybi la yaʿlamuha illa huwa wayaʿlamu ma fi l-bari wal-bahri wama tasqutu min waraqatin illa yaʿlamuha wala habbatin fi zulumati l-ardi wala ratbin wala yabisin illa fi kitabin mubinin"
+        },
+        {
+            "chapter": 6,
+            "verse": 60,
+            "text": "wahuwa alladhi yatawaffakum bi-al-layli wayaʿlamu ma jarahtum bil-nahari thumma yabʿathukum fihi liyuq'da ajalun musamman thumma ilayhi marjiʿukum thumma yunabbi-ukum bima kuntum taʿmaluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 61,
+            "text": "wahuwa l-qahiru fawqa ʿibadihi wayur'silu ʿalaykum hafazatan hatta idha jaa ahadakumu l-mawtu tawaffathu rusuluna wahum la yufarrituna"
+        },
+        {
+            "chapter": 6,
+            "verse": 62,
+            "text": "thumma ruddu ila l-lahi mawlahumu l-haqi ala lahu l-huk'mu wahuwa asraʿu l-hasibina"
+        },
+        {
+            "chapter": 6,
+            "verse": 63,
+            "text": "qul man yunajjikum min zulumati l-bari wal-bahri tadʿunahu tadarruʿan wakhuf'yatan la-in anjana min hadhihi lanakunanna mina l-shakirina"
+        },
+        {
+            "chapter": 6,
+            "verse": 64,
+            "text": "quli l-lahu yunajjikum min'ha wamin kulli karbin thumma antum tush'rikuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 65,
+            "text": "qul huwa l-qadiru ʿala an yabʿatha ʿalaykum ʿadhaban min fawqikum aw min tahti arjulikum aw yalbisakum shiyaʿan wayudhiqa baʿdakum basa baʿdin unzur kayfa nusarrifu l-ayati laʿallahum yafqahuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 66,
+            "text": "wakadhaba bihi qawmuka wahuwa l-haqu qul lastu ʿalaykum biwakilin"
+        },
+        {
+            "chapter": 6,
+            "verse": 67,
+            "text": "likulli naba-in mus'taqarrun wasawfa taʿlamuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 68,
+            "text": "wa-idha ra-ayta alladhina yakhuduna fi ayatina fa-aʿrid ʿanhum hatta yakhudu fi hadithin ghayrihi wa-imma yunsiyannaka l-shaytanu fala taqʿud baʿda l-dhik'ra maʿa l-qawmi l-zalimina"
+        },
+        {
+            "chapter": 6,
+            "verse": 69,
+            "text": "wama ʿala alladhina yattaquna min hisabihim min shayin walakin dhik'ra laʿallahum yattaquna"
+        },
+        {
+            "chapter": 6,
+            "verse": 70,
+            "text": "wadhari alladhina ittakhadhu dinahum laʿiban walahwan wagharrathumu l-hayatu l-dun'ya wadhakkir bihi an tub'sala nafsun bima kasabat laysa laha min duni l-lahi waliyyun wala shafiʿun wa-in taʿdil kulla ʿadlin la yu'khadh min'ha ulaika alladhina ub'silu bima kasabu lahum sharabun min hamimin waʿadhabun alimun bima kanu yakfuruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 71,
+            "text": "qul anadʿu min duni l-lahi ma la yanfaʿuna wala yadurruna wanuraddu ʿala aʿqabina baʿda idh hadana l-lahu ka-alladhi is'tahwathu l-shayatinu fi l-ardi hayrana lahu ashabun yadʿunahu ila l-huda i'tina qul inna huda l-lahi huwa l-huda wa-umir'na linus'lima lirabbi l-ʿalamina"
+        },
+        {
+            "chapter": 6,
+            "verse": 72,
+            "text": "wa-an aqimu l-salata wa-ittaquhu wahuwa alladhi ilayhi tuh'sharuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 73,
+            "text": "wahuwa alladhi khalaqa l-samawati wal-arda bil-haqi wayawma yaqulu kun fayakunu qawluhu l-haqu walahu l-mul'ku yawma yunfakhu fi l-suri ʿalimu l-ghaybi wal-shahadati wahuwa l-hakimu l-khabiru"
+        },
+        {
+            "chapter": 6,
+            "verse": 74,
+            "text": "wa-idh qala ib'rahimu li-abihi azara atattakhidhu asnaman alihatan inni araka waqawmaka fi dalalin mubinin"
+        },
+        {
+            "chapter": 6,
+            "verse": 75,
+            "text": "wakadhalika nuri ib'rahima malakuta l-samawati wal-ardi waliyakuna mina l-muqinina"
+        },
+        {
+            "chapter": 6,
+            "verse": 76,
+            "text": "falamma janna ʿalayhi al-laylu raa kawkaban qala hadha rabbi falamma afala qala la uhibbu l-afilina"
+        },
+        {
+            "chapter": 6,
+            "verse": 77,
+            "text": "falamma raa l-qamara bazighan qala hadha rabbi falamma afala qala la-in lam yahdini rabbi la-akunanna mina l-qawmi l-dalina"
+        },
+        {
+            "chapter": 6,
+            "verse": 78,
+            "text": "falamma raa l-shamsa bazighatan qala hadha rabbi hadha akbaru falamma afalat qala yaqawmi inni barion mimma tush'rikuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 79,
+            "text": "inni wajjahtu wajhiya lilladhi fatara l-samawati wal-arda hanifan wama ana mina l-mush'rikina"
+        },
+        {
+            "chapter": 6,
+            "verse": 80,
+            "text": "wahajjahu qawmuhu qala atuhajjunni fi l-lahi waqad hadani wala akhafu ma tush'rikuna bihi illa an yashaa rabbi shayan wasiʿa rabbi kulla shayin ʿil'man afala tatadhakkaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 81,
+            "text": "wakayfa akhafu ma ashraktum wala takhafuna annakum ashraktum bil-lahi ma lam yunazzil bihi ʿalaykum sul'tanan fa-ayyu l-fariqayni ahaqqu bil-amni in kuntum taʿlamuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 82,
+            "text": "alladhina amanu walam yalbisu imanahum bizul'min ulaika lahumu l-amnu wahum muh'taduna"
+        },
+        {
+            "chapter": 6,
+            "verse": 83,
+            "text": "watil'ka hujjatuna ataynaha ib'rahima ʿala qawmihi narfaʿu darajatin man nashau inna rabbaka hakimun ʿalimun"
+        },
+        {
+            "chapter": 6,
+            "verse": 84,
+            "text": "wawahabna lahu is'haqa wayaʿquba kullan hadayna wanuhan hadayna min qablu wamin dhurriyyatihi dawuda wasulaymana wa-ayyuba wayusufa wamusa waharuna wakadhalika najzi l-muh'sinina"
+        },
+        {
+            "chapter": 6,
+            "verse": 85,
+            "text": "wazakariyya wayahya waʿisa wa-il'yasa kullun mina l-salihina"
+        },
+        {
+            "chapter": 6,
+            "verse": 86,
+            "text": "wa-is'maʿila wal-yasaʿa wayunusa walutan wakullan faddalna ʿala l-ʿalamina"
+        },
+        {
+            "chapter": 6,
+            "verse": 87,
+            "text": "wamin abaihim wadhurriyyatihim wa-ikh'wanihim wa-ij'tabaynahum wahadaynahum ila siratin mus'taqimin"
+        },
+        {
+            "chapter": 6,
+            "verse": 88,
+            "text": "dhalika huda l-lahi yahdi bihi man yashau min ʿibadihi walaw ashraku lahabita ʿanhum ma kanu yaʿmaluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 89,
+            "text": "ulaika alladhina ataynahumu l-kitaba wal-huk'ma wal-nubuwata fa-in yakfur biha haulai faqad wakkalna biha qawman laysu biha bikafirina"
+        },
+        {
+            "chapter": 6,
+            "verse": 90,
+            "text": "ulaika alladhina hada l-lahu fabihudahumu iq'tadih qul la asalukum ʿalayhi ajran in huwa illa dhik'ra lil'ʿalamina"
+        },
+        {
+            "chapter": 6,
+            "verse": 91,
+            "text": "wama qadaru l-laha haqqa qadrihi idh qalu ma anzala l-lahu ʿala basharin min shayin qul man anzala l-kitaba alladhi jaa bihi musa nuran wahudan lilnnasi tajʿalunahu qaratisa tub'dunaha watukh'funa kathiran waʿullim'tum ma lam taʿlamu antum wala abaukum quli l-lahu thumma dharhum fi khawdihim yalʿabuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 92,
+            "text": "wahadha kitabun anzalnahu mubarakun musaddiqu alladhi bayna yadayhi walitundhira umma l-qura waman hawlaha wa-alladhina yu'minuna bil-akhirati yu'minuna bihi wahum ʿala salatihim yuhafizuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 93,
+            "text": "waman azlamu mimmani if'tara ʿala l-lahi kadhiban aw qala uhiya ilayya walam yuha ilayhi shayon waman qala sa-unzilu mith'la ma anzala l-lahu walaw tara idhi l-zalimuna fi ghamarati l-mawti wal-malaikatu basitu aydihim akhriju anfusakumu l-yawma tuj'zawna ʿadhaba l-huni bima kuntum taquluna ʿala l-lahi ghayra l-haqi wakuntum ʿan ayatihi tastakbiruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 94,
+            "text": "walaqad ji'tumuna furada kama khalaqnakum awwala marratin wataraktum ma khawwalnakum waraa zuhurikum wama nara maʿakum shufaʿaakumu alladhina zaʿamtum annahum fikum shurakau laqad taqattaʿa baynakum wadalla ʿankum ma kuntum tazʿumuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 95,
+            "text": "inna l-laha faliqu l-habi wal-nawa yukh'riju l-haya mina l-mayiti wamukh'riju l-mayiti mina l-hayi dhalikumu l-lahu fa-anna tu'fakuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 96,
+            "text": "faliqu l-is'bahi wajaʿala al-layla sakanan wal-shamsa wal-qamara hus'banan dhalika taqdiru l-ʿazizi l-ʿalimi"
+        },
+        {
+            "chapter": 6,
+            "verse": 97,
+            "text": "wahuwa alladhi jaʿala lakumu l-nujuma litahtadu biha fi zulumati l-bari wal-bahri qad fassalna l-ayati liqawmin yaʿlamuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 98,
+            "text": "wahuwa alladhi ansha-akum min nafsin wahidatin famus'taqarrun wamus'tawdaʿun qad fassalna l-ayati liqawmin yafqahuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 99,
+            "text": "wahuwa alladhi anzala mina l-samai maan fa-akhrajna bihi nabata kulli shayin fa-akhrajna min'hu khadiran nukh'riju min'hu habban mutarakiban wamina l-nakhli min talʿiha qin'wanun daniyatun wajannatin min aʿnabin wal-zaytuna wal-rumana mush'tabihan waghayra mutashabihin unzuru ila thamarihi idha athmara wayanʿihi inna fi dhalikum laayatin liqawmin yu'minuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 100,
+            "text": "wajaʿalu lillahi shurakaa l-jina wakhalaqahum wakharaqu lahu banina wabanatin bighayri ʿil'min sub'hanahu wataʿala ʿamma yasifuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 101,
+            "text": "badiʿu l-samawati wal-ardi anna yakunu lahu waladun walam takun lahu sahibatun wakhalaqa kulla shayin wahuwa bikulli shayin ʿalimun"
+        },
+        {
+            "chapter": 6,
+            "verse": 102,
+            "text": "dhalikumu l-lahu rabbukum la ilaha illa huwa khaliqu kulli shayin fa-uʿ'buduhu wahuwa ʿala kulli shayin wakilun"
+        },
+        {
+            "chapter": 6,
+            "verse": 103,
+            "text": "la tud'rikuhu l-absaru wahuwa yud'riku l-absara wahuwa l-latifu l-khabiru"
+        },
+        {
+            "chapter": 6,
+            "verse": 104,
+            "text": "qad jaakum basairu min rabbikum faman absara falinafsihi waman ʿamiya faʿalayha wama ana ʿalaykum bihafizin"
+        },
+        {
+            "chapter": 6,
+            "verse": 105,
+            "text": "wakadhalika nusarrifu l-ayati waliyaqulu darasta walinubayyinahu liqawmin yaʿlamuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 106,
+            "text": "ittabiʿ ma uhiya ilayka min rabbika la ilaha illa huwa wa-aʿrid ʿani l-mush'rikina"
+        },
+        {
+            "chapter": 6,
+            "verse": 107,
+            "text": "walaw shaa l-lahu ma ashraku wama jaʿalnaka ʿalayhim hafizan wama anta ʿalayhim biwakilin"
+        },
+        {
+            "chapter": 6,
+            "verse": 108,
+            "text": "wala tasubbu alladhina yadʿuna min duni l-lahi fayasubbu l-laha ʿadwan bighayri ʿil'min kadhalika zayyanna likulli ummatin ʿamalahum thumma ila rabbihim marjiʿuhum fayunabbi-uhum bima kanu yaʿmaluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 109,
+            "text": "wa-aqsamu bil-lahi jahda aymanihim la-in jaathum ayatun layu'minunna biha qul innama l-ayatu ʿinda l-lahi wama yush'ʿirukum annaha idha jaat la yu'minuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 110,
+            "text": "wanuqallibu afidatahum wa-absarahum kama lam yu'minu bihi awwala marratin wanadharuhum fi tugh'yanihim yaʿmahuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 111,
+            "text": "walaw annana nazzalna ilayhimu l-malaikata wakallamahumu l-mawta wahasharna ʿalayhim kulla shayin qubulan ma kanu liyu'minu illa an yashaa l-lahu walakinna aktharahum yajhaluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 112,
+            "text": "wakadhalika jaʿalna likulli nabiyyin ʿaduwwan shayatina l-insi wal-jini yuhi baʿduhum ila baʿdin zukh'rufa l-qawli ghururan walaw shaa rabbuka ma faʿaluhu fadharhum wama yaftaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 113,
+            "text": "walitasgha ilayhi afidatu alladhina la yu'minuna bil-akhirati waliyardawhu waliyaqtarifu ma hum muq'tarifuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 114,
+            "text": "afaghayra l-lahi abtaghi hakaman wahuwa alladhi anzala ilaykumu l-kitaba mufassalan wa-alladhina ataynahumu l-kitaba yaʿlamuna annahu munazzalun min rabbika bil-haqi fala takunanna mina l-mum'tarina"
+        },
+        {
+            "chapter": 6,
+            "verse": 115,
+            "text": "watammat kalimatu rabbika sid'qan waʿadlan la mubaddila likalimatihi wahuwa l-samiʿu l-ʿalimu"
+        },
+        {
+            "chapter": 6,
+            "verse": 116,
+            "text": "wa-in tutiʿ akthara man fi l-ardi yudilluka ʿan sabili l-lahi in yattabiʿuna illa l-zana wa-in hum illa yakhrusuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 117,
+            "text": "inna rabbaka huwa aʿlamu man yadillu ʿan sabilihi wahuwa aʿlamu bil-muh'tadina"
+        },
+        {
+            "chapter": 6,
+            "verse": 118,
+            "text": "fakulu mimma dhukira us'mu l-lahi ʿalayhi in kuntum biayatihi mu'minina"
+        },
+        {
+            "chapter": 6,
+            "verse": 119,
+            "text": "wama lakum alla takulu mimma dhukira us'mu l-lahi ʿalayhi waqad fassala lakum ma harrama ʿalaykum illa ma ud'turir'tum ilayhi wa-inna kathiran layudilluna bi-ahwaihim bighayri ʿil'min inna rabbaka huwa aʿlamu bil-muʿ'tadina"
+        },
+        {
+            "chapter": 6,
+            "verse": 120,
+            "text": "wadharu zahira l-ith'mi wabatinahu inna alladhina yaksibuna l-ith'ma sayuj'zawna bima kanu yaqtarifuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 121,
+            "text": "wala takulu mimma lam yudh'kari us'mu l-lahi ʿalayhi wa-innahu lafis'qun wa-inna l-shayatina layuhuna ila awliyaihim liyujadilukum wa-in ataʿtumuhum innakum lamush'rikuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 122,
+            "text": "awaman kana maytan fa-ahyaynahu wajaʿalna lahu nuran yamshi bihi fi l-nasi kaman mathaluhu fi l-zulumati laysa bikharijin min'ha kadhalika zuyyina lil'kafirina ma kanu yaʿmaluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 123,
+            "text": "wakadhalika jaʿalna fi kulli qaryatin akabira muj'rimiha liyamkuru fiha wama yamkuruna illa bi-anfusihim wama yashʿuruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 124,
+            "text": "wa-idha jaathum ayatun qalu lan nu'mina hatta nu'ta mith'la ma utiya rusulu l-lahi l-lahu aʿlamu haythu yajʿalu risalatahu sayusibu alladhina ajramu sagharun ʿinda l-lahi waʿadhabun shadidun bima kanu yamkuruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 125,
+            "text": "faman yuridi l-lahu an yahdiyahu yashrah sadrahu lil'is'lami waman yurid an yudillahu yajʿal sadrahu dayyiqan harajan ka-annama yassaʿʿadu fi l-samai kadhalika yajʿalu l-lahu l-rij'sa ʿala alladhina la yu'minuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 126,
+            "text": "wahadha siratu rabbika mus'taqiman qad fassalna l-ayati liqawmin yadhakkaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 127,
+            "text": "lahum daru l-salami ʿinda rabbihim wahuwa waliyyuhum bima kanu yaʿmaluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 128,
+            "text": "wayawma yahshuruhum jamiʿan yamaʿshara l-jini qadi is'takthartum mina l-insi waqala awliyauhum mina l-insi rabbana is'tamtaʿa baʿduna bibaʿdin wabalaghna ajalana alladhi ajjalta lana qala l-naru mathwakum khalidina fiha illa ma shaa l-lahu inna rabbaka hakimun ʿalimun"
+        },
+        {
+            "chapter": 6,
+            "verse": 129,
+            "text": "wakadhalika nuwalli baʿda l-zalimina baʿdan bima kanu yaksibuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 130,
+            "text": "yamaʿshara l-jini wal-insi alam yatikum rusulun minkum yaqussuna ʿalaykum ayati wayundhirunakum liqaa yawmikum hadha qalu shahid'na ʿala anfusina wagharrathumu l-hayatu l-dun'ya washahidu ʿala anfusihim annahum kanu kafirina"
+        },
+        {
+            "chapter": 6,
+            "verse": 131,
+            "text": "dhalika an lam yakun rabbuka muh'lika l-qura bizul'min wa-ahluha ghafiluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 132,
+            "text": "walikullin darajatun mimma ʿamilu wama rabbuka bighafilin ʿamma yaʿmaluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 133,
+            "text": "warabbuka l-ghaniyu dhu l-rahmati in yasha yudh'hib'kum wayastakhlif min baʿdikum ma yashau kama ansha-akum min dhurriyyati qawmin akharina"
+        },
+        {
+            "chapter": 6,
+            "verse": 134,
+            "text": "inna ma tuʿaduna laatin wama antum bimuʿ'jizina"
+        },
+        {
+            "chapter": 6,
+            "verse": 135,
+            "text": "qul yaqawmi iʿ'malu ʿala makanatikum inni ʿamilun fasawfa taʿlamuna man takunu lahu ʿaqibatu l-dari innahu la yuf'lihu l-zalimuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 136,
+            "text": "wajaʿalu lillahi mimma dhara-a mina l-harthi wal-anʿami nasiban faqalu hadha lillahi bizaʿmihim wahadha lishurakaina fama kana lishurakaihim fala yasilu ila l-lahi wama kana lillahi fahuwa yasilu ila shurakaihim saa ma yahkumuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 137,
+            "text": "wakadhalika zayyana likathirin mina l-mush'rikina qatla awladihim shurakauhum liyur'duhum waliyalbisu ʿalayhim dinahum walaw shaa l-lahu ma faʿaluhu fadharhum wama yaftaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 138,
+            "text": "waqalu hadhihi anʿamun waharthun hij'run la yatʿamuha illa man nashau bizaʿmihim wa-anʿamun hurrimat zuhuruha wa-anʿamun la yadhkuruna is'ma l-lahi ʿalayha if'tiraan ʿalayhi sayajzihim bima kanu yaftaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 139,
+            "text": "waqalu ma fi butuni hadhihi l-anʿami khalisatun lidhukurina wamuharramun ʿala azwajina wa-in yakun maytatan fahum fihi shurakau sayajzihim wasfahum innahu hakimun ʿalimun"
+        },
+        {
+            "chapter": 6,
+            "verse": 140,
+            "text": "qad khasira alladhina qatalu awladahum safahan bighayri ʿil'min waharramu ma razaqahumu l-lahu if'tiraan ʿala l-lahi qad dallu wama kanu muh'tadina"
+        },
+        {
+            "chapter": 6,
+            "verse": 141,
+            "text": "wahuwa alladhi ansha-a jannatin maʿrushatin waghayra maʿrushatin wal-nakhla wal-zarʿa mukh'talifan ukuluhu wal-zaytuna wal-rumana mutashabihan waghayra mutashabihin kulu min thamarihi idha athmara waatu haqqahu yawma hasadihi wala tus'rifu innahu la yuhibbu l-mus'rifina"
+        },
+        {
+            "chapter": 6,
+            "verse": 142,
+            "text": "wamina l-anʿami hamulatan wafarshan kulu mimma razaqakumu l-lahu wala tattabiʿu khutuwati l-shaytani innahu lakum ʿaduwwun mubinun"
+        },
+        {
+            "chapter": 6,
+            "verse": 143,
+            "text": "thamaniyata azwajin mina l-dani ith'nayni wamina l-maʿzi ith'nayni qul aldhakarayni harrama ami l-unthayayni amma ish'tamalat ʿalayhi arhamu l-unthayayni nabbiuni biʿil'min in kuntum sadiqina"
+        },
+        {
+            "chapter": 6,
+            "verse": 144,
+            "text": "wamina l-ibili ith'nayni wamina l-baqari ith'nayni qul aldhakarayni harrama ami l-unthayayni amma ish'tamalat ʿalayhi arhamu l-unthayayni am kuntum shuhadaa idh wassakumu l-lahu bihadha faman azlamu mimmani if'tara ʿala l-lahi kadhiban liyudilla l-nasa bighayri ʿil'min inna l-laha la yahdi l-qawma l-zalimina"
+        },
+        {
+            "chapter": 6,
+            "verse": 145,
+            "text": "qul la ajidu fi ma uhiya ilayya muharraman ʿala taʿimin yatʿamuhu illa an yakuna maytatan aw daman masfuhan aw lahma khinzirin fa-innahu rij'sun aw fis'qan uhilla lighayri l-lahi bihi famani ud'turra ghayra baghin wala ʿadin fa-inna rabbaka ghafurun rahimun"
+        },
+        {
+            "chapter": 6,
+            "verse": 146,
+            "text": "waʿala alladhina hadu harramna kulla dhi zufurin wamina l-baqari wal-ghanami harramna ʿalayhim shuhumahuma illa ma hamalat zuhuruhuma awi l-hawaya aw ma ikh'talata biʿazmin dhalika jazaynahum bibaghyihim wa-inna lasadiquna"
+        },
+        {
+            "chapter": 6,
+            "verse": 147,
+            "text": "fa-in kadhabuka faqul rabbukum dhu rahmatin wasiʿatin wala yuraddu basuhu ʿani l-qawmi l-muj'rimina"
+        },
+        {
+            "chapter": 6,
+            "verse": 148,
+            "text": "sayaqulu alladhina ashraku law shaa l-lahu ma ashrakna wala abauna wala harramna min shayin kadhalika kadhaba alladhina min qablihim hatta dhaqu basana qul hal ʿindakum min ʿil'min fatukh'rijuhu lana in tattabiʿuna illa l-zana wa-in antum illa takhrusuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 149,
+            "text": "qul falillahi l-hujatu l-balighatu falaw shaa lahadakum ajmaʿina"
+        },
+        {
+            "chapter": 6,
+            "verse": 150,
+            "text": "qul halumma shuhadaakumu alladhina yashhaduna anna l-laha harrama hadha fa-in shahidu fala tashhad maʿahum wala tattabiʿ ahwaa alladhina kadhabu biayatina wa-alladhina la yu'minuna bil-akhirati wahum birabbihim yaʿdiluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 151,
+            "text": "qul taʿalaw atlu ma harrama rabbukum ʿalaykum alla tush'riku bihi shayan wabil-walidayni ih'sanan wala taqtulu awladakum min im'laqin nahnu narzuqukum wa-iyyahum wala taqrabu l-fawahisha ma zahara min'ha wama batana wala taqtulu l-nafsa allati harrama l-lahu illa bil-haqi dhalikum wassakum bihi laʿallakum taʿqiluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 152,
+            "text": "wala taqrabu mala l-yatimi illa bi-allati hiya ahsanu hatta yablugha ashuddahu wa-awfu l-kayla wal-mizana bil-qis'ti la nukallifu nafsan illa wus'ʿaha wa-idha qul'tum fa-iʿ'dilu walaw kana dha qur'ba wabiʿahdi l-lahi awfu dhalikum wassakum bihi laʿallakum tadhakkaruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 153,
+            "text": "wa-anna hadha sirati mus'taqiman fa-ittabiʿuhu wala tattabiʿu l-subula fatafarraqa bikum ʿan sabilihi dhalikum wassakum bihi laʿallakum tattaquna"
+        },
+        {
+            "chapter": 6,
+            "verse": 154,
+            "text": "thumma atayna musa l-kitaba tamaman ʿala alladhi ahsana watafsilan likulli shayin wahudan warahmatan laʿallahum biliqai rabbihim yu'minuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 155,
+            "text": "wahadha kitabun anzalnahu mubarakun fa-ittabiʿuhu wa-ittaqu laʿallakum tur'hamuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 156,
+            "text": "an taqulu innama unzila l-kitabu ʿala taifatayni min qablina wa-in kunna ʿan dirasatihim laghafilina"
+        },
+        {
+            "chapter": 6,
+            "verse": 157,
+            "text": "aw taqulu law anna unzila ʿalayna l-kitabu lakunna ahda min'hum faqad jaakum bayyinatun min rabbikum wahudan warahmatun faman azlamu mimman kadhaba biayati l-lahi wasadafa ʿanha sanajzi alladhina yasdifuna ʿan ayatina sua l-ʿadhabi bima kanu yasdifuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 158,
+            "text": "hal yanzuruna illa an tatiyahumu l-malaikatu aw yatiya rabbuka aw yatiya baʿdu ayati rabbika yawma yati baʿdu ayati rabbika la yanfaʿu nafsan imanuha lam takun amanat min qablu aw kasabat fi imaniha khayran quli intaziru inna muntaziruna"
+        },
+        {
+            "chapter": 6,
+            "verse": 159,
+            "text": "inna alladhina farraqu dinahum wakanu shiyaʿan lasta min'hum fi shayin innama amruhum ila l-lahi thumma yunabbi-uhum bima kanu yafʿaluna"
+        },
+        {
+            "chapter": 6,
+            "verse": 160,
+            "text": "man jaa bil-hasanati falahu ʿashru amthaliha waman jaa bil-sayi-ati fala yuj'za illa mith'laha wahum la yuz'lamuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 161,
+            "text": "qul innani hadani rabbi ila siratin mus'taqimin dinan qiyaman millata ib'rahima hanifan wama kana mina l-mush'rikina"
+        },
+        {
+            "chapter": 6,
+            "verse": 162,
+            "text": "qul inna salati wanusuki wamahyaya wamamati lillahi rabbi l-ʿalamina"
+        },
+        {
+            "chapter": 6,
+            "verse": 163,
+            "text": "la sharika lahu wabidhalika umir'tu wa-ana awwalu l-mus'limina"
+        },
+        {
+            "chapter": 6,
+            "verse": 164,
+            "text": "qul aghayra l-lahi abghi rabban wahuwa rabbu kulli shayin wala taksibu kullu nafsin illa ʿalayha wala taziru waziratun wiz'ra ukh'ra thumma ila rabbikum marjiʿukum fayunabbi-ukum bima kuntum fihi takhtalifuna"
+        },
+        {
+            "chapter": 6,
+            "verse": 165,
+            "text": "wahuwa alladhi jaʿalakum khalaifa l-ardi warafaʿa baʿdakum fawqa baʿdin darajatin liyabluwakum fi ma atakum inna rabbaka sariʿu l-ʿiqabi wa-innahu laghafurun rahimun"
+        }
+    ]
+}

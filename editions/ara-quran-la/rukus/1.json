@@ -1,0 +1,39 @@
+{
+    "rukus": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Bismi Allahi alrrahmani alrraheemi"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Alhamdu lillahi rabbi alAAalameena"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Alrrahmani alrraheemi"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Maliki yawmi alddeeni"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Iyyaka naAAbudu waiyyaka nastaAAeenu"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Ihdina alssirata almustaqeema"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Sirata allatheena anAAamta AAalayhim ghayri almaghdoobi AAalayhim wala alddalleena"
+        }
+    ]
+}

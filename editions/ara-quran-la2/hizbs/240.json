@@ -1,0 +1,414 @@
+{
+    "hizbs": [
+        {
+            "chapter": 100,
+            "verse": 9,
+            "text": "Afala yaAAlamu itha buAAthira mafee alquboor"
+        },
+        {
+            "chapter": 100,
+            "verse": 10,
+            "text": "Wahussila ma fee assudoor"
+        },
+        {
+            "chapter": 100,
+            "verse": 11,
+            "text": "Inna rabbahum bihim yawma-ithinlakhabeer"
+        },
+        {
+            "chapter": 101,
+            "verse": 1,
+            "text": "AlqariAAa"
+        },
+        {
+            "chapter": 101,
+            "verse": 2,
+            "text": "Ma alqariAAa"
+        },
+        {
+            "chapter": 101,
+            "verse": 3,
+            "text": "Wama adraka ma alqariAAa"
+        },
+        {
+            "chapter": 101,
+            "verse": 4,
+            "text": "Yawma yakoonu annasu kalfarashialmabthooth"
+        },
+        {
+            "chapter": 101,
+            "verse": 5,
+            "text": "Watakoonu aljibalu kalAAihnialmanfoosh"
+        },
+        {
+            "chapter": 101,
+            "verse": 6,
+            "text": "Faamma man thaqulat mawazeenuh"
+        },
+        {
+            "chapter": 101,
+            "verse": 7,
+            "text": "Fahuwa fee AAeeshatin radiya"
+        },
+        {
+            "chapter": 101,
+            "verse": 8,
+            "text": "Waamma man khaffat mawazeenuh"
+        },
+        {
+            "chapter": 101,
+            "verse": 9,
+            "text": "Faommuhu hawiya"
+        },
+        {
+            "chapter": 101,
+            "verse": 10,
+            "text": "Wama adraka ma hiya"
+        },
+        {
+            "chapter": 101,
+            "verse": 11,
+            "text": "Narun hamiya"
+        },
+        {
+            "chapter": 102,
+            "verse": 1,
+            "text": "Alhakumu attakathur"
+        },
+        {
+            "chapter": 102,
+            "verse": 2,
+            "text": "Hatta zurtumu almaqabir"
+        },
+        {
+            "chapter": 102,
+            "verse": 3,
+            "text": "Kalla sawfa taAAlamoon"
+        },
+        {
+            "chapter": 102,
+            "verse": 4,
+            "text": "Thumma kalla sawfa taAAlamoon"
+        },
+        {
+            "chapter": 102,
+            "verse": 5,
+            "text": "Kalla law taAAlamoona AAilma alyaqeen"
+        },
+        {
+            "chapter": 102,
+            "verse": 6,
+            "text": "Latarawunna aljaheem"
+        },
+        {
+            "chapter": 102,
+            "verse": 7,
+            "text": "Thumma latarawunnaha AAayna alyaqeen"
+        },
+        {
+            "chapter": 102,
+            "verse": 8,
+            "text": "Thumma latus-alunna yawma-ithin AAaniannaAAeem"
+        },
+        {
+            "chapter": 103,
+            "verse": 1,
+            "text": "WalAAasr"
+        },
+        {
+            "chapter": 103,
+            "verse": 2,
+            "text": "Inna al-insana lafee khusr"
+        },
+        {
+            "chapter": 103,
+            "verse": 3,
+            "text": "Illa allatheena amanoowaAAamiloo assalihati watawasaw bilhaqqiwatawasaw bissabr"
+        },
+        {
+            "chapter": 104,
+            "verse": 1,
+            "text": "Waylun likulli humazatin lumaza"
+        },
+        {
+            "chapter": 104,
+            "verse": 2,
+            "text": "Allathee jamaAAa malanwaAAaddadah"
+        },
+        {
+            "chapter": 104,
+            "verse": 3,
+            "text": "Yahsabu anna malahu akhladah"
+        },
+        {
+            "chapter": 104,
+            "verse": 4,
+            "text": "Kalla layunbathanna fee alhutama"
+        },
+        {
+            "chapter": 104,
+            "verse": 5,
+            "text": "Wama adraka ma alhutama"
+        },
+        {
+            "chapter": 104,
+            "verse": 6,
+            "text": "Naru Allahi almooqada"
+        },
+        {
+            "chapter": 104,
+            "verse": 7,
+            "text": "Allatee tattaliAAu AAalaal-af-ida"
+        },
+        {
+            "chapter": 104,
+            "verse": 8,
+            "text": "lnnaha AAalayhim mu/sada"
+        },
+        {
+            "chapter": 104,
+            "verse": 9,
+            "text": "Fee AAamadin mumaddada"
+        },
+        {
+            "chapter": 105,
+            "verse": 1,
+            "text": "Alam tara kayfa faAAala rabbuka bi-as-habialfeel"
+        },
+        {
+            "chapter": 105,
+            "verse": 2,
+            "text": "Alam yajAAal kaydahum fee tadleel"
+        },
+        {
+            "chapter": 105,
+            "verse": 3,
+            "text": "Waarsala AAalayhim tayran ababeel"
+        },
+        {
+            "chapter": 105,
+            "verse": 4,
+            "text": "Tarmeehim bihijaratin minsijjeel"
+        },
+        {
+            "chapter": 105,
+            "verse": 5,
+            "text": "FajaAAalahum kaAAasfin ma/kool"
+        },
+        {
+            "chapter": 106,
+            "verse": 1,
+            "text": "Li-eelafi quraysh"
+        },
+        {
+            "chapter": 106,
+            "verse": 2,
+            "text": "Eelafihim rihlata ashshita-iwassayf"
+        },
+        {
+            "chapter": 106,
+            "verse": 3,
+            "text": "FalyaAAbudoo rabba hatha albayt"
+        },
+        {
+            "chapter": 106,
+            "verse": 4,
+            "text": "Allathee atAAamahum min jooAAinwaamanahum min khawf"
+        },
+        {
+            "chapter": 107,
+            "verse": 1,
+            "text": "Araayta allathee yukaththibu biddeen"
+        },
+        {
+            "chapter": 107,
+            "verse": 2,
+            "text": "Fathalika allathee yaduAAAAualyateem"
+        },
+        {
+            "chapter": 107,
+            "verse": 3,
+            "text": "Wala yahuddu AAalataAAami almiskeen"
+        },
+        {
+            "chapter": 107,
+            "verse": 4,
+            "text": "Fawaylun lilmusalleen"
+        },
+        {
+            "chapter": 107,
+            "verse": 5,
+            "text": "Allatheena hum AAan salatihimsahoon"
+        },
+        {
+            "chapter": 107,
+            "verse": 6,
+            "text": "Allatheena hum yuraoon"
+        },
+        {
+            "chapter": 107,
+            "verse": 7,
+            "text": "WayamnaAAoona almaAAoon"
+        },
+        {
+            "chapter": 108,
+            "verse": 1,
+            "text": "Inna aAAtaynakaalkawthar"
+        },
+        {
+            "chapter": 108,
+            "verse": 2,
+            "text": "Fasalli lirabbika wanhar"
+        },
+        {
+            "chapter": 108,
+            "verse": 3,
+            "text": "Inna shani-aka huwa al-abtar"
+        },
+        {
+            "chapter": 109,
+            "verse": 1,
+            "text": "Qul ya ayyuha alkafiroon"
+        },
+        {
+            "chapter": 109,
+            "verse": 2,
+            "text": "La aAAbudu ma taAAbudoon"
+        },
+        {
+            "chapter": 109,
+            "verse": 3,
+            "text": "Wala antum AAabidoona maaAAbud"
+        },
+        {
+            "chapter": 109,
+            "verse": 4,
+            "text": "Wala ana AAabidun maAAabadtum"
+        },
+        {
+            "chapter": 109,
+            "verse": 5,
+            "text": "Wala antum AAabidoona maaAAbud"
+        },
+        {
+            "chapter": 109,
+            "verse": 6,
+            "text": "Lakum deenukum waliya deen"
+        },
+        {
+            "chapter": 110,
+            "verse": 1,
+            "text": "Itha jaa nasru Allahiwalfath"
+        },
+        {
+            "chapter": 110,
+            "verse": 2,
+            "text": "Waraayta annasa yadkhuloonafee deeni Allahi afwaja"
+        },
+        {
+            "chapter": 110,
+            "verse": 3,
+            "text": "Fasabbih bihamdi rabbika wastaghfirhuinnahu kana tawwaba"
+        },
+        {
+            "chapter": 111,
+            "verse": 1,
+            "text": "Tabbat yada abee lahabin watab"
+        },
+        {
+            "chapter": 111,
+            "verse": 2,
+            "text": "Ma aghna AAanhu maluhuwama kasab"
+        },
+        {
+            "chapter": 111,
+            "verse": 3,
+            "text": "Sayasla naran thatalahab"
+        },
+        {
+            "chapter": 111,
+            "verse": 4,
+            "text": "Wamraatuhu hammalata alhatab"
+        },
+        {
+            "chapter": 111,
+            "verse": 5,
+            "text": "Fee jeediha hablun min masad"
+        },
+        {
+            "chapter": 112,
+            "verse": 1,
+            "text": "Qul huwa Allahu ahad"
+        },
+        {
+            "chapter": 112,
+            "verse": 2,
+            "text": "Allahu assamad"
+        },
+        {
+            "chapter": 112,
+            "verse": 3,
+            "text": "Lam yalid walam yoolad"
+        },
+        {
+            "chapter": 112,
+            "verse": 4,
+            "text": "Walam yakun lahu kufuwan ahad"
+        },
+        {
+            "chapter": 113,
+            "verse": 1,
+            "text": "Qul aAAoothu birabbi alfalaq"
+        },
+        {
+            "chapter": 113,
+            "verse": 2,
+            "text": "Min sharri ma khalaq"
+        },
+        {
+            "chapter": 113,
+            "verse": 3,
+            "text": "Wamin sharri ghasiqin ithawaqab"
+        },
+        {
+            "chapter": 113,
+            "verse": 4,
+            "text": "Wamin sharri annaffathatifee alAAuqad"
+        },
+        {
+            "chapter": 113,
+            "verse": 5,
+            "text": "Wamin sharri hasidin itha hasad"
+        },
+        {
+            "chapter": 114,
+            "verse": 1,
+            "text": "Qul aAAoothu birabbi annas"
+        },
+        {
+            "chapter": 114,
+            "verse": 2,
+            "text": "Maliki annas"
+        },
+        {
+            "chapter": 114,
+            "verse": 3,
+            "text": "Ilahi annas"
+        },
+        {
+            "chapter": 114,
+            "verse": 4,
+            "text": "Min sharri alwaswasi alkhannas"
+        },
+        {
+            "chapter": 114,
+            "verse": 5,
+            "text": "Allathee yuwaswisu fee sudoori annas"
+        },
+        {
+            "chapter": 114,
+            "verse": 6,
+            "text": "Mina aljinnati wannas"
+        }
+    ]
+}

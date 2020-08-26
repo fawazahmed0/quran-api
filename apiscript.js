@@ -2,7 +2,7 @@
 // whether to check for duplicate translation or not during create
 var checkduplicate = true;
 // whether json is required in translation or not
-var jsonrequired = false
+var jsonrequired = true
 // whether to generate latin or not using translate.py script
 var generateLatin = true
 
@@ -26,7 +26,7 @@ var databaseDir = path.join(__dirname, 'database')
 // Stores translations in line by line format of 6236 lines
 var linebylineDir = path.join(databaseDir, 'linebyline')
 var startUrl = "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@"
-var apiVersion = 'v1'
+var apiVersion = '1'
 // API url
 var url = startUrl + apiVersion + "/"
 // Stores the translation files snippets and it's json,retreieves them from linebylineDir

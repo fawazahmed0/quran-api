@@ -1,0 +1,744 @@
+{
+    "juzs": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Bismi Allahi arrahmani arraheem"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Alhamdu lillahi rabbi alAAalameen"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Arrahmani arraheem"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Maliki yawmi addeen"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Iyyaka naAAbudu wa-iyyaka nastaAAeen"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Ihdina assirata almustaqeem"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Sirata allatheena anAAamta AAalayhim ghayri almaghdoobi AAalayhim wala addalleen"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Alif-lam-meem"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "Thalika alkitabu larayba feehi hudan lilmuttaqeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "Allatheena yu/minoona bilghaybiwayuqeemoona assalata wamimma razaqnahumyunfiqoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "Wallatheena yu/minoona bimaonzila ilayka wama onzila min qablika wabil-akhiratihum yooqinoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Ola-ika AAala hudan minrabbihim waola-ika humu almuflihoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Inna allatheena kafaroo sawaonAAalayhim aanthartahum am lam tunthirhum layu/minoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Khatama Allahu AAala quloobihimwaAAala samAAihim waAAala absarihim ghishawatunwalahum AAathabun AAatheem"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "Wamina annasi man yaqoolu amannabiAllahi wabilyawmi al-akhiri wamahum bimu/mineen"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "YukhadiAAoona Allaha wallatheenaamanoo wama yakhdaAAoona illa anfusahum wamayashAAuroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "Fee quloobihim maradun fazadahumuAllahu maradan walahum AAathabun aleemun bimakanoo yakthiboon"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Wa-itha qeela lahum latufsidoo fee al-ardi qaloo innama nahnumuslihoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "Ala innahum humu almufsidoona walakinla yashAAuroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Wa-itha qeela lahum aminoo kamaamana annasu qaloo anu/minu kamaamana assufahao ala innahum humu assufahaowalakin la yaAAlamoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Wa-itha laqoo allatheena amanooqaloo amanna wa-itha khalaw ilashayateenihim qaloo inna maAAakum innamanahnu mustahzi-oon"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Allahu yastahzi-o bihim wayamudduhumfee tughyanihim yaAAmahoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "Ola-ika allatheena ishtarawooaddalalata bilhuda famarabihat tijaratuhum wama kanoomuhtadeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Mathaluhum kamathali allatheeistawqada naran falamma adaat ma hawlahuthahaba Allahu binoorihim watarakahum fee thulumatinla yubsiroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "Summun bukmun AAumyun fahum layarjiAAoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Aw kasayyibin mina assama-ifeehi thulumatun waraAAdun wabarqunyajAAaloona asabiAAahum fee athanihim mina assawaAAiqihathara almawti wallahu muheetunbilkafireen"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "Yakadu albarqu yakhtafu absarahumkullama adaa lahum mashaw feehi wa-itha athlamaAAalayhim qamoo walaw shaa Allahu lathahababisamAAihim waabsarihim inna Allaha AAalakulli shay-in qadeer"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Ya ayyuha annasuoAAbudoo rabbakumu allathee khalaqakum wallatheenamin qablikum laAAallakum tattaqoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "Allathee jaAAala lakumu al-ardafirashan wassamaa binaan waanzalamina assama-i maan faakhraja bihi mina aththamaratirizqan lakum fala tajAAaloo lillahi andadanwaantum taAAlamoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "Wa-in kuntum fee raybin mimma nazzalnaAAala AAabdina fa/too bisooratin min mithlihi wadAAooshuhadaakum min dooni Allahi in kuntum sadiqeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "Fa-in lam tafAAaloo walan tafAAaloo fattaqooannara allatee waqooduha annasuwalhijaratu oAAiddat lilkafireen"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "Wabashshiri allatheena amanoowaAAamiloo assalihati anna lahum jannatintajree min tahtiha al-anharu kullamaruziqoo minha min thamaratin rizqan qaloo hathaallathee ruziqna min qablu waotoo bihi mutashabihanwalahum feeha azwajun mutahharatun wahumfeeha khalidoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "Inna Allaha la yastahyeean yadriba mathalan ma baAAoodatan famafawqaha faamma allatheena amanoofayaAAlamoona annahu alhaqqu min rabbihim waammaallatheena kafaroo fayaqooloona matha aradaAllahu bihatha mathalan yudillu bihikatheeran wayahdee bihi katheeran wama yudillu bihiilla alfasiqeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "Allatheena yanqudoona AAahdaAllahi min baAAdi meethaqihi wayaqtaAAoona maamara Allahu bihi an yoosala wayufsidoona fee al-ardiola-ika humu alkhasiroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Kayfa takfuroona billahiwakuntum amwatan faahyakum thumma yumeetukumthumma yuhyeekum thumma ilayhi turjaAAoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "Huwa allathee khalaqa lakum mafee al-ardi jameeAAan thumma istawa ila assama-ifasawwahunna sabAAa samawatin wahuwa bikullishay-in AAaleem"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Wa-ith qala rabbuka lilmala-ikatiinnee jaAAilun fee al-ardi khaleefatan qalooatajAAalu feeha man yufsidu feeha wayasfiku addimaawanahnu nusabbihu bihamdika wanuqaddisu lakaqala innee aAAlamu ma la taAAlamoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "WaAAallama adama al-asmaakullaha thumma AAaradahum AAala almala-ikatifaqala anbi-oonee bi-asma-i haola-iin kuntum sadiqeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Qaloo subhanaka laAAilma lana illa ma AAallamtanainnaka anta alAAaleemu alhakeem"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "Qala ya adamu anbi/humbi-asma-ihim falamma anbaahum bi-asma-ihim qalaalam aqul lakum innee aAAlamu ghayba assamawatiwal-ardi waaAAlamu ma tubdoona wamakuntum taktumoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Wa-ith qulna lilmala-ikatiosjudoo li-adama fasajadoo illa ibleesa abawastakbara wakana mina alkafireen"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Waqulna ya adamu oskunanta wazawjuka aljannata wakula minha raghadan haythushi/tuma wala taqraba hathihi ashshajaratafatakoona mina aththalimeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Faazallahuma ashshaytanuAAanha faakhrajahuma mimma kanafeehi waqulna ihbitoo baAAdukum libaAAdinAAaduwwun walakum fee al-ardi mustaqarrun wamataAAunila heen"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Fatalaqqa adamu min rabbihikalimatin fataba AAalayhi innahu huwa attawwabuarraheem"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Qulna ihbitoo minhajameeAAan fa-imma ya/tiyannakum minnee hudan faman tabiAAahudaya fala khawfun AAalayhim wala hum yahzanoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "Wallatheena kafaroo wakaththaboobi-ayatina ola-ika as-habuannari hum feeha khalidoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Ya banee isra-eela othkurooniAAmatiya allatee anAAamtu AAalaykum waawfoo biAAahdee oofibiAAahdikum wa-iyyaya farhaboon"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Waaminoo bima anzaltu musaddiqanlima maAAakum wala takoonoo awwala kafirinbihi wala tashtaroo bi-ayatee thamananqaleelan wa-iyyaya fattaqoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Wala talbisoo alhaqqa bilbatiliwataktumoo alhaqqa waantum taAAlamoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Waaqeemoo assalata waatooazzakata warkaAAoo maAAa arrakiAAeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "Ata/muroona annasa bilbirriwatansawna anfusakum waantum tatloona alkitaba afalataAAqiloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "WastaAAeenoo bissabriwassalati wa-innaha lakabeeratunilla AAala alkhashiAAeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "Allatheena yathunnoonaannahum mulaqoo rabbihim waannahum ilayhi rajiAAoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "Ya banee isra-eela othkurooniAAmatiya allatee anAAamtu AAalaykum waannee faddaltukumAAala alAAalameen"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Wattaqoo yawman la tajzeenafsun AAan nafsin shay-an wala yuqbalu minha shafaAAatunwala yu/khathu minha AAadlun wala humyunsaroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "Wa-ith najjaynakum min alifirAAawna yasoomoonakum soo-a alAAathabi yuthabbihoonaabnaakum wayastahyoona nisaakum wafee thalikumbalaon min rabbikum AAatheem"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "Wa-ith faraqna bikumu albahrafaanjaynakum waaghraqna ala firAAawnawaantum tanthuroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "Wa-ith waAAadna moosaarbaAAeena laylatan thumma ittakhathtumu alAAijla minbaAAdihi waantum thalimoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Thumma AAafawna AAankum min baAAdi thalikalaAAallakum tashkuroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "Wa-ith atayna moosaalkitaba walfurqana laAAallakum tahtadoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "Wa-ith qala moosaliqawmihi ya qawmi innakum thalamtumanfusakum bittikhathikumu alAAijla fatooboo ilabari-ikum faqtuloo anfusakum thalikumkhayrun lakum AAinda bari-ikum fataba AAalaykuminnahu huwa attawwabu arraheem"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "Wa-ith qultum ya moosalan nu/mina laka hatta nara Allahajahratan faakhathatkumu assaAAiqatu waantumtanthuroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Thumma baAAathnakum min baAAdimawtikum laAAallakum tashkuroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Wathallalna AAalaykumualghamama waanzalna AAalaykumu almanna wassalwakuloo min tayyibati ma razaqnakum wamathalamoona walakin kanooanfusahum yathlimoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "Wa-ith qulna odkhuloo hathihialqaryata fakuloo minha haythu shi/tum raghadan wadkhulooalbaba sujjadan waqooloo hittatun naghfirlakum khatayakum wasanazeedu almuhsineen"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Fabaddala allatheena thalamooqawlan ghayra allathee qeela lahum faanzalna AAalaallatheena thalamoo rijzan mina assama-ibima kanoo yafsuqoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "Wa-ithi istasqa moosaliqawmihi faqulna idrib biAAasaka alhajarafanfajarat minhu ithnata AAashrata AAaynan qadAAalima kullu onasin mashrabahum kuloo washraboomin rizqi Allahi wala taAAthaw fee al-ardimufsideen"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Wa-ith qultum ya moosalan nasbira AAala taAAamin wahidinfadAAu lana rabbaka yukhrij lana mimmatunbitu al-ardu min baqliha waqiththa-ihawafoomiha waAAadasiha wabasaliha qalaatastabdiloona allathee huwa adna billatheehuwa khayrun ihbitoo misran fa-inna lakum masaaltum waduribat AAalayhimu aththillatu walmaskanatuwabaoo bighadabin mina Allahi thalikabi-annahum kanoo yakfuroona bi-ayati Allahiwayaqtuloona annabiyyeena bighayri alhaqqi thalikabima AAasaw wakanoo yaAAtadoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "Inna allatheena amanoo wallatheenahadoo wannasara wassabi-eenaman amana biAllahi walyawmi al-akhiriwaAAamila salihan falahum ajruhum AAinda rabbihimwala khawfun AAalayhim wala hum yahzanoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Wa-ith akhathna meethaqakumwarafaAAna fawqakumu attoora khuthooma ataynakum biquwwatin wathkurooma feehi laAAallakum tattaqoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Thumma tawallaytum min baAAdi thalikafalawla fadlu Allahi AAalaykum warahmatuhulakuntum mina alkhasireen"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Walaqad AAalimtumu allatheenaiAAtadaw minkum fee assabti faqulna lahum koonooqiradatan khasi-een"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "FajaAAalnaha nakalanlima bayna yadayha wama khalfahawamawAAithatan lilmuttaqeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Wa-ith qala moosaliqawmihi inna Allaha ya/murukum an tathbahoobaqaratan qaloo atattakhithuna huzuwan qalaaAAoothu biAllahi an akoona mina aljahileen"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Qaloo odAAu lana rabbakayubayyin lana ma hiya qala innahu yaqooluinnaha baqaratun la faridun walabikrun AAawanun bayna thalika fafAAaloo matu/maroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Qaloo odAAu lana rabbakayubayyin lana ma lawnuha qala innahuyaqoolu innaha baqaratun safrao faqiAAunlawnuha tasurru annathireen"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "Qaloo odAAu lana rabbakayubayyin lana ma hiya inna albaqara tashabahaAAalayna wa-inna in shaa Allahulamuhtadoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "Qala innahu yaqoolu innahabaqaratun la thaloolun tutheeru al-arda walatasqee alhartha musallamatun la shiyata feehaqaloo al-ana ji/ta bilhaqqi fathabahoohawama kadoo yafAAaloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "Wa-ith qataltum nafsan faddara/tumfeeha wallahu mukhrijun ma kuntumtaktumoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "Faqulna idriboohu bibaAAdihakathalika yuhyee Allahu almawtawayureekum ayatihi laAAallakum taAAqiloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "Thumma qasat quloobukum min baAAdi thalikafahiya kalhijarati aw ashaddu qaswatanwa-inna mina alhijarati lama yatafajjaruminhu al-anharu wa-inna minha lamayashshaqqaqu fayakhruju minhu almao wa-inna minhalama yahbitu min khashyati Allahi wamaAllahu bighafilin AAamma taAAmaloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "AfatatmaAAoona an yu/minoo lakumwaqad kana fareequn minhum yasmaAAoona kalama Allahithumma yuharrifoonahu min baAAdi ma AAaqaloohuwahum yaAAlamoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "Wa-itha laqoo allatheena amanooqaloo amanna wa-itha khalabaAAduhum ila baAAdin qaloo atuhaddithoonahumbima fataha Allahu AAalaykum liyuhajjookumbihi AAinda rabbikum afala taAAqiloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "Awa la yaAAlamoona anna AllahayaAAlamu ma yusirroona wama yuAAlinoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Waminhum ommiyyoona la yaAAlamoonaalkitaba illa amaniyya wa-in hum illayathunnoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "Fawaylun lillatheena yaktuboona alkitababi-aydeehim thumma yaqooloona hatha min AAindi Allahiliyashtaroo bihi thamanan qaleelan fawaylun lahum mimmakatabat aydeehim wawaylun lahum mimma yaksiboon"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "Waqaloo lan tamassana annaruilla ayyaman maAAdoodatan qul attakhathtumAAinda Allahi AAahdan falan yukhlifa AllahuAAahdahu am taqooloona AAala Allahi ma lataAAlamoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Bala man kasaba sayyi-atan waahatatbihi khatee-atuhu faola-ika as-habu annarihum feeha khalidoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "Wallatheena amanoowaAAamiloo assalihati ola-ika as-habualjannati hum feeha khalidoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Wa-ith akhathna meethaqabanee isra-eela la taAAbudoona illa Allahawabilwalidayni ihsanan watheealqurba walyatama walmasakeeniwaqooloo linnasi husnan waaqeemoo assalatawaatoo azzakata thumma tawallaytum illaqaleelan minkum waantum muAAridoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "Wa-ith akhathna meethaqakumla tasfikoona dimaakum wala tukhrijoonaanfusakum min diyarikum thumma aqrartum waantum tashhadoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Thumma antum haola-itaqtuloona anfusakum watukhrijoona fareeqan minkum min diyarihimtathaharoona AAalayhim bil-ithmi walAAudwaniwa-in ya/tookum osara tufadoohum wahuwa muharramunAAalaykum ikhrajuhum afatu/minoona bibaAAdi alkitabiwatakfuroona bibaAAdin fama jazao manyafAAalu thalika minkum illa khizyun fee alhayatiaddunya wayawma alqiyamati yuraddoona ilaashaddi alAAathabi wama Allahu bighafilinAAamma taAAmaloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "Ola-ika allatheena ishtarawooalhayata addunya bil-akhiratifala yukhaffafu AAanhumu alAAathabu wala humyunsaroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Walaqad atayna moosaalkitaba waqaffayna min baAAdihi birrusuliwaatayna AAeesa ibna maryama albayyinatiwaayyadnahu biroohi alqudusi afakullama jaakumrasoolun bima la tahwa anfusukumuistakbartum fafareeqan kaththabtum wafareeqan taqtuloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "Waqaloo quloobuna ghulfun ballaAAanahumu Allahu bikufrihim faqaleelan mayu/minoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Walamma jaahum kitabunmin AAindi Allahi musaddiqun lima maAAahumwakanoo min qablu yastaftihoona AAala allatheenakafaroo falamma jaahum ma AAarafoo kafaroobihi falaAAnatu Allahi AAala alkafireen"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Bi/sama ishtaraw bihi anfusahum anyakfuroo bima anzala Allahu baghyan an yunazzilaAllahu min fadlihi AAala man yashaomin AAibadihi fabaoo bighadabin AAalaghadabin walilkafireena AAathabun muheen"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Wa-itha qeela lahum aminoo bimaanzala Allahu qaloo nu/minu bima onzilaAAalayna wayakfuroona bima waraahu wahuwa alhaqqumusaddiqan lima maAAahum qul falima taqtuloonaanbiyaa Allahi min qablu in kuntum mu/mineen"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Walaqad jaakum moosa bilbayyinatithumma ittakhathtumu alAAijla min baAAdihi waantum thalimoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "Wa-ith akhathna meethaqakumwarafaAAna fawqakumu attoora khuthooma ataynakum biquwwatin wasmaAAoo qaloosamiAAna waAAasayna waoshriboo feequloobihimu alAAijla bikufrihim qul bi/sama ya/murukumbihi eemanukum in kuntum mu/mineen"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "Qul in kanat lakumu addarual-akhiratu AAinda Allahi khalisatanmin dooni annasi fatamannawoo almawta in kuntum sadiqeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Walan yatamannawhu abadan bimaqaddamat aydeehim wallahu AAaleemun biaththalimeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "Walatajidannahum ahrasa annasiAAala hayatin wamina allatheenaashrakoo yawaddu ahaduhum law yuAAammaru alfa sanatin wamahuwa bimuzahzihihi mina alAAathabi anyuAAammara wallahu baseerun bimayaAAmaloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "Qul man kana AAaduwwan lijibreelafa-innahu nazzalahu AAala qalbika bi-ithni Allahimusaddiqan lima bayna yadayhi wahudan wabushralilmu/mineen"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Man kana AAaduwwan lillahiwamala-ikatihi warusulihi wajibreela wameekalafa-inna Allaha AAaduwwun lilkafireen"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Walaqad anzalna ilayka ayatinbayyinatin wama yakfuru biha illa alfasiqoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "Awa kullama AAahadoo AAahdannabathahu fareequn minhum bal aktharuhum layu/minoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Walamma jaahum rasoolun minAAindi Allahi musaddiqun lima maAAahum nabathafareequn mina allatheena ootoo alkitaba kitabaAllahi waraa thuhoorihim kaannahum layaAAlamoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "WattabaAAoo ma tatloo ashshayateenuAAala mulki sulaymana wama kafara sulaymanuwalakinna ashshayateena kafarooyuAAallimoona annasa assihra wamaonzila AAala almalakayni bibabila harootawamaroota wama yuAAallimani min ahadinhatta yaqoola innama nahnufitnatun fala takfur fayataAAallamoona minhuma mayufarriqoona bihi bayna almar-i wazawjihi wama hum bidarreenabihi min ahadin illa bi-ithni AllahiwayataAAallamoona ma yadurruhum walayanfaAAuhum walaqad AAalimoo lamani ishtarahu malahu fee al-akhirati min khalaqin walabi/sa masharaw bihi anfusahum law kanoo yaAAlamoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Walaw annahum amanoo wattaqawlamathoobatun min AAindi Allahi khayrun law kanooyaAAlamoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Ya ayyuha allatheena amanoola taqooloo raAAina waqooloo onthurnawasmaAAoo walilkafireena AAathabun aleem"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Ma yawaddu allatheena kafaroomin ahli alkitabi wala almushrikeena an yunazzalaAAalaykum min khayrin min rabbikum wallahu yakhtassubirahmatihi man yashao wallahu thooalfadli alAAatheem"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Ma nansakh min ayatin awnunsiha na/ti bikhayrin minha aw mithlihaalam taAAlam anna Allaha AAala kulli shay-in qadeer"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "Alam taAAlam anna Allaha lahu mulkuassamawati wal-ardi wamalakum min dooni Allahi min waliyyin wala naseer"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Am tureedoona an tas-aloo rasoolakum kamasu-ila moosa min qablu waman yatabaddali alkufra bil-eemanifaqad dalla sawaa assabeel"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Wadda katheerun min ahli alkitabilaw yaruddoonakum min baAAdi eemanikum kuffaran hasadanmin AAindi anfusihim min baAAdi ma tabayyana lahumu alhaqqufaAAfoo wasfahoo hattaya/tiya Allahu bi-amrihi inna Allaha AAalakulli shay-in qadeer"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Waaqeemoo assalata waatooazzakata wama tuqaddimoo li-anfusikum minkhayrin tajidoohu AAinda Allahi inna Allaha bimataAAmaloona baseer"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Waqaloo lan yadkhula aljannata illaman kana hoodan aw nasara tilka amaniyyuhumqul hatoo burhanakum in kuntum sadiqeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Bala man aslama wajhahu lillahiwahuwa muhsinun falahu ajruhu AAinda rabbihi walakhawfun AAalayhim wala hum yahzanoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Waqalati alyahoodu laysati annasaraAAala shay-in waqalati annasaralaysati alyahoodu AAala shay-in wahum yatloona alkitabakathalika qala allatheena layaAAlamoona mithla qawlihim fallahu yahkumubaynahum yawma alqiyamati feema kanoo feehiyakhtalifoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Waman athlamu mimman manaAAamasajida Allahi an yuthkara feehaismuhu wasaAAa fee kharabiha ola-ikama kana lahum an yadkhulooha illa kha-ifeenalahum fee addunya khizyun walahum fee al-akhiratiAAathabun AAatheem"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Walillahi almashriqu walmaghribufaaynama tuwalloo fathamma wajhu Allahi inna AllahawasiAAun AAaleem"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Waqaloo itakhatha Allahuwaladan subhanahu bal lahu ma fee assamawatiwal-ardi kullun lahu qanitoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "BadeeAAu assamawatiwal-ardi wa-itha qada amran fa-innamayaqoolu lahu kun fayakoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Waqala allatheena layaAAlamoona lawla yukallimuna Allahu awta/teena ayatun kathalika qala allatheenamin qablihim mithla qawlihim tashabahat quloobuhum qadbayyanna al-ayati liqawmin yooqinoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "Inna arsalnaka bilhaqqibasheeran wanatheeran wala tus-alu Aaan as-habialjaheem"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Walan tarda AAanka alyahoodu walaannasara hatta tattabiAAamillatahum qul inna huda Allahi huwa alhudawala-ini ittabaAAta ahwaahum baAAda allathee jaakamina alAAilmi ma laka mina Allahi min waliyyin walanaseer"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Allatheena ataynahumualkitaba yatloonahu haqqa tilawatihi ola-ikayu/minoona bihi waman yakfur bihi faola-ika humu alkhasiroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Ya banee isra-eela othkurooniAAmatiya allatee anAAamtu AAalaykum waannee faddaltukumAAala alAAalameen"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Wattaqoo yawman la tajzeenafsun AAan nafsin shay-an wala yuqbalu minhaAAadlun wala tanfaAAuha shafaAAatun walahum yunsaroon"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Wa-ithi ibtala ibraheemarabbuhu bikalimatin faatammahunna qala innee jaAAilukalinnasi imaman qala wamin thurriyyateeqala la yanalu AAahdee aththalimeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Wa-ith jaAAalna albayta mathabatanlinnasi waamnan wattakhithoo minmaqami ibraheema musallan waAAahidnaila ibraheema wa-ismaAAeela an tahhirabaytiya litta-ifeena walAAakifeenawarrukkaAAi assujood"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "Wa-ith qala ibraheemurabbi ijAAal hatha baladan aminan warzuqahlahu mina aththamarati man amana minhumbillahi walyawmi al-akhiri qalawaman kafara faomattiAAuhu qaleelan thumma adtarruhu ilaAAathabi annari wabi/sa almaseer"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "Wa-ith yarfaAAu ibraheemualqawaAAida mina albayti wa-ismaAAeelu rabbanataqabbal minna innaka anta assameeAAu alAAaleem"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Rabbana wajAAalnamuslimayni laka wamin thurriyyatina ommatanmuslimatan laka waarina manasikana watubAAalayna innaka anta attawwabu arraheem"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Rabbana wabAAath feehimrasoolan minhum yatloo AAalayhim ayatikawayuAAallimuhumu alkitaba walhikmatawayuzakkeehim innaka anta alAAazeezu alhakeem"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Waman yarghabu AAan millati ibraheemailla man safiha nafsahu walaqadi istafaynahufee addunya wa-innahu fee al-akhiratilamina assaliheen"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "Ith qala lahu rabbuhu aslim qalaaslamtu lirabbi alAAalameen"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "Wawassa biha ibraheemubaneehi wayaAAqoobu ya baniyya inna Allaha istafalakumu addeena fala tamootunna illa waantummuslimoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Am kuntum shuhadaa ith hadarayaAAqooba almawtu ith qala libaneehi mataAAbudoona min baAAdee qaloo naAAbudu ilahakawa-ilaha aba-ika ibraheema wa-ismaAAeelawa-ishaqa ilahan wahidan wanahnu lahumuslimoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Tilka ommatun qad khalat laha makasabat walakum ma kasabtum wala tus-aloona AAammakano yaAAmaloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Waqaloo koonoo hoodan aw nasaratahtadoo qul bal millata ibraheema haneefan wamakana mina almushrikeen"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "Qooloo amanna billahiwama onzila ilayna wama onzila ilaibraheema wa-ismaAAeela wa-ishaqawayaAAqooba wal-asbati wama ootiya moosawaAAeesa wama ootiya annabiyyoona minrabbihim la nufarriqu bayna ahadin minhum wanahnulahu muslimoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "Fa-in amanoo bimithli ma amantumbihi faqadi ihtadaw wa-in tawallaw fa-innama hum fee shiqaqinfasayakfeekahumu Allahu wahuwa assameeAAualAAaleem"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "Sibghata Allahi waman ahsanumina Allahi sibghatan wanahnu lahu AAabidoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "Qul atuhajjoonana fee Allahiwahuwa rabbuna warabbukum walana aAAmalunawalakum aAAmalukum wanahnu lahu mukhlisoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Am taqooloona inna ibraheema wa-ismaAAeelawa-ishaqa wayaAAqooba wal-asbata kanoohoodan aw nasara qul aantum aAAlamu ami Allahuwaman athlamu mimman katama shahadatanAAindahu mina Allahi wama Allahu bighafilinAAamma taAAmaloon"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Tilka ommatun qad khalat laha makasabat walakum ma kasabtum wala tus-aloona AAammakanoo yaAAmaloon"
+        }
+    ]
+}

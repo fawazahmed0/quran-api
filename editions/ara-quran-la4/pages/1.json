@@ -1,0 +1,39 @@
+{
+    "pages": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "bis'mi l-lahi l-rahmani l-rahimi"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "al-hamdu lillahi rabbi l-ʿalamina"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "al-rahmani l-rahimi"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "maliki yawmi l-dini"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "iyyaka naʿbudu wa-iyyaka nastaʿinu"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "ih'dina l-sirata l-mus'taqima"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "sirata alladhina anʿamta ʿalayhim ghayri l-maghdubi ʿalayhim wala l-dalina"
+        }
+    ]
+}

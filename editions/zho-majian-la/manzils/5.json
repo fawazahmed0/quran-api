@@ -1,0 +1,4284 @@
+{
+    "manzils": [
+        {
+            "chapter": 26,
+            "verse": 1,
+            "text": "Ta xin, mi mu,"
+        },
+        {
+            "chapter": 26,
+            "verse": 2,
+            "text": "zhexie shi mingbai de jingdian zhong de jie wen."
+        },
+        {
+            "chapter": 26,
+            "verse": 3,
+            "text": "Yinwei tamen bu xindao, ni huoxu qi de de yao si."
+        },
+        {
+            "chapter": 26,
+            "verse": 4,
+            "text": "Ruguo wo yiyu, wo jiang cong tianshang jiang shi tamen yige jixiang, tamen jiu wei ta er fushou tie er."
+        },
+        {
+            "chapter": 26,
+            "verse": 5,
+            "text": "Mei feng you xin de jinian cong zhiren zhu jiang shi tamen, tamen dou beiqi ta."
+        },
+        {
+            "chapter": 26,
+            "verse": 6,
+            "text": "Tamen que yi fouren zhenli, tamen suo chaoxiao de shi de jieju, jiang jianglin tamen."
+        },
+        {
+            "chapter": 26,
+            "verse": 7,
+            "text": "Nandao tamen meiyou guancha da di ma? Wo shi ge zhong youliang de zhiwu zai da dishang fanyan."
+        },
+        {
+            "chapter": 26,
+            "verse": 8,
+            "text": "Ci zhong que youyi zhong jixiang, dan tamen daban shi bu xindao de."
+        },
+        {
+            "chapter": 26,
+            "verse": 9,
+            "text": "Ni de zhu que shi wanneng de, que shi zhi ci de."
+        },
+        {
+            "chapter": 26,
+            "verse": 10,
+            "text": "Dangri, ni de zhu zhaohuan mu sa (shuo): Ni qu jiaohua na bu yi de minzhong."
+        },
+        {
+            "chapter": 26,
+            "verse": 11,
+            "text": "Ji falao de minzhong. Tamen zenme bu jingwei zhenzhu ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 12,
+            "text": "Ta shuo: Wo de zhu a! Wo dique pa tamen fouren wo,"
+        },
+        {
+            "chapter": 26,
+            "verse": 13,
+            "text": "yizhi wo fanmen kouchi, suoyi qiu ni paiqian ha lun (yidao qu)."
+        },
+        {
+            "chapter": 26,
+            "verse": 14,
+            "text": "Tamen ceng jia zui yu wo, wo pa tamen shahai wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 15,
+            "text": "Zhu shuo: Jue bu ruci, ni lia daizhe wo de jixiang qu ba! Wo que shi yu nimen zai yiqi qingting (nimen bianlun) de."
+        },
+        {
+            "chapter": 26,
+            "verse": 16,
+            "text": "Ni lia dao falao nali qu shuo:'Women que shi quan shijie de zhu de shizhe,"
+        },
+        {
+            "chapter": 26,
+            "verse": 17,
+            "text": "qing ni shifang se lie de houyi, rang wo lia dai tamen qu."
+        },
+        {
+            "chapter": 26,
+            "verse": 18,
+            "text": "Falao shuo: Nandao women meiyou zai women de jiazhong ba ni zi you fuyang chengren, erqie ni zai women jiazhong douliuguo xuduo nian ma?"
+        },
+        {
+            "chapter": 26,
+            "verse": 19,
+            "text": "Ni ceng ganle ni suo gan di na jian shi, ni shi wang'en de."
+        },
+        {
+            "chapter": 26,
+            "verse": 20,
+            "text": "Ta shuo: Dangri, wo bu dongshi di ganle na jian shi."
+        },
+        {
+            "chapter": 26,
+            "verse": 21,
+            "text": "Wo jiu weiju nimen, er taobi nimen, suihou, wo de zhu ba zhihui shangci wo, bingqie pai wo wei shizhe,"
+        },
+        {
+            "chapter": 26,
+            "verse": 22,
+            "text": "ni zebei wo wang'en, ni suowei de en shi ni ceng nuyi yiselie de houyi."
+        },
+        {
+            "chapter": 26,
+            "verse": 23,
+            "text": "Falao shuo: Quan shijie de zhu shi shenme?"
+        },
+        {
+            "chapter": 26,
+            "verse": 24,
+            "text": "Ta shuo: Ta shi tiandi wanwu de zhu, ruguo nimen shi quexin zhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 25,
+            "text": "Falao dui ta zuoyou de ren shuo: Nimen zenme bu qingting ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 26,
+            "text": "Ta shuo:(Ta shi) nimen de zhu, yeshi nimen zuxian de zhu."
+        },
+        {
+            "chapter": 26,
+            "verse": 27,
+            "text": "Falao shuo: Fengming lai jiaohua nimen de zhe wei shizhe, que shi yige fengzi."
+        },
+        {
+            "chapter": 26,
+            "verse": 28,
+            "text": "Ta shuo:(Ta shi) dongfang he xifang, yiji jie hu dongxi fang zhi jian de zhu, ruguo nimen neng liaojie."
+        },
+        {
+            "chapter": 26,
+            "verse": 29,
+            "text": "Falao shuo: Ruguo ni she wo er jing shi bie de shenling, wo shibi shi ni bian cheng yige qiufan."
+        },
+        {
+            "chapter": 26,
+            "verse": 30,
+            "text": "Ta shuo: Yaoshi wo zhaoshi ni yige mingzheng ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 31,
+            "text": "Falao shuo: Ruguo ni shi shuo shihua de, ni jiu zhaoshi yige mingzheng ba!"
+        },
+        {
+            "chapter": 26,
+            "verse": 32,
+            "text": "Ta jiu reng xia ta de shouzhang, na tiao shouzhang huran bian cheng yitiao mang;"
+        },
+        {
+            "chapter": 26,
+            "verse": 33,
+            "text": "ta ba ta de shou chou chulai, na zhi shou zai guanzhong de yanqian huran xiande bailiang liang de."
+        },
+        {
+            "chapter": 26,
+            "verse": 34,
+            "text": "Falao dui ta zuoyou de guizumen shuo: Zhe que shi yige gaoming de shushi,"
+        },
+        {
+            "chapter": 26,
+            "verse": 35,
+            "text": "ta xiang ping ta de moshu, ba nimen zhu chu guojing, nimen you she me jianyi ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 36,
+            "text": "Tamen shuo: Qing ni kuanxian ta he ta gege, bing pai zhengmu yuan dao ge chengshi qu,"
+        },
+        {
+            "chapter": 26,
+            "verse": 37,
+            "text": "tamen hui ba suoyou gaoming de shushi dou zhao dao ni zheli lai."
+        },
+        {
+            "chapter": 26,
+            "verse": 38,
+            "text": "Yiban shushimen zai zhiding de riqi, yi zhiding de shijian bei jihe qilai."
+        },
+        {
+            "chapter": 26,
+            "verse": 39,
+            "text": "Youren dui minzhong shuo: Nimen jihe qilaile ma?"
+        },
+        {
+            "chapter": 26,
+            "verse": 40,
+            "text": "Ruguo shushimen desheng, women huoxu shuncong tamen."
+        },
+        {
+            "chapter": 26,
+            "verse": 41,
+            "text": "Shushimen daolai de shihou, tamen dui falao shuo: Ruguo women desheng, women bi shou baochou ma?"
+        },
+        {
+            "chapter": 26,
+            "verse": 42,
+            "text": "Ta shuo: Shi de, zai na shi, nimen bi meng chongxing."
+        },
+        {
+            "chapter": 26,
+            "verse": 43,
+            "text": "Mu sa dui tamen shuo: Nimen keyi pao xia nimen suoyao pao de dongxi."
+        },
+        {
+            "chapter": 26,
+            "verse": 44,
+            "text": "Tamen jiu pao xiale tamen de sheng he zhang, tamen shuo: Zhi falao de quanli fashi, women biran desheng."
+        },
+        {
+            "chapter": 26,
+            "verse": 45,
+            "text": "Mu sa jiu reng xia ta de shouzhang, na tiao shouzhang huran tun xiale tamen suo huanhua de (dashe)."
+        },
+        {
+            "chapter": 26,
+            "verse": 46,
+            "text": "Shushimen jiu baidao xiaqu."
+        },
+        {
+            "chapter": 26,
+            "verse": 47,
+            "text": "Tamen shuo: Women yi xinyang quan shijie de zhu"
+        },
+        {
+            "chapter": 26,
+            "verse": 48,
+            "text": "mu sa he ha lun de zhu."
+        },
+        {
+            "chapter": 26,
+            "verse": 49,
+            "text": "Falao shuo: Wo hai meiyou yunxu nimen, nimen jiu xinyang tamenle ma? Ta bi shi nimen de toumu, ta chuanshou nimen de moshu, nimen bujiu jiu zhidao, wo bi jiaohuzhe kan nimen de shou he jiao, wo bi jiang nimen quanti ding zai shizijia shang."
+        },
+        {
+            "chapter": 26,
+            "verse": 50,
+            "text": "Tamen shuo: Na ye mei shenme, women jiang guiyu women de zhu."
+        },
+        {
+            "chapter": 26,
+            "verse": 51,
+            "text": "Women dique kewang women de zhu she you women de guoshi, yinwei women shi shouxian gui xin de."
+        },
+        {
+            "chapter": 26,
+            "verse": 52,
+            "text": "Wo ceng qishi mu sa (shuo): Ni zai yejian shuailing wo de zhong pu er luxing, nimen que shi bei zhuigan de."
+        },
+        {
+            "chapter": 26,
+            "verse": 53,
+            "text": "Falao paiqian zhengmu zhe dao ge chengshi qu."
+        },
+        {
+            "chapter": 26,
+            "verse": 54,
+            "text": "Ta shuo: Zhexie ren que shi yi xiao cuo ren."
+        },
+        {
+            "chapter": 26,
+            "verse": 55,
+            "text": "Tamen que shi jinule wo,"
+        },
+        {
+            "chapter": 26,
+            "verse": 56,
+            "text": "women que shi jinshen de tuanti."
+        },
+        {
+            "chapter": 26,
+            "verse": 57,
+            "text": "Wo jiu shi tamen likai xuduo yuanpu he yuanquan,"
+        },
+        {
+            "chapter": 26,
+            "verse": 58,
+            "text": "caibao he gaogui de zhusuo."
+        },
+        {
+            "chapter": 26,
+            "verse": 59,
+            "text": "(Shiqing) shi xiang nayang de. Wo shi yiselie de houyi jicheng ta."
+        },
+        {
+            "chapter": 26,
+            "verse": 60,
+            "text": "Diren zai ri chu shi gan shang tamen."
+        },
+        {
+            "chapter": 26,
+            "verse": 61,
+            "text": "Dang liang jun xiang wang de shihou, mu sa de tonghuomen shuo: Women shi bi yao bei diren zhui shang."
+        },
+        {
+            "chapter": 26,
+            "verse": 62,
+            "text": "Ta shuo: Jue bu hui de! Wo de zhu tong wo zai yiqi, ta jiang yindao wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 63,
+            "text": "Wo qishi mu sa shuo: Ni yingdang yong ni de shouzhang ji hai. Hai jiu lie kai, mei yibufen, xiang yizuo dashan."
+        },
+        {
+            "chapter": 26,
+            "verse": 64,
+            "text": "Zai nali, wo rang naxie ren bijin (tamen)."
+        },
+        {
+            "chapter": 26,
+            "verse": 65,
+            "text": "Wo zhengjiu mu sa he ta de quanti huoban."
+        },
+        {
+            "chapter": 26,
+            "verse": 66,
+            "text": "Ranhou, yan sile qiyu de ren."
+        },
+        {
+            "chapter": 26,
+            "verse": 67,
+            "text": "Ci zhong que youyi zhong jixiang, dan tamen daban bushi xindao zhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 68,
+            "text": "Ni de zhu que shi wanneng de, que shi zhi ci de."
+        },
+        {
+            "chapter": 26,
+            "verse": 69,
+            "text": "Ni yingdang dui tamen xuandu yi bo la xin de gushi."
+        },
+        {
+            "chapter": 26,
+            "verse": 70,
+            "text": "Dangri, ta dui ta de fuqin he zongzu shuo: Nimen chongbai shenme?"
+        },
+        {
+            "chapter": 26,
+            "verse": 71,
+            "text": "Tamen shuo: Women chongbai ouxiang, women yizhi shi qiancheng de."
+        },
+        {
+            "chapter": 26,
+            "verse": 72,
+            "text": "Ta shuo: Nimen qidao de shihou, tamen neng tingjian ma?"
+        },
+        {
+            "chapter": 26,
+            "verse": 73,
+            "text": "Tamen neng jiang fu yu nimen huo jiang huo yu nimen ma?"
+        },
+        {
+            "chapter": 26,
+            "verse": 74,
+            "text": "Tamen shuo: Buran, women ceng faxian women de zuxian shi nayang zuo de."
+        },
+        {
+            "chapter": 26,
+            "verse": 75,
+            "text": "Ta shuo: Nimen gaosu wo ba! Nimen suo chongbai de shi shenme?"
+        },
+        {
+            "chapter": 26,
+            "verse": 76,
+            "text": "Nimen zui gu de zuxian chongbai de shi shenme?"
+        },
+        {
+            "chapter": 26,
+            "verse": 77,
+            "text": "Tamen que shi wo de choudi, wei quan shijie de zhu ze buran."
+        },
+        {
+            "chapter": 26,
+            "verse": 78,
+            "text": "Ta shi chuangzao wo, ranhou yindao wo de."
+        },
+        {
+            "chapter": 26,
+            "verse": 79,
+            "text": "Ta shi gong wo shi, gong wo yin de."
+        },
+        {
+            "chapter": 26,
+            "verse": 80,
+            "text": "Wo haibing shi, shi ta shi wo quanyu de."
+        },
+        {
+            "chapter": 26,
+            "verse": 81,
+            "text": "Ta jiang shi wo si, ranhou shi wo fuhuo."
+        },
+        {
+            "chapter": 26,
+            "verse": 82,
+            "text": "Wo xiwang ta zai baoying ri she you wo de guoshi."
+        },
+        {
+            "chapter": 26,
+            "verse": 83,
+            "text": "Zhu a! Qiu ni ci wo zhihui, qiu ni shi wo jinru shanren de hanglie."
+        },
+        {
+            "chapter": 26,
+            "verse": 84,
+            "text": "Qiu ni wei wo zai hou ren zhong liu yige ling ming."
+        },
+        {
+            "chapter": 26,
+            "verse": 85,
+            "text": "Qiu ni shi wo wei ji leyuan de jicheng zhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 86,
+            "text": "Qiu ni she you wo de fuqin, ta que shi mi wu de."
+        },
+        {
+            "chapter": 26,
+            "verse": 87,
+            "text": "Qiu ni buyao lingru wo, zai tamen bei fuhuo zhi ri,"
+        },
+        {
+            "chapter": 26,
+            "verse": 88,
+            "text": "ji caichan he zisun dou wu biyi zhi ri."
+        },
+        {
+            "chapter": 26,
+            "verse": 89,
+            "text": "Wei daizhe yi ke chunjie de xin lai jian zhenzhu zhe,(de qi biyi)."
+        },
+        {
+            "chapter": 26,
+            "verse": 90,
+            "text": "Leyuan jiang bei dai dao jingwei zhe de fujin."
+        },
+        {
+            "chapter": 26,
+            "verse": 91,
+            "text": "Huo yu jiang bei chenlie zai xie'e zhe de mianqian."
+        },
+        {
+            "chapter": 26,
+            "verse": 92,
+            "text": "Jiangyao xiang tamen shuo: Nimen yiqian she zhenzhu er chongbai de, rujin zai nali ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 93,
+            "text": "Tamen neng zhu nimen ne? Haishi tamen neng zizhu ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 94,
+            "text": "Jiang bei touru huo yu zhong de, shi tamen he mi wu zhe,"
+        },
+        {
+            "chapter": 26,
+            "verse": 95,
+            "text": "yiji yi bo lie si de yixie budui."
+        },
+        {
+            "chapter": 26,
+            "verse": 96,
+            "text": "Tamen zai huo yu zhong zhengbianzhe shuo:"
+        },
+        {
+            "chapter": 26,
+            "verse": 97,
+            "text": "Zhi zhenzhu fashi, yiqian, women queshi zai mingxian de mi wu zhong."
+        },
+        {
+            "chapter": 26,
+            "verse": 98,
+            "text": "Dangri, women shi nimen yu quan shijie de zhu tong shou chongbai."
+        },
+        {
+            "chapter": 26,
+            "verse": 99,
+            "text": "Weiyou fanzui zhe shi women mi wu."
+        },
+        {
+            "chapter": 26,
+            "verse": 100,
+            "text": "Suoyi women jue meiyou shuo qing zhe,"
+        },
+        {
+            "chapter": 26,
+            "verse": 101,
+            "text": "ye meiyou zhongshi de pengyou."
+        },
+        {
+            "chapter": 26,
+            "verse": 102,
+            "text": "Dan yuan women jiang fanhui chenshi, women jiangyao bian cheng xindao zhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 103,
+            "text": "Tian zhong que you yige jixiang, dan tamen daban bushi xindao de."
+        },
+        {
+            "chapter": 26,
+            "verse": 104,
+            "text": "Ni de zhu que shi wanneng de, que shi zhi ci de."
+        },
+        {
+            "chapter": 26,
+            "verse": 105,
+            "text": "Nu ha de zongzu ceng fouren shizhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 106,
+            "text": "Dangshi, tamen de dixiong nu ha dui tamen shuo: Nimen zenme bu jingwei zhenzhu ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 107,
+            "text": "Wo duiyu nimen que shi yige zhongshi de shizhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 108,
+            "text": "Gu nimen yingdang jingwei zhenzhu, yingdang fucong wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 109,
+            "text": "Wo bu wei chuanda shiming er xiang nimen suoqu renhe baochou; wo de baochou, zhi you quan shijie de zhu fudan."
+        },
+        {
+            "chapter": 26,
+            "verse": 110,
+            "text": "Gu nimen yingdang jingwei zhenzhu, yingdang fucong wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 111,
+            "text": "Tamen shuo: Yixie zui beijian de ren zhuisui ni, women zen neng xinyang ni ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 112,
+            "text": "Ta shuo: Wo bu zhidao tamen zuole shenme shi."
+        },
+        {
+            "chapter": 26,
+            "verse": 113,
+            "text": "Wo de zhu fuze qingsuan tamen, jiaruo nimen zhidao."
+        },
+        {
+            "chapter": 26,
+            "verse": 114,
+            "text": "Wo jue buneng quzhu xinshi,"
+        },
+        {
+            "chapter": 26,
+            "verse": 115,
+            "text": "wo zhishi yige zhishuai de jinggao zhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 116,
+            "text": "Tamen shuo: Nu ha a! Ruguo ni bu tingzhi (xuanchuan), ni jiu bi zao ruma."
+        },
+        {
+            "chapter": 26,
+            "verse": 117,
+            "text": "Ni yingdang xinlai wanneng de zhi ci de zhu."
+        },
+        {
+            "chapter": 26,
+            "verse": 118,
+            "text": "Qiu ni zai wo yu tamen zhi jian jinxing caipan, qiu ni zhengjiu wo he yu wo tong zai yiqi de xinshimen."
+        },
+        {
+            "chapter": 26,
+            "verse": 119,
+            "text": "Erqie kanjian ni lu zhong libai de zhongzhong dongzuo."
+        },
+        {
+            "chapter": 26,
+            "verse": 120,
+            "text": "Suihou wo ni shale qiyu de ren."
+        },
+        {
+            "chapter": 26,
+            "verse": 121,
+            "text": "Ci zhong que you yige jixiang, dan tamen daban bu xindao."
+        },
+        {
+            "chapter": 26,
+            "verse": 122,
+            "text": "Ni de zhu, que shi wanneng de, que shi zhi ci de."
+        },
+        {
+            "chapter": 26,
+            "verse": 123,
+            "text": "A de ren ceng fouren shizhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 124,
+            "text": "Dangshi, tamen de dixiong hu de ceng dui tamen shuo: Nimen zenme bu jingwei ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 125,
+            "text": "Wo duiyu nimen, que shi yige zhongshi de shizhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 126,
+            "text": "Gu nimen yingdang jingwei zhenzhu, yingdang fucong wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 127,
+            "text": "Wo bu wei chuanda mingling er xiang nimen suoqu renhe baochou; wo de baochou, zhi you quan shijie de zhu fudan."
+        },
+        {
+            "chapter": 26,
+            "verse": 128,
+            "text": "Nimen zai gao dishang jianzhu yige jinian wu,"
+        },
+        {
+            "chapter": 26,
+            "verse": 129,
+            "text": "yi gong youxi. Nimen sheli yixie baolei, hao xiang nimen jiang yong ju chenshi yiyang."
+        },
+        {
+            "chapter": 26,
+            "verse": 130,
+            "text": "Nimen chengzhi (taren) de shihou, nimen shi hen canku de."
+        },
+        {
+            "chapter": 26,
+            "verse": 131,
+            "text": "Nimen yingdang jingwei zhenzhu zhi ming, yingdang fucong wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 132,
+            "text": "Nimen yingdang jingwei zhu, ta yi nimen suo zhidao de shangci nimen,"
+        },
+        {
+            "chapter": 26,
+            "verse": 133,
+            "text": "ta shangci nimen shengchu he zisi,"
+        },
+        {
+            "chapter": 26,
+            "verse": 134,
+            "text": "yuanpu he yuanquan."
+        },
+        {
+            "chapter": 26,
+            "verse": 135,
+            "text": "Wo dique haipa nimen zaoshou zhongda ri de xingfa."
+        },
+        {
+            "chapter": 26,
+            "verse": 136,
+            "text": "Tamen shuo: Wulun ni quangao yu fou, zhe duiyu women shi yiyang de."
+        },
+        {
+            "chapter": 26,
+            "verse": 137,
+            "text": "Zhe buguo shi laoshengchangtan bale."
+        },
+        {
+            "chapter": 26,
+            "verse": 138,
+            "text": "Women jue bu hui shou chengfa de."
+        },
+        {
+            "chapter": 26,
+            "verse": 139,
+            "text": "Tamen fouren ta, wo jiu huimiele tamen. Ci zhong dique you yige jixiang, dan tamen daban bushi xindao de."
+        },
+        {
+            "chapter": 26,
+            "verse": 140,
+            "text": "Ni de zhu que shi wanneng de, que shi zhi ci de."
+        },
+        {
+            "chapter": 26,
+            "verse": 141,
+            "text": "Sai mo de ren ceng fouren shizhemen."
+        },
+        {
+            "chapter": 26,
+            "verse": 142,
+            "text": "Dangri, tamen de dixiong sa li ha ceng dui tamen shuo: Nimen zenme bu jingwei ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 143,
+            "text": "Wo duiyu nimen que shi yige zhongshi de shizhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 144,
+            "text": "Gu nimen yingdang jingwei zhenzhu, yingdang fucong wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 145,
+            "text": "Wo bu wei chuanda shiming er xiang nimen suoqu renhe baochou; wo de baochou, zhi you quan shijie de zhu fudan."
+        },
+        {
+            "chapter": 26,
+            "verse": 146,
+            "text": "Nandao jing rang nimen anxin di zai zhe huanjing zhong me?"
+        },
+        {
+            "chapter": 26,
+            "verse": 147,
+            "text": "Zhe li you yuanpu he yuanquan,"
+        },
+        {
+            "chapter": 26,
+            "verse": 148,
+            "text": "you zhuangjia he juyou xianxi de rou suihua xu de ye zao shu,"
+        },
+        {
+            "chapter": 26,
+            "verse": 149,
+            "text": "nimen jingqiao de zao shan zao wu."
+        },
+        {
+            "chapter": 26,
+            "verse": 150,
+            "text": "Nimen yingdang jingwei zhenzhu, yingdang fucong wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 151,
+            "text": "Nimen buyao fucong guofen zhe de mingling,"
+        },
+        {
+            "chapter": 26,
+            "verse": 152,
+            "text": "tamen zai difang shang shangfengbaisu, er bu yifengyisu."
+        },
+        {
+            "chapter": 26,
+            "verse": 153,
+            "text": "Tamen shuo: Ni zhishi yige shou guhuo de ren,"
+        },
+        {
+            "chapter": 26,
+            "verse": 154,
+            "text": "ni zhishi xiang women yiyang de fanren. Ni yingdang zhaoshi yige jixiang, ruguo ni shi chengshi de."
+        },
+        {
+            "chapter": 26,
+            "verse": 155,
+            "text": "Ta shuo: Zhe shi yi zhi mu tuo, ta ying de yibufen yinliao, nimen ying de mou ding ri de yibufen yinliao."
+        },
+        {
+            "chapter": 26,
+            "verse": 156,
+            "text": "Nimen buke shanghai ta, fouze, jiang zaoshou zhongda ri de chengfa."
+        },
+        {
+            "chapter": 26,
+            "verse": 157,
+            "text": "Dan tamen zaile ta, suihou, tamen shen jue huihen."
+        },
+        {
+            "chapter": 26,
+            "verse": 158,
+            "text": "Dan tamen haishi shoule chengfa. Ci zhong que you yige jixiang, dan tamen daban shi bu xindao de."
+        },
+        {
+            "chapter": 26,
+            "verse": 159,
+            "text": "Ni de zhu, que shi wanneng de, que shi zhi ci de."
+        },
+        {
+            "chapter": 26,
+            "verse": 160,
+            "text": "Lu te de zongzu, ceng fouren shizhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 161,
+            "text": "Dangri, tamen de dixiong lu te ceng dui tamen shuo: Nimen zenme bu jingwei ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 162,
+            "text": "Wo duiyu nimen que shi yige zhongshi de shizhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 163,
+            "text": "Gu nimen yingdang jingwei zhenzhu, yingdang fucong wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 164,
+            "text": "Wo bu wei chuanda shiming er xiang nimen suoqu renhe baochou; wo de baochou, zhi gui quan shijie de zhu fudan."
+        },
+        {
+            "chapter": 26,
+            "verse": 165,
+            "text": "Nimen zenme yao yu zhongren zhong de nanxing jiaojie,"
+        },
+        {
+            "chapter": 26,
+            "verse": 166,
+            "text": "er sheqi nimen de zhu suo wei nimen chuangzao de qizi ni? Qishi, nimen shi fanzui de minzhong."
+        },
+        {
+            "chapter": 26,
+            "verse": 167,
+            "text": "Tamen shuo: Lu te a! Ruguo ni bu tingzhi, ni bi zao fangzhu."
+        },
+        {
+            "chapter": 26,
+            "verse": 168,
+            "text": "Ta shuo: Wo dique tonghen nimen de xingwei."
+        },
+        {
+            "chapter": 26,
+            "verse": 169,
+            "text": "Wo de zhu a! Qiu ni zhengjiu wo he wo de jiashu, shi women tuoli tamen de xingwei."
+        },
+        {
+            "chapter": 26,
+            "verse": 170,
+            "text": "Wo jiu zhengjiule ta he ta de quanjia."
+        },
+        {
+            "chapter": 26,
+            "verse": 171,
+            "text": "Zhiyou yige lao fu ren chuwai, ta shuyu liu xia de ren."
+        },
+        {
+            "chapter": 26,
+            "verse": 172,
+            "text": "Ranhou, wo huimiele qiyu de ren."
+        },
+        {
+            "chapter": 26,
+            "verse": 173,
+            "text": "Wo jiangyu qu shang tamen, bei jinggao zhe suo zao de yu zai, zhen elie!"
+        },
+        {
+            "chapter": 26,
+            "verse": 174,
+            "text": "Zai ci zhong que you yige jixiang, dan tamen daban bushi xindao de."
+        },
+        {
+            "chapter": 26,
+            "verse": 175,
+            "text": "Ni de zhu que shi wanneng de, que shi zhi ci de."
+        },
+        {
+            "chapter": 26,
+            "verse": 176,
+            "text": "Conglin de jumin, ceng fouren shizhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 177,
+            "text": "Dangri, shu a bo ceng dui tamen shuo: Nimen zenme bu jingwei ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 178,
+            "text": "Wo duiyu nimen que shi yige zhongshi de shizhe."
+        },
+        {
+            "chapter": 26,
+            "verse": 179,
+            "text": "Gu nimen yingdang jingwei zhenzhu, yingdang fucong wo."
+        },
+        {
+            "chapter": 26,
+            "verse": 180,
+            "text": "Wo bu wei chuanda shiming er xiang nimen suoqu renhe baochou; wo de baochou, zhi gui quan shijie de zhu fudan."
+        },
+        {
+            "chapter": 26,
+            "verse": 181,
+            "text": "Nimen yingdang yong zu liang de sheng dou, buyao kekou."
+        },
+        {
+            "chapter": 26,
+            "verse": 182,
+            "text": "Nimen yingdang yi gongping de cheng cheng huowu."
+        },
+        {
+            "chapter": 26,
+            "verse": 183,
+            "text": "Nimen buyao kekou taren suo ying de de caiwu. Nimen buyao zai difang shang weifeizuodai, bainong shifei."
+        },
+        {
+            "chapter": 26,
+            "verse": 184,
+            "text": "Nimen yingdang jingwei zhenzhu, ta chuangzao nimen he gulao de shidai."
+        },
+        {
+            "chapter": 26,
+            "verse": 185,
+            "text": "Tamen shuo: Ni zhishi yige bei guhuo de ren."
+        },
+        {
+            "chapter": 26,
+            "verse": 186,
+            "text": "Ni zhishi yige xiang women yiyang de fanren. Women dique renwei ni shi yige shuohuang de."
+        },
+        {
+            "chapter": 26,
+            "verse": 187,
+            "text": "Ni shi tian yikuai kuai di luo zai women de tou shang ba, ruguo ni shi chengshi de."
+        },
+        {
+            "chapter": 26,
+            "verse": 188,
+            "text": "Ta shuo: Wo de zhu shi zui zhidao nimen de xingwei de."
+        },
+        {
+            "chapter": 26,
+            "verse": 189,
+            "text": "Tamen fouren ta, tamen jiu zaoshou yinying zhi ri de xingfa. Na que shi zhongda ri de xingfa."
+        },
+        {
+            "chapter": 26,
+            "verse": 190,
+            "text": "Ci zhong que you yige jixiang, dan tamen daban shi buxindao de."
+        },
+        {
+            "chapter": 26,
+            "verse": 191,
+            "text": "Ni de zhu que shi wanneng de, que shi zhi ci de."
+        },
+        {
+            "chapter": 26,
+            "verse": 192,
+            "text": "Zhe “gulanjing” que shi quan shijie de zhu suo qishi de."
+        },
+        {
+            "chapter": 26,
+            "verse": 193,
+            "text": "Na zhongshi de jingshen ba ta jiang shi zai ni de xin shang,"
+        },
+        {
+            "chapter": 26,
+            "verse": 194,
+            "text": "yibian ni jinggao zhongren,"
+        },
+        {
+            "chapter": 26,
+            "verse": 195,
+            "text": "yi mingbai de alabo yu."
+        },
+        {
+            "chapter": 26,
+            "verse": 196,
+            "text": "Ta que shi gu jingdian zhong bei ti daoguo de."
+        },
+        {
+            "chapter": 26,
+            "verse": 197,
+            "text": "Yiselie houyi zhong de xuezhemen zhidao ta, zhe nandao huan bu keyi zuo tamen yige jixiang ma?"
+        },
+        {
+            "chapter": 26,
+            "verse": 198,
+            "text": "Jiaruo wo ba ta jiang shi yige fei alabo ren,"
+        },
+        {
+            "chapter": 26,
+            "verse": 199,
+            "text": "er nage ren dui tamen xuandu ta, namo, tamen jue bu hui xinyang ta."
+        },
+        {
+            "chapter": 26,
+            "verse": 200,
+            "text": "Wo zheyang shi fanzui de ren chang huai fouren de yinian."
+        },
+        {
+            "chapter": 26,
+            "verse": 201,
+            "text": "Tamen bu xinyang ta, zhidao tamen kanjian tongku de xingfa."
+        },
+        {
+            "chapter": 26,
+            "verse": 202,
+            "text": "Na zhong xingfa jiang zai tamen buzhi bu jue de shihou, huran jianglin tamen."
+        },
+        {
+            "chapter": 26,
+            "verse": 203,
+            "text": "Tamen jiang shuo: Women jiang meng kuanxian ma?"
+        },
+        {
+            "chapter": 26,
+            "verse": 204,
+            "text": "Nandao tamen yaoqiu wo de xingfa zaori shixian ma?"
+        },
+        {
+            "chapter": 26,
+            "verse": 205,
+            "text": "Ni gaosu wo ba, ruguo wo rang tamen xiangshou ruogan nian,"
+        },
+        {
+            "chapter": 26,
+            "verse": 206,
+            "text": "ranhou, tamen suo bei jinggao de xingfa jianglin tamen,"
+        },
+        {
+            "chapter": 26,
+            "verse": 207,
+            "text": "namo, tamen yiqian suo xiangshou de, duiyu tamen, jiujing you she me haochu ne?"
+        },
+        {
+            "chapter": 26,
+            "verse": 208,
+            "text": "Wo bu huimie renhe chengshi, chufei na chengshi li yi youguo ruogan jinggao zhe,"
+        },
+        {
+            "chapter": 26,
+            "verse": 209,
+            "text": "qu jiaohui qizhong de jumin; wo bushi bu yi de."
+        },
+        {
+            "chapter": 26,
+            "verse": 210,
+            "text": "Emomen meiyou daizhe ta jiangxia."
+        },
+        {
+            "chapter": 26,
+            "verse": 211,
+            "text": "Na duiyu tamen ji bushi shiyi de, ye bushi tamen suo neng de."
+        },
+        {
+            "chapter": 26,
+            "verse": 212,
+            "text": "Tamen que shi bei quzhu er bude yu wen de."
+        },
+        {
+            "chapter": 26,
+            "verse": 213,
+            "text": "Chu zhenzhu wai, ni buyao qidao bie de shenling, yimian ni zaoshou xingfa."
+        },
+        {
+            "chapter": 26,
+            "verse": 214,
+            "text": "Ni yingdang jinggao ni de qinqi."
+        },
+        {
+            "chapter": 26,
+            "verse": 215,
+            "text": "Ni duiyu gensui ni di naxie xinshi, yingdang jiayi ci'ai."
+        },
+        {
+            "chapter": 26,
+            "verse": 216,
+            "text": "Ruguo ni de qinqi weikang ni, ni yingdang shuo: Wo duiyu nimen de xingwei que shi wugan de."
+        },
+        {
+            "chapter": 26,
+            "verse": 217,
+            "text": "Ruguo ni de qinqi weikang ni, ni yingdang shuo: Wo duiyu nimen de xingwei que shi wugan de."
+        },
+        {
+            "chapter": 26,
+            "verse": 218,
+            "text": "Ruguo ni de qinqi weikang ni, ni yingdang shuo: Wo duiyu nimen de xingwei que shi wugan de."
+        },
+        {
+            "chapter": 26,
+            "verse": 219,
+            "text": "Ruguo ni de qinqi weikang ni, ni yingdang shuo: Wo duiyu nimen de xingwei que shi wugan de."
+        },
+        {
+            "chapter": 26,
+            "verse": 220,
+            "text": "Ta que shi quan cong de, que shi quanzhi de."
+        },
+        {
+            "chapter": 26,
+            "verse": 221,
+            "text": "Wo gaosu nimen, emomen fu zai shei de shenshang, hao ma?"
+        },
+        {
+            "chapter": 26,
+            "verse": 222,
+            "text": "Emomen fu zai mei ge zaoyao de zuiren shenshang."
+        },
+        {
+            "chapter": 26,
+            "verse": 223,
+            "text": "Tamen ce'er er ting, tamen daban shi shuohuang de."
+        },
+        {
+            "chapter": 26,
+            "verse": 224,
+            "text": "Shirenmen bei mi wu zhe suo gensui."
+        },
+        {
+            "chapter": 26,
+            "verse": 225,
+            "text": "Ni bu zhidao ma? Tamen zai ge shangu zhong fanghuang."
+        },
+        {
+            "chapter": 26,
+            "verse": 226,
+            "text": "Tamen zhi shang kongtan, bu chong shijian."
+        },
+        {
+            "chapter": 26,
+            "verse": 227,
+            "text": "Wei xindao er xingshan bing duoduo jinian zhenzhu, erqie zai bei qiya zhihou congshi ziwei de ren chuwai, bu yi zhe, jianglai jiu zhidao tamen huode shenme guisu."
+        },
+        {
+            "chapter": 27,
+            "verse": 1,
+            "text": "Ta, xin. Zhexie shi “gulanjing”--panbie zhen wei de jingdian--de jie wen,"
+        },
+        {
+            "chapter": 27,
+            "verse": 2,
+            "text": "shi xinzhe de xiangdao he jiayin."
+        },
+        {
+            "chapter": 27,
+            "verse": 3,
+            "text": "Xindao zhe jin shou bai gong, wan na tian ke, duxin houshi."
+        },
+        {
+            "chapter": 27,
+            "verse": 4,
+            "text": "Bu xin houshi zhe, wo que yi wei tamen er zhuangshile tamen de xingwei, gu tamen shi paihuai qitu de."
+        },
+        {
+            "chapter": 27,
+            "verse": 5,
+            "text": "Zhe deng ren shi ying shou yanxing de, tamen zai houshi shi zui kui she de."
+        },
+        {
+            "chapter": 27,
+            "verse": 6,
+            "text": "Ni que yi feng dao cong zhi rui quanzhi de zhu jiang shi de “gulanjing”."
+        },
+        {
+            "chapter": 27,
+            "verse": 7,
+            "text": "Dangri, mu sa ceng dui ta de jiashu shuo: Wo que yi kanjian yi chu huoguang, wo jiang cong you huo di difang dai yige xiaoxi lai gei nimen, huo na yige huoba yi gei nimen kaohuo."
+        },
+        {
+            "chapter": 27,
+            "verse": 8,
+            "text": "Ta daole nage huo de fujin, jiu you shengyin hanjiao ta shuo: Zai huo de fujin he sizhou de ren, dou meng fu you. Zansong zhenzhu--quan shijie de zhu, chaojue wanwu."
+        },
+        {
+            "chapter": 27,
+            "verse": 9,
+            "text": "Mu sa a! Wo que shi zhenzhu--wanneng de, zhi rui de zhu."
+        },
+        {
+            "chapter": 27,
+            "verse": 10,
+            "text": "Ni pao xia ni de shouzhang ba! Dang ta kanjian na tiao shouzhang wan yan ru she shi, jiu zhuanlian taobi, bu gan huigu. Mu sa a! Buyao weiju, shizhemen zai wo zheli, que shi bu weiju de."
+        },
+        {
+            "chapter": 27,
+            "verse": 11,
+            "text": "Ji xing bu yi, ranhou gaiguo cong shan zhe chuwai, wo (duiyu ta) que shi zhi she de, que shi zhi ci de."
+        },
+        {
+            "chapter": 27,
+            "verse": 12,
+            "text": "Ni bashou charu ni de huai zhong, ranhou, chou chulai ta jiang bailiang liang de. Que wu eji. Zhe shi pai ni qu zhaoshi falao he ta de baixing de jiu zhong jixiang zhi yi. Tamen que shi youzui de minzhong."
+        },
+        {
+            "chapter": 27,
+            "verse": 13,
+            "text": "Wo de xuduo mingxian jixiang jianglin tamen de shihou, tamen shuo: Zhe shi mingxian de moshu."
+        },
+        {
+            "chapter": 27,
+            "verse": 14,
+            "text": "Tamen de neixin chengren naxie jixiang, dan tamen wei bu yi he aoman er fouren ta. Ni kan bainong shifei zhe de jieju shi zenyang de."
+        },
+        {
+            "chapter": 27,
+            "verse": 15,
+            "text": "Wo que yi ba xuewen shangci da wu de he su lai man, ta lia shuo: Yiqie zansong, quan guizhenzhu! Ta ceng shi women chaoyue ta de xuduo xindao de puren."
+        },
+        {
+            "chapter": 27,
+            "verse": 16,
+            "text": "Su lai man jicheng da wu de; ta shuo: Zhongren a! Women ceng xuehui bai niao de yuyan, women ceng huode wanwu de xiangshou, zhe que shi mingxian de enhui."
+        },
+        {
+            "chapter": 27,
+            "verse": 17,
+            "text": "Su lai man de dajun--you jingling, renlei, niao lei zucheng de--bei zhaoji dao ta mianqian, tamen shi bushu zhengqi de."
+        },
+        {
+            "chapter": 27,
+            "verse": 18,
+            "text": "Dengdao tamen lai dao yi gu de shihou, yige mu yi shuo: Mayimen a! Kuai jin ziji de zhuchu qu, yimian bei su lai man he ta de dajun buzhi bu jue de jianta."
+        },
+        {
+            "chapter": 27,
+            "verse": 19,
+            "text": "Su lai man wei ta dehua er chayi di weixiaole, ta shuo: Wo de zhu a! Qiu ni qishi wo, shi wo changchang ganxie ni suo ci wo he wo de fumu de enhui, bing shi wo changchang zuo ni suo xiyue de shangong qiu ni jie ni de enhui shi wo de ru ni de shanliang de puren zhi lie."
+        },
+        {
+            "chapter": 27,
+            "verse": 20,
+            "text": "Ta ceng jianyue zhong niao, ta shuo: Wo zenme bujian dai sheng ne? Ta quexi ma?"
+        },
+        {
+            "chapter": 27,
+            "verse": 21,
+            "text": "Wo biding yanli de chengfa ta, huo sha diao ta, chufei ta dai yige mingzheng lai gei wo."
+        },
+        {
+            "chapter": 27,
+            "verse": 22,
+            "text": "Ta douliu bujiu, jiu laile, ta shuo: Wo zhidaole ni bu zhidao de shi, wo cong sai bai yi dai laile yige queshi de xiaoxi gei ni."
+        },
+        {
+            "chapter": 27,
+            "verse": 23,
+            "text": "Wo que yi faxian yige fu ren, tongzhi yizu ren, ta huode wanwu de xiangshou, ta you yige pangda de baozuo."
+        },
+        {
+            "chapter": 27,
+            "verse": 24,
+            "text": "Wo faxian ta he ta de chenmin dou she zhenzhu er chongbai taiyang, emo ceng yi tamen de xingwei, mihuo tamen, yizhi zu'ai tamen zou shang zhengdao, suoyi tamen bu zunxun zhengdao."
+        },
+        {
+            "chapter": 27,
+            "verse": 25,
+            "text": "Tamen bu chongbai zhenzhu--jieshi tiandi aomi, erqie shen zhi nimen suo yinhui he biaobai de zhu."
+        },
+        {
+            "chapter": 27,
+            "verse": 26,
+            "text": "Zhenzhu, chu ta wai, jue wu ying shou chongbai zhe, ta shi weida de baozuo de zhu.(Ci chu koutou!)※"
+        },
+        {
+            "chapter": 27,
+            "verse": 27,
+            "text": "Ta shuo: Wo yao kan kan ni jiujing shi chengshi de, haishi shuohuang de."
+        },
+        {
+            "chapter": 27,
+            "verse": 28,
+            "text": "Ni ba wo zhe feng xin dai qu tou gei tamen, ranhou, likai tamen, ni shikan tamen ruhe dafu."
+        },
+        {
+            "chapter": 27,
+            "verse": 29,
+            "text": "Ta shuo: Chen pumen a! Wo jie dao yi feng guizhong de xin."
+        },
+        {
+            "chapter": 27,
+            "verse": 30,
+            "text": "Zhe feng xin que shi su lai man ji lai de, zhe feng xin de neirong que shi'feng zhiren zhi ci de zhenzhu zhi ming."
+        },
+        {
+            "chapter": 27,
+            "verse": 31,
+            "text": "Nimen buyao dui wo aoman wu li, nimen yingdang lai guishun wo."
+        },
+        {
+            "chapter": 27,
+            "verse": 32,
+            "text": "Ta shuo: Chen pumen a! Guanyu wo de shi, wang nimen chu ge yijian. Wo conglai bu jueding renhe yi jian shi, zhidao nimen zai wo mianqian."
+        },
+        {
+            "chapter": 27,
+            "verse": 33,
+            "text": "Tamen shuo: Women ji you wuli, you you yongqi. Women dui ni wei ming shi cong, qing ni xiang yi xiang, ni yao women zuo shenme."
+        },
+        {
+            "chapter": 27,
+            "verse": 34,
+            "text": "Ta shuo: Guowangmen mei gong ru yige chengshi, bi pohuai qizhong de jianshe, bi shi qizhong guizu bian zai jianmin, tamen zhexie ren, ye hui zheyang zuo de."
+        },
+        {
+            "chapter": 27,
+            "verse": 35,
+            "text": "Wo biding yao pai ren song liwu qu gei tamen, ranhou, dengdaizhuo kan shi chen dai hui shenme xiaoxi lai."
+        },
+        {
+            "chapter": 27,
+            "verse": 36,
+            "text": "Dang shizhe daole su lai man de mianqian de shihou, ta shuo: Nimen zenme yi caichan lai zizhu wo ne? Zhenzhu suo ci wo de, shengguo ta suo ci nimen de. Buran, nimen wei nimen de liwu er yangyang deyi."
+        },
+        {
+            "chapter": 27,
+            "verse": 37,
+            "text": "Ni zhuan huiqu ba, wo biding tongshuai tamen wufa dikang de jundui qu taofa tamen, wo biding ba tamen beijian de zhu chu jingwai shi tamen chengwei shou lingru de."
+        },
+        {
+            "chapter": 27,
+            "verse": 38,
+            "text": "Ta shuo: Chen pumen a! Zai tamen lai guishun wo zhiqian, nimen zhong you shei neng ba ta de baozuo na lai gei wo ne?"
+        },
+        {
+            "chapter": 27,
+            "verse": 39,
+            "text": "Yige qiangliang de jingling shuo: Zai ni li xi zhiqian, wo ba ta na lai gei ni. Wo duiyu zhe jian shi que shi ji shengren, you zhongshi kekao de."
+        },
+        {
+            "chapter": 27,
+            "verse": 40,
+            "text": "Na shen zhi tian jing de ren shuo: Zhuan shunjian wo jiu ba ta na lai gei ni. Dang ta kanjian nage baozuo anzhi zai ta mianqian de shihou ta shuo: Zhe shi wo de zhu de enhui zhi yi, ta yu yi ci shiyan wo, kan wo shi ganxie zhe haishi gufu zhe. Ganxie zhe, zhi wei ziji de liyi er ganxie; gufu zhe (xuzhi) wo de zhu que shi wu qiu de, que shi zun rong de."
+        },
+        {
+            "chapter": 27,
+            "verse": 41,
+            "text": "Ta shuo: Nimen ba ta de baozuo gaizhuang yixia, yibian women kan ta neng fou renshi ziji de baozuo."
+        },
+        {
+            "chapter": 27,
+            "verse": 42,
+            "text": "Dang ta lai dao de shihou, youren shuo: Ni de baozuo xiang zheyang ma? Ta shuo: Zhe hao xiang shi wo de baozuo. Zai ta zhiqian, women yi huode zhishi, women yi shi guishun de."
+        },
+        {
+            "chapter": 27,
+            "verse": 43,
+            "text": "Ta she zhen zhu er chongbai de, fang'ai ta, ta ben shi shuyu bu xindao de minzhong."
+        },
+        {
+            "chapter": 27,
+            "verse": 44,
+            "text": "Youren dui ta shuo: Ni jin na gongdian qu ba! Dang ta kanjian na zuo gongdian de shihou ta yiwei gongdian li shi yipian wangyang,(jiu tiqi yishang) luchu ta de liang tiao xiaotui. Ta shuo: Zhe que shi yong boli zaocheng de guanghua de gongdian. Ta shuo: Wo de zhu a! Wo que shi zi qi de, wo (xianzai) genzhe su lai man guishun zhenzhu--quan shijie de zhu."
+        },
+        {
+            "chapter": 27,
+            "verse": 45,
+            "text": "Wo que yi paiqian sai mo de ren de xiongdi--sa li ha--qu jiaohua tamen (shuo): Nimen yingdang chongbai zhenzhu. Tamen like fen wei liang pai, huxiang zhenglun."
+        },
+        {
+            "chapter": 27,
+            "verse": 46,
+            "text": "Ta shuo wo de zongzu a! Nimen weisheme zai enhui zhiqian yaoqiu xingfa zaori shixian ne nimen zenme bu xiang zhenzhu qiurao, yibian nimen meng zhu de lianmin ne?"
+        },
+        {
+            "chapter": 27,
+            "verse": 47,
+            "text": "Tamen shuo: Women wei ni he ni de xintu er zao eyun. Ta shuo: Nimen de eyun shi zhenzhu zhuding de. Buran, nimen shi yao shou kaoyan de."
+        },
+        {
+            "chapter": 27,
+            "verse": 48,
+            "text": "Dangri, cheng li you jiu huo ren, zai difang shang shangfengbaisu, er bu yifengyisu,"
+        },
+        {
+            "chapter": 27,
+            "verse": 49,
+            "text": "tamen shuo: Nimen zhi zhenzhu huxiang mengshi ba! Tamen shuo: Women bi zai yejian mouhai ta, he ta de xintu. Ranhou, women bi dui ta de zhu shuo:'Ta de xintu yuhai de shihou, women meiyou zaichang, women que shi chengshi de ren."
+        },
+        {
+            "chapter": 27,
+            "verse": 50,
+            "text": "Tamen ceng yong yige jimou, wo ye ceng yong yige jimou, dan tamen buzhi bu jue."
+        },
+        {
+            "chapter": 27,
+            "verse": 51,
+            "text": "Ni kan tamen de jimou de jieju shi zenyang de.(Jieguo) shi wo ba tamen he tamen de zongzu, quanti huimiele."
+        },
+        {
+            "chapter": 27,
+            "verse": 52,
+            "text": "Naxie shi tamen de fangwu, yin tamen de bu yi er bian wei tanta de. Duiyu you zhishi de minzhong ci zhong que you yige jixiang."
+        },
+        {
+            "chapter": 27,
+            "verse": 53,
+            "text": "Wo ceng zhengjiule xindao erqie jingwei de renmen."
+        },
+        {
+            "chapter": 27,
+            "verse": 54,
+            "text": "(Wo ceng qian) lu te, dangri, ta dui ta de zongzu shuo: Nimen zenme mingmuzhangdan de gan choushi ne?"
+        },
+        {
+            "chapter": 27,
+            "verse": 55,
+            "text": "Nimen wubi yao she nuren er yi nanren manzu xingyu ma? Buran, nimen shi wu zhishi de minzhong."
+        },
+        {
+            "chapter": 27,
+            "verse": 56,
+            "text": "Tamen shuo: Nimen ba lu te de xintu zhu chucheng wai, yinwei tamen shi chunjie de minzhong. Zhe shi tamen weiyi de dafu."
+        },
+        {
+            "chapter": 27,
+            "verse": 57,
+            "text": "Wo jiu zhengjiule ta he ta de xintu, ta de qizi chuwai, wo yi yuding ta he qiyu de ren tong shou xingfa."
+        },
+        {
+            "chapter": 27,
+            "verse": 58,
+            "text": "Wo ceng jiang dayu qu shang tamen. Ceng shou jinggao zhe suo zao de yu zhen elie!"
+        },
+        {
+            "chapter": 27,
+            "verse": 59,
+            "text": "Ni shuo: Yiqie zansong, quan guizhenzhu. Zhu ta suo xuan de zhong pu ping'an. Jiujing shi zhenzhu geng hao ne? Haishi tamen yong lai pei zhenzhu de geng hao ne?"
+        },
+        {
+            "chapter": 27,
+            "verse": 60,
+            "text": "Shi nei tiandi de chuangzao zhe (geng hao), ta wei nimen cong yun zhong jiangxia yushui, yi peizhi meili de yuanpu, er nimen buneng shi yuanpu zhong de shumu shengzhang. Chu zhenzhu wai, nandao huan you ying shou chongbai de ma? Buran, tamen shi beimiu de minzhong."
+        },
+        {
+            "chapter": 27,
+            "verse": 61,
+            "text": "Haishi yi dadi wei anju zhi suo, shi zhu heliu guan qijian, shi zhu shan zhenya qi shang, bing zai liang hai zhi jian she yige pingzhang zhe ne? Chu zhenzhu wai, nandao huan you ying shou chongbai de ma? Buran, tamen daban buzhidao."
+        },
+        {
+            "chapter": 27,
+            "verse": 62,
+            "text": "Haishi na daying shounan zhe de qidao, er jiechu qi zaihai, qie yi nimen wei dadi de dai zhi zhe ne? Chu zhenzhu wai, nandao huan you ying shou chongbai de ma? Nimen hen shao juewu."
+        },
+        {
+            "chapter": 27,
+            "verse": 63,
+            "text": "Haishi na zai lu hai de chongchong hei'an zhong yindao nimen, zai jiang qi enhui zhiqian, shi feng wei chuan jiayin zhe ne? Chu zhenzhu wai, nandao huan you ying shou chongbai de ma? Zhenzhu chao hu tamen yong lai pei ta de."
+        },
+        {
+            "chapter": 27,
+            "verse": 64,
+            "text": "Haishi na chuangzao wanwu, ranhou jiayi fu zao, bing cong tianshang dixia gong nimen jiyang zhe ne? Chu zhenzhu wai, nandao huan you ying shou chongbai de ma? Ni shuo: Nimen na nimen de zhengju lai ba, ruguo nimen shi chengshi de."
+        },
+        {
+            "chapter": 27,
+            "verse": 65,
+            "text": "Ni shuo: Chu zhenzhu wai, zai tiandi jian de, bu zhi youxuan, tamen bu zhidao shenme shihou fuhuo."
+        },
+        {
+            "chapter": 27,
+            "verse": 66,
+            "text": "Nandao tamen guanyu houshi de zhishi yijing chengshule ma? Buran, tamen duiyu houshi shi huaiyi de. Buran, tamen duiyu houshi shi mangmu di."
+        },
+        {
+            "chapter": 27,
+            "verse": 67,
+            "text": "Bu xindao de ren shuo: Nandao women he women de zuxian hai yao bei fuhuo qilai ma?"
+        },
+        {
+            "chapter": 27,
+            "verse": 68,
+            "text": "Women he women de zuxian, yiqian que yi tingguo zhe yi lei de konghe, zhege zhishi guren de shenhua."
+        },
+        {
+            "chapter": 27,
+            "verse": 69,
+            "text": "Ni shuo: Nimen yingdang zai dimian shang luxing, yin'er guancha fanzui ren de jieju shi zenyang de."
+        },
+        {
+            "chapter": 27,
+            "verse": 70,
+            "text": "Ni buyao wei tamen de (beini) er youchou, buyao wei tamen de jimou er fanmen."
+        },
+        {
+            "chapter": 27,
+            "verse": 71,
+            "text": "Tamen shuo: Zhege jinggao shenme shihou shixian ne? Ruguo nimen shi chengshi de."
+        },
+        {
+            "chapter": 27,
+            "verse": 72,
+            "text": "Ni shuo: Nimen yaoqiu zaori shixian de, huoxu you yibufen shi linjin nimen de."
+        },
+        {
+            "chapter": 27,
+            "verse": 73,
+            "text": "Ni de zhu duiyu shiren, que shi you da en de, dan tamen daban shi bu ganxie de."
+        },
+        {
+            "chapter": 27,
+            "verse": 74,
+            "text": "Ni de zhu, dique zhidao tamen de xiongzhong yinni de he tamen suo biaobai de."
+        },
+        {
+            "chapter": 27,
+            "verse": 75,
+            "text": "Tianshang dixia, meiyou yi jian yin wei de shiwu, bu jilu zai yi ben mingbai de tian jing zhong."
+        },
+        {
+            "chapter": 27,
+            "verse": 76,
+            "text": "Zhe bu “gulanjing”, dique ba yiselie de houyi suo zhenglun de da bufen de shili gaosu tamen."
+        },
+        {
+            "chapter": 27,
+            "verse": 77,
+            "text": "Zhe bu “gulanjing” duiyu xindao zhe que shi xiangdao he enhui."
+        },
+        {
+            "chapter": 27,
+            "verse": 78,
+            "text": "Ni de zhu, bi wei ta yizhao ta de jueding er caipan. Ta que shi wanneng de, que shi quanzhi de."
+        },
+        {
+            "chapter": 27,
+            "verse": 79,
+            "text": "Ni yingdang xinlai zhen zhu, ni que shi ju you mingbai de zhenli de."
+        },
+        {
+            "chapter": 27,
+            "verse": 80,
+            "text": "Ni biding buneng shi siren ting (ni jiang dao). Ni biding buneng shi tuibi de longzi ting ni zhaohuan."
+        },
+        {
+            "chapter": 27,
+            "verse": 81,
+            "text": "Ni jue buneng yindao xiazi likai mi wu. Ni zhi neng shi xin wo de jixiang de ren, ting ni (jiang dao), tamen yin'er chengyi xindao."
+        },
+        {
+            "chapter": 27,
+            "verse": 82,
+            "text": "Dang yuyan dui tamen shixian de shihou, wo jiang shi yi zhong dongwu cong di zhong chusheng, shanghai tamen, yinwei zhongren buxin wo de jixiang."
+        },
+        {
+            "chapter": 27,
+            "verse": 83,
+            "text": "Zai na ri, wo jiang cong mei ge minzu zhong, jihe yiqun buxin wo de jixiang de ren, er tamen shi bei pailie de zheng zhengqi qi de."
+        },
+        {
+            "chapter": 27,
+            "verse": 84,
+            "text": "Dengdao tamen lai dao (zhenzhu) nali de shihou, ta shuo: Nimen meiyou chedi zhidao wo de jixiang jiu jiayi fouren ma? Nimen jiujing zuole shenme ne?"
+        },
+        {
+            "chapter": 27,
+            "verse": 85,
+            "text": "Yuyan jiang dui tamen de bu yi er dui tamen shixian, suoyi tamen ya kou wu yan."
+        },
+        {
+            "chapter": 27,
+            "verse": 86,
+            "text": "Nandao tamen buzhidao ma? Wo yi heiye zuo tamen de anxi shijian, yi baizhou zuo tamen guankan de shijian, duiyu xindao de minzhong qizhong que you xuduo jixiang."
+        },
+        {
+            "chapter": 27,
+            "verse": 87,
+            "text": "Zai na ri, jiang chui haojiao, chu zhenzhu suo yiyu de wai, fan zai tianshang dixia de dou yao kongbu, ge ge dou yao beijian de lai dao zhenzhu nali."
+        },
+        {
+            "chapter": 27,
+            "verse": 88,
+            "text": "Ni jian qun shan er yiwei dou shi guding de, qishi qun shan du xiang xing yun yang shiqu. Na shi jingzhi wanwu de zhenzhu dehuagong, ta que shi che zhi nimen de xingwei de."
+        },
+        {
+            "chapter": 27,
+            "verse": 89,
+            "text": "Xingshan de ren jiang huode geng jia de baochou, zai na ri, tamen jiang de mian yu kongbu."
+        },
+        {
+            "chapter": 27,
+            "verse": 90,
+            "text": "Zuo e de ren, jiang pufuzhe touru huo yu: Nimen zhi shou nimen de xingwei de baochou."
+        },
+        {
+            "chapter": 27,
+            "verse": 91,
+            "text": "(Ni shuo): Wo zhi fengming chongbai zhe chengshi de zhu, ta ceng yi zhe chengshi wei jindi. Wanwu dou shi ta suoyou de. Wo yi fengming zuo yige guishun de ren,"
+        },
+        {
+            "chapter": 27,
+            "verse": 92,
+            "text": "bing xuandu “gulanjing”. Shei zunxun zhengdao, shei zi shou qi yi; shei wu ru qitu, ni dui shei shuo: Wo zhishi yige jinggao zhe."
+        },
+        {
+            "chapter": 27,
+            "verse": 93,
+            "text": "Ni shuo: Yiqie zansong, quan guizhenzhu, ta jiang xianshi gei nimen ta de jixiang, nimen jiu renshi ta. Ni de zhu, bing bu hushi nimen de xingwei."
+        },
+        {
+            "chapter": 28,
+            "verse": 1,
+            "text": "Ta, xin, mi mu."
+        },
+        {
+            "chapter": 28,
+            "verse": 2,
+            "text": "Zhexie shi mingbai de jingdian de jie wen."
+        },
+        {
+            "chapter": 28,
+            "verse": 3,
+            "text": "Wo benzhe zhenli, wei xindao de minzhong er dui ni xushu mu sa he falao de shiji."
+        },
+        {
+            "chapter": 28,
+            "verse": 4,
+            "text": "Falao que yi zai guo zhong aoman, ta ba guomin fencheng xuduo zongpai, er qifu qizhong de yipai ren; tusha tamen de nanhai, baoquan tamen de nuhai. Ta que shi shangfengbaisu de."
+        },
+        {
+            "chapter": 28,
+            "verse": 5,
+            "text": "Wo yao ba endian shangci gei da dishang shou qifu de ren, wo yao yi tamen wei biaoshuai, wo yao yi tamen wei jicheng zhe,"
+        },
+        {
+            "chapter": 28,
+            "verse": 6,
+            "text": "wo yao shi tamen zai da dishang deshi, wo yao zhaoshi falao, ha man he tamen lia de jundui, duiyu zhexie bei qifu zhe de tifang de shi."
+        },
+        {
+            "chapter": 28,
+            "verse": 7,
+            "text": "Wo ceng qishi mu sa de muqin (shuo): Ni yingdang buru ta, dang ni pa ta shouhai de shihou, ni ba ta tou zai he li, ni buyao weiju, buyao youchou, wo biding yao ba ta song hai ni, wo biding yao renming ta wei shizhe."
+        },
+        {
+            "chapter": 28,
+            "verse": 8,
+            "text": "Falao de shicong ceng shiqule ta, yizhi ta chengwei tamen de diren he youhuan. Falao, ha man he ta lia de jundui, que shi cuowu de."
+        },
+        {
+            "chapter": 28,
+            "verse": 9,
+            "text": "Falao de qizi shuo:(Zhe) shi wo he ni de weiji. Nimen buyao sha ta, yexu ta you liyu women, huozhe women ba ta shou wei yi zi.(Tamen tingcong ta de hua), tamen bu zhi bu jue."
+        },
+        {
+            "chapter": 28,
+            "verse": 10,
+            "text": "Mu sa de muqin de xin, bian cheng kongxu de. Ruo bushi wo shi ta an xiaxin lai, yi shi ta chengwei xindao de ren, ta jihu baolu zhenqingle."
+        },
+        {
+            "chapter": 28,
+            "verse": 11,
+            "text": "Ta dui ta de jiejie shuo: Ni zhuizhe ta qu ba. Ta jiu yuan yuan di kuice ta, tamen hao bu zhijue."
+        },
+        {
+            "chapter": 28,
+            "verse": 12,
+            "text": "Yiqian, wo jinzhi ta chi renhe ren de nai, ta de jiejie jiu shuo: Wo jieshao nimen yijia ren, ti nimen yangyu ta, tamen shi zhongyu ta, hao ma?"
+        },
+        {
+            "chapter": 28,
+            "verse": 13,
+            "text": "Yushi, wo ba ta song hai ta de muqin, yibian ta huode wei ji, bu zai youchou, erqie zhidao zhenzhu de yingxu shi zhenshi de, dan tamen daban bu zhidao."
+        },
+        {
+            "chapter": 28,
+            "verse": 14,
+            "text": "Dang ta tige qiangzhuang, zhili jianquan de shihou, wo shangci ta zhihui he xueshi. Wo yao zheyang baochou shanren."
+        },
+        {
+            "chapter": 28,
+            "verse": 15,
+            "text": "Cheng cheng li de ren shuhu de shihou, ta zou jin cheng lai, bing zai cheng li faxianle liang geren zhengzai zhengdou, zhege shi shuyu ta de zongzu, nage shi shuyu ta de diren, shuyu tongzu de ren yaoqiu ta bangzhe duifu ta de diren, mu sa jiu ba na diren yi quan da si. Ta shuo: Zhe shi youyu emo de youhuo, emo que shi miren de ming di."
+        },
+        {
+            "chapter": 28,
+            "verse": 16,
+            "text": "Ta shuo: Wo de zhu a! Wo que yi zi qile, qiu ni raoshu wo ba. Zhen zhu jiu raoshule ta, ta que shi zhi she de, que shi zhi ci de."
+        },
+        {
+            "chapter": 28,
+            "verse": 17,
+            "text": "Ta shuo: Wo de zhu a! Wo jie ni suo ci wo de endian er qiu ni baoyou wo, wo jue bu zuo fanzui zhe de zhushou."
+        },
+        {
+            "chapter": 28,
+            "verse": 18,
+            "text": "Ci ri zaochen, ta zai cheng li zhanzhanjingjing de. Zuori xiang ta qiujiu di nageren huran you xiang ta gao sheng qiujiu. Mu sa dui ta shuo: Ni que shi mingxian de mi wu zhe."
+        },
+        {
+            "chapter": 28,
+            "verse": 19,
+            "text": "Dang ta yu pu ji ta lia de diren de shihou, qiujiu di nage ren shuo: Mu sa a! Ni yao xiang zuori sharen yang sha wo ma? Ni zhi xiang zuo zhe difang de baonue zhe, que buxiang zuo tiaojie zhe."
+        },
+        {
+            "chapter": 28,
+            "verse": 20,
+            "text": "Youyi ge ren, cong cheng de ji yuan chu mang lai shuo: Mu sa a! Chen pumen dique zhengzai shangyi yao sha ni, ni kuai chuzou ba. Wo que shi zhongyu ni de."
+        },
+        {
+            "chapter": 28,
+            "verse": 21,
+            "text": "Ta jiu cong cheng li zhanzhanjingjing de tao chulaile, ta shuo: Wo de zhu a! Qiu ni shi wo tuo li bu yi de minzhong."
+        },
+        {
+            "chapter": 28,
+            "verse": 22,
+            "text": "Dang ta yi quxiang mai de yan de shihou, ta shuo: Wo de zhu yexu zhishi wo zhengdao."
+        },
+        {
+            "chapter": 28,
+            "verse": 23,
+            "text": "Dang ta lai dao mai de yan de quan bian de shihou, ta kanjian youyiqun ren zai nali yin yang, ta faxian chu tamen wai hai you liang nuzi, lanzhe tamen lia de yang qun. Ta shuo: Nimen lia weisheme zheyang ne? Ta lia shuo: Women yao dao mu renmen shi tamen de yang likai quanshui, cai de yin women de yang, women de fuqin shi yi wei long zhong de laoren."
+        },
+        {
+            "chapter": 28,
+            "verse": 24,
+            "text": "Ta jiu ti ta lia yin yang, ranhou tui dao shu yin xia, ta shuo: Wo de zhu a! Wo que xuqiu ni suo jiang gei wo de renhe fuli de."
+        },
+        {
+            "chapter": 28,
+            "verse": 25,
+            "text": "Na liang ge nuzi zhong de yige, xiuse de lai dui ta shuo: Wo de fuqin dique yao qing ni qu, yao chouxie ni ti women yin yang de gonglao. Dang ta lai dao ta mianqian, bingqie gaosu ta ziji de shiqing de shihou, ta shuo: Ni buyao weiju, ni yi tuo li bu yi de minzhongle."
+        },
+        {
+            "chapter": 28,
+            "verse": 26,
+            "text": "Na liang ge nuzi zhong de yige shuo: Wo de fuqin a! Qing ni guyong ta. Ni zui hao guyong zhege you qiangzhuang you zhongshi de ren."
+        },
+        {
+            "chapter": 28,
+            "verse": 27,
+            "text": "Ta shuo: Wo biding yi wo de zhe liang ge nu'er zhong de yige jia gei ni, dan ni bixu ti wo zuo ba nian gong. Ruguo ni zuo man shi nian, na shi ni ziyuan de, wo bu yuan keqiu yu ni. Ruguo zhenzhu yiyu, ni jiang faxian wo shi yige shanren."
+        },
+        {
+            "chapter": 28,
+            "verse": 28,
+            "text": "Ta shuo: Zhe shi wo yu ni suo ding de hetong, wo wulun zuo man na yige qixian duiyu wo du buke you guofen de yaoqiu. Zhenzhu shi jiancha women de yue yan de."
+        },
+        {
+            "chapter": 28,
+            "verse": 29,
+            "text": "Dang mu sa yi zuo man qixian, er daizhe ta de jiashu luxing de shihou, ta kanjian na zuo shan de zhe bian you yi chu huoguang, ta dui ta de jiashu shuo: Nimen dengdai yixia, wo que yi kanjian yi chu huoguang, yexu wo cong huoguang di nali dai yige xiaoxi lai gei nimen, huo dai yige huoba lai gei nimen kaohuo."
+        },
+        {
+            "chapter": 28,
+            "verse": 30,
+            "text": "Ta yi lai dao nage huoguang de fujin, shangu de you'an shang, you conglin de jixiang chu, fachu husheng shuo: Mu sa a! Wo que shi zhenzhu--quan shijie de zhu,"
+        },
+        {
+            "chapter": 28,
+            "verse": 31,
+            "text": "ni pao xia ni de shouzhang ba. Ta kanjian na tiao shouzhang wan yan ru she, jiu zhuanlian tuibi, bu gan zhuan huiqu. Mu sa, ni zouxiang qian lai, buyao weiju, ni que shi anquan de,"
+        },
+        {
+            "chapter": 28,
+            "verse": 32,
+            "text": "ni ba ni de shou charu huai zhong, ta jiang bailiang liang de chou chulai, que wu eji. Ni wei kongbu er ba ni de shou suo huiqu ba. Zhe liang jian shi ni de zhu suo jiang shi falao he ta de chen pumen de zhengju, tamen que shi fangdang de minzhong."
+        },
+        {
+            "chapter": 28,
+            "verse": 33,
+            "text": "Ta shuo: Wo de zhu a! Wo que yi shaguo tamen zhong de yige ren, suoyi wo pa tamen sha wo."
+        },
+        {
+            "chapter": 28,
+            "verse": 34,
+            "text": "Wo di gege ha lun, koucai bi wo hao, qiu ni pai ta tong wo qu, zuo wo de zhushou, zhengshi wo de shiming; wo dique pa tamen fouren wo."
+        },
+        {
+            "chapter": 28,
+            "verse": 35,
+            "text": "Zhenzhu shuo: Wo jiang yi ni di gege zhu ni yibizhili, wo yao gei nimen lia yi zhong quanli, suoyi tamen buneng shanghai nimen lia. Nimen lia he shuncong nimen lia de, jiang jie wo de jixiang er wei shengli zhe."
+        },
+        {
+            "chapter": 28,
+            "verse": 36,
+            "text": "Dang mu sa yi daizhe wo de xuduo mingxian de jixiang lai dao tamen mianqian de shihou, tamen shuo: Zhege zhishi niezao de moshu, women meiyou tingjian zai women de zuxian (de shidai) you zhe jian dongxi."
+        },
+        {
+            "chapter": 28,
+            "verse": 37,
+            "text": "Mu sa shuo: Wo de zhu zhidao shei dai laile cong ta nali jianglin de zhengdao, shei de xiangshou houshi de shan guo. Bu yi de ren biding bu hui chenggong."
+        },
+        {
+            "chapter": 28,
+            "verse": 38,
+            "text": "Falao shuo: Chen pumen a! Wo bu zhidao chu wo wai hai you bie de shenling. Ha man a! Ni yingdang ti wo shao zhuan, ranhou ti wo jianzhu yizuo gaolou, yexu wo de kuijian mu sa de zhuzai. Wo dique caixiang ta shi yige shuohuang zhe."
+        },
+        {
+            "chapter": 28,
+            "verse": 39,
+            "text": "Ta he ta de jundui, zai guo zhong wangzizunda, tamen caixiang ziji bu bei zhao guiyu wo."
+        },
+        {
+            "chapter": 28,
+            "verse": 40,
+            "text": "Wo jiu chengzhi ta he ta de jundui, ba tamen touru haizhong. Ni kan kan bu yi zhe de jieju shi zenyang de."
+        },
+        {
+            "chapter": 28,
+            "verse": 41,
+            "text": "Wo yi tamen wei zhao ren yu huo yu de zuikui, fuhuo ri, tamen jiang bu huo yuanzhu."
+        },
+        {
+            "chapter": 28,
+            "verse": 42,
+            "text": "Zai jinshi wo shi zu ma zhuisui tamen; fuhuo ri, tamen de mianmu jiang bian cheng chou'e de."
+        },
+        {
+            "chapter": 28,
+            "verse": 43,
+            "text": "Zai huimie yuangu de ge shidai zhihou, wo que yi ba jingdian shangci mu sa, yi zuo shiren de mingzheng, xiangdao he enhui, yibian tamen jinian."
+        },
+        {
+            "chapter": 28,
+            "verse": 44,
+            "text": "Dang wo yi wo de mingling qishi mu sa de shihou, ni meiyou zai xishan bian, ye meiyou qinyan kanjian."
+        },
+        {
+            "chapter": 28,
+            "verse": 45,
+            "text": "Dan wo chuangzaole xuduo shiji, naxie shidai cengjingguo manchang de suiyue. Ni meiyou juzhu zai mai de yan ren zhi jian, dui tamen xuandu wo de jixiang, dan wo shi paiqian shizhe de."
+        },
+        {
+            "chapter": 28,
+            "verse": 46,
+            "text": "Dang wo zhaohuan (mu sa) de shihou, ni meiyou zai shan bian, dan zhe shi cong ni de zhu jiangxia de enhui, yibian ni jinggao zai ni zhiqian meiyou renhe jinggao zhe ceng jianglin tamen di naxie minzhong, yibian tamen jinian."
+        },
+        {
+            "chapter": 28,
+            "verse": 47,
+            "text": "Ruo bushi tamen jiang wei ziji fanzui er zaoyang, bingqie shuo: Women de zhu a! Ni zenme bu pai yige shizhe lai jiaohua women, shi women zunshou ni de jixiang, er wei xinshi ne?"
+        },
+        {
+            "chapter": 28,
+            "verse": 48,
+            "text": "Dang wo suo qishi de zhenli jianglin tamen de shihou, tamen shuo: Ta weisheme buneng huode xiang mu sa suo huode de jixiang ne? Nandao tamen meiyou fouren yiqian mu sa suo huode de jixiang ma? Tamen ceng shuo: Shi liang zhong huxiang yinzheng de moshu. Tamen ceng shuo: Women biding yigai dou buxin."
+        },
+        {
+            "chapter": 28,
+            "verse": 49,
+            "text": "Ni shuo: Ruguo nimen shi chengshi de ren, namo, nimen na yi bu jingdian lai, zhiyaoshi zhenzhu suo qishi de, bingqie shi bi zhe liang bu jingdian geng neng yindao renlei de, wo jiu zunshou ta."
+        },
+        {
+            "chapter": 28,
+            "verse": 50,
+            "text": "Ruguo tamen bu daying ni, namo, ni yingdang zhidao tamen zhishi shuncong ziji de siyu. She zhenzhu suo qishi de zhengdao, er shuncong ziji de siyu zhe, you shei bi ta geng mi wu ne? Zhenzhu biding bu yindao bu yi de minzhong."
+        },
+        {
+            "chapter": 28,
+            "verse": 51,
+            "text": "Wo que yi xu shi zhenyan, yibian tamen jinian."
+        },
+        {
+            "chapter": 28,
+            "verse": 52,
+            "text": "Zai qishi zhe zhenyan zhiqian, ceng meng wo shangci tian jing de ren, shi quexin zhe zhenyan de."
+        },
+        {
+            "chapter": 28,
+            "verse": 53,
+            "text": "Dang youren dui tamen xuandu zhe zhenyan de shihou, tamen shuo: Women quexin zhe zhenyan, ta que shi cong women de zhu jiang shi de, zai jiang shi ta zhiqian, women que shi guishun de."
+        },
+        {
+            "chapter": 28,
+            "verse": 54,
+            "text": "Zhe deng ren, yin neng jianren, qie neng yidebaoyuan, bing fen she wo suo ciyu tamen de, gu de jiabei de baochou."
+        },
+        {
+            "chapter": 28,
+            "verse": 55,
+            "text": "Dang tamen ting dao e yan de shihou, liji tuibi, tamen shuo: Women you women de xingwei, nimen you nimen de xingwei. Zhu nimen ping'an! Women bu qiu yuren de youyi."
+        },
+        {
+            "chapter": 28,
+            "verse": 56,
+            "text": "Ni biding buneng shi ni suo xi'ai de ren zunxun zhengdao, zhenzhu que neng shi tasuo yiyu de ren zunxun zhengdao, ta zhidao shei shi zunxun zhengdao zhe."
+        },
+        {
+            "chapter": 28,
+            "verse": 57,
+            "text": "Tamen shuo: Ruguo women yu ni gongtong zunshou zhengdao, women jiang bei quzhu chujing. Nandao wo meiyou wei tamen er sheli yige anquan de jindi ma? Ge zhong de guoshi, dou fanyun dao jindi zhong lai, na shi cong wo jiangxia de jiyang, dan tamen daban bu zhidao."
+        },
+        {
+            "chapter": 28,
+            "verse": 58,
+            "text": "Wo ceng huimie xuduo chengshi, naxie chengshi li de jumin,guo yi zhong jiao she de shenghuo. Zhexie shi tamen de juzhu di, cong tamen miewang zhihou, chu hen shao de shijian wai, wu ren juzhu; wo shi tamen de jicheng."
+        },
+        {
+            "chapter": 28,
+            "verse": 59,
+            "text": "Ni de zhu, bu hui huimie ge chengshi, zhidao ta zai shou yi zhong paiqian yige shizhe, dui ge chengshi de jumin xuandu ta de jixiang. Wo bu hui huimie ge chengshi, chufei chengshi li de jumin duo xing bu yi."
+        },
+        {
+            "chapter": 28,
+            "verse": 60,
+            "text": "Nimen suo shou ci de, wulun shenme, dou shi jinshi shenghuo de jiyang he zhuangshi, zai zhenzhu nali de (baochou) shi geng youliang de, shi geng changjiu de. Nandao nimen bu lijie ma?"
+        },
+        {
+            "chapter": 28,
+            "verse": 61,
+            "text": "Dedao wo di meihao de yingxu, er jiang huode shihui de ren, yu zai jinshi shenghuo zhong huode wo de jiyang er zai fuhuo ri bei chuanhuan zhe, bici xiangsi ma?"
+        },
+        {
+            "chapter": 28,
+            "verse": 62,
+            "text": "Zai na ri, zhenzhu jiang zhaohuan tamen shuo: Nimen suo wangcheng wo de huoban zhe, rujin zai nali ne?"
+        },
+        {
+            "chapter": 28,
+            "verse": 63,
+            "text": "Shou panjue de renmen shuo: Women de zhu a! Women ceng shi zhexie ren mi wu, guran women mi wu tamen, dan tamen xiang women ziji yiyang mi wule. Women xiang ni shengming: Women yu tamen wugan, tamen meiyou chongbai women."
+        },
+        {
+            "chapter": 28,
+            "verse": 64,
+            "text": "Jiang yong shengyin zhaohuan tamen shuo: Nimen ba nimen de pei zhu zhaohuan lai ba! Tamen jiu zhaohuan tamen, dan tamen bu daying, tamen ziji kanjian xingfa, jiu xiwang tamen shengqian shi zunxun zhengdao de."
+        },
+        {
+            "chapter": 28,
+            "verse": 65,
+            "text": "Zai na ri, zhenzhu jiang zhaohuan tamen shuo: Nimen suoyong yi dafu shizhemen de shi shenme ne?"
+        },
+        {
+            "chapter": 28,
+            "verse": 66,
+            "text": "Zai na ri, yiqie kougong jiang dui tamen bian cheng aimei de, suoyi tamen bu xiang xunwen."
+        },
+        {
+            "chapter": 28,
+            "verse": 67,
+            "text": "Zhiyu huizui, xindao he xingshan de ren, huoxu shi chenggong de."
+        },
+        {
+            "chapter": 28,
+            "verse": 68,
+            "text": "Ni de zhu, chuangzao tasuo yiyu de, xuanze tasuo yiyu de, tamen meiyou xuanze de quanli. Zansong zhenzhu, chaojue wanwu, ta chao hu tamen suoyong lai pei ta de."
+        },
+        {
+            "chapter": 28,
+            "verse": 69,
+            "text": "Ni de zhu zhidao tamen de xiongzhong suo yincang de he tamen (de koutou) suo biaobai de."
+        },
+        {
+            "chapter": 28,
+            "verse": 70,
+            "text": "Ta shi zhenzhu, chu ta wai, jue wu ying shou chongbai de, jinshi houshi de zansong quan gui ta, panjue zhi you ta zuochu. Nimen zhi bei zhao guiyu ta."
+        },
+        {
+            "chapter": 28,
+            "verse": 71,
+            "text": "Ni shuo: Nimen gaosu wo ba! Ruguo zhenzhu shi heiye wei nimen yanchang dao fuhuo ri, namo, chu zhenzhu wai, na yige shenling neng ba guangming dai lai gei nimen ne? Nandao nimen bu hui tinghua ma?"
+        },
+        {
+            "chapter": 28,
+            "verse": 72,
+            "text": "Ni shuo: Nimen gaosu wo ba! Ruguo zhenzhu shi baizhou wei nimen yanchang dao fuhuo ri, namo, chu zhenzhu wai, na yige shenling neng ba heiye dai lai gei nimen, yibian nimen anxi ne? Nandao nimen bu hui guancha ma?"
+        },
+        {
+            "chapter": 28,
+            "verse": 73,
+            "text": "Ta wei lianxu nimen er wei nimen chuangzao heiye he baizhou, yibian nimen zai heiye anxi, er zai baizhou xunqiu ta de enhui, yibian nimen ganxie."
+        },
+        {
+            "chapter": 28,
+            "verse": 74,
+            "text": "Zai na ri, ta jiang zhaohuan tamen shuo: Nimen suo wangcheng wei wo de huoban de, rujin zai nali ne?"
+        },
+        {
+            "chapter": 28,
+            "verse": 75,
+            "text": "Wo jiang cong mei yige minzu zhong xian ba yige zhengren, bingqie shuo: Nimen ba nimen de zhengju na lai ba! Tamen cai zhidao zhenli shi zhenzhu de, tamen shengqian suo weizao de, yi huibi tamenle."
+        },
+        {
+            "chapter": 28,
+            "verse": 76,
+            "text": "Ge lun dique shuyu mu sa de zongzu, dan ta nuedai tamen. Wo ceng shangci ta xuduo caibao, naxie caibao de yao shi shi ji ge lishi suo buneng sheng ren de. Dangri, ta de zongzu dui ta shuo: Buyao kuangxi, zhenzhu que shi bu ai kuangxi zhe."
+        },
+        {
+            "chapter": 28,
+            "verse": 77,
+            "text": "Ni yingdang jie zhenzhu shangci ni de caifu er ying mou houshi de zhuzhai, ni buyao wangque ni zai jinshi de ding fen. Ni dang yi shandai ren, xiang zhenzhu yi shandai ni yiyang. Ni buyao zai difang shang bainong shifei, zhenzhu que shi bu ai bainong shifei zhe."
+        },
+        {
+            "chapter": 28,
+            "verse": 78,
+            "text": "Ta shuo: Wo huode zhe xiang caifu, zhishi yinwei wo you teshu de zhishi bale. Nandao ta bu zhidao ma? Zai ta zhiqian, zhenzhu suo huimie de ge shidai de eren, you bi ta nengli geng qiang, jixu geng duo de. Fanzui de ren, shi bubi jiayi shenwen de."
+        },
+        {
+            "chapter": 28,
+            "verse": 79,
+            "text": "Ge lun ceng shengzhuang chuyou, yi haohua kuashi ziji de zongzu. Ai jinshi shenghuo de ren shuo: Dan yuan women huode ge lun suo huode de (caifu), ta que shi you dafu fen de."
+        },
+        {
+            "chapter": 28,
+            "verse": 80,
+            "text": "You xueshi de ren shuo: Shang zai nimen! Zhenzhu de baochou, duiyu xindao erqie xingshan de ren, shi geng hao de, zhiyou jianren de ren de xiangshou na zhong baochou."
+        },
+        {
+            "chapter": 28,
+            "verse": 81,
+            "text": "Wo shi ta he ta de fangwu lunxian zai dimian xia, ta meiyou dangyu xiezhu ta dikang zhenzhu, ta ye buneng ziwei."
+        },
+        {
+            "chapter": 28,
+            "verse": 82,
+            "text": "Zuotian xianmu ge lun de jingyu de ren shuo: Ni bujian ma? Zhenzhuyao shi nage puren de jiyang kuanyu, jiu shi ta kuanyu;(yao shi nage puren de jiyang jiongpo), jiu shi ta jiongpo. Jiaruo meiyou zhenzhu dui women de endian, ta bi shi women lunxian zai dimian xia. Ni bu zhidao ma? Gu en de ren, shi bu hui chenggong de."
+        },
+        {
+            "chapter": 28,
+            "verse": 83,
+            "text": "Zhe shi houshi de zhuzhai, wo yao yong lai fu da na bu yuan aoman ye bu yuan duoluo de ren. Shan guo zhi gui jingwei de ren."
+        },
+        {
+            "chapter": 28,
+            "verse": 84,
+            "text": "Xingshan de ren jiang de geng hao de baochou, zuo'e de ren, zhi shou zuo'e shi de baochou."
+        },
+        {
+            "chapter": 28,
+            "verse": 85,
+            "text": "Ba “gulanjing” jiang shi gei ni, bi shi ni fu fan guxiang. Ni shuo: Wo de zhu zhidao shei shi zhaoshi zhengdao de, shei shi zai mingxian de mi wu zhong de."
+        },
+        {
+            "chapter": 28,
+            "verse": 86,
+            "text": "Ni bing wei xiwang zhenzhu ba zhe bu jingdian shangci ni, dan na shi youyu ni de zhu de enhui. Ni jue buyao zuo bu xindao zhe de zhushou."
+        },
+        {
+            "chapter": 28,
+            "verse": 87,
+            "text": "Zhenzhu de jixiang jiang shi ni zhihou, ni jue buyao ren tamen fang'ai ni xuanyang naxie jixiang. Ni yingdang zhao ren lai guishun ni de zhu, ni jue buyao zuo yi wu pei zhu zhe."
+        },
+        {
+            "chapter": 28,
+            "verse": 88,
+            "text": "Chu zhenzhu wai, ni buyao qidao bie de renhe shenling, chu ta wai, jue wu ying shou chongbai de. Chu ta de benti wai, wanwu dou yao huimie. Panjue zhi you ta zuochu, nimen zhi bei zhao guiyu ta."
+        },
+        {
+            "chapter": 29,
+            "verse": 1,
+            "text": "Ai lie fu, lia mu, mi mu."
+        },
+        {
+            "chapter": 29,
+            "verse": 2,
+            "text": "Zhongren yiwei tamen de ziyou de shuo: Women yi xindaole er bu shou kaoyan ma?"
+        },
+        {
+            "chapter": 29,
+            "verse": 3,
+            "text": "Wo que yi kaoyan zai tamen zhiqian de ren. Zhenzhu biding yao zhidao shuo shihua zhe, biding yao zhidao shuohuang zhe."
+        },
+        {
+            "chapter": 29,
+            "verse": 4,
+            "text": "Nandao zuo e de ren yiwei tamen neng tao chu wo de fawang ma? Tamen de panding zhen elie!"
+        },
+        {
+            "chapter": 29,
+            "verse": 5,
+            "text": "Fan xiwang huijian zhenzhu zhe, shei dou yingdang zhidao zhenzhu de qixian shi biding jianglin de, zhenzhu que shi quan cong de, que shi quanzhi de."
+        },
+        {
+            "chapter": 29,
+            "verse": 6,
+            "text": "Fan fendou zhe, dou zhi wei ziji er fendou, zhenzhu que shi wu qiu yu quan shijie de."
+        },
+        {
+            "chapter": 29,
+            "verse": 7,
+            "text": "Xindao erqie xingshan zhe, wo biding gouxiao tamen de zui'e, wo biding yi tamen de xingwei de zui you de baochou shangci tamen."
+        },
+        {
+            "chapter": 29,
+            "verse": 8,
+            "text": "Wo ceng ming ren xiaojing fumu; ruguo ta lia leling ni yong ni suo bu zhidao de dongxi pei wo, namo, ni buyao fucong ta lia. Nimen yao guiyu wo, wo yao ba nimen de xingwei gaosu nimen."
+        },
+        {
+            "chapter": 29,
+            "verse": 9,
+            "text": "Xindao heng erqie xingshan zhe, wo biding shi tamen ru yu shanren zhi lie."
+        },
+        {
+            "chapter": 29,
+            "verse": 10,
+            "text": "Youxie ren shuo: Women yi xin zhenzhule. Dang tamen wei zhenzhu er shou pohai de shihou, tamen ba zhongren de pohai dangzuo zhenzhu de xingfa. Ruguo yuanzhu cong nimen de zhu jianglin, tamen biding shuo: Women que shi yu nimen tong zai yiqi de. Nandao zhenzhu bushi zhidao shiren de xiongjin de ma?"
+        },
+        {
+            "chapter": 29,
+            "verse": 11,
+            "text": "Zhenzhu dique zhidao xindao zhe, dique zhidao wei xinzhe."
+        },
+        {
+            "chapter": 29,
+            "verse": 12,
+            "text": "Bu xindao de ren dui xindao de ren shuo: Nimen zunshou women de jiao dao ba! Rang women danfu nimen de zuiguo. Qishi, tamen jue buneng danfu tamen de yidian zuiguo, tamen que shi shuohuang de."
+        },
+        {
+            "chapter": 29,
+            "verse": 13,
+            "text": "Tamen biding danfu ziji de zhongdan, zai jia shang bie de zhongdan, fuhuo ri tamen duiyu ziji suo weizao de huangyan bi shoushen wen."
+        },
+        {
+            "chapter": 29,
+            "verse": 14,
+            "text": "Wo que yi pai nu ha qu jiaohua ta de zongzu, ta zai tamen zhi jian, douliule jiubai wushi nian, hongshui jiu xijile tamen, yinwei tamen shi bu yi de."
+        },
+        {
+            "chapter": 29,
+            "verse": 15,
+            "text": "Wo zhengjiule ta he yu ta tongchuan de ren, wo yi na wei quan shijie de yige jixiang."
+        },
+        {
+            "chapter": 29,
+            "verse": 16,
+            "text": "(Wo que yi paiqian) yi bo la xin, dangri, ta dui ta de zongzu shuo: Nimen yingdang chongbai zhenzhu, bing dang jingwei ta, zhe duiyu nimen shi geng hao de. Ruguo nimen zhidao."
+        },
+        {
+            "chapter": 29,
+            "verse": 17,
+            "text": "Chu zhenzhu wai, nimen zhi chongbai ouxiang, nimen zhi niezao wangyan. Nimen she zhenzhu er chongbai de (ouxiang), buneng zhuchi nimen de jiyang, suoyi, nimen yingdang dao zhenzhu nali xunqiu jiyang, nimen yingdang chongbai ta, nimen yingdang ganxie ta, nimen zhi bei zhao gui ta."
+        },
+        {
+            "chapter": 29,
+            "verse": 18,
+            "text": "Ruguo nimen fouren (wo), namo, zai nimen zhiqian de xuduo minzu, ye fourenguo (tamen de shizhe). Shizhe de zeren zhishi mingbai di chuanda."
+        },
+        {
+            "chapter": 29,
+            "verse": 19,
+            "text": "Nandao tamen meiyou kanjian zhenzhu zenyang chuangzao zhongsheng, ranhou shi tamen fuhuo ma? Zhe duiyu zhenzhu shi rongyi de."
+        },
+        {
+            "chapter": 29,
+            "verse": 20,
+            "text": "Ni shuo: Nimen yingdang zai da dishang luxing, yin'er guancha zhenzhu zenyang chuangzao zhongsheng, you zenyang zaizao tamen. Zhen zhu duiyu wanshi que shi quanneng de."
+        },
+        {
+            "chapter": 29,
+            "verse": 21,
+            "text": "Ta chengfa tasuo yiyu zhe, lianxu tasuo yiyu zhe, nimen zhi bei zhao guiyu ta."
+        },
+        {
+            "chapter": 29,
+            "verse": 22,
+            "text": "Nimen wulun zai dishang huo tianshang, dou buneng taobi tianqian, chu zhenzhu wai, nimen meiyou renhe jianhu zhe, ye meiyou renhe yuanzhu zhe."
+        },
+        {
+            "chapter": 29,
+            "verse": 23,
+            "text": "Buxin zhenzhu de jixiang ji yu zhenzhu huijian de, zhe deng ren, dui wo de enhui yi juewangle, zhe deng ren, jiang shou tongku de xingfa."
+        },
+        {
+            "chapter": 29,
+            "verse": 24,
+            "text": "Ta de zongzu shuo: Nimen sha si ta, huo shao si ta ba! Zhe shi tamen weiyi de dafu. Zhenzhu zhengjiu ta tuoli liehuo, duiyu xindao de minzhong, ci zhong que you xuduo jixiang."
+        },
+        {
+            "chapter": 29,
+            "verse": 25,
+            "text": "Ta shuo: Nimen she zhenzhu er yi ouxiang wei shenling, zhi wei jinshi shenghuo zhong huxiang qin'ai bale. Dan zai fuhuo ri, nimen jiang huxiang dilai, huxiang zuzhou, nimen de guisu shi huo yu, nimen jue meiyou yuanzhu zhe."
+        },
+        {
+            "chapter": 29,
+            "verse": 26,
+            "text": "Lu te jiu wei ta er xindao. Yi bo la xin shuo: Wo biding qianyi dao wo de zhu nali qu, ta que shi wanneng de, que shi zhi rui de."
+        },
+        {
+            "chapter": 29,
+            "verse": 27,
+            "text": "Wo shangci ta yi si ha ge he ye er gu bai, wo yi yuyan he tian jing shangci ta de houyi, wo ba ta zai jinshi de baochou shangci ta, zai houshi bi zai shanren zhi lie."
+        },
+        {
+            "chapter": 29,
+            "verse": 28,
+            "text": "(Wo ceng paiqian) lu te, dangri, ta dui ta de zongzu shuo: Nimen dique gan choushi, zai nimen zhiqian, quan shijie de ren meiyouyige ganguo zhe zhong choushi de."
+        },
+        {
+            "chapter": 29,
+            "verse": 29,
+            "text": "Nimen wubi yao jiang nan zuo nu, lanlu zuo'e, dangzhong xuan yin ma? Ta de zongzu shuo: Ni ba zhenzhu de xingfa zhaoshi women ba, ruguo ni shi chengshi de ren. Zhe shi tamen weiyi de dafu."
+        },
+        {
+            "chapter": 29,
+            "verse": 30,
+            "text": "Ta shuo: Wo de zhu a! Qiu ni zhu wo, yi duikang shangfengbaisu de renmen."
+        },
+        {
+            "chapter": 29,
+            "verse": 31,
+            "text": "Dang wo de shizhe daizhe jiayin laifang yi bo la xin de shihou, tamen shuo: Women biding huimie zhege chengshi de jumin. Zhege chengshi de jumin, que shi bu yi de."
+        },
+        {
+            "chapter": 29,
+            "verse": 32,
+            "text": "Ta shuo: Lu te dique zai zhege chengshi li. Tamen shuo: Women zhidao zai zhege chengshi li de ren, women biding yao zhengjiu ta he ta de xintu, ta de qizi chuwai, ta shi he qiyu de ren tong shou xingfa de."
+        },
+        {
+            "chapter": 29,
+            "verse": 33,
+            "text": "Dang wo de shizhe laifang lu te de shihou, ta wei tamen er youchou, ta wufa baohu tamen. Tamen shuo: Ni buyao haipa, buyao youchou, women biding zhengjiu ni he ni de xintu, ni de qizi chuwai, ta shi he qiyu de ren tong shou xingfa de."
+        },
+        {
+            "chapter": 29,
+            "verse": 34,
+            "text": "Wo bi shi tianzai cong tiankong jiang yu zhege chengshi de jumin, na shi youyu tamen di fangdang."
+        },
+        {
+            "chapter": 29,
+            "verse": 35,
+            "text": "Wo que yi wei neng liaojie de minzhong er jiang zhege chengshi de yizhi liuzhe zuo yige mingxian de jixiang."
+        },
+        {
+            "chapter": 29,
+            "verse": 36,
+            "text": "(Wo ceng paiqian) shu a bo qu jiaohua mai de yan ren, ta jiu shuo: Wo de zongzu a! Nimen yingdang chongbai zhenzhu, yingdang weiju mori, buyao zai difang shang wei fei zuo dai, bainong shifei."
+        },
+        {
+            "chapter": 29,
+            "verse": 37,
+            "text": "Dan tamen fouren ta, dizhen jiu xijile tamen. Qingke zhi jian, tamen dou jiang wo zai ge ren de jiazhong."
+        },
+        {
+            "chapter": 29,
+            "verse": 38,
+            "text": "(Wo ceng huimie) a de ren he sai mo de ren, nimen cong tamen juzhu di difang, que yi mingbai tamen bei huimie de qingxing. Emo yi tamen de xingwei, mihuo tamen er zu'ai tamen zunxun zhengdao, tamen yuanlai shi neng siwei de."
+        },
+        {
+            "chapter": 29,
+            "verse": 39,
+            "text": "(Wo ceng huimie) ge lun, falao he ha man. Mu sa ceng zhaoshi tamen xuduo mingzheng, dan tamen zai difang shang zi da, tamen wei neng taobi tianqian."
+        },
+        {
+            "chapter": 29,
+            "verse": 40,
+            "text": "Mei yige ren, wo du yin ta de zuiguo er jiayi chengfa, tamen zhong you wo ceng shi feishazoushi de baofeng qu shanghai de, you wei kongbu suo xiji de, you wo shi ta lunxian zai dimian xia de, you bei wo ni sha de, zhenzhu buzhi kui wang tamen, dan tamen kui wangle ziji."
+        },
+        {
+            "chapter": 29,
+            "verse": 41,
+            "text": "Youxie ren, she zhenzhu er bie qiu jianhu zhe, tamen piru zhizhu zao wu, zui cuiruo de fangwu, que shi zhizhu de fangwu. Jiaruo tamen renshi zhege daoli,(jiu bu hui chongbai ouxiangle)."
+        },
+        {
+            "chapter": 29,
+            "verse": 42,
+            "text": "Zhenzhu dique zhidao tamen she ta er qidao de renhe wu, ta shi wanneng de, shi zhi rui de."
+        },
+        {
+            "chapter": 29,
+            "verse": 43,
+            "text": "Zhexie piyu, shi wo wei zhongren er she de, zhiyou xuezhe neng liaojie ta."
+        },
+        {
+            "chapter": 29,
+            "verse": 44,
+            "text": "Zhenzhu ben zhenli er chuangzao tiandi, duiyu xindao de ren, ci zhong que you yi zhong jixiang."
+        },
+        {
+            "chapter": 29,
+            "verse": 45,
+            "text": "Ni yingdang xuandu qishi ni de jingdian, ni dang jin shou bai gong, bai gong dique neng fangzhi choushi he zui'e, jinian zhenzhu que shi yi jian geng da de shi. Zhenzhu zhidao nimen de zuo wei."
+        },
+        {
+            "chapter": 29,
+            "verse": 46,
+            "text": "Chu yi zui you de fangshi wai, nimen buyao yu xinfeng tian jing de ren bianlun, chufei tamen zhong bu yi de ren. Nimen yingdang shuo: Women quexin jiang shi women de jingdian, he jiang shi nimen de jingdian; women suo chongbai he nimen suo chongbai de shi tong yige shenming, women shi guishun ta de."
+        },
+        {
+            "chapter": 29,
+            "verse": 47,
+            "text": "Wo zheyang ba jingdian jiang shi ni, meng wo shangci jingdian de ren, you quexin ta de. Zhe deng ren zhong, yeyou quexin ta de, zhiyou bu xindao de ren, fouren wo de jixiang."
+        },
+        {
+            "chapter": 29,
+            "verse": 48,
+            "text": "Yiqian, ni bu hui dushu, ye bu hui xiezi,(jiaruo ni hui dushu xiezi), namo, fandui zhenli de ren biding huaiyi."
+        },
+        {
+            "chapter": 29,
+            "verse": 49,
+            "text": "Buran, zhe shi wo de mingxian de jixiang, ta baocun zai xuezhe de xiongzhong, zhiyou bu yi de ren fouren wo de jixiang."
+        },
+        {
+            "chapter": 29,
+            "verse": 50,
+            "text": "Tamen shuo: Zenme meiyou yi zhong jixiang cong ta de zhu jianglin ta ne? Ni shuo: Jixiang zhi zai zhenzhu nali, wo zhishi yige tanshuai de jinggao zhe."
+        },
+        {
+            "chapter": 29,
+            "verse": 51,
+            "text": "Wo jiang shi ni zhe bu jingdian, keyi dui tamen changchang xuandu, nandao huan buneng shi tamen manyi ma? Zai zhe jingdian li duiyu xindao de ren que you enhui he jinian."
+        },
+        {
+            "chapter": 29,
+            "verse": 52,
+            "text": "Ni shuo: Zhenzhu zuo wo he ni zhi jian de jianzheng yijing goule. Ta zhidao tiandi jian de yiqie, quexin xieshen er buxin zhenzhu zhe, que shi kui she de."
+        },
+        {
+            "chapter": 29,
+            "verse": 53,
+            "text": "Tamen yaoqiu ni zaori zhaoshi xingfa, jiaruo meiyou dingqi, namo xingfa bi yi jianglin tamen. Dang tamen buzhi bu jue de shihou, xingfa biding huran jianglin tamen."
+        },
+        {
+            "chapter": 29,
+            "verse": 54,
+            "text": "Tamen yaoqiu ni zaori zhaoshi xingfa. Huo yu biding shi baowei buxindao zhe de."
+        },
+        {
+            "chapter": 29,
+            "verse": 55,
+            "text": "Zai na ri, xingfa jiang cong tamen de tou shang he jiaoxia jianglin tamen. Ta shuo: Nimen changshi nimen de xingwei de guobao ba!"
+        },
+        {
+            "chapter": 29,
+            "verse": 56,
+            "text": "Wo de xindao de purenmen a! Wo de dadi que shi kuanda de, nimen yingdang chongbai wo."
+        },
+        {
+            "chapter": 29,
+            "verse": 57,
+            "text": "Mei yige you xi qi de, dou yao chang si de ziwei, ranhou, nimen jiang bei zhao guiyu wo."
+        },
+        {
+            "chapter": 29,
+            "verse": 58,
+            "text": "Xindao erqie xingshan zhe, wo bi shi tamen zai leyuan zhong de ju zaixia lin zhu he de lou shang, tamen jiang yong ju qizhong. Gongzuo zhe de baochou zhen hao!"
+        },
+        {
+            "chapter": 29,
+            "verse": 59,
+            "text": "Tamen shi jianren de, tamen zhi xintuo tamen de zhu."
+        },
+        {
+            "chapter": 29,
+            "verse": 60,
+            "text": "Xuduo dongwu, buneng danfu ziji de jiyang, zhenzhu gongji tamen he nimen, ta shi quan cong de, shi quanzhi de."
+        },
+        {
+            "chapter": 29,
+            "verse": 61,
+            "text": "Ruguo ni wen tamen: Shei chuangzaole tiandi, zhifule ri yue? Tamen biding shuo: Zhenzhu. Tamen shi ruhe huangmiu de!"
+        },
+        {
+            "chapter": 29,
+            "verse": 62,
+            "text": "Zhenzhuyao shi nage puren de jiyang kuanyu, jiu shi ta kuanyu,(yao shi nage pu ren de jiyang jiongpo,) jiu shi ta jiongpo, zhenzhu que shi quanzhi wanshi de."
+        },
+        {
+            "chapter": 29,
+            "verse": 63,
+            "text": "Ruguo ni wen tamen: Shei cong yun zhong jiangxia yushui? Er jie yushui shi yi si de dadi fuhuo ne? Tamen biding shuo: Zhenzhu. Ni shuo: Yiqie zansong quan guizhenzhu! Buran, tamen daban shi bu liaojie de."
+        },
+        {
+            "chapter": 29,
+            "verse": 64,
+            "text": "Zhe zhong jinshi de shenghuo, zhishi yule he youxi; houshi de zhuzhai, que shi chongman shenghuo de. Jiaruo tamen zhidao"
+        },
+        {
+            "chapter": 29,
+            "verse": 65,
+            "text": "dang tamen cheng chuan de shihou, tamen chengken de qidao zhenzhu, dang ta shi tamen ping'an denglu de shihou, tamen like jiu yi wu pei zhu."
+        },
+        {
+            "chapter": 29,
+            "verse": 66,
+            "text": "Jiao tamen gufu wo shangci ba, jiao tamen xiangle ba. Tamen jianglai jiu zhidaole."
+        },
+        {
+            "chapter": 29,
+            "verse": 67,
+            "text": "Nandao tamen meiyou zhidao ma? Wo ceng yi tamen de chengshi wei anning de jindi, er tamen sizhou de jumin bei ren jie lue. Nandao tamen quexin xieshen, er gufu zhenzhu de enhui ma?"
+        },
+        {
+            "chapter": 29,
+            "verse": 68,
+            "text": "Jiajie zhenzhu de mingyi er zaoyao, huo fouren yi jianglin de zhenli zhe, shei bi ta hai bu yi ne? Nandao huo yu li meiyou gu en zhe de zhuchu ma?"
+        },
+        {
+            "chapter": 29,
+            "verse": 69,
+            "text": "Wei wo er fendou de ren, wo biding zhiyin tamen wo de daolu, zhenzhu que shi yu shanren tong zai yiqi de."
+        },
+        {
+            "chapter": 30,
+            "verse": 1,
+            "text": "Ai lie fu, lia mu, mi mu."
+        },
+        {
+            "chapter": 30,
+            "verse": 2,
+            "text": "Luoma ren yi baibei yu"
+        },
+        {
+            "chapter": 30,
+            "verse": 3,
+            "text": "zuijin di difang. Tamen ji bai zhihou, jiang huo shengli,"
+        },
+        {
+            "chapter": 30,
+            "verse": 4,
+            "text": "yu shu nian zhi jian. Yiqian he yihou, fanshi guizhenzhu zhuchi. Zai na ri, xindao de ren jiangyao huanxi."
+        },
+        {
+            "chapter": 30,
+            "verse": 5,
+            "text": "Zhe shi youyu zhenzhu de yuanzhu, ta yuanzhu tasuo yiyu zhe. Ta que shi wanneng de, que shi zhi ci de."
+        },
+        {
+            "chapter": 30,
+            "verse": 6,
+            "text": "Zhenzhu yingxu (tamen shengli), zhenzhu bing bu shuangyue, dan renmen daban bu zhidao."
+        },
+        {
+            "chapter": 30,
+            "verse": 7,
+            "text": "Tamen zhi zhidao jinshi shenghuo de biaomian, tamen duiyu houshi, shi shuhu de."
+        },
+        {
+            "chapter": 30,
+            "verse": 8,
+            "text": "Nandao tamen meiyou siwei ma? Zhenzhu chuangzao tiandi wanwu, zhi yi zhenli he dingqi, you xuduo ren dique bu xin jiang yu tamen de zhu xiang hui."
+        },
+        {
+            "chapter": 30,
+            "verse": 9,
+            "text": "Nandao tamen meiyou zai dadishang luxing er guancha qian ren de jieju shi zenyang de ma? Qian ren bi tamen nuli geng da, qian ren yu difang de ken zhi he jianshe, shengguo tamen. Tamen zu zhong de shizhe lailin tamen, zhenzhu buzhi kui wang tamen, dan tamen kui wangle ziji,"
+        },
+        {
+            "chapter": 30,
+            "verse": 10,
+            "text": "ranhou e bao nai zuo'e zhe de jieju, yinwei tamen fouren zhen zhu de jixiang, erqie jiayi chaoxiao."
+        },
+        {
+            "chapter": 30,
+            "verse": 11,
+            "text": "Zhen zhu chuangzao zhongsheng, ranhou zaizao tamen, ranhou, nimen bei zhao guiyu ta."
+        },
+        {
+            "chapter": 30,
+            "verse": 12,
+            "text": "Fuhuo shi lailin zhi ri, fanzui de ren, jiangcheng jusang de."
+        },
+        {
+            "chapter": 30,
+            "verse": 13,
+            "text": "Tamen de pei zhu zhong, jianglai meiyou wei tamen shuo qing de, tamen jiang fouren tamen de pei zhu."
+        },
+        {
+            "chapter": 30,
+            "verse": 14,
+            "text": "Fuhuo shi lailin zhi ri, tamen jiang bici fenli."
+        },
+        {
+            "chapter": 30,
+            "verse": 15,
+            "text": "Zhiyu xindao erqie xingshan zhe, jiang zai yige shengdi, ganjue kuaile;"
+        },
+        {
+            "chapter": 30,
+            "verse": 16,
+            "text": "zhiyu bu xindao erqie fouren wo de jixiang, yiji houshi de xiang hui zhe, jiang bei jujin zai xingfa zhong."
+        },
+        {
+            "chapter": 30,
+            "verse": 17,
+            "text": "Gu nimen zai wan xi he zaochen, yingdang zansong zhen zhu chaojue wanwu."
+        },
+        {
+            "chapter": 30,
+            "verse": 18,
+            "text": "Tiandi jian de zansong, yiji bangwan de he zhongwu de zansong dou zhi guiyu ta."
+        },
+        {
+            "chapter": 30,
+            "verse": 19,
+            "text": "Ta shi shengwu cong si wu zhong shengchu, shi si wu cong shengwu zhong shengchu, shi yi si de da di fuhuo, nimen ye yao ruci bei fuhuo."
+        },
+        {
+            "chapter": 30,
+            "verse": 20,
+            "text": "Ta de yi zhong jixiang shi: Ta yong nitu chuangzao nimen, ranhou, nimen like chengwei renlei, sanbu ge fang."
+        },
+        {
+            "chapter": 30,
+            "verse": 21,
+            "text": "Ta de yi zhong jixiang shi: Ta cong nimen de tonglei zhong wei nimen chuangzao pei'ou, yibian nimen yilian tamen, bingqie shi nimen huxiang ai yue, huxiang lianxu. Duiyu neng siwei de minzhong, ci zhong que you xuduo jixiang."
+        },
+        {
+            "chapter": 30,
+            "verse": 22,
+            "text": "Ta de yi zhong jixiang shi: Tiandi de chuangzao, yiji nimen de yuyan he fuse de chayi, duiyu you xuewen de ren, ci zhong que you xuduo jixiang."
+        },
+        {
+            "chapter": 30,
+            "verse": 23,
+            "text": "Ta de yi zhong jixiang shi: Nimen zai heiye he baizhou shuimian bingqie xunqiu ta de enhui; duiyu hui tinghua de minzhong, ci zhong que you xuduo jixiang."
+        },
+        {
+            "chapter": 30,
+            "verse": 24,
+            "text": "Ta de yi zhong jixiang shi: Ta shi nimen yi kongbu he qitu de xinqing kan dianguang, ta cong yun zhong jiangxia yushui, jie yushui shi yi si de dadi fuhuo, duiyu neng liaojie de minzhong, ci zhong que you xuduo jixiang."
+        },
+        {
+            "chapter": 30,
+            "verse": 25,
+            "text": "Ta de yi zhong jixiang shi: Tiandi yi ta de yizhi er jianding, dang ta dui changmian dixia de nimen jiaohuan yisheng de shihou, nimen like jiu chulaile."
+        },
+        {
+            "chapter": 30,
+            "verse": 26,
+            "text": "Tiandi wanwu, zhishi ta de; yiqie dou fucong ta."
+        },
+        {
+            "chapter": 30,
+            "verse": 27,
+            "text": "Ta chuangzao zhongsheng, ranhou zaizao tamen, zaizao duiyu ta shi rongyi de. Tiandi jian zuigao de dianxing, zhi shuyu ta, ta shi wanneng de, zhi rui de."
+        },
+        {
+            "chapter": 30,
+            "verse": 28,
+            "text": "Ta wei nimen er jiu nimen zishen she yige piyu; nandao nimen zhunxu nimen de nubi yu nimen gongtong xiangshou wo shangci nimen de jiyang, er nimen yu tamen wanquan pingdeng, nimen weiju tamen, youru nimen huxiang weiju yiyang ma? Wo zheyang wei neng liaojie de minzhong jieshi wo de jixiang."
+        },
+        {
+            "chapter": 30,
+            "verse": 29,
+            "text": "Buran, bu yi zhe, wuzhi di shuncong ziji de siyu. Zhenzhu suo wudao de ren, shei neng yindao ta ne? Tamen jue meiyou yuanzhu zhe."
+        },
+        {
+            "chapter": 30,
+            "verse": 30,
+            "text": "Ni yingdang quxiang zhengjiao,(bing jin shou) zhenzhu suo fuyu ren de benxing. Zhenzhu suo chuangzao de, shi burong biangeng de; zhe cai shi zhengjiao, dan renmen bu ban bu zhidao."
+        },
+        {
+            "chapter": 30,
+            "verse": 31,
+            "text": "Nimen yingdang guiyi zhenzhu, yingdang jingwei ta, yingdang jin shou bai gong, buyao zuo yi wu pei zhu zhe,"
+        },
+        {
+            "chapter": 30,
+            "verse": 32,
+            "text": "ji fenli ziji de zongjiao, er ge cheng zongpai zhe; ge pai dou xihuan ziji suo feng de zongpai."
+        },
+        {
+            "chapter": 30,
+            "verse": 33,
+            "text": "Renmen zaonan de shihou, qidao tamen de zhu, tongshi guiyi ta. Dang ta shi tamen changshi ta de enhui de shihou, tamen zhong de yibufen ren, like yi wu pei zhu,"
+        },
+        {
+            "chapter": 30,
+            "verse": 34,
+            "text": "yizhi gufu ta de ci tamen de endian. Nimen xiangshou ba, nimen jianglai jiu zhidaole."
+        },
+        {
+            "chapter": 30,
+            "verse": 35,
+            "text": "Nandao wo ceng jiang shi tamen yige mingzheng, mingling tamen yi wu pei zhu ma?"
+        },
+        {
+            "chapter": 30,
+            "verse": 36,
+            "text": "Dang wo shi renmen changshi enhui de shihou, tamen jiu wei na jian enhui er zhanzhanzixi; ruguo tamen yinwei cengjing fanzui er zaonan, tamen like jiu juewangle."
+        },
+        {
+            "chapter": 30,
+            "verse": 37,
+            "text": "Nandao tamen bu zhidao ma? Zhenzhu yu shi shei de jiyang kuanyu, jiu shi ta kuanyu;(yu shi shei de jiyang jiongpo), jiu shi ta jiongpo. Duiyu xindao de minzhong, ci zhong que you xuduo jixiang."
+        },
+        {
+            "chapter": 30,
+            "verse": 38,
+            "text": "Ni yingdang ba jinqin, pinmin he luke suo ying xiang de quanli, jiao gei tamen, duiyu yao xiang huode zhenzhu de xiyue zhe, zhe shi geng hao de, zhe deng ren que shi chenggong de."
+        },
+        {
+            "chapter": 30,
+            "verse": 39,
+            "text": "Nimen wei chi li er fang de zhai, yu zai taren de caichan zhong zengjia de, zai zhenzhu nali, bu hui zengjia; nimen suo shi de caiwu, yu de zhenzhu de xiyue de, bidei jiabei de baochou."
+        },
+        {
+            "chapter": 30,
+            "verse": 40,
+            "text": "Zhenzhu chuangzao nimen, ranhou gongji nimen, ranhou shi nimen siwang, ranhou shi nimen fuhuo, nimen de pei zhu, shei neng zuo naxie shiqing zhong de renhe yi jian shiqing ne? Zansong zhenzhu, chaojue wanwu, ta chao hu tamen suoyong lai pei ta de."
+        },
+        {
+            "chapter": 30,
+            "verse": 41,
+            "text": "Zaihai yin zhongren suo fan de zui'e er xianxian yu dalu he haiyang, yizhi zhenzhu shi tamen changshi ziji de xingwei de yidian baochou, yibian tamen huiwu."
+        },
+        {
+            "chapter": 30,
+            "verse": 42,
+            "text": "Ni shuo: Nimen yingdang zai dadishang luxing, yin mian guancha qian ren de jieju shi zenyang de. Tamen daban shi yi wu pei zhu de."
+        },
+        {
+            "chapter": 30,
+            "verse": 43,
+            "text": "Zai buke kangju de rizi cong zhenzhu lailin yiqian, ni yingdang quxiang zhengjiao, zai na ri, tamen jiang bici fenli."
+        },
+        {
+            "chapter": 30,
+            "verse": 44,
+            "text": "Buxindao zhe, jiang zi shou qi bu xin de e bao, xingshan zhe zhi wei ziji yubei anzhai,"
+        },
+        {
+            "chapter": 30,
+            "verse": 45,
+            "text": "yibian zhenzhu yong ta de endian qu baochou xindao erqie xingshan zhe. Zhenzhu que shi bu xi'ai bu xindao zhe de."
+        },
+        {
+            "chapter": 30,
+            "verse": 46,
+            "text": "Ta de yi zhong jixiang shi: Ta paiqian feng lai chuanda jiayin, shi nimen changshi ta de enhui, shi chuanbo feng ta de mingling er hangxing, yibian nimen xunqiu ta de enhui, yibian nimen ganxie."
+        },
+        {
+            "chapter": 30,
+            "verse": 47,
+            "text": "Zai ni zhiqian, wo que yi paiqianle xuduo shizhe, qu jiaohua tamen de zongzu, naxie shizhe jiu zhaoshi tamen xuduo mingzheng, ranhou, wo chengzhi fanzui de ren. Yuanzhu xinshi, yuan shi wo de zeren."
+        },
+        {
+            "chapter": 30,
+            "verse": 48,
+            "text": "Zhenzhu pai feng qu xingqi yun lai, ranhou renyi di shi yun sanbu zai tiankong, bingqie ba yun fencheng suipian, ni jiu kanjian yu cong yun zhong luoxia. Dang ta shi yu luo zai tasuo yiyu de puren shang de shihou, tamen like huanle,"
+        },
+        {
+            "chapter": 30,
+            "verse": 49,
+            "text": "jishi zai jiangyu zhiqian, tamen que shi jusang de."
+        },
+        {
+            "chapter": 30,
+            "verse": 50,
+            "text": "Ni kan zhenzhu de enhui de xiaoguo ba! Ta zenyang shi yi si de da di fuhuo, na que shi neng qisihuisheng de. Ta duiyu wanshi shi quanneng de."
+        },
+        {
+            "chapter": 30,
+            "verse": 51,
+            "text": "Ruguo wo shi yizhenfeng chui qu, er tamen kanjian hemiao bian cheng weihuang de, cihou, tamen jiu biding bian cheng gu en zhe."
+        },
+        {
+            "chapter": 30,
+            "verse": 52,
+            "text": "Ni bi buneng shi siren ting (ni jiang dao), ni bi buneng shi tuibi de longzi ting ni huhuan."
+        },
+        {
+            "chapter": 30,
+            "verse": 53,
+            "text": "Ni bi buneng yindao xiazi likai mi wu, ni zhi neng shi quexin wo de jixiang de renmen ting ni (jiang dao), tamen shi guishun zhe."
+        },
+        {
+            "chapter": 30,
+            "verse": 54,
+            "text": "Zhenzhu cong nuoruo chuangzao nimen, zai nuoruo zhihou, you chuangzao qiangzhuang, zai qiangzhuang zhihou you chuangzao nuoruo he bai fa, ta yao chuangzao shenme, jiu chuangzao shenme. Ta que shi quanzhi de, que shi quanneng de."
+        },
+        {
+            "chapter": 30,
+            "verse": 55,
+            "text": "Fuhuo shi jianglin zhi ri, fanzui de ren fa shi shuo tamen zhi douliule yi shashi, tamen yuan shi zheyang beimiu de."
+        },
+        {
+            "chapter": 30,
+            "verse": 56,
+            "text": "You xuewen he xinde zhe shuo: Yi zhenzhu de qian ding, nimen que yi douliu dao fuhuo ri. Zhe jiushi fuhuo ri, dan nimen bu zhidao."
+        },
+        {
+            "chapter": 30,
+            "verse": 57,
+            "text": "Zai na ri, bu yi zhe de bian ci, wu bi yu zishen, tamen ye bude yao en."
+        },
+        {
+            "chapter": 30,
+            "verse": 58,
+            "text": "Zai zhe “gulanjing” zhong, wo que yi wei zhongren shele ge zhong piyu. Ruguo ni zhaoshi tamen yi zhong jixiang, namo, buxindao zhe biding shuo: Nimen zhishi huangdan de!"
+        },
+        {
+            "chapter": 30,
+            "verse": 59,
+            "text": "Zhenzhu zheyang fengbi wuzhishi zhe de xin."
+        },
+        {
+            "chapter": 30,
+            "verse": 60,
+            "text": "Ni jianren ba, zhenzhu de yingxu que shi zhenshi de. Ni buyao rang bu jianxin de ren shi ni qingshuai."
+        },
+        {
+            "chapter": 31,
+            "verse": 1,
+            "text": "Ai lie fu, lia mu, mi mu."
+        },
+        {
+            "chapter": 31,
+            "verse": 2,
+            "text": "Zhexie shi you zhihui de jingdian de jie wen,"
+        },
+        {
+            "chapter": 31,
+            "verse": 3,
+            "text": "shi xingshan zhe de de xiangdao he enhui."
+        },
+        {
+            "chapter": 31,
+            "verse": 4,
+            "text": "Xingshan zhe, jin shou bai gong, wan na tian ke, qie quexin houshi."
+        },
+        {
+            "chapter": 31,
+            "verse": 5,
+            "text": "Zhe deng ren, shi zunshou tamen de zhu de zhengdao de, zhe deng ren que shi chenggong de."
+        },
+        {
+            "chapter": 31,
+            "verse": 6,
+            "text": "Youren goumai wuwei de tanhua, yibian ta wu zhi wu shi di shi ren beili zhenzhu de zhengdao, erqie ba ta dang zuo xiaobing. Zhe deng ren, jiang shou lingru de xingfa."
+        },
+        {
+            "chapter": 31,
+            "verse": 7,
+            "text": "Youren dui ta xuandu wo de jixiang de shihou, ta zi dadi tuibi, fangfu meiyou tingjian yiyang, fangfu ta de liang er zhong ting yiyang. Ni yi tongku de xingfa, xiang ta baoxi ba."
+        },
+        {
+            "chapter": 31,
+            "verse": 8,
+            "text": "Xindao erqie xingshan zhe, bi jiang xiangshou ji leyuan,"
+        },
+        {
+            "chapter": 31,
+            "verse": 9,
+            "text": "er yong ju qizhong. Zhe shi zhenzhu de zhenshi de yingxu, ta que shi wanneng de, que shi zhi rui de."
+        },
+        {
+            "chapter": 31,
+            "verse": 10,
+            "text": "Ta chuangzao zhu tian, er buyong nimen suo neng jian de zhizhu; ta zai dadishang anzhi xuduo shanyue, yimian da di dongyao, shi nimen bu'an; ta zai da dishang sanbu ge zhong dongwu. Ta cong yun zhong jiangxia yushui, er zai da dishang zisheng ge zhong youliang de zhiwu."
+        },
+        {
+            "chapter": 31,
+            "verse": 11,
+            "text": "Zhe shi zhenzhu suo chuangzao de, nimen zhishi wo ba. Nimen she zhenzhu er chongbai de (ouxiang) jiujing chuangzaole shenme ne? Buran, bu yi de ren shi zai mingxian de mi wu zhong de."
+        },
+        {
+            "chapter": 31,
+            "verse": 12,
+            "text": "Wo que yi ba zhihui shangci lu ge man,(wo shuo): Ni dang ganxie zhenzhu. Ganxie de ren, zhi wei ziji er ganxie, gufu de ren, xuzhi zhenzhu que shi wu qiu de, que shi ke song de."
+        },
+        {
+            "chapter": 31,
+            "verse": 13,
+            "text": "Dangri, lu ge man ceng jiaoxun ta de erzi shuo: Wo de xiaozi a! Ni buyao yi renhe wu pei zhu. Yi wu pei zhu, que shi danibudao de."
+        },
+        {
+            "chapter": 31,
+            "verse": 14,
+            "text": "Wo ceng ming ren xiaojing fumu--ta muqin ruo shang jia ruo de huaizhe ta, ta de duan ru shi zai liang nian zhi zhong--wo shuo: Ni yingdang ganxie wo he ni de fumu; wei wo shi zuihou de guisu."
+        },
+        {
+            "chapter": 31,
+            "verse": 15,
+            "text": "Ruguo ta lia leling ni yi ni suo bu zhidao de dongxi pei wo, name, ni buyao fucong ta lia, zai jinshi, ni yingdang yi li yi er feng shi ta lia, ni yingdang zunshou guiyi wo zhe de daolu; wei wo shi nimen de guisu, wo yao ba nimen de xingwei gaosu nimen."
+        },
+        {
+            "chapter": 31,
+            "verse": 16,
+            "text": "Lu ge man shuo: Wo de xiaozi a! Shan e de xingwei, sui xiao ru jiezi, yincang zai panshi li, huo zai tiankong zhong, huo zai di dixia, zhenzhu dou yao xianshi ta. Zhenzhu que shi mingcha de, que shi che zhi de."
+        },
+        {
+            "chapter": 31,
+            "verse": 17,
+            "text": "Wo de xiaozi a! Ni yingdang jin shou bai gong, yingdang quan shan jie e, yingdang renshou huannan, zhe que shi yinggai juexin zuo de shiqing."
+        },
+        {
+            "chapter": 31,
+            "verse": 18,
+            "text": "Ni buyao wei miaoshi zhongren er zhuanlian, buyao yangyang deyi di zai da dishang xingzou. Zhenzhu que shi bu xi'ai yiqie aoman zhe, jinkua cai de."
+        },
+        {
+            "chapter": 31,
+            "verse": 19,
+            "text": "Ni yingdang jiezhi ni de bufa, ni yingdang yizhi ni de shengyin; zui taoyan de shengyin, que shi luzi de shengyin."
+        },
+        {
+            "chapter": 31,
+            "verse": 20,
+            "text": "Nandao nimen bu zhidao ma? Zhenzhu ceng wei nimen zhifu tiandi jian de yiqie, ta bo shi nimen biao li de enhui. Youren zhenglun zhenzhu de de xing, dan tamen ji wu zhishi, you wu xiangdao, qie wu canlan de jingdian."
+        },
+        {
+            "chapter": 31,
+            "verse": 21,
+            "text": "Ruguo youren dui tamen shuo: Nimen yingdang zunshou zhenzhu suo jiang shi de (jingdian). Tamen jiu shuo: Buran, women zunshou women zuxian de yijiao. Jishi emo jiao tamen qu shou liehuo de xingfa,(tamen reng yao zunxun) ma?"
+        },
+        {
+            "chapter": 31,
+            "verse": 22,
+            "text": "Chengxin guishun zhenzhu erqie changxing shanshi zhe, que yi bawo zhu jiangu de babing. Wanshi de jieju, zhi guizhenzhu."
+        },
+        {
+            "chapter": 31,
+            "verse": 23,
+            "text": "Bu xindao zhe, ni buyao wei tamen de bu xin er youchou, tamen zhi guiyu wo, wo yao ba tamen de xingwei gaosu tamen. Zhenzhu que shi quanzhi tamen de xionghuai de."
+        },
+        {
+            "chapter": 31,
+            "verse": 24,
+            "text": "Wo shi tamen shaoshao xiangshou xingfu, ranhou, qiangpo tamen qu shou yanli de xingfa."
+        },
+        {
+            "chapter": 31,
+            "verse": 25,
+            "text": "Ruguo ni wen tamen: Shei chuangzaole tiandi? Tamen biding shuo: Zhenzhu. Ni shuo: Yiqie zansong, quan guizhenzhu! Buran, tamen daban bu zhidao."
+        },
+        {
+            "chapter": 31,
+            "verse": 26,
+            "text": "Tiandi wanwu zhishi zhenzhu de, zhenzhu que shi wu qiu de, que shi ke song de."
+        },
+        {
+            "chapter": 31,
+            "verse": 27,
+            "text": "Jiaruo yong da dishang suoyou de shu lai zhi cheng bi, yong haishui zuo mozhi, zai jia shang qihai de mozhi, zhong buneng xie jin zhenzhu de yanyu. Zhenzhu que shi wanneng de, que shi zhi rui de."
+        },
+        {
+            "chapter": 31,
+            "verse": 28,
+            "text": "Chuangzao nimen he fuhuo nimen, zhi xiang chuangzao yige ren he fuhuo yige ren yiyang. Zhenzhu que shi quan cong de, que shi quan ming de."
+        },
+        {
+            "chapter": 31,
+            "verse": 29,
+            "text": "Nandao ni bu zhidao ma? Zhen zhu shi heiye qinru baizhou, shi baizhou qinru heiye, bing zhifu ri yue, gezi yunxing, zhi yi dingqi. Zhen zhu shi che zhi nimen de xingwei de."
+        },
+        {
+            "chapter": 31,
+            "verse": 30,
+            "text": "Na shi yin wei zhenzhu que shi zhenshi de; tamen she ta er qidao de, que shi xuwei de; zhenzhu que shi zhizun de, que shi zhi da de."
+        },
+        {
+            "chapter": 31,
+            "verse": 31,
+            "text": "Nandao ni bu zhidao ma? Chuanbo zai haizhong daizhe zhenzhu de enhui er hangxing, yibian ta zhishi nimen ta de yibufen jixiang, duiyu mei ge jianren de, ganxie de ren, ci zhong que you xuduo jixiang."
+        },
+        {
+            "chapter": 31,
+            "verse": 32,
+            "text": "Dang shanyue ban de botao longzhao tamen de shihou, tamen qiancheng de qidao zhenzhu, dang ta shi tamen ping'an denglu de shihou, tamen zhong you zhong he de ren; zhiyou mei ge jiaohua de, gu en de ren, fouren wo de jixiang."
+        },
+        {
+            "chapter": 31,
+            "verse": 33,
+            "text": "Renmen a! Nimen yingdang jingwei nimen de zhu, nimen yingdang weiju na yi ri, fuqin duiyu erzi hao wu biyi, erzi duiyu fuqin ye hao wu biyi. Zhenzhu de yingxu, que shi zhenshi de. Jue buyao rang jinshi de shenghuo qipian nimen, jue buyao rang hua zei yi zhenzhu de rongren qipian nimen."
+        },
+        {
+            "chapter": 31,
+            "verse": 34,
+            "text": "Zai zhenzhu nali, dique you guanyu fuhuo shi de zhishi, ta chang jiang jishiyu, ta zhidao tai'er de (xingbie); er renhe ren dou bu zhidao ziji mingri jiang zuo shenme shi, renhe ren dou bu zhidao ziji jiang si zai shenme difang. Zhenzhu que shi quanzhi de, que shi che zhi de."
+        },
+        {
+            "chapter": 32,
+            "verse": 1,
+            "text": "Ai lie fu, lia mu, mi mu."
+        },
+        {
+            "chapter": 32,
+            "verse": 2,
+            "text": "(Zhe) shi cong quan shijie de zhu jiang shi de jingdian, qizhong hao wuyi yi."
+        },
+        {
+            "chapter": 32,
+            "verse": 3,
+            "text": "Tamen shuo: Ta niezao ta ma? Buran! Ta shi cong ni de zhu jiang shi de zhenli, yibian ni jinggao zai ni zhiqian meiyou renhe jinggao zhe lailinguo de yiqun minzhong, yibian tamen zunxun zhengdao."
+        },
+        {
+            "chapter": 32,
+            "verse": 4,
+            "text": "Zhenzhu ceng zai liu rinei chuangzao tiandi wanwu, ranhou, sheng shang baozuo, chu ta wai, nimen meiyou renhe jianhu zhe he shuo qing zhe. Nimen zenme bu jinian ne?"
+        },
+        {
+            "chapter": 32,
+            "verse": 5,
+            "text": "Ta zhili zi tian zhi di de shiwu, ranhou na shiwu zai yi ri zhi nei shangsheng dao ta nali, na yi ri de changdu, shi nimen suo jisuan de yiqian nian."
+        },
+        {
+            "chapter": 32,
+            "verse": 6,
+            "text": "Na shi quanzhi youming de, wanneng de, zhi ci de zhu."
+        },
+        {
+            "chapter": 32,
+            "verse": 7,
+            "text": "Ta jingzhi tasuo chuangzao de wanwu, ta zuichu yong nitu chuangzao ren."
+        },
+        {
+            "chapter": 32,
+            "verse": 8,
+            "text": "Ranhou yong jian shui de jinghua chuangzao ta de zisun."
+        },
+        {
+            "chapter": 32,
+            "verse": 9,
+            "text": "Ranhou shi ta jianquan, bing jiang ta de jingshen chui zai ta de shenti zhong, you wei nimen chuangzao ermu xinling. Nimen hen shao ganxie."
+        },
+        {
+            "chapter": 32,
+            "verse": 10,
+            "text": "Tamen shuo: Women xiaoshi zai dixia zhihou, nandao women biding chongxin shou zao ma? Buran! Tamen buxin jiang yu tamen de zhu xiang hui."
+        },
+        {
+            "chapter": 32,
+            "verse": 11,
+            "text": "Ni shuo: Fengming zhuguan nimen de shengming de sishen, jiang shi nimen siwang, ranhou nimen jiang bei zhao guiyu nimen de zhu."
+        },
+        {
+            "chapter": 32,
+            "verse": 12,
+            "text": "Jiaruo ni de jian fanzui zhe zai tamen de zhu nali chuitousangqi de shuo: Women de zhu a! Women yijing kanjianle, tingjianle, qiu ni rang women zhuan huiqu, women jiang zuo shanshi, women que shi quexin zhe. Jiaruo ni kanjian zhe zhong qingzhuang."
+        },
+        {
+            "chapter": 32,
+            "verse": 13,
+            "text": "Jiaruo wo yiyu, bi yi xiangdao fuyu mei geren, dan cong wo fachu de panci yi quedingle, wo bi yi jingling he renlei yiqi tian man huo yu."
+        },
+        {
+            "chapter": 32,
+            "verse": 14,
+            "text": "Nimen changshi ba! Yinwei nimen wangji jinri de xiang hui, wo que yi wangji nimenle. Nimen yinwei ziji de xingwei er changshi yongjiu de xingfa ba."
+        },
+        {
+            "chapter": 32,
+            "verse": 15,
+            "text": "Xinyang wo de jixiang de, zhiyou na deng ren; bieren yi wo de jixiang quan jie tamen de shihou, tamen bian fufu koutou bing zansong tamen di na chaojue wanwu de zhu, tamen bu gan wangzizunda,(ci chu koutou!)※"
+        },
+        {
+            "chapter": 32,
+            "verse": 16,
+            "text": "Tamen le bu luo chuang, tamen yi kongju he xiwang de xinqing qidao tamen de zhu; tamen fen she wo suo ciyu tamen de."
+        },
+        {
+            "chapter": 32,
+            "verse": 17,
+            "text": "Renhe ren dou bu zhidao yi wei tamen zhucangle shenme weiji, yi baochou tamen de xingwei."
+        },
+        {
+            "chapter": 32,
+            "verse": 18,
+            "text": "Xindao zhe yu beini zhe yiyang ma? Tamen shi bu xiangdeng de."
+        },
+        {
+            "chapter": 32,
+            "verse": 19,
+            "text": "Zhiyu xindao erqie xingshan zhe, jianglai deyi leyuan wei guisu, na shi weile baochou tamen de xingwei de."
+        },
+        {
+            "chapter": 32,
+            "verse": 20,
+            "text": "Zhiyu beini zhe, tamen de guisu, zhishi huo yu, mei dang tamen yao xiang tao chu, dou bei lan huiqu. You shengyin dui tamen shuo: Nimen changshi yiqian nimen suo fouren de huoxing ba!"
+        },
+        {
+            "chapter": 32,
+            "verse": 21,
+            "text": "Zai zuida de xingfa zhiqian, wo bi shi tamen changshi zuijin de xingfa, yibian tamen huiwu."
+        },
+        {
+            "chapter": 32,
+            "verse": 22,
+            "text": "Youren yi zhu de jixiang quan jie ta, er ta bu ken tingcong, zheyang de ren, shei bi ta hai bu yi ne? Wo biran yao chengzhi fanzui de ren."
+        },
+        {
+            "chapter": 32,
+            "verse": 23,
+            "text": "Wo que yi ba jingdian shangci mu sa, suoyi nimen duiyu jieshou jingdian, buyao xianyu youyu zhong, wo ceng yi na bu jingdian wei yiselie houyi de xiangdao."
+        },
+        {
+            "chapter": 32,
+            "verse": 24,
+            "text": "Wo ceng yi tamen zhong de yibufen renwei biaoshuai, dang tamen renshou jiannan, quexin wo de jixiang de shihou, feng wo de mingling qu yindao zhongren."
+        },
+        {
+            "chapter": 32,
+            "verse": 25,
+            "text": "Fuhuo ri, ni de zhu biding panjue tamen suo zhenglun de shifei."
+        },
+        {
+            "chapter": 32,
+            "verse": 26,
+            "text": "Nandao tamen hai bu xiaode ma? Zai tamen zhiqian, wo ceng huimiele xuduo shidai, tamen changchang jingguo naxie ren de guxiang, zai nali que you xuduo jixiang. Tamen zenme bu tingcong ne?"
+        },
+        {
+            "chapter": 32,
+            "verse": 27,
+            "text": "Tamen hai bu zhidao ma? Wo ba yushui gan dao wu cao di difang, er jie ta shengchu tamen de shengchu he tamen ziji suo shi de zhuangjia. Nandao tamen kan bujian ma?"
+        },
+        {
+            "chapter": 32,
+            "verse": 28,
+            "text": "Tamen shuo: Zhe zhong panjue shenme shihou shixian ne? Ruguo nimen shi shuo shihua de."
+        },
+        {
+            "chapter": 32,
+            "verse": 29,
+            "text": "Ni shuo: Bu xindao zhe, zai panjue ri, sui xin wuyi, bingqie bu huode kuandai."
+        },
+        {
+            "chapter": 32,
+            "verse": 30,
+            "text": "Ni yingdang bi kai tamen, ni yingdang dengdai, tamen biding shi dengdai de."
+        },
+        {
+            "chapter": 33,
+            "verse": 1,
+            "text": "Xianzhi a! Ni yingdang jingwei zhenzhu, ni buyao shuncong buxinzhe he wei xinzhe, zhenzhu que shi quanzhi de, que shi zhi rui de."
+        },
+        {
+            "chapter": 33,
+            "verse": 2,
+            "text": "Ni yingdang zunxun cong ni de zhu jiang shi ni de (jingdian), zhenzhu que shi che zhi nimen de xingwei de."
+        },
+        {
+            "chapter": 33,
+            "verse": 3,
+            "text": "Ni yingdang xintuo zhenzhu, zhenzhu zu wei jianhu zhe."
+        },
+        {
+            "chapter": 33,
+            "verse": 4,
+            "text": "Zhenzhu meiyou zai renhe ren de xiongtang li chuangzao liang ge xin. Nimen de qizi, nimen ba tamen de jibei dangzuo ziji de muqin de jibei--zhenzhu meiyou ba tamen dangzuo nimen de muqin, ye meiyou ba nimen de yi zi dang zuo nimen de erzi. Zhe shi nimen xinkoukaihe dehua. Zhenzhu shi shuoming zhenli de, shi zhishi zhengdao de."
+        },
+        {
+            "chapter": 33,
+            "verse": 5,
+            "text": "Nimen yingdang yi tamen de fuqin de xingshi chenghu tamen, zai zhenzhu kan lai, zhe shi geng gongping de. Ruguo nimen bu zhidao tamen de fuqin shi shei, namo, tamen shi nimen de jiao bao he qinyou. Nimen suo wu fan de shi, duiyu nimen meiyou zuiguo, nimen suo gu fan de shi, jiu buranle. Zhenzhu shi zhi she de, shi zhi ci de."
+        },
+        {
+            "chapter": 33,
+            "verse": 6,
+            "text": "Xianzhi dui xinshi di quanli, zhong yu tamen zishen de quanli, ta de zhong qi, shi tamen de muqin. Xueqin yu xueqin xianghu jian de quanli, yi zhenzhu de jingdian, shi zhong yu xinshi he qian shi di quanli de, chufei nimen dui ziji de qinyou xingshan. Zhe shi jilu zai tian jing li de."
+        },
+        {
+            "chapter": 33,
+            "verse": 7,
+            "text": "Dangri, wo yu zhong xianzhi ding yue, yu ni he nu ha, yi bo la xin, mu sa, mai er yan zhizi er sa ding yue, wo yu tamen ding zhuangyan de mengyue,"
+        },
+        {
+            "chapter": 33,
+            "verse": 8,
+            "text": "yibian zhenzhu xiang chengshi zhe xunwen tamen de chengshi. Ta yiwei bu xindao zhe yubeile tongku de xingfa."
+        },
+        {
+            "chapter": 33,
+            "verse": 9,
+            "text": "Xindao de renmen a! Nimen yingdang jiyi zhenzhu suo ci nimen de endian. Dangshi, di jun lai gong nimen, wo jiu dui tamen paiqian baofeng he nimen suo wei jian de tianbing. Zhenzhu shi mingcha nimen de xingwei de."
+        },
+        {
+            "chapter": 33,
+            "verse": 10,
+            "text": "Dangshi, tamen cong nimen de shangmian he nimen de xiamian lai gong nimen; dangshi, nimen yanhua xintiao, bing dui zhenzhu zuo zhongzhong caice."
+        },
+        {
+            "chapter": 33,
+            "verse": 11,
+            "text": "Zai na shi, xinshimen ceng shoudao kaoyan, bing shou julie de zhendong."
+        },
+        {
+            "chapter": 33,
+            "verse": 12,
+            "text": "Dangshi, wei xinzhe he xinzhong you bing de ren dou shuo: Zhenzhu ji qi shizhe, zhi xuwei di ying xu women."
+        },
+        {
+            "chapter": 33,
+            "verse": 13,
+            "text": "Dangshi, tamen zhong de yipai ren shuo: Ye si li bo ren a, nimen bubi zai zheli douliule. Nimen hui jia qu ba! Tamen zhong de yipai ren, xiang xianzhi gaojia shuo: Women de fangwu, que shi polan de. Qishi tamen de fangwu bing bushi polan de, tamen yao xiang taozou."
+        },
+        {
+            "chapter": 33,
+            "verse": 14,
+            "text": "Jiaruo zhe zuo chengshi bei diren simian gongpo, erhou di jun yaoqiu tamen pan jiao, tamen biding chengnuo. Tamen yin ci shi zhi dan yan pianke."
+        },
+        {
+            "chapter": 33,
+            "verse": 15,
+            "text": "Yiqian tamen yu zhenzhu que yi yueding, tamen jue bu zhuan bei. Zhenzhu de mengyue, shi yinggai fuze luxing de."
+        },
+        {
+            "chapter": 33,
+            "verse": 16,
+            "text": "Ni shuo: Ruguo nimen taobi siwang, huo shalu, namo, taobi duiyu nimen jue wu biyi. Nimen jishi taobi, ye zhi dedao shaoshao xiangshou."
+        },
+        {
+            "chapter": 33,
+            "verse": 17,
+            "text": "Ni shuo: Ruguo zhenzhu yu jiang huo yu nimen, shei neng fankang zhenzhu er baohu nimen ne? Ruguo ta yu jiang fu yu nimen,(shei neng ganshe ta) ne? Chu zhenzhu wai, tamen buneng faxian renhe jianhu zhe he renhe yuanzhu zhe."
+        },
+        {
+            "chapter": 33,
+            "verse": 18,
+            "text": "Zhenzhu zhidao nimen zhong youxie ren zu'ai bieren, bingqie dui tamen de tongbao shuo: Nimen dao women zhe bian lai ba! Tamen zhi ou'er canzhan."
+        },
+        {
+            "chapter": 33,
+            "verse": 19,
+            "text": "Tamen dui nimen shi linse de. Dang kongbu jianglin de shihou, ni jian tamen wangzhe ni, tamen de yanjing zhuandong de xiang hun si de ren yiyang; dang kongbu xiaoshi de shihou, tamen que yi jianli de koushe tong ma nimen, er tamen dui qiancai shi linse de. Zhe deng ren, meiyou xindao, gu zhenzhu jieshi tamen de xingwei de xuwei, zhe duiyu zhenzhu shi rongyi de."
+        },
+        {
+            "chapter": 33,
+            "verse": 20,
+            "text": "Tamen yi wei tongmeng jun hai meiyou chetui, ruguo tongmeng jun juantuchonglai, tamen jiang xiwang ziji zai shamo zhong de youmu de alabo ren zhongjian, bing cong nali tanting nimen de xiaoxi, jiaruo tamen yu nimen xiangchu, tamen zhi ou'er canjia zhandou."
+        },
+        {
+            "chapter": 33,
+            "verse": 21,
+            "text": "Xiwang zhenzhu he mori, bingqie duoduo jinian zhenzhu zhe, nimen you shizhe keyi zuo nimen de youliang mofan."
+        },
+        {
+            "chapter": 33,
+            "verse": 22,
+            "text": "Dang xinshi jian tongmeng jun de shihou, tamen shuo: Zhe shi zhenzhu ji qi shizhe suo yingxu women de, zhenzhu ji qi shizhe shuo duile. Zhe jian shi zhi neng shi tamen gengjia quexin, gengjia shuncong."
+        },
+        {
+            "chapter": 33,
+            "verse": 23,
+            "text": "Xinshi zhong you xuduo ren, yi shijian tamen yu zhenzhu suo ding de mengyue: Tamen zhong you chengren de, youdai yi de, tamen meiyou bianjie."
+        },
+        {
+            "chapter": 33,
+            "verse": 24,
+            "text": "Yibian zhenzhuyin chengshi zhe de chengshi er shan bao tamen, bingqie suiyi di chengfa wei xin zhe, huo she you tamen. Zhenzhu que shi zhi she de, que shi zhi ci de."
+        },
+        {
+            "chapter": 33,
+            "verse": 25,
+            "text": "Zhenzhu shi bu xindao zhe mo neng huosheng, fenfen er gui; zhenzhu shi xinshi bu zhan er sheng. Zhenzhu shi zhi gang de, shi wanneng de."
+        },
+        {
+            "chapter": 33,
+            "verse": 26,
+            "text": "Ta ceng shi bangzhu tamen di naxie xinfeng tian jing zhe, cong ziji de baolei shang xialai, bingqie ba kongbu tou zai tamen xinli, nimen shalu yibufen, fulu yibufen."
+        },
+        {
+            "chapter": 33,
+            "verse": 27,
+            "text": "Ta shi nimen jicheng tamen de tudi, fangwu, caichan he nimen shangwei taguo de tudi. Zhen zhu duiyu wanshi shi quanneng de."
+        },
+        {
+            "chapter": 33,
+            "verse": 28,
+            "text": "Xianzhi a! Ni dui ni de zhong qi shuo: Ruguo nimen yu de jinshi de shenghuo yuqi zhuangshi, namo, nimen lai ba! Wo jiang yi li yi kuizeng nimen, wo ren nimen yi li er li qu."
+        },
+        {
+            "chapter": 33,
+            "verse": 29,
+            "text": "Ruguo nimen yu de zhenzhu ji qi shizhe de xiyue, yu houshi de anzhai, namo zhenzhu que yi wei nimen zhong de xingshan zhe, yubeile zhongda de baochou."
+        },
+        {
+            "chapter": 33,
+            "verse": 30,
+            "text": "Xianzhi de qizimen a! Nimen zhong shei zuole mingxian de choushi zhe, jiang shou jiabei de xingfa, zhe shi duiyu zhenzhu shi rongyi de."
+        },
+        {
+            "chapter": 33,
+            "verse": 31,
+            "text": "Nimen zhong shei fucong zhenzhu ji qi shizhe, erqie xingshan, wo jiang jiabei baochou shei, wo yi wei ta yubeile youhou de jiyang."
+        },
+        {
+            "chapter": 33,
+            "verse": 32,
+            "text": "Xianzhi de qizimen a! Nimen bu xiang bie de renhe funu, ruguo nimen jingwei zhenzhu, jiu buyao shuo wenrou dehua, yimian xinzhong you bing de ren, tanlian nimen; nimen yingdang shuo zhuangzhong dehua."
+        },
+        {
+            "chapter": 33,
+            "verse": 33,
+            "text": "Nimen yingdang anju yu nimen de jiazhong, nimen buyao xuan lu nimen di meili, ru congqian mengmei shidai de funu nayang. Nimen yingdang jin shou bai gong, wan na tian ke, shuncong zhenzhu ji qi shizhe. Xianzhi de jiashu a! Zhenzhu zhi yu xiaochu nimen de wuhui, xi jing nimen de zui'e."
+        },
+        {
+            "chapter": 33,
+            "verse": 34,
+            "text": "Nimen yingdang jin ji zai nimen jiazhong suo xuandu de zhenzhu de jixiang he geyan, zhenzhu shi xuanmiao de, shi che zhi de."
+        },
+        {
+            "chapter": 33,
+            "verse": 35,
+            "text": "Shunfu de nannu, xindao de nannu, fucong de nannu, chengshi de nannu, jianren de nannu, gongjing de nannu, hao shi de nannu, zhaijie de nannu, baoshou zhencao de nannu, chang nian zhenzhu de nannu, zhenzhu yi wei tamen yubeile she youhe zhongda de baochou."
+        },
+        {
+            "chapter": 33,
+            "verse": 36,
+            "text": "Dangzhenzhu ji qi shizhe panjue yi jian shi de shihou, xindao de nannu duiyu tamen de shi, buyi you xuanze. Shei weikang zhenzhu ji qi shizhe, shei yi xianru xianzhu de mi wule."
+        },
+        {
+            "chapter": 33,
+            "verse": 37,
+            "text": "Dangshi, ni dui na zhenzhu ceng shi yi enhui, ni ye ceng shi yi enhui de ren shuo: Ni yingdang wanliu ni de qizi, ni yingdang jingwei zhenzhu. Ni ba zhenzhu suo yu zhaoshi de, yincang zai ni de xinzhong, zhenzhu shi geng yingdang wei ni suo weiju de, ni que weiju zhongren. Dang zai de li jue ta de shihou, wo yi ta wei ni de qizi, yimian xinshimen wei tamen de yi zi suo li jue de qizi er ganjue fannan. Zhenzhu de mingling, shi bixu fengxing de."
+        },
+        {
+            "chapter": 33,
+            "verse": 38,
+            "text": "Xianzhi duiyu zhenzhu suo xu ta de shi, buyi ganjue fannan. Zhenzhu ceng yi ci wei guren de changdao. Zhenzhu de mingling shi buke biangeng de ding'an."
+        },
+        {
+            "chapter": 33,
+            "verse": 39,
+            "text": "Xianzhimen shi chuanda zhenzhu de shiming de, tamen weiju ta, chu zhenzhu wai, tamen bu weiju renhe ren. Zhenzhu zu wei jiancha zhe."
+        },
+        {
+            "chapter": 33,
+            "verse": 40,
+            "text": "Muhanmode bushi nimen zhong renhe nanren de fuqin, er shi zhenzhu de shizhe, he zhong xianzhi de fengyin. Zhenzhu shi quanzhi wanwu de."
+        },
+        {
+            "chapter": 33,
+            "verse": 41,
+            "text": "Xinshimen a! Nimen yingdang changchang jinian zhenzhu,"
+        },
+        {
+            "chapter": 33,
+            "verse": 42,
+            "text": "nimen yingdang zhaoxi zansong ta chaojue wanwu."
+        },
+        {
+            "chapter": 33,
+            "verse": 43,
+            "text": "Ta lianmin nimen, ta de tianshenmen wei nimen qidao, yibian ta jiang nimen cong chongchong hei'an yinru guangming, ta shi lianmin xinshi di."
+        },
+        {
+            "chapter": 33,
+            "verse": 44,
+            "text": "Tamen yu zhenzhu huijian di neitian, zhenzhu dui tamen de zhuci shi: Zhu nimen ping'an. Ta yi wei tamen yubeile youhou de baochou."
+        },
+        {
+            "chapter": 33,
+            "verse": 45,
+            "text": "Xianzhi a! Wo que yi paiqian ni wei jianzheng, wei baoxi zhe, wei jinggao zhe,"
+        },
+        {
+            "chapter": 33,
+            "verse": 46,
+            "text": "wei feng zhenzhu zhi ming zhao ren yu zhenzhu zhe, wei canlan de mingdeng."
+        },
+        {
+            "chapter": 33,
+            "verse": 47,
+            "text": "Ni yingdang xiang xinshimen baoxi, tamen jiang huode zhenzhu jiangxia de hong en."
+        },
+        {
+            "chapter": 33,
+            "verse": 48,
+            "text": "Ni buyao shuncong buxinzhe he wei xin zhe, ni yingdang ren sui tamen ruma, ni yingdang xinren zhenzhu, zhenzhu zu wei jianhu zhe."
+        },
+        {
+            "chapter": 33,
+            "verse": 49,
+            "text": "Xindao de renmen a! Nimen ruo qu xindao de funu, ranhou zai jiaojie qian xiule tamen, namo, tamen bu gai wei nimen er shou xianqi, suoyi nimen yingdang shi ta xiangshou, yingdang rang tamen yi li er li qu."
+        },
+        {
+            "chapter": 33,
+            "verse": 50,
+            "text": "Xianzhi a! Wo que yi zhun ni xiangshou ni jiyu pinli de qizi, ni de nubi, ji zhenzhu yiwei ni de zhanlipin de, ni de cong fu de nu'er. Ni de gumu de nu'er. Ni de jiufu de nu'er. Ni de yimu de nu'er. Tamen shi tong ni yidao qianju de. Xindao de funu, ruo jiang zishen zengyu xianzhi, ruo xianzhi yuanyi qu ta, zhe shi texu ni de, xinshimen bude yuanli--wo zhidao wo wei tamen de qizi yu nubi er dui tamen zuo chu de guiding--yimian ni ganshou kunnan. Zhenzhu shi zhi she de, shi zhi ci de."
+        },
+        {
+            "chapter": 33,
+            "verse": 51,
+            "text": "Ni keyi renyi di li jue tamen zhong de renhe ren, ye keyi renyi di wanliu tamen zhong de renhe ren. Ni suo zan li de qizi, ni xiang zhaohui ta, duiyu ni shi hao wu zuiguo de. Na shi zuijin yu shi tamen gandao anwei er wu bei'ai di, bingqie dou manyi ni suo jiyu tamen de. Zhenzhu zhidao nimen de xinshi, zhenzhu shi quanzhi de, shi zhi rui de."
+        },
+        {
+            "chapter": 33,
+            "verse": 52,
+            "text": "Yihou bu zhun ni zai qu funu, ye bu zhun ni yi tamen huan diao bie de qizi, jishi ni xianmu tamen di meimao, chufei shi ni de nubi. Zhen zhu shi jianshi wanwu de."
+        },
+        {
+            "chapter": 33,
+            "verse": 53,
+            "text": "Xinshimen a! Nimen buyao jin xianzhi de jia, chufei yaoqing nimen qu chifan de shihou; nimen buyao jinqu deng fan shu, dang qing ni qu de shihou cai jinqu; ji chi zhihou jiu dang gaotui, buyao liulian xianhua, yinwei na hui shi xianzhi gandao weinan, ta bu haoyisi citui nimen. Zhenzhu shi bu chi yu jieshi zhenli de. Nimen xiang xianzhi de qizimen suoqu renhe wupin de shihou, yingdang zai weimu wai suoqu, na duiyu nimen de xin he tamen de xin shi geng qingbai de. Nimen buyi shi shizhe weinan, zai ta zhihou, yong buyi qu ta de qizi, yinwei zai zhenzhu kan lai, na shi yi jian dazui."
+        },
+        {
+            "chapter": 33,
+            "verse": 54,
+            "text": "Ruguo nimen yao biaobai shenme, huo yinni shenme,(zhenzhu zong shi zhidao de), yin wei zhenzhu que shi quanzhi wanwu de."
+        },
+        {
+            "chapter": 33,
+            "verse": 55,
+            "text": "Tamen wufang huijian tamen de fuqin, erzi, dixiong, zhizi, waisheng, xindao de funu, he ziji de nubi. Nimen yingdang jingwei zhenzhu, zhenzhu que shi jianzheng wanwu de."
+        },
+        {
+            "chapter": 33,
+            "verse": 56,
+            "text": "Zhenzhu dique lianmin xianzhi, ta de tianshenmen dique wei ta zhufu. Xinshimen a! Nimen yingdang wei ta zhufu, yingdang zhu ta ping'an!"
+        },
+        {
+            "chapter": 33,
+            "verse": 57,
+            "text": "Feibang zhenzhu he shizhe de ren, zhenzhu zai jinshi he houshi bi qi jue tamen, bing wei tamen yubei lingru de xingfa."
+        },
+        {
+            "chapter": 33,
+            "verse": 58,
+            "text": "Yi xinshimen hexin numen suo wei fan de zui'e feibang tamen zhe, que yi danfu wumie he mingxian de zui'e."
+        },
+        {
+            "chapter": 33,
+            "verse": 59,
+            "text": "Xianzhi a! Ni yingdang dui ni de qizi, ni de nu'er he xinshimen de funu shuo: Tamen yingdang yong waiyi mengzhe ziji de shenti. Zheyang zuo zui rongyi shi ren renshi tamen, er bu shou qinfan. Zhenzhu shi zhi she de, shi zhi ci de."
+        },
+        {
+            "chapter": 33,
+            "verse": 60,
+            "text": "Wei xin de, xinzhong you bing de, zai chengzhong shanhuo renxin de, ruguo tamen reng bu baxiu, wo bi ming ni zhicai tamen, tamen jiu bude jiuju chengzhong yu ni wei linle."
+        },
+        {
+            "chapter": 33,
+            "verse": 61,
+            "text": "Tamen jiang bei qi jue, wulun tamen zai nali pi fa xian, jiu zai nali bei daibu, er bei chusi."
+        },
+        {
+            "chapter": 33,
+            "verse": 62,
+            "text": "Zhe shi zhenzhu duiyu guren de changdao, ni jue buneng faxian renhe biangeng."
+        },
+        {
+            "chapter": 33,
+            "verse": 63,
+            "text": "Zhongren wen ni fuhuo shi zai shenme shihou? Ni shuo: Na zhiyou zhenzhu cai zhidao. Shenme shi ni zhidao ta he shi fasheng ne? Fuhuo shi, huoxu shi hen jin de."
+        },
+        {
+            "chapter": 33,
+            "verse": 64,
+            "text": "Zhenzhu que yi qi jue buxindao zhe, bing wei tamen yubei liehuo."
+        },
+        {
+            "chapter": 33,
+            "verse": 65,
+            "text": "Tamen jiang yong ju qizhong, buneng dedao renhe baohu zhe, ye buneng dedao renhe yuanzhu zhe."
+        },
+        {
+            "chapter": 33,
+            "verse": 66,
+            "text": "Tamen de mianpi zai huo zhong bei fanzhuan zhi ri, tamen jiang shuo: Dan yuan women ceng fucong zhenzhu, fucong shizhe!"
+        },
+        {
+            "chapter": 33,
+            "verse": 67,
+            "text": "Tamen shuo: Women de zhu a! Women que yi fucong women de lingxiu he women de weiren, shi tamen shi women weibei zhengdao."
+        },
+        {
+            "chapter": 33,
+            "verse": 68,
+            "text": "Women de zhu a! Qiu ni yong jiabei de xingfa chuzhi tamen, qiu ni yanli de qi jue tamen."
+        },
+        {
+            "chapter": 33,
+            "verse": 69,
+            "text": "Xinshimen a! Nimen buyao fangxiao yuan wu mu sa de renmen. Zhenzhu yi wei ta xi xueyuan wu, ju zhenzhu kan lai, ta shi you mianzi de."
+        },
+        {
+            "chapter": 33,
+            "verse": 70,
+            "text": "Xinshimen a! Nimen yingdang jingwei zhenzhu, yingdang shuo zheng hua."
+        },
+        {
+            "chapter": 33,
+            "verse": 71,
+            "text": "Ta jiu gaishan nimen de xingwei, jiu she you nimen de zuiguo. Fucong zhenzhu ji qi shizhe de ren, que yi huode weida de chenggong."
+        },
+        {
+            "chapter": 33,
+            "verse": 72,
+            "text": "Wo que yi jiang zhongren xintuo tiandi he shanyue, dan tamen bu ken chengdan ta, tamen weiju ta, er ren que chengdanle--ren que shi bu yi de, que shi wuzhi de,"
+        },
+        {
+            "chapter": 33,
+            "verse": 73,
+            "text": "yizhi zhenzhu chengfa wei xin de nannu he yi wu pei zhu de nannu, er she you xindao de nannu! Zhenzhu shi zhi she de, shi zhi ci de."
+        },
+        {
+            "chapter": 34,
+            "verse": 1,
+            "text": "Yiqie zansong, quan guizhenzhu! Tiandi wanwu, dou shi ta de. Houshi de zansong, zhi guiyu ta. Ta shi zhi rui de, shi che zhi de."
+        },
+        {
+            "chapter": 34,
+            "verse": 2,
+            "text": "Ta zhidao qianru dixia de, cong dixia fachu de, cong tianshang jiangxia de, sheng dao tianshang de. Ta shi zhi ci de, shi zhi she de."
+        },
+        {
+            "chapter": 34,
+            "verse": 3,
+            "text": "Bu xindao de renmen shuo: Fuhuo shi bu hui lailin women. Ni shuo: Buran. Zhi wo de zhu fashi, ta bi lailin nimen. Wo de zhu shi quanzhi youxuan de, tiandi jian wei chen zhong de zhong wu, buneng yuanli ta; bi na geng xiao de, he geng da de, wu yi jian bu jilu zai yi ben mingbai de jingdian zhong."
+        },
+        {
+            "chapter": 34,
+            "verse": 4,
+            "text": "Yibian ta zai fuhuo shi baochou xindao er xingshan de renmen. Zhe deng ren, jiang huo she youhe youhou de jiyang."
+        },
+        {
+            "chapter": 34,
+            "verse": 5,
+            "text": "Jieli fandui wo de jixiang yiwei yijing chenggong de ren, jiang shou tongku de xingfa."
+        },
+        {
+            "chapter": 34,
+            "verse": 6,
+            "text": "You xueshi de renmen, zhidao cong ni de zhu jiang shi ni de jingdian, que shi zhenli, neng zhishi (shiren zou shang) wanneng de, ke song de zhu de dadao."
+        },
+        {
+            "chapter": 34,
+            "verse": 7,
+            "text": "Bu xindao de renmen shuo: Women zhishi nimen yige ren hao ma? Ta hui gaosu nimen, dang nimen bei fensui zhihou, nimen biding yao bei zaizao."
+        },
+        {
+            "chapter": 34,
+            "verse": 8,
+            "text": "Ta jiajie zhen zhu de mingyi er niezao ne? Haishi ta you feng bing? Buran! Bu xin houshi de renmen shi zai xingfa he shen shen de mi wu zhong."
+        },
+        {
+            "chapter": 34,
+            "verse": 9,
+            "text": "Nandao tamen meiyou guancha zai tamen shangmian he xiamian de tiandi ma? Ruguo wo yiyu, wo bi shi tamen lunxian zai dimian xia, huo shi tian yikuai yikuai di luo zai tamen de tou shang. Duiyu mei yige guiyi de puren, ci zhong que youyi zhong jixiang."
+        },
+        {
+            "chapter": 34,
+            "verse": 10,
+            "text": "Wo que yi shangci da wu de cong wo fachu de enhui. Qun shan a! Zhong niao a! Nimen yingdang hezhe ta zansong, wo wei ta shi tie rouruan,"
+        },
+        {
+            "chapter": 34,
+            "verse": 11,
+            "text": "Wo dui ta shuo: Ni yingdang zhizao wanshan de kaijia, ni yingdang dinghao kaijia de kuandu. Nimen ying dang xingshan, wo que shi mingcha nimen de xingwei de."
+        },
+        {
+            "chapter": 34,
+            "verse": 12,
+            "text": "Wo ceng shi feng gong su lai man de qushi, feng zai shangwu zou yi yue de lucheng, zai xiawu ye zou yi yue de lucheng. Wo wei ta shi rong tong xiang quanshui yang yong chu. Youxie jingling feng zhu de mingling zai ta de mianqian gongzuo; shei weibeile wo de mingling, wo jiu shi shei changshi liehuo de xingfa."
+        },
+        {
+            "chapter": 34,
+            "verse": 13,
+            "text": "Tamen wei ta xiujian tasuo yu xiujian de gongdian, diaoxiang, shuichi ban de dapan, guding de da guo.(Wo shuo): Da wu de de jiashu a! Nimen yingdang ganxie. Wo de puren zhong, ganxie zhe shi hen shao de."
+        },
+        {
+            "chapter": 34,
+            "verse": 14,
+            "text": "Wo jueding ta siwang de shihou, zhiyou chi ta de shouzhang de zhu chong, zhishi tamen ta yijing sile. Dang ta dao xia de shihou, jinglingmen huangrandawu: Jiaruo tamen neng zhi youxuan, namo, tamen weiceng douliu zai lingru de xingfa zhong."
+        },
+        {
+            "chapter": 34,
+            "verse": 15,
+            "text": "Sai bo yi zu, zai tamen de ju chu, que youyi zhong jixiang: Liang ge yuanpu, fen lie zuoyou. Nimen keyi chi nimen de zhu de jiyang, nimen yao ganxie ta. Yige feimei di difang, yige zhi she de zhuzai."
+        },
+        {
+            "chapter": 34,
+            "verse": 16,
+            "text": "Suihou, tamen beini, suoyi wo shi shuiku de jiliu qu yanmo tamen, wo ba tamen de liang ge yuanpu, bian cheng liang ge zhi shengzhang kuguo, chengliu, he xiewei de suanzao shu de yuanpu."
+        },
+        {
+            "chapter": 34,
+            "verse": 17,
+            "text": "Wo yin tamen de wang'en er yi zhe baochou tamen, wo zhi chengfa wang'en de ren."
+        },
+        {
+            "chapter": 34,
+            "verse": 18,
+            "text": "Wo zai tamen yu wo suo fu you di naxie chengshi zhi jian, jianshele xuduo xianzhu de chengshi, wo jun fen ge zhan jian de juli. Nimen zai qijian ping'an di luxing ruogan zhouye ba!"
+        },
+        {
+            "chapter": 34,
+            "verse": 19,
+            "text": "Ranhou, tamen shuo: Women de zhu a! Qiu ni fang zhang ge zhan zhi jian de juli. Tamen zi qi, suoyi wo yi tamen wei tan zhu. Wo shi tamen liulishisuo. Duiyu mei ge duo ren duoxie de ren, ci zhong que you xuduo jixiang."
+        },
+        {
+            "chapter": 34,
+            "verse": 20,
+            "text": "Yi bo lie si que yi faxian ta dui tamen de caice shi zhengque de, yinwei tamen dou zhuisui ta; zhiyou yi huo xinshi chuwai."
+        },
+        {
+            "chapter": 34,
+            "verse": 21,
+            "text": "Ta dui tamen suoyi you quanli zhe, zhi wei wo yao bianbie shei shi xinyang houshi de, shei shi huaiyi houshi de. Ni de zhu, shi wanwu de jianhu zhe."
+        },
+        {
+            "chapter": 34,
+            "verse": 22,
+            "text": "Ni shuo: Nimen she zhenzhu er ren zuo shenling de, nimen qidao tamen ba: Tamen buneng guanli tiandi jian wei chen zhi zhong de shiwu, tamen sihao buneng canyu tiandi de zaohua. Zhenzhu bu yi tamen zhong de renhe yige wei zhushou."
+        },
+        {
+            "chapter": 34,
+            "verse": 23,
+            "text": "Chu zhenzhu suo xuke zhe wai, zai zhenzhu nali, shuo qing jiang wu biyi. Zhidao tamen xinzhong de kongju bei paichu de shihou, tamen cai shuo: Nimen de zhu shuole shenme? Tamen shuo: Zhenli. Ta que shi zhizun de, que shi zhi da de."
+        },
+        {
+            "chapter": 34,
+            "verse": 24,
+            "text": "Ni shuo: Shei cong tianshang he dixia gongji nimen? Ni shuo: Zhenzhu. Women huo nimen, shi zai zhengdao shang de, huo shi zai xianzhu de mi wu zhong de."
+        },
+        {
+            "chapter": 34,
+            "verse": 25,
+            "text": "Ni shuo: Duiyu women suo fan de zui, nimen bu shoushen wen; duiyu nimen suo zuo de shi, women ye bu shoushen wen."
+        },
+        {
+            "chapter": 34,
+            "verse": 26,
+            "text": "Ni shuo: Women de zhu, jiang zhaoji women, ranhou, yi zhenli er wei women caipan, ta que shi zui shanyu caipan de, que shi quanzhi de."
+        },
+        {
+            "chapter": 34,
+            "verse": 27,
+            "text": "Ni shuo: Nimen gaosu wo, nimen suo cheng wei ta de huoban de. Jue buneng de. Buran, ta shi zhenzhu, shi wanneng de, shi zhi rui de."
+        },
+        {
+            "chapter": 34,
+            "verse": 28,
+            "text": "Wo zhi paiqian ni wei quan renlei de baoxi zhe he jinggao zhe, dan shiren daban bu zhidao."
+        },
+        {
+            "chapter": 34,
+            "verse": 29,
+            "text": "Tamen shuo: Ruguo ni shi shuo shihua de, zhege jinggao shenme shihou shixian ne?"
+        },
+        {
+            "chapter": 34,
+            "verse": 30,
+            "text": "Ni shuo: Nimen de yue qi shi you shi ri de, nimen bude shaoshao chidao, ye bude shaoshao zao dao."
+        },
+        {
+            "chapter": 34,
+            "verse": 31,
+            "text": "Buxindao de renmen shuo: Women jue buxin zhe “gulanjing”, ye buxin yiqian de jingdian. Jiaruo ni de jian bu yi de renmen bei juliu zai tamen de zhu nali de shihou, tamen huxiang bianbo, bei qifu de renmen jiang dui jiao'ao de renmen shuo: Jiaruo meiyou nimen, women biding shi xindao de."
+        },
+        {
+            "chapter": 34,
+            "verse": 32,
+            "text": "Jiao'ao de renmen jiang dui bei qifu de renmen shuo: Dang zhengdao lailin nimen de shihou, women ceng fang'ai nimen zunxun zhengdao ma? Buran, nimen ziyuan zuo fanzui."
+        },
+        {
+            "chapter": 34,
+            "verse": 33,
+            "text": "Bei qifu de renmen jiang dui jiao'ao de renmen shuo: Buran! Zhe shi nimen zhouye de jimou. Dangshi, nimen jiao women buxin zhenzhu, que wei ta shuli xuduo pidi. Dang tamen kanjian xingfa de shihou, tamen biaoshi huihen. Wo yao fan jiasuo fang zai zai xindao zhe de bozi shang, tamen zhi shou tamen de xingwei de baochou."
+        },
+        {
+            "chapter": 34,
+            "verse": 34,
+            "text": "Mei feng wo paiqian jinggao zhe dao yige chengshi qu, qizhong haohua de renmen zong shi shuo: Women dique bu xin ni de shiming."
+        },
+        {
+            "chapter": 34,
+            "verse": 35,
+            "text": "Tamen shuo: Wo ren caichan geng fu, er zi geng duo, wo ren jianglai jue bu zhen shou chengfa."
+        },
+        {
+            "chapter": 34,
+            "verse": 36,
+            "text": "Ni shuo: Wo de zhu yu shi shei de jiyang kuanyu, jiu shi ta kuanyu; yu shi shei de jiyang jiongpo, jiu shi ta jiongpo. Dan zhongren daban bu zhidao."
+        },
+        {
+            "chapter": 34,
+            "verse": 37,
+            "text": "Nimen de caichan, nimen de erzi, dou buneng shi nimen shaoshao de qinjin wo; dan xindao erqie xingshan de renmen, jiang yin tamen de xingwei er shou jiabei de baochou, tamen jiang anju yu lou shang."
+        },
+        {
+            "chapter": 34,
+            "verse": 38,
+            "text": "Jieli fandui wo de jixiang de renmen, jiang bei jujin zai xingfa zhong."
+        },
+        {
+            "chapter": 34,
+            "verse": 39,
+            "text": "Ni shuo: Wo de zhu, dique yu shi nage puren de jiyang kuanyu, jiu shi ta kuanyu; yu shi nage puren de jiyang jiongpo, jiu shi ta jiongpo. Nimen suo shishe de dongxi, ta jiang buchang ta; ta shi zui you de gongji zhe."
+        },
+        {
+            "chapter": 34,
+            "verse": 40,
+            "text": "Zai na ri, ta yao jiang tamen tongtong jihe qilai, ranhou dui tianshenmen shuo: Zhexie ren chongbaiguo nimen ma?"
+        },
+        {
+            "chapter": 34,
+            "verse": 41,
+            "text": "Tamen shuo: Women zansong ni chaojue wanwu! Ni shi women de zhu, tamen bushi women de nupu. Tamen que shi chongbai jingling de, tamen daban xinyang jingling."
+        },
+        {
+            "chapter": 34,
+            "verse": 42,
+            "text": "Jinri, tamen buneng huli, ye buneng xiang hai; wo jiang dui bu yi de renmen shuo: Nimen changshi nimen suo fouren de huoxing ba!"
+        },
+        {
+            "chapter": 34,
+            "verse": 43,
+            "text": "Youren dui tamen xuandu wo de mingbai de jixiang shi, tamen shuo: Zhege ren zhi xiang fang'ai nimen chongbai nimen de zuxian suo chongbai de ouxiang. Tamen you shuo: Zhe zhishi niezao de huangyan. Dang zhenli lailin de shihou, bu xindao de renmen shuo: Zhe zhishi yi zhong mingxian de moshu."
+        },
+        {
+            "chapter": 34,
+            "verse": 44,
+            "text": "Wo meiyou ba tamen de neng song xi de renhe jingdian shangci tamen, zai ni zhiqian, wo meiyou paiqian renhe jinggao zhe qu jiaohua tamen."
+        },
+        {
+            "chapter": 34,
+            "verse": 45,
+            "text": "Zai tamen zhiqian shiqu de renmen ceng fouren zhenli, tamen meiyou dadao wo suo ciyu qian ren de shi fen zhi yi, dan qian ren fouren wo de shizhemen, wo de qianze shi zenyang de?"
+        },
+        {
+            "chapter": 34,
+            "verse": 46,
+            "text": "Ni shuo: Wo zhi yi yi jian shi quandao nimen, nimen yingdang wei zhenzhu er shuangshuang de huo dandu de zhan qilai, ranhou siwei. Nimen de tongxiang, jue wu feng bing. Zai yanli de xingfa lailin zhiqian, ta dui nimen zhishi yige jinggao zhe."
+        },
+        {
+            "chapter": 34,
+            "verse": 47,
+            "text": "Ni shuo: Wo bu xiang nimen suoqu shenme baochou, ta quan gui nimen; wo de baochou, zhi guizhenzhu fudan. Ta shi jianzheng wanwu de."
+        },
+        {
+            "chapter": 34,
+            "verse": 48,
+            "text": "Ni shuo: Wo de zhu, yi zhenli sheji xuwei, ta shi quanzhi youxuan de."
+        },
+        {
+            "chapter": 34,
+            "verse": 49,
+            "text": "Ni shuo: Zhenli yi lailinliao, xuwei jiang huanmie, er bu fuchu."
+        },
+        {
+            "chapter": 34,
+            "verse": 50,
+            "text": "Ni shuo: Ruguo wo wu ru qitu, ze wo zi shou qi hai; ruguo wo zunxun zhengdao, ze youyu wo de zhu suo qishi de jingdian. Ta que shi quan cong de, que shi linjin de."
+        },
+        {
+            "chapter": 34,
+            "verse": 51,
+            "text": "Jiaruo ni de jian dangshi tamen kongbu er wu chu taobi, zai yige bu yuan di difang bei daibu."
+        },
+        {
+            "chapter": 34,
+            "verse": 52,
+            "text": "Tamen jiang shuo: Women yi xinyang tale. Tamen zen neng cong yaoyuan di difang huode xinyang ne?"
+        },
+        {
+            "chapter": 34,
+            "verse": 53,
+            "text": "Tamen yiqian bu xinyang ta, tamen cong yaoyuan di difang wang tan youxuan,"
+        },
+        {
+            "chapter": 34,
+            "verse": 54,
+            "text": "tamen jiang yin zhang'ai er buneng huode tamen suo yuwang de. Youru tamen de tonglei yiqian shou zhang'ai yiyang, tamen que zai fannao de yilu zhong."
+        },
+        {
+            "chapter": 35,
+            "verse": 1,
+            "text": "Yiqie zansong, quan guizhenzhu--tiandi de chuangzao zhe! Ta shi mei ge tianshen juyou liangyi, huo san yi, huo si yi. Ta zai chuangzao zhong zengjia tasuo yu zengjia de. Zhenzhu duiyu wanshi que shi quanneng de."
+        },
+        {
+            "chapter": 35,
+            "verse": 2,
+            "text": "Wulun zhenzhu shangci nimen shenme enhui, jue wu ren neng jiayi zulan; wulun ta kouliu shenme enhui, zai jin shi zhihou, jue wu ren neng jiayi kaishi. Ta que shi wanneng de, que shi zhi rui de."
+        },
+        {
+            "chapter": 35,
+            "verse": 3,
+            "text": "Renmen a! Nimen yingdang mingji zhenzhu suo ci nimen de enhui, chu zhenzhu wai, hai you she me chuangzao zhe neng cong tianshang dixia gongji nimen ma? Chu ta wai, jue wu ying shou chongbai de, nimen zenme ruci beimiu ne?"
+        },
+        {
+            "chapter": 35,
+            "verse": 4,
+            "text": "Ruguo tamen fouren ni, zai ni zhiqian de shizhemen, yi bei fourenle. Wanshi zhi guizhenzhu."
+        },
+        {
+            "chapter": 35,
+            "verse": 5,
+            "text": "Renmen a! Zhenzhu de yingxu, que shi zhenshi de, suoyi jue buyao rang jinshi de shenghuo qipian nimen, jue buyao rang hua zei yi zhenzhu de yourong qipian nimen."
+        },
+        {
+            "chapter": 35,
+            "verse": 6,
+            "text": "Emo que shi nimen de choudi, suoyi nimen yingdang ren ta wei choudi. Ta zhi haozhao ta de dangyu, yibian tamen zuo liehuo de jumin."
+        },
+        {
+            "chapter": 35,
+            "verse": 7,
+            "text": "Bu xindao zhe, jiang shou yanli de xingfa; xindao erqie xingshan zhe, jiang meng she youhe zhongda de baochou."
+        },
+        {
+            "chapter": 35,
+            "verse": 8,
+            "text": "Wei ziji de e xing suo mihuo, yin'er ren e wei shan zhe, xiang zhenzhu suoyindao de ren ma? Zhenzhu bi shi tasuo yiyu zhe wu ru mitu, bi shi tasuo yiyu zhe zunxun zhengdao, suo yi ni buyao wei aidao tamen er sangsheng, zhenzhu que shi quanzhi tamen de xingwei de."
+        },
+        {
+            "chapter": 35,
+            "verse": 9,
+            "text": "Zhen zhu shi feng qu xingqi yun lai, ranhou, ba yun gan zhi yige yi si di difang, er jie ta shi yi si de dadi fuhuo. Siren de fuhuo jiushi zheyang de."
+        },
+        {
+            "chapter": 35,
+            "verse": 10,
+            "text": "Yu de guangrong zhe, xuzhi guangrong quan guizhen zhu. Liangyan jiang wei tasuo zhi, ta sheng qi shanxing. Tumoubugui zhe, jiang shou yanli de xingfa; zhexie ren de tumou, shi buneng decheng de."
+        },
+        {
+            "chapter": 35,
+            "verse": 11,
+            "text": "Zhen zhu chuangzao nimen, xian yong nitu, ji yong jingye, ranhou, shi nimen chengwei pei'ou. Renhe nuren de huaiyun he fenmian, wu yi jian bushi ta suo zhidao de; zengjia chang ming zhe de shou shu, jianshao duanming zhe de nianling, wu yi jian bu jilu zai tian jing zhong; na dui zhen zhu shi rongyi de."
+        },
+        {
+            "chapter": 35,
+            "verse": 12,
+            "text": "Liang hai bu yiyang, zhe hai shi hen tian de, kekou de danshui, na hai shi hen ku de xian shui. Nimen ke chi mei yi haizhong suo chan de xinxian de rou, you ke cai nimen suo dai de shoushi. Ni kan chuanbo zai haishang polang er xing, yibian nimen xunqiu ta de enhui, yibian nimen ganxie ta."
+        },
+        {
+            "chapter": 35,
+            "verse": 13,
+            "text": "Ta shi heiye qinru baizhou, shi baizhou qinru heiye; ta zhifu ri yue, gezi yunxing zhi yi dingqi. Zhe shi zhenzhu--nimen de zhu, guotu zhishi ta de, nimen she ta er qidao de, buneng guanli yi sihao."
+        },
+        {
+            "chapter": 35,
+            "verse": 14,
+            "text": "Ruguo nimen qidao tamen, tamen ting bujian nimen de qidao; jibian tingjianle, tamen ye buneng daying nimen; fuhuo ri, tamen jiang fouren nimen ceng yi tamen pei zhenzhu. Renhe ren buneng xiang che zhi zhe nayang gaosu ni."
+        },
+        {
+            "chapter": 35,
+            "verse": 15,
+            "text": "Renmen a! Nimen cai shi xuqiu zhenzhu de, zhenzhu que shi wu qiu de, que shi ke song de."
+        },
+        {
+            "chapter": 35,
+            "verse": 16,
+            "text": "Ruguo ta yiyu, ta jiang huimie nimen, er chuangzao xin de zhongsheng."
+        },
+        {
+            "chapter": 35,
+            "verse": 17,
+            "text": "Na dui zhenzhu bushi fannan de."
+        },
+        {
+            "chapter": 35,
+            "verse": 18,
+            "text": "Yige fu zui zhe, bu zai fu bieren de zui; yige fuzhong zui zhe, ruguo jiao bieren lai ti ta fu zui, namo, bieren sui shi ta de jinqin, ye buneng ti ta danfu yi sihao. Ni zhi neng jinggao zai mimi zhong jingwei zhu, qie jin shou bai gong zhe. Xidi shenxin zhe, zhi wei ziji er xidi. Zhenzhu shi weiyi de guisu."
+        },
+        {
+            "chapter": 35,
+            "verse": 19,
+            "text": "Mangren he fei mangren bu xiangdeng,"
+        },
+        {
+            "chapter": 35,
+            "verse": 20,
+            "text": "hei'an yu guangming ye bu xiangdeng,"
+        },
+        {
+            "chapter": 35,
+            "verse": 21,
+            "text": "beiyin he dang yang ye bu xiangdeng,"
+        },
+        {
+            "chapter": 35,
+            "verse": 22,
+            "text": "huo ren he siren ye bu xiangdeng. Zhenzhu bi shi ta de yiyu zhe neng tingwen, ni jue buneng shi zai fen zhong de ren neng tingwen,"
+        },
+        {
+            "chapter": 35,
+            "verse": 23,
+            "text": "ni zhishi yige jinggao zhe."
+        },
+        {
+            "chapter": 35,
+            "verse": 24,
+            "text": "Wo que yi shi ni ben zhenli er wei baoxi zhe he jinggao zhe. Meiyou yige minzu ze yi, zhiyao you yige minzu, qizhong jiu you jinggao zhe cengjing shiqule."
+        },
+        {
+            "chapter": 35,
+            "verse": 25,
+            "text": "Ruguo tamen fouren ni, namo, zai tamen zhiqian shiqu zhe, yi fourenle; tamen zu zhong de shizhe ceng zhaoshi tamen mingzheng, tian jing he canlan de jingdian."
+        },
+        {
+            "chapter": 35,
+            "verse": 26,
+            "text": "Ranhou, wo cheng fa liao buxindao zhe, wo de qianze shi zenyang de?"
+        },
+        {
+            "chapter": 35,
+            "verse": 27,
+            "text": "Nandao ni hai bu zhidao ma? Zhenzhu cong yun zhong jiangxia yushui, ranhou jie yushui er shengchan ge zhong guoshi. Shanshang you bai de, hong de, gese de tiaowen, he qihei de yanshi."
+        },
+        {
+            "chapter": 35,
+            "verse": 28,
+            "text": "Renlei, yeshou he shengchu zhong, ye tongyang di you butong de zhonglei. Zhenzhu de puren zhong, zhiyou xuezhe jingwei ta. Zhenzhu que shi wanneng de, que shi zhi she de."
+        },
+        {
+            "chapter": 35,
+            "verse": 29,
+            "text": "Songdu zhenzhu de jingdian, qie jin shou bai gong, bing mimi de huo gongkai di fen she wo suo ciyu tamen de caiwu zhe, tamen xiwang zhe jingying bu pochan,"
+        },
+        {
+            "chapter": 35,
+            "verse": 30,
+            "text": "yibian ta shi tamen xiangshou ziji de wanquan de baochou, bing ba ta de enhui jia ci tamen; ta que shi zhi she de, que shi shan bao de."
+        },
+        {
+            "chapter": 35,
+            "verse": 31,
+            "text": "Wo suo qishi ni de, que shi zhenli, zu zheng yiqian de jingdian shi zhenshi de. Zhenzhu duiyu ta de pu renmen que shi che zhi de, que shi mingcha de."
+        },
+        {
+            "chapter": 35,
+            "verse": 32,
+            "text": "Ranhou, wo shi wo suo jianxuan de pu renmen jicheng jingdian; tamen zhong you zi qi de, you zhong he, you feng zhenzhu de mingling er zhengxian xingshan de. Na que shi hong en."
+        },
+        {
+            "chapter": 35,
+            "verse": 33,
+            "text": "Changzhu de leyuan, tamen jiang ru qizhong, tamen zai limian, dai de shi jin zhuo he zhenzhu, chuan de shi sichou."
+        },
+        {
+            "chapter": 35,
+            "verse": 34,
+            "text": "Tamen shuo: Yiqie zansong, quan guizhenzhu! Ta quchu women de youchou. Women de zhu, que shi zhi she de, que shi shan bao de."
+        },
+        {
+            "chapter": 35,
+            "verse": 35,
+            "text": "Ta shi women juzhu zai changzhu de fangwu zhong, na shi chu yu ta de enhui. Women zai limian, hao bu xinku, hao bu pijuan."
+        },
+        {
+            "chapter": 35,
+            "verse": 36,
+            "text": "Buxindao zhe, jiang zao huo yu de huoxing, ji bu pan tamen sixing, rang tamen siwang; you bu jianqing tamen suo zao de huoxing. Wo zheyang baochou yiqie wang'en de renmen."
+        },
+        {
+            "chapter": 35,
+            "verse": 37,
+            "text": "Tamen zai limian qiujiu shuo: Women de zhu a! Qiu ni fang women chuqu, women jiang gaiguo qian shan. Nandao wo meiyou yanchang nimen de shou shu, shi neng juewu zhe you juewu de shijian ma? Jinggao zhe yi jianglin nimenle. Nimen changshi xingfa ba, bu yi zhe jue meiyou renhe yuanzhu zhe."
+        },
+        {
+            "chapter": 35,
+            "verse": 38,
+            "text": "Zhenzhu que shi quanzhi tiandi de youxuan de, ta que shi quanzhi xinshi de."
+        },
+        {
+            "chapter": 35,
+            "verse": 39,
+            "text": "Ta shi nimen wei dadishang de dai zhi zhe. Buxindao zhe zi shou qi bu xin de baochou; bu xindao zhe de bu xin, zhi shi tamen zai tamen de zhu na shou tonghen; bu xindao zhe de bu xin, zhi shi tamen geng meng kui she."
+        },
+        {
+            "chapter": 35,
+            "verse": 40,
+            "text": "Ni shuo: Nimen gaosu wo ba, nimen she zhenzhu er qidao di naxie pei zhu, zenme ying shou chongbai ne? Nimen gaosu wo ba! Tamen ceng duzi chuangzaole da di de na yibufen ne? Haishi tamen ceng yu zhenzhu gongtong chuangzao zhu tian ne? Haishi zhenzhu ceng shouyu tamen yi ben jingdian, er tamen shi yiju na ben jingdian zhong de xuduo mingzheng ne? Buran, bu yi zhe jin yi qipian huxiang ying xu."
+        },
+        {
+            "chapter": 35,
+            "verse": 41,
+            "text": "Zhenzhu dique weichi tiandi, yimian huimie; ruguo tiandi yao huimie, ze chu zhenzhu wai, renhe ren buneng weichi ta. Ta que shi zhi rong de, que shi zhi she de."
+        },
+        {
+            "chapter": 35,
+            "verse": 42,
+            "text": "Tamen zhi zhenzhu er fachu de zui yanzhong de shiyan shuo: Ruguo you yige jinggao zhe lailin women, namo, women zunxun zhengdao bi shenguo renhe yige minzu. Dang jinggao zhe lailin tamen de shihou, tamen que gengjia beimiu,"
+        },
+        {
+            "chapter": 35,
+            "verse": 43,
+            "text": "zai difang shang gengjia zi da, gengjia tumoubugui. Yinmou zhi kun qi chuangzao zhe, tamen chule dengdai guren suo zaoshou de changdao wai, hai neng dengdai shenme ne? Duiyu zhenzhu de changdao, ni jue buneng faxian renhe biangeng; duiyu zhen zhu de changdao, ni jue buneng faxian renhe bianqian."
+        },
+        {
+            "chapter": 35,
+            "verse": 44,
+            "text": "Nandao tamen meiyou zai dadishang luxing, yi guancha qian ren de jieju shi zenyang de ma? Qian ren bi tamen shili geng da. Zhenzhu shi tiandi jian renhe wu buneng shi ta wunai de, ta que shi quanzhi de, que shi quanneng de."
+        },
+        {
+            "chapter": 35,
+            "verse": 45,
+            "text": "Jiaruo zhenzhu wei shiren suo fan de zui'e er chengzhi tamen, namo, ta bu liu yigeren zai dimian shang, dan ta rang tamen yanchi dao yige dingqi, dang tamen de dingqi lailin de shihou,(ta jiang yi tamen de xingwei er baochou tamen), yin wei zhenzhu que shi mingcha ta de zhong pu de."
+        },
+        {
+            "chapter": 36,
+            "verse": 1,
+            "text": "Ya xin."
+        },
+        {
+            "chapter": 36,
+            "verse": 2,
+            "text": "Yi zhihui de “gulanjing” fashi,"
+        },
+        {
+            "chapter": 36,
+            "verse": 3,
+            "text": "ni que shi zhong shizhe zhi yi,"
+        },
+        {
+            "chapter": 36,
+            "verse": 4,
+            "text": "ni dique shi zai zheng lushang bei paiqian de shizhe zhi yi."
+        },
+        {
+            "chapter": 36,
+            "verse": 5,
+            "text": "Wanneng zhi ci de zhenzhu jiang shi ci jing."
+        },
+        {
+            "chapter": 36,
+            "verse": 6,
+            "text": "Yibian ni jinggao yizu ren, tamen de zuxian wei bei jinggaoguo, suoyi tamen shi shuhu dayi de."
+        },
+        {
+            "chapter": 36,
+            "verse": 7,
+            "text": "Tamen zhong da duoshu ren que yi yingdang shou panjue, suoyi tamen bu xindao."
+        },
+        {
+            "chapter": 36,
+            "verse": 8,
+            "text": "Wo que yi ba jiasuo fang zai tamen de bozi shang, naxie jiasuo dadao xiaba, suoyi tamen buneng ditou."
+        },
+        {
+            "chapter": 36,
+            "verse": 9,
+            "text": "Wo zai tamen de qianmian anzhi yige zhang'ai, zai tamen de houmian anzhi yige zhang'ai, mengbile tamen, suoyi tamen kan bujian."
+        },
+        {
+            "chapter": 36,
+            "verse": 10,
+            "text": "Ni dui tamen jiayi jinggao yu fou, zhe zai tamen shi yiyang de, tamen bijing bu xindao."
+        },
+        {
+            "chapter": 36,
+            "verse": 11,
+            "text": "Ni zhi neng jinggao na zunshou jiaohui, erqie zai mimi zhong jingwei zhiren zhu zhe, ni yao yi she youhe youhou de baochou xiang ta baoxi."
+        },
+        {
+            "chapter": 36,
+            "verse": 12,
+            "text": "Wo biding yao shi siren fuhuo, wo biding yao jilu tamen suozuo de shan e, he tamen de shiji; wo jiang yiqie shiwu, xiangming di jilu zai yi ce mingbai de fanben zhong."
+        },
+        {
+            "chapter": 36,
+            "verse": 13,
+            "text": "Ni dang yi chengshi de jumin wei tamen she yige piyu. Dangshi, shizhemen lailin naxie jumin."
+        },
+        {
+            "chapter": 36,
+            "verse": 14,
+            "text": "Dangshi, wo ceng paiqian liang ge shizhe qu jiaohua naxie jumin, dan tamen fouren tamen lia de shiming, wo jiu yi di san ge shizhe qu yuanzhu tamen lia. Tamen shuo: Women que shi bei paiqian lai jiaohua nimen de."
+        },
+        {
+            "chapter": 36,
+            "verse": 15,
+            "text": "Tamen shuo: Nimen zhishi xiang women yiyang de fanren. Zhiren zhu meiyou jiang shi renhe wu, nimen zhishi shuohuang de."
+        },
+        {
+            "chapter": 36,
+            "verse": 16,
+            "text": "Tamen shuo: Women de zhu zhidao, women que shi bei paiqian lai jiaohua nimen de,"
+        },
+        {
+            "chapter": 36,
+            "verse": 17,
+            "text": "women zhi fu mingbai de chuanda de zeren."
+        },
+        {
+            "chapter": 36,
+            "verse": 18,
+            "text": "Tamen shuo: Women que yi wei nimen er zao eyun, ruguo nimen bu tingzhi xuanchuan, women shi bi ruma nimen, huo yi tongku de xingfa jia yu nimen."
+        },
+        {
+            "chapter": 36,
+            "verse": 19,
+            "text": "Tamen shuo: Nimen de eyun shi bansuizhe nimen de. Nandao youren jiaohui nimen,(nimen cai wei ta er zao eyun ma?) Buran! Nimen shi guofen de minzhong."
+        },
+        {
+            "chapter": 36,
+            "verse": 20,
+            "text": "Youyige ren cong chengzhong zui yuan di difang pao lai shuo: Wo de zongzu ya! Nimen yingdang shuncong shizhemen,"
+        },
+        {
+            "chapter": 36,
+            "verse": 21,
+            "text": "nimen yingdang shuncong naxie zunxun zhengdao, er bu xiang nimen suoqu baochou de renmen."
+        },
+        {
+            "chapter": 36,
+            "verse": 22,
+            "text": "(You shuo): Wo zen neng bu chongbai na chuangzaole wo, er nimen jiang bei zhao guiyu ta de zhuzai ne?"
+        },
+        {
+            "chapter": 36,
+            "verse": 23,
+            "text": "Nandao wo neng she ta er jing shi yixie shenling ma? Ruguo zhiren zhu yu jiang zai yu wo, ze tamen de shuo qing, duiyu wo hao wu biyi, tamen ye buneng zhengjiu wo."
+        },
+        {
+            "chapter": 36,
+            "verse": 24,
+            "text": "Ruguo nayang, wo que shi zai mingxian de mi wu zhong."
+        },
+        {
+            "chapter": 36,
+            "verse": 25,
+            "text": "Wo que yi gui xin nimen de zhu, gu nimen yingdang tingcong wo."
+        },
+        {
+            "chapter": 36,
+            "verse": 26,
+            "text": "You shengyin dui ta shuo: Ni ru leyuan ba! Ta shuo: Dan yuan wo de zongzu zhidao,"
+        },
+        {
+            "chapter": 36,
+            "verse": 27,
+            "text": "wo de zhu yi she you wo, bing shi wo chengwei shou youdai zhe!"
+        },
+        {
+            "chapter": 36,
+            "verse": 28,
+            "text": "Zai ta zhihou, wo meiyou jiang tianshen qu chengzhi ta de zongzu, wo ye bu changchang jiang tianshen."
+        },
+        {
+            "chapter": 36,
+            "verse": 29,
+            "text": "Cai tingjian yisheng nahan, tamen jiu miewangle."
+        },
+        {
+            "chapter": 36,
+            "verse": 30,
+            "text": "Ai zai zhong pu! Zhiyao you shizhe lai jiaohua tamen, tamen bian jiayi yunong."
+        },
+        {
+            "chapter": 36,
+            "verse": 31,
+            "text": "Nandao tamen bu zhidao ma? Zai tamen zhiqian, wo ceng huimiele xuduo shidai, naxie bei huimie de shidai yong bu zhuan hui chenshi."
+        },
+        {
+            "chapter": 36,
+            "verse": 32,
+            "text": "Tamen jiang tong tong bei jujin zai wo nali."
+        },
+        {
+            "chapter": 36,
+            "verse": 33,
+            "text": "Tamen youyi zhong jixiang: Yi si de da di, wo shi ta fuhuo, wo shi ta shengzhang liangshi, yi zuo tamen de shipin."
+        },
+        {
+            "chapter": 36,
+            "verse": 34,
+            "text": "Wo zai da dishang chuangzao xuduo ye zao yuan, putao yuan, wo shi xuduo yuanquan, cong di zhong yong chu,"
+        },
+        {
+            "chapter": 36,
+            "verse": 35,
+            "text": "yibian tamen shi qi guoshi. Zhexie guoshi bushi tamen de shou zao chulai de, nandao tamen bu ganxie me?"
+        },
+        {
+            "chapter": 36,
+            "verse": 36,
+            "text": "Zansong zhenzhu, chaojue wanwu! Ta chuangzao yiqie pei'ou, dimian suo shengchan de, tamen ziji, yiji tamen suo bu zhidao de, dou you pei'ou."
+        },
+        {
+            "chapter": 36,
+            "verse": 37,
+            "text": "Tamen youyi zhong jixiang, wo shi baizhou tuoli heiye, tamen bian huran zai hei'an zhong."
+        },
+        {
+            "chapter": 36,
+            "verse": 38,
+            "text": "Taiyang ji xing, zhi yiding suo, na shi wanneng de, quanzhi de zhu suo yuding de."
+        },
+        {
+            "chapter": 36,
+            "verse": 39,
+            "text": "Yueliang, wo wei ta yuding xingsu, zhidao ta zai bian cheng xiang ganku de ye zao zhi yiyang."
+        },
+        {
+            "chapter": 36,
+            "verse": 40,
+            "text": "Taiyang bude zhuiji yueliang, heiye ye bude chaoyue baizhou, ge zai yi ge guidao shang fuyouzhe."
+        },
+        {
+            "chapter": 36,
+            "verse": 41,
+            "text": "Tamen youyi zhong jixiang: Wo shi tamen de zisun, chengzuo manzai de chuanbo."
+        },
+        {
+            "chapter": 36,
+            "verse": 42,
+            "text": "Wo wei tamen er chuangzao xiang chuanbo nayang ke gong qi cheng de dongxi."
+        },
+        {
+            "chapter": 36,
+            "verse": 43,
+            "text": "Ruguo wo yiyu, wo jiu ba tamen yan si, er tamen meiyou renhe yuanzhu zhe, tamen jiang bu huo zhengjiu;"
+        },
+        {
+            "chapter": 36,
+            "verse": 44,
+            "text": "chufei shi yinwei wo de enhui, yinwei wo yao shi tamen xiangle zhi mou shi."
+        },
+        {
+            "chapter": 36,
+            "verse": 45,
+            "text": "Ruguo you shengyin dui tamen shuo: Nimen dang weiju zai nimen zhiqian de, he zai nimen zhihou, yibian nimen meng zhu de lianmin."
+        },
+        {
+            "chapter": 36,
+            "verse": 46,
+            "text": "Mei feng tamen de zhu de yi zhong jixiang lailin tamen, tamen bian beiqi ta."
+        },
+        {
+            "chapter": 36,
+            "verse": 47,
+            "text": "Ruguo you shengyin dui tamen shuo: Nimen yingdang fen she zhenzhu suo ciyu nimen de. Namo, bu xindao zhe jiang dui xindao zhe shuo: Zhenzhu yu gongyang shei jiu gongyang shei, women hebi gongyang ta ne? Nimen zhishi zai mingxian de mi wu zhong."
+        },
+        {
+            "chapter": 36,
+            "verse": 48,
+            "text": "Tamen shuo: Zhege jinggao shenme shihou shixian ne? Ruguo nimen shi shuo shihua de."
+        },
+        {
+            "chapter": 36,
+            "verse": 49,
+            "text": "Tamen zhi dengdai yisheng nahan, zai tamen fenzheng de shihou, xiji tamen;"
+        },
+        {
+            "chapter": 36,
+            "verse": 50,
+            "text": "tamen jianglai bu neng li yizhu, ye buneng hui jia qu."
+        },
+        {
+            "chapter": 36,
+            "verse": 51,
+            "text": "Haojiao yi xiang, tamen jiu cong fenmu chulai, ben xiang tamen de zhu."
+        },
+        {
+            "chapter": 36,
+            "verse": 52,
+            "text": "Tamen jiang shuo: Shang zai women! Shei jiang women cong women de wo chu huanxing? Zhe shi zhiren zhu suo yingxu women de, shizhemen yi shuo shihuale."
+        },
+        {
+            "chapter": 36,
+            "verse": 53,
+            "text": "Cai tingjian yisheng nahan, tamen jiu tongtong bei jujin zai wo zheli."
+        },
+        {
+            "chapter": 36,
+            "verse": 54,
+            "text": "Zai na ri, renhe ren bu shou sihao wang qu; nimen zhi yi ziji de xingwei er shou baochou."
+        },
+        {
+            "chapter": 36,
+            "verse": 55,
+            "text": "Leyuan de jumin zai na ri que shi congshi yu yu le de."
+        },
+        {
+            "chapter": 36,
+            "verse": 56,
+            "text": "Tamen he ziji de pei'ou, zai shu yin xia, kao zai chuangshang."
+        },
+        {
+            "chapter": 36,
+            "verse": 57,
+            "text": "Tamen zai leyuan zhong, jiang you shuiguo, bing you tamen suo yaoqiu de endian."
+        },
+        {
+            "chapter": 36,
+            "verse": 58,
+            "text": "Ping'an! Zhe shi cong zhi ci zhu fachu de zhuci."
+        },
+        {
+            "chapter": 36,
+            "verse": 59,
+            "text": "Fanzui de renmen ya! Jinri nimen dang tuibi dao yibian qu."
+        },
+        {
+            "chapter": 36,
+            "verse": 60,
+            "text": "A dan de houyi ya! Nandao wo meiyou zhufuguo nimen ma? Wo shuo nimen buyao chongbai emo, ta que shi nimen de choudi."
+        },
+        {
+            "chapter": 36,
+            "verse": 61,
+            "text": "Nimen yingdang chongbai wo, zhe shi zhenglu."
+        },
+        {
+            "chapter": 36,
+            "verse": 62,
+            "text": "Ta que shi xuduo ren mi wu, nandao nimen bumingbai ma?"
+        },
+        {
+            "chapter": 36,
+            "verse": 63,
+            "text": "Zhe shi congqian changchang yong lai konghe nimen de huo yu."
+        },
+        {
+            "chapter": 36,
+            "verse": 64,
+            "text": "Nimen shengqian bu ken xindao, suoyi jinri, nimen dang ru huo yu."
+        },
+        {
+            "chapter": 36,
+            "verse": 65,
+            "text": "Zai na ri, wo jiang fengbi tamen de kou, tamen de shou jiang dui wo shuohua, tamen de jiao jiang zuozheng tamen suo xing de shan e."
+        },
+        {
+            "chapter": 36,
+            "verse": 66,
+            "text": "Jiaruo wo yiyu, wo bi huimie tamen de yanjing, ranhou tamen mangzhe zoulu, dan tamen zen neng kanjian ne?"
+        },
+        {
+            "chapter": 36,
+            "verse": 67,
+            "text": "Jiaruo wo yiyu, wo bi shi tamen zai ziji de jiazhong bianxing, ranhou tamen ji buneng qianjin, you buneng houtui;"
+        },
+        {
+            "chapter": 36,
+            "verse": 68,
+            "text": "wo shi shei changshou, wo jiangdi shei de tizhi. Nandao tamen bu ming li me?"
+        },
+        {
+            "chapter": 36,
+            "verse": 69,
+            "text": "Wo meiyou jiao ta shige, shige duiyu ta shi bu xiangyi de. Zhege zhishi jiaohui he mingbai de “gulanjing”,"
+        },
+        {
+            "chapter": 36,
+            "verse": 70,
+            "text": "yibian ta jinggao huo ren, yibian bu xindao de renmen dang shou xingfa de panjue."
+        },
+        {
+            "chapter": 36,
+            "verse": 71,
+            "text": "Nandao tamen bu zhidao ma? Cong wo suo qinshou zao zuozhe zhi zhong, wo ceng wei tamen er chuangzao shengchu, er tamen guanli tamen."
+        },
+        {
+            "chapter": 36,
+            "verse": 72,
+            "text": "Wo wei tamen er zhifu shengchu, yi yibufen gong tamen qi, yibufen gong tamen chi."
+        },
+        {
+            "chapter": 36,
+            "verse": 73,
+            "text": "Tamen keyou tamen huode xuduo liyi he yinliao. Tamen zenme hai bu ganxie ne?"
+        },
+        {
+            "chapter": 36,
+            "verse": 74,
+            "text": "Tamen she zhenzhu er jing shi xuduo shenling, xiwang ziji huode yuanzhu."
+        },
+        {
+            "chapter": 36,
+            "verse": 75,
+            "text": "Naxie shenling buneng yuanzhu tamen, tamen que shi wei naxie shenling er bei jihe de jundui."
+        },
+        {
+            "chapter": 36,
+            "verse": 76,
+            "text": "Suoyi buyao rang tamen de wangyan shi ni youchou. Wo dique zhidao tamen suo yinni de, he tamen suo biaoxian de."
+        },
+        {
+            "chapter": 36,
+            "verse": 77,
+            "text": "Nandao ren hai bu zhidao ma? Wo ceng yong jingye chuangzao ta, er ta huran bian cheng tanbai de kangbian zhe."
+        },
+        {
+            "chapter": 36,
+            "verse": 78,
+            "text": "Ta wei wo shele yige piyu, er ta wangquele wo ceng chuangzao ta. Ta shuo: Shei neng shi xiu gu fuhuo ne?"
+        },
+        {
+            "chapter": 36,
+            "verse": 79,
+            "text": "Ni shuo: Zuichu chuangzao ta de, jiang shi ta fuhuo; ta shi quanzhi yiqie zhongsheng de."
+        },
+        {
+            "chapter": 36,
+            "verse": 80,
+            "text": "Ta wei nimen yong lu shu chuangzao huo, nimen bian yong na lu shu ran huo."
+        },
+        {
+            "chapter": 36,
+            "verse": 81,
+            "text": "Nandao neng zao tiandi de, buneng zao xiang tamen nayang de ren ma? Buran! Ta que shi shan zao de, que shi quanzhi de."
+        },
+        {
+            "chapter": 36,
+            "verse": 82,
+            "text": "Dang ta yu zaohua renhe shiwu de shihou, ta de shiqing zhishi shuo sheng: You, ta jiu youle."
+        },
+        {
+            "chapter": 36,
+            "verse": 83,
+            "text": "Zansong zhenzhu, chaojue wanwu! Yiqie shiwu de zhuquan dou zai ta de zhangwo zhi zhong, nimen zhi bei zhao guiyu ta."
+        }
+    ]
+}

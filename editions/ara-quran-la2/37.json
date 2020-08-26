@@ -1,0 +1,914 @@
+{
+    "chapter": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "Wassaffati saffa"
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "Fazzajirati zajra"
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "Fattaliyati thikra"
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "Inna ilahakum lawahid"
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "Rabbu assamawati wal-ardiwama baynahuma warabbu almashariq"
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "Inna zayyanna assamaaaddunya bizeenatin alkawakib"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "Wahifthan min kulli shaytaninmarid"
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "La yassammaAAoona ila almala-ial-aAAla wayuqthafoona min kulli janib"
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "Duhooran walahum AAathabun wasib"
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "Illa man khatifa alkhatfatafaatbaAAahu shihabun thaqib"
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "Fastaftihim ahum ashaddu khalqan amman khalaqna inna khalaqnahum min teeninlazib"
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "Bal AAajibta wayaskharoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "Wa-itha thukkiroo la yathkuroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "Wa-itha raaw ayatanyastaskhiroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "Waqaloo in hatha illasihrun mubeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "A-itha mitna wakunnaturaban waAAithaman a-innalamabAAoothoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "Awa abaona al-awwaloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "Qul naAAam waantum dakhiroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "Fa-innama hiya zajratun wahidatunfa-itha hum yanthuroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "Waqaloo ya waylana hathayawmu addeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "Hatha yawmu alfasli allatheekuntum bihi tukaththiboon"
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "Ohshuroo allatheena thalamoowaazwajahum wama kanoo yaAAbudoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "Min dooni Allahi fahdoohum ilasirati aljaheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "Waqifoohum innahum masooloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "Ma lakum la tanasaroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "Bal humu alyawma mustaslimoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "Waaqbala baAAduhum AAala baAAdinyatasaaloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "Qaloo innakum kuntum ta/toonanaAAani alyameen"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "Qaloo bal lam takoonoo mu/mineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "Wama kana lanaAAalaykum min sultanin bal kuntum qawman tagheen"
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "Fahaqqa AAalayna qawlu rabbinainna latha-iqoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "Faaghwaynakum inna kunnaghaween"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "Fa-innahum yawma-ithin fee alAAathabimushtarikoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "Inna kathalika nafAAalu bilmujrimeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "Innahum kanoo itha qeela lahumla ilaha illa Allahu yastakbiroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "Wayaqooloona a-inna latarikoo alihatinalishaAAirin majnoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "Bal jaa bilhaqqi wasaddaqaalmursaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "Innakum latha-iqoo alAAathabial-aleem"
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "Wama tujzawna illa makuntum taAAmaloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "Illa AAibada Allahialmukhlaseen"
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "Ola-ika lahum rizqun maAAloom"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "Fawakihu wahum mukramoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "Fee jannati annaAAeem"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "AAala sururin mutaqabileen"
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "Yutafu AAalayhim bika/sin min maAAeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "Baydaa laththatin lishsharibeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "La feeha ghawlun walahum AAanha yunzafoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "WaAAindahum qasiratu attarfiAAeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "Kaannahunna baydun maknoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "Faaqbala baAAduhum AAala baAAdinyatasaaloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "Qala qa-ilun minhum innee kanalee qareen"
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "Yaqoolu a-innaka lamina almusaddiqeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "A-itha mitna wakunnaturaban waAAithaman a-innalamadeenoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "Qala hal antum muttaliAAoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "FattalaAAa faraahu feesawa-i aljaheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "Qala tallahi in kidtalaturdeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "Walawla niAAmatu rabbee lakuntu minaalmuhdareen"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "Afama nahnu bimayyiteen"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "Illa mawtatana al-oolawama nahnu bimuAAaththabeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "Inna hatha lahuwa alfawzu alAAatheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "Limithli hatha falyaAAmali alAAamiloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "Athalika khayrun nuzulan am shajaratuazzaqqoom"
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "Inna jaAAalnahafitnatan liththalimeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "Innaha shajaratun takhruju fee aslialjaheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "TalAAuha kaannahu ruoosu ashshayateen"
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "Fa-innahum laakiloona minhafamali-oona minha albutoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "Thumma inna lahum AAalayha lashawbanmin hameem"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "Thumma inna marjiAAahum la-ila aljaheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "Innahum alfaw abaahum dalleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "Fahum AAala atharihimyuhraAAoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "Walaqad dalla qablahum aktharual-awwaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "Walaqad arsalna feehim munthireen"
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "Fanthur kayfa kanaAAaqibatu almunthareen"
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "Illa AAibada Allahialmukhlaseen"
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "Walaqad nadana noohunfalaniAAma almujeeboon"
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "Wanajjaynahu waahlahu mina alkarbialAAatheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "WajaAAalna thurriyyatahu humualbaqeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "Watarakna AAalayhi fee al-akhireen"
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "Salamun AAala noohinfee alAAalameen"
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "Inna kathalika najzee almuhsineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "Innahu min AAibadinaalmu/mineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "Thumma aghraqna al-akhareen"
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "Wa-inna min sheeAAatihi la-ibraheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "Ith jaa rabbahu biqalbinsaleem"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "Ith qala li-abeehi waqawmihi mathataAAbudoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "A-ifkan alihatan doona Allahitureedoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "Fama thannukum birabbialAAalameen"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "Fanathara nathratanfee annujoom"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "Faqala innee saqeem"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "Fatawallaw AAanhu mudbireen"
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "Faragha ila alihatihimfaqala ala ta/kuloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "Ma lakum la tantiqoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "Faragha AAalayhim darban bilyameen"
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "Faaqbaloo ilayhi yaziffoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "Qala ataAAbudoona ma tanhitoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "Wallahu khalaqakum wamataAAmaloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "Qaloo ibnoo lahu bunyananfaalqoohu fee aljaheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "Faaradoo bihi kaydan fajaAAalnahumual-asfaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "Waqala innee thahibun ilarabbee sayahdeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "Rabbi hablee mina assaliheen"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "Fabashsharnahu bighulamin haleem"
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "Falamma balagha maAAahu assaAAyaqala ya bunayya innee ara fee almanamiannee athbahuka fanthur mathatara qala ya abati ifAAal ma tu/marusatajidunee in shaa Allahu mina assabireen"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "Falamma aslama watallahuliljabeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "Wanadaynahu an ya ibraheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "Qad saddaqta arru/yainna kathalika najzee almuhsineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "Inna hatha lahuwa albalaoalmubeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "Wafadaynahu bithibhinAAatheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "Watarakna AAalayhi fee al-akhireen"
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "Salamun AAala ibraheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "Kathalika najzee almuhsineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "Innahu min AAibadinaalmu/mineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "Wabashsharnahu bi-ishaqanabiyyan mina assaliheen"
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "Wabarakna AAalayhi waAAalaishaqa wamin thurriyyatihima muhsinunwathalimun linafsihi mubeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "Walaqad mananna AAala moosawaharoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "Wanajjaynahuma waqawmahumamina alkarbi alAAatheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "Wanasarnahum fakanoohumu alghalibeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "Waataynahuma alkitabaalmustabeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "Wahadaynahuma assirataalmustaqeem"
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "Watarakna AAalayhima fee al-akhireen"
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "Salamun AAala moosawaharoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "Inna kathalika najzee almuhsineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "Innahuma min AAibadinaalmu/mineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "Wa-inna ilyasa lamina almursaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "Ith qala liqawmihi alatattaqoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "AtadAAoona baAAlan watatharoona ahsanaalkhaliqeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "Allaha rabbakum warabba aba-ikumual-awwaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "Fakaththaboohu fa-innahum lamuhdaroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "Illa AAibada Allahialmukhlaseen"
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "Watarakna AAalayhi fee al-akhireen"
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "Salamun AAala il yaseen"
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "Inna kathalika najzee almuhsineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "Innahu min AAibadinaalmu/mineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "Wa-inna lootan lamina almursaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "Ith najjaynahu waahlahuajmaAAeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "Illa AAajoozan fee alghabireen"
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "Thumma dammarna al-akhareen"
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "Wa-innakum latamurroona AAalayhim musbiheen"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "Wabillayli afala taAAqiloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "Wa-inna yoonusa lamina almursaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "Ith abaqa ila alfulki almashhoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "Fasahama fakana mina almudhadeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "Faltaqamahu alhootu wahuwamuleem"
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "Falawla annahu kana minaalmusabbiheen"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "Lalabitha fee batnihi ilayawmi yubAAathoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "Fanabathnahu bilAAara-iwahuwa saqeem"
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "Waanbatna AAalayhi shajaratan minyaqteen"
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "Waarsalnahu ila mi-ati alfinaw yazeedoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "Faamanoo famattaAAnahum ilaheen"
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "Fastaftihim alirabbika albanatuwalahumu albanoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "Am khalaqna almala-ikata inathanwahum shahidoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "Ala innahum min ifkihim layaqooloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "Walada Allahu wa-innahum lakathiboon"
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "Astafa albanati AAalaalbaneen"
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "Ma lakum kayfa tahkumoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "Afala tathakkaroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "Am lakum sultanun mubeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "Fa/too bikitabikum in kuntum sadiqeen"
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "WajaAAaloo baynahu wabayna aljinnatinasaban walaqad AAalimati aljinnatu innahum lamuhdaroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "Subhana Allahi AAammayasifoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "Illa AAibada Allahialmukhlaseen"
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "Fa-innakum wama taAAbudoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "Ma antum AAalayhi bifatineen"
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "Illa man huwa sali aljaheem"
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "Wama minna illa lahumaqamun maAAloom"
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "Wa-inna lanahnu assaffoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "Wa-inna lanahnu almusabbihoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "Wa-in kanoo layaqooloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "Law anna AAindana thikranmina al-awwaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "Lakunna AAibada Allahialmukhlaseen"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "Fakafaroo bihi fasawfa yaAAlamoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "Walaqad sabaqat kalimatuna liAAibadinaalmursaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "Innahum lahumu almansooroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "Wa-inna jundana lahumu alghaliboon"
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "Fatawalla AAanhum hatta heen"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "Waabsirhum fasawfa yubsiroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "AfabiAAathabina yastaAAjiloon"
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "Fa-itha nazala bisahatihimfasaa sabahu almunthareen"
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "Watawalla AAanhum hatta heen"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "Waabsir fasawfa yubsiroon"
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "Subhana rabbika rabbi alAAizzatiAAamma yasifoon"
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "Wasalamun AAala almursaleen"
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "Walhamdu lillahirabbi alAAalameen"
+        }
+    ]
+}

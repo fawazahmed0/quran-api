@@ -1,0 +1,39 @@
+{
+    "pages": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Bismi Allahi arrahmani arraheem"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Alhamdu lillahi rabbi alAAalameen"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Arrahmani arraheem"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Maliki yawmi addeen"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Iyyaka naAAbudu wa-iyyaka nastaAAeen"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Ihdina assirata almustaqeem"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Sirata allatheena anAAamta AAalayhim ghayri almaghdoobi AAalayhim wala addalleen"
+        }
+    ]
+}

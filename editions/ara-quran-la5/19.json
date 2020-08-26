@@ -1,0 +1,494 @@
+{
+    "chapter": [
+        {
+            "chapter": 19,
+            "verse": 1,
+            "text": "kaf-ha-ya-ain-sad"
+        },
+        {
+            "chapter": 19,
+            "verse": 2,
+            "text": "dhik'ru rahmati rabbika ʿabdahu zakariyya"
+        },
+        {
+            "chapter": 19,
+            "verse": 3,
+            "text": "idh nada rabbahu nidaan khafiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 4,
+            "text": "qala rabbi inni wahana l-ʿazmu minni wa-ish'taʿala l-rasu shayban walam akun biduʿaika rabbi shaqiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 5,
+            "text": "wa-inni khif'tu l-mawaliya min warai wakanati im'ra-ati ʿaqiran fahab li min ladunka waliyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 6,
+            "text": "yarithuni wayarithu min ali yaʿquba wa-ij'ʿalhu rabbi radiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 7,
+            "text": "yazakariyya inna nubashiruka bighulamin us'muhu yahya lam najʿal lahu min qablu samiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 8,
+            "text": "qala rabbi anna yakunu li ghulamun wakanati im'ra-ati ʿaqiran waqad balaghtu mina l-kibari ʿitiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 9,
+            "text": "qala kadhalika qala rabbuka huwa ʿalayya hayyinun waqad khalaqtuka min qablu walam taku shayan"
+        },
+        {
+            "chapter": 19,
+            "verse": 10,
+            "text": "qala rabbi ij'ʿal li ayatan qala ayatuka alla tukallima l-nasa thalatha layalin sawiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 11,
+            "text": "fakharaja ʿala qawmihi mina l-mih'rabi fa-awha ilayhim an sabbihu buk'ratan waʿashiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 12,
+            "text": "yayahya khudhi l-kitaba biquwwatin waataynahu l-huk'ma sabiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 13,
+            "text": "wahananan min ladunna wazakatan wakana taqiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 14,
+            "text": "wabarran biwalidayhi walam yakun jabbaran ʿasiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 15,
+            "text": "wasalamun ʿalayhi yawma wulida wayawma yamutu wayawma yub'ʿathu hayyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 16,
+            "text": "wa-udh'kur fi l-kitabi maryama idhi intabadhat min ahliha makanan sharqiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 17,
+            "text": "fa-ittakhadhat min dunihim hijaban fa-arsalna ilayha ruhana fatamathala laha basharan sawiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 18,
+            "text": "qalat inni aʿudhu bil-rahmani minka in kunta taqiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 19,
+            "text": "qala innama ana rasulu rabbiki li-ahaba laki ghulaman zakiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 20,
+            "text": "qalat anna yakunu li ghulamun walam yamsasni basharun walam aku baghiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 21,
+            "text": "qala kadhaliki qala rabbuki huwa ʿalayya hayyinun walinajʿalahu ayatan lilnnasi warahmatan minna wakana amran maqdiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 22,
+            "text": "fahamalathu fa-intabadhat bihi makanan qasiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 23,
+            "text": "fa-ajaaha l-makhadu ila jidh'ʿi l-nakhlati qalat yalaytani mittu qabla hadha wakuntu nasyan mansiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 24,
+            "text": "fanadaha min tahtiha alla tahzani qad jaʿala rabbuki tahtaki sariyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 25,
+            "text": "wahuzzi ilayki bijidh'ʿi l-nakhlati tusaqit ʿalayki rutaban janiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 26,
+            "text": "fakuli wa-ish'rabi waqarri ʿaynan fa-imma tarayinna mina l-bashari ahadan faquli inni nadhartu lilrrahmani sawman falan ukallima l-yawma insiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 27,
+            "text": "fa-atat bihi qawmaha tahmiluhu qalu yamaryamu laqad ji'ti shayan fariyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 28,
+            "text": "yaukh'ta haruna ma kana abuki im'ra-a sawin wama kanat ummuki baghiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 29,
+            "text": "fa-asharat ilayhi qalu kayfa nukallimu man kana fi l-mahdi sabiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 30,
+            "text": "qala inni ʿabdu l-lahi ataniya l-kitaba wajaʿalani nabiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 31,
+            "text": "wajaʿalani mubarakan ayna ma kuntu wa-awsani bil-salati wal-zakati ma dum'tu hayyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 32,
+            "text": "wabarran biwalidati walam yajʿalni jabbaran shaqiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 33,
+            "text": "wal-salamu ʿalayya yawma wulidttu wayawma amutu wayawma ub'ʿathu hayyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 34,
+            "text": "dhalika ʿisa ub'nu maryama qawla l-haqi alladhi fihi yamtaruna"
+        },
+        {
+            "chapter": 19,
+            "verse": 35,
+            "text": "ma kana lillahi an yattakhidha min waladin sub'hanahu idha qada amran fa-innama yaqulu lahu kun fayakunu"
+        },
+        {
+            "chapter": 19,
+            "verse": 36,
+            "text": "wa-inna l-laha rabbi warabbukum fa-uʿ'buduhu hadha siratun mus'taqimun"
+        },
+        {
+            "chapter": 19,
+            "verse": 37,
+            "text": "fa-ikh'talafa l-ahzabu min baynihim fawaylun lilladhina kafaru min mashhadi yawmin ʿazimin"
+        },
+        {
+            "chapter": 19,
+            "verse": 38,
+            "text": "asmiʿ bihim wa-absir yawma yatunana lakini l-zalimuna l-yawma fi dalalin mubinin"
+        },
+        {
+            "chapter": 19,
+            "verse": 39,
+            "text": "wa-andhir'hum yawma l-hasrati idh qudiya l-amru wahum fi ghaflatin wahum la yu'minuna"
+        },
+        {
+            "chapter": 19,
+            "verse": 40,
+            "text": "inna nahnu narithu l-arda waman ʿalayha wa-ilayna yur'jaʿuna"
+        },
+        {
+            "chapter": 19,
+            "verse": 41,
+            "text": "wa-udh'kur fi l-kitabi ib'rahima innahu kana siddiqan nabiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 42,
+            "text": "idh qala li-abihi yaabati lima taʿbudu ma la yasmaʿu wala yub'siru wala yugh'ni ʿanka shayan"
+        },
+        {
+            "chapter": 19,
+            "verse": 43,
+            "text": "yaabati inni qad jaani mina l-ʿil'mi ma lam yatika fa-ittabiʿ'ni ahdika siratan sawiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 44,
+            "text": "yaabati la taʿbudi l-shaytana inna l-shaytana kana lilrrahmani ʿasiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 45,
+            "text": "yaabati inni akhafu an yamassaka ʿadhabun mina l-rahmani fatakuna lilshaytani waliyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 46,
+            "text": "qala araghibun anta ʿan alihati yaib'rahimu la-in lam tantahi la-arjumannaka wa-uh'jur'ni maliyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 47,
+            "text": "qala salamun ʿalayka sa-astaghfiru laka rabbi innahu kana bi hafiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 48,
+            "text": "wa-aʿtazilukum wama tadʿuna min duni l-lahi wa-adʿu rabbi ʿasa alla akuna biduʿai rabbi shaqiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 49,
+            "text": "falamma iʿ'tazalahum wama yaʿbuduna min duni l-lahi wahabna lahu is'haqa wayaʿquba wakullan jaʿalna nabiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 50,
+            "text": "wawahabna lahum min rahmatina wajaʿalna lahum lisana sid'qin ʿaliyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 51,
+            "text": "wa-udh'kur fi l-kitabi musa innahu kana mukh'lasan wakana rasulan nabiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 52,
+            "text": "wanadaynahu min janibi l-turi l-aymani waqarrabnahu najiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 53,
+            "text": "wawahabna lahu min rahmatina akhahu haruna nabiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 54,
+            "text": "wa-udh'kur fi l-kitabi is'maʿila innahu kana sadiqa l-waʿdi wakana rasulan nabiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 55,
+            "text": "wakana yamuru ahlahu bil-salati wal-zakati wakana ʿinda rabbihi mardiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 56,
+            "text": "wa-udh'kur fi l-kitabi id'risa innahu kana siddiqan nabiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 57,
+            "text": "warafaʿnahu makanan ʿaliyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 58,
+            "text": "ulaika alladhina anʿama l-lahu ʿalayhim mina l-nabiyina min dhurriyyati adama wamimman hamalna maʿa nuhin wamin dhurriyyati ib'rahima wa-is'raila wamimman hadayna wa-ij'tabayna idha tut'la ʿalayhim ayatu l-rahmani kharru sujjadan wabukiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 59,
+            "text": "fakhalafa min baʿdihim khalfun adaʿu l-salata wa-ittabaʿu l-shahawati fasawfa yalqawna ghayyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 60,
+            "text": "illa man taba waamana waʿamila salihan fa-ulaika yadkhuluna l-janata wala yuz'lamuna shayan"
+        },
+        {
+            "chapter": 19,
+            "verse": 61,
+            "text": "jannati ʿadnin allati waʿada l-rahmanu ʿibadahu bil-ghaybi innahu kana waʿduhu matiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 62,
+            "text": "la yasmaʿuna fiha laghwan illa salaman walahum riz'quhum fiha buk'ratan waʿashiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 63,
+            "text": "til'ka l-janatu allati nurithu min ʿibadina man kana taqiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 64,
+            "text": "wama natanazzalu illa bi-amri rabbika lahu ma bayna aydina wama khalfana wama bayna dhalika wama kana rabbuka nasiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 65,
+            "text": "rabbu l-samawati wal-ardi wama baynahuma fa-uʿ'bud'hu wa-is'tabir liʿibadatihi hal taʿlamu lahu samiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 66,
+            "text": "wayaqulu l-insanu a-idha ma mittu lasawfa ukh'raju hayyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 67,
+            "text": "awala yadhkuru l-insanu anna khalaqnahu min qablu walam yaku shayan"
+        },
+        {
+            "chapter": 19,
+            "verse": 68,
+            "text": "fawarabbika lanahshurannahum wal-shayatina thumma lanuh'dirannahum hawla jahannama jithiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 69,
+            "text": "thumma lananziʿanna min kulli shiʿatin ayyuhum ashaddu ʿala l-rahmani ʿitiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 70,
+            "text": "thumma lanahnu aʿlamu bi-alladhina hum awla biha siliyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 71,
+            "text": "wa-in minkum illa wariduha kana ʿala rabbika hatman maqdiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 72,
+            "text": "thumma nunajji alladhina ittaqaw wanadharu l-zalimina fiha jithiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 73,
+            "text": "wa-idha tut'la ʿalayhim ayatuna bayyinatin qala alladhina kafaru lilladhina amanu ayyu l-fariqayni khayrun maqaman wa-ahsanu nadiyyan"
+        },
+        {
+            "chapter": 19,
+            "verse": 74,
+            "text": "wakam ahlakna qablahum min qarnin hum ahsanu athathan wari'yan"
+        },
+        {
+            "chapter": 19,
+            "verse": 75,
+            "text": "qul man kana fi l-dalalati falyamdud lahu l-rahmanu maddan hatta idha ra-aw ma yuʿaduna imma l-ʿadhaba wa-imma l-saʿata fasayaʿlamuna man huwa sharrun makanan wa-adʿafu jundan"
+        },
+        {
+            "chapter": 19,
+            "verse": 76,
+            "text": "wayazidu l-lahu alladhina ih'tadaw hudan wal-baqiyatu l-salihatu khayrun ʿinda rabbika thawaban wakhayrun maraddan"
+        },
+        {
+            "chapter": 19,
+            "verse": 77,
+            "text": "afara-ayta alladhi kafara biayatina waqala lautayanna malan wawaladan"
+        },
+        {
+            "chapter": 19,
+            "verse": 78,
+            "text": "attalaʿa l-ghayba ami ittakhadha ʿinda l-rahmani ʿahdan"
+        },
+        {
+            "chapter": 19,
+            "verse": 79,
+            "text": "kalla sanaktubu ma yaqulu wanamuddu lahu mina l-ʿadhabi maddan"
+        },
+        {
+            "chapter": 19,
+            "verse": 80,
+            "text": "wanarithuhu ma yaqulu wayatina fardan"
+        },
+        {
+            "chapter": 19,
+            "verse": 81,
+            "text": "wa-ittakhadhu min duni l-lahi alihatan liyakunu lahum ʿizzan"
+        },
+        {
+            "chapter": 19,
+            "verse": 82,
+            "text": "kalla sayakfuruna biʿibadatihim wayakununa ʿalayhim diddan"
+        },
+        {
+            "chapter": 19,
+            "verse": 83,
+            "text": "alam tara anna arsalna l-shayatina ʿala l-kafirina ta-uzzuhum azzan"
+        },
+        {
+            "chapter": 19,
+            "verse": 84,
+            "text": "fala taʿjal ʿalayhim innama naʿuddu lahum ʿaddan"
+        },
+        {
+            "chapter": 19,
+            "verse": 85,
+            "text": "yawma nahshuru l-mutaqina ila l-rahmani wafdan"
+        },
+        {
+            "chapter": 19,
+            "verse": 86,
+            "text": "wanasuqu l-muj'rimina ila jahannama wir'dan"
+        },
+        {
+            "chapter": 19,
+            "verse": 87,
+            "text": "la yamlikuna l-shafaʿata illa mani ittakhadha ʿinda l-rahmani ʿahdan"
+        },
+        {
+            "chapter": 19,
+            "verse": 88,
+            "text": "waqalu ittakhadha l-rahmanu waladan"
+        },
+        {
+            "chapter": 19,
+            "verse": 89,
+            "text": "laqad ji'tum shayan iddan"
+        },
+        {
+            "chapter": 19,
+            "verse": 90,
+            "text": "takadu l-samawatu yatafattarna min'hu watanshaqqu l-ardu watakhirru l-jibalu haddan"
+        },
+        {
+            "chapter": 19,
+            "verse": 91,
+            "text": "an daʿaw lilrrahmani waladan"
+        },
+        {
+            "chapter": 19,
+            "verse": 92,
+            "text": "wama yanbaghi lilrrahmani an yattakhidha waladan"
+        },
+        {
+            "chapter": 19,
+            "verse": 93,
+            "text": "in kullu man fi l-samawati wal-ardi illa ati l-rahmani ʿabdan"
+        },
+        {
+            "chapter": 19,
+            "verse": 94,
+            "text": "laqad ahsahum waʿaddahum ʿaddan"
+        },
+        {
+            "chapter": 19,
+            "verse": 95,
+            "text": "wakulluhum atihi yawma l-qiyamati fardan"
+        },
+        {
+            "chapter": 19,
+            "verse": 96,
+            "text": "inna alladhina amanu waʿamilu l-salihati sayajʿalu lahumu l-rahmanu wuddan"
+        },
+        {
+            "chapter": 19,
+            "verse": 97,
+            "text": "fa-innama yassarnahu bilisanika litubashira bihi l-mutaqina watundhira bihi qawman luddan"
+        },
+        {
+            "chapter": 19,
+            "verse": 98,
+            "text": "wakam ahlakna qablahum min qarnin hal tuhissu min'hum min ahadin aw tasmaʿu lahum rik'zan"
+        }
+    ]
+}
