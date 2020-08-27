@@ -1,0 +1,15 @@
+
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true

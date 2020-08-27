@@ -111,10 +111,13 @@ async function create(update) {
   page = await context.newPage();
 
   // Saving flags used
-  logmsg("\nFlags Used\ncheckduplicate:"+checkduplicate+"\njsonrequired:"+jsonrequired+"\ngenerateLatin:"+generateLatin)
+  logmsg("\nFlags Used\ncheckduplicate:"+checkduplicate+"\njsonrequired:"+jsonrequired+"\ngenerateLatin:"+generateLatin,true)
 
   // Starting to read files in startDir
   for (var filename of fs.readdirSync(startDir)) {
+    // we don't want to read .gitkeep, it is used as a placeholder for start direcotory to exist in git
+    if(filename=='.gitkeep')
+    continue;
     logmsg("\nStarting to create files for " + filename)
     // Reading the file and retrieving as array, filteredarr, and jsondata inside it
     // filterarr doesn't contain jsondata and empty lines in it
