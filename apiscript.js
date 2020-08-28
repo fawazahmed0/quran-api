@@ -407,7 +407,7 @@ function cleanTrans(arr) {
     if (bracket2)
       arr[i] = arr[i] + getOppoBracket(bracket2[0].slice(0, 1))
   }
-  return arr
+  return arr.filter(elem => !/^\s*$/.test(elem))
 }
 
 // returns opposite bracket
