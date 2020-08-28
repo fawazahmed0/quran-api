@@ -6239,8 +6239,8 @@
     "author": "Quran Nastaleeq",
     "language": "Arabic",
     "direction": "rtl",
-    "source": "https://qurancomplex.gov.sa/",
-    "comments": "Version 10",
+    "source": "https://fonts.qurancomplex.gov.sa/",
+    "comments": "Version 10, Original Version from qurancomplex, It requires nastaleeq fonts to view them properly",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.min.json"
 }

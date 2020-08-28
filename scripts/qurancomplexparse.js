@@ -13,9 +13,9 @@
 var fs = require('fs');
 var path = require('path');
 
-var sura ="سُوْرَةُ"
-var basmala = "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ"
-var filename = "HafsNastaleeq Ver10.txt"
+var sura ="سُورَةُ"
+var basmala = "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
+var filename = "UthmanicShouba1 Ver07.txt"
 
 var suraregex =  new RegExp(sura+".*", "gi");
 
@@ -72,15 +72,17 @@ mystrarr = mystr.replace(/\r?\n/gi,"").replace(/(\d+)/gi,"\n$1\n").split(/\n/).f
 
 for(i=0;i<mystrarr.length;i++){
   if(i%2==0){
-    temp = mystrarr[i]
-    mystrarr[i] = mystrarr[i+1]
-    mystrarr[i+1] = temp
+  //  temp = mystrarr[i]
+//    mystrarr[i] = mystrarr[i+1]
+//    mystrarr[i+1] = temp
+    mystrarr[i] = mystrarr[i+1] + ' '+mystrarr[i]
+    mystrarr[i+1] = ''
   }
 
 
 }
 
-
+mystrarr = mystrarr.filter(elem => !/^\s*$/.test(elem)).map(s => s.trim())
 
 // .replace(/hello.*\n.*\n/gi,"")
 
