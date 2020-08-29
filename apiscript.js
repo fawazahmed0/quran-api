@@ -111,13 +111,13 @@ async function create(update) {
   page = await context.newPage();
 
   // Saving flags used
-  logmsg("\nFlags Used\ncheckduplicate:"+checkduplicate+"\njsonrequired:"+jsonrequired+"\ngenerateLatin:"+generateLatin,true)
+  logmsg("\nFlags Used\ncheckduplicate:" + checkduplicate + "\njsonrequired:" + jsonrequired + "\ngenerateLatin:" + generateLatin, true)
 
   // Starting to read files in startDir
   for (var filename of fs.readdirSync(startDir)) {
     // we don't want to read .gitkeep, it is used as a placeholder for start direcotory to exist in git
-    if(filename=='.gitkeep')
-    continue;
+    if (filename == '.gitkeep')
+      continue;
     logmsg("\nStarting to create files for " + filename)
     // Reading the file and retrieving as array, filteredarr, and jsondata inside it
     // filterarr doesn't contain jsondata and empty lines in it
@@ -125,9 +125,9 @@ async function create(update) {
     if (!jsondata) {
       logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format", true)
       jsondata = {}
-      if (jsonrequired){
+      if (jsonrequired) {
         var tempjson = '{"author":"Name of Author","langauge":"Name of langauge","source":"","comments":""}'
-        logmsg("\nAdd json at end of file in the following format:\n\n"+JSON.stringify(JSON.parse(tempjson),null,prettyindent))
+        logmsg("\nAdd json at end of file in the following format:\n\n" + JSON.stringify(JSON.parse(tempjson), null, prettyindent))
         continue
       }
 
@@ -332,6 +332,11 @@ function generateFiles(arr, json) {
   fs.writeFileSync(path.join(linebylineDir, json['name'] + ".txt"), arr.join('\n') + '\n' + JSON.stringify(json, null, prettyindent))
 }
 
+var [orgarr, filterarr, jsondata] = readDBTxt(path.join(startDir, 'ben-muhiuddinkhan-la.txt'))
+
+var cleanarr = validateCleanTrans(filterarr, 'ben-muhiuddinkhan-la.txt', orgarr)
+
+fs.writeFileSync('test.txt', cleanarr.join('\n'))
 
 // validates the translation and returns a clean translation without the numbers etc
 function validateCleanTrans(arr, filename, orgarr) {
@@ -348,18 +353,31 @@ function validateCleanTrans(arr, filename, orgarr) {
     // stores the last line string which had valid number pattern like 1|1|Praise be to God
     var laststr;
     // stores the numbers from line
-    var numsarr;
+    //  var numsarr;
+    // This will store arr which has valid lines, it will help in backtrack incase the limit is reached and we wanted to check the lastcorrect index for the search value
+    var temparr = []
+    // Stores the last index with valid number pattern
+    var lastindex = 0;
+    // Stores the regex verse pattern
+    var versePattern;
+    // stores the regex split values in an array
+    var splitval
     for (i = 0; i < arr.length; i++) {
-      // getting the numbers for verse
-      numsarr = arr[i].match(/\d+/g) || []
+      // Make versePattern for only if the mappings is defined and we are not trying to access which doesn't exists
+      if (mappings[j])
+        versePattern = new RegExp('[^0-9]' + mappings[j][1] + '[^0-9]');
       // Checking number patter of verses, j is the line number and mappings[j][1] accesses the verse number in that specific line number
       // we are checking that this line has same verse number as in mappings
-      if (mappings[j] && numsarr.includes(mappings[j][1] + '')) {
+      if (mappings[j] && versePattern.test(' ' + arr[i] + ' ')) {
         j++;
         // storing the line with valid number pattern
         laststr = arr[i];
         // resetting the stop as we found a valid verse line
         stop = 0
+        // Saving the index with valid number pattern to help in backtracking
+        lastindex = i
+        // Saving the valid arr to help in backtracking
+        temparr = [...arr]
       } else {
         // merging the newline content assuming it's part of verse, as we did not find next verse pattern
         arr[i - 1] = arr[i - 1] + " " + arr[i]
@@ -369,22 +387,31 @@ function validateCleanTrans(arr, filename, orgarr) {
         arr.splice(i, 1)
         // Going back to the previous line containing the merged content
         i--;
-        // if the limit is reached and we still did not find the next verse, we will stop, as the translation is not in correct format
-        if (stop++ == limit)
-          break;
+        // if the limit is reached and we still did not find the next verse or if the next loop will not happen
+        // and we have not yet got the right pattern verses, we will backtrack using temparray
+        // and check for search value at valid index, to make sure that next verse was not merged with the valid laststr
+        if (stop++ == limit || (i + 1 == arr.length && j != mappings.length)) {
+          // Checking whether the last valid index had the verse pattern in it
+          splitval = temparr[lastindex].split(versePattern)
+          console.log('chcekval is ', splitval)
+          // If the verse pattern exists, then we will cut and push that line into new line, otherwise we will stop, as it might be missing some verses in it
+          if (splitval[1]) {
+            temparr.splice(lastindex, 1, splitval[0], temparr[lastindex].replace(splitval[0], ""))
+            // Saving valid array, in next loop the number pattern will be detected and the process will go as usual
+            arr = [...temparr]
+          } else {
+            break;
+          }
+        }
+
       }
     }
     // if the above loop went till end i.e  6236 lines without finding any invalid verse pattern line, it means the file is in proper format
     if (j == mappings.length)
       return cleanTrans(arr)
     else
-      logmsg("\nerror while checking the " + filename + " it might be missing chapter " + mappings[j][0] + " and verse " + mappings[j][1] + " check at roughly lineno " + orgarr.indexOf(laststr) + 1 + " after or before the line '" + laststr + "' ,error will be somewhere near this line")
+      logmsg("\nerror while checking the " + filename + " it might be missing chapter " + mappings[j][0] + " and verse " + mappings[j][1] + " check at roughly lineno " + (orgarr.indexOf(laststr) + 1) + " after or before the line '" + laststr + "' ,error will be somewhere near this line")
   }
-}
-
-// clean the string from special symbols,numbers,multiple spaces etc , this is used for string comparision
-function cleanify(str) {
-  return str.replace(/[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n]+/gi, " ").replace(/^\s*\w{1}\s+/i, " ").replace(/\s\s+/g, " ").trim().toLowerCase()
 }
 
 // Cleaning translation from numbers, special symbols etc
@@ -408,6 +435,11 @@ function cleanTrans(arr) {
       arr[i] = arr[i] + getOppoBracket(bracket2[0].slice(0, 1))
   }
   return arr.filter(elem => !/^\s*$/.test(elem))
+}
+
+// clean the string from special symbols,numbers,multiple spaces etc , this is used for string comparision
+function cleanify(str) {
+  return str.replace(/[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n]+/gi, " ").replace(/^\s*\w{1}\s+/i, " ").replace(/\s\s+/g, " ").trim().toLowerCase()
 }
 
 // returns opposite bracket
