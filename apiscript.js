@@ -387,10 +387,10 @@ function validateCleanTrans(arr, filename, orgarr) {
         if (stop++ == limit || (i + 1 == arr.length && j != mappings.length)) {
           // Checking whether the last valid index had the verse pattern in it
           splitval = temparr[lastindex].split(versePattern)
-          console.log('chcekval is ', splitval)
           // If the verse pattern exists, then we will cut and push that line into new line, otherwise we will stop, as it might be missing some verses in it
           if (splitval[1]) {
             temparr.splice(lastindex, 1, splitval[0], temparr[lastindex].replace(splitval[0], ""))
+            logmsg("Two verse on same line "+temparr.slice(lastindex,lastindex+3), true)
             // Saving valid array, in next loop the number pattern will be detected and the process will go as usual
             arr = [...temparr]
           } else {
