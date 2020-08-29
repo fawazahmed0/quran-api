@@ -332,12 +332,6 @@ function generateFiles(arr, json) {
   fs.writeFileSync(path.join(linebylineDir, json['name'] + ".txt"), arr.join('\n') + '\n' + JSON.stringify(json, null, prettyindent))
 }
 
-var [orgarr, filterarr, jsondata] = readDBTxt(path.join(startDir, 'ben-muhiuddinkhan-la.txt'))
-
-var cleanarr = validateCleanTrans(filterarr, 'ben-muhiuddinkhan-la.txt', orgarr)
-
-fs.writeFileSync('test.txt', cleanarr.join('\n'))
-
 // validates the translation and returns a clean translation without the numbers etc
 function validateCleanTrans(arr, filename, orgarr) {
   // In proper format if the number of lines are 6236
