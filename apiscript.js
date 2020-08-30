@@ -6,15 +6,20 @@ var jsonrequired = true
 // whether to generate latin or not using translate.py script
 var generateLatin = true
 
-var fs = require('fs');
-var path = require('path');
+const fs = require('fs');
+const path = require('path');
+// Requires for md5 hash generations for fonts to check duplicates
+const crypto = require('crypto');
 // Requires for python or other system binaries to launch
-var {
+const {
   spawnSync
 } = require('child_process');
-var {
+const {
   firefox
 } = require('playwright');
+// https://www.npmjs.com/package/extract-zip
+// Required to extract the downloaded fonts .zip file from fontsquirrel
+const extract = require('extract-zip')
 
 // Folder that holds all the translations that needs to be added
 var startDir = path.join(__dirname, "start")
@@ -25,6 +30,8 @@ var editionsDir = path.join(__dirname, editionsFolder)
 var databaseDir = path.join(__dirname, 'database')
 // Stores translations in line by line format of 6236 lines
 var linebylineDir = path.join(databaseDir, 'linebyline')
+// Directory containing all the fonts
+var fontsDir = path.join(__dirname, 'fonts')
 var startUrl = "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@"
 var apiVersion = '1'
 // API url
@@ -55,8 +62,10 @@ var gLangCodes;
 // https://stackoverflow.com/a/5767589
 // access node command line args
 var argarr = process.argv.slice(2);
-// Page to add translation text and get the direction of text
+// Page to add translation text and get the direction of text and also for font generation
 var page
+// browser variable, to allow easily closing the browser from anywhere in the script
+var browser
 
 // function that will run on running this script
 async function start() {
@@ -71,10 +80,12 @@ async function start() {
   else if (argarr[0].toLowerCase().trim() == "search")
     search(argarr.slice(1))
   else if (argarr[0].toLowerCase().trim() == "delete") {
-    // storing the data in jsondb, so listingsGen function can work and create editions.json
+    // storing the data in jsondb, so editionsListingsGen function can work and create editions.json
     await jsonDB()
     deleteEditions(argarr.slice(1))
-  } else
+  } else if (argarr[0].toLowerCase().trim() == "fontsgen")
+    fontsGen()
+  else
     helpPrint()
 
 }
@@ -90,6 +101,7 @@ function helpPrint() {
   console.log("\nupdate\nupdates the database, copy the edition that needs to be edited from database/chapterverse directory and paste that edition in start directory and then perform any editing you want in the file and then run this command\nExample: node ", filename, " update")
   console.log("\ndelete\ndeletes the edition from database\nExample: node ", filename, " delete editionNameToDelete")
   console.log("\nsearch\nsearches the provided line in database\nExample: node ", filename, ' search "verseToSearch"')
+  console.log("\nfontsgen\ngenerates the fonts, paste your fonts in start direcotry and then run this command\nExample: node ", filename, ' fontsgen')
 }
 
 // function that will generate the editions, it will take the files from startDir
@@ -106,9 +118,7 @@ async function create(update) {
   gLangCodes = fs.readFileSync(path.join(__dirname, 'isocodes', 'google-codes.min.json')).toString();
   gLangCodes = JSON.parse(gLangCodes)
   // Launching browser as we will need it for checking direction of the language
-  var browser = await firefox.launch();
-  var context = await browser.newContext();
-  page = await context.newPage();
+  await launchBrowser()
 
   // Saving flags used
   logmsg("\nFlags Used\ncheckduplicate:" + checkduplicate + "\njsonrequired:" + jsonrequired + "\ngenerateLatin:" + generateLatin, true)
@@ -253,8 +263,8 @@ async function create(update) {
     // move the file for which update/create have been completed from startDir to originals dir
     fs.renameSync(path.join(startDir, filename), path.join(databaseDir, "originals", filename))
   }
-  // Generate the editions.json and fonts.json
-  listingsGen()
+  // Generate the editions.json
+  editionsListingsGen()
   // close the browser when everything is done
   await browser.close();
 }
@@ -390,7 +400,7 @@ function validateCleanTrans(arr, filename, orgarr) {
           // If the verse pattern exists, then we will cut and push that line into new line, otherwise we will stop, as it might be missing some verses in it
           if (splitval[1]) {
             temparr.splice(lastindex, 1, splitval[0], temparr[lastindex].replace(splitval[0], ""))
-            logmsg("Two verse on same line "+temparr.slice(lastindex,lastindex+3), true)
+            logmsg("Two verse on same line " + temparr.slice(lastindex, lastindex + 3), true)
             // Saving valid array, in next loop the number pattern will be detected and the process will go as usual
             arr = [...temparr]
           } else {
@@ -490,13 +500,13 @@ function deleteEditions(arr) {
       logmsg("\n deletion completed for " + editionname)
     }
   }
-  // Generate the editions.json and fonts.json, if any of the file was deleted
+  // Generate the editions.json if any of the file was deleted
   if (deleted)
-    listingsGen()
+    editionsListingsGen()
 }
 
-// reads the jsondb variable to generate editions.json, and to reads fonts folder to generate fonts.json
-function listingsGen() {
+// reads the jsondb variable to generate editions.json
+function editionsListingsGen() {
   var newjsondb = {}
   // we will always keep the editions.json in sorted order, so it's easier to find
   var sortedkeys = Object.keys(jsondb).sort()
@@ -508,38 +518,218 @@ function listingsGen() {
 
   fs.writeFileSync(editionsDir + ".json", JSON.stringify(newjsondb, null, prettyindent))
   fs.writeFileSync(editionsDir + ".min.json", JSON.stringify(newjsondb))
+  logmsg("\neditions.json and editions.min.json generated")
+}
 
-  var fontsarr = fs.readdirSync(path.join(__dirname, 'fonts'))
+// Generates font  and it's listings fonts.json
+async function fontsGen() {
+  // we will excute all of this only if startDir has files in it, as all the operations are pretty expensive
+  // remember there is  one .gitkeep file already, so files in startDir should be more than 1
+  if (fs.readdirSync(startDir).length > 1) {
+
+    // Get all FontNames without extension and in lower case
+    var fontNoExtension = fs.readdirSync(fontsDir).map(elem => elem.replace(/\.[^\.]*$/, "").toLowerCase())
+    // Removing duplicate values
+    fontNoExtension = [...new Set(fontNoExtension)];
+    // Rename all files with suffix -org in startdir, as we use -org in our code to denote original files
+    // And rename duplicate filenames in startsDir comparing with fontNoExtension array
+    for (var val of fs.readdirSync(startDir)) {
+      // extension of file
+      var extension = val.match(/\.[^\.]*$/gi) || [""]
+      // name without extension
+      var name = val.replace(extension[0], "")
+      // Rename the file if it ends with -org
+      while (/-org$/i.test(name)) {
+        name = name.replace(/-org$/i, "")
+        // rename the file
+        fs.renameSync(path.join(startDir, val), path.join(startDir, name + extension[0]))
+      }
+      // Checking for duplicateNames and renaming them in startDir
+      if (fontNoExtension.includes(name.toLowerCase()) || fontNoExtension.includes(name.toLowerCase() + '-org')) {
+        for (var i = 1;; i++) {
+          // Get the number at the ending of the name, so we can increment it if it exists
+          var lastNum = name.match(/\d+$/) || [0]
+          lastNum = parseInt(lastNum[0])
+          // Increament the above number if it exists to get a new name
+          var newFileName = name.replace(/\d+$/, "") + (lastNum + i)
+          if (!fontNoExtension.includes(newFileName.toLowerCase()) && !fontNoExtension.includes(newFileName.toLowerCase() + '-org'))
+            break;
+        }
+        // rename the file
+        fs.renameSync(path.join(startDir, name + extension[0]), path.join(startDir, newFileName + extension[0]))
+        // assigning the newFileName of the file to the name, this step is not required, but I might add new code later and that could use it
+        name = newFileName + extension[0]
+      }
+    }
+
+    // Directory that will store the files temporarily
+    var tempDir = path.join(__dirname, 'temp')
+
+    var fontsDirCrypto = dirHash(fontsDir)
+    var startDirCrypto = dirHash(startDir)
+
+    // We have to remove the .gitkeep from the json object
+    var gitkeepKey = Object.keys(startDirCrypto).find(key => startDirCrypto[key] == '.gitkeep')
+    delete startDirCrypto[gitkeepKey]
+
+    var startDirHashArr = Object.keys(startDirCrypto)
+    // array containing duplicate hashs
+    var duplicateHash = Object.keys(fontsDirCrypto).filter(elem => startDirHashArr.includes(elem));
+    for (var val of duplicateHash) {
+      logmsg("\nfont " + startDirCrypto[val] + " is a duplicate of " + fontsDirCrypto[val] + " hence we are ignoring it")
+      // Removing the hash and filename from the json, as we will not generate for duplicate fonts
+      delete startDirCrypto[val]
+    }
+
+    // Execute the below only if the start directory json has values in it
+    if (Object.keys(startDirCrypto).length > 0) {
+      logmsg("\nGenerating fonts Please wait, it might take a while\n" + "we will generate fonts for " + Object.values(startDirCrypto).join(', '))
+
+      // Making the temporary directory
+      fs.mkdirSync(tempDir, {
+        recursive: true
+      });
+      await launchBrowser('https://www.fontsquirrel.com/tools/webfont-generator', tempDir)
+
+      // array containing full path of font files in startDir
+      var fullPathArr = Object.values(startDirCrypto).map(elem => path.join(startDir, elem))
+      // Downloading fonts from fontsquirrel
+      var downloadedZip = await downloadFonts(fullPathArr)
+      // extract zip to tempDir
+      if (downloadedZip)
+        await extract(downloadedZip, {
+          dir: tempDir
+        })
+
+      // move all the generated files ending with valid font extensions to the fonts directory
+      for (var val of fs.readdirSync(tempDir)) {
+        if (/\.svg$/i.test(val) || /\.eot$/i.test(val) || /\.ttf$/i.test(val) || /\.woff$/i.test(val) || /\.woff2$/i.test(val))
+          fs.renameSync(path.join(tempDir, val), path.join(fontsDir, val))
+      }
+
+      // move all the valid fonts from startDir to fontsDir with -org suffix
+      for (var val of Object.values(startDirCrypto)) {
+        // extension of file
+        var extension = val.match(/\.[^\.]*$/gi) || [""]
+        var newName = val.replace(extension[0], "") + '-org' + extension[0]
+        fs.renameSync(path.join(startDir, val), path.join(fontsDir, newName))
+      }
+      // Delete the tempDir
+      fs.rmdirSync(tempDir, {
+        recursive: true
+      })
+      // closing the browser
+      await browser.close()
+    }
+  } // End of if
+
+  // Now have to generate fonts.json listings
+  fontsListingsGen()
+}
+
+// Generates the fonts.json and fonts.min.json by reading from the fontsDir
+function fontsListingsGen() {
+  var fontsarr = fs.readdirSync(fontsDir)
 
   for (var fontname of fontsarr) {
     // Getting the extension of fontname
     var extension = fontname.match(/\.[^\.]*$/gi) || [""]
     // Replacing the special symbols,spaces etc with - and lowering the case
-    var name = fontname.replace(extension[0], "").replace(/[^A-Z0-9]/gi, " ").replace(/([A-Z])/g, " $1").trim().replace(/\s\s*/g, "-").toLowerCase() + extension[0].toLowerCase().trim()
+    var name = fontname.replace(extension[0], "").replace(/[^A-Z0-9]/gi, " ").replace(/([A-Z]+)/g, " $1").trim().replace(/\s\s*/g, "-").toLowerCase() + extension[0].toLowerCase().trim()
     // renaming the fonts to proper names and removing special symbols etc
-    fs.renameSync(path.join(__dirname, 'fonts', fontname), path.join(__dirname, 'fonts', name))
+    fs.renameSync(path.join(fontsDir, fontname), path.join(fontsDir, name))
   }
   // getting sorted array of fonts
-  fontsarr = fs.readdirSync(path.join(__dirname, 'fonts')).sort()
+  fontsarr = fs.readdirSync(fontsDir).sort()
   var fontjson = {}
 
   // generating fontjson
   for (var fontname of fontsarr) {
     // Getting the extension of fontname
     var extension = fontname.match(/\.[^\.]*$/gi) || [""]
+    var fontWithNoExtension = fontname.replace(extension[0], "")
     // Removing the extension from fontname and also changing the dash to underscore  as many programming languages doesn't support - (dash) in json
-    var keyname = fontname.replace(extension[0], "").replace(/-/gi, "_")
+    // Also we are removing the -org from it, as original files will have -org in it
+    var keyname = fontWithNoExtension.replace(/-org$/i, "").replace(/-/gi, "_")
     // we don't want to define again if it's already defined, otherwise it will replace the previous values
     if (!fontjson[keyname])
       fontjson[keyname] = {}
-
     var innerkey = extension[0].trim().substring(1)
+    // if this fontname endsWith -org , then it means this was the original file used to generate the other fonts
+    if (fontWithNoExtension.endsWith('-org'))
+      innerkey = 'original'
     fontjson[keyname][innerkey] = url + 'fonts/' + fontname
   }
   fs.writeFileSync(path.join(__dirname, "fonts.json"), JSON.stringify(fontjson, null, prettyindent))
   fs.writeFileSync(path.join(__dirname, "fonts.min.json"), JSON.stringify(fontjson))
+  logmsg("\nfonts.json and fonts.min.json generated")
+
 }
 
+// Take arg as array of paths for which fonts needs to be generated, and then it downloads the generated contenct in the default
+// download directory of the browser, which is tempDir in our case, and it returns the filename with path of the download file which is zip
+async function downloadFonts(pathArr) {
+  if (pathArr.length == 0)
+    return
+
+  // This function generates fonts using fontsquirrel webfont generator
+  //https://github.com/microsoft/playwright/issues/2351
+  await page.check('input[value="expert"]');
+  await page.check('input[value="ttf"]');
+  await page.check('input[value="svg"]');
+  await page.check('input[value="eotz"]');
+  await page.check('input[value="woff"]');
+  await page.check('input[value="woff2"]');
+  await page.check('input[name="agreement"]');
+  await page.fill('input[name="filename_suffix"]', '');
+  await page.setInputFiles('input[type="file"]', pathArr);
+  // If there are many fonts to be uploaded and the size of fonts is large, then it will take more
+  // Time and this uploadwaitTime time has to be increased then, for now we will add 30 seconds for each font
+  var uploadwaitTime = 30000 * (pathArr.length + 1)
+
+  // dismiss all the dialogs that will popup due to font being already webfont
+  // https://playwright.dev/#version=v1.3.0&path=docs%2Fapi.md&q=class-dialog
+  page.on('dialog', async dialog => {
+    await dialog.dismiss();
+  });
+  try {
+    // https://playwright.dev/#version=v1.3.0&path=docs%2Fnetwork.md&q=handle-file-downloads
+    const [download] = await Promise.all([
+      page.waitForEvent('download', {
+        timeout: uploadwaitTime
+      }), // wait for download to start
+      page.click('#ffgen_downloadbtn', {
+        timeout: uploadwaitTime
+      })
+    ]);
+
+    var downloadedFilePath = await download.path();
+    return downloadedFilePath
+  } catch (err) {
+    logmsg("\nSeems like the fonts generation did not go well, anyways we will still add the font \nassuming the fontsquirrel doesn't support generation for these fonts")
+    return
+  }
+}
+
+// https://stackoverflow.com/a/11869589/2437224
+// https://stackoverflow.com/a/37227430/2437224
+// https://stackoverflow.com/questions/46441667/reading-binary-data-in-node-js
+// Takes directory as an input and return an object containing list of md5 hash as keys and it's filenames as values
+// Used for checking duplicate files
+function dirHash(pathToDir) {
+  // JSON that will store md5 hash as keys and it's filename as values
+  var cryptoJSON = {}
+  for (var filename of fs.readdirSync(pathToDir)) {
+
+    var buf = fs.readFileSync(path.join(pathToDir, filename))
+    var hash = crypto.createHash('md5').update(buf, "binary").digest('hex');
+
+    cryptoJSON[hash] = filename
+
+  }
+
+  return cryptoJSON
+}
 // Stores the translation files snippets and it's json,retreieves them from linebylineDir
 async function jsonDB(singlefile) {
   for (var filename of fs.readdirSync(linebylineDir)) {
@@ -663,9 +853,13 @@ async function generateJSON(arr, jsondata, editionName) {
   // first check file with same endpoint exists or not in editions.json, if there then we will add 1 to the editionname and check again
   for (var i = 1;; i++) {
     // If a filename with same edition name exists in database then add number to the editionName
-    if (jsondb[editionName + '.txt'] || jsondb[editionName + '-la.txt'] || jsondb[editionName + '-lad.txt'])
-      editionName = editionName + i;
-    else
+    if (jsondb[editionName + '.txt'] || jsondb[editionName + '-la.txt'] || jsondb[editionName + '-lad.txt']) {
+      // Fetch the number if exists in the editionName
+      var Num = editionName.match(/\d+$/) || [0]
+      Num = parseInt(Num[0])
+      // Increment that number if it exists to get a new editionName
+      editionName = editionName.replace(/\d+$/, "") + (Num + i);
+    } else
       break;
   }
 
@@ -738,6 +932,20 @@ async function dirCheck(str) {
     return window.getComputedStyle(divelem).getPropertyValue('direction')
   }, str);
   return result
+}
+
+// Page and browser is a global variable and it can be accessed from anywhere
+// function that launches a browser
+async function launchBrowser(linkToOpen, downloadPathDir) {
+  browser = await firefox.launch({
+    downloadsPath: downloadPathDir
+  });
+  var context = await browser.newContext({
+    acceptDownloads: true
+  });
+  page = await context.newPage();
+  if (linkToOpen)
+    await page.goto(linkToOpen);
 }
 
 // Detects lang of the translation, if no language is provided in the json and jsonrequired is set to false
