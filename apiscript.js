@@ -533,33 +533,34 @@ async function fontsGen() {
     fontNoExtension = [...new Set(fontNoExtension)];
     // Rename all files with suffix -org in startdir, as we use -org in our code to denote original files
     // And rename duplicate filenames in startsDir comparing with fontNoExtension array
+    // And rename to standard format
     for (var val of fs.readdirSync(startDir)) {
       // extension of file
       var extension = val.match(/\.[^\.]*$/gi) || [""]
-      // name without extension
-      var name = val.replace(extension[0], "")
-      // Rename the file if it ends with -org
-      while (/-org$/i.test(name)) {
+
+       // removing all the underscores,extension etc and making it to standard format
+      var name = val.replace(extension[0], "").replace(/[^A-Z0-9]/gi, " ").replace(/([A-Z]+)/g, " $1").trim().replace(/\s\s*/g, "-").toLowerCase()
+
+      // Rename the filename if it ends with -org
+      while (/-org$/i.test(name))
         name = name.replace(/-org$/i, "")
-        // rename the file
-        fs.renameSync(path.join(startDir, val), path.join(startDir, name + extension[0]))
-      }
+
       // Checking for duplicateNames and renaming them in startDir
-      if (fontNoExtension.includes(name.toLowerCase()) || fontNoExtension.includes(name.toLowerCase() + '-org')) {
+      if (fontNoExtension.includes(name) || fontNoExtension.includes(name + '-org')) {
         for (var i = 1;; i++) {
           // Get the number at the ending of the name, so we can increment it if it exists
           var lastNum = name.match(/\d+$/) || [0]
           lastNum = parseInt(lastNum[0])
           // Increament the above number if it exists to get a new name
           var newFileName = name.replace(/\d+$/, "") + (lastNum + i)
-          if (!fontNoExtension.includes(newFileName.toLowerCase()) && !fontNoExtension.includes(newFileName.toLowerCase() + '-org'))
+          if (!fontNoExtension.includes(newFileName) && !fontNoExtension.includes(newFileName + '-org'))
             break;
         }
-        // rename the file
-        fs.renameSync(path.join(startDir, name + extension[0]), path.join(startDir, newFileName + extension[0]))
-        // assigning the newFileName of the file to the name, this step is not required, but I might add new code later and that could use it
-        name = newFileName + extension[0]
+        // assigning the newFileName of the file to the name
+        name = newFileName
       }
+      // rename the file with the standard generated name
+      fs.renameSync(path.join(startDir, val), path.join(startDir, name + extension[0]))
     }
 
     // Directory that will store the files temporarily
@@ -583,7 +584,7 @@ async function fontsGen() {
 
     // Execute the below only if the start directory json has values in it
     if (Object.keys(startDirCrypto).length > 0) {
-      logmsg("\nGenerating fonts Please wait, it might take a while\n" + "we will generate fonts for " + Object.values(startDirCrypto).join(', '))
+      logmsg("\n\nGenerating fonts Please wait, it will take around 10-15mins\n\n" + "we will generate fonts for " + Object.values(startDirCrypto).join(', '))
 
       // Making the temporary directory
       fs.mkdirSync(tempDir, {
@@ -594,12 +595,14 @@ async function fontsGen() {
       // array containing full path of font files in startDir
       var fullPathArr = Object.values(startDirCrypto).map(elem => path.join(startDir, elem))
       // Downloading fonts from fontsquirrel
-      var downloadedZip = await downloadFonts(fullPathArr)
-      // extract zip to tempDir
-      if (downloadedZip)
-        await extract(downloadedZip, {
-          dir: tempDir
-        })
+      for(var val of fullPathArr){
+        var downloadedZip = await downloadFonts([val])
+        // extract zip to tempDir
+        if (downloadedZip){
+          await extract(downloadedZip, {dir: tempDir})
+          logmsg("\nGeneration Complete for "+path.basename(val))
+        }
+      }
 
       // move all the generated files ending with valid font extensions to the fonts directory
       for (var val of fs.readdirSync(tempDir)) {
@@ -629,18 +632,20 @@ async function fontsGen() {
 
 // Generates the fonts.json and fonts.min.json by reading from the fontsDir
 function fontsListingsGen() {
-  var fontsarr = fs.readdirSync(fontsDir)
 
-  for (var fontname of fontsarr) {
+//  var fontsarr = fs.readdirSync(fontsDir)
+
+//  for (var fontname of fontsarr) {
     // Getting the extension of fontname
-    var extension = fontname.match(/\.[^\.]*$/gi) || [""]
+//    var extension = fontname.match(/\.[^\.]*$/gi) || [""]
     // Replacing the special symbols,spaces etc with - and lowering the case
-    var name = fontname.replace(extension[0], "").replace(/[^A-Z0-9]/gi, " ").replace(/([A-Z]+)/g, " $1").trim().replace(/\s\s*/g, "-").toLowerCase() + extension[0].toLowerCase().trim()
+//    var name = fontname.replace(extension[0], "").replace(/[^A-Z0-9]/gi, " ").replace(/([A-Z]+)/g, " $1").trim().replace(/\s\s*/g, "-").toLowerCase() + extension[0].toLowerCase().trim()
     // renaming the fonts to proper names and removing special symbols etc
-    fs.renameSync(path.join(fontsDir, fontname), path.join(fontsDir, name))
-  }
+  //  fs.renameSync(path.join(fontsDir, fontname), path.join(fontsDir, name))
+//  }
+
   // getting sorted array of fonts
-  fontsarr = fs.readdirSync(fontsDir).sort()
+  var fontsarr = fs.readdirSync(fontsDir).sort()
   var fontjson = {}
 
   // generating fontjson
@@ -668,10 +673,12 @@ function fontsListingsGen() {
 
 // Take arg as array of paths for which fonts needs to be generated, and then it downloads the generated contenct in the default
 // download directory of the browser, which is tempDir in our case, and it returns the filename with path of the download file which is zip
+// For some reason passing multiple paths, causes problem to fontsquirrel, so we are passing array of single path each time to solve this issue
 async function downloadFonts(pathArr) {
   if (pathArr.length == 0)
     return
-
+// Reloading the page, to make sure we get whole new page, and all the old details are removed
+await page.reload({timeout:60000})
   // This function generates fonts using fontsquirrel webfont generator
   //https://github.com/microsoft/playwright/issues/2351
   await page.check('input[value="expert"]');
@@ -682,16 +689,19 @@ async function downloadFonts(pathArr) {
   await page.check('input[value="woff2"]');
   await page.check('input[name="agreement"]');
   await page.fill('input[name="filename_suffix"]', '');
+  // We will add single random file first
   await page.setInputFiles('input[type="file"]', pathArr);
   // If there are many fonts to be uploaded and the size of fonts is large, then it will take more
-  // Time and this uploadwaitTime time has to be increased then, for now we will add 30 seconds for each font
-  var uploadwaitTime = 30000 * (pathArr.length + 1)
+  // Time and this uploadwaitTime time has to be increased then
+  // Giving 600 seconds for each file upload
+  var uploadwaitTime = 600000
 
-  // dismiss all the dialogs that will popup due to font being already webfont
-  // https://playwright.dev/#version=v1.3.0&path=docs%2Fapi.md&q=class-dialog
-  page.on('dialog', async dialog => {
-    await dialog.dismiss();
-  });
+// dismiss all the dialogs that will popup due to font being already webfont
+// https://playwright.dev/#version=v1.3.0&path=docs%2Fapi.md&q=class-dialog
+page.on('dialog', async dialog => {
+      await dialog.dismiss();
+    });
+
   try {
     // https://playwright.dev/#version=v1.3.0&path=docs%2Fnetwork.md&q=handle-file-downloads
     const [download] = await Promise.all([
@@ -706,7 +716,7 @@ async function downloadFonts(pathArr) {
     var downloadedFilePath = await download.path();
     return downloadedFilePath
   } catch (err) {
-    logmsg("\nSeems like the fonts generation did not go well, anyways we will still add the font \nassuming the fontsquirrel doesn't support generation for these fonts")
+    logmsg("\nSeems like the fonts generation did not go well for "+ pathArr +", anyways we will still add the font \nassuming the fontsquirrel doesn't support generation for these fonts")
     return
   }
 }
@@ -937,7 +947,7 @@ async function dirCheck(str) {
 // Page and browser is a global variable and it can be accessed from anywhere
 // function that launches a browser
 async function launchBrowser(linkToOpen, downloadPathDir) {
-  browser = await firefox.launch({
+  browser = await firefox.launch({headless: true,
     downloadsPath: downloadPathDir
   });
   var context = await browser.newContext({
@@ -945,7 +955,7 @@ async function launchBrowser(linkToOpen, downloadPathDir) {
   });
   page = await context.newPage();
   if (linkToOpen)
-    await page.goto(linkToOpen);
+    await page.goto(linkToOpen,{timeout:60000});
 }
 
 // Detects lang of the translation, if no language is provided in the json and jsonrequired is set to false
