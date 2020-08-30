@@ -585,7 +585,10 @@ async function fontsGen() {
     // Execute the below only if the start directory json has values in it
     if (Object.keys(startDirCrypto).length > 0) {
       logmsg("\n\nGenerating fonts Please wait, it will take around 10-15mins\n\n" + "we will generate fonts for " + Object.values(startDirCrypto).join(', '))
-
+      // Delete temp if it exists, to clean previous partial data due to script error
+      fs.rmdirSync(tempDir, {
+        recursive: true
+      })
       // Making the temporary directory
       fs.mkdirSync(tempDir, {
         recursive: true
@@ -596,6 +599,7 @@ async function fontsGen() {
       var fullPathArr = Object.values(startDirCrypto).map(elem => path.join(startDir, elem))
       // Downloading fonts from fontsquirrel
       for(var val of fullPathArr){
+        logmsg("\nStarting Generation for "+path.basename(val))
         var downloadedZip = await downloadFonts([val])
         // extract zip to tempDir
         if (downloadedZip){
