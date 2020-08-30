@@ -2,3 +2,266 @@
 BEGIN:
 C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
 fonts.json and fonts.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for amiri-italic1.ttf
+Starting Generation for amiri-italic1.ttf
+There was error for G:\GitHub\quran-api\start\amiri-italic1.ttf
+undefined
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for amiri-italic1.ttf, amiri-regular1.ttf, el-messiri-bold.ttf, el-messiri-medium.ttf, el-messiri-regular.ttf, el-messiri-semi-bold.ttf, markazi-text-bold.ttf, markazi-text-medium.ttf, markazi-text-regular.ttf, markazi-text-semi-bold.ttf, markazi-text-variable-font-wght.ttf, mirza-bold1.ttf, mirza-medium1.ttf, mirza-regular1.ttf, mirza-semi-bold1.ttf, noto-naskh-arabic-bold.ttf, noto-naskh-arabic-regular.ttf, noto-naskh-arabic-ui-bold.ttf, noto-naskh-arabic-ui-regular.ttf, noto-nastaliq-urdu-regular.ttf, noto-sans-arabic-regular.ttf, noto-sans-arabic-thin.ttf, noto-sans-arabic-ui-thin.ttf, scheherazade-bold.ttf, scheherazade-regular.ttf, tajawal-black.ttf, tajawal-bold.ttf, tajawal-extra-bold.ttf, tajawal-extra-light.ttf, tajawal-light.ttf, tajawal-medium.ttf, tajawal-regular.ttf, thabit-bold-oblique.ttf, thabit-bold.ttf, thabit-oblique.ttf, thabit.ttf
+Starting Generation for amiri-italic1.ttf
+Generation Complete for amiri-italic1.ttf
+Starting Generation for amiri-regular1.ttf
+Generation Complete for amiri-regular1.ttf
+Starting Generation for el-messiri-bold.ttf
+Generation Complete for el-messiri-bold.ttf
+Starting Generation for el-messiri-medium.ttf
+Generation Complete for el-messiri-medium.ttf
+Starting Generation for el-messiri-regular.ttf
+Generation Complete for el-messiri-regular.ttf
+Starting Generation for el-messiri-semi-bold.ttf
+Generation Complete for el-messiri-semi-bold.ttf
+Starting Generation for markazi-text-bold.ttf
+There was error for G:\GitHub\quran-api\start\markazi-text-bold.ttf
+undefined
+Starting Generation for markazi-text-medium.ttf
+There was error for markazi-text-medium.ttf
+undefined
+Seems like the fonts generation did not go well for markazi-text-medium.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for markazi-text-regular.ttf
+There was error for markazi-text-regular.ttf
+undefined
+Seems like the fonts generation did not go well for markazi-text-regular.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for markazi-text-semi-bold.ttf
+There was error for markazi-text-semi-bold.ttf
+undefined
+Seems like the fonts generation did not go well for markazi-text-semi-bold.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for markazi-text-variable-font-wght.ttf
+There was error for markazi-text-variable-font-wght.ttf
+undefined
+Seems like the fonts generation did not go well for markazi-text-variable-font-wght.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for mirza-bold1.ttf
+There was error for mirza-bold1.ttf
+undefined
+Seems like the fonts generation did not go well for mirza-bold1.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for mirza-medium1.ttf
+There was error for mirza-medium1.ttf
+undefined
+Seems like the fonts generation did not go well for mirza-medium1.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for mirza-regular1.ttf
+There was error for mirza-regular1.ttf
+undefined
+Seems like the fonts generation did not go well for mirza-regular1.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for mirza-semi-bold1.ttf
+There was error for mirza-semi-bold1.ttf
+undefined
+Seems like the fonts generation did not go well for mirza-semi-bold1.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for noto-naskh-arabic-bold.ttf
+There was error for noto-naskh-arabic-bold.ttf
+undefined
+Seems like the fonts generation did not go well for noto-naskh-arabic-bold.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for noto-naskh-arabic-regular.ttf
+There was error for noto-naskh-arabic-regular.ttf
+undefined
+Seems like the fonts generation did not go well for noto-naskh-arabic-regular.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for noto-naskh-arabic-ui-bold.ttf
+There was error for noto-naskh-arabic-ui-bold.ttf
+undefined
+Seems like the fonts generation did not go well for noto-naskh-arabic-ui-bold.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for noto-naskh-arabic-ui-regular.ttf
+There was error for noto-naskh-arabic-ui-regular.ttf
+undefined
+Seems like the fonts generation did not go well for noto-naskh-arabic-ui-regular.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for noto-nastaliq-urdu-regular.ttf
+There was error for noto-nastaliq-urdu-regular.ttf
+undefined
+Seems like the fonts generation did not go well for noto-nastaliq-urdu-regular.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for noto-sans-arabic-regular.ttf
+There was error for noto-sans-arabic-regular.ttf
+undefined
+Seems like the fonts generation did not go well for noto-sans-arabic-regular.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for noto-sans-arabic-thin.ttf
+There was error for noto-sans-arabic-thin.ttf
+undefined
+Seems like the fonts generation did not go well for noto-sans-arabic-thin.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for noto-sans-arabic-ui-thin.ttf
+There was error for noto-sans-arabic-ui-thin.ttf
+undefined
+Seems like the fonts generation did not go well for noto-sans-arabic-ui-thin.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for scheherazade-bold.ttf
+There was error for scheherazade-bold.ttf
+undefined
+Seems like the fonts generation did not go well for scheherazade-bold.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for scheherazade-regular.ttf
+There was error for scheherazade-regular.ttf
+undefined
+Seems like the fonts generation did not go well for scheherazade-regular.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for tajawal-black.ttf
+There was error for tajawal-black.ttf
+undefined
+Seems like the fonts generation did not go well for tajawal-black.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for tajawal-bold.ttf
+There was error for tajawal-bold.ttf
+undefined
+Seems like the fonts generation did not go well for tajawal-bold.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for tajawal-extra-bold.ttf
+There was error for tajawal-extra-bold.ttf
+undefined
+Seems like the fonts generation did not go well for tajawal-extra-bold.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for tajawal-extra-light.ttf
+There was error for tajawal-extra-light.ttf
+undefined
+Seems like the fonts generation did not go well for tajawal-extra-light.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for tajawal-light.ttf
+There was error for tajawal-light.ttf
+undefined
+Seems like the fonts generation did not go well for tajawal-light.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for tajawal-medium.ttf
+There was error for tajawal-medium.ttf
+undefined
+Seems like the fonts generation did not go well for tajawal-medium.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for tajawal-regular.ttf
+There was error for tajawal-regular.ttf
+undefined
+Seems like the fonts generation did not go well for tajawal-regular.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for thabit-bold-oblique.ttf
+There was error for thabit-bold-oblique.ttf
+undefined
+Seems like the fonts generation did not go well for thabit-bold-oblique.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for thabit-bold.ttf
+There was error for thabit-bold.ttf
+undefined
+Seems like the fonts generation did not go well for thabit-bold.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for thabit-oblique.ttf
+There was error for thabit-oblique.ttf
+undefined
+Seems like the fonts generation did not go well for thabit-oblique.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+Starting Generation for thabit.ttf
+There was error for thabit.ttf
+undefined
+Seems like the fonts generation did not go well for thabit.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+fonts.json and fonts.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for markazi-text-bold.ttf, mirza-bold1.ttf
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for markazi-text-bold.ttf, mirza-bold1.ttf
+Starting Generation for markazi-text-bold.ttf
+There was error for G:\GitHub\quran-api\start\markazi-text-bold.ttf
+undefined
+Starting Generation for mirza-bold1.ttf
+There was error for mirza-bold1.ttf
+undefined
+Seems like the fonts generation did not go well for mirza-bold1.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for markazi-text-bold.ttf
+Starting Generation for markazi-text-bold.ttf
+There was error for G:\GitHub\quran-api\start\markazi-text-bold.ttf
+undefined
+fonts.json and fonts.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for noto-naskh-arabic-bold.ttf, noto-naskh-arabic-regular.ttf, noto-naskh-arabic-ui-bold.ttf, noto-naskh-arabic-ui-regular.ttf, noto-nastaliq-urdu-regular.ttf, noto-sans-arabic-regular.ttf, noto-sans-arabic-thin.ttf, noto-sans-arabic-ui-thin.ttf, scheherazade-bold.ttf, scheherazade-regular.ttf, tajawal-black.ttf, tajawal-bold.ttf, tajawal-extra-bold.ttf, tajawal-extra-light.ttf, tajawal-light.ttf, tajawal-medium.ttf, tajawal-regular.ttf, thabit-bold-oblique.ttf, thabit-bold.ttf, thabit-oblique.ttf, thabit.ttf
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for noto-naskh-arabic-bold.ttf, noto-naskh-arabic-regular.ttf, noto-naskh-arabic-ui-bold.ttf, noto-naskh-arabic-ui-regular.ttf, noto-nastaliq-urdu-regular.ttf, noto-sans-arabic-regular.ttf, noto-sans-arabic-thin.ttf, noto-sans-arabic-ui-thin.ttf, scheherazade-bold.ttf, scheherazade-regular.ttf, tajawal-black.ttf, tajawal-bold.ttf, tajawal-extra-bold.ttf, tajawal-extra-light.ttf, tajawal-light.ttf, tajawal-medium.ttf, tajawal-regular.ttf, thabit-bold-oblique.ttf, thabit-bold.ttf, thabit-oblique.ttf, thabit.ttf
+Starting Generation for noto-naskh-arabic-bold.ttf
+Generation Complete for noto-naskh-arabic-bold.ttf
+Starting Generation for noto-naskh-arabic-regular.ttf
+Generation Complete for noto-naskh-arabic-regular.ttf
+Starting Generation for noto-naskh-arabic-ui-bold.ttf
+Generation Complete for noto-naskh-arabic-ui-bold.ttf
+Starting Generation for noto-naskh-arabic-ui-regular.ttf
+Generation Complete for noto-naskh-arabic-ui-regular.ttf
+Starting Generation for noto-nastaliq-urdu-regular.ttf
+Generation Complete for noto-nastaliq-urdu-regular.ttf
+Starting Generation for noto-sans-arabic-regular.ttf
+Generation Complete for noto-sans-arabic-regular.ttf
+Starting Generation for noto-sans-arabic-thin.ttf
+Generation Complete for noto-sans-arabic-thin.ttf
+Starting Generation for noto-sans-arabic-ui-thin.ttf
+Generation Complete for noto-sans-arabic-ui-thin.ttf
+Starting Generation for scheherazade-bold.ttf
+Generation Complete for scheherazade-bold.ttf
+Starting Generation for scheherazade-regular.ttf
+Generation Complete for scheherazade-regular.ttf
+Starting Generation for tajawal-black.ttf
+Generation Complete for tajawal-black.ttf
+Starting Generation for tajawal-bold.ttf
+Generation Complete for tajawal-bold.ttf
+Starting Generation for tajawal-extra-bold.ttf
+Generation Complete for tajawal-extra-bold.ttf
+Starting Generation for tajawal-extra-light.ttf
+Generation Complete for tajawal-extra-light.ttf
+Starting Generation for tajawal-light.ttf
+Generation Complete for tajawal-light.ttf
+Starting Generation for tajawal-medium.ttf
+Generation Complete for tajawal-medium.ttf
+Starting Generation for tajawal-regular.ttf
+Generation Complete for tajawal-regular.ttf
+Starting Generation for thabit-bold-oblique.ttf
+Generation Complete for thabit-bold-oblique.ttf
+Starting Generation for thabit-bold.ttf
+Generation Complete for thabit-bold.ttf
+Starting Generation for thabit-oblique.ttf
+Generation Complete for thabit-oblique.ttf
+Starting Generation for thabit.ttf
+Generation Complete for thabit.ttf
+fonts.json and fonts.min.json generated

@@ -608,8 +608,10 @@ async function fontsGen() {
           logmsg("\nGeneration Complete for "+path.basename(val))
         }
       }catch(error){
-        logmsg("\nThere was error for "+path.basename(val)+ "\n"+ console.error(error),true)
+        logmsg("\nThere was error for "+path.basename(val)+ "\n"+ error,true)
         logmsg("\nSeems like the fonts generation did not go well for "+ path.basename(val) +", anyways we will still add the font \nassuming the fontsquirrel doesn't support generation for these fonts")
+await browser.close()
+await launchBrowser('https://www.fontsquirrel.com/tools/webfont-generator', tempDir)
       }
       }
 
@@ -705,6 +707,7 @@ await page.reload({timeout:60000})
   // Giving 600 seconds for each file upload
   var uploadwaitTime = 600000
 
+
 // dismiss all the dialogs that will popup due to font being already webfont
 // https://playwright.dev/#version=v1.3.0&path=docs%2Fapi.md&q=class-dialog
 page.on('dialog', async dialog => {
@@ -725,7 +728,7 @@ page.on('dialog', async dialog => {
     var downloadedFilePath = await download.path();
     return downloadedFilePath
   } catch (error) {
-   logmsg("\nThere was error for "+pathArr+ "\n"+ console.error(error),true)
+   logmsg("\nThere was error for "+pathArr+ "\n"+ error,true)
     return
   }
 }

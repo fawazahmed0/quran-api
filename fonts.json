@@ -85,6 +85,9 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold1.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold1.woff2"
     },
+    "amiri_italic1": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-italic1-org.ttf"
+    },
     "amiri_quran_colored": {
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran-colored-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran-colored.eot",
@@ -108,6 +111,14 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular.woff2"
+    },
+    "amiri_regular1": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1.woff2"
     },
     "amiri_slanted": {
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-slanted-org.otf",
@@ -151,6 +162,38 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-regular.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-regular.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-regular.woff2"
+    },
+    "el_messiri_bold": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold.woff2"
+    },
+    "el_messiri_medium": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium.woff2"
+    },
+    "el_messiri_regular": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular.woff2"
+    },
+    "el_messiri_semi_bold": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold.woff2"
     },
     "hafs_nastaleeq_ver10": {
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-nastaleeq-ver10-org.otf",
@@ -339,6 +382,9 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/maddina.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/maddina.woff2"
     },
+    "markazi_text_bold": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-bold-org.ttf"
+    },
     "me_quran_volt_newmet": {
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-volt-newmet-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-volt-newmet.eot",
@@ -411,6 +457,65 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda-regular.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda-regular.woff2"
     },
+    "noto_naskh_arabic_bold": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.woff2"
+    },
+    "noto_naskh_arabic_regular": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.woff2"
+    },
+    "noto_naskh_arabic_ui_bold": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold.woff2"
+    },
+    "noto_naskh_arabic_ui_regular": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular.woff2"
+    },
+    "noto_nastaliq_urdu_regular": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-nastaliq-urdu-regular-org.ttf"
+    },
+    "noto_sans_arabic_regular": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular.woff2"
+    },
+    "noto_sans_arabic_thin": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin.woff2"
+    },
+    "noto_sans_arabic_ui_thin": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin.woff2"
+    },
     "outlined_v001": {
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/outlined-v001-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/outlined-v001.eot",
@@ -470,6 +575,14 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-regular.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-regular.woff2"
     },
+    "scheherazade_bold": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold.woff2"
+    },
     "scheherazade_reg_ot": {
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-reg-ot-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-reg-ot.eot",
@@ -478,6 +591,14 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-reg-ot.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-reg-ot.woff2"
     },
+    "scheherazade_regular": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.woff2"
+    },
     "shadatain_ver01": {
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shadatain-ver01-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shadatain-ver01.eot",
@@ -485,6 +606,94 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shadatain-ver01.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shadatain-ver01.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shadatain-ver01.woff2"
+    },
+    "tajawal_black": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black.woff2"
+    },
+    "tajawal_bold": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold.woff2"
+    },
+    "tajawal_extra_bold": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold.woff2"
+    },
+    "tajawal_extra_light": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light.woff2"
+    },
+    "tajawal_light": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light.woff2"
+    },
+    "tajawal_medium": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.woff2"
+    },
+    "tajawal_regular": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular.woff2"
+    },
+    "thabit_bold_oblique": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique.woff2"
+    },
+    "thabit_bold": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold.woff2"
+    },
+    "thabit_oblique": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique.woff2"
+    },
+    "thabit": {
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit.woff2"
     },
     "uthman_tn1_b_ver10": {
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-b-ver10-org.otf",
