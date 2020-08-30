@@ -600,12 +600,17 @@ async function fontsGen() {
       // Downloading fonts from fontsquirrel
       for(var val of fullPathArr){
         logmsg("\nStarting Generation for "+path.basename(val))
+      try{
         var downloadedZip = await downloadFonts([val])
         // extract zip to tempDir
         if (downloadedZip){
           await extract(downloadedZip, {dir: tempDir})
           logmsg("\nGeneration Complete for "+path.basename(val))
         }
+      }catch(error){
+        logmsg("\nThere was error for "+path.basename(val)+ "\n"+ console.error(error),true)
+        logmsg("\nSeems like the fonts generation did not go well for "+ path.basename(val) +", anyways we will still add the font \nassuming the fontsquirrel doesn't support generation for these fonts")
+      }
       }
 
       // move all the generated files ending with valid font extensions to the fonts directory
@@ -719,8 +724,8 @@ page.on('dialog', async dialog => {
 
     var downloadedFilePath = await download.path();
     return downloadedFilePath
-  } catch (err) {
-    logmsg("\nSeems like the fonts generation did not go well for "+ pathArr +", anyways we will still add the font \nassuming the fontsquirrel doesn't support generation for these fonts")
+  } catch (error) {
+   logmsg("\nThere was error for "+pathArr+ "\n"+ console.error(error),true)
     return
   }
 }
