@@ -537,8 +537,7 @@ async function fontsGen() {
     for (var val of fs.readdirSync(startDir)) {
       // extension of file
       var extension = val.match(/\.[^\.]*$/gi) || [""]
-
-       // removing all the underscores,extension etc and making it to standard format
+      // removing all the underscores,extension etc and making it to standard format
       var name = val.replace(extension[0], "").replace(/[^A-Z0-9]/gi, " ").replace(/([A-Z]+)/g, " $1").trim().replace(/\s\s*/g, "-").toLowerCase()
 
       // Rename the filename if it ends with -org
@@ -581,10 +580,16 @@ async function fontsGen() {
       // Removing the hash and filename from the json, as we will not generate for duplicate fonts
       delete startDirCrypto[val]
     }
-
     // Execute the below only if the start directory json has values in it
     if (Object.keys(startDirCrypto).length > 0) {
       logmsg("\n\nGenerating fonts Please wait, it will take around 10-15mins\n\n" + "we will generate fonts for " + Object.values(startDirCrypto).join(', '))
+      await launchBrowser('https://www.fontsquirrel.com/tools/webfont-generator', tempDir)
+    }
+    // array containing full path of font files in startDir
+    var fullPathArr = Object.values(startDirCrypto).map(elem => path.join(startDir, elem))
+
+    // We will generate files one by one
+    for (var fontwithPath of fullPathArr) {
       // Delete temp if it exists, to clean previous partial data due to script error
       fs.rmdirSync(tempDir, {
         recursive: true
@@ -593,26 +598,22 @@ async function fontsGen() {
       fs.mkdirSync(tempDir, {
         recursive: true
       });
-      await launchBrowser('https://www.fontsquirrel.com/tools/webfont-generator', tempDir)
-
-      // array containing full path of font files in startDir
-      var fullPathArr = Object.values(startDirCrypto).map(elem => path.join(startDir, elem))
-      // Downloading fonts from fontsquirrel
-      for(var val of fullPathArr){
-        logmsg("\nStarting Generation for "+path.basename(val))
-      try{
-        var downloadedZip = await downloadFonts([val])
+      logmsg("\nStarting Generation for " + path.basename(fontwithPath))
+      try {
+        var downloadedZip = await downloadFonts([fontwithPath])
         // extract zip to tempDir
-        if (downloadedZip){
-          await extract(downloadedZip, {dir: tempDir})
-          logmsg("\nGeneration Complete for "+path.basename(val))
+        if (downloadedZip) {
+          await extract(downloadedZip, {
+            dir: tempDir
+          })
+          logmsg("\nGeneration Complete for " + path.basename(fontwithPath))
         }
-      }catch(error){
-        logmsg("\nThere was error for "+path.basename(val)+ "\n"+ error,true)
-        logmsg("\nSeems like the fonts generation did not go well for "+ path.basename(val) +", anyways we will still add the font \nassuming the fontsquirrel doesn't support generation for these fonts")
-await browser.close()
-await launchBrowser('https://www.fontsquirrel.com/tools/webfont-generator', tempDir)
-      }
+      } catch (error) {
+        logmsg("\nThere was error for " + path.basename(fontwithPath) + "\n" + error, true)
+        logmsg("\nSeems like the fonts generation did not go well for " + path.basename(fontwithPath) + ", anyways we will still add the font \nassuming the fontsquirrel doesn't support generation for these fonts")
+        // close and relaunch browser if the error is big, and not recoverable
+        await browser.close()
+        await launchBrowser('https://www.fontsquirrel.com/tools/webfont-generator', tempDir)
       }
 
       // move all the generated files ending with valid font extensions to the fonts directory
@@ -622,19 +623,17 @@ await launchBrowser('https://www.fontsquirrel.com/tools/webfont-generator', temp
       }
 
       // move all the valid fonts from startDir to fontsDir with -org suffix
-      for (var val of Object.values(startDirCrypto)) {
-        // extension of file
-        var extension = val.match(/\.[^\.]*$/gi) || [""]
-        var newName = val.replace(extension[0], "") + '-org' + extension[0]
-        fs.renameSync(path.join(startDir, val), path.join(fontsDir, newName))
-      }
+      // extension of file
+      var extension = path.basename(fontwithPath).match(/\.[^\.]*$/gi) || [""]
+      var newName = path.basename(fontwithPath).replace(extension[0], "") + '-org' + extension[0]
+      fs.renameSync(fontwithPath, path.join(fontsDir, newName))
       // Delete the tempDir
       fs.rmdirSync(tempDir, {
         recursive: true
       })
-      // closing the browser
-      await browser.close()
     }
+    // closing the browser
+    await browser.close()
   } // End of if
 
   // Now have to generate fonts.json listings
@@ -643,19 +642,19 @@ await launchBrowser('https://www.fontsquirrel.com/tools/webfont-generator', temp
 
 // Generates the fonts.json and fonts.min.json by reading from the fontsDir
 function fontsListingsGen() {
+  // I might need this code in future, incase the fontsquirrel renames the uploaded fonts to non standard forms
+  //  var fontsarr = fs.readdirSync(fontsDir)
 
-//  var fontsarr = fs.readdirSync(fontsDir)
-
-//  for (var fontname of fontsarr) {
-    // Getting the extension of fontname
-//    var extension = fontname.match(/\.[^\.]*$/gi) || [""]
-    // Replacing the special symbols,spaces etc with - and lowering the case
-//    var name = fontname.replace(extension[0], "").replace(/[^A-Z0-9]/gi, " ").replace(/([A-Z]+)/g, " $1").trim().replace(/\s\s*/g, "-").toLowerCase() + extension[0].toLowerCase().trim()
-    // renaming the fonts to proper names and removing special symbols etc
+  //  for (var fontname of fontsarr) {
+  // Getting the extension of fontname
+  //    var extension = fontname.match(/\.[^\.]*$/gi) || [""]
+  // Replacing the special symbols,spaces etc with - and lowering the case
+  //    var name = fontname.replace(extension[0], "").replace(/[^A-Z0-9]/gi, " ").replace(/([A-Z]+)/g, " $1").trim().replace(/\s\s*/g, "-").toLowerCase() + extension[0].toLowerCase().trim()
+  // renaming the fonts to proper names and removing special symbols etc
   //  fs.renameSync(path.join(fontsDir, fontname), path.join(fontsDir, name))
-//  }
+  //  }
 
-  // getting sorted array of fonts
+  // getting sorted array of fonts, all the fonts have already been renamed to standard form in fontsgen()
   var fontsarr = fs.readdirSync(fontsDir).sort()
   var fontjson = {}
 
@@ -688,8 +687,10 @@ function fontsListingsGen() {
 async function downloadFonts(pathArr) {
   if (pathArr.length == 0)
     return
-// Reloading the page, to make sure we get whole new page, and all the old details are removed
-await page.reload({timeout:60000})
+  // Reloading the page, to make sure we get whole new page, and all the old details are removed
+  await page.reload({
+    timeout: 60000
+  })
   // This function generates fonts using fontsquirrel webfont generator
   //https://github.com/microsoft/playwright/issues/2351
   await page.check('input[value="expert"]');
@@ -708,11 +709,11 @@ await page.reload({timeout:60000})
   var uploadwaitTime = 600000
 
 
-// dismiss all the dialogs that will popup due to font being already webfont
-// https://playwright.dev/#version=v1.3.0&path=docs%2Fapi.md&q=class-dialog
-page.on('dialog', async dialog => {
-      await dialog.dismiss();
-    });
+  // dismiss all the dialogs that will popup due to font being already webfont
+  // https://playwright.dev/#version=v1.3.0&path=docs%2Fapi.md&q=class-dialog
+  page.on('dialog', async dialog => {
+    await dialog.dismiss();
+  });
 
   try {
     // https://playwright.dev/#version=v1.3.0&path=docs%2Fnetwork.md&q=handle-file-downloads
@@ -728,7 +729,7 @@ page.on('dialog', async dialog => {
     var downloadedFilePath = await download.path();
     return downloadedFilePath
   } catch (error) {
-   logmsg("\nThere was error for "+pathArr+ "\n"+ error,true)
+    logmsg("\nThere was error for " + pathArr + "\n" + error, true)
     return
   }
 }
@@ -959,7 +960,8 @@ async function dirCheck(str) {
 // Page and browser is a global variable and it can be accessed from anywhere
 // function that launches a browser
 async function launchBrowser(linkToOpen, downloadPathDir) {
-  browser = await firefox.launch({headless: true,
+  browser = await firefox.launch({
+    headless: true,
     downloadsPath: downloadPathDir
   });
   var context = await browser.newContext({
@@ -967,7 +969,9 @@ async function launchBrowser(linkToOpen, downloadPathDir) {
   });
   page = await context.newPage();
   if (linkToOpen)
-    await page.goto(linkToOpen,{timeout:60000});
+    await page.goto(linkToOpen, {
+      timeout: 60000
+    });
 }
 
 // Detects lang of the translation, if no language is provided in the json and jsonrequired is set to false

@@ -290,3 +290,253 @@ Generation Complete for reem-kufi-regular1.ttf
 Starting Generation for vibes-regular.ttf
 Generation Complete for vibes-regular.ttf
 fonts.json and fonts.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+font noorehuda1.ttf is a duplicate of noorehuda-regular-org.ttf hence we are ignoring it
+font sahlnaskh-regular1.ttf is a duplicate of sahlnaskh-regular-org.ttf hence we are ignoring it
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for almushaf.ttf, aqeeq.ttf, droid-kufi-regular.ttf, droid-naskh-regular.ttf, droid-sans.ttf, flat-jooza-regular.ttf, hala.ttf, hama-regular.ttf, hamada-light-font.ttf, harmattan.ttf, ishraq.ttf, jooza-regular.ttf, katibeh.ttf, me-quran-r3-hoq.ttf, me-quran2.ttf, noto-urdu.ttf, rawi.ttf, rawy-bold.ttf, rawy-thin.ttf, reem-kufi.ttf, rsail.ttf, rsail-bold.ttf, rsail-light.ttf, rustam-quran-r3-hoq.ttf, sabgha.ttf, sadiyah.ttf, sara.ttf, saudi.ttf, setareh.ttf, shahd-bold.ttf, shahd.ttf, shams.ttf, sheba.ttf, shekari.ttf, shiraz.ttf, shorooq.ttf, sky-bold.ttf, sky.ttf, smartman.ttf, spirit-of-doha.ttf, stc.ttf, stoor.ttf, strick.ttf, sukar-black.ttf, sukar-bold.ttf, sukar-regular.ttf, tachkili.ttf, taha-naskh.ttf, tanseek.ttf, taqniya.ttf, tasmeem-med.ttf, thabit1.ttf, thameen.ttf, themixarab.ttf, thuluth-decorated.ttf, toyor-aljanah.ttf, uthman-tn1-ver06.otf, uthmanic-hafs1-ver09.otf, uthmanic-hafs1-ver13.otf, vip-hakm-bold.ttf, vip-hakm-thin.ttf, vip-hakm.ttf, vip-tim-black.ttf, vip-tim-bold.ttf, vip-tim-light.ttf, vip-tim.ttf, yaraa-regular.ttf, yaraa.ttf, yassin.ttf, zahra-bold.ttf, zahra.ttf
+Starting Generation for almushaf.ttf
+Generation Complete for almushaf.ttf
+Starting Generation for aqeeq.ttf
+Generation Complete for aqeeq.ttf
+Starting Generation for droid-kufi-regular.ttf
+Generation Complete for droid-kufi-regular.ttf
+Starting Generation for droid-naskh-regular.ttf
+Generation Complete for droid-naskh-regular.ttf
+Starting Generation for droid-sans.ttf
+Generation Complete for droid-sans.ttf
+Starting Generation for flat-jooza-regular.ttf
+Generation Complete for flat-jooza-regular.ttf
+Starting Generation for hala.ttf
+Generation Complete for hala.ttf
+Starting Generation for hama-regular.ttf
+Generation Complete for hama-regular.ttf
+Starting Generation for hamada-light-font.ttf
+Generation Complete for hamada-light-font.ttf
+Starting Generation for harmattan.ttf
+Generation Complete for harmattan.ttf
+Starting Generation for ishraq.ttf
+Generation Complete for ishraq.ttf
+Starting Generation for jooza-regular.ttf
+Generation Complete for jooza-regular.ttf
+Starting Generation for katibeh.ttf
+Generation Complete for katibeh.ttf
+Starting Generation for me-quran-r3-hoq.ttf
+Generation Complete for me-quran-r3-hoq.ttf
+Starting Generation for me-quran2.ttf
+Generation Complete for me-quran2.ttf
+Starting Generation for noto-urdu.ttf
+There was error for G:\GitHub\quran-api\start\noto-urdu.ttf
+Error: page.waitForEvent: Page closed
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for rawi.ttf
+There was error for rawi.ttf
+Error: Protocol error (Page.reload): Session closed. Most likely the page has been closed.
+Seems like the fonts generation did not go well for rawi.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for almushaf.ttf, aqeeq.ttf, droid-kufi-regular.ttf, droid-naskh-regular.ttf, droid-sans.ttf, flat-jooza-regular.ttf, hala.ttf, hama-regular.ttf, hamada-light-font.ttf, harmattan.ttf, ishraq.ttf, jooza-regular.ttf, katibeh.ttf, me-quran-r3-hoq.ttf, me-quran2.ttf
+Starting Generation for almushaf.ttf
+There was error for G:\GitHub\quran-api\start\almushaf.ttf
+Error: page.waitForEvent: Page closed
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for aqeeq.ttf
+There was error for aqeeq.ttf
+Error: Protocol error (Page.reload): Session closed. Most likely the page has been closed.
+Seems like the fonts generation did not go well for aqeeq.ttf, anyways we will still add the font 
+assuming the fontsquirrel doesn't support generation for these fonts
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for almushaf.ttf, aqeeq.ttf, droid-kufi-regular.ttf
+Starting Generation for almushaf.ttf
+Generation Complete for almushaf.ttf
+Starting Generation for aqeeq.ttf
+Generation Complete for aqeeq.ttf
+Starting Generation for droid-kufi-regular.ttf
+Generation Complete for droid-kufi-regular.ttf
+fonts.json and fonts.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+font noorehuda1.ttf is a duplicate of noorehuda-regular-org.ttf hence we are ignoring it
+font sahlnaskh-regular1.ttf is a duplicate of sahlnaskh-regular-org.ttf hence we are ignoring it
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for droid-naskh-regular.ttf, droid-sans.ttf, flat-jooza-regular.ttf, hala.ttf, hama-regular.ttf, hamada-light-font.ttf, harmattan.ttf, ishraq.ttf, jooza-regular.ttf, katibeh.ttf, me-quran-r3-hoq.ttf, me-quran2.ttf, noto-urdu.ttf, rawi.ttf, rawy-bold.ttf, rawy-thin.ttf, reem-kufi.ttf, rsail.ttf, rsail-bold.ttf, rsail-light.ttf, rustam-quran-r3-hoq.ttf, sabgha.ttf, sadiyah.ttf, sara.ttf, saudi.ttf, setareh.ttf, shahd-bold.ttf, shahd.ttf, shams.ttf, sheba.ttf, shekari.ttf, shiraz.ttf, shorooq.ttf, sky-bold.ttf, sky.ttf, smartman.ttf, spirit-of-doha.ttf, stc.ttf, stoor.ttf, strick.ttf, sukar-black.ttf, sukar-bold.ttf, sukar-regular.ttf, tachkili.ttf, taha-naskh.ttf, tanseek.ttf, taqniya.ttf, tasmeem-med.ttf, thabit1.ttf, thameen.ttf, themixarab.ttf, thuluth-decorated.ttf, toyor-aljanah.ttf, uthman-tn1-ver06.otf, uthmanic-hafs1-ver09.otf, uthmanic-hafs1-ver13.otf, vip-hakm-bold.ttf, vip-hakm-thin.ttf, vip-hakm.ttf, vip-tim-black.ttf, vip-tim-bold.ttf, vip-tim-light.ttf, vip-tim.ttf, yaraa-regular.ttf, yaraa.ttf, yassin.ttf, zahra-bold.ttf, zahra.ttf
+Starting Generation for droid-naskh-regular.ttf
+Generation Complete for droid-naskh-regular.ttf
+Starting Generation for droid-sans.ttf
+Generation Complete for droid-sans.ttf
+Starting Generation for flat-jooza-regular.ttf
+Generation Complete for flat-jooza-regular.ttf
+Starting Generation for hala.ttf
+Generation Complete for hala.ttf
+Starting Generation for hama-regular.ttf
+Generation Complete for hama-regular.ttf
+Starting Generation for hamada-light-font.ttf
+Generation Complete for hamada-light-font.ttf
+Starting Generation for harmattan.ttf
+Generation Complete for harmattan.ttf
+Starting Generation for ishraq.ttf
+Generation Complete for ishraq.ttf
+Starting Generation for jooza-regular.ttf
+Generation Complete for jooza-regular.ttf
+Starting Generation for katibeh.ttf
+Generation Complete for katibeh.ttf
+Starting Generation for me-quran-r3-hoq.ttf
+Generation Complete for me-quran-r3-hoq.ttf
+Starting Generation for me-quran2.ttf
+Generation Complete for me-quran2.ttf
+Starting Generation for noto-urdu.ttf
+There was error for G:\GitHub\quran-api\start\noto-urdu.ttf
+TimeoutError: page.waitForEvent: Timeout 600000ms exceeded.
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for rawi.ttf
+Generation Complete for rawi.ttf
+Starting Generation for rawy-bold.ttf
+Generation Complete for rawy-bold.ttf
+Starting Generation for rawy-thin.ttf
+Generation Complete for rawy-thin.ttf
+Starting Generation for reem-kufi.ttf
+Generation Complete for reem-kufi.ttf
+Starting Generation for rsail.ttf
+There was error for G:\GitHub\quran-api\start\rsail.ttf
+TimeoutError: page.waitForEvent: Timeout 600000ms exceeded.
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for rsail-bold.ttf
+There was error for G:\GitHub\quran-api\start\rsail-bold.ttf
+TimeoutError: page.waitForEvent: Timeout 600000ms exceeded.
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for rsail-light.ttf
+There was error for G:\GitHub\quran-api\start\rsail-light.ttf
+TimeoutError: page.waitForEvent: Timeout 600000ms exceeded.
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for rustam-quran-r3-hoq.ttf
+Generation Complete for rustam-quran-r3-hoq.ttf
+Starting Generation for sabgha.ttf
+Generation Complete for sabgha.ttf
+Starting Generation for sadiyah.ttf
+Generation Complete for sadiyah.ttf
+Starting Generation for sara.ttf
+Generation Complete for sara.ttf
+Starting Generation for saudi.ttf
+Generation Complete for saudi.ttf
+Starting Generation for setareh.ttf
+Generation Complete for setareh.ttf
+Starting Generation for shahd-bold.ttf
+Generation Complete for shahd-bold.ttf
+Starting Generation for shahd.ttf
+Generation Complete for shahd.ttf
+Starting Generation for shams.ttf
+Generation Complete for shams.ttf
+Starting Generation for sheba.ttf
+Generation Complete for sheba.ttf
+Starting Generation for shekari.ttf
+Generation Complete for shekari.ttf
+Starting Generation for shiraz.ttf
+Generation Complete for shiraz.ttf
+Starting Generation for shorooq.ttf
+Generation Complete for shorooq.ttf
+Starting Generation for sky-bold.ttf
+There was error for G:\GitHub\quran-api\start\sky-bold.ttf
+TimeoutError: page.waitForEvent: Timeout 600000ms exceeded.
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for sky.ttf
+There was error for G:\GitHub\quran-api\start\sky.ttf
+TimeoutError: page.waitForEvent: Timeout 600000ms exceeded.
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for smartman.ttf
+Generation Complete for smartman.ttf
+Starting Generation for spirit-of-doha.ttf
+Generation Complete for spirit-of-doha.ttf
+Starting Generation for stc.ttf
+Generation Complete for stc.ttf
+Starting Generation for stoor.ttf
+There was error for G:\GitHub\quran-api\start\stoor.ttf
+TimeoutError: page.waitForEvent: Timeout 600000ms exceeded.
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for strick.ttf
+Generation Complete for strick.ttf
+Starting Generation for sukar-black.ttf
+Generation Complete for sukar-black.ttf
+Starting Generation for sukar-bold.ttf
+Generation Complete for sukar-bold.ttf
+Starting Generation for sukar-regular.ttf
+Generation Complete for sukar-regular.ttf
+Starting Generation for tachkili.ttf
+Generation Complete for tachkili.ttf
+Starting Generation for taha-naskh.ttf
+Generation Complete for taha-naskh.ttf
+Starting Generation for tanseek.ttf
+There was error for G:\GitHub\quran-api\start\tanseek.ttf
+TimeoutError: page.waitForEvent: Timeout 600000ms exceeded.
+Note: use DEBUG=pw:api environment variable and rerun to capture Playwright logs.
+Starting Generation for taqniya.ttf
+Generation Complete for taqniya.ttf
+Starting Generation for tasmeem-med.ttf
+Generation Complete for tasmeem-med.ttf
+Starting Generation for thabit1.ttf
+Generation Complete for thabit1.ttf
+Starting Generation for thameen.ttf
+Generation Complete for thameen.ttf
+Starting Generation for themixarab.ttf
+Generation Complete for themixarab.ttf
+Starting Generation for thuluth-decorated.ttf
+Generation Complete for thuluth-decorated.ttf
+Starting Generation for toyor-aljanah.ttf
+Generation Complete for toyor-aljanah.ttf
+Starting Generation for uthman-tn1-ver06.otf
+Generation Complete for uthman-tn1-ver06.otf
+Starting Generation for uthmanic-hafs1-ver09.otf
+Generation Complete for uthmanic-hafs1-ver09.otf
+Starting Generation for uthmanic-hafs1-ver13.otf
+Generation Complete for uthmanic-hafs1-ver13.otf
+Starting Generation for vip-hakm-bold.ttf
+Generation Complete for vip-hakm-bold.ttf
+Starting Generation for vip-hakm-thin.ttf
+Generation Complete for vip-hakm-thin.ttf
+Starting Generation for vip-hakm.ttf
+Generation Complete for vip-hakm.ttf
+Starting Generation for vip-tim-black.ttf
+Generation Complete for vip-tim-black.ttf
+Starting Generation for vip-tim-bold.ttf
+Generation Complete for vip-tim-bold.ttf
+Starting Generation for vip-tim-light.ttf
+Generation Complete for vip-tim-light.ttf
+Starting Generation for vip-tim.ttf
+Generation Complete for vip-tim.ttf
+Starting Generation for yaraa-regular.ttf
+Generation Complete for yaraa-regular.ttf
+Starting Generation for yaraa.ttf
+Generation Complete for yaraa.ttf
+Starting Generation for yassin.ttf
+Generation Complete for yassin.ttf
+Starting Generation for zahra-bold.ttf
+Generation Complete for zahra-bold.ttf
+Starting Generation for zahra.ttf
+Generation Complete for zahra.ttf
+fonts.json and fonts.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+font noorehuda1.ttf is a duplicate of noorehuda-regular-org.ttf hence we are ignoring it
+font rsail-1.ttf is a duplicate of rsail-org.ttf hence we are ignoring it
+font sahlnaskh-regular1.ttf is a duplicate of sahlnaskh-regular-org.ttf hence we are ignoring it
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for pdms-saleem-quran.ttf
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+fonts.json and fonts.min.json generated
