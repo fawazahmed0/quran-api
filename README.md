@@ -77,34 +77,34 @@ or
 - Read [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/References.md "Contribute") to add the translation directly to this repo
 
 
-###Help Needed:
+### Help Needed:
 
 [Make Colored Tajweed Fonts](https://github.com/fawazahmed0/quran-api/issues/7 "Make Colored Tajweed Fonts")
 
 
-###Download:
+### Download:
 - All the files are in [database](https://github.com/fawazahmed0/quran-api/tree/1/database "database") folder of this repo, there are two folders available, one is [linebyline](https://github.com/fawazahmed0/quran-api/tree/1/database/linebyline "linebyline") and other is [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "chapterverse")
 [linebyline](https://github.com/fawazahmed0/quran-api/tree/1/database/linebyline "linebyline") contains files having verses in 6236 lines and [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "chapterverse") contains files having each verse prepended with chapter and verse no. Just download or clone this repo to get those files
 
 - You can also fork this repo as a backup for future
 
-###Authenticity:
+### Authenticity:
 I have taken great care to not include any controversial authors, for example: 'Rashad Khalifa' , because there are chances that the translation may contain opinions of the author and not the meaning of the verse.
 The Ahmaddiya community has done great work in translating the quran to many different languages of the world. May God reward them with guidance.
 But I cannot take those translations also because the verses such as those talking about Jesus ([4:157](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ummmuhammad/4/157.json "4:157")) usually have opinions of the author of what actually happened to Jesus etc.
 
 In case you find any translation whose authenticity could be questioned, please let me know at [here](https://github.com/fawazahmed0/quran-api/issues/new "here") .Only after verifying the claims, will I remove the translation
 
-###Any Issues:
+### Any Issues:
 
  [Raise here](https://github.com/fawazahmed0/quran-api/issues/new "Raise here")
 
-###Donation:
+### Donation:
  - Even though I worked very hard on this project, I will not ask donation for myself. I will take the reward from God in this world and the next
  - But what I ask you is to donate the authors and Islamic/dawah publishers who have worked so hard to make these translations, so that the word of God could spread around the world and people will know about the one who created them.
  Here is the [editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "editions") and [references](https://github.com/fawazahmed0/quran-api/blob/1/References.md "references") list, you might have to Google to get more details about them.
 
-###References:
+### References:
 All the open source projects and dawah/Islamic organizations
 
 Please see [editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "editions") and [references](https://github.com/fawazahmed0/quran-api/blob/1/References.md "references")
