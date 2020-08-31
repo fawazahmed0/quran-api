@@ -765,3 +765,132 @@ Generating Edition
 Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
 Latin script not supported for this langauge, skipping latin script generation
 editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for ur.maududi
+Generating Edition
+ Generated edition urd-abulaalamaududi
+Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
+Latin script not supported for this langauge, skipping latin script generation
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for quranromanurdu (one verse missing)
+merged the below line 
+4: Phir tabahi hai un namaz padhne walon ke liye Jo apni namaz se gaflat barat-tey hain 6: Jo riya-kaari(dikhawa) karte hai
+merged the below line 
+4: Phir tabahi hai un namaz padhne walon ke liye Jo apni namaz se gaflat barat-tey hain 6: Jo riya-kaari(dikhawa) karte hai 7: Aur maamuli zarurat ki cheezen (logon ko) dene se gurez karte hai
+merged the below line 
+4: Phir tabahi hai un namaz padhne walon ke liye Jo apni namaz se gaflat barat-tey hain 6: Jo riya-kaari(dikhawa) karte hai 7: Aur maamuli zarurat ki cheezen (logon ko) dene se gurez karte hai 1: (Aey Nabi ) Hum ne tumhein kausar ata kar diya
+merged the below line 
+4: Phir tabahi hai un namaz padhne walon ke liye Jo apni namaz se gaflat barat-tey hain 6: Jo riya-kaari(dikhawa) karte hai 7: Aur maamuli zarurat ki cheezen (logon ko) dene se gurez karte hai 1: (Aey Nabi ) Hum ne tumhein kausar ata kar diya 2: Pas tum apne Rubb hi ke liye namaz padho aur qurbani karo
+merged the below line 
+4: Phir tabahi hai un namaz padhne walon ke liye Jo apni namaz se gaflat barat-tey hain 6: Jo riya-kaari(dikhawa) karte hai 7: Aur maamuli zarurat ki cheezen (logon ko) dene se gurez karte hai 1: (Aey Nabi ) Hum ne tumhein kausar ata kar diya 2: Pas tum apne Rubb hi ke liye namaz padho aur qurbani karo 3:Tumhara dushman hi jadh-kata hai
+merged the below line 
+4: Phir tabahi hai un namaz padhne walon ke liye Jo apni namaz se gaflat barat-tey hain 6: Jo riya-kaari(dikhawa) karte hai 7: Aur maamuli zarurat ki cheezen (logon ko) dene se gurez karte hai 1: (Aey Nabi ) Hum ne tumhein kausar ata kar diya 2: Pas tum apne Rubb hi ke liye namaz padho aur qurbani karo 3:Tumhara dushman hi jadh-kata hai 1: Kehdo ke aey kafiron,
+merged the below line 
+4: Phir tabahi hai un namaz padhne walon ke liye Jo apni namaz se gaflat barat-tey hain 6: Jo riya-kaari(dikhawa) karte hai 7: Aur maamuli zarurat ki cheezen (logon ko) dene se gurez karte hai 1: (Aey Nabi ) Hum ne tumhein kausar ata kar diya 2: Pas tum apne Rubb hi ke liye namaz padho aur qurbani karo 3:Tumhara dushman hi jadh-kata hai 1: Kehdo ke aey kafiron, 2: Main unki ibadat nahin karta jinki ibadat tum karte ho
+merged the below line 
+4: Phir tabahi hai un namaz padhne walon ke liye Jo apni namaz se gaflat barat-tey hain 6: Jo riya-kaari(dikhawa) karte hai 7: Aur maamuli zarurat ki cheezen (logon ko) dene se gurez karte hai 1: (Aey Nabi ) Hum ne tumhein kausar ata kar diya 2: Pas tum apne Rubb hi ke liye namaz padho aur qurbani karo 3:Tumhara dushman hi jadh-kata hai 1: Kehdo ke aey kafiron, 2: Main unki ibadat nahin karta jinki ibadat tum karte ho 3: Aur na tum uski ibadat karne wale ho jiski ibadat mai karta hoon
+merged the below line 
+4: Phir tabahi hai un namaz padhne walon ke liye Jo apni namaz se gaflat barat-tey hain 6: Jo riya-kaari(dikhawa) karte hai 7: Aur maamuli zarurat ki cheezen (logon ko) dene se gurez karte hai 1: (Aey Nabi ) Hum ne tumhein kausar ata kar diya 2: Pas tum apne Rubb hi ke liye namaz padho aur qurbani karo 3:Tumhara dushman hi jadh-kata hai 1: Kehdo ke aey kafiron, 2: Main unki ibadat nahin karta jinki ibadat tum karte ho 3: Aur na tum uski ibadat karne wale ho jiski ibadat mai karta hoon 4: Aur na mai unki ibadat karne wala hoon jinki ibadat tum ne ki hai,
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain 3:To apne Rubb ki hamd ke saath uski tasbeeh karo Aur us se magfirat ki duaa maango. Beshak woh bada tauba qabool karne wala hai
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain 3:To apne Rubb ki hamd ke saath uski tasbeeh karo Aur us se magfirat ki duaa maango. Beshak woh bada tauba qabool karne wala hai 1:  Toot gaye Abu Lahab ke haath aur na-murad ho gaya woh
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain 3:To apne Rubb ki hamd ke saath uski tasbeeh karo Aur us se magfirat ki duaa maango. Beshak woh bada tauba qabool karne wala hai 1:  Toot gaye Abu Lahab ke haath aur na-murad ho gaya woh 2:  Uska maal aur jo kuch us ne kamaya woh uske kisi kaam na aaya
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain 3:To apne Rubb ki hamd ke saath uski tasbeeh karo Aur us se magfirat ki duaa maango. Beshak woh bada tauba qabool karne wala hai 1:  Toot gaye Abu Lahab ke haath aur na-murad ho gaya woh 2:  Uska maal aur jo kuch us ne kamaya woh uske kisi kaam na aaya 3:  Zaroor woh shola zan Aag mei dala jayega
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain 3:To apne Rubb ki hamd ke saath uski tasbeeh karo Aur us se magfirat ki duaa maango. Beshak woh bada tauba qabool karne wala hai 1:  Toot gaye Abu Lahab ke haath aur na-murad ho gaya woh 2:  Uska maal aur jo kuch us ne kamaya woh uske kisi kaam na aaya 3:  Zaroor woh shola zan Aag mei dala jayega 4:  Aur (us ke saath) us ki joru(wife) bhi lagai bujhai karne wali
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain 3:To apne Rubb ki hamd ke saath uski tasbeeh karo Aur us se magfirat ki duaa maango. Beshak woh bada tauba qabool karne wala hai 1:  Toot gaye Abu Lahab ke haath aur na-murad ho gaya woh 2:  Uska maal aur jo kuch us ne kamaya woh uske kisi kaam na aaya 3:  Zaroor woh shola zan Aag mei dala jayega 4:  Aur (us ke saath) us ki joru(wife) bhi lagai bujhai karne wali 5:  Us ki gardan(neck) mein moonj ki rassi hogi
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain 3:To apne Rubb ki hamd ke saath uski tasbeeh karo Aur us se magfirat ki duaa maango. Beshak woh bada tauba qabool karne wala hai 1:  Toot gaye Abu Lahab ke haath aur na-murad ho gaya woh 2:  Uska maal aur jo kuch us ne kamaya woh uske kisi kaam na aaya 3:  Zaroor woh shola zan Aag mei dala jayega 4:  Aur (us ke saath) us ki joru(wife) bhi lagai bujhai karne wali 5:  Us ki gardan(neck) mein moonj ki rassi hogi 1:Kaho woh Allah hai, Yakta
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain 3:To apne Rubb ki hamd ke saath uski tasbeeh karo Aur us se magfirat ki duaa maango. Beshak woh bada tauba qabool karne wala hai 1:  Toot gaye Abu Lahab ke haath aur na-murad ho gaya woh 2:  Uska maal aur jo kuch us ne kamaya woh uske kisi kaam na aaya 3:  Zaroor woh shola zan Aag mei dala jayega 4:  Aur (us ke saath) us ki joru(wife) bhi lagai bujhai karne wali 5:  Us ki gardan(neck) mein moonj ki rassi hogi 1:Kaho woh Allah hai, Yakta 2:Allah sab se bay-niyaz hai aur sab us kay mohtaj hain
+merged the below line 
+6:Tumhare liye tumhara deen hai aur mere liye mera deen 1:Jab Allah ki madad aa jaye aur fatah naseeb ho jaye 2: Aur (aey Nabi s.a.s) tum dekh lo ke log fauj dar fauj Allah ke deen mein dakhil ho rahey hain 3:To apne Rubb ki hamd ke saath uski tasbeeh karo Aur us se magfirat ki duaa maango. Beshak woh bada tauba qabool karne wala hai 1:  Toot gaye Abu Lahab ke haath aur na-murad ho gaya woh 2:  Uska maal aur jo kuch us ne kamaya woh uske kisi kaam na aaya 3:  Zaroor woh shola zan Aag mei dala jayega 4:  Aur (us ke saath) us ki joru(wife) bhi lagai bujhai karne wali 5:  Us ki gardan(neck) mein moonj ki rassi hogi 1:Kaho woh Allah hai, Yakta 2:Allah sab se bay-niyaz hai aur sab us kay mohtaj hain 3:Na uski koi aulad hai aur na woh kisi ki aulad
+error while checking the quranromanurdu (one verse missing) it might be missing chapter 107 and verse 7 check at roughly lineno 6212 after or before the line '6:Tumhare liye tumhara deen hai aur mere liye mera deen' ,error will be somewhere near this line
+problem in quranromanurdu (one verse missing) format, so ignoring this file
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for quranromanurdu
+Generating Edition
+ Generated edition eng-abulalamaududi1
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js delete eng-abulalamaududi1
+ deletion completed for eng-abulalamaududi1
+ deletion completed for eng-abulalamaududi1-la
+ deletion completed for eng-abulalamaududi1-lad
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for urd-abulalamaududi1.txt
+No JSON found in file urd-abulalamaududi1.txt or please enter the json in correct format
+Add json at end of file in the following format:
+
+{
+    "author": "Name of Author",
+    "langauge": "Name of langauge",
+    "source": "",
+    "comments": ""
+}
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for urd-abulalamaududi1.txt
+Generating Edition
+ Generated edition urd-abulalamaududi
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for urd-abulalamaududi.txt
+This file urd-abulalamaududi.txt seems to be a duplicate copy of urd-abulalamaududi.txt
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js update
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for urd-abulalamaududi.txt
+You are trying to change edition name to urd-abulaalamaududi-la this should be done only in very rare cases only
+ deletion completed for urd-abulalamaududi
+ deletion completed for urd-abulalamaududi-la
+ deletion completed for urd-abulalamaududi-lad
+editions.json and editions.min.json generated
+Generating Edition
+ Generated edition urd-abulaalamaududi-la
+editions.json and editions.min.json generated

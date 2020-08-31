@@ -1,0 +1,744 @@
+{
+    "juzs": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Allah ke naam se jo Rehman o Raheem hai"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Tareef Allah hi ke liye hai jo tamaam qayinaat ka Rubb hai"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Rehman aur Raheem hai"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Roz e jaza ka maalik hai"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Hum teri hi ibadat karte hain aur tujh hi se madad maangte hain"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Humein seedha raasta dikha"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Un logon ka raasta jinpar tu nay inam farmaya, jo maatoob nahin huey (na unka jinpar tera gazab hota raha) , jo bhatke huey nahin hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Alif Laam Meem"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "Yeh Allah ki kitab hai, is mein koi shakk nahin, hidayat hai un parheizgaar logon ke liye"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "Jo gaib par iman latey hain, namaz qayam karte hain , jo rizq humne unko diya hai usmein se kharch karte hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "Jo kitab tumpar nazil ki gayi hai (yani Quran) aur jo kitabein tumse pehle nazil ki gayi thi un sab par iman latey hain aur aakhirat par yaqeen rakhte hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Aisey log apne Rubb ki taraf se raah e raast par hain aur wahi falaah paney waley hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Jin logon ne (in baaton ko tasleem karne se) inkar kardiya, unke liye yaksan hai, khwa tum unhein khabardaar karo ya na karo, bahar haal woh maanne waley nahin hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Allah ne unke dilon aur unke kaano par mohar laga di hai aur unki aankhon par purda padh gaya hai, woh sakht saza ke mustahiq hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "Baaz log aisey bhi hain jo kehte hain ke hum Allah par aur aakhirat ke din par iman laye hain, halaanke dar-haqeeqat woh momin nahin hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "Woh Allah aur iman laney walon ke saath dhoke-baazi kar rahey hain, magar darasal woh khud apne aap hi ko dhoke mein daal rahey hain aur unhein iska shaoor nahin hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "Unke dilon mein ek bimari hai jisey Allah ne aur zyada bada diya, aur jo jhoot woh bolte hain, uski padash mein unke liye dardnaak saza hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Jab kabhi unse kaha gaya ke zameen mein fasaad barpa na karo to unhon ne yahi kaha ke hum to islaah karne waley hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "Khabardaar! Haqeeqat mein yahi log mufsid (fasaad karne waley) hain magar unhein shaoor nahin hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Aur jab unse kaha gaya jis tarah dusre log iman laye hain usi tarah tum bhi iman lao to unhon ne yahi jawab diya “kya hum bewaqoofon ki tarah iman layein?” khabardaar! Haqeeqat mein to yeh khud bewaqoof hain, magar yeh jantey nahin hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Jab yeh ehle iman se milte hain, to kehte hain ke hum iman laye hain aur jab alaidagi (alone/privy) mein apne shaytano se milte hain, to kehte hain ke asal mein to hum tumhare saath hain aur in logon se mehaz mazaaq kar rahey hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Allah unse mazaq kar raha hai, woh inki rassi daraaz kiye jata hai, aur yeh apni sarkashi mein andhon (blind) ki tarah bhatakte chale jatay hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "Yeh woh log hain jinhon ne hidayat ke badle gumaraahi khareed li hai, magar yeh sauda inke liye nafa-baksh nahin hai aur yeh hargiz saheeh raaste par nahin hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Inki misaal aisey hai jaise ek shaks ne aag roshan ki aur jab usne sarey maahol ko roshan kardiya to Allah ne inka noor e basarat (vision) salb karliya aur inhein is haal mein chodh diya ke taareekiyon (andheron) mein inhein kuch nazar nahin aata"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "Yeh behre hain, gungay hain, andhey hain, yeh ab na paltenge"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Ya phir inki misaal yun samajho ke aasman se zoar ki baarish ho rahi hai aur iske saath andheri ghata aur kadak chamak bhi hai, yeh bijli ki kadake sunkar apni jaano ke khauf se kaano mein ungliyan thunse lete hain aur Allah in munkireen e haqq ko har taraf se gherey mein liye huey hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "Chamak se inki haalat yeh ho rahi hai ke goya anqareeb bijli inki basarat (vision) uchak le jayegi, jab zara kuch roshni inhein mehsoos hoti hai to ismein kuch door chal lete hain aur jab inpar andhera cha jata hai to khade ho jatay hain. Allah chahta to inki samaat (hearing) aur basarat bilkul hi salb karleta, yaqeenan woh har cheez par qadir hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Logon! Bandagi ikhtiyar karo apne us Rubb ki jo tumhara aur tumse pehle jo log ho guzre hain un sabka khaliq hai, tumhare bachne ki tawaqqu isi surat se ho sakti hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "Wahi to hai jisne tumhare liye zameen ka farsh bichaya, aasman ki chath banayi, upar se pani barsaya aur uske zariye se har tarah ki paidwaar nikal kar tumhare liye rizq baham pahunchaya, pas jab tum yeh jaante ho to dusron ko Allah ka madd e muqabil na thehrao"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "Aur agar tumhein is amr mein shakk hai ke yeh kitab jo humne apne bandey par utari hai, yeh hamari hai ya nahin, to iske manind (similar) ek hi surat bana lao, apne saarey humnawa ko bula lo (associates to assist you), ek Allah ko chodh kar baki jis jis ki chaho madad lelo agar tum sacchey ho to yeh kaam karke dikhao"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "Lekin agar tumne aisa na kiya aur yaqeenan kabhi nahin kar sakte, to daro us aag se jiska indhan (fuel) banengey Insan aur patthar, jo muhaiyya ki gayi hai munkireen e haqq ke liye"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "Aur (aey paighambar), jo log is kitab par iman le aaye aur (iske mutabiq) apne aamaal durust karlein, unhein khushkhabri dedo ke unke liye aisey baagh hain, jinke nichey nehrein behti hongi. Un baaghon ke phal surat mein duniya ke phalon se miltey jhulte honge, jab koi phal unhein khane ko diya jayega, to woh kahenge ke aisey hi phal issey pehle duniya mein humko diye jatay thay. Unke liye wahan pakeeza biwiyan hongi, aur woh wahan hamesha rahenge"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "Haan, Allah issey hargiz nahin sharmata ke machhar ya issey bhi haqeer-tar (insignificant) kisi cheez ki tamseelein (examples) de. Jo log haqq baat ko qabool karne waley hain , woh inhi tamseelon ko dekh kar jaan lete hain ke yeh haqq hai jo unke Rubb hi ki taraf se aaya hai, aur jo maanne waley nahin hain, woh inhein sunkar kehne lagte hain ke aisi tamseelon se Allah ko kya sarokar? Is tarah Allah ek hi baat se bahuton ko gumraahi mein mubtila kardeta hai aur bahuton ko raah e raast dikha deta hai. Aur gumraahi mein woh unhi ko mubtila karta hai jo faasiq hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "Allah ke ahad ko mazboot baandh lene ke baad todh dete hain, Allah ne jisey jodhne ka hukum diya hai usey kaat-te hain, aur zameen mein fasaad barpa karte hain. Haqeeqat mein yahi log nuqsan uthane waley hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Tum Allah ke saath kufr ka rawayya kaise ikhtiyar karte ho halaanke tum bay-jaan thay , usne tumko zindagi ata ki, phir wahi tumhari jaan salb karega, phir wahi tumhein dobara zindagi ata karega, phir usi ki taraf tumhein palat kar jana hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "Wahi to hai, jisne tumhare liye zameen ki saari cheezein paida ki, phir upar ki taraf tawajju farmayi aur saat aasman ustwaar kiye aur woh har cheez ka ilm rakhne wala hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Phir zara us waqt ka tasavvur karo jab tumhare Rubb ne Farishton se kaha tha ke “ main zameen mein ek khalifa banane wala hoon” unhon ne arz kiya : “kya aap zameen mein kisi aisey ko muqarrar karne waley hain, jo iske intezaam ko bigadh dega aur khoon-reziyan karega? Aap ki hamd o sana ke saath tasbeeh aur aap ke liye taqdees to hum kar hi rahey hain.” Farmaya: “ main jaanta hoon jo kuch tum nahin jaante.”"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "Iske baad Allah ne Adam ko saari cheezon ke naam sikhaye, phir unhein Farishton ke samne pesh kiya aur farmaya “agar tumhara khayal saheeh hai (ke kisi khalifa ke taqarrur se intezam bigad jayega) to zara in cheezon ke naam batao.”"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Unhon ne arz kiya: “nuqs (defect) se paak to aap hi ki zaat hai, hum to bas itna hi ilm rakhte hain, jitna aapne humko de diya hai, haqeeqat mein sab kuch jaanne aur samajhne wala aap ke siwa koi nahin”"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "Phir Allah ne Adam se kaha: “ tum inhein in cheezon ke naam batao” jab usne unko un sabke naam bata diye, to Allah ne farmaya : “ maine tum se kaha na tha ke main aasmano aur zameen ki woh saari haqeeqatein jaanta hoon jo tumse makhfi (chupi) hain, jo kuch tum zaahir karte ho, woh bhi mujhey maloom hai aur jo kuch tum chupate ho, usey bhi main jaanta hoon.”"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Phir jab humne Farishton ko hukum diya ke Adam ke aagey jhuk jao, to sab jhuk gaye, magar Iblis ne inkar kiya, woh apni badayi ke ghamand mein padh gaya aur nafarmaano mein shamil ho gaya"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Phir humne Adam se kaha ke “Tum aur tumhari biwi, dono jannat mein raho aur yahan ba-faraagat jo chaho khao, magar is darakht ka rukh na karna, warna zaalimon mein shumaar honge”"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Aakhir e kaar shaytan ne in dono ko is darakht ki targeeb dekar hamare hukum ki pairwi se hata diya aur inhein us haalat se nikalwa kar chodha jismein woh thay. Humne hukum diya ke, ab tum sab yahan se utar jao, tum ek dusre ke dushman ho aur tumhein ek khaas waqt tak zameen (mein) theharna aur wahin guzar basar karna hai”"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Us waqt Adam ne apne Rubb se chandh kaleemat seekh kar tauba ki, jisko uske Rubb ne qabool karliya, kyunke woh bada maaf karne wala aur reham farmane wala hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Humne kaha ke, “tum sab yahan se utar jao phir jo meri taraf se koi hidayat tumhare paas pahunche, to jo log meri hidayat ki pairwi karenge, unke liye kisi khauf aur ranjh ka mauqa na hoga"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "Aur jo isko qabool karne se inkar karenge aur hamari aayat ko jhutlayenge, woh aag mein janey waley log hain, jahan woh hamesha rahenge.”"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Aey bani-Israel ! zara khayal karo meri us niyamat ka jo maine tumko ata ki thi, mere saath tumhara jo ahad (covenant) tha usey tum poora karo, to mera jo ahad tumhare saath tha usey main poora karunga aur mujh hi se tum daro"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Aur maine jo kitab bheji hai uspar iman lao, yeh us kitab ki taeed (confirm) mein hai jo tumhare paas pehle se maujood thi, lihaza sabse pehle tum hi iske munkir na ban jao thodi keemat par meri aayat ko na bech daalo aur mere gazab se bacho"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Baatil ka rang chadha kar haqq ko mushtaba (confusing) na banao aur na jaante boojhte haqq ko chupane ki koshish karo"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Namaz qayam karo, zakaat do aur jo log mere aagey jhuk rahey hain unke saath tum bhi jhuk jao"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "Tum dusron ko to neki ka raasta ikhtiyar karne ke liye kehte ho, magar apne aap ko bhool jatay ho? Halaanke tum kitab ki tilawat karte ho, kya tum aqal se bilkul hi kaam nahin letay"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Sabar aur namaz se madad lo, beshak namaz ek sakht mushkil kaam hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "Magar un farma-bardaar bandon ke liye mushkil nahin hai jo samajhte hain ke aakhir e kaar unhein apne Rubb se milna aur usi ki taraf palat kar jana hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "Aey bani Israel! Yaad karo meri us niyamat ko , jissey maine tumhein nawaza tha aur is baat ko ke maine tumhein duniya ki saari qaumon par fazilat ata ki thi"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Aur daro us din se jab koi kisi ke zara kaam na aayega, na kisi ki taraf se sifarish qabool hogi, na kisi ko fidiya lekar choda jayega, aur na mujreemon ko kahin se madad mil sakegi"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "Yaad karo woh waqt, jab humne tumko Firouniyon ki ghulami se nijaat bakshi, unhon ne tumhein sakht azaab mein mubtila kar rakkha tha, tumhare ladkon ko zibah karte thay aur tumhari ladkiyon ko zinda rehne dete thay aur is haalat mein tumhare Rubb ki taraf se tumhari badi aazmaish thi"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "Yaad karo woh waqt, jab humne samandar phadh kar tumhare liye raasta banaya, phir ismein se tumhein ba-khairiyat guzarwa diya, phir wahin tumhari aankhon ke saamne Firouniyon ko garqaab (drown) kiya"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "Yaad karo, jab humne Moosa ko chalis shabana roz ki qarardaad par bulaya, to uske peechey tum bachdey (calf) ko apna mabood bana baithey us waqt tumne badi zyadati ki thi"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Magar ispar bhi humne tumhein maaf kardiya ke shayad ab tum shukar-guzar bano"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "Yaad karo ke (theek us waqt jab tum yeh zulm kar rahey thay) humne Moosa ko kitab aur furqan ata ki taa-ke tum uske zariye se seedha raasta paa sako"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "Yaad karo jab Moosa ( yeh niyamat lete huey palta, to us) ne apni qaum se kaha ke “logon, tumne bachde ko mabood bana kar apne upar sakht zulm kiya hai, lihaza tum log apne khaliq ke huzoor tauba karo aur apni jaano ko halaak karo, isi mein tumhare khaliq ke nazdeek tumhari behtari hai” us waqt tumhare khaliq ne tumhari tauba qabool karli ke woh bada maaf karne wala aur reham farmane wala hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "Yaad karo jab tumne Moosa se kaha tha ke hum tumhare kehne ka hargiz yaqeen na karenge, jab tak ke apni aankhon se alaniya khuda ko ( tumse kalaam karte) na dekhlein, us waqt tumhare dekhte dekhte ek zabardast saayqe ne(thunderbolt struck) tumko aa liya"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Tum be-jaan hokar gir chuke thay, magar phir humne tumko jila uthaya, shayad ke is ehsan ke baad tum shukar-guzar ban jao"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Humne tumpar abar ka saya (cloud to overshadow) kiya, mann o salwa ki giza tumhare liye faraham ki aur tumse kaha ke jo paak cheezein humne tumhein bakshi hain, unhein khao, magar tumhare aslaaf (forefathers) ne jo kuch kiya, woh humpar zulm na tha, balke unhon ne aap apne hi upar zulm kiya"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "Phir yaad karo jab humne kaha tha ke, “yeh basti jo tumhare saamne hai, ismein dakhil ho jao, iski paidawaar jis tarah chaho mazey se khao, magar basti ke darwaze mein sajda-reiz hotey huey daakhil hona aur kehte jana hitta-tun hitta-tun (Relieve us of our burdens/magfirat), hum tumhari khataon se darguzar karenge aur neikukaron ko mazeed fazal o karam se nawazenge”"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Magar jo baat kahi gayi thi, zalimon ne usey badal kar kuch aur kardiya, aakhir e kaar humne zulm karne walon par aasman se azaab nazil kiya, yeh saza thi un na-farmaniyon ki jo woh kar rahey thay"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "Yaad karo, jab Moosa ne apni qaum ke liye pani ki dua ki to humne kaha ke falaan chattan par apna asa maaro chunanchey ussey barah (twelve) chashmey (springs) phoot nikle aur har qabiley ne jaan liya ke kaunsi jagah uske pani lene ki hai. Us waqt yeh hidayat kardi gayi thi ke Allah ka diya hua rizq khao, pio aur zameen mein fasaad na phaylate phiro"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Yaad karo, jab tumne kaha tha ke, “Aey Moosa, hum ek hi tarah ke khane par sabr nahin kar saktey, apne Rubb se dua karo ke hamare liye zameen ki paidawaar saag, tarkari, kheera, kakdi, gehoon, lasan, pyaz, daal wagaira paida karey” to Moosa ne kaha “ “kya ek behtar cheez ke bajaye tum adna darje ki cheezein lena chahte ho? Accha, kisi shehri aabaadi mein jaa raho, jo kuch tum maangte ho wahan mil jayega”. Aakhir e kaar naubat yahan tak pahunchi ke zillat o khwari aur pasti o badhaali unpar musallat ho gayi aur woh Allah ke gazab mein ghir gaye, yeh nateeja tha iska jo woh Allah ki aayat se kufr karne lagey aur paighambaron ko na-haqq qatal karne lagey, yeh nateeja tha unki nafarmaaniyon ka aur is baat ka ke woh hudood e sharaa se nikal nikal jatay thay"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "Yaqeen jaano ke Nabi e arabi ko maanne waley hon ya yahudi, Isayi hon ya Sabyi, jo bhi Allah aur roz e aakhir par iman layega aur neik amal karega, uska ajar uske Rubb ke paas hai aur uske liye kisi khauf aur ranjh ka mauqa nahin hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Yaad karo woh waqt, jab humne Tur (tur pahad) ko tumpar utha kar tumse pukhta ahad liya tha aur kaha tha ke “jo kitab hum tumhein de rahey hain usey mazbooti ke saath thamna aur jo ehkaam o hidayaat ismein darj hain unhein yaad rakhna, isi zariye se tawaqqu ki ja sakti hai ke tum taqwa ki rawish par chal sakogey”"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Magar iske baad tum apne ahad se phir gaye ispar bhi Allah ke fazal aur uski rehmat ne tumhara saath na choda, warna tum kabhi ke tabaah ho chuke hotay"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Phir tumhein apni qaum ke un logon ka qissa to maloom hi hai jinhon ne Sabt (sabbath) ka kanoon toda tha, humne unhein kehdiya ke bandar ban jao aur is haal mein raho ke har taraf se tumpar dhutkaar phitkaar padey"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "Is tarah humne unke anjaam ko us zamane ke logon aur baad ki aane wali nasalon ke liye ibrat aur darne walon ke liye naseehat bana kar choda"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Phir woh waqiya yaad karo, jab Moosa ne apne qaum se kaha ke, Allah tumhein ek gai (cow) zibaah karne ka hukm deta hai. Kehne lagey kya tum humse mazaaq karte ho? Moosa ne kaha, main issey khuda ki panaah maangta hoon ke jaahilon ki si baatein karoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Bole, accha apne Rubb se darkhwast karo ke woh humein is gai ki kuch tafseel bataye, Moosa ne kaha, Allah ka irshad hai ke woh aisi gai honi chahiye jo na boodhi ho na bachhiya, balke ausat umar ki ho, lihaza jo hukm diya jata hai uski tameel karo"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Phir kehne lagey apne Rubb se yeh aur puch do ke uska rang kaisa ho, Moosa ne kaha woh farmata hai zard (yellow) rang ki gai honi chahiye, jiska rang aisa shukh (bright) ho ke dekhne walon ka jee khush ho jaye"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "Phir boley apne Rubb se saaf saaf puch kar batao kaisi gai matloob hai, humein iski taayun mein ishtabah (confusion) ho gaya hai, Allah ne chaha to hum iska pata paa lenge"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "Moosa ne jawab diya: Allah kehta hai ke woh aisi gai hai jissey khidmat nahin li jati, na zameen joth-ti hai na pani kheenchti hai, saheeh saalim aur be-daag hai, ispar woh pukaar utthey ke haan, ab tumne theek pata bataya hai,phir unhone usey zibaah kiya, warna woh aisa karte maloom na hotay thay"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "Aur tumhein yaad hai woh waqia jab tumne ek shaks ki jaan li thi, phir uske barey mein jhagadne aur ek dusre par qatal ka ilzam thopne lagey thay aur Allah ne faisla karliya tha ke jo kuch tum chupate ho usey khol kar rakh dega"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "Us waqt humne hukm diya ke maqtool ki laash ko uske ek hissey se zarb lagaoo, dekho is tarah Allah murdon ko zindagi bakshta hai aur tumhein apni nishaniyan dikhata hai taa-ke tum samjho"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "Magar aisi nishaniyan dekhne ke baad bhi aakhir e kaar tumhare dil sakht hogaye, pattharon ki tarah sakht, balke sakhti mein kuch inse bhi badey huey, kyunke pattharon mein se to koi aisa bhi hota hai jismein se chashme phoot behte hain, koi phathta hai aur ismein se pani nikal aata hai aur koi khuda ke khauf se laraz kar girr bhi padhta hai. Allah tumhare kartooton se bekhabar nahin hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "Aey Musalmano! Ab kya in logon se tum yeh tawaqqu rakhte ho ke yeh tumhari dawat par iman le ayenge? Halaanke inmein se ek giroh ka shewa yeh raha hai ke Allah ka kalaam suna aur phir khoob samajh boojh kar danista ismein tehreef (changes) ki"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "(Muhammad Rasool Allah par) iman laney walon se milte hain to kehte hain ke hum bhi unhein maante hain, aur jab aapas mein ek dusre se takhliye (private) ki baat chit hoti hai to kehte hain ke bewaqoof ho gaye ho? In logon ko woh baatein batate ho jo Allah ne tumpar kholi hain taa-ke tumhare Rubb ke paas tumhare muqable mein unhein hujjat mein pesh karein"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "Aur kya yeh jaante nahin hain ke jo kuch yeh chupate hain aur jo kuch zaahir karte hain, Allah ko sab baaton ki khabar hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Inmein ek dusra giroh ummiyon ka hai, jo kitab ka to ilm rakhte nahin, bas apni bay-buniyad ummedon aur aarzuon ko liye baithey hain aur mehaz weham o gumaan par chale jaa rahey hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "Pas halakat aur tabahi hai un logon ke liye jo apne haathon se sharaa ka nawishta likhte hain (who write books with their own hands), phir logon se kehte hain ke yeh Allah ke paas se aaya hua hai taa-ke iske muawze mein thoda sa faiyda hasil karlein. Unke haathon ka likha bhi unke liye tabahi ka samaan hai aur unki yeh kamayi bhi unke liye mujeeb e halakat"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "Woh kehte hain ke dozakh ki aag humein hargiz choone wali nahin illa yeh ke chandh roz ki saza mil jaye to mil jaye. Inse pucho , kya tumne Allah se koi ahad le liya hai, jiski khilaf-warzi woh nahin kar sakta? Ya baat yeh hai ke tum Allah ke zimme daal kar aisi baatein kehdete ho jinke mutaaliq tumhein ilm nahin hai ke usne inka zimma liya hai? Aakhir tumhein dozakh ki aag kyun na chooeygi"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Jo bhi badhi kamayega aur apni khata-kaari ke chakkar mein pada rahega, woh dozakhi hai aur dozakh hi mein woh hamesha rahega"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "Aur jo log imam layenge aur neik amal karnege wahi jannati hain aur jannat mein woh hamesha rahenge"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Yaad karo, Israel ki aulad se humne pukhta ahad liya tha ke Allah ke siwa kisi ki ibadat na karna, Maa Baap ke saath, rishtedaaron ke saath, yateemon aur miskeeno ke saath neik sulook karna, logon se bhali baat kehna , Namaz qayam karna aur zakaat dena, magar thode aadmiyon ke siwa tum sab us ahad se phir gaye aur ab tak phirey huey ho"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "Phir zara yaad karo, humne tumse mazboot ahad liya tha ke aapas mein ek dusre ka khoon na bahana aur na ek dusre ko ghar se be-ghar karna, tumne iska iqrar kiya tha, tum khud ispar gawah ho"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Magar aaj wahi tum ho ke apne bhai bandhon ko qatal karte ho, apni biradri ke kuch logon ko be-khanuma (be-ghar) kardete ho, zulm o zyadati ke saath unke khilaf jatthey bandiyan (grouping / cooperating) karte ho , aur jab woh ladayi mein pakde huey tumhare paas aate hain to unki rihayi ke liye fidiye ka lein dain karte ho, halaanke unhein unke gharon se nikalna hi seray se tumpar haraam tha. To kya tum kitab ke ek hissey par iman latey ho aur dusre hissey ke saath kufr karte ho? Phir tum mein se jo log aisa karein unki saza iske siwa aur kya hai ke duniya ki zindagi mein zaleel o khwar hokar rahein aur aakhirat mein shadeed-tareen azaab ki taraf pher diye jayein? Allah un harkaat se be-khabar nahin hai jo tum kar rahey ho"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "Yeh woh log hain jinhon ne aakhirat bech kar duniya ki zindagi khareed li hai, lihaza na inki saza mein ko takhfeef (kami) hogi aur na unhein koi madad pahunch sakegi"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Humne Moosa ko kitab di, iske baad pai dar pai Rasool bheje, aakhir e kaar Isa Ibn Maryam ko roshan nishaniyan dekar bheja aur rooh e paak se uski madad ki, phir yeh tumhara kya dhang hai ke jab bhi koi Rasool tumhari khwahishaat e nafs ke khilaf koi cheez lekar tumhare paas aaya, to tumne uske muqable mein sarkashi hi ki, kisi ko jhutlaya aur kisi ko qatal kar daala"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "Woh kehte hain, hamare dil mehfooz hain, nahin asal baat yeh hai ke unke kufr ki wajah se unpar Allah ki phitkar padi hai, isliye woh kam hi iman latey hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Aur ab jo ek kitab Allah ki taraf se unke paas aayi hai, uske saath unka kya bartaao hai? Bawajood yeh ke woh us kitab ki tasdeeq karti hai jo unke paas pehle se maujood thi, bawajood yeh ke iski aamad se pehle woh khud kuffar ke muqable mein fatah o nusrat ki duaein maanga karte thay, magar jab woh cheez aa gayi jisey woh pehchan bhi gaye to unhon ne usey maanne se inkar kardiya, khuda ki laanat in munkireen par"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Kya bura zariya hai jissey yeh apne nafs ki tasalli hasil karte hain ke jo hidayat Allah ne nazil ki hai, usko qabool karne se sirf is zidd ki bina par inkar kar rahey hain ke Allah ne apne fazal (wahee o risalat) se apne jis banday ko khud chaha, nawaz diya! Lihaza ab yeh gazab balaa e gazab ke mustahiq ho gaye hain aur aisey kafiron ke liye sakht zillat aamez saza muqarrar hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Jab unse kaha jata hai ke jo kuch Allah ne nazil kiya hai uspar iman lao to woh kehte hain “hum to sirf us cheez par iman latey hain jo hamare haan (yani nasal e Israel) mein utri hai” is daiyre ke bahar jo kuch aaya hai usey maanne se woh inkar karte hain, halaanke woh haqq hai aur us taleem ki tasdeeq o taeed kar raha hai jo unke haan pehle se maujood thi. Accha, unse kaho : agar tum us taleem hi par iman rakhne waley ho jo tumhare haan aayi thi, to issey pehle Allah ke un paighambaron ko (jo khud bani Israel mein paida huey thay) kyun qatal karte rahey"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Tumhare paas Moosa kaisi kaisi roshan nishaniyon ke saath aaya phir bhi tum aisey zalim thay ke iske peeth moadte hi bachde ko mabood bana baithey"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "Phir zara us misaq (covenant) ko yaad karo jo Tur (mount Tur) ko tumhare upar utha kar humne tumse liya tha, humne taaqeed ki thi ke jo hidayaat hum de rahey hain, unki sakhti ke saath pabandi karo aur kaan laga kar suno. Tumhare aslaaf ne kaha ke humne sun liya, magar maanenge nahin aur inki baatil parasti ka yeh haal tha ke dilon mein unke bachda (calf) hi basa hua tha. Kaho: agar tum momin ho to yeh ajeeb iman hai jo aisi buri harakat ka tumhein hukum deta hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "Inse kaho ke agar waqayi Allah ke nazdeek aakhirat ka ghar tamaan insaano ko chodh kar sirf tumhare hi liye makhsoos hai, tab to tumhein chahiye ke maut ki tamanna karo agar tum apne is khayal mein sacchey ho"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Yaqeen jaano ke yeh kabhi iski tamanna na karenge, isliye ke apne haathon jo kuch kamaa kar unhon ne wahaan bheja hai, uska iqtaza yahi hai (ke yeh wahan janey ki tamanna na karein) Allah in zalimon ke haal se khoob waqif hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "Tum inhein sabse badh kar jeene ka harees paogey hatta ke yeh is maamle mein mushrikon se bhi badey huey hain . Inmein se ek ek shaks yeh chahta hai ke kisi tarah hazaar baras jiye, halaanke lambi umar bahar haal usey azaab to dur nahin phenk sakti. Jaise kuch aamaal yeh kar rahey hain, Allah to inhein dekh hi raha hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "Inse kaho ke jo koi Jibrael se adawat (dushmani) rakhta ho, usey maloom hona chahiye ke Jibrael ne Allah hi ke izan se yeh Quran tumhare qalb par nazil kiya hai, jo pehle aayi hui kitabon ki tasdeeq o taeed karta hai aur iman laney walon ke liye hidayat aur kamiyabi ki basharat bankar aaya hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "(Agar Jibrael se inki adawat ka sabab yahi hai, to kehdo ke) jo Allah aur uske Farsihton aur uske Rasoolon aur Jibrael aur Michael ke dushman hain, Allah un kafiron ka dushman hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Humne tumhari taraf aisi ayaat nazil ki hain jo saaf saaf haqq ka izhar karne wali hain aur inki pairwi se sirf wahi log inkar karte hain jo fasiq hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "Kya hamesha aisa hi nahin hota raha hai ke jab unhon ne koi ahad kiya, to unmein se ek na ek giroh ne usey zaroor hi balaa e talq rakh diya (set them aside)? Balke inmein se aksar aisey hi hain jo sacchey dil se iman nahin latey"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Aur jab inke paas Allah ki taraf se koi Rasool us kitab ki tasdeeq o taeed karta hua aaya jo inke haan pehle se maujood thi to in ehle kitab mein se ek giroh ne kitab Allah ko is tarah pas-e-pusht (behind their backs) dala goya ke woh kuch jaante hi nahin"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "Aur lagey un cheezon ki pairwi karne jo shayateen Sulaiman ki sultanat ka naam lekar pesh kiya karte thay, halaanke Sulaiman ne kabhi kufr nahin kiya, kufr ke murtaqib to woh shayateen thay jo logon ko jaadugari ki taleem dete thay.Woh pichey padey us cheez ke jo babil (babylon) mein do Farishton, Harut o Marut par nazil ki gayi thi, halaanke woh (Farishtey) jab bhi kisi ko uski taleem dete thay to pehle saaf taur par mutanabbey (warn) kardiya karte thay ke “dekh, hum mehaz ek aazmaish hain, tu kufr mein mubtila na ho”.Phir bhi yeh log unse woh cheez seekhte thay jissey shohar aur biwi mein judai daal dein, zaahir tha ke izan e ilahi ke bagair woh is zariye se kisi ko bhi zarar (harm) na pahuncha sakte thay, magar iske bawajood woh aisi cheez seekhte thay jo khud inke liye nafa baksh nahin, balke nuqsan-de thi aur unhein khoob maloom tha ke jo is cheez ka khareedar bana uske liye aakhirat mein koi hissa nahin. Kitni buri mataa thi jiske badle unhon ne apni jaano ko bech dala, kaash unhein maloom hota"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Agar woh iman aur taqwa ikhtiyar karte, to Allah ke haan iska jo badla milta to unke liye zyada behtar tha, kaash unhein khabar hoti"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Aey logon jo iman laye ho! Raina (Listen to us) na kaha karo, balke unzurna (make us understand) kaho aur tawajju se baat ko suno, yeh kafir to azaab e aleem ke mustahiq hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Yeh log jinhon ne dawat e haqq ko qabool karne se inkar kardiya hai, khwah ehle kitab mein se hon ya mushrik hon, hargiz yeh pasand nahin karte ke tumhare Rubb ki taraf se tumpar koi bhalayi nazil ho, magar Allah jisko chahta hai apni rehmat ke liye chun leta hai aur woh bada fazal farmane wala hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Hum apni jis ayat ko mansookh (abrogate) kardete hain ya bhula dete hain, uski jagah ussey behtar le aate hain ya kam az kam waisi hi. Kya tum jaante nahin ho ke Allah har cheez par qudart rakhta hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "Kya tumhein khabar nahin hai ke zameen aur asmaano ki farma rawayi Allah hi ke liye hai aur uske siwa koi tumhari khabargiri karne aur tumhari madad karne wala nahin hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Phir kya tum apne Rasool se us qism ke sawalaat aur mutalabe karna chahte ho jaise issey pehle Moosa se kiye ja chuke hain? Halaanke jis shaks ne iman ki rawish ko kufr ki rawish se badal liya woh raah e raast se bhatak gaya"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Ehle kitab mein se aksar log yeh chahte hain ke kisi tarah tumhein iman se pher kar phir kufr ki taraf palta le jayein agarche haqq unpar zaahir ho chuka hai, magar apne nafs ke hasad ki bina par tumhare liye unki yeh khwahish hai iske jawab mein tum afu o darguzar (forgive and overlook) se kaam lo, yahan tak ke Allah khud hi apna faisla nafiz karde. Mutmaeen raho ke Allah taala har cheez par qudrat rakhta hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Namaz qayam karo aur zakat do. Tum apni aaqibat ke liye jo bhalayi kamaa kar aagey bhejoge, Allah ke haan usey maujood paogey. Jo kuch tum karte ho woh sab Allah ki nazar mein hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Unka kehna hai ke koi shaks jannat mein na jayega jab tak ke woh yahudi na ho (ya Isaiyon ke khayal ke mutabiq) Isayi na ho. Yeh unki tamannayein hain, inse kaho apni daleel pesh karo agar tum apne dawey mein sacchey ho"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Darasal na tumhari kuch khususiyat hai na kisi aur ki, haqq yeh hai ke jo bhi apni hasti ko Allah ki itaat mein somp de aur amalan neik rawish par chale, uske liye uske Rubb ke paas uska ajar hai aur aisey logon ke liye kisi khauf ya ranjh ka koi mauqa nahin"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Yahudi kehte hain: Isaiyon ke paas kuch nahin, Isayi kehte hain: Yahudiyon ke paas kuch nahin, halaanke ke dono hi kitab padhte hain aur isi qism ke dawey un logon ke bhi hain jinke paas kitab ka ilm nahin hai, yeh ikhtilafaat jin mein yeh log mubtila hain inka faisla Allah qayamat ke roz kardega"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Aur us shaks se badhkar zalim kaun hoga jo Allah ke maabadon (places of worship) mein uske naam ki yaad se rokay aur unki veerani ke darpe ho? Aisey log is qabil hain ke unki ibadat-gaahon mein qadam na rakkhein aur agar wahan jayein bhi to darte huey jayein, unke liye to duniya mein ruswayi hai aur aakhirat mein azaab e azeem"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Mashrik aur magrib sab Allah ke hain, jis taraf bhi tum rukh karoge usi taraf Allah ka rukh hai,Allah badi wusat wala aur sabkuch jaanne wala hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Unka qaul hai ke Allah ne kisi ko beta banaya hai, Allah paak hai in baaton se. Asal haqeeqat yeh hai ke zameen aur asmaano ki tamaam maujudaat uski milk (milkiyat) hain, sabke sab uske mutii o farmaan hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "Woh asmaano aur zameen ka mujid (originator) hai aur jis baat ka woh faisla karta hai uske liye bas yeh hukum deta hai ke “hoja” aur woh ho jati hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Naadaan kehte hain ke Allah khud humse baat kyun nahin karta ya koi nishani hamare paas kyun nahin aati? Aisi hi baatein inse pehle log bhi kiya karte thay , in sab (agle pichle gumraahon) ki zehniyatein (mentality) ek jaisi hain. Yakeen laney walon ke liye to hum nishaniyan saaf saaf numayan kar chuke hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "(Issey badh kar nishani kya hogi ke) humne tumko ilm e haqq ke saath khush khabri dene wala aur darane wala bana kar bheja, ab jo log jahannum se rishta jodh chuke hain unki taraf se tum zimmedaar o jawabdey nahin ho"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Yahudi aur Isayi tumse hargiz raazi na honge, jab tak tum unke tareeqe par na chalne lago. Saaf kehdo ke raasta bas wahi hai jo Allah ne bataya hai, warna agar us ilm ke baad jo tumhare paas aa chuka hai tumne unki khwahishaat ki pairwi ki to Allah ki pakad se bachane wala koi dost aur madadgaar tumhare liye nahin hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Jin logon ko humne kitab di hai, woh usey is tarah padhte hain jaisa ke padhne ka haqq hai, woh ispar sacchey dil se iman latey hain aur jo iske saath kufr ka rawayya ikhtiyar karein wahi asal mein nuqsaan uthane waley hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Aey bani Israel! Yaad karo meri woh niyamat jissey maine tumhein nawaza tha, aur yeh ke maine tumhein duniya ki tamaam qaumon par fazilat di thi"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Aur daro us din se, jab koi kisi ke zara kaam na aayega, na kisi se fidiya (ransom) qabool kiya jayega, na koi sifarish hi aadmi ko faiyda degi, aur na mujreemo ko kahin se koi madad pahunch sakegi"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Yaad karo ke jab Ibrahim ko uske Rubb ne chandh baaton mein aazmaya aur woh un sab mein poora utar gaya, to usne kaha : “main tujhey sab logon ka peshwa banane wala hoon” Ibrahim ne arz kiya: “ aur kya meri aulad se bhi yahi waada hai?” Usne jawab diya: “mera waada zalimon se mutaaliq nahin hai.”"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Aur yeh ke humne is ghar (kaaba) ko logon ke liye markaz aur aman ki jagah qaraar diya tha aur logon ko hukum diya tha ke Ibrahim jahan ibadat ke liye khada hota hai us muqaam ko mustaqil jaaye namaz bana lo aur Ibrahim aur Ismael ko taqeed ki thi ke mere is ghar ko tawaf aur aiteqaf aur ruku aur sajda karne walon ke liye paak rakkho"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "Aur yeh ke Ibrahim ne dua ki: “Aey mere Rubb, is shehar ko aman ka shehar bana dey, aur iske bashindon (people) mein jo Allah aur aakhirat ko maanein, unhein har qism ke phalon ka rizq de”. Jawab mein uske Rubb ne farmaya: “aur jo na maanega ,duniya ki chandh roza zindagi ka samaan to main usey bhi dunga magar aakhir e kaar usey azaab e jahannum ki taraf ghaseetunga, aur woh badhtareen thikana hai”"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "Aur yaad karo Ibrahim aur Ismail jab is ghar ki deewarein utha rahey thay , to dua karte jatay thay : “Aey hamare Rubb, humse yeh khidmat qabool farma le, tu sabki sunne aur sab kuch jaanne wala hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Aey Rubb, hum dono ko apna muslim (mutii e farmaan) bana, hamari nasal se ek aisi qaum utha jo teri muslim ho, humein apni ibadat ke tareeqe bata, aur hamari kotahiyon se darguzar farma, tu bada maaf karne wala aur reham farmane wala hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Aur aey Rubb, un logon mein khud unhi ki qaum se ek aisa Rasool uthaiyo jo unhein teri ayaat sunaye, unko kitab aur hikmat ki taleem de aur unki zindagiyan sanwarey, tu bada muqtadar (All-Powerful) aur hakeem hai.”"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Ab kaun hai, jo Ibrahim ke tareeqe se nafrat karey? Jisne khud apne aap ko himaqat o jihalat mein mubtila karliya ho, uske siwa kaun yeh harakat kar sakta hai? Ibrahim to woh shaks hai jisko humne duniya mein apne kaam ke liye chun liya tha aur aakhiarat mein uska shumaar saliheen mein hoga"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "Uska haal yeh tha ke jab uske Rubb ne ussey kaha : “Muslim ho ja” to usne fawran kaha : “main maalik e qaiynaat ka ‘muslim’ ho gaya.”"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "Isi tareeqe par chalne ki hidayat usne apni aulad ko ki thi aur isi ki wasiyat Yakub apni aulad ko kar gaya, usne kaha tha ke : “mere bacchon! Allah ne tumhare liye yahi deen pasand kiya hai lihaza marte dum tak Muslim hi rehna”"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Phir kya tum us waqt maujood thay jab Yakub is duniya se ruksat ho raha tha? Usne marte waqt apne bacchon se pucha: “ bacchon! Mere baad tum kiski bandagi karoge?” un sab ne jawab diya : “ hum usi ek khuda ki bandagi karenge jisey aap ne aur aapke buzurgon Ibrahim, Ismail, aur Ishaq ne khuda maana hai aur hum usi ke muslim hain”"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Woh kuch log thay jo guzar gaye, jo kuch unhon ne kamaya woh unke liye hai aur jo kuch tum kamaoge, woh tumhare liye hai. Tumse yeh na pucha jayega ke woh kya karte thay"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Yahudi kehte hain: Yahudi ho to raah e raast paogey, Isayi kehte hain: Isayi ho to hidayat milegi , inse kaho: “nahin, balke sabko chodh kar Ibrahim ka tareeqa, aur Ibrahim mushrikon mein se na tha.”"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "(Musalmaano)! Kaho ke: “hum iman laye Allah par aur us hidayat par jo hamari taraf nazil hui hai aur jo Ibrahim, Ismail, Ishaq, Yakub aur aulad e Yakub ki taraf nazil hui thi aur jo Moosa aur Isa aur dusre tamaam paighambaron ko unke Rubb ki taraf se di gayi thi. Hum unke darmiyan koi tafreeq nahin karte aur hum Allah ke Muslim hain”"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "Phir agar woh isi tarah iman layein, jis tarah tum laye ho, to hidayat par hain, aur agar issey mooh pherein to khuli baat hai ke woh hathdharmi (schism) mein padh gaye hain, lihaza itminaan rakkho ke unke muqable mein Allah tumhari himayat ke liye kafi hai. Woh sabkuch sunta aur jaanta hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "Kaho: “ Allah ka rang ikhtiyar karo uske rang se accha aur kiska rang hoga? Aur hum usi ki bandagi karne waley log hain.”"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "Aey Nabi! Inse kaho : “Kya tum Allah ke barey mein humse jhagadte ho? Halaanke wahi hamara Rubb hai aur tumhara Rubb bhi. Hamare aamaal hamare liye hain, tumhare aamaal tumhare liye , aur hum Allah hi ke liye apni bandagi ko khalis kar chuke hain"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Ya phir kya tumhara kehna yeh hai ke Ibrahim , Ismail, Ishaq, Yakub aur aulad e Yakub sab ke sab yahudi thay ya nasrani thay? Kaho: “tum zyada jaante ho ya Allah? Us shaks se bada zalim aur kaun hoga jiske zimme Allah ki taraf se ek gawahi ho aur woh usey chupaye? Tumhari harakat se Allah gaafil to nahin hai"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Woh kuch log thay jo guzar chuke, unki kamayi unke liye thi aur tumhari kamayi tumhare liye. Tumse unke aamaal ke mutaaliq sawal nahin hoga.”"
+        }
+    ]
+}
