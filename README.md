@@ -12,9 +12,11 @@ The purpose of this repo is to spread the word of God everywhere in the world
 
 
 **URL Structure:** <br>
+
 `https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@{apiVersion}/{endpoint}` <br>
 
 **Formats:**
+
 The Endpoints Supports HTTP GET Method and returns the data in  two formats:<br>
 `/{endpoint}.min.json`<br>
 `/{endpoint}.json`<br>
@@ -73,7 +75,8 @@ or
 - Read [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/References.md "Contribute") to add the translation directly to this repo
 
 
-**Help Needed:**<br>
+**Help Needed:**
+
 [Make Colored Tajweed Fonts](https://github.com/fawazahmed0/quran-api/issues/7 "Make Colored Tajweed Fonts")
 
 
@@ -91,6 +94,7 @@ But I cannot take those translations also because the verses such as those talki
 In case you find any translation whose authenticity could be questioned, please let me know at [here](https://github.com/fawazahmed0/quran-api/issues/new "here") .Only after verifying the claims, will I remove the translation
 
 **Any Issues:**
+
  [Raise here](https://github.com/fawazahmed0/quran-api/issues/new "Raise here")
 
  **Donation:**
@@ -98,6 +102,7 @@ In case you find any translation whose authenticity could be questioned, please 
  - But what I ask you is to donate the authors and Islamic/dawah publishers who have worked so hard to make these translations, so that the word of God could spread around the world and people will know about the one who created them.
  Here is the [editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "editions") and [references](https://github.com/fawazahmed0/quran-api/blob/1/References.md "references") list, you might have to Google to get more details about them.
 
- ** References:**<br>
+ **References:**<br>
 All the open source projects and dawah/Islamic organizations
+
 Please see [editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "editions") and [references](https://github.com/fawazahmed0/quran-api/blob/1/References.md "references")
