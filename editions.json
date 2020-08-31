@@ -639,6 +639,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-raulgonzalezbor.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-raulgonzalezbor.min.json"
     },
+    "urd_ahmedali": {
+        "name": "urd-ahmedali",
+        "author": "Ahmed Ali",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-ahmedali.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-ahmedali.min.json"
+    },
     "zho_majian_la": {
         "name": "zho-majian-la",
         "author": "Ma Jian",

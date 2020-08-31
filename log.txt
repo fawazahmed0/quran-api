@@ -753,3 +753,15 @@ C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js delete eng-ahm
  deletion completed for eng-ahmedrazakhan-la
  deletion completed for eng-ahmedrazakhan-lad
 editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for ur.ahmedali
+Generating Edition
+ Generated edition urd-ahmedali
+Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
+Latin script not supported for this langauge, skipping latin script generation
+editions.json and editions.min.json generated
