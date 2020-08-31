@@ -11,11 +11,11 @@ The purpose of this repo is to spread the word of God everywhere in the world
 - Latin/roman translation for many languages
 
 
-**URL Structure:** <br><br>
-`https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@{apiVersion}/{endpoint}`
+**URL Structure:** <br>
+`https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@{apiVersion}/{endpoint}` <br>
 
 **Formats:**
-The Endpoints Supports HTTP GET Method and returns the data in  two formats:<br><br>
+The Endpoints Supports HTTP GET Method and returns the data in  two formats:<br>
 `/{endpoint}.min.json`<br>
 `/{endpoint}.json`<br>
 
@@ -24,6 +24,7 @@ The Endpoints Supports HTTP GET Method and returns the data in  two formats:<br>
 
 Lists all the available editions in prettified json format:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json") <br>
+
 Get a minified version of it:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.min.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.min.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.min.json")
 
@@ -31,8 +32,10 @@ Get a minified version of it:<br>
 
 Lists the whole quran/quran translation:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json") <br>
+
 Get a latin(roman) script version of it by adding -la:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la.json")<br>
+
 Get a latin(roman) script with diacritical marks by adding -lad:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad.json")
 
@@ -53,8 +56,8 @@ Similarly:
 - `/editions/{editionName}/rukus/{rukuNo}`
 - `/editions/{editionName}/pages/{pageNo}`
 - `/editions/{editionName}/manzils/{manzilNo}`
-- `/editions/{editionName}/maqras/{maqraNo}`
-<br>
+- `/editions/{editionName}/maqras/{maqraNo}`<br>
+
 - `/info` <br>
 Get all the details about quran such as number of juzs,sajdas, rukus etc in quran <br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@v/info.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json")<br>
