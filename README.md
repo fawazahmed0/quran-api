@@ -71,9 +71,7 @@ List fonts available: <br>
 ### Contribution:
 Without your contribution, this repo won't survive, incase of any issues or problems, questions etc, you can let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
 - Please help by adding new translations to this repo, you can share me the translation [here](https://github.com/fawazahmed0/quran-api/issues/new "here")
-
 or
-
 - Read [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/References.md "Contribute") to add the translation directly to this repo
 
 
@@ -84,6 +82,7 @@ or
 
 ### Download:
 - All the files are in [database](https://github.com/fawazahmed0/quran-api/tree/1/database "database") folder of this repo, there are two folders available, one is [linebyline](https://github.com/fawazahmed0/quran-api/tree/1/database/linebyline "linebyline") and other is [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "chapterverse")
+
 [linebyline](https://github.com/fawazahmed0/quran-api/tree/1/database/linebyline "linebyline") contains files having verses in 6236 lines and [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "chapterverse") contains files having each verse prepended with chapter and verse no. Just download or clone this repo to get those files
 
 - You can also fork this repo as a backup for future
