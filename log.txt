@@ -265,3 +265,28 @@ Generation Complete for thabit-oblique.ttf
 Starting Generation for thabit.ttf
 Generation Complete for thabit.ttf
 fonts.json and fonts.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
+
+Generating fonts Please wait, it will take around 10-15mins
+
+we will generate fonts for jomhuria-regular1.ttf, katibeh-regular1.ttf, lalezar-regular.ttf, lateef-regular.ttf, noto-kufi-arabic-bold.ttf, noto-kufi-arabic-regular.ttf, rakkas-regular.ttf, reem-kufi-regular1.ttf, vibes-regular.ttf
+Starting Generation for jomhuria-regular1.ttf
+Generation Complete for jomhuria-regular1.ttf
+Starting Generation for katibeh-regular1.ttf
+Generation Complete for katibeh-regular1.ttf
+Starting Generation for lalezar-regular.ttf
+Generation Complete for lalezar-regular.ttf
+Starting Generation for lateef-regular.ttf
+Generation Complete for lateef-regular.ttf
+Starting Generation for noto-kufi-arabic-bold.ttf
+Generation Complete for noto-kufi-arabic-bold.ttf
+Starting Generation for noto-kufi-arabic-regular.ttf
+Generation Complete for noto-kufi-arabic-regular.ttf
+Starting Generation for rakkas-regular.ttf
+Generation Complete for rakkas-regular.ttf
+Starting Generation for reem-kufi-regular1.ttf
+Generation Complete for reem-kufi-regular1.ttf
+Starting Generation for vibes-regular.ttf
+Generation Complete for vibes-regular.ttf
+fonts.json and fonts.min.json generated
