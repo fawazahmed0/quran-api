@@ -1,0 +1,4284 @@
+{
+    "manzils": [
+        {
+            "chapter": 26,
+            "verse": 1,
+            "text": "Tá. Sín. Mím"
+        },
+        {
+            "chapter": 26,
+            "verse": 2,
+            "text": "Tato jsou znamení Knihy zjevné"
+        },
+        {
+            "chapter": 26,
+            "verse": 3,
+            "text": "ty snad soužíš se proto, že nechtějí uvěřiti"
+        },
+        {
+            "chapter": 26,
+            "verse": 4,
+            "text": "Kdybychom chtěli, seslali bychom jim s nebe znamení, před nímž sklonily by se šíje jejich v ponížení"
+        },
+        {
+            "chapter": 26,
+            "verse": 5,
+            "text": "však není nového napomenutí, přišedšího jim od Milosrdného, aniž by se od něho neodvraceli"
+        },
+        {
+            "chapter": 26,
+            "verse": 6,
+            "text": "A lží nazvali je, však dojde je zpráva o tom, z čeho si byli žert tropili"
+        },
+        {
+            "chapter": 26,
+            "verse": 7,
+            "text": "Což nepohlédli na zemi — kolika na ní dali jsme vzrůsti druhům rostlin vzácných"
+        },
+        {
+            "chapter": 26,
+            "verse": 8,
+            "text": "Zajisté v tom jest znamení: však většina jich nevěří"
+        },
+        {
+            "chapter": 26,
+            "verse": 9,
+            "text": "A dojista Pán tvůj mocný jest, slitovný"
+        },
+        {
+            "chapter": 26,
+            "verse": 10,
+            "text": "(Pomni), když zavolal Pán tvůj Mojžíše: „Jdi k lidu nepravostnému"
+        },
+        {
+            "chapter": 26,
+            "verse": 11,
+            "text": "lidu Faraonovu, Což nebudou báti se mne?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 12,
+            "text": "Řekl (Mojžíš): Pane můj, bojím se, že lhářem nazvou mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 13,
+            "text": "A stísněna jest hruď, má a není volný jazyk můj: pročež pošli pro Árona"
+        },
+        {
+            "chapter": 26,
+            "verse": 14,
+            "text": "Mají proti mně obvinění a bojím se, aby mne nezabili.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 15,
+            "text": "Řekl (Bůh): „Nikoliv. Jděte oba se znameními našimi: my s vámi budeme, naslouchajíce"
+        },
+        {
+            "chapter": 26,
+            "verse": 16,
+            "text": "A jděte k Faraonovi a rcete: „Myt zajisté posly jsme Pána veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 17,
+            "text": "i vyšli s námi syny Israele.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 18,
+            "text": "Řekl (Farao): „Což nevychovali jsme tě mezi námi za dětství a což nedlel jsi mezi námi po mnoho let věku svého"
+        },
+        {
+            "chapter": 26,
+            "verse": 19,
+            "text": "A učinil's skutek, kterýs učinil: jsi nevděčníkem.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 20,
+            "text": "Řekl (Mojžíš): Ano, učinil jsem jej tehdy a byl jsem pobloudilím"
+        },
+        {
+            "chapter": 26,
+            "verse": 21,
+            "text": "a prchl jsem od vás, ježto bál jsem se vás: však dal mi Pán můj moudrost a učinil mne jedním z poslů"
+        },
+        {
+            "chapter": 26,
+            "verse": 22,
+            "text": "A jest to dobrodiní, jehož popřál's mi, že zotročil jsi syny Israele?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 23,
+            "text": "Řekl Farao: „Kdo jest (ten) Pán veškerenstva?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 24,
+            "text": "Řekl (Mojžíš): „On Pánem jest nebes i země a všeho, což mezi oběma jest — dovedete-li uvěřiti.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 25,
+            "text": "Řekl (Farao) k těm, kteří byli kol něho: „Neslyšíte?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 26,
+            "text": "Řekl (Mojžíš): „Jest Pánem vaším a Pánem otců vašich předešlých.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 27,
+            "text": "Řekl (Farao): „Zajisté prorok váš, jenž poslán byl k vám, jest duchem posedlý.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 28,
+            "text": "Řekl (Mojžíš): „Jest Pánem východu a Pánem západu a všeho, což mezi nimi jest — dovedete-li to pochopiti.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 29,
+            "text": "Řekl (Farao): „Vezmeš-li si za Boha někoho jiného kromě mne, učiním tě jedním z uvězněných.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 30,
+            "text": "Řekl (Mojžíš): „I když předvedu ti důkaz zjevný?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 31,
+            "text": "Řekl (Farao): „Předveď jej, jsi-li pravdomluvný.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 32,
+            "text": "Tehdy vrhl (Mojžíš) hůl svou na zem, a hle, stala se hadem zjevným"
+        },
+        {
+            "chapter": 26,
+            "verse": 33,
+            "text": "Poté Pak vztáhl ruku svou, a hle, bílá byla (v zraku) hledících"
+        },
+        {
+            "chapter": 26,
+            "verse": 34,
+            "text": "Řekl (Farao) k předákům svým, kolem sebe: „Totoť zajisté kouzelník jest učený"
+        },
+        {
+            "chapter": 26,
+            "verse": 35,
+            "text": "Chce vyhnati vás ze země vaší kouzelnictvím svým: co nařizujete?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 36,
+            "text": "Řekli: „Poodlož (odpověď) jemu a bratru jeho: a pošli do všech měst shromažďovatele"
+        },
+        {
+            "chapter": 26,
+            "verse": 37,
+            "text": "kteří přivedou ti všechny kouzelníky učené.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 38,
+            "text": "I shromážděni byli kouzelníci na schůzku v den určený"
+        },
+        {
+            "chapter": 26,
+            "verse": 39,
+            "text": "a bylo řečeno lidem: „Shromáždíte-li se všichni"
+        },
+        {
+            "chapter": 26,
+            "verse": 40,
+            "text": "abychom snad následovali kouzelníky, budou-li vítěznými?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 41,
+            "text": "A když přišlo kouzelnictvo, řekli Faraonovi: „Dostaneme odměnu, budeme-li vítěznými?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 42,
+            "text": "Řekl: „Ano: a v tom případě též budete z těch, kdož mně jsou nejbližší.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 43,
+            "text": "Řekl, jim Mojžíš: „Vrhněte na zem, co máte k vrhání.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 44,
+            "text": "I vrhli na zem provazy své a hole své a řekli: „Při moci Faraonově, myť zajisté jsme vítěznými!“"
+        },
+        {
+            "chapter": 26,
+            "verse": 45,
+            "text": "I vrhl Mojžíš na zem hůl svou a požrala jich divy vylhané"
+        },
+        {
+            "chapter": 26,
+            "verse": 46,
+            "text": "Tehdy padli kouzelníci úctou na tváře své"
+        },
+        {
+            "chapter": 26,
+            "verse": 47,
+            "text": "a řekli: „Uvěřili jsme v Pána veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 48,
+            "text": "Pána Mojžíše a Árona.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 49,
+            "text": "Řekl (Farao): „Zdaž uvěřili jste v něho dříve, než dovolil jsem vám? Tenť zajisté jest náčelníkem vaším, jenž naučil vás kouzlům — a dobře seznáte (moc moji): dojista pak dám uřezati vám ruce i nohy pokřižmo a dám ukřižovati všechny vás.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 50,
+            "text": "Řekli: „To neuškodí nám, neb v pravdě k Pánu svému navrátíme se"
+        },
+        {
+            "chapter": 26,
+            "verse": 51,
+            "text": "Zajisté přejeme si, aby odpustil nám Pán náš hříchy naše, neb my byli jsme prvními z věřících.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 52,
+            "text": "I vnukli jsme Mojžíšovi: „Vyjdi za noci se služebníky mými: neb dojista pronásledováni budete.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 53,
+            "text": "A poslal Farao do měst shromažďovače"
+        },
+        {
+            "chapter": 26,
+            "verse": 54,
+            "text": "řkoucí: „Onino (Israelští) jsou hrstka nepočetná"
+        },
+        {
+            "chapter": 26,
+            "verse": 55,
+            "text": "a rozzuřeni jsou proti nám"
+        },
+        {
+            "chapter": 26,
+            "verse": 56,
+            "text": "my pak četní jsme a obezřetní.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 57,
+            "text": "Tak způsobili jsme, aby vyšli ze zahrad a od pramenů"
+        },
+        {
+            "chapter": 26,
+            "verse": 58,
+            "text": "a pokladů a bydlišť převzácných"
+        },
+        {
+            "chapter": 26,
+            "verse": 59,
+            "text": "tak (stalo se): a dali jsme vše to dědictvím synům Israele"
+        },
+        {
+            "chapter": 26,
+            "verse": 60,
+            "text": "Následovali je pak za jitra"
+        },
+        {
+            "chapter": 26,
+            "verse": 61,
+            "text": "A když shlédli se navzájem oba vojové, řekli soudruzi Mojžíšovi: „Zajisté jsme teď dohoněni.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 62,
+            "text": "Řekl: „Nikoliv: zajisté Pán můj se mnou jest a (dobře) povede mne.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 63,
+            "text": "I vnukli jsme Mojžíšovi: „Udeř holí svou moře.“ I rozstouplo se a každá z obou částí zvedla se jak hora veliká"
+        },
+        {
+            "chapter": 26,
+            "verse": 64,
+            "text": "Poté pak dali jsme přiblížiti se oněm druhým"
+        },
+        {
+            "chapter": 26,
+            "verse": 65,
+            "text": "A zachránili jsme Mojžíše a kdož s ním byli, všechny"
+        },
+        {
+            "chapter": 26,
+            "verse": 66,
+            "text": "poté pak potopili jsme ony druhé"
+        },
+        {
+            "chapter": 26,
+            "verse": 67,
+            "text": "Zajisté v tomto jest znamení: však většina jich nevěří"
+        },
+        {
+            "chapter": 26,
+            "verse": 68,
+            "text": "ale Pán tvůj zajisté mocný jest a slitovný"
+        },
+        {
+            "chapter": 26,
+            "verse": 69,
+            "text": "A předříkávej jim děje Abrahame"
+        },
+        {
+            "chapter": 26,
+            "verse": 70,
+            "text": "když řekl otci svému i lidu svému: „Co uctíváte?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 71,
+            "text": "Řekli: „Uctíváme modly a jsme jim stále oddáni.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 72,
+            "text": "Řekl: „Zdaž slyší vás, když k nim voláte"
+        },
+        {
+            "chapter": 26,
+            "verse": 73,
+            "text": "Aneb prospěti vám mohou, či uškoditi?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 74,
+            "text": "Řekli: „Nikoliv, však shledali jsme otce své již takto činící.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 75,
+            "text": "Řekl: „Co míníte? To, co uctívali jste"
+        },
+        {
+            "chapter": 26,
+            "verse": 76,
+            "text": "a co uctívali otcové již vaši předešlí"
+        },
+        {
+            "chapter": 26,
+            "verse": 77,
+            "text": "(modly ty) mne nepřáteli jsou: (není Boha), kromě Pána veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 78,
+            "text": "jenž stvořil mne a jenž vede mne (pravou cestou)"
+        },
+        {
+            "chapter": 26,
+            "verse": 79,
+            "text": "jenž krmí mne i napájí mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 80,
+            "text": "a když onemocním, uzdraví mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 81,
+            "text": "jenž mi dá zemřít a pak vzkřísí mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 82,
+            "text": "a jenž přeji si, aby odpustil mi hříchy mé v den soudný"
+        },
+        {
+            "chapter": 26,
+            "verse": 83,
+            "text": "Pane můj, dej mi soudnost a připoj mne ke spravedlivým"
+        },
+        {
+            "chapter": 26,
+            "verse": 84,
+            "text": "a dej mi pověst pravdomluvnosti u pokolení příštích"
+        },
+        {
+            "chapter": 26,
+            "verse": 85,
+            "text": "a dej mi podíl na dědictví zahrady rozkoše"
+        },
+        {
+            "chapter": 26,
+            "verse": 86,
+            "text": "a odpusť otci mému, že byl jedním z bloudících"
+        },
+        {
+            "chapter": 26,
+            "verse": 87,
+            "text": "a nepotup mne v den kdy vzkříšeni budou"
+        },
+        {
+            "chapter": 26,
+            "verse": 88,
+            "text": "v den, kdy neprospějí nikomu statky, aniž děti"
+        },
+        {
+            "chapter": 26,
+            "verse": 89,
+            "text": "vyjma toho, kdož přijde k Bohu se srdcem zdravým"
+        },
+        {
+            "chapter": 26,
+            "verse": 90,
+            "text": "a kdy přiblížen bude ráj k bohabojným"
+        },
+        {
+            "chapter": 26,
+            "verse": 91,
+            "text": "a představeno bude peklo svedeným"
+        },
+        {
+            "chapter": 26,
+            "verse": 92,
+            "text": "a řečeno jim bude: „Kde jest to, co uctívali jste"
+        },
+        {
+            "chapter": 26,
+            "verse": 93,
+            "text": "vedle Boha? Zdaž mohou pomoci vám, aneb pomoci sobě samým"
+        },
+        {
+            "chapter": 26,
+            "verse": 94,
+            "text": "A vmeteni budou v ně oni i (jimi) svedení"
+        },
+        {
+            "chapter": 26,
+            "verse": 95,
+            "text": "a vojska Iblísova veškerá"
+        },
+        {
+            "chapter": 26,
+            "verse": 96,
+            "text": "Řeknou, odporujíce si v pekle navzájem"
+        },
+        {
+            "chapter": 26,
+            "verse": 97,
+            "text": "„Při Bohu. zajisté byli jsme v bludu zjevném"
+        },
+        {
+            "chapter": 26,
+            "verse": 98,
+            "text": "když stavěli jsme vás na roveň Pánu veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 99,
+            "text": "kdo jiný svedl nás, než provinilci"
+        },
+        {
+            "chapter": 26,
+            "verse": 100,
+            "text": "A není nám přímluvců"
+        },
+        {
+            "chapter": 26,
+            "verse": 101,
+            "text": "aniž přítele účinlivého"
+        },
+        {
+            "chapter": 26,
+            "verse": 102,
+            "text": "a kdyby bylo nám návratu, tehdy jistě byli bychom z věřících!“"
+        },
+        {
+            "chapter": 26,
+            "verse": 103,
+            "text": "Zajisté, v tomto jsou znamení: však většina jich nevěří"
+        },
+        {
+            "chapter": 26,
+            "verse": 104,
+            "text": "ale Pán tvůj zajisté mocný jest a slitovný"
+        },
+        {
+            "chapter": 26,
+            "verse": 105,
+            "text": "Lid Noemův též nazval lháři posly své"
+        },
+        {
+            "chapter": 26,
+            "verse": 106,
+            "text": "když řekl jim bratr jejich Noe: „Což nebudete báti se Boha"
+        },
+        {
+            "chapter": 26,
+            "verse": 107,
+            "text": "Jáť pak jsem vám poslem důvěryhodným"
+        },
+        {
+            "chapter": 26,
+            "verse": 108,
+            "text": "pročež bojte se Boha a poslechněte mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 109,
+            "text": "Nežádám si za to od vás odměny, neboť odměna má záleží jen od Pána veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 110,
+            "text": "pročež bojte se Boha a poslechněte mne.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 111,
+            "text": "Řekli: „Zdaž věřit tobě budeme, když následují tě jen nejsprostší?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 112,
+            "text": "Řekl: „Co vím o tom, co oni dělali"
+        },
+        {
+            "chapter": 26,
+            "verse": 113,
+            "text": "Súčtování s nimi jest na Pánu mém — kéž byste tomu rozuměli"
+        },
+        {
+            "chapter": 26,
+            "verse": 114,
+            "text": "Já přece neodstrčím těch, kdož věří"
+        },
+        {
+            "chapter": 26,
+            "verse": 115,
+            "text": "neb jsem jen varovatelem zjevným.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 116,
+            "text": "Řekli: „Nepřestaneš-li, Noe, dojista budeš jedním z ukamenovaných.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 117,
+            "text": "Řekl: „Pane můj, věru lid můj lhářem nazval mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 118,
+            "text": "Rozhodni tedy mezi mnou a jimi jasným rozhodnutím a zachraň mne, jakož i ty, kdož se mnou jsou z věřících.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 119,
+            "text": "I zachránili jsme jej a kdož byli s ním, v arše přeplněné"
+        },
+        {
+            "chapter": 26,
+            "verse": 120,
+            "text": "poté pak potopili jsme všechny zůstavší"
+        },
+        {
+            "chapter": 26,
+            "verse": 121,
+            "text": "Zajisté v tomto jest znamení; však většina jich nevěří"
+        },
+        {
+            "chapter": 26,
+            "verse": 122,
+            "text": "ale Pán tvůj zajisté mocný jest a slitovný"
+        },
+        {
+            "chapter": 26,
+            "verse": 123,
+            "text": "Též (kmen) 'Ád lháři nazval posly své"
+        },
+        {
+            "chapter": 26,
+            "verse": 124,
+            "text": "když řekl jim bratr jejich Húd: „Což nebudete báti se Boha"
+        },
+        {
+            "chapter": 26,
+            "verse": 125,
+            "text": "Jáť pak jsem vám poslem důvěryhodným"
+        },
+        {
+            "chapter": 26,
+            "verse": 126,
+            "text": "ať pročež bojte se Boha a poslechněte mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 127,
+            "text": "Nežádám si za to od vás odměny, neboť odměna má záleží jen od Pána veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 128,
+            "text": "Zdaž stavěti budete na všech pahrbcích znamení pro kratochvíli"
+        },
+        {
+            "chapter": 26,
+            "verse": 129,
+            "text": "A činiti si budete stavby jako by pro věčné obývání"
+        },
+        {
+            "chapter": 26,
+            "verse": 130,
+            "text": "A když vládnete, vládnete jako utiskovatelé"
+        },
+        {
+            "chapter": 26,
+            "verse": 131,
+            "text": "I bojte se Boha a poslechněte mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 132,
+            "text": "A bojte se toho, jenž rozhojnil vás v tom, co víte"
+        },
+        {
+            "chapter": 26,
+            "verse": 133,
+            "text": "a rozhojnil vás v dobytčatech a dětech"
+        },
+        {
+            "chapter": 26,
+            "verse": 134,
+            "text": "a v zahradách a pramenech"
+        },
+        {
+            "chapter": 26,
+            "verse": 135,
+            "text": "jáť bojím se pro vás trestu dne velkého.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 136,
+            "text": "Řekli: „Nám jedno jest, varuješ-li nás, aneb nejsi-li varovatelem"
+        },
+        {
+            "chapter": 26,
+            "verse": 137,
+            "text": "toto jsou pouze báchorky starých"
+        },
+        {
+            "chapter": 26,
+            "verse": 138,
+            "text": "a my nebudeme ztrestáni.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 139,
+            "text": "A lhářem nazvali jej i zahladili jsme je: zajisté v tomto jest znamení; však většina jich nevěří"
+        },
+        {
+            "chapter": 26,
+            "verse": 140,
+            "text": "ale Pán tvůj zajisté mocný jest a slitovný"
+        },
+        {
+            "chapter": 26,
+            "verse": 141,
+            "text": "Též (kmen) Tsemúd lháři posly nazval"
+        },
+        {
+            "chapter": 26,
+            "verse": 142,
+            "text": "když řekl jim bratr jejich Sálih: „Což nebudete báti se Boha“"
+        },
+        {
+            "chapter": 26,
+            "verse": 143,
+            "text": "Jáť zajisté jsem vám poslem důvěryhodným"
+        },
+        {
+            "chapter": 26,
+            "verse": 144,
+            "text": "pročež bojte se Boha a poslechněte mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 145,
+            "text": "A nežádám si za to od vás odměny, neboť odměna má záleží jen od Pána veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 146,
+            "text": "Zdaž ponecháni budete v tom, co máte zde, v bezpečí"
+        },
+        {
+            "chapter": 26,
+            "verse": 147,
+            "text": "V zahradách a u zřídel"
+        },
+        {
+            "chapter": 26,
+            "verse": 148,
+            "text": "a polností a datlovníků, větví, štíhlých"
+        },
+        {
+            "chapter": 26,
+            "verse": 149,
+            "text": "a vytesávati budete si v horách domy dovedně"
+        },
+        {
+            "chapter": 26,
+            "verse": 150,
+            "text": "I bojte se Boha a poslechněte mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 151,
+            "text": "a neposlouchejte nařízení výstředníků"
+        },
+        {
+            "chapter": 26,
+            "verse": 152,
+            "text": "kteří pohoršují zemi a nepolepšují ji.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 153,
+            "text": "Řekli: „Tys pouze jedním z očarovaných"
+        },
+        {
+            "chapter": 26,
+            "verse": 154,
+            "text": "jsi pouze člověk, jako my: pročež předveď nám znamení, jsi-li z pravdomluvných.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 155,
+            "text": "Řekl: „Tato velbloudice (bude jím): jí patřiti bude napití a vám patřiti bude napití ob den určený"
+        },
+        {
+            "chapter": 26,
+            "verse": 156,
+            "text": "Však nepřičiňte jí zlého, jinak zachvátí vás trest dne velkého.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 157,
+            "text": "Nicméně přeřezali žíly jí a litovali toho zrána"
+        },
+        {
+            "chapter": 26,
+            "verse": 158,
+            "text": "neboť zachvátil je trest. Zajisté v tomto jest znamení: však většina jich nevěří"
+        },
+        {
+            "chapter": 26,
+            "verse": 159,
+            "text": "ale Pán tvůj mocný jest a slitovný"
+        },
+        {
+            "chapter": 26,
+            "verse": 160,
+            "text": "Lháři nazval lid Lotův posly své"
+        },
+        {
+            "chapter": 26,
+            "verse": 161,
+            "text": "když řekl jim bratr jejich Lot: „Což nebudete báti se Boha"
+        },
+        {
+            "chapter": 26,
+            "verse": 162,
+            "text": "Jáť jsem vám poslem důvěryhodným"
+        },
+        {
+            "chapter": 26,
+            "verse": 163,
+            "text": "pročež bojte se Boha a poslechněte mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 164,
+            "text": "A nežádám si za to od vás odměny, neboť odměna má záleží jen od Pána veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 165,
+            "text": "Zdaž vcházeti budete k mužům, z tvorstva veškerého"
+        },
+        {
+            "chapter": 26,
+            "verse": 166,
+            "text": "A zanecháte, co Bůh stvořil vám za manželky? Opravdu jste lidem chybujícím!“"
+        },
+        {
+            "chapter": 26,
+            "verse": 167,
+            "text": "Řekli: „Nezanecháš-li této řeči, Lote, zajisté budeš jedním z vyhnanců.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 168,
+            "text": "Řekl: „Jáť činů vašich hrozím se"
+        },
+        {
+            "chapter": 26,
+            "verse": 169,
+            "text": "Pane můj, spas mne a rodinu mou od toho, co činí tito:“"
+        },
+        {
+            "chapter": 26,
+            "verse": 170,
+            "text": "I zachránili jsme jej a rodinu jeho veškerou"
+        },
+        {
+            "chapter": 26,
+            "verse": 171,
+            "text": "vyjma stařeny, jež omeškala se"
+        },
+        {
+            "chapter": 26,
+            "verse": 172,
+            "text": "a pak zahubili jsme všechny ostatní"
+        },
+        {
+            "chapter": 26,
+            "verse": 173,
+            "text": "A dštili jsme na ně deštěm, a špatný to byl déšť pro ty, jež varovali jsme"
+        },
+        {
+            "chapter": 26,
+            "verse": 174,
+            "text": "Zajisté znamení jest v tomto: však většina jich nevěří"
+        },
+        {
+            "chapter": 26,
+            "verse": 175,
+            "text": "ale Pán tvůj zajisté mocný jest a slitovný"
+        },
+        {
+            "chapter": 26,
+            "verse": 176,
+            "text": "Též obyvatelé hvozdu (Madianského) lháři nazvali posly své"
+        },
+        {
+            "chapter": 26,
+            "verse": 177,
+            "text": "když řekl jim Šu'ejb: „Což nebudete báti se Boha"
+        },
+        {
+            "chapter": 26,
+            "verse": 178,
+            "text": "Jáť jsem vám poslem důvěryhodným"
+        },
+        {
+            "chapter": 26,
+            "verse": 179,
+            "text": "pročež bojte se Boha a poslechněte mne"
+        },
+        {
+            "chapter": 26,
+            "verse": 180,
+            "text": "A nežádám si za to od vás odměny, neboť odměna má záleží jen od Pána veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 181,
+            "text": "Dodržujte správnou míru a nebuďte z těch, kdož na ní utrhují"
+        },
+        {
+            "chapter": 26,
+            "verse": 182,
+            "text": "važte dle spravedlnosti přímé"
+        },
+        {
+            "chapter": 26,
+            "verse": 183,
+            "text": "a neokrádejte lidi o věci jejich, aniž prostopášnostmi pohoršujte zemi"
+        },
+        {
+            "chapter": 26,
+            "verse": 184,
+            "text": "a bojte se toho, jenž stvořil vás i pokolení předešlá.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 185,
+            "text": "Řekli: „Ty zajisté's jen jedním z očarovaných"
+        },
+        {
+            "chapter": 26,
+            "verse": 186,
+            "text": "A tys jen člověk, jako my; a my považujeme tě za jednoho z prolhaných"
+        },
+        {
+            "chapter": 26,
+            "verse": 187,
+            "text": "dej spadnouti na nás kus nebe, jsi-li pravdomluvným.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 188,
+            "text": "Řekl: „Pán můj nejlépe ví o tom, co činíte.“"
+        },
+        {
+            "chapter": 26,
+            "verse": 189,
+            "text": "Tak lhářem nazvali jej: i zachvátil je trest dne mračného: zajistéť byl to trest dne velkého"
+        },
+        {
+            "chapter": 26,
+            "verse": 190,
+            "text": "Zajisté znamení jest v tomto, však většina jich nevěří"
+        },
+        {
+            "chapter": 26,
+            "verse": 191,
+            "text": "ale Pán tvůj zajisté mocný jest a slitovný"
+        },
+        {
+            "chapter": 26,
+            "verse": 192,
+            "text": "A tento (Korán) zajisté jest sesláním od Pána veškerenstva"
+        },
+        {
+            "chapter": 26,
+            "verse": 193,
+            "text": "sestoupil s ním dolů duch věrný"
+        },
+        {
+            "chapter": 26,
+            "verse": 194,
+            "text": "na srdce tvé, abys byl jedním z varovatelů"
+        },
+        {
+            "chapter": 26,
+            "verse": 195,
+            "text": "v jazyku jasném arabském"
+        },
+        {
+            "chapter": 26,
+            "verse": 196,
+            "text": "Onť zajisté předpověděn jest v Písmech předešlých"
+        },
+        {
+            "chapter": 26,
+            "verse": 197,
+            "text": "což není to znamením pro ně, že věděli o něm již učení ze synů Israele"
+        },
+        {
+            "chapter": 26,
+            "verse": 198,
+            "text": "A kdybychom byli seslali jej na některého z cizinců"
+        },
+        {
+            "chapter": 26,
+            "verse": 199,
+            "text": "a byl by četl jim jej, nebyli by bývali v něj věřili"
+        },
+        {
+            "chapter": 26,
+            "verse": 200,
+            "text": "A takovýmto způsobem uvedli jsme jej do srdcí provinilců"
+        },
+        {
+            "chapter": 26,
+            "verse": 201,
+            "text": "že neuvěří v něj, dokud neshlédnou trest svůj bolestný"
+        },
+        {
+            "chapter": 26,
+            "verse": 202,
+            "text": "a přijde na ně znenadání, aniž by tušili"
+        },
+        {
+            "chapter": 26,
+            "verse": 203,
+            "text": "Tehdy řeknou: „Může nám býti poshověno?“"
+        },
+        {
+            "chapter": 26,
+            "verse": 204,
+            "text": "Zdaž tedy budou chtíti (nyní), aby uspíšen byl trest náš"
+        },
+        {
+            "chapter": 26,
+            "verse": 205,
+            "text": "Co míníš? Popřejeme-li jim radostí světa po léta"
+        },
+        {
+            "chapter": 26,
+            "verse": 206,
+            "text": "a pak přijde na ně, co bylo jim slíbeno"
+        },
+        {
+            "chapter": 26,
+            "verse": 207,
+            "text": "co prospěje jim to, z čeho se byli radovali"
+        },
+        {
+            "chapter": 26,
+            "verse": 208,
+            "text": "Ale nezahladili jsme města, aniž by bylo mělo své varovatele"
+        },
+        {
+            "chapter": 26,
+            "verse": 209,
+            "text": "k napomenutí: myť zajisté nebyli jsme křivditeli"
+        },
+        {
+            "chapter": 26,
+            "verse": 210,
+            "text": "Nesestoupili pak (s Koránem) zlí duchové"
+        },
+        {
+            "chapter": 26,
+            "verse": 211,
+            "text": "a nepříslušelo jim to, aniž byli s to tak učiniti"
+        },
+        {
+            "chapter": 26,
+            "verse": 212,
+            "text": "neb oni od slyšení jeho jsou vzdáleni"
+        },
+        {
+            "chapter": 26,
+            "verse": 213,
+            "text": "I nevzývej spolu s Bohem boha jiného, abys nebyl jedním z trestaných"
+        },
+        {
+            "chapter": 26,
+            "verse": 214,
+            "text": "a varuj příbuzné své nejbližší"
+        },
+        {
+            "chapter": 26,
+            "verse": 215,
+            "text": "a stři křídlo své ochrany nad těmi, již následují tě z věřících"
+        },
+        {
+            "chapter": 26,
+            "verse": 216,
+            "text": "A když neposlechnou tě, rci: „Jáť zajisté prost jsem viny na tom, co činíte,“"
+        },
+        {
+            "chapter": 26,
+            "verse": 217,
+            "text": "spoléhej na Mocného, Slitovného"
+        },
+        {
+            "chapter": 26,
+            "verse": 218,
+            "text": "jenž vidí tě, když vstáváš k modlitbě"
+        },
+        {
+            "chapter": 26,
+            "verse": 219,
+            "text": "jakož i chování tvé mezi těmi, kdož uctívají jej"
+        },
+        {
+            "chapter": 26,
+            "verse": 220,
+            "text": "neboť on všeslyšící a vševědoucí jest"
+        },
+        {
+            "chapter": 26,
+            "verse": 221,
+            "text": "Oznámím vám, na koho sestupují zlí duchové"
+        },
+        {
+            "chapter": 26,
+            "verse": 222,
+            "text": "Sestupují na všechny prolhance hříšné"
+        },
+        {
+            "chapter": 26,
+            "verse": 223,
+            "text": "kteří házejí (do vzduchu věci) z doslechu a vět šina jich lháři jsou"
+        },
+        {
+            "chapter": 26,
+            "verse": 224,
+            "text": "a BÁSNÍCI, jež následují (jimi) zvábení"
+        },
+        {
+            "chapter": 26,
+            "verse": 225,
+            "text": "zdaž nevidíš, že bloudí po všech údolích"
+        },
+        {
+            "chapter": 26,
+            "verse": 226,
+            "text": "A že říkají, co nečiní"
+        },
+        {
+            "chapter": 26,
+            "verse": 227,
+            "text": "Vyjma těch, kteří uvěřili a konají dobré skutky a vzpomínají často Boha a hájí se poté, když bylo jim ukřivděno: a seznají křivditelé, jakým zvrácením budou zvráceni"
+        },
+        {
+            "chapter": 27,
+            "verse": 1,
+            "text": "Tá. Sín. Tato jsou znamení Koránu a Knihy zjevné"
+        },
+        {
+            "chapter": 27,
+            "verse": 2,
+            "text": "(dobré) vedení a radostná zvěst věřícím"
+        },
+        {
+            "chapter": 27,
+            "verse": 3,
+            "text": "kteří zachovávají modlitbu a dávají (povinnou) almužnu a pevně věří v život budoucí"
+        },
+        {
+            "chapter": 27,
+            "verse": 4,
+            "text": "Zajisté pak těm, kdož nevěří v život budoucí, zkrášlili jsme skutky jejich, takže (bez vodítka) bloudí"
+        },
+        {
+            "chapter": 27,
+            "verse": 5,
+            "text": "Těmto schystán jest trest nejhorší a tito největší utrpí v životě budoucím ztrátu"
+        },
+        {
+            "chapter": 27,
+            "verse": 6,
+            "text": "Zajisté pak obdržel's Korán od Moudrého, Vševědoucího"
+        },
+        {
+            "chapter": 27,
+            "verse": 7,
+            "text": "(Pomni), když řekl Mojžíš rodině své: „Zajistéť shlédl jsem oheň; půjdu a přinesu vám o něm zprávu a přinesu vám louč planoucí, abyste se možná od ní ohřáli.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 8,
+            "text": "A když přišel k ohni, bylo naň zavoláno: Požehnán jest ten, jenž v ohni jest a jenž kol něho jest: a chvála budiž Bohu, Pánu veškerenstva"
+        },
+        {
+            "chapter": 27,
+            "verse": 9,
+            "text": "Ó Mojžíši, to jsem já Bůh, Mocný, Moudrý"
+        },
+        {
+            "chapter": 27,
+            "verse": 10,
+            "text": "Vrhni hůl svou na zem!“ A když Mojžíš viděl, že hýbala se, jako by byla hadem, obrátil se zády úprkem a nevracel se. „Neboj se, Mojžíši, není čeho báti se u mne poslům mým"
+        },
+        {
+            "chapter": 27,
+            "verse": 11,
+            "text": "vyjma těm, již spáchali nepravost, ale pak zaměnili zlo dobrem — jáť pak velký jsem v odpouštění, slitovný"
+        },
+        {
+            "chapter": 27,
+            "verse": 12,
+            "text": "Vlož ruku svou za ňadra svá a vytáhneš ji bílou, aniž by byla stižena nemocí. Toto bude jedním z devíti znamení pro Faraona a lid jeho, neboť v pravdě lid jest to pohoršlivý.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 13,
+            "text": "A když předvedena byla jim znamení naše jasně před zraky jejich, řekli: „Totoť jest kouzelnictví zjevné.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 14,
+            "text": "A odmítali je ač v duších svých seznali pravdivost jich, z nepravosti a pýchy. A hle, jaký byl konec pohoršlivců"
+        },
+        {
+            "chapter": 27,
+            "verse": 15,
+            "text": "A (pomni, jak) když dali jsme Davidovi a Šalamounovi vědění, řekli: „Chvála budiž tomu, jenž vyznamenal nás nad mnohé ze služebníků svých věřících!“"
+        },
+        {
+            "chapter": 27,
+            "verse": 16,
+            "text": "A dědil Šalamoun po Davidovi a řekl: „Ó lidé, byli jsme naučeni výřečnosti ptactva, a byli jsme obdařeni (podílem) ze všech věcí: totoť zajisté jest milost zjevná.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 17,
+            "text": "I shromážděna byla kol Šalamouna vojska jeho, sestávající z Džinnů a lidí, jakož i ptactva a kráčela v oddílech"
+        },
+        {
+            "chapter": 27,
+            "verse": 18,
+            "text": "až došla do údolí MRAVENCŮ: i řekl jeden mravenec: „Ó mravenci, vstupte do obydlí svých, aby nezdeptal vás dojista Šalamoun s vojsky svými, aniž by toho tušili.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 19,
+            "text": "A usmál se vesele Šalamoun nad řečí jeho a řekl: „Pane můj, ponukni mne, abych byl vděčným za dobrodiní tvé, kterým's požehnal mi a otci mému, a abych konal dobré skutky, v nichž měl bys zalíbení, a uveď mne z milosrdenství svého mezi služebníky svoje spravedlivé.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 20,
+            "text": "A přehlížel ptactvo a řekl: „Jak to přijde, že nevidím dudka? Což jest nepřítomen"
+        },
+        {
+            "chapter": 27,
+            "verse": 21,
+            "text": "Dojista ztrestám jej trestem přísným, aneb dojista zabiji jej, leda že by předvedl mi zmocnění zjevné.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 22,
+            "text": "Však neomeškal se (dudek) na dlouho a přišel, řka: „Zvěděl jsem, co tys dosud nezvěděl: a přinesl jsem ti ze Saby novinu jistou"
+        },
+        {
+            "chapter": 27,
+            "verse": 23,
+            "text": "V pravdě nalezl jsem tam ženu vládnoucí jim, obdařenou podílem ze všech věcí, majitelku trůnu velkého"
+        },
+        {
+            "chapter": 27,
+            "verse": 24,
+            "text": "Shledal jsem, že ona i lid její klaní se slunci místo Bohu: neb Satan zkrášlil jim skutky jejich, a odvrátil je od stezky (pravé), takže nejsou (správně) vedeni"
+        },
+        {
+            "chapter": 27,
+            "verse": 25,
+            "text": "takže neklaní se Bohu, jenž na světlo přivádí tajnosti nebes i země a ví, co skrýváte i co veřejně přiznáváte"
+        },
+        {
+            "chapter": 27,
+            "verse": 26,
+            "text": "Bůh, není Boha kromě něho, jenž pánem jest trůnu velkého.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 27,
+            "text": "Řekl (Šalamoun): „Uvidíme, mluvil-lis pravdu, anebo byl's jedním z prolhaných"
+        },
+        {
+            "chapter": 27,
+            "verse": 28,
+            "text": "Jdi s tímto listem mým a hoď jim jej dolů: pak odvrať se od nich a vyčkej, co odvětí.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 29,
+            "text": "Řekla (královna k předním lidu svého): „Pánové, byl mi hozen list vzácný"
+        },
+        {
+            "chapter": 27,
+            "verse": 30,
+            "text": "Jestiť od Šalamouna a zní: ‚Ve jménu Boha, Milosrdného, Slitovného"
+        },
+        {
+            "chapter": 27,
+            "verse": 31,
+            "text": "Nezdvihejte se proti mně, však přijďte ke mně, odevzdáni plně do vůle boží.‘“"
+        },
+        {
+            "chapter": 27,
+            "verse": 32,
+            "text": "Řekla (dále): „Pánové, poraďte mi v mé věci: nerozhodnu ničeho ve věci, bez vašeho dosvědčení.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 33,
+            "text": "Řekli: „Myť zajisté jsme obdařeni silou a udatenstvím mocným: však rozhodnutí věci jest na tobě, i viz sama, jak rozkážeš.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 34,
+            "text": "Řekla: „Zajisté králové, když vstupují do města, ztropí spoušť v něm a činí nejmocnější lidu jeho nejbídnějšími: takto jednají"
+        },
+        {
+            "chapter": 27,
+            "verse": 35,
+            "text": "Pročež pošlu k těmto lidem dary a uvidím, s čím navrátí se poslové.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 36,
+            "text": "A když přišel (posel) k Šalamounovi, řekl tento: „Vy tedy chcete rozhojniti mne ve jmění, když co Bůh dal mi lepší jest toho, co dal vám? Nicméně vy v darech svých shledáváte velkou radost"
+        },
+        {
+            "chapter": 27,
+            "verse": 37,
+            "text": "Vrať se ke svým: myť pak dojista přijdeme na ně s vojsky, jimž nebudou moci postavit se na odpor a dojista vypudíme je ze země jejich zbědnělé a ponížené.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 38,
+            "text": "Řekl pak: „Pánové, který z vás přinese mi trůn její, dříve než lid její přijde ke mně, odevzdán do vůle boží?“"
+        },
+        {
+            "chapter": 27,
+            "verse": 39,
+            "text": "Řekl 'Ifrít, jeden z Džinnů: „Já přinesu ti jej dříve, než zdvihneš se s místa svého: jáť jistě k tomu jsem dosti silný a spolehlivý.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 40,
+            "text": "Řekl ten, jenž měl znalost Knihy: „Já přinesu ti jej dříve, než v mrknutí setkají a rozevřou se víčka tvá.“ A když (Šalamoun) viděl trůn postavený před sebou, řekl: „Totoť jest z milosti Pána mého, aby vyzkoušel mne, jsem-li vděčný, aneb vzdorný: a kdo jest vděčný, jest jím ve prospěch vlastní duše. a kdo jest vzdorný — však Pán můj (dost) bohatý jest a štědrý!“"
+        },
+        {
+            "chapter": 27,
+            "verse": 41,
+            "text": "Řekl (dále): „Učiň jí nepoznatelným trůn její: uvidíme, je-li na stezce (pravé), aneb jest z těch, kteří nejsou vedeni stezkou (pravou).“"
+        },
+        {
+            "chapter": 27,
+            "verse": 42,
+            "text": "A když přišla (královna k němu) bylo jí řečeno: „Jest toto trůn tvůj?“ Řekla: „Vypadá jako on.“ Nám tedy dáno bylo vědění dříve, než jí a my patřili jsme k těm, kdož do vůle boží jsou odevzdáni"
+        },
+        {
+            "chapter": 27,
+            "verse": 43,
+            "text": "Však odvrátilo ji od pravé cesty to, co uctívala na místě Boha, neboť byla z lidu nevěřícího"
+        },
+        {
+            "chapter": 27,
+            "verse": 44,
+            "text": "Bylo jí řečeno: „Vejdi do paláce“ — a když viděla jej, domnívala se, že jest to jezero, i vykasala oděv na nohou svých. Řekl Šalamoun: „Jest to pouze palác vyložený křišťálem.“ Řekla: „Pane můj, křivdila jsem své vlastní duši: nyní pak jako Šalamoun, odevzdávám se do vůle Boha, Pána veškerenstva.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 45,
+            "text": "A (kdysi) poslali jsme ke kmeni Tsemúd bratra jejich Sáliha, (aby hlásal): „Uctívejte Boha“ — a tu rozdělili se na dva tábory navzájem si odporující"
+        },
+        {
+            "chapter": 27,
+            "verse": 46,
+            "text": "Řekl Sálih: „Lide můj, proč uspěšujete na sebe (příchod) zlého, raději než dobrého? Proč neprosíte za odpuštění Boha, abyste možná došli slitování?“"
+        },
+        {
+            "chapter": 27,
+            "verse": 47,
+            "text": "Řekli: „Ptakověštbou zkoumali jsme tebe, jakož i stoupence tvoje.“ Řekl: „Věštba osudu vašeho jest pouze u Boha: ano, vy jste lid, jenž má býti na zkoušku postaven.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 48,
+            "text": "A bylo ve městě devět lidí, již pohoršení páchali v zemi a nejednali spravedlivě"
+        },
+        {
+            "chapter": 27,
+            "verse": 49,
+            "text": "Řekli: „Přisáhněte si navzájem při Bohu, že dojista přepadneme v noci jej a rodinu jeho a dojista pak řekneme mstiteli jeho: ‚Nebyli jsme svědky záhuby rodiny jeho a zajisté, že pravdu mluvíme.‘“"
+        },
+        {
+            "chapter": 27,
+            "verse": 50,
+            "text": "A kuli lest, však i my kuli jsme lest, aniž by toho byli tušili"
+        },
+        {
+            "chapter": 27,
+            "verse": 51,
+            "text": "a hle, jaký byl konec jejich, myť zahubili jsme je, jakož i lid jejich veškeren"
+        },
+        {
+            "chapter": 27,
+            "verse": 52,
+            "text": "A domy jejich nyní zpustošeni jsou za to, že nespravedlivě jednali: zajisté, že v tomto znamení jest pro lid rozumný"
+        },
+        {
+            "chapter": 27,
+            "verse": 53,
+            "text": "A zachránili jsme ty, kdož byli uvěřili a báli se Boha"
+        },
+        {
+            "chapter": 27,
+            "verse": 54,
+            "text": "A (poslali jsme) Lota tehdy, když řekl lidu svému: „Zdaž páchati budete smilstvo sami k tomu přihlížejíce"
+        },
+        {
+            "chapter": 27,
+            "verse": 55,
+            "text": "A vcházeti k mužům z vášně, raději než k ženám? Ano, sbor jste nevědomců!“"
+        },
+        {
+            "chapter": 27,
+            "verse": 56,
+            "text": "Však odpovědi lidu jeho bylo jedině, že řekli: „Vyžeňte rod Lotův z města svého, neb zajisté jsou to lidé příliš mravopočestní.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 57,
+            "text": "I zachránili jsme jej a rodinu jeho, vyjma ženy jeho, jíž předurčili jsme, aby byla z omeškalých"
+        },
+        {
+            "chapter": 27,
+            "verse": 58,
+            "text": "A dštili jsme na ně deštěm: a zlý byl to déšť pro (marně) varované"
+        },
+        {
+            "chapter": 27,
+            "verse": 59,
+            "text": "Rci: „Chvála Bohu a pokoj služebníkům jeho, jež vyvolil si! Jest lepší Bůh, aneb to, co s ním spolčují"
+        },
+        {
+            "chapter": 27,
+            "verse": 60,
+            "text": "Ten, jenž stvořil nebe i zemi a sesílá vám s nebe vodu — a jí dali jsme vzrůsti zahradám smavé krásy: vám pak není dáno, abyste vzrůsti dali stromům jejich! Jest tedy bůh nějaký s Bohem? A přece (tito) lidé dávají mu rovné"
+        },
+        {
+            "chapter": 27,
+            "verse": 61,
+            "text": "Ten, jenž učinil zemi pevnou, a učinil ve středu jejím řeky, a na vrchu jejím temena hor: a učinil mezi oběma moři přehradu: jest tedy bůh nějaký s Bohem? A přece většina jich není si toho vědoma"
+        },
+        {
+            "chapter": 27,
+            "verse": 62,
+            "text": "Ten, jenž vyslyší stísněného, když volá k němu, a odnímá protivenství a učiní vás nástupci na zemi: jest tedy bůh nějaký s Bohem? Jak málo o tom přemítáte"
+        },
+        {
+            "chapter": 27,
+            "verse": 63,
+            "text": "Ten, jenž vede vás v temnotách souše a moře, a jenž posílá větry jako posly milosti své: jest tedy Bůh nějaký s Bohem? Bůh daleko povýšen jest nad to, co oni spolčují s ním"
+        },
+        {
+            "chapter": 27,
+            "verse": 64,
+            "text": "Ten, jenž dává počátek stvoření a pak dává mu navrátiti se: a jenž živí vás z (oblasti) nebe i země: jest tedy bůh nějaký s Bohem?“ Rci: „Předveďte důkaz svůj, jste-li pravdomluvnými!“"
+        },
+        {
+            "chapter": 27,
+            "verse": 65,
+            "text": "Rci: „Nikdo z těch, kdož na nebi jsou i na zemi, nezná věcí skrytých, vyjma Boha: a lidé nemají tušení, kdy vzkříšeni budou.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 66,
+            "text": "Ač mají jakés vědění o životě budoucím, přece jsou v pochybnostech o něm, přece vůči němu slepi jsou"
+        },
+        {
+            "chapter": 27,
+            "verse": 67,
+            "text": "A říkají ti, kdož neuvěřili: „Zdaž až budeme my i otcové naši v prach obráceni, budeme (z hrobu) vyvedeni"
+        },
+        {
+            "chapter": 27,
+            "verse": 68,
+            "text": "To již slíbeno bylo nám i otcům našim dříve: však toto jsou jen, báchorky (pokolení) předešlých.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 69,
+            "text": "Rci: „Cestujte zemí a vizte, jaký byl konec provinilců!“"
+        },
+        {
+            "chapter": 27,
+            "verse": 70,
+            "text": "Však nermuť se nad nimi a nebuď stísněn ohledně lstí, jež kují"
+        },
+        {
+            "chapter": 27,
+            "verse": 71,
+            "text": "A říkají: „Kdy naplní se tento slib, jste-li pravdomluvnými?“"
+        },
+        {
+            "chapter": 27,
+            "verse": 72,
+            "text": "Rci: „Dost možná, že za zády vašimi jest (již) část z toho, co chcete uspíšiti.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 73,
+            "text": "A zajisté Pán tvůj jest pln milosti vůči lidem, však většina jich není vděčna"
+        },
+        {
+            "chapter": 27,
+            "verse": 74,
+            "text": "A zajisté Pán tvůj ví, co v prsou svých skrývají i co veřejně doznávají"
+        },
+        {
+            "chapter": 27,
+            "verse": 75,
+            "text": "A není tajemství na zemi a na zemi, jež nebylo by v Knize zjevné"
+        },
+        {
+            "chapter": 27,
+            "verse": 76,
+            "text": "Zajisté pak tento Korán vykládá synům Israele většinu z toho, v čem míněním se rozcházejí"
+        },
+        {
+            "chapter": 27,
+            "verse": 77,
+            "text": "a zajisté jest vedením a milosrdenstvím pro věřící"
+        },
+        {
+            "chapter": 27,
+            "verse": 78,
+            "text": "Zajisté Pán tvůj rozsoudí mezi nimi moudrostí svou: a on mocný jest a vševědoucí"
+        },
+        {
+            "chapter": 27,
+            "verse": 79,
+            "text": "I spoléhej na Boha, neboť tys v právu zjevném"
+        },
+        {
+            "chapter": 27,
+            "verse": 80,
+            "text": "Nedokážeš, aby slyšeli mrtví, aniž aby slyšeli hluší volání, když obracejí se zády"
+        },
+        {
+            "chapter": 27,
+            "verse": 81,
+            "text": "aniž dokážeš, abys vyvedl na cestu pravou slepé z bloudění jejich: ale dokážeš jen, aby slyšeli tě ti, kdož věří ve znamení naše, odevzdáni jsouce do vůle boží"
+        },
+        {
+            "chapter": 27,
+            "verse": 82,
+            "text": "A když rozsudek bude blízek svému vykonání, dáme vystoupiti na ně zvířeti ze země, jež promluví na ně (takto): „Tito jsou lidé, kteří ve znamení naše nevěřili.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 83,
+            "text": "A (jednoho) dne shromáždíme od každého národa skupinu těch, kteří vylhanými nazývali znamení naše: a půjdou v oddílech"
+        },
+        {
+            "chapter": 27,
+            "verse": 84,
+            "text": "až přijdou před Boha: i řekne: „Zdaž vylhanými nazývali jste znamení má, ač, nedovedli jste obsáhnouti jich věděním svým — aneb co vlastně činili jste?“"
+        },
+        {
+            "chapter": 27,
+            "verse": 85,
+            "text": "I vykonán bude na nich rozsudek za nepravost jejich, aniž hlesnou"
+        },
+        {
+            "chapter": 27,
+            "verse": 86,
+            "text": "Což neviděli, že učinili jsme noc pro to, aby odpočívali v ní a den, k vidění? Zajisté v tomto jest znamení pro lid věřící"
+        },
+        {
+            "chapter": 27,
+            "verse": 87,
+            "text": "A v den, kdy zatroubeno bude na roh a hrůzou zachví se, cožkoliv na nebi jest a na zemi, vyjma toho, co Bůh zachce: a všichni přijdou k němu v ponížení"
+        },
+        {
+            "chapter": 27,
+            "verse": 88,
+            "text": "a uvidíš hory, jež za nehybné měl's, any jdou kupředu chodem mračen: to dílo bude Boha, jenž (dokonale) upravuje všechny věci: onť zajisté dobře zpraven jest o tom, co činíte"
+        },
+        {
+            "chapter": 27,
+            "verse": 89,
+            "text": "A kdokoliv přijde s dobrými skutky, odměněn bude nad jich zásluhu: a před hrůzou dne onoho budou bezpečni"
+        },
+        {
+            "chapter": 27,
+            "verse": 90,
+            "text": "Však kdožkoliv přijde se skutky zlými, vrženi budou tvářemi svými v oheň. Zdaž odměněni budete jinak, než dle toho, co činili jste"
+        },
+        {
+            "chapter": 27,
+            "verse": 91,
+            "text": "Nařízeno mi bylo jen, abych uctíval Pána této země, jenž posvětil ji a jemuž přináležejí všechny věci: a nařízeno bylo mi, abych byl jedním z odevzdaných do vůle boží"
+        },
+        {
+            "chapter": 27,
+            "verse": 92,
+            "text": "a abych předříkával Korán. A kdokoli uveden bude na (pravou) cestu, bude uveden tam ke svému vlastnímu prospěchu a těm, kdož bloudí. rci: „Jáť jsem jen jedním z varovatelů.“"
+        },
+        {
+            "chapter": 27,
+            "verse": 93,
+            "text": "A rci: „Chvála Bohu! Ukáže vám znamení svá a pak seznáte je! A Pán tvůj není lhostejným k tomu, co konáte.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 1,
+            "text": "Tá. Sín. Mím"
+        },
+        {
+            "chapter": 28,
+            "verse": 2,
+            "text": "Tato jsou znamení knihy zjevné"
+        },
+        {
+            "chapter": 28,
+            "verse": 3,
+            "text": "Předříkávati budeme tobě část dějů Mojžíše a Árona dle pravdy, pro (poučení) lidu věřícího"
+        },
+        {
+            "chapter": 28,
+            "verse": 4,
+            "text": "Zajisté pak Farao povýšil se v zemi a rozštěpil lid její v různé strany, zeslabuje jednu část jich tím, že zabíjel syny jejich a živil dcery jejich, neboť on byl jedním z kazisvětů"
+        },
+        {
+            "chapter": 28,
+            "verse": 5,
+            "text": "I chtěli jsme milostí zahrnouti ty, již zeslabováni byli v zemi, abychom učinili je vůdci (národů) a dědici země"
+        },
+        {
+            "chapter": 28,
+            "verse": 6,
+            "text": "A abychom upevnili je v zemi a ukázali Faraonovi a Hámánovi, jakož i vojskům jejich to, čeho se od nich obávali"
+        },
+        {
+            "chapter": 28,
+            "verse": 7,
+            "text": "I vnukli jsme matce Mojžíšově: „Koj ho a kdybys bála se oň, vrhni jej na moře a neboj se, aniž rmuť se: myť zajisté vrátíme jej tobě a učiníme jej jedním z poslů svých.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 8,
+            "text": "A sebrala jej rodina Faraonova, aby byl jim nepřítelem a příčinou smutku: neboť Farao a Hámán a vojska jejich byli hříšníky"
+        },
+        {
+            "chapter": 28,
+            "verse": 9,
+            "text": "A řekla žena Faraonova: „Radostí srdce mně i tobě bude: nezabíjejte jej, neb snad prospěšným nám bude aneb za syna si jej vzíti můžeme.“ Neb oni netušili"
+        },
+        {
+            "chapter": 28,
+            "verse": 10,
+            "text": "A prázdnotou zchváceno bylo srdce matky Mojžíšovy a málem by jej byla prozradila, kdybychom nebyli opásali srdce její stálostí, aby byla jednou z věřících"
+        },
+        {
+            "chapter": 28,
+            "verse": 11,
+            "text": "I řekla sestře jeho: „Jdi za ním“: i pozorovala jej z dáli, aniž by toho byli tušili"
+        },
+        {
+            "chapter": 28,
+            "verse": 12,
+            "text": "A předem již zapověděli jsme mu (cizí) kojné, (dokud nepřišla sestra jeho) i řekla: „Zdaž ukáži vám dům jisté rodiny, jež odchová jej pro vás a zacházet s ním bude upřímně?“"
+        },
+        {
+            "chapter": 28,
+            "verse": 13,
+            "text": "Tak navrátili jsme jej matce jeho, aby radovalo se srdce její, a aby nermoutila se, a aby věděla, že slib Boha jest pravdivý. Však většina lidí není si toho vědoma"
+        },
+        {
+            "chapter": 28,
+            "verse": 14,
+            "text": "A když dosáhl (mužné) síly své a dospěl, dali jsme mu soudnost a vědění: neb takovýmto způsobem odměnujeme ty, kdož dobře činí"
+        },
+        {
+            "chapter": 28,
+            "verse": 15,
+            "text": "I vešel jednou do města v čas, kdy toho nepozorovali obyvatelé jeho a nalezl tam dvé mužů potýkajících se: jeden byl z jeho strany a druhý byl z jeho nepřátel. A prosil jej o pomoc ten, jenž byl z jeho strany, proti onomu, jenž byl z nepřátel jeho: i udeřil jej pěstí Mojžíš a byl s ním konec. Tehdy pak řekl (Mojžíš): „Toto jest dílo Satana, neboť on jest nepřítelem a svůdcem zjemním.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 16,
+            "text": "Řekl (dále): „Pane můj, ukřivdil jsem sám sobě: pročež odpusť mi.“ A odpustil mu Bůh, neboť on velký jest v odpouštění, stitovný"
+        },
+        {
+            "chapter": 28,
+            "verse": 17,
+            "text": "Řekl (Mojžíš): „Pane můj, za to, žes mi byl milostiv, nikdy nebudu již pomocníkem provinilých.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 18,
+            "text": "Zrána pak šel městem pln strachu, pohlížeje opatrně kolem, a hle, onen muž, jenž byl prosil jej o pomoc den před tím, (opětně) volal naň. I řekl mu Mojžíš: „Tys v pravdě rozkolníkem zjevným.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 19,
+            "text": "A když chtěl pak násilně zapuditi onoho, jenž byl oběma nepřítelem, řekl: „Zda zabíti chceš mne, jako zabil's člověka včera: tyť zajisté chceš býti jen násilníkem v této zemi a nechceš býti jedním z polepšovatelů.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 20,
+            "text": "Tu přiběhl muž ze vzdáleného konce města v kvapu, řka: „Mojžíši, zajisté předáci města rokují o tom, jak zabili by tě: pročež prchni z města, neb upřímně ti radím.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 21,
+            "text": "I prchl z města pln strachu, pohlížeje opatrně kol sebe, řka: „Pane můj, zachraň mne před lidem nepravostným.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 22,
+            "text": "A když ubíral se směrem k Madianu, řekl: „Snad Pán můj povede mne cestou rovnou.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 23,
+            "text": "A když došel ke studnici Madianu, našel u ní sbor lidí napájejících stáda a nalezl vedle nich dvé žen, udržujících stáda svá opodál; i řekl: „Co máte v úmyslu?“ Řekly: „Nelze nám napájeti, dokud neodženou odsud pastevci: otec náš pak jest vůdce mocný.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 24,
+            "text": "I napojil jim oběma stáda; pak uchýlil se zpět do stínu. řka: „Pane můj, jáť ono dobro, jež poslal's mi, v pravdě postrádám.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 25,
+            "text": "I přišla k němu jedna z žen, jdouc nesměle, a řekla: „Otec můj zve tě, aby odměnil tě mzdou za to, žes napojil stáda naše.“ A když Mojžíš přišel k němu a vyložil mu PŘÍBĚHY své, řekl (tento): „Neboj se, neb zachránil's se před lidem nepravostným.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 26,
+            "text": "Řekla jedna z dcer: „Otče, najmi ho, neboť není lepšího, jejž bys najmouti mohl, než muž silný, spolehlivý.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 27,
+            "text": "Řekl (otec): „Jáť chci dát tobě za manželku jednu z těchto dvou dcer mých, dáš-li se mi v nájem po dobu osmi let: a dovršíš-li deset, bude to tvoje dobrá vůle. Neb nechci ti nijak uložiti nesnáz: a shledáš, bude-li Bůh chtíti, že jsem jedním ze spravedlivých.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 28,
+            "text": "Řekl (Mojžíš): „(Ujednáno) tak budiž mezi mnou a tebou: dovrším-li kteroukoli z oněch dvou lhůt, nebude požadavku vůči mně; a Bůh jest toho, co jsme řekli, ručitelem.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 29,
+            "text": "A když dovršil Mojžíš lhůtu svou, a byl na cestě s rodinou svojí, spatřil na úbočí hory oheň. I řekl rodině své: „Posečkejte zde, neb spatřil jsem oheň: možná, že budu moci přinésti vám o něm zprávu, aneb louč z ohně, abyste se možná ohřáli.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 30,
+            "text": "A když přišel k ohni, bylo zavoláno naň s břehu údolí pravého, na pláni požehnané, z keře: „Mojžíši, to jsem já, Bůh, Pán veškerenstva"
+        },
+        {
+            "chapter": 28,
+            "verse": 31,
+            "text": "i vrhni na zem hůl svoji.“ A když spatřil ji hýbati se, jako by byla hadem, obrátil se zády v útěku a nevracel se. „Mojžíši,“ (volal hlas), „přibliž se a neboj se, neb zajisté jsi zde v bezpečí"
+        },
+        {
+            "chapter": 28,
+            "verse": 32,
+            "text": "Vlož ruku svou za ňadra svá: vyjde ven bílou, však bez poruchy; a pak přitáhni k sobě ruku svou, prost bázně. Toto pak bude dvé důkazů od Pána tvého pro Faraona a předním lidu jeho, neb oni věru lidem jsou pohoršlivým.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 33,
+            "text": "Řekl (Mojžíš): „Pane můj, zabil jsem jednoho z nich i bojím se, že zabijí mne"
+        },
+        {
+            "chapter": 28,
+            "verse": 34,
+            "text": "A bratr můj, Áron jest výřečnější mne mluvou i pošli jej se mnou na pomoc, a aby potvrdil mne v slovech mých, neb věru bojím se, že lhářem nazvou mne.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 35,
+            "text": "Řekl (Bůh): „Posílíme rámě tvé bratrem tvým a dáme vám oběma moc a nevyrovnají se vám ve znameních našich. Vy dva a ti, kdož následovati vás budou, zvítězíte.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 36,
+            "text": "A když přišel k nim Mojžíš s našimi znameními jasnými, řekli: „Toto jest pouze kouzelnictví vymyšlené: a my nikdy neslyšeli jsme o tom od otců našich předešlých.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 37,
+            "text": "I řekl Mojžíš: „Pán můj nejlépe ví o tom, kdo dostal (pravé) vedení od něho a o tom, kdo obdrží přebývání domu (věčného): neboť zajisté dobře nepovede se nepravostným.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 38,
+            "text": "I řekl Farao k předním lidu svého: „Pánové, nevím, že byste měli Boha jiného, kromě mne: tedy vypáliti dej mi, Hámáne, cihly z hlíny, abych vystavěl si palác a tak možná dostoupiti mohl k Bohu Mojžíšovu, neboť dojista mám jej za prolhaného.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 39,
+            "text": "A pyšně choval se on i vojska jeho v zemi, beze všeho práva a domnívali se, že k nám nebudou navráceni"
+        },
+        {
+            "chapter": 28,
+            "verse": 40,
+            "text": "A zachvátili jsme jej i vojska jeho a vrhli jsme je v moře: a hle, jaké byl konec nepravostných"
+        },
+        {
+            "chapter": 28,
+            "verse": 41,
+            "text": "A učinili jsme je vůdci, kteří zvou lidi k ohni pekelnému, a v den zmrtvýchvstání nebude jim pomoženo"
+        },
+        {
+            "chapter": 28,
+            "verse": 42,
+            "text": "A prokletím pronásledovali jsme je v životě pozemském a v den zmrtvýchvstání v ošklivosti budou"
+        },
+        {
+            "chapter": 28,
+            "verse": 43,
+            "text": "A dali jsme Mojžíšovi Knihu poté, když byli jsme zahladili pokolení předešlá jako viditelný příklad lidem a vedením a milosrdenstvím, aby o tom přemítali"
+        },
+        {
+            "chapter": 28,
+            "verse": 44,
+            "text": "A nebyl's na úbočí západním hory (Sinai), když ustanovovali jsme Mojžíšovi věc (jeho), aniž byl's jedním ze svědků toho"
+        },
+        {
+            "chapter": 28,
+            "verse": 45,
+            "text": "Avšak vzbudili jsme po něm pokolení a dlouhé byly životy jejich: a nedlel's mezi lidem Madianským, předčítaje jim znamení naše, avšak my poslali jsme jim posly své"
+        },
+        {
+            "chapter": 28,
+            "verse": 46,
+            "text": "A nebyl's na úbočí hory (Sinai), když volali jsme tam (Mojžíše), avšak z milosrdenství Pána tvého poslán jsi, abys varoval lid, jemuž nebyl přišel varovatel před tebou, aby o tom možná rozvažovali"
+        },
+        {
+            "chapter": 28,
+            "verse": 47,
+            "text": "a aby, když postihlo by je neštěstí za to, co před tím konali, neříkali: „Pane náš, kdybys byl poslal nám proroka, zajisté byli bychom následovali znamení tvá a byli bychom z věřících.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 48,
+            "text": "A když přišla jim pravda od nás, řekli: „(Neuvěříme), leda že by dáno mu bylo totéž, co dáno bylo i Mojžíšovi.“ Což však nezapřeli toho, co dáno bylo Mojžíšovi před tím? Řekli: „Jsou to dvě díla kouzelníků, kteří si navzájem pomáhali,“ a řekli: „Nevěříme v žádné z nich.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 49,
+            "text": "Rci: „Předveďte teda knihu od Boha. jež byla by lepším vedením těchto dvou, abych mohl následovati ji, jste-li pravdomluvnými.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 50,
+            "text": "A když neodpoví k tvé (výzvě), tehdy věz, že následuji jen choutky své: a kdo zbloudilejším jest toho, jenž následuje choutku svou, aniž vedení by měl od Boha? Neboť Bůh zajisté nevede lid nepravostný"
+        },
+        {
+            "chapter": 28,
+            "verse": 51,
+            "text": "A přece dali jsme slovu (svému) dojíti jich, aby o tom možná rozvažovali"
+        },
+        {
+            "chapter": 28,
+            "verse": 52,
+            "text": "Ti, kterým dali jsme Knihu před touto, věří v ni"
+        },
+        {
+            "chapter": 28,
+            "verse": 53,
+            "text": "A když předčítána jim jest, říkají: „Uvěřili jsme v ni, neboť jest to pravda od Pána našeho: my pak zajisté již před ní byli jsme odevzdáni do vůle boží.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 54,
+            "text": "Tito obdrží odměnu svou dvakráte za to, že trpělivě vyčkávali a zapuzovali dobrým zlé a z toho, čímž obdařili jsme je, rozdávali"
+        },
+        {
+            "chapter": 28,
+            "verse": 55,
+            "text": "A když slyší ničemnost, vzdalují se jí, řkouce: „Nám patří naše skutky a nám patří vaše skutky: pokoj s vámi: nám netřeba jest nevědomců!“"
+        },
+        {
+            "chapter": 28,
+            "verse": 56,
+            "text": "Tiť zajisté nevedeš, koho přál bys si, ale Bůh vede, koho chce, a on nejlépe ví o těch, kdož (správně) vedeni jsou"
+        },
+        {
+            "chapter": 28,
+            "verse": 57,
+            "text": "A říkají: „Budeme-li následovati (pravé) vedení s tebou, vyrváni budeme ze země své.“ Což neupevnili jsme se v obvodu posvátném a bezpečném, k němuž plyne hojnost plodů všeho druhu výživou od nás? Však většina jich není si toho vědoma"
+        },
+        {
+            "chapter": 28,
+            "verse": 58,
+            "text": "A kolik zahladili jsme měst, oplývajících živobytím! A obydlí jejich byla obývána po nich pouze malým počtem lidí: a my stali jsme se dědici jejich"
+        },
+        {
+            "chapter": 28,
+            "verse": 59,
+            "text": "A Pán tvůj nezahladil měst oněch, dokud nebyl poslal k nim proroka lidu jejich, jenž předčítal jim znamení naše: a nezahladili jsme měst, leda že lid jejich byl nepravostný"
+        },
+        {
+            "chapter": 28,
+            "verse": 60,
+            "text": "A vše, cožkoli dáno bylo vám, jest (pouze dočasným) požitkem života pozemského a lákadlem jeho: a to, co u Boha jest, bude daleko lepším a stálejším. Což toho nepochopíte"
+        },
+        {
+            "chapter": 28,
+            "verse": 61,
+            "text": "Zdaž pak ten, jemuž, slíbili jsme slib krásný a jemuž dostane se ho, bude roveň onomu, jemuž popřáli jsme požitku hmota pozemského, ale pak, v den zmrtvýchvstání bude jedním z předvedených k soudu"
+        },
+        {
+            "chapter": 28,
+            "verse": 62,
+            "text": "V den, kdy zavolá na ně (Bůh) a řekne: „Kde jsou oni společníci moji, které mnili jste (býti se mnou)?“"
+        },
+        {
+            "chapter": 28,
+            "verse": 63,
+            "text": "Řeknou ti, nad nimiž po právu vyřčen jest ortel: „Pane náš, tito jsou, kteréž svedli jsme: a svedli jsme je stejně, jakož i my svedeni jsme byli: prosti jsme viny vůči tobě, neboť oni neuctívali nás.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 64,
+            "text": "I řečeno bude oněm: „Volejte nyní ke společníkům svým“ — a volati budou k nim, však nebudou vyslyšeni jimi. A když spatří trest svůj, přáti si budou, aby byli následovali vedení (pravé)"
+        },
+        {
+            "chapter": 28,
+            "verse": 65,
+            "text": "V den onen zavolá na ně (Bůh) a řekne: „Co odpověděli jste poslům mým?“"
+        },
+        {
+            "chapter": 28,
+            "verse": 66,
+            "text": "A jako osleplí, nebudou s to, dáti zpráv v onen den, aniž navzájem se (na to) doptávati"
+        },
+        {
+            "chapter": 28,
+            "verse": 67,
+            "text": "Však pokud se týče toho, jenž kajícně obrátil se a uvěřil a konal dobré skutky, možná, že bude jedním z těch, jimž dobře povede se"
+        },
+        {
+            "chapter": 28,
+            "verse": 68,
+            "text": "A Pán tvůj tvoří, cokoliv chce a dle vlastní volby, však oni nemají vlastní volby: chválen budiž Bůh a daleko povýšen nad to, co spolčují s ním"
+        },
+        {
+            "chapter": 28,
+            "verse": 69,
+            "text": "A Pán tvůj ví, co skrývají nitra jejich a co na venek přiznávají"
+        },
+        {
+            "chapter": 28,
+            "verse": 70,
+            "text": "Onť jest Bůh, není Boha, kromě něho! Jemu přináleží chvála ve světě tomto i budoucím: a jemu patří moc soudu a k němu budete navráceni"
+        },
+        {
+            "chapter": 28,
+            "verse": 71,
+            "text": "Rci: „Co soudíte? Kdyby učinil Bůh nad vámi noc věčnou až do dne zmrtvýchvstání, který bůh, mimo Boha, mohl by dáti vám světlo? Což nedáte tomu sluchu?“"
+        },
+        {
+            "chapter": 28,
+            "verse": 72,
+            "text": "Rci: „Co soudíte? Kdyby učinil Bůh nad vámi den věčný až do dne zmrtvýchvstání, který bůh, kromě Boha, mohl by dáti vám noc, abyste mohli odpočívati v ní? Což neprohlédnete?“"
+        },
+        {
+            "chapter": 28,
+            "verse": 73,
+            "text": "A z milosrdenství svého učinil vám noc a den: abyste odpočívati mohli v noci, a abyste hledali si podílu z dobrodiní jeho ve dne, a abyste mu byli vděčni"
+        },
+        {
+            "chapter": 28,
+            "verse": 74,
+            "text": "A v den onen zavolá na ně (Bůh) a řekne jim: „Kde jsou oni společníci moji, které mnili jste (býti se mnou)?“"
+        },
+        {
+            "chapter": 28,
+            "verse": 75,
+            "text": "A předvedeme z každého národa svědka a řekneme: „předveďte důkaz svůj.“ Tehdy pak zvědí, že jedině Bůh má pravdu a ztratí se jim z dohledu to, co si byli vymyslili"
+        },
+        {
+            "chapter": 28,
+            "verse": 76,
+            "text": "Zajisté pak Qárún byl jedním z lidu Mojžíšova, však svévolně jednal s nimi; dali jsme mu tolik pokladů, že klíče k nim byly by zatížily cely sbor mužů silných. Tehdy pak řekl mu lid jeho: „Neholedbej se přespříliš, neboť Bůh nemiluje těch, kdož holedbají se"
+        },
+        {
+            "chapter": 28,
+            "verse": 77,
+            "text": "ale hledej pomocí toho, co dal ti Bůh, obydlí života budoucího a neopomíjej úlohy, jež připadla ti na světě: a buď dobročinným, jakož Bůh byl dobročinným vůči tobě, a nehledej konání špatností v zemi, neboť Bůh zajisté nemiluje těch, kdož špatnosti konají.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 78,
+            "text": "Řekl: „Bylo mi to dáno jedině následkem vědění, jež ve mně jest.“ Což nevěděl, že Bůh byl zahladil před ním pokolení, která byla mocnější jej silou a většího bohatství? Však nebudou tázáni na proviněni svá provinilci"
+        },
+        {
+            "chapter": 28,
+            "verse": 79,
+            "text": "I vycházel mezi lid svůj ve svém přepychu: a říkali ti, kteří žádali si života pozemského: „Kéž bychom měli to, co dáno bylo Qárúnovi, on zajisté jest šťastlivcem velkým.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 80,
+            "text": "Však ti, jimž dáno bylo vědění, říkali: „Běda vám! Odměna Boha lepší jest pro toho, jenž uvěřil a konal dobré skutky: a nikomu nedostane se jí, vyjma těch, kdož trpělivě vyčkávají.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 81,
+            "text": "I rozpoltili jsme zemi pod ním a domem jeho a neměl družiny, jež pomohla by mu proti Bohu a nebyl z těch, jimi pomoci dostalo by se"
+        },
+        {
+            "chapter": 28,
+            "verse": 82,
+            "text": "A zrána ti, kteří přáli si býti na jeho místě den před tím, říkali: „Aj, dojista Bůh v hojnosti dává z darů svých, komu chce ze služebníků svých, aneb odměřuje je. Kdyby Bůh nebyl popřál nám milosti své, byla by se země rozpoltila pod námi. Aj, dojista dobře nevede se nevěřícím"
+        },
+        {
+            "chapter": 28,
+            "verse": 83,
+            "text": "Takové jest přebývání života budoucího; dáme je těm, kteří nežádají si povýšení na zemi, aniž konání špatností: a dobrý bude konec bohabojných"
+        },
+        {
+            "chapter": 28,
+            "verse": 84,
+            "text": "Kdokoliv přinese s sebou dobrý skutek, lepší dostane se mu odměny nad zásluhu jeho: a kdo přinese s sebou zlý skutek, věziž, že nebudou odměněni ti, kdož konali zlé skutky, leda dle toho, co činili"
+        },
+        {
+            "chapter": 28,
+            "verse": 85,
+            "text": "Zajisté pak ten, jenž povinně uložil ti Čtení, navrátí tě do místa návratu.“ Rci: „Pán můj nejlépe ví o tom, kdo přinesl (dobré) vedení a kdo jest v bludu zjevném.“"
+        },
+        {
+            "chapter": 28,
+            "verse": 86,
+            "text": "Tys pak nikdy nedoufal, že dána ti bude tato Kniha, leda jako milosrdenství od Pána tvého: pročež nebuď podporou nevěřícím"
+        },
+        {
+            "chapter": 28,
+            "verse": 87,
+            "text": "aniž dovol, aby tě odvrátili od znamení božích poté, když seslána ti byla: a volej lidi k Pánu svému a nebuď jedním z mnohobožců"
+        },
+        {
+            "chapter": 28,
+            "verse": 88,
+            "text": "a nevolej k jinému bohu vedle Boha: neníť Boha. kromě něho: všechno zahyne, vyjma zář tváře jeho. Jemu pak přináleží moc soudu a k němu budete navráceni"
+        },
+        {
+            "chapter": 29,
+            "verse": 1,
+            "text": "Alif. Lám. Mím"
+        },
+        {
+            "chapter": 29,
+            "verse": 2,
+            "text": "Zdaž domnívají se lidé, že budou ponecháni v pokoji poté, když byli řekli: „Uvěřili jsme“ a že nebudou na zkoušku postaveni"
+        },
+        {
+            "chapter": 29,
+            "verse": 3,
+            "text": "Však již postavili jsme na zkoušku ty, kdož byli před nimi: a Bůh dobře ví, kdo upřímný jest a ví, kdo jest lživý"
+        },
+        {
+            "chapter": 29,
+            "verse": 4,
+            "text": "Zdaž domnívají se ti, kdož konají zlé skutky, že předstihnou nás (a uniknou trestu)? Jak špatně usuzují"
+        },
+        {
+            "chapter": 29,
+            "verse": 5,
+            "text": "Ten, kdož doufá v setkání s Bohem, nechť jist jest, že lhůta boží přijde: a on vše slyší a ví"
+        },
+        {
+            "chapter": 29,
+            "verse": 6,
+            "text": "A kdožkoli snaží se ve víře, tenť snaží se ve svůj vlastní prospěch: Bůh zajisté bohat jest nad věci veškeré"
+        },
+        {
+            "chapter": 29,
+            "verse": 7,
+            "text": "A těm, kdož uvěřili a konali dobré skutky, smažeme zlé skutky jejich a dojista odměníme je dle nejlepších skutků jejich"
+        },
+        {
+            "chapter": 29,
+            "verse": 8,
+            "text": "A doporučili jsme člověku ohledně rodičů jeho laskavost: však kdyby snažili se, abys spolčoval se mnou to, o čem nemáš vědomosti, tehdy neposlechni jich. Ke mně navrátíte se a pak zpravím vás ohledne toho, co činili jste"
+        },
+        {
+            "chapter": 29,
+            "verse": 9,
+            "text": "a ty, kdož uvěřili a konali dobré skutky, dojista uvedeme mezi spravedlivé"
+        },
+        {
+            "chapter": 29,
+            "verse": 10,
+            "text": "Jsou mezi lidem někteří, kdož dí: „Uvěřili jsme v Boha,“ však když útrapa stihne je pro (věc) boží, považují zkoušku (působenou jim) lidmi za trest boží. Však když přijde pomoc od Pána tvého, říkají: „Zajisté byli jsme s vámi!“ Což neví Bůh nejlépe o tom, co jest v nitrech lidí všech"
+        },
+        {
+            "chapter": 29,
+            "verse": 11,
+            "text": "A Bůh dojista ví, kdo (skutečně) věří a ví, kdo jest pokrytcem"
+        },
+        {
+            "chapter": 29,
+            "verse": 12,
+            "text": "Říkají pak ti, kdož neuvěřili, k těm, kdož uvěřili: „Následujte stezku naši a my na se vezmeme hříchy vaše.“ Však nevezmou na se hříchy jejich ani v nejmenším, neb zajisté lháři jsou"
+        },
+        {
+            "chapter": 29,
+            "verse": 13,
+            "text": "Však dojista ponesou břemena svá a další břemena mimo břemen svých: a dojista, že tázáni budou v den zmrtvýchvstání ohledně toho, co byli vymýšleli"
+        },
+        {
+            "chapter": 29,
+            "verse": 14,
+            "text": "A (kdysi) poslali jsme Noema k lidu jeho a dlel mezi nimi po tisíc let, vyjma padesáti roků: a zachvátila je potopa v nepravosti jejich"
+        },
+        {
+            "chapter": 29,
+            "verse": 15,
+            "text": "Ale zachránili jsme jej, jakož i ty, kdož byli v arše a učinili jsme ji znamením veškerenstvu"
+        },
+        {
+            "chapter": 29,
+            "verse": 16,
+            "text": "A (poslali jsme) Abrahama i řekl lidu svému: „Uctívejte Boha a bojte se jej: to bude lepším pro vás, dovedete-li toho pochopiti"
+        },
+        {
+            "chapter": 29,
+            "verse": 17,
+            "text": "Vy pouze uctíváte modly vedle Boha a tvoříte tím lež: neboť zajisté ti, jež uctíváte vedle Boha, nemohou dáti vám výživy. Proto žádejte výživu svou od Boha a uctívejte jej a děkujte mu: k němu pak navráceni budete"
+        },
+        {
+            "chapter": 29,
+            "verse": 18,
+            "text": "A když lhářem nazvete mne (dobře): již před vámi zvali národové proroky své lháři: povinností pak proroka jest pouze hlásání zjevné.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 19,
+            "text": "Což nevidí, jak Bůh vzbuzuje stvoření a pak způsobuje, aby navrátilo se k němu? Totoť zajisté Bohu jest snadným"
+        },
+        {
+            "chapter": 29,
+            "verse": 20,
+            "text": "Rci: „Cestujte v zemi a vizte, jak Bůh vzbudil stvoření: poté pak vzkřísí je vzkříšením novým, neboť Bůh nade všemi věcmi moc má"
+        },
+        {
+            "chapter": 29,
+            "verse": 21,
+            "text": "Tresce, koho chce, a slitovává se, nad kým chce, a k němu navráceni budete"
+        },
+        {
+            "chapter": 29,
+            "verse": 22,
+            "text": "Vám pak nelze znemožniti rozhodnutí jeho na zemi, aniž na nebi: a není vám kromě Boha ochránce, ni pomocníka"
+        },
+        {
+            "chapter": 29,
+            "verse": 23,
+            "text": "A ti, kdož nevěří ve znamení boží a v setkání s ním, jsou bez naděje v milosrdenství mé: jim přichystán jest trest bolestný.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 24,
+            "text": "A odpovědí lidu jeho bylo pouze, že řekli: „Zabte jej, aneb upalte jej.“ Však spasil jej Bůh od ohně: a v tomto zajisté znamení jest lidu věřícímu"
+        },
+        {
+            "chapter": 29,
+            "verse": 25,
+            "text": "A řekl: „Zajisté vzali jste si vedle Boha modly za bohy z lásky k životu pozemskému: v den pak zmrtvýchvstání zapřete se navzájem a proklínati budete se navzájem: a obydlím vaším bude oheň (pekelný) a nebude vátu pomocníků.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 26,
+            "text": "Uvěřil mu Lot a řekl „Jáť vystěhuji se k Pánu svému, neb on zajisté mocný jest a moudrý.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 27,
+            "text": "A dali jsme Abrahamovi Isáka a Jakuba a ustanovili jsme v potomstvu jeho dar prorocký a Knihu: a dali jsme mu odměnu jeho na tomto světě a v budoucím on zajisté patřiti bude mezi spravedlivé"
+        },
+        {
+            "chapter": 29,
+            "verse": 28,
+            "text": "A (poslali jsme) Lota, když řekl k lidu svému: „Dojista pášete smilstvo, v němž nepředešel vás nikdo ve světě"
+        },
+        {
+            "chapter": 29,
+            "verse": 29,
+            "text": "Zdaž vcházeti budete k mužům a dokonce přepadati (je) na cestách? A nepravost páchati v shromážděních svých?“ Však odpovědí lidu jeho bylo jen, že řekli: „Přiveď na nás tedy trest boží, jsi-li pravdomluvným“"
+        },
+        {
+            "chapter": 29,
+            "verse": 30,
+            "text": "Řekl: „Pane můj, pomoz mi proti lidu prostopášnému.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 31,
+            "text": "A když přišli poslové naši k Abrahamovi s radostnou zprávou, řekli: „Zahladíme lid onoho města, neboť lid jeho jest nepravostný.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 32,
+            "text": "Řekl (Abraham): „Mezi nimi jest i Lot.“ Řekli: „My nejlépe víme o tom, kdo jest v onom městě: a dojista zachráníme jej i rodinu jeho, vyjma ženy jeho, jež bude jednou z omeškalých.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 33,
+            "text": "A když přišli poslové naši k Lotovi, trápil se ohledně jich a byl stísněn ohledně jich pro slabost rámě svého, však oni řekli: „Neboj se a nermuť se, neboť my dojista zachráníme tebe i rodinu tvoji, vyjma ženy tvé, jež bude jednou z omeškalých"
+        },
+        {
+            "chapter": 29,
+            "verse": 34,
+            "text": "Myť sešleme na lid tohoto města hrůzu s nebe za pohoršlivost jejich.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 35,
+            "text": "A ponechali jsme z něho znamení jasné pro lid chápavý"
+        },
+        {
+            "chapter": 29,
+            "verse": 36,
+            "text": "A k Madianským (poslali jsme) bratra jejich Šu'ejba, i řekl: „Lide můj, uctívejte Boha a buďte v očekávání dne posledního: a neporušujte zemi prostopášností svou.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 37,
+            "text": "Však lhářem nazvali jej a zachvátilo je zemětřesení a zrána jako ztuhlé mrtvoly nelezeni jsou v domech svých"
+        },
+        {
+            "chapter": 29,
+            "verse": 38,
+            "text": "A (tak stalo se i s kmeny) 'Ád a Tsemúd, jakž jasně patrno jest vám ze zbytků obydlí jejich. Satan zkrášlil jim skutky jejich a odvrátil je od (pravé) cesty, ač prozíraví byli"
+        },
+        {
+            "chapter": 29,
+            "verse": 39,
+            "text": "A tak stalo se i Qárúnovi a Faraonovi a Hámánovi. A přece přišel k nim Mojžíš s jasnými důkazy: pyšně chovali se v zemi, ale (nás) přece nepředstihli"
+        },
+        {
+            "chapter": 29,
+            "verse": 40,
+            "text": "A jednohokaždého z nich ztrestali jsme za vinu jeho: jednoho z nich zachvátil vítr bouřný, jednoho zachvátilo vzkřiknutí; pod jedním rozpoltili jsme zemi; jiné pak utopili jsme. A nebyl to Bůh, jenž bezpráví jim činil, nýbrž oni sami sobě bezpráví činili"
+        },
+        {
+            "chapter": 29,
+            "verse": 41,
+            "text": "Podobají se pak ti, kdož vedle Boha vzali si ochránce, PAVOUKU, jenž staví si obydlí: a dojista nejchatrnějším ze všech obydlí jest obydlí pavoukovo. Kéž by si toho jen byli vědomi"
+        },
+        {
+            "chapter": 29,
+            "verse": 42,
+            "text": "Bůh zajisté dobře zná to, co vzývají vedle něho (dopodrobna): a on mocný jest a moudrý"
+        },
+        {
+            "chapter": 29,
+            "verse": 43,
+            "text": "A tato podobenství činíme lidem: však nepochopí jich, leda rozumní"
+        },
+        {
+            "chapter": 29,
+            "verse": 44,
+            "text": "Stvořil jest Bůh nebesa i zemi v opravdovosti: a v tomto zajisté jest znamení pra věřící"
+        },
+        {
+            "chapter": 29,
+            "verse": 45,
+            "text": "Pročež předčítej, co vnuknuto bylo ti z Knihy: a zachovávej modlitbu, neboť modlitba zapuzuje smilnost a nepravost. Vzpomínání pak Boha jest největší (povinností): a Bůh (dobře) ví, co konáte"
+        },
+        {
+            "chapter": 29,
+            "verse": 46,
+            "text": "Neveďte hádek s těmi, jimž dána byla Kniha, leda způsobem nejpřístojnějším: vyjímaje ony z nich, již nepravostni jsou. Rcete pak: „Uvěřili jsme v to, co sesláno bylo nám a sesláno bylo vám: a Bůh náš i Bůh váš jest Jediný: a my do vůle jeho jsme odevzdáni.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 47,
+            "text": "A takovýmto způsobem seslali jsme ti Knihu: a ti, jimž dali jsme Knihu, věří v ni, a z těchto též mnozí věří v ni: popírají tedy znamení naše jedině (zatvrzelí) nevěřící"
+        },
+        {
+            "chapter": 29,
+            "verse": 48,
+            "text": "Před tím, než zjevena byla, nepředčítal's jiné knihy, aniž psal jsi jakou pravicí svojí: v tom případě byli by mohli pochybovati ti, kdož (ji) zavrhují"
+        },
+        {
+            "chapter": 29,
+            "verse": 49,
+            "text": "Naopak (Korán) jest (jako) znamení jasné v nitrech těch, jimž dáno bylo vědění: a nikdo nepopírá znamení našich, vyjma nepravostných"
+        },
+        {
+            "chapter": 29,
+            "verse": 50,
+            "text": "A říkají: „(Neuvěříme), leda že by sesláno bylo mu znamení od Pána jeho.“ Rci: „Znamení jsou jedině v moci Boha: já pak jsem jedině varovatelem zjevným.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 51,
+            "text": "Což nedostačuje jim, že seslali jsme ti Knihu, jež předčítána jest jim? Zajistéť v tom jest milosrdenství a varování lidu věřícímu"
+        },
+        {
+            "chapter": 29,
+            "verse": 52,
+            "text": "Rci: „Bůh postačí co svědek mezi mnou a vámi: on zná vše, co na nebi jest a na zemi. A ti, kdož uvěřili v marnost a neuvěřili v Boha, ti zajisté záhubě propadli.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 53,
+            "text": "A vyzývají tě, abys uspíšil jim trest: a nebýti lhůty předurčené, zajisté by byl přišel na ně trest a dojista přijde na ně znenadání, aniž by toho tušili"
+        },
+        {
+            "chapter": 29,
+            "verse": 54,
+            "text": "Vyzývají tě, abys uspíšil jim trest: a zajisté peklo již obklopuje nevěřící"
+        },
+        {
+            "chapter": 29,
+            "verse": 55,
+            "text": "V den, kdy zahalí je trest shůry a zpod nohou jejich, řečeno bude jim: „Okuste (odplaty) za to, co činili jste.“"
+        },
+        {
+            "chapter": 29,
+            "verse": 56,
+            "text": "Služebníci moji, kteříž uvěřili jste, zajisté země má rozsáhlá jest: mne tedy uctívejte"
+        },
+        {
+            "chapter": 29,
+            "verse": 57,
+            "text": "Každé duši bude okusiti smrti: poté pak k nám navráceni budete"
+        },
+        {
+            "chapter": 29,
+            "verse": 58,
+            "text": "A ty, kdož uvěřili a konali dobré skutky, dojista usadíme v (povýšených) komnatách zahrady (ráje), pod níž řeky tekou: v ní obývati budou věčně. Jak krásná bude odměna (dobře) činících"
+        },
+        {
+            "chapter": 29,
+            "verse": 59,
+            "text": "kteří trpělivě vyčkávají a spoléhají na Pána svého"
+        },
+        {
+            "chapter": 29,
+            "verse": 60,
+            "text": "A kolik jest živočichů, již nestarají se o potravu svou a Bůh živí je, jakož i vás: on pak vše slyší a ví"
+        },
+        {
+            "chapter": 29,
+            "verse": 61,
+            "text": "A otážeš-li se jich: „Kdo stvořil nebe a zemi a podrobil (řádu) slunce a měsíc,“ tu řeknou: „Bůh.“ Jak tedy mohou tak lháti"
+        },
+        {
+            "chapter": 29,
+            "verse": 62,
+            "text": "Bůh hojně rozdává dary své, komu chce ze služebníků svých, aneb odměřuje mu je: neboť Bůh o všech věcech má vědomost"
+        },
+        {
+            "chapter": 29,
+            "verse": 63,
+            "text": "A otážeš-li se jich: „Kdo sesílá s nebe vodu a oživuje jí zemi zmrtvělou“, tu řeknou: „Bůh,“ Rci: „Chvála budiž tedy Bohu.“ Však většina jich toho nechápe"
+        },
+        {
+            "chapter": 29,
+            "verse": 64,
+            "text": "Tento život pozemský jest pouze kratochvílí a hrou: však zajisté přebývání života budoucího (pravým) jest životem. Kéž by jen byli si toho vědomi"
+        },
+        {
+            "chapter": 29,
+            "verse": 65,
+            "text": "Hle, když jedou na lodi, volají k Bohu v upřímné k němu víře: však když zachránili jsme je, (přivedše je) na souš, hle, opětně spolčují s ním (bohy jiné)"
+        },
+        {
+            "chapter": 29,
+            "verse": 66,
+            "text": "aby zapírali to, co zjevili jsme jim, aby jen radovali se z požitků vezdejších: však zvědí"
+        },
+        {
+            "chapter": 29,
+            "verse": 67,
+            "text": "Což nevidí, že ustanovili jsme jim, obvod posvátný a bezpečný, ač olupováni jsou lidé vůkol? Zdaž tedy v marnost věřiti budou a budou dobrodiní boží zapírati"
+        },
+        {
+            "chapter": 29,
+            "verse": 68,
+            "text": "Kdož pak nepravostnějším jest toho, jenž vymyslí o Bohu lež, aneb lží nazývá pravdu, když byla přišla k němu? Zdaž nebude pak v pekle příbytek nevěřících"
+        },
+        {
+            "chapter": 29,
+            "verse": 69,
+            "text": "Ty pak, kdož vynasnažují se pro nás, dojista povedeme stezkami svými: neboť Bůh zajisté jest s těmi, kdož dobře činí"
+        },
+        {
+            "chapter": 30,
+            "verse": 1,
+            "text": "Alif. Lám. Mím"
+        },
+        {
+            "chapter": 30,
+            "verse": 2,
+            "text": "Poraženi byli Řekové"
+        },
+        {
+            "chapter": 30,
+            "verse": 3,
+            "text": "v blízkosti naší země: však po porážce své budou zase vítězi"
+        },
+        {
+            "chapter": 30,
+            "verse": 4,
+            "text": "za několik let. Bohu přináleží rozsouzení, před i po (každé události). A v den onen rozradují se věřící"
+        },
+        {
+            "chapter": 30,
+            "verse": 5,
+            "text": "nad (vítězstvím) z pomoci Boha: pomáháť Bůh, komu chce, neb on mocný jest, slitovný"
+        },
+        {
+            "chapter": 30,
+            "verse": 6,
+            "text": "Toto jest slib Boha a Bůh nikdy nebéře zpět slibu svého, však většina lidí není si toho vědoma"
+        },
+        {
+            "chapter": 30,
+            "verse": 7,
+            "text": "Znají pouze po zevnějšku život pozemský a vůči životu budoucímu jsou lhostejní"
+        },
+        {
+            "chapter": 30,
+            "verse": 8,
+            "text": "Zdaž nerozvažovali sami v duchu, že Bůh nestvořil nebesa a zemi, a vše, což mezi oběma jest, leda v opravdovosti a pouze až do lhůty předurčené? Však zajisté mnoho lidí v setkání s Pánem svým nevěří"
+        },
+        {
+            "chapter": 30,
+            "verse": 9,
+            "text": "Zdaž necestovali v zemi a neviděli, jaký byl konec těch před nimi, kteří byli mocnější jich silou? Rozbrázdili zemi a zalidnili ji ve větším počtu, než jakým oni zalidňují ji: a přišli k nim poslové naši s jasnými důkazy. A nebyl to Bůh, jenž bezpráví jim učinil, nýbrž oni sobě samým bezpráví učinili"
+        },
+        {
+            "chapter": 30,
+            "verse": 10,
+            "text": "A konec těch, již páchali zlo, zlý byl: neboť zajisté vylhanými nazývali znamení naše a žert si z nich tropili"
+        },
+        {
+            "chapter": 30,
+            "verse": 11,
+            "text": "Bůh vzbuzuje stvoření a pak dává mu navraceti se k němu: a pak všichni navráceni k němu budete"
+        },
+        {
+            "chapter": 30,
+            "verse": 12,
+            "text": "A v den, kdy nastane hodina (soudu), oněmí provinilci"
+        },
+        {
+            "chapter": 30,
+            "verse": 13,
+            "text": "a nebude jim mezi těmi, jež spolčovali (s Bohem) přímluvců: oni pak budou tyto společníky své zapírati"
+        },
+        {
+            "chapter": 30,
+            "verse": 14,
+            "text": "A v den, kdy nastane hodina (soudu), v den ten budou lidé od sebe rozděleni"
+        },
+        {
+            "chapter": 30,
+            "verse": 15,
+            "text": "a pokud se týče těch, kdož uvěřili a konali dobré skutky, ti v květnaté lučině radovati se budou"
+        },
+        {
+            "chapter": 30,
+            "verse": 16,
+            "text": "a pokud se týče těch, kdož neuvěřili a vylhanými nazývali znamení naše, jakož i setkání v životě budoucím, ti trestu svému odevzdáni budou"
+        },
+        {
+            "chapter": 30,
+            "verse": 17,
+            "text": "Chvála budiž tedy Bohu za chvil večerních i za chvil ranních"
+        },
+        {
+            "chapter": 30,
+            "verse": 18,
+            "text": "a jemu patří chvála na nebi i na zemi: když noc nadchází i za chvil poledních"
+        },
+        {
+            "chapter": 30,
+            "verse": 19,
+            "text": "On vyvádí živé z mrtvých a vyvádí mrtvé z živých: a oživuje zemi zmrtvělou — a tak i vy z mrtvých vyvedeni budete"
+        },
+        {
+            "chapter": 30,
+            "verse": 20,
+            "text": "A ze znamení jeho jest, že stvořil vás z prachu: a pak, hle, jste lidmi rozptýlenými"
+        },
+        {
+            "chapter": 30,
+            "verse": 21,
+            "text": "A ze znamení jeho jest, že stvořil vám z vás samých manželky, abyste obývali s nimi: a učinil mezi vámi lásku a soucitnost: v tomto zajisté znamení jest pro lid přemýšlivý"
+        },
+        {
+            "chapter": 30,
+            "verse": 22,
+            "text": "A ze znamení jeho jest, že stvořil nebe a zemi a rozmanitost jazyků vašich i pletí vašich: v tomto zajisté znamení jsou veškerenstvu"
+        },
+        {
+            "chapter": 30,
+            "verse": 23,
+            "text": "A ze znamení jeho jest spánek váš v noci a za dne snažení vaše po docílení (podílu) z milosti jeho: zajisté v tomto znamení jsou lidem slyšícím"
+        },
+        {
+            "chapter": 30,
+            "verse": 24,
+            "text": "A ze znamení jeho jest, že ukazuje vám blesk pro strach a naději: a sesílá s nebe vodu, jíž oživuje zemi zmrtvělou: zajisté v tomto znamení jsou pro lid chápavý"
+        },
+        {
+            "chapter": 30,
+            "verse": 25,
+            "text": "A ze znamení jeho, jest, že udržují se v stálosti nebe i země z rozkazu jeho: a pak když vyzve vás výzvou k vystoupení ze země, hle, ven z ní vyjdete"
+        },
+        {
+            "chapter": 30,
+            "verse": 26,
+            "text": "Jemu přináleží, cožkoliv na nebi jest i na zemi: vše před ním poníženo jest"
+        },
+        {
+            "chapter": 30,
+            "verse": 27,
+            "text": "On to jest, jenž vzbuzuje stvoření a pak dává mu navrátiti se k němu: a to přesnadné jest mu. Jemu přináleží, aby přirovnáván byl ke všemu nejvyššímu na nebi i na zemi: a on mocný jest, moudrý"
+        },
+        {
+            "chapter": 30,
+            "verse": 28,
+            "text": "Činí vám podobenství vzatá z vás samých: zdaž máte z těch, jichž zmocnila se pravice vaše, společníky v tom, čímž obdařili jsme vás, rovným dílem? Zdaž stejné rozpaky cítíte vůči nim, jako mezi sebou? Takovýmto způsobem vysvětlujeme znamení svá lidu chápavému"
+        },
+        {
+            "chapter": 30,
+            "verse": 29,
+            "text": "Jistě, že ne: však nepravostní následují choutky své, z nevědomosti: a kdo uvede na cestu pravou toho, jejž Bůh zavedl v blud? Jim nebude pomocníků"
+        },
+        {
+            "chapter": 30,
+            "verse": 30,
+            "text": "Pozdvihni tedy tvář svou věrně k víře, jež ústavou jest Boha, pro kterou byl ustavil lidi: není změny ve stvoření božím. Tato víra jest nepřeměnná, však většina lidí není si toho vědoma"
+        },
+        {
+            "chapter": 30,
+            "verse": 31,
+            "text": "Obracejte se (tedy) k Bohu a bojte se ho: a zachovávejte modlitbu, a nepatřte k mnohobožcům"
+        },
+        {
+            "chapter": 30,
+            "verse": 32,
+            "text": "k těm, kdož rozštěpili se v náboženství svém a rozdělili na strany: každá strana svým vlastním názorem se holedbajíc"
+        },
+        {
+            "chapter": 30,
+            "verse": 33,
+            "text": "Když dotkne se lidí protivenství, volají k Pánu svému, obráceni k němu: pak, když dal okusiti jim milosrdenství svého, hle, část jich s Pánem svým (jiná božstva) spolčují"
+        },
+        {
+            "chapter": 30,
+            "verse": 34,
+            "text": "zapírajíce tak to, co dali jsme jim. Jen radujte se z požitků vezdejších — však zvíte"
+        },
+        {
+            "chapter": 30,
+            "verse": 35,
+            "text": "Zdaž seslali jsme jim nějaké zmocnění, jež mluvilo by o tom, co spolčují (s Bohem)"
+        },
+        {
+            "chapter": 30,
+            "verse": 36,
+            "text": "A když dáme okusiti lidem milosrdenství svého, radují se z něho: však když postihne je něco zlého za to, co byli před tím činili, hle, beznadějní jsou"
+        },
+        {
+            "chapter": 30,
+            "verse": 37,
+            "text": "Což neviděli, že Bůh v hojnosti skýtá darů svých, komu chce, aneb odměňuje je? Zajisté v tomto znamení jsou pro lid věřící"
+        },
+        {
+            "chapter": 30,
+            "verse": 38,
+            "text": "I dávej příbuzným svým, což patří jim: a taktéž nuzným a počestným: toť lepším jest pro ty, kdož žádají si tváře boží a tito jsou, jimž dobře povede se"
+        },
+        {
+            "chapter": 30,
+            "verse": 39,
+            "text": "Cokoliv dáte na lichvu, aby tím lichvařeno bylo se jměním lidí, nebude lichvou rozmnoženo u Boha: však cokoliv dáte na (povinnou) almužnu, žádajíce si tváře boží — tito jsou ti, jimž zdvojnásobeno bude"
+        },
+        {
+            "chapter": 30,
+            "verse": 40,
+            "text": "Bůh jest to, jenž stvořil vás, pak živil vás, pak dá vám zemříti, pak vzkřísí vás. Zdaž který ze společníků vašich jest s to, aby učinil s vámi v nejmenším cos podobného? Chválen budiž (Bůh) a daleko povýšen nad to, co spolčují s ním"
+        },
+        {
+            "chapter": 30,
+            "verse": 41,
+            "text": "Objevila se spoušť na souši i na moři za to, co vykonaly ruce lidí, aby dala jim okusiti část výsledků činů jejich, aby tak snad (k Bohu) se obrátili"
+        },
+        {
+            "chapter": 30,
+            "verse": 42,
+            "text": "Rci: „Procházejte zemí a vizte jaký byl konec těch před vámi, z nichž většina byla mnohobožná.“"
+        },
+        {
+            "chapter": 30,
+            "verse": 43,
+            "text": "I pozdvihni tvář svou k víře bezezměnné, dříve než přijde den od Boha, jejž nelze odvrátiti: v den ten na dva tábory rozděleni budou"
+        },
+        {
+            "chapter": 30,
+            "verse": 44,
+            "text": "ten, kdož neuvěřil, nesoucí břímě nevíry své: a ten, kdož konal dobro, chystající si místo pohovení"
+        },
+        {
+            "chapter": 30,
+            "verse": 45,
+            "text": "aby tak Bůh mohl odměniti ty, kteří uvěřili a konali dobré skutky, z milosti své, neboť on nemiluje nevěřících"
+        },
+        {
+            "chapter": 30,
+            "verse": 46,
+            "text": "A ze znamení jeho jest, že posílá větry s radostnou zvěstí, aby okusiti dal vám milosrdenství svého, aby lodi mohly býti hnány z rozkazu jeho, abyste mohli dobývati si (podílu) z milosti jeho, a abyste možná mu byli vděčni"
+        },
+        {
+            "chapter": 30,
+            "verse": 47,
+            "text": "A již před tebou poslali jsme proroky k lidu jejich i přinesli jim jasné důkazy a pomstu vykonali jsme na provinilcích; příslušelo nám pak, abychom pomohli věřícím"
+        },
+        {
+            "chapter": 30,
+            "verse": 48,
+            "text": "Bůh jest to, jenž posílá větry, které dují v mračno: a rozděluje Bůh toto po obloze, jak chce, a trhá je v kusy: a pak vidíš déšť, an vychází ze středu jeho: a když dá padnouti mu na které chce ze služebníků svých, ajhle, tu radují se"
+        },
+        {
+            "chapter": 30,
+            "verse": 49,
+            "text": "třebaže před tím, než byl seslán na ně, trvali v beznaději"
+        },
+        {
+            "chapter": 30,
+            "verse": 50,
+            "text": "I viz tedy stopy milosrdenství božího: jak obživuje zemi zmrtvělou! Takto i Křisitelem jest mrtvých, neb on nade všemi věcmi moc má"
+        },
+        {
+            "chapter": 30,
+            "verse": 51,
+            "text": "Však kdybychom poslali vichr a oni shlédli (obilí své) sežloutlé jím, tu setrvávali by poté v zatvrzelosti své"
+        },
+        {
+            "chapter": 30,
+            "verse": 52,
+            "text": "Ty pak zajisté nedokážeš, aby slyšeli mrtví, aniž aby slyšeli hluší volání, když odvracejí se zády svými odcházejíce"
+        },
+        {
+            "chapter": 30,
+            "verse": 53,
+            "text": "Aniž dokážeš vésti slepé od bloudění jejich: zmůžeš jen, aby slyšeli ti, kdož věří ve znamení naše a odevzdáni jsou do vůle boží"
+        },
+        {
+            "chapter": 30,
+            "verse": 54,
+            "text": "Bůh to jest, jenž stvořil vás slabé, po slabosti pak dal vám sílu, a po síle pak opět učiní vás slabými a šedovlasými. Bůh tvoří, co chce, a on vševědoucí jest, mocný"
+        },
+        {
+            "chapter": 30,
+            "verse": 55,
+            "text": "A v den, kdy nastane hodina (soudu), přisahati budou provinilci, že dleli pouze hodinu v zemi, tak kdysi lhali (za živa)"
+        },
+        {
+            "chapter": 30,
+            "verse": 56,
+            "text": "A řeknou ti, jimž dáno bylo vědění a víra: „Dleli jste tam, jak psáno jest v Knize boží, do dne zmrtvýchvstání: a tento jest den zmrtvýchvstání; však vy nebyli jste si toho vědomi.“"
+        },
+        {
+            "chapter": 30,
+            "verse": 57,
+            "text": "U den onen neprospěje nepravostným omluva jejich, aniž o smíření s Bohem žádáni budou"
+        },
+        {
+            "chapter": 30,
+            "verse": 58,
+            "text": "A nyní učinili jsme lidem v tomto Koránu všeho druhu podobenství: a kdyby předvedeno bylo jim znamení dojista řekli by ti, kdož neuvěřili: „Vyť pouze jste šejdíři.“"
+        },
+        {
+            "chapter": 30,
+            "verse": 59,
+            "text": "Takovýmto způsobem zapečeťuje Bůh srdce těch, kdož nevědí"
+        },
+        {
+            "chapter": 30,
+            "verse": 60,
+            "text": "I vytrvej v trpělivosti, neboť slib Boha pravdivý jest: a nechť nezviklají tě obavou ti, již (ve víře) nejisti jsou"
+        },
+        {
+            "chapter": 31,
+            "verse": 1,
+            "text": "Alif. Lám. Mím"
+        },
+        {
+            "chapter": 31,
+            "verse": 2,
+            "text": "Tato jsou znamení Knihy moudré"
+        },
+        {
+            "chapter": 31,
+            "verse": 3,
+            "text": "jež vedením jest a milosrdenstvím pro dobře činící"
+        },
+        {
+            "chapter": 31,
+            "verse": 4,
+            "text": "kteří zachovávají modlitbu a dávají povinnou almužnu a pevně doufají v život posmrtný"
+        },
+        {
+            "chapter": 31,
+            "verse": 5,
+            "text": "Tito (dobře) vedeni jsou Pánem svým a jim dobře se povede"
+        },
+        {
+            "chapter": 31,
+            "verse": 6,
+            "text": "Však jest mezi lidem kdosi, jenž kupuje kratochvilnou pověst, aby zavedl lid od stezky boží z nevědomosti a žert si z ní tropil: pro tyto připraven jest trest potupný"
+        },
+        {
+            "chapter": 31,
+            "verse": 7,
+            "text": "A když čtena jsou mu znamení naše, odvrací se pyšně, jako by jich neslyšel, a jako by tíha byla v uších jeho: tomu zvěstuj trest bolestný"
+        },
+        {
+            "chapter": 31,
+            "verse": 8,
+            "text": "Těm pak, kdož uvěřili a konali dobré skutky, schystány jsou zahrady rozkoše"
+        },
+        {
+            "chapter": 31,
+            "verse": 9,
+            "text": "v nich přebývati budou věčně. Slib Boha pravdivý jest a on mocný jest, moudrý"
+        },
+        {
+            "chapter": 31,
+            "verse": 10,
+            "text": "Onť stvořil nebesa i zemi, bez sloupů viditelných: a rozházel po zemi temena hor, aby nehýbala se s vámi: a rozptýlil po ní živočichy všeho druhu. A sesíláme s nebe vodu a dáváme vzrůstati jí všem druhům rostlin vzácných"
+        },
+        {
+            "chapter": 31,
+            "verse": 11,
+            "text": "Toto vše stvořil Bůh: a nyní ukažte mi, co stvořili ti, jež vedle něho vzýváte! Ano, nepravostní jsou v bludu zjevném"
+        },
+        {
+            "chapter": 31,
+            "verse": 12,
+            "text": "Kdysi pak dali jsme LOQMÁNOVI moudrost, řkouce: „Buď vděčným Bohu, neboť kdo vděčným jest Bohu, jest jím ve svůj vlastní prospěch a kdo zatvrzelým jest vůči němu — však Bůh zajisté bohatý jest a chvályhodný.“"
+        },
+        {
+            "chapter": 31,
+            "verse": 13,
+            "text": "(Pomni), když Loqmán řekl synu svému, napomínaje jej: „Synáčku můj, nespolčuj ničeho s Bohem, neboť spolčování takové jest nepravostí velkou.“"
+        },
+        {
+            "chapter": 31,
+            "verse": 14,
+            "text": "A doporučili jsme člověku laskavost vůči rodičům jeho; nosila jej matka jeho s nesnází za nesnází a odkojen jest teprv po dvou letech: „Bud vděčným mně i rodičům svým, neb ke mne vše se sejde"
+        },
+        {
+            "chapter": 31,
+            "verse": 15,
+            "text": "Ale snaží-li se donutiti tě, abys spolčoval se mnou, o čemž nemáš vědomosti, tehdy nebuď poslušen jich: jednej s nimi na tomto světe laskavě, ale následuj stezku toho, jenž obrací se kajícně ke mně. Poté pak navrátíte se ke mně a já povím vám o skutcích vašich.“"
+        },
+        {
+            "chapter": 31,
+            "verse": 16,
+            "text": "„Synáčku můj, i kdyby jednalo se o váhu zrnka hořčičného, a i kdyby (skryto) bylo to ve skále, aneb na nebi či na zemi, Bůh přivede to (k účtování): Bůh zajisté prozíravý jest a o všem zpraven"
+        },
+        {
+            "chapter": 31,
+            "verse": 17,
+            "text": "Synáčku můj, zachovávej modlitbu a nabádej k dobru a zabraňuj zlu, a bud trpěliv v neštěstí, jež stihnou tě, neb vše to jest věcí (předem) rozhodnutou"
+        },
+        {
+            "chapter": 31,
+            "verse": 18,
+            "text": "A nekruť nijak tváře své na lidi, aniž vykračuj si pyšně na zemi: Bůh zajisté nemiluje nadutců vychloubačných"
+        },
+        {
+            "chapter": 31,
+            "verse": 19,
+            "text": "Ale odměřuj chůzi svou a ponižuj nejprotivnějším hlasů všech jest věru hlas oslů!“"
+        },
+        {
+            "chapter": 31,
+            "verse": 20,
+            "text": "Zdaž nevidíte, že Bůh podmanil vám, cožkoliv na nebi jest i na zemi, a že zahrnul vás dobrodiními svými, zevnějšími i vnějšími? Však jsou mezi lidmi někteří, kdož hádají se ohledně Boha, aniž by měli jakého vědění, neb vědění, aniž knihy zářné"
+        },
+        {
+            "chapter": 31,
+            "verse": 21,
+            "text": "A když řečeno jest jim: „Následujte to, co seslal Bůh,“ říkají: „Nikoliv: spíše následovati budeme to, co nalezli jsme u otců svých.“ Zdaž i kdyby Satan volal je k trestu plamene"
+        },
+        {
+            "chapter": 31,
+            "verse": 22,
+            "text": "Ten, kdo odevzdal se do vůle boží a koná dobro, jistě chopil se ucha (nádoby) spolehlivého: a k Bohu navracejí se věci veškeré"
+        },
+        {
+            "chapter": 31,
+            "verse": 23,
+            "text": "Těch pak, kdož neuvěřili, nechť nermoutí tě nevíra: k nám navrátíte se všichni a pak povíme jim, co činili. Bůh zajisté dobře ví o tajnostech niter"
+        },
+        {
+            "chapter": 31,
+            "verse": 24,
+            "text": "Dáme jim těšiti se z požitku světa maličko: pak přinutíme je k (podstoupení) trestu přísného"
+        },
+        {
+            "chapter": 31,
+            "verse": 25,
+            "text": "A otážeš-li se jich: „Kdo stvořil nebe i zemi?“, řeknou dojista: „Bůh.“ Rci: „Chvála budiž (tedy) Bohu!“ Však většina jich není si toho vědoma"
+        },
+        {
+            "chapter": 31,
+            "verse": 26,
+            "text": "Bohu přináleží, cožkoliv na nebi jest i na zemi: neboť Bůh zajisté bohatý jest a chvályhodný"
+        },
+        {
+            "chapter": 31,
+            "verse": 27,
+            "text": "I kdyby veškeré stromy na zemi staly se péry a kdyby (Bůh) rozšířil moře na sedm moří z inkoustu, nebyla by vyčerpána slova boží: Bůh zajisté mocný jest a moudrý"
+        },
+        {
+            "chapter": 31,
+            "verse": 28,
+            "text": "Stvoření vás a vzkříšení vás všech jest proň jako (stvoření a vzkříšení) duše jedné: Bůh pak zajisté vše slyší a obzírá"
+        },
+        {
+            "chapter": 31,
+            "verse": 29,
+            "text": "Zdaž neviděl's, jak Bůh zapouští noc do dne a jak zapouští den de noci, a jak podrobil slunce a měsíc (řádu), takže oba běží až do lhůty předurčené, a že Bůh o všem, co konáte, zpraven jest"
+        },
+        {
+            "chapter": 31,
+            "verse": 30,
+            "text": "To proto, že Bůh jest pravda a to, co, vzýváte vedle něho, jest marnost, a že Bůh zajisté jest nejvyšší, velký"
+        },
+        {
+            "chapter": 31,
+            "verse": 31,
+            "text": "Zdaž nevidíš, jak loď pluje po moři z milosti boží, aby ukázal vám znamení svá? Zajisté v tomto jest znamení pro všechny velmi trpělivé, vděčné"
+        },
+        {
+            "chapter": 31,
+            "verse": 32,
+            "text": "A když zahalují je vlny jako temnoty, volají k Bohu, upřímní jsouce vůči němu ve víře; však když zachrání je na souš, jsou někteří z nich ještě na vážkách. Však znamení naše popírá jen každý věrolomník nevděčný"
+        },
+        {
+            "chapter": 31,
+            "verse": 33,
+            "text": "Ó lidé, bojte se Pána svého a strachujte se dne, kdy otec nevykoupí syna, aniž syn vykoupí otce v ničem: zajisté pak slib boží pravdivý jest. Nechť neoklame vás život pozemský a nechť neoklame vás klamatel ohledně Boha"
+        },
+        {
+            "chapter": 31,
+            "verse": 34,
+            "text": "Zajisté Bůh ví, kdy přijde hodina (soudu). On sesílá s nebe (hojný) déšť a ví, co skryto jest v lůnech: však žádná duše neví, čeho získá si zítra a žádná neví, ve které zemře zemi. Bůh pak zajisté vševědoucí jest a o všem zpraven"
+        },
+        {
+            "chapter": 32,
+            "verse": 1,
+            "text": "Alif. Lám. Mím"
+        },
+        {
+            "chapter": 32,
+            "verse": 2,
+            "text": "Seslání této Knihy — o niž není pochybnosti přichází od Pána veškerenstva"
+        },
+        {
+            "chapter": 32,
+            "verse": 3,
+            "text": "Či snad říkají: „Vymyslil si to?“ Naopak, jest to pravda přicházející od Pána tvého, abys varoval lid, jemuž nepřišel dosud varovatel před tebou, aby (správně) byli vedeni"
+        },
+        {
+            "chapter": 32,
+            "verse": 4,
+            "text": "Bůh jest to, jenž stvořil nebe i zemi a cožkoliv mezi oběma jest v šesti dnech: poté vystoupil na trůn svůj. Není vám vedle něho ochránce ni přímluvce: což si toho nerozvážíte"
+        },
+        {
+            "chapter": 32,
+            "verse": 5,
+            "text": "On řídí všechny věci od nebe k zemi: poté pak všechny věci k němu navrátí se v den, jehož rozsah bude tisíc let, jak vy je počítáte"
+        },
+        {
+            "chapter": 32,
+            "verse": 6,
+            "text": "On jest znatel věcí skrytých i viditelných, mocný, slitovný"
+        },
+        {
+            "chapter": 32,
+            "verse": 7,
+            "text": "jenž co nejlepší dal každé věci tvar a zprvu utvořil člověka z hlíny"
+        },
+        {
+            "chapter": 32,
+            "verse": 8,
+            "text": "pak ustanovil původ jeho z kapky vody odporné"
+        },
+        {
+            "chapter": 32,
+            "verse": 9,
+            "text": "pak dal mu tvar a vdechl do něho část ducha svého: a dal vám sluch a zrak a srdce. Jak málo jste za to vděčni"
+        },
+        {
+            "chapter": 32,
+            "verse": 10,
+            "text": "A říkají: „Když ztratíme se kdesi v zemi, zdaž v novém zjevíme se stvoření!“ A tak v setkání se s Pánem svým oni nevěří"
+        },
+        {
+            "chapter": 32,
+            "verse": 11,
+            "text": "Rci: „Dá zemříti vám anděl smrti, jemuž jste poručeni, a pak k Pánu svému budete navráceni.“"
+        },
+        {
+            "chapter": 32,
+            "verse": 12,
+            "text": "Kdybys jen mohl viděti, jak provinilci klopiti budou hlavy své před Pánem svým (řkouce): „Pane náš, viděli jsme a slyšeli jsme: vrať nás na zemi a budeme konati dobro: nyní pevně věříme.“"
+        },
+        {
+            "chapter": 32,
+            "verse": 13,
+            "text": "Kdybychom byli chtěli, byli bychom dali každé duši (pravé) vedení: však vysloven byl mnou již rozsudek: „Dojista naplním peklo Džinny a lidmi pospolu"
+        },
+        {
+            "chapter": 32,
+            "verse": 14,
+            "text": "Pročež okuste trestu za to, že zapomněli jste na setkání s námi v tento den váš: my též zapomněli jsme na vás i okuste trestu věčného za to, co činili jste.“"
+        },
+        {
+            "chapter": 32,
+            "verse": 15,
+            "text": "Jen ti věří ve znamení naše, kteří, když zmínku o nich obdrží, padají na tvář svou v UCTÍVÁNÍ a pějí chválu Pána svého, a nejsou naduti pýchou"
+        },
+        {
+            "chapter": 32,
+            "verse": 16,
+            "text": "již boky své zvedajíc s lůžek svých, aby volali k Pánu svému s bázní a touhou, a z toho, čímž obdařili jsme je, štědře rozdávají"
+        },
+        {
+            "chapter": 32,
+            "verse": 17,
+            "text": "A žádná duše neví, co skryto jest pro ně radostí odměnou za to, co byli činili"
+        },
+        {
+            "chapter": 32,
+            "verse": 18,
+            "text": "Zdaž ten, kdo uvěřil, měl by býti roveň pohoršlivci? Nebudou si rovni"
+        },
+        {
+            "chapter": 32,
+            "verse": 19,
+            "text": "Pokud se týče těch, kdož uvěřili a konali dobré skutky, těm dány budou zahrady příbytkem a obýváním v odměnu za skutky jejich"
+        },
+        {
+            "chapter": 32,
+            "verse": 20,
+            "text": "A pokud se týče těch, kdož pohoršení páchali, těm příbytkem bude oheň (pekelný): pokaždé, když chtíti budou vylézti z něho, navráceni do něho budou a bude řečeno jim: „Okuste trestu ohně, jejž vylhaným jste nazývali.“"
+        },
+        {
+            "chapter": 32,
+            "verse": 21,
+            "text": "A dojista dáme jim okusiti trestu menšího vedle trestu většího, aby snad vrátili se k nám"
+        },
+        {
+            "chapter": 32,
+            "verse": 22,
+            "text": "Kdo nepravostnějším jest toho, jenž když připomenuta jsou mu znamení naše, odvrátí se od nich? Myť zajisté pomstíme se na provinilých"
+        },
+        {
+            "chapter": 32,
+            "verse": 23,
+            "text": "A kdysi dali jsme Mojžíšovi Knihu: i nebuď v pochybnostech o jeho setkání (s námi). A učinili jsme ji vedením synům Israele"
+        },
+        {
+            "chapter": 32,
+            "verse": 24,
+            "text": "A z nich ustanovili jsme vůdce, aby vedli lid dle rozkazu našeho poté, když byli trpělivě vytrvávali a pevně uvěřili ve znamení naše"
+        },
+        {
+            "chapter": 32,
+            "verse": 25,
+            "text": "Zajisté pak Pán tvůj rozhodne mezi nimi v den zmrtvýchvstání ohledně toho, v čem rozcházeli se"
+        },
+        {
+            "chapter": 32,
+            "verse": 26,
+            "text": "Což není jim patrno kolik zahladili jsme před nimi pokolení, v jichž obydlích oni teď procházejí se? V tom zajisté znamení jsou: což nepopřejí (jim) sluchu"
+        },
+        {
+            "chapter": 32,
+            "verse": 27,
+            "text": "Což nevidí, jak ženeme v mračnech vodu k zemi vyprahlé a jí vzcházeti dáváme obilí, z něhož požívají dobytčata jejich i oni sami? Což (toho) nevidí"
+        },
+        {
+            "chapter": 32,
+            "verse": 28,
+            "text": "A říkají: „Kdy tedy přijde, ono skoncováním jste-li pravdomluvnými?“"
+        },
+        {
+            "chapter": 32,
+            "verse": 29,
+            "text": "Rci: „V den skoncování neprospěje těm, kdož nevěřili, víra jejich, aniž bude jim poshověno.“"
+        },
+        {
+            "chapter": 32,
+            "verse": 30,
+            "text": "I straň se jich a vyčkávej: oni též vyčkávají"
+        },
+        {
+            "chapter": 33,
+            "verse": 1,
+            "text": "Ó proroku, boj se Boha a neposlouchej nevěřících a pokrytců: Bůh zajisté vševědoucí jest a moudrý"
+        },
+        {
+            "chapter": 33,
+            "verse": 2,
+            "text": "A následuj, co vnuknuto ti bylo Pánem tvým: zajisté Pán tvůj o tom, co činíte, dobře zpraven jest"
+        },
+        {
+            "chapter": 33,
+            "verse": 3,
+            "text": "A spoléhej na Boha: neb Bůh postačitelným jest ochráncem"
+        },
+        {
+            "chapter": 33,
+            "verse": 4,
+            "text": "Bůh nedal člověku dvé srdcí v nitru jeho, aniž učinil manželky vaše, které zapuzujete, jako matky vaše: aniž učinil přijaté syny vaše, jako krevní syny vaše. Tato slova nalézají se v ústech vašich, ale Bůh mluví pravdu a vede cestou pravou"
+        },
+        {
+            "chapter": 33,
+            "verse": 5,
+            "text": "(Přijaté syny) nazývejte jmény otců jejich: toto spravedlivějším jest u Boha, a neznáte-li otců jejich, nechť jsou bratry vašimi ve víře a soudruhy vašimi. A není viny vám tehdy, když mýlíte se v tom, aniž by za tím byl úmysl srdcí vašich: Bůh pak velký jest v odpouštění, slitovný"
+        },
+        {
+            "chapter": 33,
+            "verse": 6,
+            "text": "Prorok bližší jest věřícím jich samých a manželky jeho jsou matky jejich. Rodní bratři a sestry jsou si navzájem bližší, dle Knihy boží, věřících a vystěhovalých: leda byste cos dobrého učinili přátelům svým; to zajisté v Knize jest (již) zapsáno"
+        },
+        {
+            "chapter": 33,
+            "verse": 7,
+            "text": "A (pomni), když učinili jsme smlouvu s proroky: s tebou, a s Noemem, a s Abrahamem, a s Mojžíšem, a Ježíšem, synem Mariiným: a učinili jsme s nimi smlouvu přísnou"
+        },
+        {
+            "chapter": 33,
+            "verse": 8,
+            "text": "aby Bůh mohl dotazovati se pravdomluvných ohledně pravdy jejich. Neb připravil nevěřícím trest bolestný"
+        },
+        {
+            "chapter": 33,
+            "verse": 9,
+            "text": "Vy, kteříž jste uvěřili, buďte pamětlivi milosti boží dané vám, když přišla na vás vojska a poslali jsme na ně vichr a vojska neviditelná vám: a Bůh přihlížel k tomu, co činili jste"
+        },
+        {
+            "chapter": 33,
+            "verse": 10,
+            "text": "Tehdy, když napadali vás shůry i zdola, a když zatemňovali se zrakové vaši a srdce vaše vylézala vám ač k hrdlúm: tehdy domýšleli jste si o Bohu mnohé domněnky"
+        },
+        {
+            "chapter": 33,
+            "verse": 11,
+            "text": "Na onom místě velkou zkoušku podstupovali věřící a třásli se třesením silným"
+        },
+        {
+            "chapter": 33,
+            "verse": 12,
+            "text": "A když pokrytci a ti, v jichž srdci jest choroba, říkali: „Slíbil nám Bůh a prorok jeho pouhý klam.“"
+        },
+        {
+            "chapter": 33,
+            "verse": 13,
+            "text": "A když říkal jeden sbor jich: „Ó obyvatelé Jathribu, není zde místa (útulku) pro vás: i vraťte se.“ A žádala jiná část jich proroka o dovolení k návratu, řkouce: „Zajistéť domy naše bez ochrany jsou.“ Však nebyly bez ochrany a oni pouze chtěli prchnouti"
+        },
+        {
+            "chapter": 33,
+            "verse": 14,
+            "text": "A kdyby byl (nepřítel) vešel do města se všech stran a oni vyzváni byli k rozbroji, byli by jej způsobili; však byli by zůstali v něm jen na krátko"
+        },
+        {
+            "chapter": 33,
+            "verse": 15,
+            "text": "A přece před tím byli zavázali se Bohu, že neobrátí se zády svými: a za slib daný Bohu nutno zodpovídati se"
+        },
+        {
+            "chapter": 33,
+            "verse": 16,
+            "text": "Rci: „Neprospěje vám útěk, neb prchnete-li smrti či zabití, tehdy těšiti budete se (světu) pouze maličko.“"
+        },
+        {
+            "chapter": 33,
+            "verse": 17,
+            "text": "Rci: „Kdo jest ten, který ochrání vás před Bohem, bude-li chtíti poslat na vás zlo, aneb bude-li chtít popřáti vám milosrdenství?“ Nenaleznou vedle Boha sobě ochránce, ni pomocníka"
+        },
+        {
+            "chapter": 33,
+            "verse": 18,
+            "text": "Bůh dobře zná působitele překážek mezi vámi a ty, již říkají bratřím svým: „Pojďte k nám,“ a ukazují udatnost jen malou"
+        },
+        {
+            "chapter": 33,
+            "verse": 19,
+            "text": "To z lakoty vůči vám: a když přijde (chvíle) strachu, tu vidíš je ani hledí na tebe, točíce očima svýma jako ten, na něhož padají mrákoty smrti. Však když zajde (chvíle) strachu, napadají vás ostrými jazyky svými z lakoty pro nejlepší část (kořisti). Tito nemají víry a propadnouti dá Bůh konáním jejich: a věru jest to Bohu snadným"
+        },
+        {
+            "chapter": 33,
+            "verse": 20,
+            "text": "Domnívali se, že SPOJENCI neodejdou: a kdyby opět přišli spojenci, rádi by obývali mezi Araby pouště, vyptávajíce se jich na zprávy o vás: neboť ač byli s vámi, bojovali pouze nepatrně"
+        },
+        {
+            "chapter": 33,
+            "verse": 21,
+            "text": "Zajisté pak měli jste v proroku božím vzor krásný pro všechny, kdož doufají v setkání s Bohem a v den poslední, a vzpomínají Boha často"
+        },
+        {
+            "chapter": 33,
+            "verse": 22,
+            "text": "A když viděli věřící spojence řekli: „Toto jest, co slíbil nám Bůh a prorok jeho: a pravdu děli Bůh a prorok jeho“ a vše to rozhojnilo v nich víru a odevzdanost do vůle boží"
+        },
+        {
+            "chapter": 33,
+            "verse": 23,
+            "text": "Jsou mezi věřícími muži, kteří dodrželi pravdivě závazek svůj vůči Bohu: někteří dosloužili čas svůj, někteří vyčkávají naplnění jeho a nezměnili se nijakou změnou"
+        },
+        {
+            "chapter": 33,
+            "verse": 24,
+            "text": "Věru pak odmění Bůh upřímné za upřímnost jejich a ztresce pokrytce, bude-li chtíti, anebo s odpuštěním obrátí se k nim, neb Bůh velký jest v odpouštění, slitovný"
+        },
+        {
+            "chapter": 33,
+            "verse": 25,
+            "text": "A odrazil Bůh ty, kteří neuvěřili, v zuřivosti jejich a nedosáhli ničeho dobrého. Bůh dostačí věřícím v boji a Bůh zajisté silný jest a mocný"
+        },
+        {
+            "chapter": 33,
+            "verse": 26,
+            "text": "A způsobil, aby ti z lidu obdrževšího Knihu, kteří pomáhali spojencům, vyšli z pevností svých a vrhl v srdce jejich strach, takže pobili jste část jich a část jich zajali"
+        },
+        {
+            "chapter": 33,
+            "verse": 27,
+            "text": "Bůh učinil vás dědici země jejich a obydlí jejich a statků jejich: i země, jíž dosud nedotkla se noha vaše: neboť Bůh nade všemi věcmi moc má"
+        },
+        {
+            "chapter": 33,
+            "verse": 28,
+            "text": "Ó proroku, rci manželkám svým: „Žádáte-li si života pozemského a zdoby jeho, pojďte: dám vám pěkný podíl a propustím vás propuštěním pěkným"
+        },
+        {
+            "chapter": 33,
+            "verse": 29,
+            "text": "Však žádáte-li si Boha a proroka jeho a příbytku v živote budoucím, Bůh zajisté přichystal těm z vás, jež dobře činí, odměnu velkou"
+        },
+        {
+            "chapter": 33,
+            "verse": 30,
+            "text": "Ó ženy prorokovy, dopustí-li se která z vás smilstva dokázaného, zdvojnásoben jí bude trest podílem dvojím: a Bohu bude to snadným"
+        },
+        {
+            "chapter": 33,
+            "verse": 31,
+            "text": "Však bude-li kterákoli z vás pevně oddána Bohu a prorokovi jeho a bude konati dobro, dáme jí odměnu její dvakráte a připravili jsme pro ni podíl štědrý"
+        },
+        {
+            "chapter": 33,
+            "verse": 32,
+            "text": "Ó ženy prorokovy, nejste jako jiné ženy: bojíte-li se Boha, tedy nebuďte příliš blahosklonnými v řeči, aby nepožádal vás ten, v jehož srdci choroba jest: ale mluvte řečí přístojnou"
+        },
+        {
+            "chapter": 33,
+            "verse": 33,
+            "text": "A zůstávejte klidně v domech svých a nevystrojujte se vystrojováním dob nevědomosti své dřívější: a zachovávejte modlitbu a dávejte povinnou almužnu a buďte poslušny Boha a proroka jeho: Bůh jedině chce odejmouti od vás nečistotu domu (svého) a očistiti vás očištěním"
+        },
+        {
+            "chapter": 33,
+            "verse": 34,
+            "text": "A připomínejte si, což čteno jest v domech vašich ze znamení Boha a moudrosti: neboť Bůh prozíravý jest a o všem zpraven.“"
+        },
+        {
+            "chapter": 33,
+            "verse": 35,
+            "text": "Mužové a ženy, odevzdaní do vůle boží, věřící mužové a ženy, oddaní mužové a ženy, pravdomluvní mužové a ženy, trpělivě vyčkávající mužové a ženy, ponížení mužové a ženy, almužnu dávající mužové a ženy, postící se mužové a ženy, počestnost zachovávající mužové a ženy, Boha často vzpomínající mužové a ženy — těmto všem přichystal Bůh odpuštění a odměnu velkou"
+        },
+        {
+            "chapter": 33,
+            "verse": 36,
+            "text": "Nepřísluší věřícímu muži neb ženě, aby, když rozhodne Bůh a prorok jeho nějakou věc, měli svou vlastní vůli ve věci své: a kdo neposlušen jest Boha a proroka jeho, tenť zbloudil zblouděním zjevným"
+        },
+        {
+            "chapter": 33,
+            "verse": 37,
+            "text": "A (pomni), když řekl's onomu, jemuž dobrodiní prokázal Bůh a jemuž i ty dobrodiní prokázal's: „Podrž manželku svou a boj se Boha,“ však skrýval's v nitru svém, co Bůh měl přivésti na světlo: a ty bál ses lidí, však spíše měl ses báti Boha. Však když konečně docílil Zeid čeho si žádal od (ženy své), oženili jsme tě s ní, aby nebylo věřícím viny v ženění se s (manželkami přijatých synů svých, když tito byli docílili, čeho si žádali od nich. A rozkaz boží má býti vykonán)"
+        },
+        {
+            "chapter": 33,
+            "verse": 38,
+            "text": "Nebylo viny prorokovi v tom, co povinným učinil mu Bůh. Taková byla zvyklost Boha v jednání s těmi, kdož před tebou byli a rozkaz boží je určením předurčeným"
+        },
+        {
+            "chapter": 33,
+            "verse": 39,
+            "text": "S těmi, kdož hlásají poslání boží a bojí se Boha, ale nebojí se nikoho, vyjma Boha: a Bůh dostačitelným jest súčtovatelem"
+        },
+        {
+            "chapter": 33,
+            "verse": 40,
+            "text": "Není Mohammed otcem nikterého muže mezi vámi, nýbrž prorokem Boha a pečetí proroků a Bůh o všech věcech má vědomost"
+        },
+        {
+            "chapter": 33,
+            "verse": 41,
+            "text": "Vy, kteříž jste uvěřili, vzpomínejte Boha vzpomínáním častým"
+        },
+        {
+            "chapter": 33,
+            "verse": 42,
+            "text": "a chvalte jej z jitra i za večera"
+        },
+        {
+            "chapter": 33,
+            "verse": 43,
+            "text": "Onť jest to, jenž žehná vám i andělé jeho, aby vyvedl vás z temnot na světlo: a vůči věřícím jest slitovným"
+        },
+        {
+            "chapter": 33,
+            "verse": 44,
+            "text": "Přivítání jich v den, kdy setkají se s Bohem, bude: „Pokoj vám“ a on přichystal jim odměnu štědrou"
+        },
+        {
+            "chapter": 33,
+            "verse": 45,
+            "text": "Ó proroku, myť zajisté poslali jsme tě jako svědka, věštitele radostných zvěstí a varovatele"
+        },
+        {
+            "chapter": 33,
+            "verse": 46,
+            "text": "a jako toho, jenž zve (lidi) k Bohu z dovolení jeho, a jako svítilnu zářnou"
+        },
+        {
+            "chapter": 33,
+            "verse": 47,
+            "text": "I zvěstuj věřícím, že dojista dána jim bude Bohem milost velká"
+        },
+        {
+            "chapter": 33,
+            "verse": 48,
+            "text": "a neposlouchej nevěřících a pokrytců, však upusť od ubližování jim: však spoléhej na Boha, neb Bůh dostačitelným jest ochráncem"
+        },
+        {
+            "chapter": 33,
+            "verse": 49,
+            "text": "Vy, kteříž jste uvěřili, pojali-li jste za manželky ženy věřící, poté pak zapudili jste je dříve, než byli dotkly jste se jich, nemáte nijaké lhůty ohledně podržení jich: ale poskytněte jim podílu jejich a pak propusťte je propuštěním pěkným"
+        },
+        {
+            "chapter": 33,
+            "verse": 50,
+            "text": "Ó proroku, dovolili jsme ti ženy tvé, jimž dal jsi věna jejich; a ty, jichž zmocnila se pravice tvá z kořisti dané ti Bohem: a dcery tvých strýců a tet se strany otcovy, a dcery tvých strýců a tet se strany matčiny, jez vystěhovaly se s tebou: a každá žena věřící, jež odevzdala osobu svou prorokovi, chce-li prorok oženiti se s ní. To zvláštní (výsadou) jest tobě nade všechny věřící. Dobře víme, co povinným učinili jsme jim ohledně manželek jejich a těch, jichž zmocnila se pravice jejich, aby nebylo tobě viny. A Bůh velký jest v odpoustění, slitovný"
+        },
+        {
+            "chapter": 33,
+            "verse": 51,
+            "text": "Poodlož, kteroukoli bys chtěl z nich a vezmi k sobě na lože, kteroukoli bys chtěl, aneb kterékoliv bys žádal si z těch, které jsi byl od sebe oddálil: a nebude tobě viny v tom. Tak snadnějším bude, abys obradoval srdce jejich, a aby nermoutily se, a aby spokojeny byly s tím, co dáš jim, jednakaždá. A Bůh ví, co v srdcích vašich jest, neb Bůh jest vševědoucí, laskavý"
+        },
+        {
+            "chapter": 33,
+            "verse": 52,
+            "text": "Nejsou dovoleny ti ženy od nynějška, aniž dovoleno jest ti, abys vyměňoval za manželky své jiné, i kdyby oslnila tě krása jejich, vyjma žen, jichž zmocnila se pravice tvá: a Bůh na všechny věci pozor dává"
+        },
+        {
+            "chapter": 33,
+            "verse": 53,
+            "text": "Vy, kteříž jste uvěřili, nevstupujte v domy prorokovy, leda že dovoleno bylo vám vstoupiti k pojedení, aniž byste vyčkávali až bude (jídlo hotovo). Však když pozváni jste, vejděte a když pojedli jste, rozejděte se: a nevcházejte v příliš důvěrný rozhovor, neboť to bolestně dotklo by se proroka a byl by nucen styděti se k vůli vám; však Bůh nestydí se za pravdu. A když žádáte je o nějaký předmět, žádejte oň zpoza clony: to bude čistším pro srdce vaše a srdce jejich. A není přípustno, abyste bolestně dotýkali se proroka božího, aniž ženili se s manželkami jeho po něm nikdy: neb bylo by to u Boha provinění velké"
+        },
+        {
+            "chapter": 33,
+            "verse": 54,
+            "text": "A přiznáváte-li co veřejně, aneb skrýváte to, vězte, že Bůh zajisté o všech věcech vědomost má"
+        },
+        {
+            "chapter": 33,
+            "verse": 55,
+            "text": "Nebude viny jim, (když odkryjí tváře své) před otci svými, neb syny svými, aneb bratry svými, neb syny bratrů svých, neb syny sester svých, neb ženami jejich, nebo před otrokyněmi svými. A bojte se Boha (ženy): Bůh zajisté všech věcí jest svědkem"
+        },
+        {
+            "chapter": 33,
+            "verse": 56,
+            "text": "Zajisté pak Bůh a andělé jeho žehnají prorokovi: pročež i vy, kteříž uvěřili jste, žehnejte mu a zdravte jej pozdravem"
+        },
+        {
+            "chapter": 33,
+            "verse": 57,
+            "text": "Zajisté pak těm, kdož ubližují Bohu a proroku jeho, zlořečil Bůh v životě pozemském i budoucím a schystal jim trest potupný"
+        },
+        {
+            "chapter": 33,
+            "verse": 58,
+            "text": "A ti, kdož urážejí věřící muže a ženy, aniž by si toho byli zasloužili, obtížili se pomluvou a hříchem zjevným"
+        },
+        {
+            "chapter": 33,
+            "verse": 59,
+            "text": "Ó proroku, rci manželkám svým a dcerám svým a ženám věřících, aby spouštěly níže svrchní roucha svá: tak snadnějším bude, aby byly poznány a nebyly uraženy kým: a Bůh velký jest v odpouštění, slitovný"
+        },
+        {
+            "chapter": 33,
+            "verse": 60,
+            "text": "Nepřestanou-li pokrytci a ti, jichž srdce stižena jsou chorobou, a rýpalové v Medíně, dojista rozčilíme tě proti nim: a pak dojista nenecháme je tam býti sousedy tvými, leda na krátko"
+        },
+        {
+            "chapter": 33,
+            "verse": 61,
+            "text": "Zlořečeni jsouce, kdekoliv by nalézali se, jímáni budou a povražděni vražděním"
+        },
+        {
+            "chapter": 33,
+            "verse": 62,
+            "text": "Taková byla zvyklost Boha ohledně těch, kdož před nimi byli: a neshledáš ve zvyklostech Boha změny nijaké"
+        },
+        {
+            "chapter": 33,
+            "verse": 63,
+            "text": "Dotazovati budou se tě lidé ohledně hodiny (soudu). Rci: „Vědomost o ní má jen Bůh a kdo může říci ti, není-li snad hodina (soudu) blízka?“"
+        },
+        {
+            "chapter": 33,
+            "verse": 64,
+            "text": "Bůh zajisté zlořečil nevěřícím a přichystal jim plamen (pekelný)"
+        },
+        {
+            "chapter": 33,
+            "verse": 65,
+            "text": "v něm přebývati budou věčně věkův a nenaleznou ochránce, ni pomocníka"
+        },
+        {
+            "chapter": 33,
+            "verse": 66,
+            "text": "V den, kdy otáčeny budou tváře jejich v ohni, řeknou: „Kéž bychom byli poslušni bývali Boha a poslušni bývali proroka.!“"
+        },
+        {
+            "chapter": 33,
+            "verse": 67,
+            "text": "A řeknou: „Pane náš, my poslušni byli jsme pánů a předáků svých: a oni zavedli nás se stezky (pravé)"
+        },
+        {
+            "chapter": 33,
+            "verse": 68,
+            "text": "Pane náš, dej jim trest dvojnásobný a zlořeč jim zlořečením velkým!“"
+        },
+        {
+            "chapter": 33,
+            "verse": 69,
+            "text": "Vy, kteříž jste uvěřili, nebuďte jako ti, kteří urazili Mojžíše: Zprostil pak jej Bůh viny v tom, co tvrdili, a (Mojžíš) byl u Boha velmi ctěn"
+        },
+        {
+            "chapter": 33,
+            "verse": 70,
+            "text": "Vy, kteříž jste uvěřili, bojte se Boha a mluvte mluvou přímou"
+        },
+        {
+            "chapter": 33,
+            "verse": 71,
+            "text": "Zlepší vám pak Bůh skutky vaše a odpustí vám viny vaše: a kdo poslušen jest Boha a proroka jeho, oblažen bude blažeností velkou"
+        },
+        {
+            "chapter": 33,
+            "verse": 72,
+            "text": "Nabídli jsme zástavu (víry) nebesům a zemi a horám, však odmítly vzíti ji na se a chvěly se bázní před ní: i vzal ji na se člověk, však zajisté stal se velmi nepravostným, nevědomým"
+        },
+        {
+            "chapter": 33,
+            "verse": 73,
+            "text": "proto, aby ztrestal Bůh pokrytce, muže i ženy, a mnohobožce, muže i ženy: a aby obrátil se (s odpuštěním) k věřícím mužům a ženám, neboť Bůh velký jest v odpouštění, slitovný"
+        },
+        {
+            "chapter": 34,
+            "verse": 1,
+            "text": "Chvála Bohu, jemuž přináleží, cožkoliv na nebi jest i na zemi: a jemuž přináleží chvála v životě budoucím: onť moudrý jest, o všem zpravený"
+        },
+        {
+            "chapter": 34,
+            "verse": 2,
+            "text": "Ví, co vchází do země a co vychází z ní: a co sestupuje s nebe i co vstupuje na ně: a on slitovný jest, velký v odpouštění"
+        },
+        {
+            "chapter": 34,
+            "verse": 3,
+            "text": "Říkají ti, kdož neuvěřili: „Nepřijde na nás hodina (soudu).“ Rci: „Naopak, při Pánu svém přisahám, že přijde dojista na vás!“ Onť zná věci skryté a neujde mu ani co obnáší váha zrnéčka, na nebi i na zemi; aniž co menšího toho, aneb většího jest, co nebylo by v Knize zjevné"
+        },
+        {
+            "chapter": 34,
+            "verse": 4,
+            "text": "aby Bůh odměnil mohl ty, kdož uvěřili a konali dobré skutky: těmto dáno bude odpustění a odměna hojná"
+        },
+        {
+            "chapter": 34,
+            "verse": 5,
+            "text": "Však těm, kdož snažili se znemožniti znamení naše, těm schystán jest trest muk bolestných"
+        },
+        {
+            "chapter": 34,
+            "verse": 6,
+            "text": "A dobře vidí ti, jimž dáno bylo vědění, že to, co sesláno ti bylo od Pána tvého, jest pravdou a že vede to ke stezce Mocného, Chvályhodného"
+        },
+        {
+            "chapter": 34,
+            "verse": 7,
+            "text": "A říkají ti, kteří neuvěřili: „Chcete, abychom ukázali vám muže, jenž poví vám, že až budete rozpadnuti úplným rozpadnutím, vzbuzeni budete ve stvoření novém"
+        },
+        {
+            "chapter": 34,
+            "verse": 8,
+            "text": "Vymyslil lež o Bohu, aneb posedlí jest Džinny.“ Naopak, ti, kdož nevěří v život budoucí, ztrestáni budou a v bludu dalekém se nalézají"
+        },
+        {
+            "chapter": 34,
+            "verse": 9,
+            "text": "Což nevidí to, co před nimi jest a za nimi z nebe a země? Kdybychom chtěli, rozpoltili bychom zem pod nimi, aneb dali bychom spadnouti na ně kusu oblohy: zajisté v tomto jest znamení pro všechny služebníky boží kajícné"
+        },
+        {
+            "chapter": 34,
+            "verse": 10,
+            "text": "A kdysi poskytli jsme Davidovi milosti své (řkouce): „Ó hory, pějte s ním, i vy, ptáci,“ a změkčili jsme proň železo"
+        },
+        {
+            "chapter": 34,
+            "verse": 11,
+            "text": "(řkouce): ,,Rob brnění a uspořádávej kruhy (jeho): a konejte dobro, neb já to, co konáte, (dobře) obzírám.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 12,
+            "text": "A (podmanili jsme) Šalamounovi vítr: jitřní (vanutí) jeho trvalo měsíc a i večerní (vanutí) jeho trvalo měsíc: a dali jsme vyvříti mu pramen tekuté mosazi: a mezi Džinny byli někteří, kdož pracovali pod dozorem jeho z dovolení Pána jeho a kterémukoliv z nich, jenž odchýlil se od rozkazu našeho, okusiti dáme trestu plamene"
+        },
+        {
+            "chapter": 34,
+            "verse": 13,
+            "text": "Konali proň, cokoliv chtěl z vysokých kleneb a soch; a tácy jak nádrže (napájecí) a kotly (k vaření) pevně spájené. Čiň, rode Davidův, díky!, neb málo jest služebníků mích vděčných"
+        },
+        {
+            "chapter": 34,
+            "verse": 14,
+            "text": "A když usoudili jsme mu smrt, nic neukazovalo na to, že jest mrtev, vyjma živočicha zemského, jenž hryzl hůl (jej podpírající). A když spadl, bylo jasno Džinnům, že kdyby znali věci skryté, nebylo by jim bývalo dlíti tak dlouho v trestu potupném"
+        },
+        {
+            "chapter": 34,
+            "verse": 15,
+            "text": "Obyvatelé SABY měli pak v sídle svém znamení: dvé zahrad, (jednu) se strany pravé a (druhou) se strany levé: „Požívejte z výživy, dané vám Pánem vaším a buďte mu vděčni: krásnou máte zemi a Pána milostivého.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 16,
+            "text": "Však odvrátili se i poslali jsme na ně záplavu hrází a zaměnili jsme dvě zahrady jejich za jiné dvě zahrady, vydávající plody trpké a tamaryšky, a stromů lotusových něco málo"
+        },
+        {
+            "chapter": 34,
+            "verse": 17,
+            "text": "Takto odměnili jsme je za to, že byli nevděčni: však odměníme tak jiné, než nevděčníky"
+        },
+        {
+            "chapter": 34,
+            "verse": 18,
+            "text": "A učinili jsme mezi nimi a mezi městy, jimž požehnali jsme, města patrná a určili jsme v zemi cestu (řkouce): „Cestujte po ní za nocí i za dnů v bezpečí.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 19,
+            "text": "Však řekli: „Pane náš, učiň delšími cesty naše“ a tak prohřešili se proti sobě samým. I učinili jsme je příslovečnými a rozervali je úplným rozerváním: zajisté v tomto jest znamení pro všechny trpělivě vyčkávající a vděčné"
+        },
+        {
+            "chapter": 34,
+            "verse": 20,
+            "text": "A shledal Iblís, že správným byl jeho, úsudek o nich; i následovali jej všichni, vyjma hloučku věřících"
+        },
+        {
+            "chapter": 34,
+            "verse": 21,
+            "text": "Ale neměl nad nimi jiné moci, než oné, jíž bychom rozeznati mohli ty, kdož uvěřili v život budoucí, od těch, kdož byli v pochybnostech o něm: a Bůh všechny věci střeže"
+        },
+        {
+            "chapter": 34,
+            "verse": 22,
+            "text": "Rci: „Zavolejte na ty, jež mníte (býti) vedle Boha: vězte, že nemají moci ani nad tím, co obnáší váha zrnéčka, na nebi a na zemi: aniž mají podílu jakého ve (stvoření) obou, aniž má Bůh mezi nimi pomocníka.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 23,
+            "text": "Neprospěje nijaká přímluva u Boha, leda tomu, jemuž dovolí (Bůh): teprve když zbavena budou srdce jejich strachu, řeknou: „Co řekl Pán váš?“ Řeknou: „Pravdu.“ A on nejvyšší jest, velký"
+        },
+        {
+            "chapter": 34,
+            "verse": 24,
+            "text": "Rci: „Kdo vyživuje vás s nebes i ze země?“ Rci: „Bůh. A buď my, či vy jste na (správné) cestě, aneb v bloudění zjevném.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 25,
+            "text": "Rci: „Nebudete tázáni ohledně provinění našich a my nebudeme tázáni ohledně toho, co vy činíte.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 26,
+            "text": "Rci: „Shromáždí nás všechny Pán nás a pak rozsoudí mezi námi dle pravdy: neb on jest Rozsuzovatel, Vševědoucí.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 27,
+            "text": "Rci: „Ukažte mi ty, jež připojili jste k němu co společníky! Nikoliv! Naopak on jest Bůh, mocný, moudrý.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 28,
+            "text": "A poslali jsme tě nejinak, než abys všem lidem hlásal zvěst radostnou a varoval je: však většina lidí není si toho vědoma"
+        },
+        {
+            "chapter": 34,
+            "verse": 29,
+            "text": "A říkají: „Kdy (naplní se) onen slib, jste-li pravdomluvnými?“"
+        },
+        {
+            "chapter": 34,
+            "verse": 30,
+            "text": "Rci: „Vám bude dostaviti se (jednoho) dne, jehož příchod ani nezpozdíte o hodinu, aniž uspíšíte.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 31,
+            "text": "A říkají ti, kdož neuvěřili: „Neuvěříme v tento Korán, ani v to, co bylo již zjeveno.“ Však kdybys jen mohl viděti nepravostné, ani státi budou před Pánem svým a metati jeden na druhého slova (výčitek)! I říkati budou ti, kdož slabými byli, k mocným: „Nebýti vás, byli bychom uvěřili.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 32,
+            "text": "A řeknou ti, kdož mocnými byli k slabým: „Zdaž my jsme odvrátili vás od (pravého) vedení poté, když přišlo vám? Naopak: vy sami toho nesete vinu!“"
+        },
+        {
+            "chapter": 34,
+            "verse": 33,
+            "text": "A řeknou ti, kdož slabými byli, k mocným: „Naopak, byla to lest (vaše) za noci a za dne, když nabádali jste nás, abychom nevěřili v Boha a abychom činili mu rovné.“ A skrývati budou lítost svou, když spatří muka svá. A řetězy obtěžkáme šíje těch, kdož neuvěřili: zdaž jinak budou odměněni, než dle toho, co činili"
+        },
+        {
+            "chapter": 34,
+            "verse": 34,
+            "text": "A neposlali jsme nikdy městu varovatele, aniž by nebyli řekli přebytku těšící se v něm: „Myť zajisté v to, s čím posláni jste byli, nevěříme.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 35,
+            "text": "A říkali: „My bohatšími jsme statky i dětmi a nebudeme ztrestáni.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 36,
+            "text": "Rci: „Zajisté Pán můj hojně obdarovává (výživou) koho chce, aneb odměřuje (dary své): však většina lidí není si toho vědoma.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 37,
+            "text": "A nebudou to statky a děti vaše, jimiž dostanete se blíže k nám: však jen těm, kdož uvěřili a konali dobré skutky, dostane se odměny dvojnásobné za to, co konali: a oni (v povýšených) komnatách ráje bezpečni budou"
+        },
+        {
+            "chapter": 34,
+            "verse": 38,
+            "text": "Však ti, kteří snaží se znemožniti znamení naše, v trest svůj uvedeni budou"
+        },
+        {
+            "chapter": 34,
+            "verse": 39,
+            "text": "Rci: „Zajisté Pán můj hojně obdarovává (výživou), koho chce ze služebníků svých, aneb odměřuje (dary své): a cokoliv vydáte almužnou, zpět bude vám dáno, neb on nejlepším jest ze všech obdarovatelů"
+        },
+        {
+            "chapter": 34,
+            "verse": 40,
+            "text": "Jednoho dne pak shromáždí je Bůh všechny, i řekne andělům: „Zdaž onino vás uctívali?“"
+        },
+        {
+            "chapter": 34,
+            "verse": 41,
+            "text": "Řeknou (andělé): „Chválen budiž! Tys spojencem naším, ne oni. Naopak, uctívali Džinny: většina jich v ně věřila“"
+        },
+        {
+            "chapter": 34,
+            "verse": 42,
+            "text": "V den onen nebudete s to, navzájem přičiniti si ani užitku, ani škody: a řekneme k těm, kdož nepravostni byli: „Okuste trestu ohně, jejž vylhanými jste nazývali.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 43,
+            "text": "A když čtena jsou jim znamení naše jasná, říkají: „Totoť jest pouze muž, jenž chce odvrátiti vás od toho, co uctívali otcové vaši“ a říkají: „Totoť pouze lež jest, jím vymyšlená,“ a říkají ti, kdož neuvěřili, o pravdě, když předvedena jim jest: „Totoť zajisté jest jen kouzelnictví zjevné.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 44,
+            "text": "A nedali jsme jim nijakých knih, z nichž by se učili, aniž poslali jsme jim před tebou varovatele"
+        },
+        {
+            "chapter": 34,
+            "verse": 45,
+            "text": "A také ti, kdož byli před nimi, nazývali lháři proroky naše: a (oni) nedosáhli ani desetiny z toho, co dali jsme jim. Ale lháři nazývali proroky mé; pročež jak zlý byl trest můj"
+        },
+        {
+            "chapter": 34,
+            "verse": 46,
+            "text": "Rci: „Radím vám pouze jedno: abyste postavili se před Boha, po dvou, aneb po jednom a pak rozvážili si: není soudruh váš posedlý Džinnem: onť pouze jest varovatelem vám před nedalekým trestem přísným.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 47,
+            "text": "Rci: „Nežádám si od vás odměny, neboť odměna má záleží jen od Boha a on všech věcí jest svědkem.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 48,
+            "text": "Rci: „Zajisté Pán můj vysílá jen pravdu; onť velmi dobře zná věci skryté.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 49,
+            "text": "Rci: „Přišla pravda a neobjeví se marnost a nevrátí se.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 50,
+            "text": "Rci: „Zbloudil-li jsem, pak jen ke vlastní škodě bloudím: a jsem-li veden cestou (pravou), jest to ze vnuknutí Pána mého, neboť zajisté on vše slyší a jest blízek.“"
+        },
+        {
+            "chapter": 34,
+            "verse": 51,
+            "text": "A kdybys viděl, jak třásti budou se (bázní) a nebude jim východiska: a jak jati budou z místa blízkého"
+        },
+        {
+            "chapter": 34,
+            "verse": 52,
+            "text": "A řeknou (pak): „Uvěřili jsme v něho.“ Ale jak dosáhnou (víry) z místa dálného"
+        },
+        {
+            "chapter": 34,
+            "verse": 53,
+            "text": "když nevěřili v něho před tím a vrhali posměšky na věci skryté z místa dálného"
+        },
+        {
+            "chapter": 34,
+            "verse": 54,
+            "text": "A přehrada bude mezi nimi a tím, po čem toužiti budou: jakž učiněno bylo s podobnými jim před tím; neb zajisté byli v pochybnostech váhavých"
+        },
+        {
+            "chapter": 35,
+            "verse": 1,
+            "text": "Chvála Bohu, STVOŘITELI nebes i země, jenž činí ANDĚLY posly svými: anděly, mající křídel dvé, neb tré, neb čtvero párů. Onť přidává stvoření svému, co chce: neboť Bůh zajisté nade všemi věcmi moc má"
+        },
+        {
+            "chapter": 35,
+            "verse": 2,
+            "text": "Cokoliv Bůh popřeje lidem z milosrdenství svého, nikdo nemůže jim odebrati, a cokoliv Bůh odebéře z něho, nikdo nemůže poslati poté: a on mocný jest, moudrý"
+        },
+        {
+            "chapter": 35,
+            "verse": 3,
+            "text": "Ó lidé, pomněte dobrodiní daných vám Bohem! Což jiného jest Stvořitele, vyjma Boha? On vyživuje vás s nebe a ze země: není Boha, kromě něho: jak tedy můžete (tak) lháti"
+        },
+        {
+            "chapter": 35,
+            "verse": 4,
+            "text": "A nazývají-li tě lhářem, věz, že lháři nazýváni byli proroci před tebou: a k Bohu navráceny budou (všechny) věci"
+        },
+        {
+            "chapter": 35,
+            "verse": 5,
+            "text": "Ó lidé, slib boží jest pravdivý, i nedejte oklamati se životem pozemským a nedejte oklamati se ohledně Boha klamatelem"
+        },
+        {
+            "chapter": 35,
+            "verse": 6,
+            "text": "Dojista Satan jest nepřítelem vám a proto považujte jej za nepřítele: on jen volá spojence své k sobě, aby stali se obyvateli ohně pekelného"
+        },
+        {
+            "chapter": 35,
+            "verse": 7,
+            "text": "Těm, kdož neuvěřili, dán bude trest přísný: však těm, kdož uvěřili a konali dobré skutky, dáno bude odpuštění a odměna hojná"
+        },
+        {
+            "chapter": 35,
+            "verse": 8,
+            "text": "Zdaž ten, jemuž zkrášleno bylo zlo konání jeho, takže vidí je dobrým, (bude jako muž dobrý)? Ale Bůh zavádí v blud, koho chce, a vede (pravou) cestou koho chce; nenič tedy duše své pro ně nářkem, neboť Bůh zajisté dobře ví o tom, co konají"
+        },
+        {
+            "chapter": 35,
+            "verse": 9,
+            "text": "Bůh jest to, jenž posílá větry, aby zdvihaly mračna: pak ženeme je ke zmrtvělé končině a křísíme vodou zemi zmrtvělou. Stejně tak bude vzkříšení (mrtvých)"
+        },
+        {
+            "chapter": 35,
+            "verse": 10,
+            "text": "Žádá-li si kdo moci, (věziž), že moc veškerá jest u Boha: k němu stoupá slovo dobré a činy dobré on k sobě pozdvihuje. Těm pak, kdož lstivě vymýšlejí zlé skutky, dán bude trest přísný: a lest těchto on uvede niveč"
+        },
+        {
+            "chapter": 35,
+            "verse": 11,
+            "text": "Bůh stvořil vás z prachu, poté z kapky (semene): pak učinil vás dvěma pohlavími: a nenosí, aniž porodí čeho samice bez vědomí jeho: a nestárne stařec, aniž co odejmuto jest ze stáří jeho, aby nebylo to v Knize: toto pak Bohu jest snadným"
+        },
+        {
+            "chapter": 35,
+            "verse": 12,
+            "text": "A nejsou si rovna obě moře: jedno jest sladké, čerstvé a snadné k pití; druhé jest solné, hořké — nicméně z obou požíváte masa (ryb) čerstvých a lovíte z nich předměty k ozdobě, jimiž se odíváte: a vidíš lodi, brázdící vlny jejich, aby hledali jste si podílu z milosti Boha a abyste mu za to byli vděčni"
+        },
+        {
+            "chapter": 35,
+            "verse": 13,
+            "text": "Onť dává vcházeti noci do dne a dává vcházeti dnu do noci: a podmanil (řádu) slunce i měsíc, takže oba pohybují se dle lhůty předurčené; totoť jest Bůh, Pán váš: jemu přináleží moc veškerá a ti, jež vzýváte vedle něho, nemají v moci ani co obnáší slupka jádra datlového"
+        },
+        {
+            "chapter": 35,
+            "verse": 14,
+            "text": "Budete-li volati k nim, nebudou slyšeti volání vašeho: a i kdyby slyšeli je, nemohli by vyslyšeti vás a v den zmrtvýchvstání zapřou vaše spolčování (jich s Bohem): a nikdo nemůže ti o tom pověděti jako Ten, jenž o všem zpraven jest"
+        },
+        {
+            "chapter": 35,
+            "verse": 15,
+            "text": "Ó lidé, chuďasové jste, (potřebující) Boha: však Bůh jest bohatý, chvályhodný"
+        },
+        {
+            "chapter": 35,
+            "verse": 16,
+            "text": "Kdyby chtěl, mohl by vám dát zajíti a nahraditi vás stvořením novým"
+        },
+        {
+            "chapter": 35,
+            "verse": 17,
+            "text": "a toto nebylo by Bohu nesnadným"
+        },
+        {
+            "chapter": 35,
+            "verse": 18,
+            "text": "A neponese (duše) obtěžkaná břemene duše druhé: a když volati bude (duše) přetížená, aby neseno bylo břímě její, nebude uleveno jí v ničem, i kdyby to byl příbuzný. Varovati pak budeš jen ty, kdož bojí se Pána svého v skrytosti a zachovávají modlitbu: a kdokoliv snaží se býti čistým, činí tak ve prospěch své vlastní duše, neb k Bohu vede cesta (návratu)"
+        },
+        {
+            "chapter": 35,
+            "verse": 19,
+            "text": "Nejsou si rovni slepý a vidoucí"
+        },
+        {
+            "chapter": 35,
+            "verse": 20,
+            "text": "aniž temnoty a světlo"
+        },
+        {
+            "chapter": 35,
+            "verse": 21,
+            "text": "aniž stín a horko"
+        },
+        {
+            "chapter": 35,
+            "verse": 22,
+            "text": "aniž rovni jsou si živí a mrtví: Bůh pak dá slyšeti, komukoliv bude chtíti a ty nedokážeš, aby slyšeli tě oni, kdož v hrobech jsou"
+        },
+        {
+            "chapter": 35,
+            "verse": 23,
+            "text": "neb tys jen varovatelem"
+        },
+        {
+            "chapter": 35,
+            "verse": 24,
+            "text": "Zajisté pak poslali jsme tě v pravdě, jako věštitele (dobré zvěsti) a jako varovatele: a není národa, k němuž by nebyl býval poslán varovatel"
+        },
+        {
+            "chapter": 35,
+            "verse": 25,
+            "text": "A nazývají-li tě lhářem, však již ti, k nimž před nimi přišli proroci jejich s jasnými důkazy a písmy a Knihou zářnou, lháři je nazývali"
+        },
+        {
+            "chapter": 35,
+            "verse": 26,
+            "text": "Poté pak (trestem) postihl jsem ty, kdož neuvěřili, a jak (zlý byl) trest můj"
+        },
+        {
+            "chapter": 35,
+            "verse": 27,
+            "text": "Zdaž nevidíš, jak Bůh seslal s nebe vodu, abychom dali vzrůsti jí plodům různých barev? A že na horách pruhy jsou bílé a červené, odstínů různých, a některé černé"
+        },
+        {
+            "chapter": 35,
+            "verse": 28,
+            "text": "a mezi lidmi, živočichy a dobytčaty nalézají se barvy různé taktéž? Ale Boha bojí se jen služebníci jeho nejmoudřejší: Bůh pak zajisté mocný jest a velký v od-puštění"
+        },
+        {
+            "chapter": 35,
+            "verse": 29,
+            "text": "Zajisté ti, kdož předčítají Knihu boží a zachovávají modlitbu a rozdávají z toho, čímž obdařili jsme je, v skrytosti i veřejně, nadějí se obchodu, jenž nezkazí se"
+        },
+        {
+            "chapter": 35,
+            "verse": 30,
+            "text": "aby Bůh zaplatil jim mzdy jejich a přidal jim z milosti své: onť zajisté velký jest v odpouštění, nejvýš vděčný"
+        },
+        {
+            "chapter": 35,
+            "verse": 31,
+            "text": "A to, co vnuknuli jsme ti z Knihy, jest pravdou, potvrzující to, co zjeveno bylo před tím: zajisté pak Bůh dobře zpraven jest o služebnících svých a obzírá je"
+        },
+        {
+            "chapter": 35,
+            "verse": 32,
+            "text": "Poté pak učinili jsme dědici Knihy ty, jež vyvolili jsme mezi služebníky svými: z nich pak některý prohřešuje se proti vlastní duši své: jiný kolísá (mezi dobrem a zlem): a některý předstihuje v dobrých skutcích (ostatní), z dovolení božího: totoť zajisté milost jest velká"
+        },
+        {
+            "chapter": 35,
+            "verse": 33,
+            "text": "Do zahrad Edenu vstoupí: tam budou pro ně náramky zlaté a perly a oděv jich bude hedvábný"
+        },
+        {
+            "chapter": 35,
+            "verse": 34,
+            "text": "a řeknou: „Chvála Bohu, jenž odejmul od nás zármutek, zajisté Pán náš velký jest v odpouštění, nejvýš vděčný"
+        },
+        {
+            "chapter": 35,
+            "verse": 35,
+            "text": "jenž ubytoval nás v příbytku věčném z milosti své, v němž nedotkne se nás námaha, aniž dotkne se nás únava.“"
+        },
+        {
+            "chapter": 35,
+            "verse": 36,
+            "text": "Však těm, kdož neuvěřili, schystán jest oheň pekelný: nebude usouzeno jim, aby zemřeli a nebude ulehčen jim trest v něm: tak odměňujeme všechny (zatvrzelé) nevěřící"
+        },
+        {
+            "chapter": 35,
+            "verse": 37,
+            "text": "Tam hlasitě volati budou: „Pane náš, vyveď nás odtud a budeme konati dobro, nikoliv to, co konali jsme dříve.“ „Což neprodloužili jsme vám věk váš, aby ten, kdo, rozvážiti si to chtěl, mohl si to rozvážiti? A (mimo to) přišel vám varovatel: pročež okuste nyní muk! Nepravostným není pomocníka.“"
+        },
+        {
+            "chapter": 35,
+            "verse": 38,
+            "text": "Bůh zajisté zná věci skryté nebes i země a on dobře ví, co skrývají nitra"
+        },
+        {
+            "chapter": 35,
+            "verse": 39,
+            "text": "On jest to, jenž učinil vás náměstky svými na zemi: a kdo nevěří, na něho padá nevíra jeho: a nevíra jich rozmnoží pro nevěřící u Pána jejich jenom nenávist: a nevíra jich rozmnoží pro nevěřící pouze záhubu"
+        },
+        {
+            "chapter": 35,
+            "verse": 40,
+            "text": "Rci: „Co míníte o společnících, jež vzýváte vedle Boha? Ukažte mi, co stvořili na zemi, aneb jaký mají podíl v nebesích, aneb dali-li jsme jim knihu, dle níž by měli nějaké jasné důkazy?“ Nikoliv, naopak: a nepravostní slibují si navzájem pouze klam"
+        },
+        {
+            "chapter": 35,
+            "verse": 41,
+            "text": "Bůh zajisté pevně drží nebe i zemi, aby nepominuly a kdyby pomíjely, kdo jiní dovedl by je udržeti, kromě něho Však on laskavý jest a velký v odpouštění"
+        },
+        {
+            "chapter": 35,
+            "verse": 42,
+            "text": "A přisahali při Bohu nejpevnější přísahou, že kdyby přišel jim varovatel, byli by dojista lépe vedeni, než kterýkoli národ jiný: však když přišel jim varovatel, rozhojnil je pouze v prchání"
+        },
+        {
+            "chapter": 35,
+            "verse": 43,
+            "text": "pýše na zemi, a lstivém kutí zla: však ono lstivé kutí zla zaplete v osidla ty, kdož je kují. Očekávají snad jinou zvyklost se strany Boha, než s jakou vystoupil vůči těm, kdož předešli je? Zajisté, že nenajdeš změny ve zvyklostech božích, aniž nalezneš ve zvyklostech božích odchylky"
+        },
+        {
+            "chapter": 35,
+            "verse": 44,
+            "text": "Což necestovali v zemi a neviděli, jak byl konec těch před nimi, již mocnější byli jich mocí? Není ničeho, co znemožniti mohlo by rozkaz Boha na nebi, či na zemi; onť zajisté vševědoucí jest a mocný"
+        },
+        {
+            "chapter": 35,
+            "verse": 45,
+            "text": "Kdyby ztrestati chtěl Bůh lidi za to, co zasloužili si, nenechal by na povrchu (země) ni jednoho živočicha! Však on odkládá s nimi až do lhůty předurčené: a když přijde lhůta jejich, zajisté že Bůh dobře obzírá služebníky své"
+        },
+        {
+            "chapter": 36,
+            "verse": 1,
+            "text": "JÁ. SÍN"
+        },
+        {
+            "chapter": 36,
+            "verse": 2,
+            "text": "Při Koránu moudrém"
+        },
+        {
+            "chapter": 36,
+            "verse": 3,
+            "text": "tyť zajisté s jedním z poslaných"
+        },
+        {
+            "chapter": 36,
+            "verse": 4,
+            "text": "na stezce přímé"
+        },
+        {
+            "chapter": 36,
+            "verse": 5,
+            "text": "Seslání jest to Mocného, Slitovného"
+        },
+        {
+            "chapter": 36,
+            "verse": 6,
+            "text": "abys varoval lid, jichž otcové nebyli varováni i žijí v lhostejnosti"
+        },
+        {
+            "chapter": 36,
+            "verse": 7,
+            "text": "A pronesen byl již rozsudek, nad většinou jich: proto neuvěří"
+        },
+        {
+            "chapter": 36,
+            "verse": 8,
+            "text": "Obtěžkali jsme šíje jejich řetězy, sáhajícími jim až k bradám, takže dozadu sražené jsou hlavy jejich"
+        },
+        {
+            "chapter": 36,
+            "verse": 9,
+            "text": "A učinili jsme před nimi přehradu i za nimi přehradu; a clonou pokryli jsme oči jejich, takže nelze jim viděti"
+        },
+        {
+            "chapter": 36,
+            "verse": 10,
+            "text": "A jedno jest jim, varuješ-li je, či ne: neuvěří"
+        },
+        {
+            "chapter": 36,
+            "verse": 11,
+            "text": "Pouze ty varovati budeš, kdož následují Napomenutí a bojí se Milosrdného v skrytosti: těm zvěstuj odpuštění a odměnu hojnou"
+        },
+        {
+            "chapter": 36,
+            "verse": 12,
+            "text": "Myť zajisté křísíme mrtvé a zapisujeme skutky jejich a stopy jejich: a všechny věci zanášíme v Knize prvotní zjevné"
+        },
+        {
+            "chapter": 36,
+            "verse": 13,
+            "text": "A čiň jim podobenství v obyvatelích města, když přišli k nim poslové"
+        },
+        {
+            "chapter": 36,
+            "verse": 14,
+            "text": "když poslali jsme k nim poslů dvé a lháři nazvali je: i na posilu třetího poslali jsme, a řekli: „Myť zajisté posláni jsme k vám!“"
+        },
+        {
+            "chapter": 36,
+            "verse": 15,
+            "text": "Řekli: „Vy pouze jste lidé jako my a Milosrdný neseslal ničeho. Vy pouze lháři jste.“"
+        },
+        {
+            "chapter": 36,
+            "verse": 16,
+            "text": "Řekli (poslové): „Pán náš ví, že my k vám posláni jsme"
+        },
+        {
+            "chapter": 36,
+            "verse": 17,
+            "text": "a na nás jest pouze hlásání zjevné.“"
+        },
+        {
+            "chapter": 36,
+            "verse": 18,
+            "text": "Řekli: „Poradili jsme se ptakověštbou ohledně vás: a nepřestanete-li, dojista ukamenujeme vás a dojista stihne vás od nás trest bolestný.“"
+        },
+        {
+            "chapter": 36,
+            "verse": 19,
+            "text": "Řekli (poslové): „Vaše (zlá) věštba, zůstane s vámi, i když jste byli napomenuti. Ale vy jste lidem výstřednickým!“"
+        },
+        {
+            "chapter": 36,
+            "verse": 20,
+            "text": "I přiběhl z druhého konce města muž ve spěchu, volaje: „Ó lide můj, následujte poslané"
+        },
+        {
+            "chapter": 36,
+            "verse": 21,
+            "text": "následujte ty, kdož nežádají si od vás odměny a jsou vedeni cestou (pravou)"
+        },
+        {
+            "chapter": 36,
+            "verse": 22,
+            "text": "Proč neměl bych uctívati toho, jenž stvořil mne a k němuž navráceni budete"
+        },
+        {
+            "chapter": 36,
+            "verse": 23,
+            "text": "Zdaž vezmu si vedle něho božstva (jiná)? Chtěl-li pak by Milosrdný přičiniti mi protivenství, neprospěla by mi přímluva jejich pranic, aniž spasiti by mne mohli"
+        },
+        {
+            "chapter": 36,
+            "verse": 24,
+            "text": "Tehdy pak zajisté byl bych v bloudění zjevném"
+        },
+        {
+            "chapter": 36,
+            "verse": 25,
+            "text": "Zajisté uvěřil jsem v Pána našeho: pročež slyšte mne!“"
+        },
+        {
+            "chapter": 36,
+            "verse": 26,
+            "text": "Bylo řečeno mu: „Vejdi v ráj!“ I řekl: „Kéž by jen lid můj věděl"
+        },
+        {
+            "chapter": 36,
+            "verse": 27,
+            "text": "jak odpustil mi Pán můj a jak učinil mne jedním z poctěných!“"
+        },
+        {
+            "chapter": 36,
+            "verse": 28,
+            "text": "A neseslali jsme na lid jeho poté vojska s nebe, aniž co jiného seslali jsme"
+        },
+        {
+            "chapter": 36,
+            "verse": 29,
+            "text": "Pouze jedno vzkřiknutí zaznělo a hle, byli zhubeni"
+        },
+        {
+            "chapter": 36,
+            "verse": 30,
+            "text": "Běda služebníkům mým! Žádný nepřišel jim prorok, aniž by si nebyli smích z něho tropili"
+        },
+        {
+            "chapter": 36,
+            "verse": 31,
+            "text": "Což neviděli, kolik zahladili jsme pokolení před nimi a že zajisté k nim se nenavrátí"
+        },
+        {
+            "chapter": 36,
+            "verse": 32,
+            "text": "Nýbrž že všichni dohromady nám budou předvedeni"
+        },
+        {
+            "chapter": 36,
+            "verse": 33,
+            "text": "Znamením jim jest země zmrtvělá, již křísíme a dáváme vycházeti z ní zrnům (obilným), z nichž pojídají"
+        },
+        {
+            "chapter": 36,
+            "verse": 34,
+            "text": "A učinili jsme na ní zahrady datlovníků a révy vinné, a dali vyvříti na ní pramenům"
+        },
+        {
+            "chapter": 36,
+            "verse": 35,
+            "text": "aby pojídati mohli z plodů (všeho) toho, ač nevytvořily jich ruce jejich. Což nebudou vděčni"
+        },
+        {
+            "chapter": 36,
+            "verse": 36,
+            "text": "Chválen budiž ten, jenž stvořil druhy všechny, ve všem, co vydává země, v nich samých, a v tom, o čem nevědí"
+        },
+        {
+            "chapter": 36,
+            "verse": 37,
+            "text": "Znamením jim jest noc: svlékneme s ní den a hle, v temnotách jsou"
+        },
+        {
+            "chapter": 36,
+            "verse": 38,
+            "text": "A slunce, běžící k sídlu svému: takové jest určení Mocného, Vševědoucího"
+        },
+        {
+            "chapter": 36,
+            "verse": 39,
+            "text": "A měsíc: určili jsme mu období, dokud nezmění se v podobu starého listu palmového"
+        },
+        {
+            "chapter": 36,
+            "verse": 40,
+            "text": "A slunci není dovoleno, aby dostihlo měsíce; aniž noc předstihne den; však oba svou drahou po obloze jdou"
+        },
+        {
+            "chapter": 36,
+            "verse": 41,
+            "text": "A znamením jest jim, že nesli jsme potomstvo jejich v arše přeplněné"
+        },
+        {
+            "chapter": 36,
+            "verse": 42,
+            "text": "a stvořili jsme pro ně (lodi) jí podobné, na nichž plují"
+        },
+        {
+            "chapter": 36,
+            "verse": 43,
+            "text": "a chceme-li, utápíme je, a není vysvoboditele jim, aniž jsou spaseni"
+        },
+        {
+            "chapter": 36,
+            "verse": 44,
+            "text": "leda z milosrdenství našeho, pro těšení se (světu) dočasné"
+        },
+        {
+            "chapter": 36,
+            "verse": 45,
+            "text": "A když řečeno jest jim: „Bojte se toho, co před vámi jest i toho, co jest za vámi, abyste slitování dosáhli,“ (nedbají)"
+        },
+        {
+            "chapter": 36,
+            "verse": 46,
+            "text": "A nepřijde jim znamení ze znamení Pána jejich, aniž by se od něho neodvraceli"
+        },
+        {
+            "chapter": 36,
+            "verse": 47,
+            "text": "A když řečeno jest jim: „Rozdávejte (almužnu) z toho, čímž obdařil vás Bůh,“ říkají ti, kdož neuvěřili, k těm, kteří uvěřili: „Zdaž krmiti budeme ty, jež nakrmil by Bůh, kdyby chtěl? Vyť pouze jste v bludu zjevném.“"
+        },
+        {
+            "chapter": 36,
+            "verse": 48,
+            "text": "A říkají: „Kdy naplní se onen slib, jste-li pravdomluvnými?“"
+        },
+        {
+            "chapter": 36,
+            "verse": 49,
+            "text": "Co čekají jiného, než vzkřiknutí jediné, jež přikvačí na ně, mezitím, co hašteří se"
+        },
+        {
+            "chapter": 36,
+            "verse": 50,
+            "text": "A nebudou s to, aby učinili závěť, aniž k rodině své se navrátí"
+        },
+        {
+            "chapter": 36,
+            "verse": 51,
+            "text": "A zatroubeno bude na roh, a hle, z hrobů svých k Pánu svému vylézati budou"
+        },
+        {
+            "chapter": 36,
+            "verse": 52,
+            "text": "Řeknou: „Běda nám! Kdo vzbudil nás z našeho místa spánku? Totoť jest, co slíbil nám Milosrdný a pravdu měli poslové.“"
+        },
+        {
+            "chapter": 36,
+            "verse": 53,
+            "text": "Pouze jedno vzkřiknutí bude a hle, všichni budou nám předvedeni"
+        },
+        {
+            "chapter": 36,
+            "verse": 54,
+            "text": "A v onen den nebude ukřivděno žádné duši a odměněni budete jen dle toho, co činili jste"
+        },
+        {
+            "chapter": 36,
+            "verse": 55,
+            "text": "V den onen obyvatelé zahrady (rajské) budou zaměstnáni radováním se"
+        },
+        {
+            "chapter": 36,
+            "verse": 56,
+            "text": "Oni a manželky jejich, ve stinném (loubí) na pohovkách odpočívati budou"
+        },
+        {
+            "chapter": 36,
+            "verse": 57,
+            "text": "Tam ovoce budou míti a vše, oč požádají"
+        },
+        {
+            "chapter": 36,
+            "verse": 58,
+            "text": "„Pokoj vám!“ bude pozdrav jim od Pána jejich slitovného"
+        },
+        {
+            "chapter": 36,
+            "verse": 59,
+            "text": "Buďte pak odděleni dnes, ó provinilci"
+        },
+        {
+            "chapter": 36,
+            "verse": 60,
+            "text": "Neučinil jsem s vámi úmluvu, synové Adamovi: „Neuctívejte Satana, neb nepřítelem jest vám zjevným"
+        },
+        {
+            "chapter": 36,
+            "verse": 61,
+            "text": "Nýbrž uctívejte mne: totoť jest stezka přímá"
+        },
+        {
+            "chapter": 36,
+            "verse": 62,
+            "text": "Však on již zavedl v blud vás počet velký: což nepochopili jste toho"
+        },
+        {
+            "chapter": 36,
+            "verse": 63,
+            "text": "Totoť jest peklo, jež slíbeno bylo vám"
+        },
+        {
+            "chapter": 36,
+            "verse": 64,
+            "text": "pecte se v něm dnes za to, že nevěřili jste!“"
+        },
+        {
+            "chapter": 36,
+            "verse": 65,
+            "text": "V den onen zapečetíme ústa jejich: a mluviti budou k nám ruce jejich a dosvědčí nohy jejich to, co konali"
+        },
+        {
+            "chapter": 36,
+            "verse": 66,
+            "text": "A kdybychom chtěli, zaclonili bychom oči jejich; pak o překot pádili by po stezce, však jak viděli by ji"
+        },
+        {
+            "chapter": 36,
+            "verse": 67,
+            "text": "A kdybychom chtěli, dali bychom ztrnouti jim na místech jejich, takže by nebylo lze jim jíti vpřed, aniž vrátiti se"
+        },
+        {
+            "chapter": 36,
+            "verse": 68,
+            "text": "A tomu, jemuž prodloužíme věk, ohneme tělo stářím: což toho nepochopí"
+        },
+        {
+            "chapter": 36,
+            "verse": 69,
+            "text": "A nenaučili jsme jej básnění, aniž jest mu ho třeba. Neb toto jest pouze Napomenutí a Čtení zjevné"
+        },
+        {
+            "chapter": 36,
+            "verse": 70,
+            "text": "aby varován byl jím, kdožkoli živ jest, a aby pronesen jím byl rozsudek nad nevěřícími"
+        },
+        {
+            "chapter": 36,
+            "verse": 71,
+            "text": "Což neviděli, ze stvořili jsme pro ně mezi věcmi, jež urobily ruce naše, dobytčata, nad nimiž vládci jsou"
+        },
+        {
+            "chapter": 36,
+            "verse": 72,
+            "text": "A podrobili jsme jim je: na nich pak jezdí a z nich požívají"
+        },
+        {
+            "chapter": 36,
+            "verse": 73,
+            "text": "a z nich mají užitek (mnohý) a nápoje — což nebudou, nám vděčni"
+        },
+        {
+            "chapter": 36,
+            "verse": 74,
+            "text": "Nicméně vzali si vedle Boha božstva (jiná), aby snad měli pomocníky"
+        },
+        {
+            "chapter": 36,
+            "verse": 75,
+            "text": "(Tato) nejsou s to, aby pomohla jim: a oni jsou jen vojem (pro ně) pohotovým"
+        },
+        {
+            "chapter": 36,
+            "verse": 76,
+            "text": "Nermutiž tě nijak řeč jejich: myť zajisté víme, co tají, i co veřejně přiznávají"
+        },
+        {
+            "chapter": 36,
+            "verse": 77,
+            "text": "Což neviděl člověk, že stvořili jsme jej z kapky (semene): a hle, on protivníkem jest (nám) zjevným"
+        },
+        {
+            "chapter": 36,
+            "verse": 78,
+            "text": "A činí nám podobenství, zapomenuv stvoření své, řka: „Kdo vzkřísí kosti zetlelé?“"
+        },
+        {
+            "chapter": 36,
+            "verse": 79,
+            "text": "Rci: „Vzkřísí je ten, jenž stvořil je po prvé, neb on v tvoření veškerém jest učený"
+        },
+        {
+            "chapter": 36,
+            "verse": 80,
+            "text": "ten, jenž učinil vám ze stromu zeleného oheň: a hle, z něho zapalujete si!“"
+        },
+        {
+            "chapter": 36,
+            "verse": 81,
+            "text": "Což nemá ten, jenž stvořil nebe i zemi, moci, aby stvořil jim podobné? Věru, že ano: onť Stvořitelem jest učeným"
+        },
+        {
+            "chapter": 36,
+            "verse": 82,
+            "text": "Rozkaz jeho, když chce, aby co bylo, jest jen: „Staň se!“ a stane se"
+        },
+        {
+            "chapter": 36,
+            "verse": 83,
+            "text": "Chválen budiž (tedy) ten, v jehož ruce jest vláda nad věcmi všemi a k němuž navráceni budete"
+        }
+    ]
+}

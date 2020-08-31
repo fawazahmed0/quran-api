@@ -540,3 +540,210 @@ we will generate fonts for pdms-saleem-quran.ttf
 BEGIN:
 C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js fontsgen
 fonts.json and fonts.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for am.sadiq
+Generating Edition
+ Generated edition amh-muhammedsadiqan
+Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
+latin script generated for this language
+Creating Latin Script for the language
+Generating diacritical and non diacritical Editions for this langauge
+ Generated edition amh-muhammedsadiqan-lad
+ Generated edition amh-muhammedsadiqan-la
+Starting to create files for ar.jalalayn
+Generating Edition
+ Generated edition ara-jalaladdinalmah
+Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
+Starting to create files for ar.muyassar
+Generating Edition
+ Generated edition ara-kingfahadquranc
+Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js ara-kingfahadquranc
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js delete ara-kingfahadquranc
+ deletion completed for ara-kingfahadquranc
+ deletion completed for ara-kingfahadquranc-la
+ deletion completed for ara-kingfahadquranc-lad
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js delete ara-kingfahadquranc
+ deletion completed for ara-kingfahadquranc
+ deletion completed for ara-kingfahadquranc-la
+ deletion completed for ara-kingfahadquranc-lad
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for az.mammadaliyev
+Generating Edition
+ Generated edition aze-vasimmammadaliy
+Generating non diacritical Edition
+ Generated edition aze-vasimmammadaliy-la
+Starting to create files for az.musayev
+Generating Edition
+ Generated edition aze-alikhanmusayev
+Generating non diacritical Edition
+ Generated edition aze-alikhanmusayev-la
+Starting to create files for ber.mensur
+Generating Edition
+ Generated edition ibo-ramdaneatmansou
+Generating non diacritical Edition
+ Generated edition ibo-ramdaneatmansou-la
+Starting to create files for bg.theophanov
+Generating Edition
+ Generated edition bul-tzvetantheophan
+Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js delete bul-tzvetantheophan
+ deletion completed for bul-tzvetantheophan
+ deletion completed for bul-tzvetantheophan-la
+ deletion completed for bul-tzvetantheophan-lad
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for bn.bengali
+This file bn.bengali seems to be a duplicate copy of ben-muhiuddinkhan.txt
+Starting to create files for bn.hoque
+Generating Edition
+ Generated edition ben-zohurulhoque
+Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
+latin script generated for this language
+Creating Latin Script for the language
+Generating diacritical and non diacritical Editions for this langauge
+ Generated edition ben-zohurulhoque-lad
+ Generated edition ben-zohurulhoque-la
+Starting to create files for bs.korkut
+Generating Edition
+ Generated edition bos-besimkorkut
+Generating non diacritical Edition
+ Generated edition bos-besimkorkut-la
+Starting to create files for bs.mlivo
+Generating Edition
+ Generated edition bos-mustafamlivo
+Generating non diacritical Edition
+ Generated edition bos-mustafamlivo-la
+Starting to create files for cs.hrbek
+Generating Edition
+ Generated edition ces-prekladihrbek
+Generating non diacritical Edition
+ Generated edition ces-prekladihrbek-la
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for cs.nykl
+Generating Edition
+ Generated edition ces-arnykl
+Generating non diacritical Edition
+ Generated edition ces-arnykl-la
+Starting to create files for de.aburida
+Generating Edition
+ Generated edition deu-aburidamuhammad
+Generating non diacritical Edition
+ Generated edition deu-aburidamuhammad-la
+Starting to create files for de.bubenheim
+Generating Edition
+ Generated edition deu-asfbubenheimand
+Generating non diacritical Edition
+ Generated edition deu-asfbubenheimand-la
+Starting to create files for de.khoury
+Generating Edition
+ Generated edition deu-adeltheodorkhou
+Generating non diacritical Edition
+ Generated edition deu-adeltheodorkhou-la
+Starting to create files for de.zaidan
+Generating Edition
+ Generated edition deu-amirzaidan
+Generating non diacritical Edition
+ Generated edition deu-amirzaidan-la
+Starting to create files for dv.divehi
+Generating Edition
+ Generated edition div-officeofthepres
+Please wait trying to generate latin script for this translation, it will take 5-10mins to complete
+Starting to create files for en.ahmedali
+Generating Edition
+ Generated edition eng-ahmedali
+Starting to create files for en.ahmedraza
+Generating Edition
+ Generated edition eng-ahmedrazakhan
+Starting to create files for en.arberry
+Generating Edition
+ Generated edition eng-ajarberry
+Starting to create files for en.daryabadi
+Generating Edition
+ Generated edition eng-abdulmajiddarya
+Starting to create files for en.hilali
+Generating Edition
+ Generated edition eng-muhammadtaqiudd
+Starting to create files for en.itani
+This file en.itani seems to be a duplicate copy of eng-talalitani.txt
+Starting to create files for en.maududi
+Generating Edition
+ Generated edition eng-abulalamaududi
+Starting to create files for en.mubarakpuri
+Generating Edition
+ Generated edition eng-safiurrahmanalm
+Starting to create files for en.pickthall
+Generating Edition
+ Generated edition eng-mohammedmarmadu
+Starting to create files for en.qarai
+Generating Edition
+ Generated edition eng-aliquliqarai
+Starting to create files for en.qaribullah
+Generating Edition
+ Generated edition eng-hasanalfatihqar
+Starting to create files for en.sahih
+This file en.sahih seems to be a duplicate copy of eng-ummmuhammad.txt
+Starting to create files for en.sarwar
+Generating Edition
+ Generated edition eng-muhammadsarwar
+Starting to create files for en.shakir
+Generating Edition
+ Generated edition eng-mohammadhabibsh
+Starting to create files for en.transliteration
+Generating Edition
+ Generated edition eng-englishtranslit
+Starting to create files for en.wahiduddin
+Generating Edition
+ Generated edition eng-wahiduddinkhan
+Starting to create files for en.yusufali
+Generating Edition
+ Generated edition eng-abdullahyusufal
+Starting to create files for es.bornez
+Generating Edition
+ Generated edition spa-raulgonzalezbor
+Generating non diacritical Edition
+ Generated edition spa-raulgonzalezbor-la
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+Starting to create files for en.itani
+This file en.itani seems to be a duplicate copy of eng-talalitani.txt
+Starting to create files for en.sahih
+This file en.sahih seems to be a duplicate copy of eng-ummmuhammad.txt
+editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js delete eng-englishtranslit
+ deletion completed for eng-englishtranslit
+ deletion completed for eng-englishtranslit-la
+ deletion completed for eng-englishtranslit-lad
+editions.json and editions.min.json generated

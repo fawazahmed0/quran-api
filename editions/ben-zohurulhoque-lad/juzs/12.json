@@ -1,0 +1,854 @@
+{
+    "juzs": [
+        {
+            "chapter": 11,
+            "verse": 6,
+            "text": "Āra pr̥thibītē ēmana kōna prāṇī nē'i yāra jībikāra bhāra āllāh‌ra uparē naẏa, āra tini'i jānēna tāra bāsasthāna ō tāra biśrāmasthala. Saba'i āchē ēka suspaṣṭa granthē."
+        },
+        {
+            "chapter": 11,
+            "verse": 7,
+            "text": "Āra tini'i sē'ijana yini mahākāśamanḍalī ō pr̥thibī sr̥ṣṭi karēchēna chaẏa dinē, āra tām̐ra āraśa raẏēchē pānira uparē, yēna tini tōmādēra yācā'i karatē pārēna yē tōmādēra madhyē kē ācaraṇē śrēṣṭha. Āra yadi tōmākē balatē haẏa -- ''niḥsandēha mr̥tyura parē tōmādēra punarut'thita karā habē’’, yārā abiśbāsa karē tārā niścaẏa balabē -- ''ē tō spaṣṭataḥ jādu ba'i naẏa.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 8,
+            "text": "Āra yadi tādēra thēkē nirdiṣṭa kāla paryanta āmarā śāsti sthagita rākhi tabē tārā niścaẏa'i balabē -- ''kisē ēkē bādhā dicchē?’’ Ēṭi ki naẏa yē yēdina tādēra nikaṭē ē āsabē sēdina tādēra thēkē ēṭi pratihata habē nā, āra yā niẏē tārā ṭhāṭṭā-bidrūpa karachila tā'i tādēra ghērā'ō karabē"
+        },
+        {
+            "chapter": 11,
+            "verse": 9,
+            "text": "āra yadi āmarā mānūṣakē āmādēra thēkē karuṇāra āsbāda karā'i ō parē tāra thēkē tā niẏē ni'i, tāhalē sē niścaẏa'i habē hatāśbāsa, akr̥tajña."
+        },
+        {
+            "chapter": 11,
+            "verse": 10,
+            "text": "Āra yadi āmarā tākē anugrahēra āsbāda karā'i duḥkha-kaṣṭa tākē sparśa karāra parē sē takhana balē'i thākē -- ''āmāra thēkē bipada-āpada kēṭē gēchē.’’ Niḥsandēha sē ullasita, ahaṅkārī"
+        },
+        {
+            "chapter": 11,
+            "verse": 11,
+            "text": "tārā chāṛā yārā dhairyadhāraṇa karē ō saṯkarma karē, ērā'i -- ēdēra jan'ya raẏēchē paritrāṇa ō mahāpuraskāra."
+        },
+        {
+            "chapter": 11,
+            "verse": 12,
+            "text": "Tumi ki tabē parityāgakārī habē tōmāra kāchē yā pratyādiṣṭa haẏēchē tāra kichu anśa, āra tōmāra bakṣa ēra dbārā saṅkucita karabē yēhētu tārā balē -- ''tāra kāchē kēna kōnō dhanabhānḍāra pāṭhānō haẏa nā athabā tāra saṅgē kōnō phiriś‌tā āsē nā?’’ Niḥsandēha tumi tō ēkajana satarkakārī. Āra āllāh saba-kichura uparē karṇadhāra."
+        },
+        {
+            "chapter": 11,
+            "verse": 13,
+            "text": "Athabā tārā ki balē -- ''sē ēṭi bāniẏēchē?’’ Balō -- ''tāhalē ēra mata daśaṭi bānānō sūrā niẏē ēsa, āra āllāh‌kē chēṛē diẏē yākē pāra ḍākō, yadi tōmarā satyabādī ha'ō.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 14,
+            "text": "Āra yadi tārā tōmādēra prati sāṛā nā dēẏa tabē jēnē rēkhō -- ē abaśya'i abatīrṇa haẏēchē āllāh‌ra jñānabhānḍāra thēkē, āra tini chāṛā an'ya upāsya nē'i. Tōmarā ki tabē ā‌tmasamarpaṇakārī habē nā"
+        },
+        {
+            "chapter": 11,
+            "verse": 15,
+            "text": "yē kē'u pārthiba jībana ō ēra śōbhā-saundarya kāmanā karē tādēra kriẏākarmēra jan'ya ēkhānē'i āmarā tādēra purōpuri pratiphala pradāna kari, āra ē byāpārē tārā kṣatisādhita habē nā."
+        },
+        {
+            "chapter": 11,
+            "verse": 16,
+            "text": "Ērā'i tārā yādēra jan'ya parakālē āguna chāṛā āra kichu'i nē'i, āra tārā yā karēchē tā sēkhānē br̥thā yābē, āra tārā yā karē yācchila sē-saba'i nirarthaka."
+        },
+        {
+            "chapter": 11,
+            "verse": 17,
+            "text": "Tabē ki yē raẏēchē tāra prabhura kāchē thēkē spaṣṭa-pramāṇēra uparē pratiṣṭhita ēbaṁ tām̐ra kācha thēkē ēkajana sākṣī tā pāṭha karēna, āra ēra āgē musāra grantha pathanirdēśaka ō karuṇāsbarūpa? Ērā ētē biśbāsa karē. Āra dalagulōra madhyēra yē ētē abiśbāsa pōṣaṇa karē tāra prati‌śruta sthāna tabē āguna, ata'ēba tumi ē-sanbandhē sandēhē thēkō nā. Niḥsandēha ēṭi tōmāra prabhura kācha thē kē dhrubasatya, kintu bēśirabhāga lōkē'i biśbāsa karē nā."
+        },
+        {
+            "chapter": 11,
+            "verse": 18,
+            "text": "Āra kē tāra cā'itē bēśī an'yāẏakārī yē āllāh sanbandhē mithyā racanā karē? Ēdēra ānā habē tādēra prabhura sāmanē, āra sākṣīgaṇa balabē -- ''ērā'i tārā yārā tādēra prabhura birud'dhē mithyā ārōpa karēchila.’’ Ēmana ki naẏa yē āllāh‌ra asantaṣṭi yālimadēra uparē"
+        },
+        {
+            "chapter": 11,
+            "verse": 19,
+            "text": "yārā āllāh‌ra patha thēkē phiriẏē rākhē ēbaṁ ēkē karatē cāẏa kuṭila? Āra ērā nijērā'i parakāla sanbandhē abiśbāsī."
+        },
+        {
+            "chapter": 11,
+            "verse": 20,
+            "text": "Ērā pr̥thibītē pratihata karatē pārata nā, āra tādēra jan'ya āllāh‌kē chēṛē diẏē kōnō abhibhābaka nē'i. Tādēra jan'ya śāsti dbiguṇa karā habē. Tārā śōnā sahya karatē pārata nā, āra tārā dēkhatē'ō pārata nā."
+        },
+        {
+            "chapter": 11,
+            "verse": 21,
+            "text": "Ērā'i tārā yārā tādēra antarā‌tmāra kṣatisādhana karēchē, āra yā tārā udbhābana karēchila tā tādēra thēkē bidāẏa niẏēchē."
+        },
+        {
+            "chapter": 11,
+            "verse": 22,
+            "text": "Sandēha nē'i yē parakālē tārā nijērā abaśya'i habē saba cā'itē kṣatigrasta."
+        },
+        {
+            "chapter": 11,
+            "verse": 23,
+            "text": "Niḥsandēha yārā biśbāsa karē ō saṯkarma karē, ēbaṁ binaẏābanata haẏa tādēra prabhura kāchē, -- tārā'i bēhēśatēra bāsindā, ētē tārā thākabē cirakāla."
+        },
+        {
+            "chapter": 11,
+            "verse": 24,
+            "text": "Dala duṭira upamā hacchē andha ō badhirēra ēbaṁ cakṣuṣmāna ō śrabaṇaśaktimānēra matō, -- ubhaẏa ki tulanāẏa samāna-samāna? Tabu'ō ki tōmarā manōnibēśa karabē nā"
+        },
+        {
+            "chapter": 11,
+            "verse": 25,
+            "text": "Āra niścaẏa'i āmarā nūhakē pāṭhiẏēchilāma tām̐ra sampradāẏēra kāchē, ''niḥsandēha āmi tōmādēra jan'ya ēkajana satarka kārī"
+        },
+        {
+            "chapter": 11,
+            "verse": 26,
+            "text": "yēna tōmarā āllāh chāṛā kārō upāsanā karabē nā. Niḥsandēha āmi āśaṅkā kari tōmādēra jan'ya marmantuda dinēra śāsti.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 27,
+            "text": "Kintu tām̐ra sampradāẏēra madhyēra yārā abiśbāsa karēchila tādēra pradhānarā balalē -- ''āmarā tō tōmākē āmādēra matō ēkajana mānuṣa ba'i dēkhachi nā, āra āmarā tōmākē dēkhachi nā yē tōmākē tārā chāṛā ēmana an'ya kē'u anusaraṇa karachē yārā hacchē prathama dr̥ṣṭitē'i āmādēra madhyē adhama, āra āmarā tōmādēra madhyē āmādēra cā'itē kōnō guṇapanā'ō dēkhachi nā, baraṁ āmarā tōmādēra manē kari mithyābādī.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 28,
+            "text": "Tini balalēna -- ''hē āmāra sampradāẏa! Tōmarā ki bhēbē dēkhēcha -- āmi yadi āmāra prabhura kācha thēkē spaṣṭa-pramāṇē pratiṣṭhita thāki ēbaṁ tini yadi āmākē tām̐ra tarapha thēkē anugraha pradāna karē thākēna, athaca tōmādēra kāchē ēṭi jhāpasā haẏē gēchē, āmarā ki tabē ēṭitē tōmādēra bādhya karatē pāri yakhana tōmarā ēra prati birūpa"
+        },
+        {
+            "chapter": 11,
+            "verse": 29,
+            "text": "āra hē āmāra sampradāẏa! Ēra binimaẏē āmi tōmādēra kāchē dhanadaulata cā'i nā. Āmāra śramaphala kēbala āllāh‌ra kāchē'i raẏēchē, āra yārā biśbāsa karēchē tādēra āmi tāṛiẏē'ō dēbāra na'i. Niḥsandēha tādēra prabhura kāchē tārā mulākāta karatē yācchē, kintu āmi tōmādēra dēkhachi ēkaṭi ajñānatākuśala sampradāẏa."
+        },
+        {
+            "chapter": 11,
+            "verse": 30,
+            "text": "Āra hē āmāra sampradāẏa! Kē āmākē sāhāyya karabē āllāh‌ra birud'dhē yadi āmi tādēra tāṛiẏē di'i? Tōmarā ki tabē bhēbē dēkhabē nā"
+        },
+        {
+            "chapter": 11,
+            "verse": 31,
+            "text": "Āra āmi tōmādēra bali nā -- āmāra kāchē āllāh‌ra dhanabhānḍāra raẏēchē, āra āmi adr̥śya sanbandhē'ō jāni nā, āra āmi bali nā yē āmi tō ēkajana phiriś‌tā, āra tōmādēra cōkhē yādēra nagaṇya bhāba tādēra sanbandhē āmi bali nā yē āllāh kakhanō tādēra karuṇābhānḍāra dēbēna nā. Āllāh bhāla jānēna yā-kichu āchē tādēra antarē, -- tāhalē āmi ālabaṯ an'yāẏakārīdēra madhyēkāra hatāma.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 32,
+            "text": "Tārā balalē -- ''hē nūh‌! Tumi abaśya'i āmādēra saṅgē bitarka karacha āra āmādēra saṅgē tarka bāṛiẏē tulēcha, sutarāṁ āmādēra kāchē niẏē ēsa yāra bhaẏa āmādēra dēkhāccha, yadi tumi satyabādīdēra madhyēkāra ha'ō.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 33,
+            "text": "Tini balalēna -- ''śudhu āllāh‌i tōmādēra uparē tā niẏē āsabēna yadi tini icchā karēna, āra tōmarā ēṛiẏē yābāra na'ō."
+        },
+        {
+            "chapter": 11,
+            "verse": 34,
+            "text": "Āra āmāra upadēśa tōmādēra upakāra karabē nā yadi'ō āmi cā'i tōmādēra upadēśa ditē, yadi āllāh cāna yē tini tōmādēra bibhrānta karabēna. Tini'i tōmādēra prabhu, āra tām̐ra kāchē'i tōmādēra phiriẏē ānā habē.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 35,
+            "text": "Athabā tārā'ō ki balē -- ''tini ēṭi bāniẏēchēna?’’ Balō -- ''yadi āmi ēṭi bāniẏē thāki tabē āmāra uparē'i āmāra aparādha, āra tōmarā yē-saba aparādha karacha sē-saba thēkē āmi niṣkr̥ta.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 36,
+            "text": "Āra nūhēra kāchē pratyādēśa dēẏā hala -- ''niḥsandēha tōmāra sampradāẏēra madhyē thēkē kē'u kakhana'ō biśbāsa karabē nā sē byatīta yē itimadhyē biśbāsa karēchē, sutarāṁ tārā yā karē calēchē tāra jan'ya duḥkha kara nā."
+        },
+        {
+            "chapter": 11,
+            "verse": 37,
+            "text": "Āra āmādēra cōkhēra sāmanē ō āmādēra pratyādēśa matē jāhāja tairi kara, āra yārā atyācāra karēchē tādēra sanbandhē āmāra kāchē ābēdana kara nā, niḥsandēha tārā nimajjita habē.”"
+        },
+        {
+            "chapter": 11,
+            "verse": 38,
+            "text": "Āra tini jāhāja tairi karatē lāgalēna, āra yakhana'i tām̐ra sampradāẏēra pradhānērā tām̐ra pāśa diẏē yētō tārā tām̐ra prati upahāsa karata. Tini balēchilēna -- ''yadi tōmarā āmādēra sanbandhē hāsāhāsi kara tabē āmarā'ō tōmādēra sanbandhē tēmani hāsaba yēmana tōmarā hāsacha."
+        },
+        {
+            "chapter": 11,
+            "verse": 39,
+            "text": "Sutarāṁ acirē'i tōmarā jānatē pārabē kāra uparē śāsti āsachē yā tākē lāñchita karē, āra kāra uparē nāmachē sthāẏī śāsti."
+        },
+        {
+            "chapter": 11,
+            "verse": 40,
+            "text": "Yē paryanta nā āmādēra ādēśa ēla ēbaṁ māṭaghāṭa plābita hala, āmarā balalāma -- ''ētē bōjhā'i kara pratyēka jātēra duṭi -- ēka jōṛā, ēbaṁ tōmāra paribāra -- tākē chāṛā yāra birud'dhē sid'dhānta bartita haẏēchē, āra yārā biśbāsa karēchē tādēra.’’ Āra yārā tām̐ra saṅgē biśbāsa karēchila tārā tō sbalpasaṅkhyaka."
+        },
+        {
+            "chapter": 11,
+            "verse": 41,
+            "text": "Āra tini balalēna -- ''ētē ārōhaṇa kara, āllāh‌ra nāmē hōka ēra yātrā ō ēra paum̐chā, niḥsandēha āmāra prabhu tō paritrāṇakārī, aphuranta phaladātā.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 42,
+            "text": "Āra tādēra niẏē ēṭi baẏē calalō pāhāṛēra mata ḍhē'uẏēra madhya diẏē, āra nūha tām̐ra putrakē ḍēkē balalēna āra sē ḍāṅāẏa raẏēchila, -- ''hē āmāra putra! Āmādēra saṅgē caṛa, āra abiśbāsīdēra saṅgī haẏō nā.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 43,
+            "text": "Sē balalē -- ''āmi ēkhani kōnō pāhāṛē āśraẏa nēba, tā āmākē plābana thēkē rakṣā karabē.’’ Tini balalēna -- ''ājakēra dinē āllāh‌ra hukuma thēkē rakṣā karāra kē'u nē'i, śudhu sē yākē tini daẏā karabēna.’’ Āra tādēra ubhaẏēra madhyē ḍhē'u ēsē paṛala, phalē sē haẏē gēla nimajjitadēra antarbhukta."
+        },
+        {
+            "chapter": 11,
+            "verse": 44,
+            "text": "Ērapara balā hala -- ''hē pr̥thibī. Tōmāra jala śōṣaṇa karē nā'ō, āra hē ākāśa! Kṣānta ha'ō.’’ Takhana jala śukiẏē ēṭi judī parbatēra uparē thāmala, āra balā hala -- ''dūra hōka an'yāẏakārigōṣṭhī!’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 45,
+            "text": "Āra nūh tām̐ra prabhukē ḍākalēna ō balalēna -- ''āmāra prabhu! Āmāra putra ālabaṯ āmāra paribārabhukta āra tōmāra ōẏādā niḥsandēha satya, āra tumi bicārakadēra madhyē śrēṣṭha bicāraka.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 46,
+            "text": "Tini balalēna -- ''hē nūha! Niḥsandēha sē tōmāra paribārabhukta naẏa. Niḥsandēha tāra kājakarma saṯkarmēra bar'hibhūta, kājē'i āmāra kāchē sa'ōẏāla kara nā yē-sanbandhē tōmāra kōnō jñāna nē'i. Āmi abaśya'i tōmākē upadēśa dicchi -- pāchē tumi ajñadēra antarbhukta haẏē paṛa.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 47,
+            "text": "Tini balalēna -- ''āmāra prabhu! Āmi abaśya'i tōmāra kāchē āśraẏa cā'ichi pāchē yē byāpārē āmāra kōnō jñāna nē'i sē- sanbandhē tōmāra kāchē prārthanā karē phēli. Āra tumi yadi āmākē rakṣā nā kara ō āmāra prati karuṇā nā darśā'ō tabē āmi kṣatigrastadēra antarbhukta haẏē yāba.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 48,
+            "text": "Balā hala -- ''hē nūha! Abataraṇa kara āmādēra thēkē śāntira sāthē, āra tōmāra uparē ō tōmāra sāthē yārā raẏēchē tādēra sampradāẏēra uparē āśīrbāda niẏē. Āra ēmana jātirā'ō habē yādēra āmarā acirē'i jībanōpakaraṇa dēba, tārapara āmādēra thēkē marmantuda śāsti tādēra sparśa karabē.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 49,
+            "text": "Ēsaba hacchē adr̥śya sanbandhē sambāda yā āmarā tōmāra kāchē pratyādēśa karachi. Tumi ēra āgē ē-saba jānatē nā -- tumi'ō nā, tōmāra sampradāẏa'ō nā. Ata'ēba adhyabasāẏa abalanbana kara. Niḥsandēha śubhapariṇāma dharmabhīrudēra'i jan'yē."
+        },
+        {
+            "chapter": 11,
+            "verse": 50,
+            "text": "Āra'āda-ēra kāchē tādēra bhā'i hūdakē. Tini balalēna -- ''hē āmāra sampradāẏa! Āllāh‌ra upāsanā kara, tōmādēra jan'ya tini chāṛā an'ya upāsya nē'i. Tōmarā tō śudhu mithyā racanākārī."
+        },
+        {
+            "chapter": 11,
+            "verse": 51,
+            "text": "Hē āmāra sampradāẏa! Āmi ēra jan'ya tōmādēra kāchē kōnō pratidāna cā'ichi nā. Āmāra śramaphala kēbala tām̐ra kāchē yini āmākē sr̥ṣṭi karēchēna. Tōmarā ki tabē bujhabē nā"
+        },
+        {
+            "chapter": 11,
+            "verse": 52,
+            "text": "Āra hē āmāra sampradāẏa! Tōmādēra prabhura kāchē kṣamā prārthanā kara, tārapara tām̐ra dikē phērō, tini ākāśakē tōmādēra prati pāṭhābēna barṣaṇōnnukha karē, āra tōmādēra śaktira uparē tōmādēra śakti bāṛiẏē dēbēna, āra tōmarā phirē yē'ō nā aparādhī haẏē.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 53,
+            "text": "Tārā balalē -- ''hē hūda! Tumi āmādēra kāchē kōnō spaṣṭa pramāṇa āna ni, āra tōmāra kathāẏa āmarā āmādēra dēbatādēra parityāga karatē yācchi nā, āra tōmāra prati āmarā biśbāsī'ō na'i."
+        },
+        {
+            "chapter": 11,
+            "verse": 54,
+            "text": "Āmarā bali ni ē chāṛā an'ya kichu yē āmādēra kōnō dēbatā tōmātē bhara karēchēna khārāpa bhābē.’’ Tini balalēna -- ''niḥsandēha āmi āllāh‌kē sākṣī kari, āra tōmarā'ō sākṣī thēkō yē āmi ālabāṯ sansrabahīna tādēra saṅgē yādēra tōmarā śarika kara"
+        },
+        {
+            "chapter": 11,
+            "verse": 55,
+            "text": "tām̐kē chēṛē diẏē, kājē'i tōmarā sabā'i milē āmāra birud'dhē ṣaṛayantra karē yā'ō ēbaṁ āmākē abakāśa diẏa nā."
+        },
+        {
+            "chapter": 11,
+            "verse": 56,
+            "text": "Āmi abaśya'i nirbhara kari āllāh‌ra uparē -- yini āmāra prabhu ō tōmādēra'ō prabhu. Ēmana kōnō prāṇī nē'i yāra ālacula tini dharē nā āchēna. Niḥsandēha āmāra prabhu sahaja-saṭhika pathē adhiṣṭhita."
+        },
+        {
+            "chapter": 11,
+            "verse": 57,
+            "text": "Kintu tōmarā yadi phirē yā'ō tabē āmi niścaẏa tōmādēra kāchē paum̐chē diẏēchi yā diẏē āmākē tōmādēra kāchē pāṭhānō haẏēchila. Āra āmāra prabhu tōmādēra thēkē pr̥thaka kōnō sampradāẏakē sthalābhiṣikta karabēna, āra tōmarā tām̐ra kōnō kṣati karatē pārabē nā. Niḥsandēha āmāra prabhu saba-kichura uparē tattbābadhāẏaka.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 58,
+            "text": "Āra yakhana āmādēra nirdēśa ghaniẏē ēla takhana āmarā hūdakē ō tām̐ra saṅgē yārā āsthā rēkhēchila tādēra ud'dhāra karēchilāma āmādēra anugrahēra phalē, āra āmarā tādēra ud'dhāra karēchilāma kaṭhina śāsti thēkē."
+        },
+        {
+            "chapter": 11,
+            "verse": 59,
+            "text": "Āra ē'i chila'āda jāti, tārā tādēra prabhura nirdēśābalī asbīkāra karēchila ō tām̐ra rasūlagaṇakē amān'ya karēchila, āra anusaraṇa karēchila."
+        },
+        {
+            "chapter": 11,
+            "verse": 60,
+            "text": "Āra ē'i duniẏātē abhiśāpakē tādēra pichu dharāna haẏēchila, āra kiẏāmatēra dinē'ō. Ēṭi ki naẏa yē'āda jāti tādēra prabhukē asbīkāra karēchila? Ēṭi ki naẏa -- “dūra ha'ō'āda jāti -- hūdēra sampradāẏa!’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 61,
+            "text": "Āra chāmuda jātira kāchē tādēra bhā'i sālih‌kē. Tini balalēna -- ''hē āmāra sampradāẏa! Āllāh‌ra upāsanā kara, tōmādēra jan'ya tini byatīta an'ya upāsya nē'i. Tini tōmādēra gaṛē tulēchēna māṭi thēkē āra ētē'i tōmādēra basabāsa kariẏēchēna, ata'ēba tām̐ra kāchē'i paritrāṇa khōm̐jō ēbaṁ tām̐ra dikē'i phērō. Niḥsandēha āmāra prabhu nikaṭē'i, jabābadaẏāka.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 62,
+            "text": "Tārā balalē -- ''hē sālih‌! Tumi tō āmādēra kāchē ēra āgē chilē āśā-bharasāra pātra, tumi ki āmādēra pitr̥puruṣarā yādēra upāsanā karata tādēra upāsanā karatē āmādēra niṣēdha karacha? Āra āmarā tō abaśya'i sandēhēra madhyē raẏēchi sē-sanbandhē yāra prati tumi āmādēra āhbāna karacha -- bibhrāntikara!’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 63,
+            "text": "Tini balalēna -- ''hē āmāra sampradāẏa! Tōmarā ki bhēbē dēkhēcha -- āmi yadi āmāra prabhu thēkē pā'ōẏā spaṣṭa-pramāṇēra uparē pratiṣṭhita thāki ēbaṁ tini yadi tām̐ra kācha thēkē āmākē anugraha dāna karē thākēna tabē kē āmākē sāhāyya karabē āllāh‌ra kabala thēkē yadi āmi tām̐ra abādhyatā kari? Sutarāṁ tōmarā tō kṣati sādhana karā chāṛā āmāra āra kichu'i bāṛābē nā.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 64,
+            "text": "Āra hē āmāra sampradāẏa! Ēṭi hacchē āllāh‌ra uṣṭī, -- tōmādēra jan'ya ēkaṭi nidarśana, ata'ēba ēṭikē chēṛē dā'ō āllāh‌ra māṭitē carē khētē, āra tākē kōnō kṣatitē kṣati kara nā, pāchē āsanna śāsti tōmādēra pākaṛā'ō karē.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 65,
+            "text": "Kintu tārā tākē hatyā karalē, sējan'ya tini balalēna -- ''tōmarā tōmādēra bāṛigharē tina dina jībana upabhōga karē nā'ō, ē ēkaṭi prati‌śruti yā mithyā ha'ōẏāra naẏa.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 66,
+            "text": "Tārapara yakhana āmādēra nirdēśa ēla takhana āmarā salihakē ō tām̐ra saṅgē yārā āsthā rēkhēchila tādēra ud'dhāra karēchilāma āmādēra anugrahēra phalē, āra sē'i dinēra lāñchanā thēkē. Niḥsandēhara tōmāra prabhu -- tini'i mahābalīẏāna, mahāśaktiśālī."
+        },
+        {
+            "chapter": 11,
+            "verse": 67,
+            "text": "Ataḥpara pracanḍa ā'ōẏāja pākaṛā'ō karala tādēra yārā atyācāra karēchila, kājē'i tārā haẏē gēla āpana bāṛigharē nitharadēhī"
+        },
+        {
+            "chapter": 11,
+            "verse": 68,
+            "text": "yēna tārā kakhana'ō sēkhānē basabāsa karē ni. Ēṭi ki naẏa yē chāmuda jāti tādēra prabhukē asbīkāra karēchila? Ēṭi ki naẏa -- ''dūra ha'ō chāmuda jāti!’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 69,
+            "text": "Āra āmādēra bāṇībāhakarā ibrāhīmēra kāchē ēsēchilēna susambāda niẏē, tārā balalē -- ''sālāma’’. Tini'ō balalēna -- ''sālāma’’, āra tini dēri karalēna nā ēkaṭi kābāba karā gōrura bāchura ānatē."
+        },
+        {
+            "chapter": 11,
+            "verse": 70,
+            "text": "Kintu yakhana tini dēkhalēna tādēra hāta ōra dikē bāṛachē nā takhana tini tādēra bismaẏakara bhābalēna ēbāṁ tādēra sanbandhē tini bhaẏa anubhaba karalēna. Tārā balalē -- ''bhaẏa karō nā, āmarā lutēra lōkadēra prati prērita haẏēchi.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 71,
+            "text": "Āra tām̐ra strī dām̐ṛiẏē raẏēchēna ēbaṁ tini hāsalēna, āmarā takhana tām̐kē susambāda dilāma isahākēra ēbaṁ isahākēra parē iẏākubēra."
+        },
+        {
+            "chapter": 11,
+            "verse": 72,
+            "text": "Tini balalēna -- ''hāẏa āmāra āphasōsa! Āmi ki santāna janma dēba yakhana āmi br̥d'dhā haẏē gēchi āra āmāra sbāmī'ō br̥d'dha? Ēṭi niścaẏa'i ājaba byāpāra.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 73,
+            "text": "Tārā balalē -- ''tumi ki tājjaba haccha āllāh‌ra hukumēra prati? Āllāh‌ra anugraha ō tām̐ra āśīrbāda tōmādēra uparē raẏēchē, hē paribārabarga, niḥsandēha tini praśansār'ha, mahimānnita."
+        },
+        {
+            "chapter": 11,
+            "verse": 74,
+            "text": "Tārapara yakhana ibrāhīmēra thēkē bhaẏa calē gēla ēbaṁ tām̐ra kāchē susambāda ēla takhana tini āmādēra kāchē kākuti-minati śuru karalēna lūtēra lōkadēra samparkē."
+        },
+        {
+            "chapter": 11,
+            "verse": 75,
+            "text": "Niḥsandēha ibrāhīma tō chilēna sahanaśīla, kōmala hr̥daẏa, satata pratyābartanakārī."
+        },
+        {
+            "chapter": 11,
+            "verse": 76,
+            "text": "Hē ibrāhīma! Ē thēkē kṣānta ha'ō, niḥsandēha tōmādēra prabhura bidhāna ēsē paṛēchē, āra ōdēra kṣētrē -- śāsti tādēra uparē āsabē'i, tā phērānō yābē nā.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 77,
+            "text": "Āra yakhana āmādēra bāṇībāhakarā lūta-ēra kāchē ēsēchila takhana tini byatibyasta halēna, ēbaṁ tini tādēra rakṣā karatē nijēkē asahāẏa bōdha karachilēna, tā'i tini balēchilēna -- ''ē ēka nidāruṇa dina!’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 78,
+            "text": "Āra tām̐ra lōkērā tām̐ra kāchē ēla, udabhrānta haẏē tām̐ra dikē ēla, āra āgē thēkē'i tārā kukarma karē yācchila. Tini balalēna -- ''hē āmāra sampradāẏa! Ērā'i āmāra kan'yā, ērā tōmādēra jan'ya pabitratara, kājē'i āllāh‌kē bhaẏabhakti kara, āra āmāra mēh‌mānadēra sanbandhē āmākē lajjita kara nā. Tōmādēra madhyē ki kōnō bhāla mānuṣa nē'i?’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 79,
+            "text": "Tārā balalē -- ''tumi niścaẏa'i jānō yē tōmāra kan'yādēra prati āmādēra kōnō dābi nē'i, āra niścaẏa'i tumi bhāla karē'i jāna ki āmarā cā'i.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 80,
+            "text": "Tini balalēna -- ''hāẏa, tōmādēra bādhā dēbāra yadi āmāra kṣamatā thākatō, athabā yadi kōnō jōrālō abalanbana pētāma!’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 81,
+            "text": "Tārā balalē -- ''hē lūta! Āmarā niścaẏa tōmāra prabhura dūta. Tārā kakhana'i tōmāra kāchē ghēsatē pārabē nā, sutarāṁ tōmāra paribārabargasaha yātrā karō rātēra ē'i praharēra madhyē, āra tōmādēra madhyēra kē'u'i pēchana phērō nā tōmāra strī byatīta, kēnanā ōdēra yā ghaṭabē tāra'ō tā'i ghaṭabē. Niḥsandēha tādēra nirdhārita samaẏa hacchē bhōrabēlā. Bhōrabēlā ki āsanna naẏa?’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 82,
+            "text": "Ataḥpara āmādēra hukuma yakhana ēla takhana āmarā ēgulōra uparabhāga karē dilāma tādēra nicērabhāga, āra tādēra uparē barṣaṇa karalāma pōṛā-māṭira pāthara -- starībhūtabhābē"
+        },
+        {
+            "chapter": 11,
+            "verse": 83,
+            "text": "yā tōmāra prabhura kāchē cihnita chila. Āra tā an'yāẏakārīdēra thēkē dūrē naẏa."
+        },
+        {
+            "chapter": 11,
+            "verse": 84,
+            "text": "Āra mādaẏānabāsīra nikaṭa tādēra bhā'i śō'ā'ibakē. Tini balalēna -- ''hē āmāra sampradāẏa! Āllāh‌ra upāsanā karō, tōmādēra jan'ya tini chāṛā an'ya upāsya nē'i. Āra māpē ō ōjanē kama kara nā, niḥsandēha āmi tōmādēra dēkhachi samr̥d'dhiśālī, āra āmi niścaẏa'i tōmādēra jan'ya āśaṅkā karachi ēka sarbagrāsī dinēra śāstira."
+        },
+        {
+            "chapter": 11,
+            "verse": 85,
+            "text": "Āra hē āmāra sampradāẏa! Purō māpa ō ōjana dēbē n'yāẏasaṅgatabhābē, āra kōnō lōkakē tādēra biṣaẏabastutē bañcita kara nā, āra pr̥thibītē gar'hita ācaraṇa kara nā gōlayōga sr̥ṣṭikārī haẏē."
+        },
+        {
+            "chapter": 11,
+            "verse": 86,
+            "text": "Āllāh‌ra kāchē yā bāki thākē tā tōmādēra jan'ya uttama -- yadi tōmarā biśbāsī ha'ō, āra āmi tōmādēra uparē rakṣaka na'i.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 87,
+            "text": "Tārā balalē -- ''hē śō'ā'iba! Tōmāra nāmāya ki tōmākē nirdēśa dēẏa yē āmādēra pitr̥puruṣarā yāra upāsanā karata tā āmādēra barjana karatē habē, athabā āmādēra dhana-sampada sanbandhē āmādēra yā khuśi tā karatē pāraba nā? Tumi tō satyisatyi sahanaśīla, sadācārī!’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 88,
+            "text": "Tini balalēna -- ''hē āmāra sampradāẏa! Tōmarā bhēbē dēkhō -- āmi yadi āmāra prabhura kācha thēkē spaṣṭa dalila-pramāṇē pratiṣṭhita thāki ēbaṁ tini yadi tām̐ra kācha thēkē uttama jībanōpakaraṇa diẏē āmākē jībikā dāna karēna? Āra āmi cā'i nā yē tōmādēra biparītē āmi sē'i ācaraṇa kari yā karatē āmi tōmādēra niṣēdha karē thāki. Āmi śudhu cā'i sanskāra karatē yataṭā āmi sādhyamata pāri. Āra āmāra kāryasādhana āllāh‌ra sāhāyyē bai naẏa. Āmi tām̐ra'i uparē nirbhara kari āra tām̐ra'i dikē āmi phiri."
+        },
+        {
+            "chapter": 11,
+            "verse": 89,
+            "text": "Āra, hē āmāra sampradāẏa! Āmāra saṅgē matānaikya tōmādēra aparādhī nā karuka yāra phalē tōmādēra uparē ghaṭatē pārē tāra matō yā ghaṭēchila nūha-ēra sampradāẏēra uparē, athabā hūda-ēra sampradāẏēra uparē, kimbā sālih‌-ēra sampradāẏēra uparē, āra lūta- ēra sampradāẏa'ō tōmādēra thēkē dūrē naẏa."
+        },
+        {
+            "chapter": 11,
+            "verse": 90,
+            "text": "Sutarāṁ tōmādēra prabhura kāchē paritrāṇa khōm̐jō, tārapara tām̐ra dikē phērō. Niḥsandēha āmāra prabhu aphuranta phaladātā, parama prēmamaẏa.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 91,
+            "text": "Tārā balalē -- ''hē śō'ā'iba! Tumi yā bala tāra adhikānśa'i āmarā bujhi nā, āra āmarā abaśya āmādēra madhyē tōmākē durbala'i tō dēkhachi, āra tōmāra parijanabargēra jan'yē nā halē āmarā tōmākē pāthara mērē'i śēṣa karatāma, āra tumi āmādēra uparē mōṭē'i śaktiśālī na'ō.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 92,
+            "text": "Tini balalēna -- ''hē āmāra sampradāẏa! Āmāra parijanabarga ki tōmādēra kāchē āllāh‌ra cēẏē'ō bēśī śrad'dhēẏa? Āra tōmarā tām̐kē grahaṇa karēcha tōmādēra pr̥ṣṭhadēśēra paścādabhāgē phēlā bastura mata. Niḥsandēha tōmarā yā kara āmāra prabhu tā ghērā'ō karē āchēna."
+        },
+        {
+            "chapter": 11,
+            "verse": 93,
+            "text": "Āra, hē āmāra sampradāẏa! Tōmādēra bāṛigharē kāja karē yā'ō, āmi'ō abaśya karē yācchi. Tōmarā śīghra'i jānatē pārabē kāra uparē śāsti nāmabē yā tākē lāñchita karē, āra kē hacchē mithyābādī. Sutarāṁ tōmarā pratīkṣā kara, āmi'ō tōmādēra sāthē pratīkṣākārī.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 94,
+            "text": "Āra yakhana āmādēra nirdēśa ēla takhana āmarā śō'ā'ibakē ō yārā tām̐ra saṅgē biśbāsa karēchila tādēra ud'dhāra karēchilāma āmāra tarapha thēkē anugrahēra phalē. Āra yārā atyācāra karēchila tādēra pākaṛā'ō karēchila ēka mahādhbani, phalē tārā haẏē gēla tādēra gharē gharē nitharadēhī"
+        },
+        {
+            "chapter": 11,
+            "verse": 95,
+            "text": "yēna tārā sēkhānē basabāsa karē ni. Ēṭi ki naẏa -- ''dūra ha'ō mādaẏānabāsī, yēmana dūra karā haẏēchē chāmūda jātikē?’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 96,
+            "text": "Āra āmarā abaśya'i mūsākē pāṭhiẏēchilāma āmādēra nirdēśābalī ō suspaṣṭa kartr̥tba diẏē"
+        },
+        {
+            "chapter": 11,
+            "verse": 97,
+            "text": "phira'ā'una ō tāra pradhānadēra kāchē, kintu tārā phira'ā'unēra ādēśēra anugamana karēchila, athaca phira'ā'unēra nirdēśa saṭhika chila nā."
+        },
+        {
+            "chapter": 11,
+            "verse": 98,
+            "text": "Sē kiẏāmatēra dina tāra lōkadēra cālita karabē āra tādēra nāmiẏē dēbē āgunē. Āra nikr̥ṣṭa sē'i khāda sēkhānē tādēra nāmāna habē"
+        },
+        {
+            "chapter": 11,
+            "verse": 99,
+            "text": "Āra ēka abhiśāpa tādēra pichu niẏēchē ē'ikhānē ō kiẏāmatēra dinē. Nikr̥ṣṭa sē'i puraskāra yā tādēra dēẏā habē"
+        },
+        {
+            "chapter": 11,
+            "verse": 100,
+            "text": "ē'i hacchē janapadasamūhēra kichu sambāda yā tōmāra kāchē barṇanā karalāma, ēgulōra madhyē katakaṭā dām̐ṛiẏē āchē, āra kēṭē phēlā haẏēchē."
+        },
+        {
+            "chapter": 11,
+            "verse": 101,
+            "text": "Āra āmarā tādēra prati an'yāẏa kari ni, kintu tārā tādēra nijēdēra prati an'yāẏa karēchila, sutarāṁ tādēra dēbatārā, yādēra tārā āhbāna karata āllāh‌kē chēṛē diẏē, tādēra kōnō kājē āsē ni yē-samaẏē tōmāra prabhura bidhāna ēsē paum̐chāla. Āra tārā dhbansa byatīta kichu'i tādēra jan'ya sanyōga karē ni."
+        },
+        {
+            "chapter": 11,
+            "verse": 102,
+            "text": "Āra ē'ibhābē'i hacchē tōmāra prabhura pākaṛānō yakhana tini pākaṛā'ō karēna janapadagulōkē yakhana tārā an'yāẏācaraṇa karē. Niḥsandēha tām̐ra pākaṛānō marmantuda, kaṭhina."
+        },
+        {
+            "chapter": 11,
+            "verse": 103,
+            "text": "Niḥsandēha ētē raẏēchē nidarśana tāra jan'ya yē parakālēra śāstikē bhaẏa karē. Ē'i hacchē mānuṣakē ēkatrita karaṇēra dina, āra ē'i hacchē sākṣyadānēra dina."
+        },
+        {
+            "chapter": 11,
+            "verse": 104,
+            "text": "Āra āmarā ēṭi pichiẏē rākhi nā ēkaṭi nirdiṣṭa samaẏēra jan'ya byatīta."
+        },
+        {
+            "chapter": 11,
+            "verse": 105,
+            "text": "Yakhana sē-dinaṭi āsabē takhana kōnō sattbā'i tām̐ra anumati byatīta kathā balatē pārabē nā, kājē-kājē'i tādēra madhyē kē'u habē hatabhāgya āra kē'u bhāgyabāna."
+        },
+        {
+            "chapter": 11,
+            "verse": 106,
+            "text": "Tārapara yārā habē hatabhāgya tārā āgunē, tādēra jan'ya sēkhānē thākabē dīrghaśbāsa ō ārtanāda"
+        },
+        {
+            "chapter": 11,
+            "verse": 107,
+            "text": "tārā sēkhānē thākabē yatadina mahākāśamanḍala ō pr̥thibī bidyamāna thākabē -- yadi nā tōmāra prabhu an'yathā icchā karēna. Niḥsandēha tōmāra prabhu yā icchā karēna tā'i karē thākēna."
+        },
+        {
+            "chapter": 11,
+            "verse": 108,
+            "text": "Āra yārā habē bhāgyabāna tārā thākabē bēhēśatē, tārā sēkhānē thākabē yatadina mahākāśamanḍala ō pr̥thibī bidyamāna thākabē -- yadi nā tōmāra prabhu an'yathā icchā karēna. Ēkaṭi dāna yā kakhanō kāṭachām̐ṭa habē nā."
+        },
+        {
+            "chapter": 11,
+            "verse": 109,
+            "text": "Kājē'i tumi sandēhēra madhyē thēkō nā tārā yādēra upāsanā karē tādēra sanbandhē. Tārā upāsanā karē nā yēbhābē tādēra pitr̥puruṣarā itipūrbē upāsanā karata sēbhābē chāṛā. Āra niḥsandēha tādēra pā'ōnā āmarā abaśya'i tādēra purōpuri miṭiẏē dēbō kichu mātra kamati nā ka’rē."
+        },
+        {
+            "chapter": 11,
+            "verse": 110,
+            "text": "Āra āmarā abaśya musākē grantha diẏēchilāma, kintu tātē matabhēda ghaṭēchila. Āra yadi tōmāra prabhura tarapha thēkē ghōṣaṇāṭi sābyasta nā hatō tāhalē tādēra madhyē mīmānsā haẏē yēta. Āra niḥsandēha tārā tō sandēhēra madhyē raẏēchē sē-sanbandhē, -- bibhrāntikara."
+        },
+        {
+            "chapter": 11,
+            "verse": 111,
+            "text": "Āra niḥsandēha tōmāra prabhu yathāsamaẏē tādēra pratyēkēra karmaphala tādēra kāchē abaśya'i purōpuri miṭiẏē dēbēna. Tārā yā karē sē-biṣaẏē tini niścaẏa'i sabiśēṣa abahita."
+        },
+        {
+            "chapter": 11,
+            "verse": 112,
+            "text": "Ata'ēba tumi sahaja-saṭhika pathē ām̐kaṛē thēkō yēmana tōmākē ādēśa karā haẏēchē, āra sē'ō yē tōmāra saṅgē phirēchē, āra tōmarā sīmālaṅghana karō nā. Tōmarā yā kara tini niścaẏa'i tāra draṣṭā."
+        },
+        {
+            "chapter": 11,
+            "verse": 113,
+            "text": "Āra tōmarā tādēra dikē jhukōm̐ nā yārā an'yāẏa karē, pāchē āguna tōmādēra sparśa karē. Āra āllāh‌kē chēṛē diẏē tōmādēra jan'ya kōnō abhibhābakamanḍalī nē'i, sutarāṁ tōmādēra sāhāyya karā habē nā."
+        },
+        {
+            "chapter": 11,
+            "verse": 114,
+            "text": "Āra nāmāya kāẏēma rākhō dinēra du'i prānta bhāgē, āra rātēra prathamānśē. Śubhakāja niścaẏa'i manda kājakē dūra karē dēẏa. Ēṭi ēka smaraṇīẏa upadēśa tādēra jan'ya yārā smaraṇakārī."
+        },
+        {
+            "chapter": 11,
+            "verse": 115,
+            "text": "Āra adhyabasāẏa abalanbana kara, kēnanā āllāh niścaẏa'i saṯkarmaśīladēra karmaphala byartha karēna nā."
+        },
+        {
+            "chapter": 11,
+            "verse": 116,
+            "text": "Tabē kēna tōmādēra pūrbapuruṣadēra madhyē bākī thākā lōkajana nē'i yārā niṣēdha karē pr̥thibītē biparyaẏa ghaṭātē -- yādēra āmarā ud'dhāra karēchilāma tādēra madhya thēkē śudhu alpa kaẏēkajana chāṛā? Kintu yārā an'yāẏa ācaraṇa karēchila tārā anusaraṇa karēchila tādēra yārā ētē sacchala-samr̥d'dha chila, phalē tārā chila aparādhī."
+        },
+        {
+            "chapter": 11,
+            "verse": 117,
+            "text": "Āra tōmāra prabhura pakṣē ēṭi naẏa yē tini kōnō janapadakē dhbansa karabēna an'yāẏabhābē, yakhana sē-sabēra adhibāsīrā thākē saṯpathābalanbī."
+        },
+        {
+            "chapter": 11,
+            "verse": 118,
+            "text": "Āra yadi tōmāra prabhu icchā karatēna tabē tini mānabagōṣṭhīkē abaśya ēka jāti bāniẏē nitēna, kintu tārā matabhēda karatē'i thākabē"
+        },
+        {
+            "chapter": 11,
+            "verse": 119,
+            "text": "sē byatīta yākē tōmāra prabhu karuṇā karēchēna, āra ēra jan'yē'i tini tādēra sr̥ṣṭi karēchēna. Āra sampūrṇa haẏēchē tōmāra prabhura bāṇī -- ''āmi ālabaṯ ēka'i saṅgē jinadēra ō mānuṣadēra dbārā jāhānnāma bharti karaba.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 120,
+            "text": "Āra rasūlagaṇēra kāhinī thēkē saba-kichu āmarā tōmāra kāchē barṇanā karachi ējan'ya yē sē-sabēra dbārā āmarā tōmāra cittakē baliṣṭha karaba, āra ētē tōmāra kāchē ēsēchē muminadēra jan'ya satya ō upadēśa ō smaraṇīẏa bārtā."
+        },
+        {
+            "chapter": 11,
+            "verse": 121,
+            "text": "Āra yārā biśbāsa karē nā tādēra balō -- ''tōmādēra nija nija kṣētrē kāja karē yā'ō, niḥsandēha āmarā'ō kartabyarata."
+        },
+        {
+            "chapter": 11,
+            "verse": 122,
+            "text": "Āra apēkṣā kara, āmarā'ō niḥsandēha apēkṣārata.’’"
+        },
+        {
+            "chapter": 11,
+            "verse": 123,
+            "text": "Āra mahākāśamanḍala ō pr̥thibīra adr̥śya biṣaẏabastu āllāh‌ra'i, āra tām̐ra'i kāchē biṣaẏa-āśaẏēra saba-kichu phiriẏē ānā habē. Sutarāṁ tām̐ra upāsanā kara āra tām̐ra'i uparē nirbhara kara. Bastutaḥ tōmarā yā kara sē-sanbandhē tōmāra prabhu anabahita nana."
+        },
+        {
+            "chapter": 12,
+            "verse": 1,
+            "text": "Ālipha, lāma, rā. Ēsaba suspaṣṭa granthēra āẏātasamūha."
+        },
+        {
+            "chapter": 12,
+            "verse": 2,
+            "text": "Niḥsandēha āmarā ēṭi abatāraṇa karēchi -- ārabī kura'āna, yēna tōmarā bujhatē pāra."
+        },
+        {
+            "chapter": 12,
+            "verse": 3,
+            "text": "Āmarā tōmāra kāchē ē'i kura'āna pratyādēśēra dbārā tōmāra nikaṭa śrēṣṭha kāhinī barṇanā karachi. Āra abaśya'i ēra āgē tumi tō chilē anabahitadēra antarbhūkta."
+        },
+        {
+            "chapter": 12,
+            "verse": 4,
+            "text": "Smaraṇa karō! I'usupha tām̐ra pitākē balalēna -- ''hē āmāra ābbā! Āmi niścaẏa'i dēkhalāma ēgārōṭi tārā āra sūrya ō candra -- tādēra dēkhalāma āmāra kāraṇē tārā sijadārata.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 5,
+            "text": "Tini balalēna, ''hē āmāra putra! Tōmāra sbapna tōmāra bhā'idēra kāchē barṇanā kara nā pāchē tārā tōmāra birud'dhē kōnō cakrāntēra phandi ām̐ṭē. Niḥsandēha śaẏatāna mānuṣēra jan'ya prakāśya śatru."
+        },
+        {
+            "chapter": 12,
+            "verse": 6,
+            "text": "Āra ē'ibhābē tōmāra prabhu tōmākē manōnīta karabēna, āra tōmākē śikṣā dēbēna ghaṭanābalīra byākhyā samparkē, āra tām̐ra anugraha pūrṇāṅga karabēna tōmāra prati ō iẏākubēra banśadharadēra prati, yēmana tini tā pūrṇāṅga karēchilēna ēra āgē tōmāra pūrbapuruṣa ibrāhīma ō isahākēra prati. Niḥsandēha tōmāra prabhu sarbajñātā, paramajñānī.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 7,
+            "text": "I'usupha ō tām̐ra bhā'idēra madhyē niścaẏa'i nidarśana raẏēchē jijñāsudēra jan'yē."
+        },
+        {
+            "chapter": 12,
+            "verse": 8,
+            "text": "Smaraṇa karō! Tārā balābali karalē -- ''i'usupha ō tāra bhā'i tō āmādēra ābbāra kāchē āmādēra cēẏē'ō bēśi priẏa, yadi'ō āmarā dalē bhārī. Āmādēra ābbā niścaẏa'i spaṣṭa bibhrāntitē raẏēchēna.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 9,
+            "text": "I'usuphakē mērē phēla athabā kōnō dēśē nirbāsana dā'ō, tāhalē tōmādēra ābbāra mukha tōmādēra dikē'i nibiṣṭa habē, ēbaṁ tāra parē tōmarā bhāla lōka hatē pārabē.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 10,
+            "text": "Tādēra madhyē thēkē ēkajana baktā balalē -- ''i'usuphakē kātala karō nā, tākē baraṁ kōnō kuẏōra talāẏa phēlē dā'ō, bhramaṇakārīdēra kē'u tākē tulē'ō nitē pārē, -- yadi tōmarā kāja karatē cā'ō.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 11,
+            "text": "Tārā balala -- ''hē āmādēra ābbā! Tōmāra ki haẏēchē yējan'yē tumi i'usuphēra byāpārē āmādēra biśbāsa kara nā, athaca niḥsandēha āmarā tō tāra śubhākāṅkhī"
+        },
+        {
+            "chapter": 12,
+            "verse": 12,
+            "text": "tākē āmādēra saṅgē kālakē pāṭhiẏē dā'ō, sē āmōda karuka ō khēlādhulā karuka, āra āmarā tō niścaẏa'i tāra hēphājatakārī.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 13,
+            "text": "Tini balalēna -- ''ētē abaśya'i āmākē kaṣṭa dēbē yē tōmarā tākē niẏē yābē, āra āmi bhaẏa karachi pāchē nēkaṛē tākē khēẏē phēlē, yadi tōmarā tāra prati bēkhēẏāla haẏē yā'ō!’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 14,
+            "text": "Tārā balalē, ''āmarā dalē bhārī ha'ōẏā sattbē'ō yadi tākē nēkaṛē khēẏē phēlē tabē āmarā'i tō niścaẏa sarbahārā haba.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 15,
+            "text": "Tārapara tārā yakhana tākē niẏē gēla ēbaṁ sabā'i ēkamata hala yē tārā tākē phēlē dēbē kuẏōra talāẏa, takhana āmarā tāra kāchē pratyādēśa dilāma -- ''tumi tādēra abaśya'i jāniẏē dēbē tādēra ē'i kājēra kathā, āra tārā cinatē'ō pārabē nā.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 16,
+            "text": "Āra tārā tādēra pitāra kāchē kām̐datē kām̐datē ēlō rātribēlāẏa."
+        },
+        {
+            "chapter": 12,
+            "verse": 17,
+            "text": "Tārā balalē -- ''hē āmādēra ābbā! Āmarā dauṛādēṛi karē calēchilāma, āra i'usuphakē rēkhē giẏēchilāma āmādēra āsabābapatrēra pāśē, takhana nēkaṛē tākē khēẏē phēlēchē, kintu tumi tō āmādēra prati biśbāsakārī habē nā, yadi'ō āmarā hacchi satyabādī.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 18,
+            "text": "Āra tārā ēla tām̐ra sārṭēra uparē jhuṭā rakta niẏē. Tini balalēna -- ''nā, tōmādēra antara tōmādēra jan'ya ē'i biṣaẏaṭi udbhābana karēchē, kintu dhairyadhāraṇa'i uttama. Āra āllāh‌i sāhāyya kāmanāra sthala tōmarā yā barṇanā karacha sē-kṣētrē.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 19,
+            "text": "Ēdikē bhramaṇakārīrā ēla ēbaṁ tādēra pāni'ōẏālākē pāṭhāla, sē takhana tāra bālati nāmiẏē dila. Sē balalē, ''ki sukhabara! Ē yē ēkaṭi chōkarā!’’ Ataḥpara tārā tām̐kē lukiẏē rākhala paṇya-drabyēra matō. Āra tārā yā karēchila sē-sanbandhē āllāh sarbajñātā."
+        },
+        {
+            "chapter": 12,
+            "verse": 20,
+            "text": "Āra tārā tām̐kē bikri karala sāmān'ya mūlyē -- guṇatira kaẏēkaṭi dirahāmē, āra tām̐ra prati tārā chila anāsakta."
+        },
+        {
+            "chapter": 12,
+            "verse": 21,
+            "text": "Āra miśarīẏa yē tām̐kē kinēchila sē tāra strīkē balalē -- ''sam'mānajanakabhābē ēra thākabāra jāẏagā kara, haẏata sē āmādēra upakārē āsabē, athabā tākē āmarā putrarūpē grahaṇa karatē pāri.’’ Āra ē'ibhābē āmarā i'usuphēra jan'ya bāsasthāna ṭhika karē dilāma sē-dēśē, yēna tām̐kē śēkhātē pāri ghaṭanābalīra byākhyā sanbandhē. Āllāh tām̐ra kājakarmē sarbēsarbā, kintu adhikānśa lōkē'i jānē nā."
+        },
+        {
+            "chapter": 12,
+            "verse": 22,
+            "text": "Āra yakhana tini tām̐ra pūrṇa yaubanē paum̐chulēna, āmarā tām̐kē bud'dhi ō bidyā dāna karalāma. Āra ē'ibhābē āmarā saṯkarmaśīladēra puraskāra pradāna kari."
+        },
+        {
+            "chapter": 12,
+            "verse": 23,
+            "text": "Āra yē mahilāẏa gr̥hē tini chilēna sē tām̐kē kāmanā karala tām̐ra antaraṅgatāra, āra bandha karē dilē darajāgulō ō balalē -- ''ēsō hē tumi!’’ Tini balalēna -- ''āllāh sahāẏa hōna! Āmāra prabhu niścaẏa'i āmāra āśraẏasthala ati uttama bāniẏēchēna. Niḥsandēha tini an'yāẏakārīdēra unnati karēna nā.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 24,
+            "text": "Āra sē nārī niścaẏa'i tām̐ra prati āsakta haẏēchila, āra tini'ō tāra prati āsakta haẏē paṛatēna yadi nā tini tām̐ra prabhura spaṣṭa- pramāṇa pratyakṣa karatēna. Ē'ibhābē āmarā yēna tām̐ra kācha thēkē haṭiẏē ditē pāri mandakāja ō aślīlatā. Niḥsandēha tini chilēna āmādēra ēkānta anurakta dāsadēra an'yatama."
+        },
+        {
+            "chapter": 12,
+            "verse": 25,
+            "text": "Āra tārā dujanē'i darajāra dikē dauṛalō, āra sē tām̐ra jāmā pēchanēra dika thēkē chiṛē phēm̐lalō, āra tārā dujanē darajāra nikaṭē dēkhā pēla tāra sbāmīra. Sē balalē -- ''yē tōmāra paribārēra saṅgē kukarma kāmanā karē tāra pariṇāma kārādanḍa bā marmantuda śāsti chāṛā āra kī hatē pārē?’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 26,
+            "text": "Tini balalēna -- ''uni'i āmākē kāmanā karēchilēna āmāra antaraṅgatāra.’’ Āra tāra'i paribārēra ēkajana sākṣī sākṣya dilē -- ''yadi tāra sārṭaṭi sāmanēra dikē chēm̐ṛā haẏa tabē ini satyabādī ēbaṁ ō mithyābādīdēra madhyēra."
+        },
+        {
+            "chapter": 12,
+            "verse": 27,
+            "text": "Āra yadi tāra sārṭaṭi pēchanēra dikē chēm̐ṛā thākē tabē ini'i mithyābādī āra ō satyabādīdēra antarbhukta.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 28,
+            "text": "Sutarāṁ sē yakhana dēkhalē yē tām̐ra jāmāṭi pēchanēra dikē chēm̐ṛā takhana sē balalē -- ''ē niḥsandēha tōmādēra chalākalā, tōmādēra chalacāturī baṛa'i bhīṣaṇa."
+        },
+        {
+            "chapter": 12,
+            "verse": 29,
+            "text": "Hē i'usupha, tumi ē biṣaẏē kichu manē karō nā; āra tumi kṣamā prārthanā kara tōmāra aparādhēra jan'ya; niḥsandēha tumi hacchō pāpiṣṭhādēra madhyēkāra.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 30,
+            "text": "Āra śaharēra nārīrā balalē, ''ājīyēra strī tāra yubaka dāsakē kāmanā karēchila tāra antaraṅgatāra! Niścaẏa'i sē tākē prēmē abhibhūta karēchē. Āmarā tākē dēkhachi spaṣṭa bibhrāntitē paṛēchē.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 31,
+            "text": "Sutarāṁ sē yakhana śunalē tādēra phandira kathā, sē tādēra ḍēkē pāṭhālē ēbaṁ tādēra jan'ya tairi karalē gadira āsana, āra tādēra madhyēra pratyēkakē dilē ēkaṭi karē churi, āra balalē -- ''bēriẏē ēsa ēdēra sāmanē.’’ Ataḥpara tārā yakhana tām̐kē dēkhala tām̐kē bhābalō atulanīẏa, āra nijēdēra hāta kēṭē phēlala ō balalō -- ''āllāh‌ra ki nikhum̐ta sr̥ṣṭi! Ē tō mānuṣa naẏa, ē tō ēka mahimānnita phiriś‌tā.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 32,
+            "text": "Sē balalē -- ''ē-i tō sē'i yāra sanbandhē tōmarā āmāra nindā karēcha, āra āmi abaśya'i tākē kāmanā karēchilāma tāra antaraṅgatāra, kintu sē nijēkē sanyata rēkhēchila. Āra āmi tākē yā ādēśa kari tā yadi sē nā karē tabē sē niścita kārārud'dha habē ēbaṁ sē habē abaśya'i chōṭalōkadēra madhyēkāra.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 33,
+            "text": "Tini balalēna -- ''āmāra prabhu! Tārā āmākē yāra prati āhbāna karachē tāra cēẏē kārāgāra'i āmāra kāchē adhika priẏa. Āra tumi yadi āmāra thēkē tādēra chalanā dūrībhūta nā kara tabē āmi tādēra prati ākr̥ṣṭa haẏē paṛaba, phalē āmi haẏē yāba ajñadēra antarbhukta.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 34,
+            "text": "Ata'ēba tām̐ra prabhu tām̐ra prati sāṛā dilēna āra tām̐ra thēkē tādēra chalākalā haṭiẏē dilēna. Niḥsandēha tini sarbaśrōtā, sarbajñātā."
+        },
+        {
+            "chapter": 12,
+            "verse": 35,
+            "text": "Ataḥpara sākṣīsābuda tārā dēkhāra parē tādēra manē hala tām̐kē kichukālēra jan'ya kārārud'dha karā'i ucita."
+        },
+        {
+            "chapter": 12,
+            "verse": 36,
+            "text": "Āra tām̐ra saṅgē du’jana yubaka jēlē ḍhukēchila. Tādēra ēkajana balalē, ''āmi dēkhalāma mada tairi karachi.’’ Āra an'yajana balalē, ''āmi dēkhalāma āmi āmāra māthāra uparē ruṭi baẏē nicchi, tā thēkē pākhirā khācchē.’’''Āmādēra ēra tāṯparya balē dā'ō, āmarā niścaẏa'i tōmākē dēkhachi bhālō-lōkadēra madhyēkāra.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 37,
+            "text": "Tini balalēna -- ''tōmādēra yā khētē dēẏā haẏa sē khādya tōmādēra kāchē ēsē paum̐chubēnā nā, athaca tōmādēra kāchē tā āsāra āgē'i āmi tōmādēra balē dēba ēra tāṯparya. Ēṭi hacchē āmāra prabhu āmākē yā śikhiẏēchēna tā thēkē. Āmi niścaẏa'i parityāga karēchi sē'i lōkadēra dharmamata yārā āllāh‌tē biśbāsa karē nā, āra tārā nijērā'i parakālē'ō abiśbāsī."
+        },
+        {
+            "chapter": 12,
+            "verse": 38,
+            "text": "Āra āmi anusaraṇa kari āmāra pitr̥puruṣa ibrāhīma ō isahāka ō iẏākubēra dharmamata. Ēṭi āmādēra jan'ya naẏa yē āmarā āllāh‌ra saṅgē kōnō dharanēra anśī dām̐ṛa karāba. Ēṭi āmādēra prati āllāh‌ra anugraha-prācuryēra phalē āra mānabagōṣṭhīra prati'ō, kintu adhikānśa lōkērā kr̥tajñatā prakāśa karē nā."
+        },
+        {
+            "chapter": 12,
+            "verse": 39,
+            "text": "Hē āmāra jēlakhānāra saṅgidbaẏa! Bhinna bhinna prabhusaba bhāla, nā ēkaka sarbaśaktimāna āllāh‌"
+        },
+        {
+            "chapter": 12,
+            "verse": 40,
+            "text": "tām̐kē chēṛē diẏē tōmarā yādēra upāsanā kara tārā nāmābalī mātra yā tōmarā nāmakaraṇa karēcha -- tōmarā ō tōmādēra pūrbapuruṣarā, yējan'yē kōnō dalila-dastābēja āllāh pāṭhāna ni. Bidhāna dēbāra adhikāra śudhu āllāh‌ra. Tini ādēśa diẏēchēna yē tōmarā tām̐kē chāṛā āra kārōra upāsanā karabē nā. Ē'i hacchē saṭhika dharma, kintu adhikānśa lōkē'i jānē nā."
+        },
+        {
+            "chapter": 12,
+            "verse": 41,
+            "text": "Hē āmāra kārāgārēra saṅgidbaẏa! Tōmādēra ēkajana sanbandhē -- sē tāra prabhukē surā pāna karābē, kintu an'yajanēra kṣētrē -- sē takhana śūlabid'dha haẏē marabē, tāra phalē pākhirā tāra māthā thēkē khābē. Tōmarā yāra sanbandhē jijñāsā karachilē sē-biṣaẏa nispatti haẏē giẏēchē!’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 42,
+            "text": "Āra du'ijanēra madhyē yākē tini jānatēna yē sē mukti pābē tākē tini balalēna, ''tōmāra prabhura kāchē āmāra kathā balō.’’ Kintu śaẏatāna tākē bhuliẏē diẏēchila tāra prabhura kāchē smaraṇa kariẏē ditē, tā'i tini kārāgārē thākalēna ārō kaẏēka bachara."
+        },
+        {
+            "chapter": 12,
+            "verse": 43,
+            "text": "Āra rājā balalēna -- ''āmi niścaẏa'i dēkhalāma sātaṭi hr̥spuṣṭa garu, tādēra khēẏē phēlala sātaṭi jīrṇaśīrṇa, āra sātaṭā sabuja śīṣa āra apara śuk‌nō. Ōhē pradhānagaṇa! Āmāra sbarē tāṯparya āmākē balē dā'ō yadi tōmarā sbapnēra byākhyā karatē pārō.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 44,
+            "text": "Tārā balalē -- ''ēlōmēlō sbapna, āra sbapnēra marmōd'dhārē āmarā abhijña na'i.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 45,
+            "text": "Āra sē'i du'ijanēra yē mukti pēẏēchila ō dīrghakāla parē yāra manē paṛala sē balalē -- ''āmi'i ēra tāṯparya āpanādēra jāniẏē dēba, sējan'yē āmākē pāṭhiẏē dina.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 46,
+            "text": "I'usupha! Hē satyabādī! Āmādēra jan'ya byākhyā karē dā'ō sātaṭi mōṭāsōṭā garu yādēra khēẏē phēlala rōgā-pātalā sātaṭi, ēbaṁ sātaṭi sabuja śīṣa ō an'yagulō śuk‌nō, -- yēna āmi lōkadēra kāchē phirē yētē pāri yātē tārā jānatē pārē.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 47,
+            "text": "Tini balalēna -- ''tōmarā sāta bachara yathārīti kṣēta karē yābē, āra tōmarā yā tulabē tā rēkhē dēbē tāra śīṣēra madhyē, śudhu tā thēkē yē sāmān'yaṭuku tōmarā khābē tā chāṛā."
+        },
+        {
+            "chapter": 12,
+            "verse": 48,
+            "text": "Takhana ēra parē āsabē sātaṭi kaṭhōra, tā khēẏē phēlabē sē-ka’ṭira jan'ya tōmarā yā ēgiẏē dēbē, kēbala sāmān'ya kichu chāṛā yā tōmarā sanrakṣaṇa kara."
+        },
+        {
+            "chapter": 12,
+            "verse": 49,
+            "text": "Āra tāra parē āsabē ēka bachara yātē lōkērā pābē pracura br̥ṣṭipāta, āra tātē tārā piyabē.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 50,
+            "text": "Āra rājā balalēna -- ''tākē āmāra kāchē niẏē ēsa.’’ Sutarāṁ yakhana dūta tām̐ra kāchē ēla, tini balalēna -- ''tōmāra manibēra kāchē phirē yā'ō ēbaṁ tām̐kē jijñēsa kara sē'i nārīdēra ki hala yārā tādēra hāta kēṭēchila. Niḥsandēha āmāba prabhu, tādēra phandiphikira sanbandhē pūrṇa ōẏākiphahāla.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 51,
+            "text": "Tini balalēna -- ''tōmādēra ki haẏēchila yakhana tōmarā i'usuphakē kāmanā karēchilē tāra antaraṅgatāra?’’ Tārā balalē -- āllāh‌ra ki nikhum̐ta sr̥ṣṭi! Āmarā ōra madhyē kōnō dōṣēra kathā jāni nā.’’ Nagara-pradhānēra strī balalē -- ''ēkṣaṇē satya prakāśa pēẏēchē, āmi'i tākē kāmanā karēchilāma tāra antaraṅgatāra, āra niḥsandēha sē abaśya'i chila satyaparāẏaṇadēra madhyēkāra.’’"
+        },
+        {
+            "chapter": 12,
+            "verse": 52,
+            "text": "Ēṭi'i, yēna tini jānatē pārēna yē āmi gōpanē tām̐ra prati biśbāsaghātakatā kari ni. Āra niḥsandēha āllāh biśbāsahantādēra chalākalā paricālita karēna nā.’’"
+        }
+    ]
+}

@@ -1,0 +1,744 @@
+{
+    "juzs": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Mərhəmətli və Rəhmli Allahın adı ilə"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Həmd olsun aləmlərin Rəbbi Allaha"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Mərhəmətli və Rəhmliyə"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Haqq-hesab gününün Hökmdarına"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Biz yalnız Sənə ibadət edir və yalnız Səndən kömək diləyirik"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Bizi doğru yola yönəlt –"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "nemət bəxş etdiyin şəxslərin yoluna, qəzəbə uğramışların və azmışların yoluna yox"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Əlif. Ləm. Mim"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "Bu, qətiyyən şübhə doğurmayan, müttəqilərə doğru yol göstərən bir Kitabdır"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "O kəslər ki, qeybə iman gətirir, namaz qılır və Bizim onlara verdiyimiz ruzidən Allah yolunda xərcləyirlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "O kəslər ki, sənə nazil olana və səndən əvvəl nazil olanlara iman gətirir, axirətə də yəqinliklə inanırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Onlar öz Rəbbindən gələn doğru yoldadırlar. Məhz onlar nicat tapanlardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Həqiqətən, kafirləri qorxutsan da, qorxutmasan da, onlar üçün fərqi yoxdur, iman gətirməzlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Allah onların qəlblərini və qulaqlarını möhürləmiş, gözlərinə də pərdə çəkmişdir. Onlar üçün böyük bir əzab vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "İnsanlar arasında elələri də vardır ki, mömin olmadıqları halda: “Allaha və Axirət gününə inanırıq”– deyirlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "Onlar Allahı və iman gətirənləri aldatmağa çalışırlar. Halbuki yalnız özlərini aldadır və bunu anlamırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "Onların qəlblərində xəstəlik vardır və Allah da onların xəstəliyini artırmışdır. Yalan söylədiklərinə görə də ağrılı-acılı bir əzab çəkəcəklər"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Onlara: “Yer üzündə fəsad törətməyin!”– deyildiyi zaman: “Biz ki, ancaq xeyirxahlıq edənlərik!”– deyirlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "Sözsüz ki, onlar fəsad törədənlərdir, amma bunu başa düşmürlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Onlara: “Bu insanlar iman gətirdiyi kimi siz də iman gətirin!”– deyildiyi zaman: “Biz də səfehlərin iman gətirdikləri kimi iman gətirək?”– deyirlər. Doğrusu, onlar özləri səfehdirlər, lakin bunu bilmirlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Onlar möminlərlə rastlaşdıqda: “Biz iman gətirdik!”– deyirlər, öz şeytanları (azmış dostları) ilə təklikdə qaldıqda isə: “Biz sizinləyik. Biz möminlərə ancaq istehza edirik!”– deyirlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Allah da onlara istehza edər və azğınlıqlarını o qədər artırar ki, sərgərdan gəzərlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "Onlar, doğru yolu verib azğınlığı satın almış kimsələrdir. Amma onların ticarəti qazanc gətirmədi və özləri də doğru yola yönəlmədilər"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Onların məsəli zülmət gecədə od qalayan kimsənin məsəlinə bənzər. Alov onun ətrafındakıları işıqlandırdığı zaman Allah onların nurunu aparar, özlərini də heç bir şey görə bilməyəcəkləri zülmətlər içərisində buraxar"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "Onlar kar, lal və kor olduqlarına görə doğru yola qayıtmazlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Yaxud onların məsəli zülmət içində göy gurultusu və şimşəklə yağan leysana düşənlərin məsəlinə bənzəyir ki, ildırımdan ölmək qorxusu ilə barmaqlarını qulaqlarına tıxayırlar. Şübhəsiz ki, Allah kafirləri hər tərəfdən əhatəyə almışdır"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "Şimşək az qalır ki, onların gözlərini çıxartsın. Şimşək hər dəfə onların yolunu işıqlandırdıqda onunla gedirlər, zülmət onları bürüdükdə isə dayanıb dururlar. Əgər Allah istəsəydi, onları eşitməkdən və görməkdən məhrum edərdi. Şübhəsiz ki, Allah hər şeyə qadirdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Ey insanlar! Sizi və sizdən öncəkiləri yaratmış Rəbbinizə ibadət edin ki, bəlkə Allahdan qorxasınız"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "O, sizin üçün yer üzünü döşəmə, göyü isə tavan etdi. Göydən su endirib onunla sizin üçün növbənöv məhsullardan ruzi yetişdirdi. Siz də bunu bildiyiniz halda heç kəsi Allaha tay tutmayın"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "Əgər qulumuza nazil etdiyimizə şübhə edirsinizsə, onda ona bənzər bir surə gətirin və əgər doğru deyirsinizsə, Allahdan savayı bütün şahidlərinizi köməyə çağırın"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "Əgər siz bunu edə bilmirsinizsə, – heç edə də bilməzsiniz – onda yanacağı insanlardan və daşlardan olan, kafirlər üçün hazırlanmış oddan çəkinin"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "İman gətirib saleh əməllər edənlərə müjdə ver ki, onlar üçün ağacları altından çaylar axan Cənnət bağları vardır. Hər dəfə onun meyvələrindən onlara ruzi verildikcə: “Bu ki, əvvəlcə bizə verilən ruzidir!”– deyəcəklər. Halbuki onlara onun oxşarı veriləcəkdir. Onlardan ötrü orada pak zövcələr var və onlar orada əbədi qalacaqlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "Həqiqətən, Allah ağcaqanadı və (istər böyüklükdə, istərsə də kiçiklikdə) ondan da üstün olanı məsəl çəkməkdən utanmaz. İman gətirənlər bilirlər ki, bu, onların Rəbbindən gələn haqdır. Küfr edənlər isə deyirlər: “Bu məsəllə Allah nə demək istədi?” Halbuki O bununla bir çoxlarını azdırır və bir çoxlarını da haqq yoluna yönəldir. Lakin O, bununla yalnız fasiqləri yoldan çıxarır"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "O kəslər ki, Allahla əhd-peyman bağladıqdan sonra onu pozur, Allahın qovuşdurulmasını əmr etdiyi şeyləri (qohumluq əlaqələrini) kəsir və yer üzündə fitnə-fəsad törədirlər. Məhz onlar ziyana uğrayanlardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Allahı necə inkar edirsiniz ki, siz ölü idiniz, O sizi diriltdi? Sonra O sizi öldürəcək və yenə dirildəcək, daha sonra isə siz Ona qaytarılacaqsınız"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "Yer üzündə olanların hamısını sizə görə xəlq edən, sonra göyə tərəf yönəlib onu yeddi qat göy edən Odur. O, hər şeyi bilir"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Sənin Rəbbin mələklərə: “Mən yer üzündə bir canişin bərqərar edəcəyəm!”– dedikdə, onlar: “Biz Səni həmd-səna ilə təriflədiyimiz və Səni müqəddəs tutduğumuz halda, Sən orada fəsad törədib qan salacaq bir kəsmi yerləşdirəcəksən?”– söylədilər. O dedi: “Şübhəsiz ki, Mən sizin bilmədiklərinizi bilirəm!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "Allah Adəmə bütün şeylərin adlarını öyrətdi. Sonra onları mələklərə göstərib dedi: “Doğru danışanlarsınızsa, bunların adlarını Mənə deyin!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Onlar dedilər: “Sən pak və müqəddəssən! Sənin bizə öyrətdiklərindən başqa bizdə heç bir bilik yoxdur! Həqiqətən, Sən Bilənsən, Müdriksən!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "Allah dedi: “Ey Adəm, bunların adlarını onlara bildir!” O, bunların adlarını onlara bildirdikdə Allah dedi: “Mən sizə demədim ki, göylərdə və yerdə olan qeybi, aşkara çıxartdığınızı və gizli saxladığınızı bilirəm?”"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Bir zaman Biz mələklərə: “Adəmə səcdə edin!”– dedikdə, İblisdən başqa hamısı səcdə etdi. O imtina edib təkəbbür göstərdi və kafir oldu"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Biz dedik: “Ey Adəm! Sən zövcənlə birlikdə Cənnətdə sakin ol və orada rahatlıqla nemətlərimizdən istədiyiniz yerdə yeyin için, təkcə bu ağaca yaxınlaşmayın! Yoxsa zalımlardan olarsınız”"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Şeytan isə o ağacla onları çaşdırıb olduqları yerdən çıxartdı. Biz dedik: “Bir-birinizə düşmən olaraq aşağı enin! Yerdə sizin üçün müəyyən olunmuş vaxtadək məskən və gün-güzəran vardır”"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Adəm tövbə etmək üçün Rəbbindən kəlmələr öyrəndi, O da onun tövbəsini qəbul etdi. Doğrudan da O, tövbələri qəbul edəndir, Rəhmlidir"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Biz dedik: “Hamınız oradan yerə enin! Mənim tərəfimdən sizə doğru yol göstəricisi gəldikdə Mənim yol göstəricimin ardınca gedənlərə heç bir qorxu yoxdur və onlar kədərlənməyəcəklər”"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "Kafir olub ayələrimizi yalan sayanlar isə Od sakinləridirlər. Onlar orada əbədi qalacaqlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Ey İsrail oğulları! Sizə bəxş etdiyim nemətimi yadınıza salın və Mənə verdiyiniz əhdə sadiq olun ki, Mən də sizə verdiyim əhdi yerinə yetirim. Təkcə Məndən qorxun"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Sizdə olanı təsdiqləyici kimi nazil etdiyimə (Qurana) iman gətirin və onu inkar edənlərin ən birincisi olmayın! Mənim ayələrimi ucuz qiymətə satmayın və yalnız Məndən qorxun"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Özünüz də bilə-bilə haqqa batil donu geyindirməyin və haqqı gizlətməyin"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Namaz qılın, zəkat verin və rüku edənlərlə birlikdə rüku edin"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "Siz Kitab oxuyub insanlara xeyirxahlığı əmr etdiyiniz halda, özünüzü unudursunuz? Məgər anlamırsınız"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Səbir etmək və namaz qılmaqla Allahdan kömək diləyin! Həqiqətən, bu, Allaha itaət edənlərdən başqa hamıya ağır gəlir"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "Çünki onlar öz Rəbbi ilə qarşılaşacaqlarını və Ona qayıdacaqlarını yəqin bilirlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "Ey İsrail oğulları! Sizə bəxş etdiyim nemətimi və sizi aləmlərdən üstün etdiyimi xatırlayın"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Qorxun o gündən ki, o vaxt heç kəs heç kəsə fayda verə bilməyəcək, heç kəsdən şəfaət qəbul olunmayacaq, heç kəsdən bir fidyə alınmayacaq və günahkarlara kömək göstərilməyəcəkdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "Bir zaman Biz sizi Fironun tərəfdarlarından xilas etdik. O vaxt onlar sizə ağır əzablar verir, oğlan uşaqlarınızı öldürür, qadınlarınızı isə sağ buraxırdılar. Bunda Rəbbiniz tərəfindən sizin üçün böyük bir sınaq var idi"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "O zaman Biz sizə görə dənizi yardıq, sizi xilas etdik və Fironun tərəfdarlarını gözünüzün qabağında dənizdə batırdıq"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "O zaman Biz Musaya vəhy üçün qırx gecəlik vədə verdik. Sonra siz onun ardından buzovu özünüzə məbud qəbul edərək zalım oldunuz"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Sonra bunun ardınca Biz sizi bağışladıq ki, bəlkə şükür edəsiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "O zaman Biz Musaya Kitab və haqqı batildən ayıran Furqan verdik ki, bəlkə doğru yolla gedəsiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "O zaman Musa öz qövmünə dedi: “Ey qövmüm! Siz buzova ibadət etməklə özünüzə zülm etdiniz. Odur ki, Yaradanınıza tövbə edin və özünüzü (sizlərdən özlərinə zülm edənləri) öldürün. Bu, Yaradanınızın yanında sizin üçün xeyirlidir”. O, sizin tövbənizi qəbul etdi. Doğrudan da O, tövbələri qəbul edəndir, Rəhmlidir"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "O zaman siz: “Ey Musa! Biz Allahı açıq-aşkar görməyincə sənə iman gətirməyəcəyik!”– dediniz və gözünüz görə-görə sizi ildırım vurdu"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Ölümünüzdən sonra Biz sizi diriltdik ki, bəlkə şükür edəsiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Biz sizin üstünüzə buludla kölgə saldıq, sizə manna və bildirçin endirdik və: “Sizə ruzi olaraq verdiyimiz pak şeylərdən yeyin!”– dedik. Onlar Bizə deyil, ancaq özlərinə zülm etdilər"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "O zaman Biz dedik: “Bu kəndə daxil olun və orada istədiyiniz yerlərdə, rahatlıqla yeyin için. Qapıdan səcdə edərək daxil olun və: “Bizi bağışla!”– deyin ki, sizin günahlarınızı bağışlayaq”. Biz yaxşı işlər görənlərə mükafatlarını artırarıq"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Zülm edənlər özlərinə deyilən sözü başqası ilə dəyişdilər. Biz də zülm edənlərə etdikləri günaha görə göydən əzab göndərdik"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "O zaman Musa öz xalqı üçün su istədikdə, Biz: “Əsanla daşa vur!”– dedik. Daşdan on iki çeşmə qaynayıb çıxdı. Hər qəbilə su içəcəyi yeri tanıdı. Onlara dedik: “Allahın sizə verdiyi ruzidən yeyin-için və yer üzündə fəsad yayıb pis işlərə qurşanmayın!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Onda siz dediniz: “Ey Musa! Biz eyni cür yeməklərə dözməyəcəyik. Ona görə də bizim üçün Rəbbinə bizə yerin bitirdiklərindən – tərəvəzindən, xiyarından, sarımsağından, mərciməyindən və soğanından yetirməsi üçün dua et!” O dedi: “Siz xeyirli olan şeylərin daha dəyərsiz şeylərlə əvəz olunmasınımı istəyirsiniz? Şəhərə girin! Şübhəsiz ki, orada istədiyinizi taparsınız!” Onlara zəlillik və düşgünlük üz verdi və onlar Allahın qəzəbinə düçar oldular. Bu cəza ona görə idi ki, onlar Allahın ayələrini inkar edirdilər və bəzi peyğəmbərləri haqsız yerə öldürürdülər. Bu həm də onların asi olduqlarına və həddi aşdıqlarına görə idi"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "Şübhəsiz ki, möminlərin, yəhudi, nəsrani və sabiilərdən Allaha və Axirət gününə iman gətirənlərin və yaxşı iş görənlərin mükafatı öz Rəbbi yanındadır. Onlara heç bir qorxu yoxdur və onlar kədərlənməyəcəklər"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Bir zaman sizdən əhd-peyman aldıq, dağı başınız üstünə qaldırdıq və buyurduq: “Sizə verdiyimizdən möhkəm yapışın və onun içindəkiləri yada salın ki, bəlkə Allahdan qorxasınız!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Sonra bunun ardınca siz yenə üz döndərdiniz. Əgər sizə Allahın lütfü və rəhmi olmasaydı, əlbəttə, ziyana uğrayanlardan olardınız"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Siz artıq içərinizdən şənbə günü həddi aşanları tanıyırsınız. Biz də onlara: “Mənfur meymunlar olun!”– dedik"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "Biz bunu onlarla bir dövrdə olanlar və onlardan sonra gələnlər üçün ibrət, müttəqilər üçün isə öyüd-nəsihət etdik"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Bir zaman Musa öz xalqına dedi: “Allah sizə bir inək kəsmənizi əmr edir!” Onlar: “Sən bizi ələ salırsan?”– dedilər. Musa: “Cahil olmaqdan Allaha sığınıram!”– dedi"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Onlar dedilər: “Rəbbinə dua et ki, onun nə cür inək olduğunu bizə bildirsin!” Musa dedi: “Allah buyurur ki, o, nə çox qoca, nə də çox cavan, bunların ikisinin arasında olan orta yaşlı bir inəkdir. Sizə nə əmr edilirsə, onu da yerinə yetirin!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Onlar dedilər: “Rəbbinə dua et ki, onun rəngini də bizə bildirsin!” Musa dedi: “Allah buyurur ki, o, sarı rəngli parlaq bir inəkdir. Ona baxanları sevindirir”"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "Onlar dedilər: “Rəbbinə dua et ki, onun nə cür inək olduğunu bizə bildirsin! Çünki bu inək bizə başqa inəklərə bənzər görünür. Əgər Allah istəsə, biz düz yolda olarıq”"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "Musa dedi: “Allah buyurur ki, o, nə yer şumlamağa, nə də əkin suvarmağa ram edilməmiş bir inəkdir. O, sağlamdır və onda heç bir ləkə-qüsur yoxdur”. Onlar: “İndi sən əsl həqiqəti bildirdin!”– dedilər və onu kəsdilər. Halbuki az qala bunu yerinə yetirməyəcəkdilər"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "O zaman siz bir nəfəri öldürmüşdünüz və onun qatili barəsində mübahisə edirdiniz. Allah isə sizin gizlətdiklərinizi aşkara çıxarar"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "Biz dedik: “İnəyin bir parçasını ona (ölüyə) vurun!” Allah ölüləri bu cür dirildir və Öz ayələrini sizə göstərir ki, bəlkə anlayasınız"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "Sonra bunun ardınca sizin qəlbləriniz sərtləşib daş kimi, hətta ondan da sərt oldu. Həqiqətən, daşlardan eləsi var ki, içərisindən çaylar qaynayıb çıxar. Onlardan eləsi də var ki, yarılar, içərisindən su çıxar. Eləsi də var ki, Allahın qorxusundan yuvarlanıb yerə düşər. Allah sizin nə etdiklərinizdən xəbərsiz deyildir"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "Siz yəhudilərin sizə inanacaqlarınamı ümid edirsiniz? Halbuki onlardan bir zümrə var idi ki, Allahın Sözünü eşidib anladıqdan sonra, bilə-bilə onu təhrif edirdilər"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "Onlar möminlərlə rastlaşanda: “Biz iman gətirdik!”– deyir, bir-birləri ilə xəlvətdə qalanda isə: “Allahın sizə bildirdiyini onlara danışırsınız ki, Rəbbinizin yanında bunu sizə qarşı dəlil gətirsinlər? Məgər başa düşmürsünüz?”– deyirlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "Məgər onlar bilmirlər ki, Allah onların gizli saxladıqlarını və aşkara çıxartdıqlarını bilir"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Onların arasında Kitabı bilməyən elə savadsızlar vardır ki, onlar ancaq xülyalara dalar və ancaq zənnə uyarlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "Vay o şəxslərin halına ki, onlar öz əlləri ilə kitab yazır, sonra da: “Bu, Allah tərəfindəndir!”– deyirlər ki, onunla cüzi miqdarda pul əldə edə bilsinlər. Öz əlləri ilə yazdıqlarına görə vay onların halına! Qazandıqları şeyə görə vay onların halına"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "Onlar dedilər: “Od bizə ancaq bir neçə gün toxunacaq!” De: “Məgər siz Allahdan əhd almısınız? Allah verdiyi əhdə əsla xilaf çıxmaz! Yoxsa Allaha qarşı bilmədiyinizi danışırsınız?”"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Xeyr! Günah qazanan və xətaları özlərini bürüyən kimsələr – məhz onlar Od sakinləridir və orada əbədi qalacaqlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "İman gətirib yaxşı işlər görənlər isə Cənnət sakinləridir. Onlar orada əbədi qalacaqlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Bir zaman Biz İsrail oğulları ilə: “Allahdan qeyrisinə ibadət etməyəcək, valideynlərə, qohum-əqrəbaya, yetimlərə və kasıblara xeyirxahlıq edəcək, insanlara xoş söz deyəcək, namaz qılacaq və zəkat verəcəksiniz!”– deyə əhd bağladıq. Sonra az bir qisminiz istisna olmaqla, haqdan üz çevirib döndünüz"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "O zaman Biz sizinlə: “Bir-birinizin qanını tökməyəcəksiniz, bir-birinizi yurdlarınızdan çıxarmayacaqsınız!”– deyə əhd kəsdik. Sonra da siz özünüz şahidlik edərək bu əhdi təsdiqlədiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Siz o kəslərsiniz ki, bir-birinizi öldürürsünüz, özünüzdən olan bir dəstəni öz yurdundan çıxarırsınız, onlara qarşı pislik və düşmənçilik etməkdə bir-birinizə kömək edirsiniz. Onlar əsir tutulub yanınıza gətiriləndə, fidyə verib onları azad edirsiniz. Halbuki onları yurdlarından çıxartmaq sizə haram edilmişdi. Yoxsa siz Kitabın bir qisminə inanıb, digər qismini inkarmı edirsiniz? Sizlərdən bunu edənin cəzası dünya həyatında rüsvay olmaq, Qiyamət günü isə ən şiddətli əzaba məhkum olmaqdır. Allah sizin etdiklərinizdən bixəbər deyildir"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "Onlar axirəti verib dünya həyatını satın aldılar. Ona görə də onların nə əzabı yüngülləşdiriləcək, nə də onlara kömək göstəriləcəkdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Biz Musaya Kitab verdik və ondan sonra bir-birinin ardınca elçilər göndərdik. Biz Məryəm oğlu İsaya da açıq-aydın dəlillər verdik və onu müqəddəs ruhla (Cəbrail ilə) qüvvətləndirdik. Məgər hər dəfə sizə göndərilən elçi ürəyinizə yatmayan bir şey gətirəndə siz təkəbbür göstərmədinizmi? Onların bir qismini yalançı hesab edib, bir qismini də öldürmədinizmi"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "Onlar dedilər: “Qəlblərimiz qapalıdır!” Xeyr, Allah onları məhz küfrlərinə görə lənətləmişdir. Odur ki, onlar olduqca az inanırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Onlara Allah tərəfindən özlərində olanı təsdiqləyən bir Kitab (Quran) gəldikdə onu inkar etdilər. Halbuki əvvəllər kafirlər üzərində qələbə diləyirdilər. Onlara tanıdıqları peyğəmbər gəldikdə isə onu inkar etdilər. Allah kafirlərə lənət etsin"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Allahın Öz qullarından istədiyi kimsəyə Öz lütfündən bəxş etməsinə həsəd aparmaq və Onun nazil etdiyini inkar etməklə nəfslərini satıb əvəzində aldıqları şey necə də pisdir! Onlar Allahın onlara bəslədiyi qəzəbi daha da şiddətləndirdilər. Kafirlərə alçaldıcı bir əzab vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Onlara: “Allahın nazil etdiyinə inanın!”– deyildikdə, onlar: “Biz özümüzə nazil edilənə inanırıq”– deyib onun ardınca gələni inkar edirlər. Halbuki Quran onların yanında olanı təsdiqləyən bir həqiqətdir. De: “Əgər siz inanan idinizsə, bəs nə üçün əvvəllər Allahın peyğəmbərlərini öldürürdünüz?”"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Musa sizə açıq-aydın dəlillər gətirmişdi. O getdikdən sonra siz buzovu ilahiləşdirib özünüzə zülm etdiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "O zaman Biz sizinlə əhd bağlayıb dağı başınızın üstünə qaldırdıq: “Sizə verdiyimizdən möhkəm yapışın və eşidin!”– deyə əmr etdik. Onlar: “Eşitdik və asi olduq!”– dedilər. Küfrlərinə görə buzova olan məhəbbət onların qəlblərinə yeridildi. De: “Əgər siz möminsinizsə, imanınızın sizə əmr etdiyi şey necə də pisdir!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "De: “Əgər Allah yanında Axirət yurdu digər insanlara deyil, yalnız sizin üçün hazırlanıbsa və doğru deyirsinizsə, onda özünüzə ölüm diləyin!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Onlar öz əllərinin etdiyinə görə bunu heç vaxt diləməzlər. Allah zalımları tanıyır"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "Sən onların həyata bütün insanlardan, hətta müşriklərdən də daha həris olduqlarını görəcəksən. Onlardan hər biri min il ömür sürməsini istər. Halbuki uzun ömür belə onu əzabdan uzaqlaşdıra bilməz. Allah onların nə etdiklərini görür"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "De: “Cəbrailə düşmən olan kəs bilsin ki, Allahın izni ilə Quranı özündən əvvəlkiləri təsdiqləyən, möminlərə doğru yol göstərən və müjdə verən bir kitab kimi sənin qəlbinə o nazil etmişdir”"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Kim Allaha, Onun mələklərinə və elçilərinə, Cəbrailə və Mikailə düşməndirsə, şübhəsiz ki, Allah da o kafirlərə düşməndir"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Biz sənə aydın başa düşülən dəlillər nazil etdik ki, onları da yalnız fasiqlər inkar edərlər"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "Onlar hər dəfə əhd bağladıqda içərilərindən bir dəstə onu pozmurmu? Həm də onların çoxu buna inanmır"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Onlara Allah tərəfindən özlərində olanı təsdiqləyən bir elçi gəldikdə Kitab verilənlərdən bir dəstə guya həqiqəti bilmirmiş kimi Allahın Kitabına arxa çevirdilər"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "Onlar Suleymanın səltənətində şeytanların oxuduqlarının ardınca getdilər. Süleyman kafir olmadı. Lakin şeytanlar sehri və Babildə Harut və Marut adlı iki mələyə nazil olanı insanlara öyrədərək kafir oldular. Mələklər: “Biz ancaq bir sınağıq, sən gəl kafir olma!”– deməmiş onu heç kəsə öyrətmirdilər. Yəhudilər ərlə arvadı bir-birindən ayıracaq işləri onlardan öyrənirdilər. Lakin onlar Allahın izni olmadan heç kəsə zərər verə bilməzlər. Onlar özlərinə zərər verən, faydası olmayan şeyləri öyrənirdilər. Onlar bilirdilər ki, onu əldə edən kimsə üçün axirətdə heç bir pay yoxdur. Nəfslərinin əvəzində satın aldıqları şey necə də pisdir! Kaş bunu biləydilər"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Onlar iman gətirib Allahdan qorxsaydılar, Allahın verdiyi mükafat onlar üçün daha xeyirli olardı. Kaş bunu biləydilər"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Ey iman gətirənlər! Peyğəmbərə: “Bizə qayğı göstər!”– deməyin; “Bizə nəzər yetir!”– deyin və (Allahın əmrini) eşidin! Kafirləri ağrılı-acılı bir əzab gözləyir"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Nə Kitab əhlinin kafir olanları, nə də müşriklər sizə Rəbbinizdən bir xeyir nazil olmasını istəmirlər. Allah isə mərhəmətini istədiyi şəxsə məxsus edir. Allah böyük lütf sahibidir"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Biz hər hansı bir ayəni dəyişdirir və ya onu unutdururuqsa, ondan daha yaxşısını, və ya ona bənzərini gətiririk. Məgər bilmirsən ki, Allah hər şeyə qadirdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "Bilmirsənmi ki, göylərdə və yerdə hökmranlıq təkcə Allaha məxsusdur? Sizin Allahdan başqa nə bir himayəçiniz, nə də bir köməkçiniz vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Yoxsa bundan əvvəl Musadan tələb olunduğu kimi siz də Peyğəmbərinizdən möcüzə tələb etmək istəyirsiniz? İmanı küfrə dəyişən kəs, əlbəttə, doğru yoldan azmışdır"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Kitab əhlindən bir çoxu həqiqəti bildikdən sonra da, paxıllıqları üzündən sizi, siz iman gətirdikdən sonra kafirliyə qaytarmaq istəyərlər. Allah Öz əmri ilə gəlincəyə qədər onları bağışlayın və onlara baş qoşmayın! Həqiqətən, Allah hər şeyə qadirdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Namaz qılın, zəkat verin! Qabaqcadan özünüz üçün nə xeyir hazırlasanız onun əvəzini Allahın yanında tapacaqsanız. Şübhəsiz ki, Allah nə etdiklərinizi görür"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Onlar dedilər: “Yəhudilərdən və ya xaçpərəstlərdən başqa heç kəs Cənnətə daxil olmayacaq!” Bu onların xam xəyallarıdır. De: “Əgər doğru deyirsinizsə, dəlilinizi gətirin!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Xeyr! Kim yaxşı işlər görüb Allaha təslim olarsa, Rəbbi yanında onun mükafatı olar. Onlara heç bir qorxu yoxdur və onlar kədərlənməyəcəklər"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Yəhudilər: “Xaçpərəstlər heç bir şeyə əsaslanmırlar!”– deyir, xaçpərəstlər isə: “Yəhudilər heç bir şeyə əsaslanmırlar!”– deyirlər. Halbuki onlar Kitab oxuyandırlar. Cahillər də onların danışdığı kimi danışırlar. Allah ixtilafa düşdükləri şey barəsində Qiyamət günü onların arasında hökm verəcəkdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Allahın məscidlərində Onun adının zikr edilməsinə maneçilik törədənlərdən və onların viranə qalmasına çalışanlardan daha zalım kim ola bilər? Əslində onlar oraya qorxa-qorxa daxil olmalı idilər. Onlar üçün dünyada rüsvayçılıq, axirətdə isə böyük bir əzab vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Məşriq də, məğrib də Allahındır! Hansı səmtə yönəlsəniz, Allahın Üzü orada olar. Həqiqətən, Allah hər şeyi Əhatəedəndir, Biləndir"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Onlar dedilər: “Allah Özünə övlad götürmüşdür!” Halbuki O, pakdır, müqəddəsdir! Həqiqətən, göylərdə və yerdə nə varsa, Ona məxsusdur. Hər şey Ona baş əyir"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "Göyləri və yeri icad edən Odur. O, bir işi yaratmaq istədikdə ona ancaq: “Ol!”– deyər, o da olar"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Cahillər dedilər: “Bəs nə üçün Allah bizi danışdırmır, yaxud bizə bir ayə gəlmir?” Onların əcdadları da elə onlar kimi danışırdılar. Onların qəlbləri bir-birinə oxşayır. Biz, yəqinliklə inanan bir xalqa dəlillərimizi bəyan etmişik"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "Biz səni haqq ilə müjdələyən və xəbərdarlıq edən bir peyğəmbər göndərdik. Cəhənnəm sakinləri barəsində isə sən sorğu-sual olunmayacaqsan"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Sən onların dininə tabe olmayınca, nə yəhudilər, nə də xaçpərəstlər səndən razı qalmayacaqlar. De: “Yalnız Allahın haqq yolu doğru yoldur!” Əgər sənə gələn elmdən sonra onların istəklərinə uysan, səni Allahdan nə bir qoruyan, nə də bir xilas edən olar"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Kitab verdiyimiz kəslər onu layiqincə oxuyurlar. Onlar ona iman gətirənlərdir. Onu inkar edənlər isə ziyana uğrayanlardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Ey İsrail oğulları! Sizə bəxş etdiyim nemətimi və vaxtı ilə sizi aləmlərdən üstün etdiyimi xatırlayın"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Qorxun o gündən ki, o vaxt heç kəs heç kəsə fayda verə bilməyəcək, heç kəsdən bir fidyə qəbul edilməyəcək, heç kəsin şəfaəti fayda verməyəcək və onlara kömək göstərilməyəcək"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Rəbbi İbrahimi bəzi kəlmələrlə sınadığı zaman o, bunları tamamilə yerinə yetirdi. Allah: “Mən səni insanlara imam edəcəyəm!”– dedi. İbrahim: “Nəslimdən də (imam et)!”– dedi. Allah: “Zalımlar Mənim onlarla əhd bağlamağıma nail olmazlar!”– dedi"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Biz evi (Kəbəni) insanlar üçün ziyarət və əmin-amanlıq yeri etdik. “İbrahimin dayandığı yeri namazgah edin!” Biz İbrahimə və İsmailə: “Evimi təvaf edənlər, etikafa girənlər, rüku və səcdə edənlər üçün təmizləyin!”– dedik"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "Bir zaman İbrahim dedi: “Ey Rəbbim! Buranı təhlükəsiz bir şəhər et, onun əhalisinə, – onlardan Allaha və Axirət gününə iman gətirənlərə – hər növ məhsullardan ruzi ver!” Allah dedi: “Mən kafir olanlara bir qədər zövq almağa izin verərəm, sonra da onları Cəhənnəm əzabına giriftar edərəm. Ora necə də pis dönüş yeridir!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "O zaman İbrahim və İsmail evin (Kəbənin) bünövrəsini qaldırarkən belə dua etdilər: “Ey Rəbbimiz! Bunu bizdən qəbul et! Həqiqətən, Sən Eşidənsən, Bilənsən"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Ey Rəbbimiz! İkimizi də Sənə təslim olacaq, nəslimizdən də Sənə təslim olan bir ümmət et. Bizə ibadət qaydalarını göstər və bizim tövbələrimizi qəbul et! Həqiqətən, Sən tövbələri qəbul edənsən, Rəhmlisən"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Ey Rəbbimiz! Onların içərisindən özlərinə elə bir elçi göndər ki, Sənin ayələrini onlara oxusun, Kitabı və hikməti onlara öyrətsin və onları günahlardan təmizləsin! Həqiqətən, Sən Qüdrətlisən, Müdriksən!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Səfeh olanlardan başqa kim İbrahimin dinindən üz çevirər? Biz onu dünyada elçi seçdik. Şübhəsiz ki, o, axirətdə də əməlisalehlərdən olacaqdır"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "Rəbbi ona: “Təslim ol!”– dedikdə, o: “Aləmlərin Rəbbinə təslim oldum!”– demişdi"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "İbrahim də, Yaqub da bunu oğullarına vəsiyyət etdilər: “Ey oğullarım! Həqiqətən, Allah bu dini sizin üçün seçmişdir. Siz də ancaq müsəlman olaraq ölməlisiniz!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Yoxsa siz Yaquba ölüm gəldikdə onun yanında idiniz? O zaman o, öz oğullarına dedi: “Məndən sonra nəyə ibadət edəcəksiniz?” Onlar dedilər: “Sənin İlahına, atalarının – İbrahimin, İsmailin və İshaqın İlahı olan Tək İlaha ibadət edəcəyik. Biz yalnız Ona təslim olanlarıq!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Onlar bir ümmət idi ki, gəlib getdilər. Onların qazandıqları özlərinə, sizin qazandığınız isə sizə aiddir. Siz onların etdikləri barədə sorğu-suala tutulmayacaqsınız"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Onlar dedilər: “Yəhudi və ya xaçpərəst olun ki, doğru yola yönələsiniz!” De: “Əksinə, biz hənif İbrahimin dinindəyik. O, müşriklərdən deyildi”"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "Deyin: “Biz Allaha, bizə nazil olana, İbrahimə, İsmailə, İshaqa, Yaquba və onun nəslinə nazil olana, Musa və İsaya verilənlərə, özlərinin Rəbbi tərəfindən peyğəmbərlərə verilənlərə iman gətirdik. Biz onların arasında fərq qoymuruq. Biz yalnız Ona təslim olanlarıq!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "Əgər onlar da siz iman gətirdiyinizə iman gətirsələr, doğru yola yönəlmiş olarlar. Yox, əgər üz döndərsələr, mütləq ixtilafa düşmüş olarlar. Onlardan qorunmaq üçün Allah sənə kifayət edər. O, Eşidəndir, Biləndir"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "De: “Budur Allahın dini! Kimin dini Allahın dinindən daha doğru ola bilər? Biz yalnız Ona ibadət edənlərik!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "De: “Allah barəsində bizimlə mübahisəmi edirsiniz? Halbuki O, bizim də Rəbbimiz, sizin də Rəbbinizdir! Bizim əməllərimiz bizə, sizin əməlləriniz isə sizə aiddir. Biz Ona sadiq olanlarıq!”"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Yoxsa siz İbrahimin, İsmailin, İshaqın, Yaqubun və onun nəslinin yəhudi və yaxud xaçpərəst olduğunu deyirsiniz? De: “Siz daha yaxşı bilirsiniz, yoxsa Allah?” Allahın onlara nazil etdiyi şəhadəti gizlədən kimsələrdən daha zalım kim ola bilər? Allah sizin etdiklərinizdən xəbərsiz deyildir"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Onlar bir ümmət idi ki, gəlib getdi. Onların qazandıqları özlərinə, sizin qazandığınız isə sizə aiddir. Siz onların etdikləri barədə sorğu-sual olunmayacaqsınız"
+        }
+    ]
+}
