@@ -62,18 +62,18 @@ Similarly:
 
 - `/info` <br>
 Get all the details about quran such as number of juzs,sajdas, rukus etc in quran <br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@v/info.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json")<br>
+[https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json")<br>
 
 - `/fonts` <br>
 List fonts available: <br>
-[https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@v/fonts.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json")<br>
+[https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json")<br>
 
 ### Contribution:
 Without your contribution, this repo won't survive, incase of any issues or problems, questions etc, you can let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
 - Please help by adding new translations to this repo, you can share me the translation [here](https://github.com/fawazahmed0/quran-api/issues/new "here")
 
 or
-- Read [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/References.md "Contribute") to add the translation directly to this repo
+- Read [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute") to add the translation directly to this repo
 
 
 ### Help Needed:
