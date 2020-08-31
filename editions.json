@@ -489,16 +489,6 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ahmedali.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ahmedali.min.json"
     },
-    "eng_ahmedrazakhan": {
-        "name": "eng-ahmedrazakhan",
-        "author": "Ahmed Raza Khan",
-        "language": "English",
-        "direction": "ltr",
-        "source": "http://tanzil.net",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ahmedrazakhan.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ahmedrazakhan.min.json"
-    },
     "eng_ajarberry": {
         "name": "eng-ajarberry",
         "author": "A. J. Arberry",

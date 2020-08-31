@@ -747,3 +747,9 @@ C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js delete eng-eng
  deletion completed for eng-englishtranslit-la
  deletion completed for eng-englishtranslit-lad
 editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\GitHub\quran-api\apiscript.js delete eng-ahmedrazakhan
+ deletion completed for eng-ahmedrazakhan
+ deletion completed for eng-ahmedrazakhan-la
+ deletion completed for eng-ahmedrazakhan-lad
+editions.json and editions.min.json generated
