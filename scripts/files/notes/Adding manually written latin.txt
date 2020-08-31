@@ -1,0 +1,3 @@
+first add the original translation, 
+then add the latin translation, 
+then update the latin translation with whatever edition name you want in the json name value and done
