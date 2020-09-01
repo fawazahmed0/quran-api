@@ -113,5 +113,4 @@ All the open source projects and dawah/Islamic organizations
 Please see [Editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "Editions") and [References](https://github.com/fawazahmed0/quran-api/blob/1/References.md "References")
 
 
-
 [:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/README.md)
