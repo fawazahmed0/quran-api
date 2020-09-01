@@ -102,7 +102,7 @@ In case you find any translation whose authenticity could be questioned, please 
 ### Donation:
  - Even though I worked very hard on this project, I will not ask donation for myself. I will take the reward from God in this world and the next
  - But what I ask you is to donate the authors and Islamic/dawah publishers who have worked so hard to make these translations, so that the word of God could spread around the world and people will know about the one who created them.
- Here is the [editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "editions") and [references](https://github.com/fawazahmed0/quran-api/blob/1/References.md "references") list, you might have to Google to get more details about them.
+ Here is the [Editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "Editions") and [References](https://github.com/fawazahmed0/quran-api/blob/1/References.md "References") list, you might have to Google to get more details about them.
 
 ### References:
 All the open source projects and dawah/Islamic organizations
