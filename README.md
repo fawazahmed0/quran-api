@@ -1,4 +1,4 @@
-### Quran API
+### Quran API                                                                                       
 **In the name of God, who have guided me to do this work and I seek refuge in him from the evil of his creation**
 
 
@@ -111,3 +111,7 @@ But what I ask you is to donate the authors and Islamic/dawah publishers who hav
 All the open source projects and dawah/Islamic organizations
 
 Please see [Editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "Editions") and [References](https://github.com/fawazahmed0/quran-api/blob/1/References.md "References")
+
+
+
+[*Improve this page* :pencil2:](https://github.com/fawazahmed0/quran-api/edit/1/README.md)
