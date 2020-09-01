@@ -114,4 +114,4 @@ Please see [Editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editio
 
 
 
-[*Improve this page* :pencil2:](https://github.com/fawazahmed0/quran-api/edit/1/README.md)
+[:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/README.md)
