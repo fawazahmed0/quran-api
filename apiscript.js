@@ -153,7 +153,7 @@ async function create(update) {
     var duplicatefilename = checkduplicateTrans(cleanarr)
     // We don't want to check for duplicates during update operation
     if (duplicatefilename && !update) {
-      logmsg("\nThis file " + filename + " seems to be a duplicate copy of " + duplicatefilename)
+      logmsg("\nThis file " + filename + " seems to be a duplicate copy of edition " + duplicatefilename.replace(/(\.[^\.]*$)/i, ""))
       if (checkduplicate)
         continue
       else
@@ -228,14 +228,14 @@ async function create(update) {
       var genLatinarr
       // if this is create operation or if the latin script forr the edition doesn't exist, we will try building one
       if (!update || !fulllatinarr)
-        genLatinarr = genLatin(cleanarr)
+        genLatinarr = await genLatin(cleanarr, genJSON['name'])
       else if (Object.keys(uniqueobj).length == 0) {
         // if there are no edited lines in the updated translation, maybe only json data was updated in the file
         // So we will use the old latin translation
         genLatinarr = fulllatinarr
       } else {
         // generating latin only for edited lines
-        var latinreturn = genLatin(Object.values(uniqueobj))
+        var latinreturn = await genLatin(Object.values(uniqueobj), genJSON['name'])
         var i = 0
         // The return latin script should be an array and the no of lines we passed, should be returned back
         if (Array.isArray(latinreturn) && Object.keys(uniqueobj).length == latinreturn.length) {
@@ -1031,8 +1031,9 @@ function isDiacritic(arr) {
 
   return false
 }
-
-function genLatin(arr) {
+// Takes an array to be translated and it's editionName, the editionName will be used to keep track of failed latin generations,
+// in the middle
+async function genLatin(arr,edName) {
   // max chars for which latin can be generated, this is what google translate supports through pytranslate library
   var maxLatin = 1500
   // first check whether google gives the latin or not
@@ -1066,9 +1067,19 @@ function genLatin(arr) {
   // max subarray we can give while calling the translate script
   var maxarr = 10
   while (holderarr.length > 0) {
-    // Can give around 10 or something arrays to the script , which is equal to maxLatin*10 characters i.e 1500*10
+    // https://stackoverflow.com/a/39914235/2437224
+    // Waiting for few random milliseconds before fetching, so that google translate doesn't block our requests
+    await new Promise(r => setTimeout(r, getRandomNo(500)));
+    // Can give around 10 or something arrays to the script , which is equal to maxLatin*maxarr characters i.e 1500*10
     result = runPyScript(path.join(__dirname, 'translate.py'), holderarr.splice(0, maxarr))
+try{
     result = JSON.parse(result)
+  }catch(error){
+    logmsg("\n Got an error in middle of latin generation, translate script have failed")
+    logmsg("\n Noting down the editionName for future latin generation")
+    fs.appendFileSync(path.join(__dirname, "failed latin generation.txt"), edName+'\n')
+    return
+}
     // removing last element as it's empty space returned by translate.py
     result.splice(-1)
     fullresult = fullresult.concat(result)
@@ -1103,7 +1114,7 @@ function runPyScript(pathToScript, args) {
   if (output.error)
     output = spawnSync('python', [pathToScript].concat(args))
   if (output.error)
-    console.log("Python 3 is not installed in the system, please install it")
+    console.log("Either the translate script have failed or Python 3 might not be installed in the system")
 
   return output.stdout.toString();
 }
@@ -1157,4 +1168,10 @@ function logmsg(str, skipconsole) {
   fs.appendFileSync(path.join(__dirname, "log.txt"), str)
   if (!skipconsole)
     console.log(str)
+}
+
+// Returns random number, generates random less than the input argument
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+function getRandomNo(max) {
+  return Math.floor(Math.random() * Math.floor(max));
 }
