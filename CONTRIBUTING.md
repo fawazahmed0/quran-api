@@ -29,14 +29,17 @@ The [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/databas
     "source":"Specify source here if any",
     "comments":"Add any comments here"
     }
-    ```
-    
-Please see [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals") , all the files have the json data at end of file.
+    ```  
+    Please see [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals") , all the files have the json data at end of file.
 When specifying the language, please use proper [iso name of language](https://github.com/fawazahmed0/quran-api/blob/1/isocodes/iso-codes.json "iso name of language")
 
-  [Example 1](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/database/originals/en.sahih#L6238 "Example 1")
+    [Example 1](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/database/originals/en.sahih#L6238 "Example 1")
+    
+    [Example 2](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/database/originals/zh.jian#L6239 "Example 2")
+    
+    
 
-  [Example 2](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/database/originals/zh.jian#L6239 "Example 2")
+
 
 3. Copy and paste the translations to the [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory, you can paste any number of translations.
 
