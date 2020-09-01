@@ -68,10 +68,12 @@ Lets say you what to know whether a translation exists in the database or not, o
 1. Run the following command:
 
     `node apiscript.js search "String To be Searched"`
+    
+    It can take multiple arguments example:
 
-It can take multiple arguments example:
+    `node apiscript.js search "String To be Searched" "String2 To be Searched"`
 
-    `node apiscript.js search "String To be Searched" "String2 To be Searched" `
+    
 
 
 ### Deleting Translation:
@@ -79,9 +81,10 @@ It can take multiple arguments example:
 
     `node apiscript.js delete editionNameToDelete`
     
-    It can take multiple argunments at single time example:
+    It can take multiple arguments at single time example:
     
     `node apiscript.js delete editionNameToDelete editionName2ToDelete`
+    
 
 
 
