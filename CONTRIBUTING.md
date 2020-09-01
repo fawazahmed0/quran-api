@@ -69,9 +69,9 @@ Lets say you what to know whether a translation exists in the database or not, o
 
     `node apiscript.js search "String To be Searched"`
 
-It can take multiple argument example:
+It can take multiple arguments example:
 
-`node apiscript.js search "String To be Searched" "String2 To be Searched" `
+    `node apiscript.js search "String To be Searched" "String2 To be Searched" `
 
 
 ### Deleting Translation:
