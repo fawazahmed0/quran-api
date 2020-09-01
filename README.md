@@ -35,7 +35,7 @@ Get a minified version of it:<br>
 
 - `/editions/{editionName}`
 
-Lists the whole quran/quran translation:<br>
+Get the whole quran/quran translation:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json") <br>
 
 Get a latin(roman) script version of it by adding -la:<br>
