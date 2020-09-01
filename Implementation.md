@@ -2,7 +2,7 @@
 
 ### Flags:
 
-**Warning**:
+**Warning**:<br>
 Never change the values of the flags, changing it will introduce inconsistencies in the file structures and I cannot merge the PR, if the script was run with flag values changed.
 
 ### checkduplicate:
@@ -57,6 +57,9 @@ In future it's possible that the [googletrans](https://github.com/ssut/py-google
 In case you still have questions refer [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js"), [translate.py](https://github.com/fawazahmed0/quran-api/blob/1/translate.p "translate.py") 
 and also you can [ask me](https://github.com/fawazahmed0/quran-api/issues/new "ask me ")
 
+<br>
+<br>
+<br>
 
 [:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/Implementation.md)
 
