@@ -22,14 +22,15 @@ The [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/databas
     [Example 3](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/database/originals/ara-quranuthmani.txt "Example 3")
 
 2.  Add JSON data at end of the file in following format:
-```json
-{
-"author":"Name of the author",
-"language":"Name of the language",
-"source":"Specify source here if any",
-"comments":"Add any comments here"
+    ```json
+    {
+    "author":"Name of the author",
+    "language":"Name of the language",
+    "source":"Specify source here if any",
+    "comments":"Add any comments here"
 }
-```
+    ```
+    
 Please see [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals") , all the files have the json data at end of file.
 When specifying the language, please use proper [iso name of language](https://github.com/fawazahmed0/quran-api/blob/1/isocodes/iso-codes.json "iso name of language")
 
