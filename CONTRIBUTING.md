@@ -117,4 +117,5 @@ The above given details are enough to contribute to this repo, incase you want t
 <br>
 <br>
 <br>
+
 [:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/CONTRIBUTING.md)
