@@ -108,7 +108,7 @@ Lets say you what to know whether a translation exists in the database or not, o
 
 2. Run the following command:
 
-    `node apiscript.js fontsgen`
+    `node apiscript.js fontsgen`<br>
 
 Facing any issue? [Let me Know](https://github.com/fawazahmed0/quran-api/issues/new "Let me Know ")
 
