@@ -89,6 +89,7 @@ It can take multiple argument example:
 1. Copy and paste the fonts into [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory, you can paste any number of fonts in [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory
 
 2. Run the following command:
+
     `node apiscript.js fontsgen`
 
 ### Updating a font:
@@ -101,6 +102,7 @@ It can take multiple argument example:
 1. Delete the font and all its formats specified in [fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "fonts.json") from [fonts](https://github.com/fawazahmed0/quran-api/tree/1/fonts "fonts") directory .
 
 2. Run the following command:
+
     `node apiscript.js fontsgen`
 
 Facing any issue? [Let me Know](https://github.com/fawazahmed0/quran-api/issues/new "Let me Know ")
