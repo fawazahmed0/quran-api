@@ -46,3 +46,7 @@ Here is a list of websites that helped me either directly or indirectly in makin
 - https://github.com/Tarobish
 - https://github.com/quranacademy
 - https://github.com/quranacademy/test-arabic-fonts
+
+
+[:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/References.md)
+
