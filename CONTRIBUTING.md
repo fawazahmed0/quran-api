@@ -14,11 +14,11 @@ Never modify/add the files manually, for everything we will use [apiscript.js](h
 1. The translation should either be in 6236 lines(ignoring empty lines) or if it has more lines then it should at least have verse number at the beginning of each verse, It doesn't matter whether the chapter number is there or not.
 The [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check your translation will work fine or not.
 
-[Example 1](https://raw.githubusercontent.com/fawazahmed0/quran-api/1/database/originals/Uthmanic%20v13.txt.new "Example 1")
+    [Example 1](https://raw.githubusercontent.com/fawazahmed0/quran-api/1/database/originals/Uthmanic%20v13.txt.new "Example 1")
 
-[Example 2](https://github.com/fawazahmed0/quran-api/blob/1/database/originals/en.itani.txt "Example 2")
+    [Example 2](https://github.com/fawazahmed0/quran-api/blob/1/database/originals/en.itani.txt "Example 2")
 
-[Example 3](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/database/originals/ara-quranuthmani.txt "Example 3")
+    [Example 3](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/database/originals/ara-quranuthmani.txt "Example 3")
 
 2.  Add JSON data at end of the file in following format:
 ```json
@@ -32,9 +32,9 @@ The [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/databas
 Please see [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals") , all the files have the json data at end of file.
 When specifying the language, please use proper [iso name of language](https://github.com/fawazahmed0/quran-api/blob/1/isocodes/iso-codes.json "iso name of language")
 
-[Example 1](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/database/originals/en.sahih#L6238 "Example 1")
+  [Example 1](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/database/originals/en.sahih#L6238 "Example 1")
 
-[Example 2](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/database/originals/zh.jian#L6239 "Example 2")
+  [Example 2](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/database/originals/zh.jian#L6239 "Example 2")
 
 3. Copy and paste the translations to the [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory, you can paste any number of translations.
 
