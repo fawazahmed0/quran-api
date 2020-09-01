@@ -45,7 +45,8 @@ When specifying the language, please use proper [iso name of language](https://g
 
 4. Run the following command:
 
-`node apiscript.js create`
+    `node apiscript.js create`
+
 
 If everything goes well, then the start directory will be empty and all your translations will move into [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals")
 now push the changes to this repo
@@ -62,7 +63,7 @@ Let say there is a spelling mistakes you want to correct in the translations:
 
 3. And then, enter the following command:
 
-`node apiscript.js update`
+    `node apiscript.js update`
 
 
 ### Searching Translation:
@@ -71,25 +72,25 @@ Lets say you what to know whether a translation exists in the database or not, o
 
 1. Run the following command:
 
-`node apiscript.js search "String To be Searched"`
+    `node apiscript.js search "String To be Searched"`
 It can take multiple argunments example:
 
-`node apiscript.js search "String To be Searched" "String2 To be Searched" `
+    `node apiscript.js search "String To be Searched" "String2 To be Searched" `
 
 ### Deleting Translation:
 1. Translations should not be deleted, otherwise it will break the api, but if there is a need, it can be done using:
 
-`node apiscript.js delete editionNameToDelete`
+    `node apiscript.js delete editionNameToDelete`
 It can take multiple argunments at single time example:
 
-`node apiscript.js delete editionNameToDelete editionName2ToDelete`
+    `node apiscript.js delete editionNameToDelete editionName2ToDelete`
 
 
 ### Adding new font:
 1. Copy and paste the fonts into [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory, you can paste any number of fonts in [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory
 
 2. Run the following command:
-`node apiscript.js fontsgen`
+    `node apiscript.js fontsgen`
 
 ### Updating a font:
 1. Updating a font is a two step process,
@@ -101,7 +102,7 @@ It can take multiple argunments at single time example:
 1. Delete the font and all its formats specified in [fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "fonts.json") from [fonts](https://github.com/fawazahmed0/quran-api/tree/1/fonts "fonts") directory .
 
 2. Run the following command:
-`node apiscript.js fontsgen`
+    `node apiscript.js fontsgen`
 
 Facing any issue? [Let me Know](https://github.com/fawazahmed0/quran-api/issues/new "Let me Know ")
 
