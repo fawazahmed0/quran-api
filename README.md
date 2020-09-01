@@ -81,7 +81,7 @@ or
 
 ### Help Needed:
 
-[Make Colored Tajweed Fonts](https://github.com/fawazahmed0/quran-api/issues/7 "Make Colored Tajweed Fonts")
+[Make Colored Tajweed Fonts](https://github.com/fawazahmed0/quran-api/issues/12 "Make Colored Tajweed Fonts")
 
 
 ### Download:
