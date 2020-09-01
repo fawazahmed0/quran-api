@@ -11,19 +11,21 @@ The purpose of this repo is to spread the word of God everywhere in the world
 - Latin/roman translation for many languages
 
 
-**URL Structure:** <br>
+**URL Structure:** 
 
-`https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@{apiVersion}/{endpoint}` <br>
+`https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@{apiVersion}/{endpoint}` 
 
 **Formats:**
 
-The Endpoints Supports HTTP GET Method and returns the data in  two formats:<br>
+The Endpoints Supports HTTP GET Method and returns the data in  two formats:
 
-`/{endpoint}.min.json`<br>
-`/{endpoint}.json`<br>
+`/{endpoint}.min.json`
 
-**Endpoints:**<br>
-- `/editions`<br>
+`/{endpoint}.json`
+
+**Endpoints:**
+
+- `/editions`
 
 Lists all the available editions in prettified json format:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json") <br>
