@@ -37,15 +37,12 @@ When specifying the language, please use proper [iso name of language](https://g
     
     [Example 2](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/database/originals/zh.jian#L6239 "Example 2")
     
-    
-
-
-
 3. Copy and paste the translations to the [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory, you can paste any number of translations.
 
 4. Run the following command:
+`node apiscript.js create`
 
-    `node apiscript.js create`
+    
 
 
 If everything goes well, then the start directory will be empty and all your translations will move into [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals")
@@ -73,6 +70,7 @@ Lets say you what to know whether a translation exists in the database or not, o
 1. Run the following command:
 
     `node apiscript.js search "String To be Searched"`
+
 It can take multiple argunments example:
 
     `node apiscript.js search "String To be Searched" "String2 To be Searched" `
@@ -81,6 +79,7 @@ It can take multiple argunments example:
 1. Translations should not be deleted, otherwise it will break the api, but if there is a need, it can be done using:
 
     `node apiscript.js delete editionNameToDelete`
+
 It can take multiple argunments at single time example:
 
     `node apiscript.js delete editionNameToDelete editionName2ToDelete`
