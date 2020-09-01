@@ -28,7 +28,7 @@ The [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/databas
     "language":"Name of the language",
     "source":"Specify source here if any",
     "comments":"Add any comments here"
-}
+    }
     ```
     
 Please see [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals") , all the files have the json data at end of file.
