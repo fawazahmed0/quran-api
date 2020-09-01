@@ -39,6 +39,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-jalaladdinalmah.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-jalaladdinalmah.min.json"
     },
+    "ara_kingfahadquranc_la": {
+        "name": "ara-kingfahadquranc-la",
+        "author": "King Fahad Quran Complex",
+        "language": "Arabic",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-kingfahadquranc-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-kingfahadquranc-la.min.json"
+    },
+    "ara_kingfahadquranc": {
+        "name": "ara-kingfahadquranc",
+        "author": "King Fahad Quran Complex",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-kingfahadquranc.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-kingfahadquranc.min.json"
+    },
     "ara_quran_la": {
         "name": "ara-quran-la",
         "author": "Quran Transliteration",
