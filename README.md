@@ -19,9 +19,9 @@ The purpose of this repo is to spread the word of God everywhere in the world
 
 The Endpoints Supports HTTP GET Method and returns the data in  two formats:
 
-`/{endpoint}.min.json`
-
 `/{endpoint}.json`
+
+`/{endpoint}.min.json`
 
 **Endpoints:**
 
