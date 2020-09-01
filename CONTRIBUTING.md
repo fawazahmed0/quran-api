@@ -111,3 +111,6 @@ Lets say you what to know whether a translation exists in the database or not, o
 Facing any issue? [Let me Know](https://github.com/fawazahmed0/quran-api/issues/new "Let me Know ")
 
 The above given details are enough to contribute to this repo, incase you want to know how the script works or want to add new features to the apiscript.js then see [Implementation details](https://github.com/fawazahmed0/quran-api/blob/1/Implementation.md "Implementation details")
+
+
+[:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/CONTRIBUTING.md)
