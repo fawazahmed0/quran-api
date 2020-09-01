@@ -15,7 +15,7 @@ Never modify/add the files manually, for everything we will use [apiscript.js](h
 1. The translation should either be in 6236 lines(ignoring empty lines) or if it has more lines then it should at least have verse number at the beginning of each verse, It doesn't matter whether the chapter number is there or not.
 The [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check your translation will work fine or not.
 
-    [Example 1](https://raw.githubusercontent.com/fawazahmed0/quran-api/1/database/originals/Uthmanic%20v13.txt.new "Example 1")
+    [Example 1](https://raw.githubusercontent.com/fawazahmed0/quran-api/1/database/originals/quranromanurdu "Example 1")
 
     [Example 2](https://github.com/fawazahmed0/quran-api/blob/1/database/originals/en.itani.txt "Example 2")
 
@@ -39,8 +39,10 @@ When specifying the language, please use proper [iso name of language](https://g
     
 3. Copy and paste the translations to the [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory, you can paste any number of translations.
 
-4. Run the following command:
+4. Run the following command:<br>
 `node apiscript.js create`
+
+
 
     
 If everything goes well, then the start directory will be empty and all your translations will move into [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals")
@@ -112,5 +114,7 @@ Facing any issue? [Let me Know](https://github.com/fawazahmed0/quran-api/issues/
 
 The above given details are enough to contribute to this repo, incase you want to know how the script works or want to add new features to the apiscript.js then see [Implementation details](https://github.com/fawazahmed0/quran-api/blob/1/Implementation.md "Implementation details")
 
-
+<br>
+<br>
+<br>
 [:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/CONTRIBUTING.md)
