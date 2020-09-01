@@ -67,7 +67,7 @@ List fonts available: <br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json")<br>
 
 ### Contribution:
-Without your contribution, this repo won't survive, incase of any issues or problems, questions etc, you can let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
+Without your contribution, this repo won't survive, incase of any issues or problems, questions etc,<br> you can let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
 - Please help by adding new translations to this repo, you can share me the translation [here](https://github.com/fawazahmed0/quran-api/issues/new "here")
 
 or
