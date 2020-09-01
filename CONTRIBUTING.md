@@ -8,6 +8,7 @@
 `npm install -g -D playwright extract-zip `
 
 To Create/Update/Delete/Search the editions, we will use [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js"). 
+
 Never modify/add the files manually, for everything we will use [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js")
 
 ### Add new translations:
