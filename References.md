@@ -1,4 +1,5 @@
-**References:**<br>
+### References:
+
 Here is a list of websites that helped me either directly or indirectly in making this possible, but please note that I did source the data from all the websites given below, only some websites were used to get the data for this repo:
 
 - http://www.qurandownload.com/quran-database/
