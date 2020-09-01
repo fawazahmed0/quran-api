@@ -45,7 +45,7 @@ When specifying the language, please use proper [iso name of language](https://g
 
 
     
-If everything goes well, then the start directory will be empty and all your translations will move into [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals")
+If everything goes well, then the start directory will be empty and all your translations will move into [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals")<br>
 now push the changes to this repo
 
 If you got stuck somewhere, Let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
