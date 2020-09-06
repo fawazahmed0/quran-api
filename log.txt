@@ -13,3 +13,13 @@ latin script generated for this language
 Creating Latin Script for the language
  Generated edition ara-kingfahadquranc-la
 editions.json and editions.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\newcleanorigin\quran-api\apiscript.js fontsgen
+fonts.json and fonts.min.json generated
+BEGIN:
+C:\Program Files\nodejs\node.exe G:\newcleanorigin\quran-api\apiscript.js create
+Flags Used
+checkduplicate:true
+jsonrequired:true
+generateLatin:true
+editions.json and editions.min.json generated

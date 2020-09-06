@@ -1,5 +1,10 @@
 {
     "al_qalam_quran_majeed_1": {
+        "name": "al-qalam-quran-majeed-1",
+        "font": "Al Qalam Quran Majeed 1 Regular",
+        "designer": "Abdul Majeed Khan",
+        "source": "http://www.alqlm.org/fonts",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed-1-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed-1.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed-1.svg",
@@ -8,6 +13,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed-1.woff2"
     },
     "al_qalam_quran_majeed_2": {
+        "name": "al-qalam-quran-majeed-2",
+        "font": "Al Qalam Quran Majeed 2 Regular",
+        "designer": "Abdul Majeed Khan",
+        "source": "http://www.alqlm.org/fonts",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed-2-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed-2.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed-2.svg",
@@ -16,6 +26,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed-2.woff2"
     },
     "al_qalam_quran_majeed": {
+        "name": "al-qalam-quran-majeed",
+        "font": "Al Qalam Quran Majeed Regular",
+        "designer": "Abdul Majeed Khan",
+        "source": "http://www.alqlm.org/fonts",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed.svg",
@@ -24,6 +39,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-majeed.woff2"
     },
     "al_qalam_quran": {
+        "name": "al-qalam-quran",
+        "font": "Al Qalam Quran Regular",
+        "designer": "Pakistan Data Management Services",
+        "source": "http://www.pakdata.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran.svg",
@@ -32,6 +52,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/al-qalam-quran.woff2"
     },
     "almarai_bold": {
+        "name": "almarai-bold",
+        "font": "Almarai Bold Regular",
+        "designer": "Boutros International 2019 , Created by Boutros International 2019",
+        "source": "",
+        "version": 1.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-bold.svg",
@@ -40,6 +65,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-bold.woff2"
     },
     "almarai_extra_bold": {
+        "name": "almarai-extra-bold",
+        "font": "Almarai ExtraBold Regular",
+        "designer": "Boutros International 2019 , Created by Boutros International 2019",
+        "source": "",
+        "version": 1.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-extra-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-extra-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-extra-bold.svg",
@@ -48,6 +78,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-extra-bold.woff2"
     },
     "almarai_light": {
+        "name": "almarai-light",
+        "font": "Almarai Light Regular",
+        "designer": "Boutros International 2019 , Created by Boutros International 2019",
+        "source": "",
+        "version": 1.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-light-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-light.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-light.svg",
@@ -56,6 +91,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-light.woff2"
     },
     "almarai_regular": {
+        "name": "almarai-regular",
+        "font": "Almarai Regular",
+        "designer": "Boutros International 2019 , Created by Boutros International 2019",
+        "source": "",
+        "version": 1.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular.svg",
@@ -64,6 +104,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular.woff2"
     },
     "almushaf": {
+        "name": "almushaf",
+        "font": "Al_Mushaf Regular",
+        "designer": "Amjad Hussain Alvi , Alvi Technologies",
+        "source": "http://www.alvitechnologies.com",
+        "version": 2008,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almushaf-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almushaf.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almushaf.svg",
@@ -72,9 +117,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almushaf.woff2"
     },
     "amiri_bold_italic": {
+        "name": "amiri-bold-italic",
+        "font": "Amiri Bold Italic",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.113,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-italic-org.ttf"
     },
     "amiri_bold": {
+        "name": "amiri-bold",
+        "font": "Amiri Bold",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.114,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold.svg",
@@ -83,9 +138,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold.woff2"
     },
     "amiri_bold_slanted": {
+        "name": "amiri-bold-slanted",
+        "font": "Amiri Bold Slanted",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.114,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-slanted-org.otf"
     },
     "amiri_bold1": {
+        "name": "amiri-bold1",
+        "font": "Amiri Bold",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.113,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold1-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold1.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold1.svg",
@@ -94,9 +159,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold1.woff2"
     },
     "amiri_italic1": {
+        "name": "amiri-italic1",
+        "font": "Amiri Italic",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.113,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-italic1-org.ttf"
     },
     "amiri_quran_colored": {
+        "name": "amiri-quran-colored",
+        "font": "Amiri Quran Colored Regular",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.114,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran-colored-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran-colored.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran-colored.svg",
@@ -105,6 +180,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran-colored.woff2"
     },
     "amiri_quran": {
+        "name": "amiri-quran",
+        "font": "Amiri Quran Regular",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.114,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran.svg",
@@ -113,6 +193,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-quran.woff2"
     },
     "amiri_regular": {
+        "name": "amiri-regular",
+        "font": "Amiri Regular",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.114,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular.svg",
@@ -121,6 +206,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular.woff2"
     },
     "amiri_regular1": {
+        "name": "amiri-regular1",
+        "font": "Amiri Regular",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.113,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1.svg",
@@ -129,6 +219,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-regular1.woff2"
     },
     "amiri_slanted": {
+        "name": "amiri-slanted",
+        "font": "Amiri Slanted",
+        "designer": "Khaled Hosny",
+        "source": "http://www.amirifont.org",
+        "version": 0.114,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-slanted-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-slanted.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-slanted.svg",
@@ -137,6 +232,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-slanted.woff2"
     },
     "amiri_typewriter_bold": {
+        "name": "amiri-typewriter-bold",
+        "font": "Amiri Typewriter Bold",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-typewriter-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-typewriter-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-typewriter-bold.svg",
@@ -145,6 +245,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-typewriter-bold.woff2"
     },
     "amiri_typewriter_regular": {
+        "name": "amiri-typewriter-regular",
+        "font": "Amiri Typewriter Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-typewriter-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-typewriter-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-typewriter-regular.svg",
@@ -153,6 +258,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-typewriter-regular.woff2"
     },
     "aqeeq": {
+        "name": "aqeeq",
+        "font": "AraAqeeq-Bold Regular",
+        "designer": "ALI ALMITHALY",
+        "source": "zakdesign.net",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/aqeeq-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/aqeeq.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/aqeeq.svg",
@@ -161,9 +271,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/aqeeq.woff2"
     },
     "ar_othmani": {
+        "name": "ar-othmani",
+        "font": "Othmani Regular",
+        "designer": "",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/ar-othmani-org.ttf"
     },
     "arefruqaa_bold": {
+        "name": "arefruqaa-bold",
+        "font": "Aref Ruqaa Bold",
+        "designer": "Abdullah Aref",
+        "source": "",
+        "version": 1.002,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-bold.svg",
@@ -172,6 +292,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-bold.woff2"
     },
     "arefruqaa_regular": {
+        "name": "arefruqaa-regular",
+        "font": "Aref Ruqaa Regular",
+        "designer": "Abdullah Aref",
+        "source": "",
+        "version": 1.002,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-regular.svg",
@@ -180,6 +305,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-regular.woff2"
     },
     "droid_kufi_regular": {
+        "name": "droid-kufi-regular",
+        "font": "DroidArabicKufi Regular",
+        "designer": "Pascal Zoghbi , Ascender Corporation",
+        "source": "http://www.ascendercorp.com/typedesigners.html , http://www.ascendercorp.com/",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-kufi-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-kufi-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-kufi-regular.svg",
@@ -188,6 +318,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-kufi-regular.woff2"
     },
     "droid_naskh_regular": {
+        "name": "droid-naskh-regular",
+        "font": "Droid Arabic Naskh Regular",
+        "designer": "Pascal Zoghbi  , Ascender Corporation",
+        "source": "http://www.ascendercorp.com/typedesigners.html , http://www.ascendercorp.com/",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-naskh-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-naskh-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-naskh-regular.svg",
@@ -196,6 +331,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-naskh-regular.woff2"
     },
     "droid_sans": {
+        "name": "droid-sans",
+        "font": "Droid Sans Arabic Regular",
+        "designer": " Ascender Corporation",
+        "source": "http://www.ascendercorp.com/typedesigners.html , http://www.ascendercorp.com/",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-sans-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-sans.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-sans.svg",
@@ -204,6 +344,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/droid-sans.woff2"
     },
     "el_messiri_bold": {
+        "name": "el-messiri-bold",
+        "font": "El Messiri Bold",
+        "designer": "Mohamed Gaber , Kief Type Foundry",
+        "source": "http://gaberism.net/ , http://kieftype.com/",
+        "version": 2.006,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold.svg",
@@ -212,6 +357,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-bold.woff2"
     },
     "el_messiri_medium": {
+        "name": "el-messiri-medium",
+        "font": "El Messiri Medium Regular",
+        "designer": "Mohamed Gaber , Kief Type Foundry",
+        "source": "http://gaberism.net/ , http://kieftype.com/",
+        "version": 2.006,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium.svg",
@@ -220,6 +370,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-medium.woff2"
     },
     "el_messiri_regular": {
+        "name": "el-messiri-regular",
+        "font": "El Messiri Regular",
+        "designer": "Mohamed Gaber , Kief Type Foundry",
+        "source": "http://gaberism.net/ , http://kieftype.com/",
+        "version": 2.006,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular.svg",
@@ -228,6 +383,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-regular.woff2"
     },
     "el_messiri_semi_bold": {
+        "name": "el-messiri-semi-bold",
+        "font": "El Messiri SemiBold Regular",
+        "designer": "Mohamed Gaber , Kief Type Foundry",
+        "source": "http://gaberism.net/ , http://kieftype.com/",
+        "version": 2.006,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold.svg",
@@ -236,6 +396,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/el-messiri-semi-bold.woff2"
     },
     "flat_jooza_regular": {
+        "name": "flat-jooza-regular",
+        "font": "JF Flat Regular",
+        "designer": "Ahmed Abd El Halim , Jozoor Fonts",
+        "source": "http://www.jozoor.com  , http://fonts.jozoor.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/flat-jooza-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/flat-jooza-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/flat-jooza-regular.svg",
@@ -244,6 +409,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/flat-jooza-regular.woff2"
     },
     "hafs_nastaleeq_ver10": {
+        "name": "hafs-nastaleeq-ver10",
+        "font": "KFGQPC Nastaleeq Regular",
+        "designer": "Alif Lam Mim Tech. (Ashfaq A. Niazi) , King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-nastaleeq-ver10-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-nastaleeq-ver10.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-nastaleeq-ver10.svg",
@@ -252,6 +422,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-nastaleeq-ver10.woff2"
     },
     "hala": {
+        "name": "hala",
+        "font": "AraHalaBoShe'sha-Regular Regular",
+        "designer": "Mouhammad Mousa Alkhattat-Dimyat, Dumyat, Egypt , zakdesign.net |iSkyFalConS | ZakDesigN",
+        "source": "http://www.zakdesign.net/index.php?showuser=629 , Zakdesign.net",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hala-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hala.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hala.svg",
@@ -260,6 +435,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hala.woff2"
     },
     "hama_regular": {
+        "name": "hama-regular",
+        "font": "Ara Hamah 1964 R Light Regular",
+        "designer": "Nabil MRAD - Hamah, Syrian Arab Republic , iSktFalConS | ZakDesigN | zakdesign.net",
+        "source": "behance.net/nabilmrad  |  nabilmrad@outlook.com , zakdesign.net",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hama-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hama-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hama-regular.svg",
@@ -268,6 +448,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hama-regular.woff2"
     },
     "hamada_light_font": {
+        "name": "hamada-light-font",
+        "font": "HamadaLight Regular",
+        "designer": "Ahmed Mounir (Ivan)",
+        "source": "http://www.ivanizm.net",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hamada-light-font-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hamada-light-font.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hamada-light-font.svg",
@@ -276,6 +461,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hamada-light-font.woff2"
     },
     "harmattan": {
+        "name": "harmattan",
+        "font": "Harmattan-Regular Regular",
+        "designer": "George W. Nuss III and SIL International , SIL International",
+        "source": "http://scripts.sil.org/ and http://fulbefouta.com/ , http://www.sil.org/",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan.svg",
@@ -284,6 +474,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan.woff2"
     },
     "ishraq": {
+        "name": "ishraq",
+        "font": "HSIshraq-Light ☞",
+        "designer": "Hasan Abu Afash , HibaStudio",
+        "source": "http://www.hibastudio.com",
+        "version": 1.012,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/ishraq-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/ishraq.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/ishraq.svg",
@@ -292,6 +487,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/ishraq.woff2"
     },
     "jomhuria_regular": {
+        "name": "jomhuria-regular",
+        "font": "Jomhuria Regular",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eben Sorkin, engineering by Lasse Fister and Khaled Hosney",
+        "source": "https://github.com/Tarobish/Jomhuria",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular.svg",
@@ -300,6 +500,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular.woff2"
     },
     "jomhuria_regular1": {
+        "name": "jomhuria-regular1",
+        "font": "Jomhuria Regular",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eben Sorkin, engineering by Lasse Fister and Khaled Hosney",
+        "source": "https://github.com/Tarobish/Jomhuria",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular1-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular1.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular1.svg",
@@ -308,6 +513,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular1.woff2"
     },
     "jooza_regular": {
+        "name": "jooza-regular",
+        "font": "Ara Jozoor Regular",
+        "designer": "Ahmed Abd El Halim , zakdesign.net |iSkyFalConS | ZakDesigN | jozoor.com",
+        "source": "zakdesign.net | jozoor.com",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jooza-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jooza-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jooza-regular.svg",
@@ -316,6 +526,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jooza-regular.woff2"
     },
     "katibeh": {
+        "name": "katibeh",
+        "font": "Katibeh-Regular Regular",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister",
+        "source": "https://github.com/Tarobish/Mirza",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh.svg",
@@ -324,6 +539,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh.woff2"
     },
     "katibeh_regular": {
+        "name": "katibeh-regular",
+        "font": "Katibeh Regular",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister",
+        "source": "https://github.com/Tarobish/Mirza",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular.svg",
@@ -332,6 +552,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular.woff2"
     },
     "katibeh_regular1": {
+        "name": "katibeh-regular1",
+        "font": "Katibeh Regular",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister",
+        "source": "https://github.com/Tarobish/Mirza",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular1-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular1.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular1.svg",
@@ -340,6 +565,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular1.woff2"
     },
     "kfgqpc_dot_font": {
+        "name": "kfgqpc-dot-font",
+        "font": "KFGQPC Alphabet Dotted Regular",
+        "designer": "Ashfaq Ahmad Niazi , IT Department",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.02,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kfgqpc-dot-font-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kfgqpc-dot-font.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kfgqpc-dot-font.svg",
@@ -348,6 +578,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kfgqpc-dot-font.woff2"
     },
     "kitab_bold": {
+        "name": "kitab-bold",
+        "font": "Kitab Bold",
+        "designer": "SIL International , Khaled Hosny",
+        "source": "http://scripts.sil.org/",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kitab-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kitab-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kitab-bold.svg",
@@ -356,6 +591,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kitab-bold.woff2"
     },
     "kitab_regular": {
+        "name": "kitab-regular",
+        "font": "Kitab Regular",
+        "designer": "SIL International , Khaled Hosny",
+        "source": "http://scripts.sil.org/",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kitab-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kitab-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kitab-regular.svg",
@@ -364,6 +604,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/kitab-regular.woff2"
     },
     "lalezar_regular": {
+        "name": "lalezar-regular",
+        "font": "Lalezar Regular",
+        "designer": "Borna Izadpanah",
+        "source": "www.borna.design",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/lalezar-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/lalezar-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/lalezar-regular.svg",
@@ -372,6 +617,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/lalezar-regular.woff2"
     },
     "lateef_regular": {
+        "name": "lateef-regular",
+        "font": "Lateef Regular",
+        "designer": "SIL International",
+        "source": "http://scripts.sil.org/ , http://www.sil.org/",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/lateef-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/lateef-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/lateef-regular.svg",
@@ -380,6 +630,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/lateef-regular.woff2"
     },
     "mada_black_italic": {
+        "name": "mada-black-italic",
+        "font": "Mada Black Italic",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-black-italic-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-black-italic.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-black-italic.svg",
@@ -388,6 +643,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-black-italic.woff2"
     },
     "mada_black": {
+        "name": "mada-black",
+        "font": "Mada Black Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-black-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-black.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-black.svg",
@@ -396,6 +656,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-black.woff2"
     },
     "mada_bold_italic": {
+        "name": "mada-bold-italic",
+        "font": "Mada Bold Italic",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-bold-italic-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-bold-italic.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-bold-italic.svg",
@@ -404,6 +669,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-bold-italic.woff2"
     },
     "mada_bold": {
+        "name": "mada-bold",
+        "font": "Mada Bold",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-bold-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-bold.svg",
@@ -412,6 +682,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-bold.woff2"
     },
     "mada_extra_bold_italic": {
+        "name": "mada-extra-bold-italic",
+        "font": "Mada ExtraBold Italic",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-bold-italic-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-bold-italic.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-bold-italic.svg",
@@ -420,6 +695,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-bold-italic.woff2"
     },
     "mada_extra_bold": {
+        "name": "mada-extra-bold",
+        "font": "Mada ExtraBold Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-bold-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-bold.svg",
@@ -428,6 +708,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-bold.woff2"
     },
     "mada_extra_light_italic": {
+        "name": "mada-extra-light-italic",
+        "font": "Mada ExtraLight Italic",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-light-italic-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-light-italic.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-light-italic.svg",
@@ -436,6 +721,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-light-italic.woff2"
     },
     "mada_extra_light": {
+        "name": "mada-extra-light",
+        "font": "Mada ExtraLight Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-light-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-light.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-light.svg",
@@ -444,6 +734,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-extra-light.woff2"
     },
     "mada_italic": {
+        "name": "mada-italic",
+        "font": "Mada Italic",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-italic-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-italic.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-italic.svg",
@@ -452,6 +747,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-italic.woff2"
     },
     "mada_light_italic": {
+        "name": "mada-light-italic",
+        "font": "Mada Light Italic",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-light-italic-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-light-italic.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-light-italic.svg",
@@ -460,6 +760,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-light-italic.woff2"
     },
     "mada_light": {
+        "name": "mada-light",
+        "font": "Mada Light Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-light-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-light.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-light.svg",
@@ -468,6 +773,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-light.woff2"
     },
     "mada_medium_italic": {
+        "name": "mada-medium-italic",
+        "font": "Mada Medium Italic",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-medium-italic-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-medium-italic.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-medium-italic.svg",
@@ -476,6 +786,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-medium-italic.woff2"
     },
     "mada_medium": {
+        "name": "mada-medium",
+        "font": "Mada Medium Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-medium-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-medium.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-medium.svg",
@@ -484,9 +799,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-medium.woff2"
     },
     "mada": {
+        "name": "mada",
+        "font": "",
+        "designer": "",
+        "source": "",
+        "version": "",
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-org.otf"
     },
     "mada_regular": {
+        "name": "mada-regular",
+        "font": "Mada Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-regular-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-regular.svg",
@@ -495,6 +820,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-regular.woff2"
     },
     "mada_semi_bold_italic": {
+        "name": "mada-semi-bold-italic",
+        "font": "Mada SemiBold Italic",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-semi-bold-italic-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-semi-bold-italic.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-semi-bold-italic.svg",
@@ -503,6 +833,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-semi-bold-italic.woff2"
     },
     "mada_semi_bold": {
+        "name": "mada-semi-bold",
+        "font": "Mada SemiBold Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 1.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-semi-bold-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-semi-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-semi-bold.svg",
@@ -511,6 +846,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mada-semi-bold.woff2"
     },
     "maddina": {
+        "name": "maddina",
+        "font": "QURAN MADINA. Normal",
+        "designer": "",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/maddina-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/maddina.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/maddina.svg",
@@ -519,9 +859,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/maddina.woff2"
     },
     "markazi_text_bold": {
+        "name": "markazi-text-bold",
+        "font": "Markazi Text Bold",
+        "designer": "Borna Izadpanah (Arabic designer), Fiona Ross (Arabic design director) and Florian Runge (Latin designer) , Borna Izadpanah and Florian Runge",
+        "source": "http://www.borna.design, http://www.florianrunge.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-bold-org.ttf"
     },
     "me_quran_r3_hoq": {
+        "name": "me-quran-r3-hoq",
+        "font": "me_quranR3HOQ Regular",
+        "designer": "",
+        "source": "",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-r3-hoq-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-r3-hoq.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-r3-hoq.svg",
@@ -530,6 +880,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-r3-hoq.woff2"
     },
     "me_quran_volt_newmet": {
+        "name": "me-quran-volt-newmet",
+        "font": "me_quran Regular",
+        "designer": "",
+        "source": "",
+        "version": 1.003,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-volt-newmet-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-volt-newmet.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-volt-newmet.svg",
@@ -538,6 +893,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran-volt-newmet.woff2"
     },
     "me_quran2": {
+        "name": "me-quran2",
+        "font": "me_quran2 Regular",
+        "designer": "meor.ridzuan@gmail.com , Meor Ridzuan",
+        "source": "",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran2-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran2.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran2.svg",
@@ -546,6 +906,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/me-quran2.woff2"
     },
     "mirza_bold": {
+        "name": "mirza-bold",
+        "font": "Mirza Bold",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister",
+        "source": "https://github.com/Tarobish/Mirza",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-bold-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-bold.svg",
@@ -554,6 +919,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-bold.woff2"
     },
     "mirza_medium": {
+        "name": "mirza-medium",
+        "font": "Mirza Medium Medium",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister",
+        "source": "https://github.com/Tarobish/Mirza",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-medium-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-medium.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-medium.svg",
@@ -562,6 +932,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-medium.woff2"
     },
     "mirza_regular": {
+        "name": "mirza-regular",
+        "font": "Mirza Regular",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister",
+        "source": "https://github.com/Tarobish/Mirza",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-regular-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-regular.svg",
@@ -570,6 +945,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-regular.woff2"
     },
     "mirza_semi_bold": {
+        "name": "mirza-semi-bold",
+        "font": "Mirza SemiBold SemiBold",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister",
+        "source": "https://github.com/Tarobish/Mirza",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-semi-bold-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-semi-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-semi-bold.svg",
@@ -578,6 +958,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-semi-bold.woff2"
     },
     "noorehidayat": {
+        "name": "noorehidayat",
+        "font": "noorehidayat Regular",
+        "designer": "",
+        "source": "",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehidayat-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehidayat.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehidayat.svg",
@@ -586,6 +971,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehidayat.woff2"
     },
     "noorehira_regular": {
+        "name": "noorehira-regular",
+        "font": "noorehira Regular",
+        "designer": "abu saad , abu saad www.noorehidayat.org",
+        "source": "www.noorehidayat.org",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehira-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehira-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehira-regular.svg",
@@ -594,6 +984,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehira-regular.woff2"
     },
     "noorehuda": {
+        "name": "noorehuda",
+        "font": "noorehuda Regular",
+        "designer": "abu saad , abu saad www.noorehidayat.org",
+        "source": "www.noorehidayat.org",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda.svg",
@@ -602,6 +997,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda.woff2"
     },
     "noorehuda_regular": {
+        "name": "noorehuda-regular",
+        "font": "noorehuda Regular",
+        "designer": "abu saad , abu saad www.noorehidayat.org",
+        "source": "www.noorehidayat.org",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda-regular.svg",
@@ -610,6 +1010,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noorehuda-regular.woff2"
     },
     "noto_kufi_arabic_bold": {
+        "name": "noto-kufi-arabic-bold",
+        "font": "Noto Kufi Arabic Bold",
+        "designer": "Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 1.04,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-kufi-arabic-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-kufi-arabic-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-kufi-arabic-bold.svg",
@@ -618,6 +1023,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-kufi-arabic-bold.woff2"
     },
     "noto_kufi_arabic_regular": {
+        "name": "noto-kufi-arabic-regular",
+        "font": "Noto Kufi Arabic Regular",
+        "designer": "Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 1.04,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-kufi-arabic-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-kufi-arabic-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-kufi-arabic-regular.svg",
@@ -626,6 +1036,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-kufi-arabic-regular.woff2"
     },
     "noto_naskh_arabic_bold": {
+        "name": "noto-naskh-arabic-bold",
+        "font": "Noto Naskh Arabic Bold",
+        "designer": "Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 1.06,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.svg",
@@ -634,6 +1049,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.woff2"
     },
     "noto_naskh_arabic_regular": {
+        "name": "noto-naskh-arabic-regular",
+        "font": "Noto Naskh Arabic Regular",
+        "designer": "Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 1.07,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.svg",
@@ -642,6 +1062,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.woff2"
     },
     "noto_naskh_arabic_ui_bold": {
+        "name": "noto-naskh-arabic-ui-bold",
+        "font": "Noto Naskh Arabic UI Bold",
+        "designer": "Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 1.07,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold.svg",
@@ -650,6 +1075,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-bold.woff2"
     },
     "noto_naskh_arabic_ui_regular": {
+        "name": "noto-naskh-arabic-ui-regular",
+        "font": "Noto Naskh Arabic UI Regular",
+        "designer": "Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 1.07,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular.svg",
@@ -658,9 +1088,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-ui-regular.woff2"
     },
     "noto_nastaliq_urdu_regular": {
+        "name": "noto-nastaliq-urdu-regular",
+        "font": "Noto Nastaliq Urdu Regular",
+        "designer": "Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 1.02,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-nastaliq-urdu-regular-org.ttf"
     },
     "noto_sans_arabic_regular": {
+        "name": "noto-sans-arabic-regular",
+        "font": "Noto Sans Arabic Regular",
+        "designer": "Nadine Chahine - Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular.svg",
@@ -669,6 +1109,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-regular.woff2"
     },
     "noto_sans_arabic_thin": {
+        "name": "noto-sans-arabic-thin",
+        "font": "Noto Sans Arabic Thin Regular",
+        "designer": "Nadine Chahine - Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin.svg",
@@ -677,6 +1122,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-thin.woff2"
     },
     "noto_sans_arabic_ui_thin": {
+        "name": "noto-sans-arabic-ui-thin",
+        "font": "Noto Sans Arabic UI Th Regular",
+        "designer": "Nadine Chahine - Monotype Design Team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin.svg",
@@ -685,9 +1135,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-sans-arabic-ui-thin.woff2"
     },
     "noto_urdu": {
+        "name": "noto-urdu",
+        "font": "Noto Nastaliq Urdu Draft Regular",
+        "designer": "Monotype Design team , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://code.google.com/p/noto/",
+        "version": 0.7,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-urdu-org.ttf"
     },
     "outlined_v001": {
+        "name": "outlined-v001",
+        "font": "KFGQPC Alphabet Outlined Regular",
+        "designer": "Ashfaq Ahmad Niazi , IT Department",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.01,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/outlined-v001-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/outlined-v001.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/outlined-v001.svg",
@@ -696,9 +1156,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/outlined-v001.woff2"
     },
     "pdms_saleem_quran": {
+        "name": "pdms-saleem-quran",
+        "font": "_PDMS_Saleem_QuranFont Regular",
+        "designer": "Pakistan Data Management Services",
+        "source": "http://www.pakdata.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/pdms-saleem-quran-org.ttf"
     },
     "qahiri_regular": {
+        "name": "qahiri-regular",
+        "font": "Qahiri Regular",
+        "designer": "Khaled Hosny , Alif Type",
+        "source": "https://github.com/alif-type",
+        "version": 1.008,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qahiri-regular-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qahiri-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qahiri-regular.svg",
@@ -707,6 +1177,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qahiri-regular.woff2"
     },
     "qur_std": {
+        "name": "qur-std",
+        "font": "Quran Standard Normal",
+        "designer": "",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qur-std-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qur-std.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qur-std.svg",
@@ -715,6 +1190,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qur-std.woff2"
     },
     "quran_taha": {
+        "name": "quran-taha",
+        "font": "QuranTaha Regular",
+        "designer": "",
+        "source": "",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/quran-taha-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/quran-taha.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/quran-taha.svg",
@@ -723,6 +1203,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/quran-taha.woff2"
     },
     "rakkas_regular": {
+        "name": "rakkas-regular",
+        "font": "Rakkas Regular",
+        "designer": "Zeynep Akay",
+        "source": "http://theruqahproject.com",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rakkas-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rakkas-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rakkas-regular.svg",
@@ -731,6 +1216,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rakkas-regular.woff2"
     },
     "rawi": {
+        "name": "rawi",
+        "font": "VIP Rawy Thin Regular",
+        "designer": "ar.photoshop.3abber.com",
+        "source": "ar.photoshop.3abber.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawi-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawi.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawi.svg",
@@ -739,6 +1229,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawi.woff2"
     },
     "rawy_bold": {
+        "name": "rawy-bold",
+        "font": "VIPRawyBold-Bold Bold",
+        "designer": "ar.photoshop.3abber.com",
+        "source": "ar.photoshop.3abber.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawy-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawy-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawy-bold.svg",
@@ -747,6 +1242,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawy-bold.woff2"
     },
     "rawy_thin": {
+        "name": "rawy-thin",
+        "font": "VIPRawyThin-Thin Regular",
+        "designer": "ar.photoshop.3abber.com",
+        "source": "ar.photoshop.3abber.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawy-thin-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawy-thin.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawy-thin.svg",
@@ -755,6 +1255,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rawy-thin.woff2"
     },
     "reem_kufi": {
+        "name": "reem-kufi",
+        "font": "ReemKufi-Regular Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 0.003,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi.svg",
@@ -763,6 +1268,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi.woff2"
     },
     "reem_kufi_regular": {
+        "name": "reem-kufi-regular",
+        "font": "Reem Kufi Regular",
+        "designer": "Khaled Hosny",
+        "source": "https://github.com/alif-type",
+        "version": 0.008,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular.svg",
@@ -771,6 +1281,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular.woff2"
     },
     "reem_kufi_regular1": {
+        "name": "reem-kufi-regular1",
+        "font": "Reem Kufi Regular",
+        "designer": "Khaled Hosny",
+        "source": "",
+        "version": 0.004,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular1-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular1.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular1.svg",
@@ -779,15 +1294,35 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular1.woff2"
     },
     "rsail_bold": {
+        "name": "rsail-bold",
+        "font": "AD-Rsail-Bold Bold",
+        "designer": "@ali_designer1",
+        "source": "https://twitter.com/ali_designer1",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rsail-bold-org.ttf"
     },
     "rsail_light": {
+        "name": "rsail-light",
+        "font": "AD-Rsail-light Regular",
+        "designer": "@ali_designer1",
+        "source": "https://twitter.com/ali_designer1",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rsail-light-org.ttf"
     },
     "rsail": {
+        "name": "rsail",
+        "font": "AD-Rsail Regular",
+        "designer": "@ali_designer1",
+        "source": "https://twitter.com/ali_designer1",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rsail-org.ttf"
     },
     "rustam_quran_r3_hoq": {
+        "name": "rustam-quran-r3-hoq",
+        "font": "me_quranR3HOQ Regular",
+        "designer": "",
+        "source": "",
+        "version": 2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq.svg",
@@ -796,6 +1331,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq.woff2"
     },
     "sabgha": {
+        "name": "sabgha",
+        "font": "VIPSbgh Regular",
+        "designer": "(Ghanem  Ghanemop@gmail.com). 2015. All Rights Reserved",
+        "source": "Ghanemop@gmail.com , Ghanemksa@gmail.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sabgha-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sabgha.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sabgha.svg",
@@ -804,6 +1344,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sabgha.woff2"
     },
     "sadiyah": {
+        "name": "sadiyah",
+        "font": "HSN_sadiyah Regular",
+        "designer": "hsoni",
+        "source": "",
+        "version": 1.2011,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sadiyah-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sadiyah.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sadiyah.svg",
@@ -812,6 +1357,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sadiyah.woff2"
     },
     "sahlnaskh_bold": {
+        "name": "sahlnaskh-bold",
+        "font": "Sahl Naskh Bold",
+        "designer": "Pascal Zoghbi",
+        "source": "",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-bold.svg",
@@ -820,6 +1370,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-bold.woff2"
     },
     "sahlnaskh_regular": {
+        "name": "sahlnaskh-regular",
+        "font": "Sahl Naskh Regular",
+        "designer": "Pascal Zoghbi",
+        "source": "",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-regular.svg",
@@ -828,6 +1383,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sahlnaskh-regular.woff2"
     },
     "sara": {
+        "name": "sara",
+        "font": "HSN_Sara normal",
+        "designer": "",
+        "source": "",
+        "version": "",
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sara-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sara.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sara.svg",
@@ -836,6 +1396,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sara.woff2"
     },
     "saudi": {
+        "name": "saudi",
+        "font": "STV Regular",
+        "designer": " Mercuy",
+        "source": "",
+        "version": 1.009,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/saudi-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/saudi.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/saudi.svg",
@@ -844,6 +1409,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/saudi.woff2"
     },
     "scheherazade_bold": {
+        "name": "scheherazade-bold",
+        "font": "Scheherazade Bold",
+        "designer": "SIL International",
+        "source": "http://scripts.sil.org/ , http://www.sil.org/",
+        "version": 2.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold.svg",
@@ -852,6 +1422,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-bold.woff2"
     },
     "scheherazade_reg_ot": {
+        "name": "scheherazade-reg-ot",
+        "font": "Scheherazade Regular",
+        "designer": "SIL International",
+        "source": "http://scripts.sil.org/ , http://www.sil.org/",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-reg-ot-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-reg-ot.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-reg-ot.svg",
@@ -860,6 +1435,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-reg-ot.woff2"
     },
     "scheherazade_regular": {
+        "name": "scheherazade-regular",
+        "font": "Scheherazade Regular",
+        "designer": "SIL International",
+        "source": "http://scripts.sil.org/ , http://www.sil.org/",
+        "version": 2.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.svg",
@@ -868,6 +1448,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.woff2"
     },
     "setareh": {
+        "name": "setareh",
+        "font": "BSetareh Regular",
+        "designer": "",
+        "source": "",
+        "version": 2.01,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/setareh-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/setareh.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/setareh.svg",
@@ -876,6 +1461,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/setareh.woff2"
     },
     "shadatain_ver01": {
+        "name": "shadatain-ver01",
+        "font": "KFGQPC Shadatain Regular",
+        "designer": "Alif Lam Mim Tech. (Ashfaq A. Niazi) , King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.01,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shadatain-ver01-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shadatain-ver01.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shadatain-ver01.svg",
@@ -884,6 +1474,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shadatain-ver01.woff2"
     },
     "shahd_bold": {
+        "name": "shahd-bold",
+        "font": "HSN_Shahd_Bold Bold",
+        "designer": "",
+        "source": "",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-bold.svg",
@@ -892,6 +1487,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-bold.woff2"
     },
     "shahd": {
+        "name": "shahd",
+        "font": "HSN_Shahd_Regular Regular",
+        "designer": "",
+        "source": "",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd.svg",
@@ -900,6 +1500,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd.woff2"
     },
     "shams": {
+        "name": "shams",
+        "font": "BShams Regular",
+        "designer": "",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shams-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shams.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shams.svg",
@@ -908,6 +1513,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shams.woff2"
     },
     "sheba": {
+        "name": "sheba",
+        "font": "ShebaYE-medium medium",
+        "designer": "ALI ALMITHALY",
+        "source": "https://www.facebook.com/BnAlmithaly2012",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sheba-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sheba.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sheba.svg",
@@ -916,6 +1526,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sheba.woff2"
     },
     "shekari": {
+        "name": "shekari",
+        "font": "BShekari Regular",
+        "designer": "",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shekari-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shekari.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shekari.svg",
@@ -924,6 +1539,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shekari.woff2"
     },
     "shiraz": {
+        "name": "shiraz",
+        "font": "BShiraz Regular",
+        "designer": "",
+        "source": "",
+        "version": 2.01,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shiraz-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shiraz.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shiraz.svg",
@@ -932,6 +1552,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shiraz.woff2"
     },
     "shorooq": {
+        "name": "shorooq",
+        "font": "Shorooq_N1 Regular",
+        "designer": "saud_10@live.com",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shorooq-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shorooq.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shorooq.svg",
@@ -940,12 +1565,27 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shorooq.woff2"
     },
     "sky_bold": {
+        "name": "sky-bold",
+        "font": "HelveticaNeueW23foSKY-Bd Regular",
+        "designer": "Linotype Design Studio , Linotype GmbH",
+        "source": "http://www.linotype.com/fontdesigners , http://www.linotype.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sky-bold-org.ttf"
     },
     "sky": {
+        "name": "sky",
+        "font": "HelveticaNeueW23forSKY-Reg Regular",
+        "designer": "Linotype Design Studio , Linotype GmbH",
+        "source": "http://www.linotype.com/fontdesigners , http://www.linotype.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sky-org.ttf"
     },
     "smartman": {
+        "name": "smartman",
+        "font": "SmartManArt Regular",
+        "designer": "ar.photoshop.3abber.com",
+        "source": "",
+        "version": 1.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/smartman-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/smartman.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/smartman.svg",
@@ -954,6 +1594,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/smartman.woff2"
     },
     "spirit_of_doha": {
+        "name": "spirit-of-doha",
+        "font": "SpiritOfDoha-Medium Medium",
+        "designer": "Tarek Atrissi",
+        "source": "http://www.atrissi.com , http://www.zakdesign.net",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/spirit-of-doha-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/spirit-of-doha.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/spirit-of-doha.svg",
@@ -962,6 +1607,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/spirit-of-doha.woff2"
     },
     "stc": {
+        "name": "stc",
+        "font": "GESSTextLight-Light Regular",
+        "designer": "Boutros International",
+        "source": "",
+        "version": 1.2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/stc-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/stc.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/stc.svg",
@@ -970,9 +1620,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/stc.woff2"
     },
     "stoor": {
+        "name": "stoor",
+        "font": "AD-STOOR Regular",
+        "designer": "@ali_designer1",
+        "source": "https://twitter.com/ali_designer1",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/stoor-org.ttf"
     },
     "strick": {
+        "name": "strick",
+        "font": "VIP Strick Regular",
+        "designer": "ar.photoshop.3abber.com",
+        "source": "ar.photoshop.3abber.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/strick-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/strick.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/strick.svg",
@@ -981,6 +1641,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/strick.woff2"
     },
     "sukar_black": {
+        "name": "sukar-black",
+        "font": "Sukar-black black",
+        "designer": "Dario Muhafara - Ghiath Alsory",
+        "source": "www.behance.net/ghiathalsory , www.tipo.net.ar",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-black-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-black.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-black.svg",
@@ -989,6 +1654,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-black.woff2"
     },
     "sukar_bold": {
+        "name": "sukar-bold",
+        "font": "Sukar-Bold Bold",
+        "designer": "Dario Muhafara - Ghiath Alsory",
+        "source": "www.behance.net/ghiathalsory , www.tipo.net.ar",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-bold.svg",
@@ -997,6 +1667,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-bold.woff2"
     },
     "sukar_regular": {
+        "name": "sukar-regular",
+        "font": "SukarRegular Regular",
+        "designer": "Dario Muhafara - Ghiath Alsory",
+        "source": "www.behance.net/ghiathalsory , www.tipo.net.ar",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-regular.svg",
@@ -1005,6 +1680,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/sukar-regular.woff2"
     },
     "tachkili": {
+        "name": "tachkili",
+        "font": "djadli_Tachkili Regular",
+        "designer": "saud_10@live.com",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tachkili-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tachkili.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tachkili.svg",
@@ -1013,6 +1693,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tachkili.woff2"
     },
     "taha_naskh": {
+        "name": "taha-naskh",
+        "font": "KFGQPCUthmanTahaNaskh Regular",
+        "designer": "Ashfaq Ahmad Niazi , IT Department",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/taha-naskh-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/taha-naskh.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/taha-naskh.svg",
@@ -1021,6 +1706,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/taha-naskh.woff2"
     },
     "tajawal_black": {
+        "name": "tajawal-black",
+        "font": "Tajawal Black Regular",
+        "designer": "Boutros Fonts , Created by Boutros International 2017",
+        "source": "http://www.boutrosfonts.com",
+        "version": 1.7,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black.svg",
@@ -1029,6 +1719,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-black.woff2"
     },
     "tajawal_bold": {
+        "name": "tajawal-bold",
+        "font": "Tajawal Bold",
+        "designer": "Boutros Fonts , Created by Boutros International 2017",
+        "source": "http://www.boutrosfonts.com",
+        "version": 1.7,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold.svg",
@@ -1037,6 +1732,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-bold.woff2"
     },
     "tajawal_extra_bold": {
+        "name": "tajawal-extra-bold",
+        "font": "Tajawal ExtraBold Regular",
+        "designer": "Boutros Fonts , Created by Boutros International 2017",
+        "source": "http://www.boutrosfonts.com",
+        "version": 1.7,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold.svg",
@@ -1045,6 +1745,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-bold.woff2"
     },
     "tajawal_extra_light": {
+        "name": "tajawal-extra-light",
+        "font": "Tajawal ExtraLight Regular",
+        "designer": "Boutros Fonts , Created by Boutros International 2017",
+        "source": "http://www.boutrosfonts.com",
+        "version": 1.7,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light.svg",
@@ -1053,6 +1758,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-extra-light.woff2"
     },
     "tajawal_light": {
+        "name": "tajawal-light",
+        "font": "Tajawal Light Regular",
+        "designer": "Boutros Fonts , Created by Boutros International 2017",
+        "source": "http://www.boutrosfonts.com",
+        "version": 1.7,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light.svg",
@@ -1061,6 +1771,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-light.woff2"
     },
     "tajawal_medium": {
+        "name": "tajawal-medium",
+        "font": "Tajawal Medium Regular",
+        "designer": "Boutros Fonts , Created by Boutros International 2017",
+        "source": "http://www.boutrosfonts.com",
+        "version": 1.7,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.svg",
@@ -1069,6 +1784,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.woff2"
     },
     "tajawal_regular": {
+        "name": "tajawal-regular",
+        "font": "Tajawal Regular",
+        "designer": "Boutros Fonts , Created by Boutros International 2017",
+        "source": "http://www.boutrosfonts.com",
+        "version": 1.7,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular.svg",
@@ -1077,9 +1797,19 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular.woff2"
     },
     "tanseek": {
+        "name": "tanseek",
+        "font": "TanseekModernProArabic-Regular Regular",
+        "designer": "Mourad Boutros, Dave Farey and Richard Dawson , Monotype Imaging Inc.",
+        "source": "http://www.monotypeimaging.com",
+        "version": 1.002,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tanseek-org.ttf"
     },
     "taqniya": {
+        "name": "taqniya",
+        "font": "AraESTaqniya-Regular Regular",
+        "designer": "Fahd Al Fraikh , Fahd Al Fraikh | ZakDesigN | iSkyFalConS",
+        "source": "www.emptyskyarts.com ,  www.emptyskyarts.com | zakdesign.net",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/taqniya-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/taqniya.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/taqniya.svg",
@@ -1088,6 +1818,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/taqniya.woff2"
     },
     "tasmeem_med": {
+        "name": "tasmeem-med",
+        "font": "GETasmeem-Medium Regular",
+        "designer": "Boutros International",
+        "source": "",
+        "version": 1.2,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tasmeem-med-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tasmeem-med.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tasmeem-med.svg",
@@ -1096,6 +1831,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tasmeem-med.woff2"
     },
     "thabit_bold_oblique": {
+        "name": "thabit-bold-oblique",
+        "font": "Thabit-Bold-Oblique Bold Oblique",
+        "designer": "Regenerated by Nadim Shaikli , MAK Alagha",
+        "source": "http://www.arabeyes.org/",
+        "version": 0.01,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique.svg",
@@ -1104,6 +1844,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-oblique.woff2"
     },
     "thabit_bold": {
+        "name": "thabit-bold",
+        "font": "Thabit-Bold Bold",
+        "designer": "Regenerated by Nadim Shaikli , MAK Alagha",
+        "source": "http://www.arabeyes.org/",
+        "version": 0.01,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold.svg",
@@ -1112,6 +1857,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-bold.woff2"
     },
     "thabit_oblique": {
+        "name": "thabit-oblique",
+        "font": "Thabit-Oblique Oblique",
+        "designer": "Regenerated by Nadim Shaikli , MAK Alagha",
+        "source": "http://www.arabeyes.org/",
+        "version": 0.01,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique.svg",
@@ -1120,6 +1870,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-oblique.woff2"
     },
     "thabit": {
+        "name": "thabit",
+        "font": "Thabit Regular",
+        "designer": "Regenerated by Nadim Shaikli , MAK Alagha",
+        "source": "http://www.arabeyes.org/",
+        "version": 0.01,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit.svg",
@@ -1128,6 +1883,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit.woff2"
     },
     "thabit1": {
+        "name": "thabit1",
+        "font": "Thabit Regular",
+        "designer": "Regenerated by Nadim Shaikli , MAK Alagha",
+        "source": "http://www.arabeyes.org/",
+        "version": 0.01,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit1-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit1.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit1.svg",
@@ -1136,6 +1896,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thabit1.woff2"
     },
     "thameen": {
+        "name": "thameen",
+        "font": "GEThameen-Book Regular",
+        "designer": "Boutros International",
+        "source": "",
+        "version": 1.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thameen-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thameen.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thameen.svg",
@@ -1144,6 +1909,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thameen.woff2"
     },
     "themixarab": {
+        "name": "themixarab",
+        "font": "TheMixArab Regular",
+        "designer": "Luc[as] de Groot & Mouneer Al Sharaani",
+        "source": "http://www.fontfabrik.com/ , http://www.lucasfonts.net/",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/themixarab-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/themixarab.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/themixarab.svg",
@@ -1152,6 +1922,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/themixarab.woff2"
     },
     "thuluth_decorated": {
+        "name": "thuluth-decorated",
+        "font": "DecoTypeThuluthII Regular",
+        "designer": "",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thuluth-decorated-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thuluth-decorated.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thuluth-decorated.svg",
@@ -1160,6 +1935,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/thuluth-decorated.woff2"
     },
     "toyor_aljanah": {
+        "name": "toyor-aljanah",
+        "font": "ToyorAljanah Regular",
+        "designer": "ZakDesign",
+        "source": "http://www.zakdesign.net",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/toyor-aljanah-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/toyor-aljanah.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/toyor-aljanah.svg",
@@ -1168,6 +1948,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/toyor-aljanah.woff2"
     },
     "uthman_tn1_b_ver10": {
+        "name": "uthman-tn1-b-ver10",
+        "font": "KFGQPC Uthman Taha Naskh Bold",
+        "designer": "Ashfaq Ahmad Niazi , IT Department",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-b-ver10-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-b-ver10.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-b-ver10.svg",
@@ -1176,6 +1961,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-b-ver10.woff2"
     },
     "uthman_tn1_ver06": {
+        "name": "uthman-tn1-ver06",
+        "font": "KFGQPC Uthman Taha Naskh Regular",
+        "designer": " IT Department",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.06,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-ver06-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-ver06.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-ver06.svg",
@@ -1184,6 +1974,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-ver06.woff2"
     },
     "uthman_tn1_ver10": {
+        "name": "uthman-tn1-ver10",
+        "font": "KFGQPC Uthman Taha Naskh Regular",
+        "designer": "Ashfaq Ahmad Niazi , IT Department",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-ver10-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-ver10.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-ver10.svg",
@@ -1192,6 +1987,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthman-tn1-ver10.woff2"
     },
     "uthmanic_bazzi1_ver07": {
+        "name": "uthmanic-bazzi1-ver07",
+        "font": "KFGQPC BAZZI Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.07,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-bazzi1-ver07-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-bazzi1-ver07.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-bazzi1-ver07.svg",
@@ -1200,6 +2000,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-bazzi1-ver07.woff2"
     },
     "uthmanic_doori1_ver08": {
+        "name": "uthmanic-doori1-ver08",
+        "font": "KFGQPC DOORI Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.08,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-doori1-ver08-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-doori1-ver08.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-doori1-ver08.svg",
@@ -1208,6 +2013,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-doori1-ver08.woff2"
     },
     "uthmanic_hafs_ver13": {
+        "name": "uthmanic-hafs-ver13",
+        "font": "KFGQPC HAFS Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.13,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs-ver13-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs-ver13.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs-ver13.svg",
@@ -1216,6 +2026,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs-ver13.woff2"
     },
     "uthmanic_hafs1_ver09": {
+        "name": "uthmanic-hafs1-ver09",
+        "font": "KFGQPC Uthmanic Script HAFS Regular",
+        "designer": "Ashfaq Ahmad Niazi , IT Department",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.09,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver09-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver09.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver09.svg",
@@ -1224,6 +2039,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver09.woff2"
     },
     "uthmanic_hafs1_ver13": {
+        "name": "uthmanic-hafs1-ver13",
+        "font": "KFGQPC HAFS Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.13,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver13-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver13.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver13.svg",
@@ -1232,6 +2052,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver13.woff2"
     },
     "uthmanic_qaloon1_ver08": {
+        "name": "uthmanic-qaloon1-ver08",
+        "font": "KFGQPC QALOON Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.08,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qaloon1-ver08-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qaloon1-ver08.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qaloon1-ver08.svg",
@@ -1240,6 +2065,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qaloon1-ver08.woff2"
     },
     "uthmanic_qumbul1_ver07": {
+        "name": "uthmanic-qumbul1-ver07",
+        "font": "KFGQPC QUMBUL Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.07,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qumbul1-ver07-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qumbul1-ver07.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qumbul1-ver07.svg",
@@ -1248,6 +2078,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-qumbul1-ver07.woff2"
     },
     "uthmanic_shouba1_ver07": {
+        "name": "uthmanic-shouba1-ver07",
+        "font": "KFGQPC SHOUBA Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.07,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-shouba1-ver07-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-shouba1-ver07.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-shouba1-ver07.svg",
@@ -1256,6 +2091,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-shouba1-ver07.woff2"
     },
     "uthmanic_soosi1_ver08": {
+        "name": "uthmanic-soosi1-ver08",
+        "font": "KFGQPC SOOSI Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.08,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-soosi1-ver08-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-soosi1-ver08.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-soosi1-ver08.svg",
@@ -1264,6 +2104,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-soosi1-ver08.woff2"
     },
     "uthmanic_warsh1_ver08": {
+        "name": "uthmanic-warsh1-ver08",
+        "font": "KFGQPC WARSH Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.08,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-warsh1-ver08-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-warsh1-ver08.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-warsh1-ver08.svg",
@@ -1272,6 +2117,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-warsh1-ver08.woff2"
     },
     "vibes_regular": {
+        "name": "vibes-regular",
+        "font": "Vibes Regular",
+        "designer": "AbdElmomen Kadhim",
+        "source": "http://bluemix.me",
+        "version": 1.1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vibes-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vibes-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vibes-regular.svg",
@@ -1280,6 +2130,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vibes-regular.woff2"
     },
     "vip_hakm_bold": {
+        "name": "vip-hakm-bold",
+        "font": "VIPHakmBold-VIPHakm Regular",
+        "designer": "(Ghanem-ar.photoshop.3abber.com). 2014. All Rights Reserved , VIP Hakm 2016",
+        "source": "Ghanemop@gmail.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm-bold.svg",
@@ -1288,6 +2143,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm-bold.woff2"
     },
     "vip_hakm": {
+        "name": "vip-hakm",
+        "font": "VIPHakmRegular-VIPHakm Regular",
+        "designer": "(Ghanem-ar.photoshop.3abber.com). 2014. All Rights Reserved , VIP Hakm 2016",
+        "source": "Ghanemop@gmail.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm.svg",
@@ -1296,6 +2156,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm.woff2"
     },
     "vip_hakm_thin": {
+        "name": "vip-hakm-thin",
+        "font": "VIPHakmThin-VIPHakm Regular",
+        "designer": "(Ghanem-ar.photoshop.3abber.com). 2014. All Rights Reserved , VIP Hakm 2016",
+        "source": "Ghanemop@gmail.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm-thin-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm-thin.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm-thin.svg",
@@ -1304,6 +2169,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-hakm-thin.woff2"
     },
     "vip_tim_black": {
+        "name": "vip-tim-black",
+        "font": "VIPTIM-Black Regular",
+        "designer": "Ghanem",
+        "source": "https://www.behance.net/-font , Ghanemop@gmail.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-black-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-black.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-black.svg",
@@ -1312,6 +2182,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-black.woff2"
     },
     "vip_tim_bold": {
+        "name": "vip-tim-bold",
+        "font": "VIPTIM-Bold Regular",
+        "designer": "Ghanem",
+        "source": "https://www.behance.net/-font , Ghanemop@gmail.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-bold.svg",
@@ -1320,6 +2195,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-bold.woff2"
     },
     "vip_tim_light": {
+        "name": "vip-tim-light",
+        "font": "VIPTIM-Thin Regular",
+        "designer": "Ghanem",
+        "source": "https://www.behance.net/-font , Ghanemop@gmail.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-light-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-light.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-light.svg",
@@ -1328,6 +2208,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-light.woff2"
     },
     "vip_tim": {
+        "name": "vip-tim",
+        "font": "VIPTIM-Regular Regular",
+        "designer": "Ghanem",
+        "source": "https://www.behance.net/-font , Ghanemop@gmail.com",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim.svg",
@@ -1336,6 +2221,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim.woff2"
     },
     "yaraa": {
+        "name": "yaraa",
+        "font": "ShorooqYaraa-Thin Thin",
+        "designer": "saud_10@live.com",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yaraa-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yaraa.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yaraa.svg",
@@ -1344,6 +2234,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yaraa.woff2"
     },
     "yaraa_regular": {
+        "name": "yaraa-regular",
+        "font": "ShorooqYaraa Regular",
+        "designer": "saud_10@live.com",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yaraa-regular-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yaraa-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yaraa-regular.svg",
@@ -1352,6 +2247,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yaraa-regular.woff2"
     },
     "yassin": {
+        "name": "yassin",
+        "font": "Yassin_MagdySoliman-Regular Regular",
+        "designer": "",
+        "source": "",
+        "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yassin-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yassin.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yassin.svg",
@@ -1360,6 +2260,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/yassin.woff2"
     },
     "zahra_bold": {
+        "name": "zahra-bold",
+        "font": "ZahraArabic-Bold Regular",
+        "designer": "Emad (iSkyFalConS)",
+        "source": "http://myfontsarabic.blogspot.com/",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/zahra-bold-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/zahra-bold.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/zahra-bold.svg",
@@ -1368,6 +2273,11 @@
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/zahra-bold.woff2"
     },
     "zahra": {
+        "name": "zahra",
+        "font": "ZahraArabic-Regular Regular",
+        "designer": "Emad (iSkyFalConS)",
+        "source": "http://myfontsarabic.blogspot.com/",
+        "version": 1.001,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/zahra-org.ttf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/zahra.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/zahra.svg",
