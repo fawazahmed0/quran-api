@@ -181,9 +181,9 @@ async function create(update) {
       var uniqueobj = {}
       var fulllatinarr;
       if (fs.existsSync(latinDPath))
-         [, fulllatinarr] = readDBTxt(latinDPath)
+        [, fulllatinarr] = readDBTxt(latinDPath)
       else if (fs.existsSync(latinPath))
-         [, fulllatinarr] = readDBTxt(latinPath)
+        [, fulllatinarr] = readDBTxt(latinPath)
 
       // if the edition-la or edition-lad existed
       if (fulllatinarr) {
@@ -230,20 +230,19 @@ async function create(update) {
       logmsg("\nPlease wait trying to generate latin script for this translation, it will take 5-10mins to complete")
       var genLatinarr
       // if this is create operation or if the latin script forr the edition doesn't exist, we will try building one
-      if (!update || !fulllatinarr){
+      if (!update || !fulllatinarr) {
         genLatinarr = await genLatin(cleanarr, genJSON['name'])
-        logmsg("\ninside new gen",true)
-      }
-      else if (Object.keys(uniqueobj).length == 0) {
+        logmsg("\ninside new gen", true)
+      } else if (Object.keys(uniqueobj).length == 0) {
         // if there are no edited lines in the updated translation, maybe only json data was updated in the file
         // So we will use the old latin translation
         genLatinarr = fulllatinarr
-          logmsg("\ninside no gen",true)
+        logmsg("\ninside no gen", true)
       } else {
         // generating latin only for edited lines
         var latinreturn = await genLatin(Object.values(uniqueobj), genJSON['name'])
         var i = 0
-        logmsg("\ninside few gen",true)
+        logmsg("\ninside few gen", true)
         // The return latin script should be an array and the no of lines we passed, should be returned back
         if (Array.isArray(latinreturn) && Object.keys(uniqueobj).length == latinreturn.length) {
           for (var key of Object.keys(uniqueobj))
@@ -402,9 +401,9 @@ function validateCleanTrans(arr, filename, orgarr) {
         // and check for search value at valid index, to make sure that next verse was not merged with the valid laststr
         if (stop++ == limit || (i + 1 == arr.length && j != mappings.length)) {
           // Making sure temparr is not empty
-          if(temparr.length!=0)
-          // Checking whether the last valid index had the verse pattern in it
-          splitval = temparr[lastindex].split(versePattern)
+          if (temparr.length != 0)
+            // Checking whether the last valid index had the verse pattern in it
+            splitval = temparr[lastindex].split(versePattern)
           // If the verse pattern exists, then we will cut and push that line into new line, otherwise we will stop, as it might be missing some verses in it
           if (splitval[1]) {
             temparr.splice(lastindex, 1, splitval[0], temparr[lastindex].replace(splitval[0], ""))
@@ -664,8 +663,8 @@ function fontsListingsGen() {
   // getting sorted array of fonts, all the fonts have already been renamed to standard form in fontsgen()
   var fontsarr = fs.readdirSync(fontsDir).sort()
   var fontjson = {}
-// Return the metadata of fonts in fontsDir of only those filenames passes the given regex
-var fontsMetaJSON = fontsMeta(fontsDir, /\-org\.?[a-z]*$/i)
+  // Return the metadata of fonts in fontsDir of only those filenames passes the given regex
+  var fontsMetaJSON = fontsMeta(fontsDir, /\-org\.?[a-z]*$/i)
 
   // generating fontjson
   for (var fontname of fontsarr) {
@@ -681,7 +680,7 @@ var fontsMetaJSON = fontsMeta(fontsDir, /\-org\.?[a-z]*$/i)
     var innerkey = extension[0].trim().substring(1)
     // if this fontname endsWith -org , then it means this was the original file used to generate the other fonts
     // we will also assign the metadata stored in fontsMetaJSON
-    if (fontWithNoExtension.endsWith('-org')){
+    if (fontWithNoExtension.endsWith('-org')) {
       // set key to original for fonts that ends with -org
       innerkey = 'original'
       fontjson[keyname]['name'] = keyname.replace(/_/gi, "-")
@@ -700,56 +699,65 @@ var fontsMetaJSON = fontsMeta(fontsDir, /\-org\.?[a-z]*$/i)
 
 // Takes  input arg as path to fonts directory and regex of filenames to consider in fonts directory and returns object containing meta data about fonts
 // If no nameregex is defined it returns the meta data of all fonts in directory
-function fontsMeta(PathToFontsDir, nameregex){
+function fontsMeta(PathToFontsDir, nameregex) {
   // stores fonts meta data such as fontname, authorname, version etc
   var metaobj = {}
   var fontsarr = fs.readdirSync(PathToFontsDir)
-// If nameregex is defined, then we will only consider those files which pases the regex for filename
-  if(nameregex)
-     fontsarr = fontsarr.filter(e => nameregex.test(e))
+  // If nameregex is defined, then we will only consider those files which pases the regex for filename
+  if (nameregex)
+    fontsarr = fontsarr.filter(e => nameregex.test(e))
 
-  for(var filename of fontsarr){
+  for (var filename of fontsarr) {
     // Initializing the metaobj with filename as key
-    metaobj[filename] = {"fontname":"","designer":"","source":"","version":""}
+    metaobj[filename] = {
+      "fontname": "",
+      "designer": "",
+      "source": "",
+      "version": ""
+    }
     // stores font object returned by opentypejs
     var font = {}
     // Loading fonts using opentypejs
-    try{ font =  opentype.loadSync(path.join(PathToFontsDir,filename)) }catch(e){}
+    try {
+      font = opentype.loadSync(path.join(PathToFontsDir, filename))
+    } catch (e) {}
     // Assigning the values
-    if(font && font.tables && font.tables.name){
+    if (font && font.tables && font.tables.name) {
 
-if(font.tables.name.fontFamily){
-metaobj[filename]['fontname'] = font.tables.name.fontFamily.en || ""
-if(font.tables.name.fontSubfamily && font.tables.name.fontSubfamily.en)
-metaobj[filename]['fontname'] = metaobj[filename]['fontname']+' '+font.tables.name.fontSubfamily.en
-}
+      if (font.tables.name.fontFamily) {
+        metaobj[filename]['fontname'] = font.tables.name.fontFamily.en || ""
+        if (font.tables.name.fontSubfamily && font.tables.name.fontSubfamily.en)
+          metaobj[filename]['fontname'] = metaobj[filename]['fontname'] + ' ' + font.tables.name.fontSubfamily.en
+      }
 
-if(font.tables.name.version && font.tables.name.version.en){
-    try{ metaobj[filename]['version'] = parseFloat(font.tables.name.version.en.match(/\d+\.?\d*/)[0]) }catch(e){}
-}
+      if (font.tables.name.version && font.tables.name.version.en) {
+        try {
+          metaobj[filename]['version'] = parseFloat(font.tables.name.version.en.match(/\d+\.?\d*/)[0])
+        } catch (e) {}
+      }
 
-if(font.tables.name.designer)
-metaobj[filename]['designer'] = font.tables.name.designer.en || ""
+      if (font.tables.name.designer)
+        metaobj[filename]['designer'] = font.tables.name.designer.en || ""
 
-if(font.tables.name.manufacturer && font.tables.name.manufacturer.en
-  && font.tables.name.manufacturer.en.trim() != metaobj[filename]['designer'].trim())
-metaobj[filename]['designer'] = metaobj[filename]['designer'] +' , '+font.tables.name.manufacturer.en
+      if (font.tables.name.manufacturer && font.tables.name.manufacturer.en &&
+        font.tables.name.manufacturer.en.trim() != metaobj[filename]['designer'].trim())
+        metaobj[filename]['designer'] = metaobj[filename]['designer'] + ' , ' + font.tables.name.manufacturer.en
 
-if(font.tables.name.designerURL)
-metaobj[filename]['source'] = font.tables.name.designerURL.en || ""
+      if (font.tables.name.designerURL)
+        metaobj[filename]['source'] = font.tables.name.designerURL.en || ""
 
-if(font.tables.name.manufacturerURL && font.tables.name.manufacturerURL.en
-  && font.tables.name.manufacturerURL.en.trim() != metaobj[filename]['source'].trim())
-metaobj[filename]['source'] = metaobj[filename]['source'] +' , '+font.tables.name.manufacturerURL.en
+      if (font.tables.name.manufacturerURL && font.tables.name.manufacturerURL.en &&
+        font.tables.name.manufacturerURL.en.trim() != metaobj[filename]['source'].trim())
+        metaobj[filename]['source'] = metaobj[filename]['source'] + ' , ' + font.tables.name.manufacturerURL.en
 
-//replace any unnecessary commas at front or back of string
-metaobj[filename]['designer'] = metaobj[filename]['designer'].trim().replace(/^,|,$/g,'')
-metaobj[filename]['source']= metaobj[filename]['source'].trim().replace(/^,|,$/g,'')
+      //replace any unnecessary commas at front or back of string
+      metaobj[filename]['designer'] = metaobj[filename]['designer'].trim().replace(/^,|,$/g, '')
+      metaobj[filename]['source'] = metaobj[filename]['source'].trim().replace(/^,|,$/g, '')
 
-}
+    }
   }
 
-return metaobj
+  return metaobj
 
 }
 
@@ -924,16 +932,16 @@ async function generateJSON(arr, jsondata, editionName) {
   var isocode = temp[1]
   // capitalize first letters
   newjson['language'] = capitalize(newjson['language'])
-// If values are undefined we will assign it as empty string
-    newjson['author'] = newjson['author'] || "unknown"
+  // If values are undefined we will assign it as empty string
+  newjson['author'] = newjson['author'] || "unknown"
 
   // Removing special symbols and diacritics from authors name
   newjson['author'] = newjson['author'].normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^A-Za-z\s\.\,]+/gi, " ").replace(/\s\s+/gi, " ").toLowerCase().trim()
   newjson['author'] = capitalize(newjson['author'])
 
   // If values are undefined we will assign it as empty string
-    newjson['source'] =  newjson['source'] || ""
-    newjson['comments'] = newjson['comments'] || ""
+  newjson['source'] = newjson['source'] || ""
+  newjson['comments'] = newjson['comments'] || ""
 
 
   // Number of chars to consider in author name for editionName creation
@@ -1103,20 +1111,20 @@ function isDiacritic(arr) {
 }
 // Takes an array to be translated and it's editionName, the editionName will be used to keep track of failed latin generations,
 // in the middle
-async function genLatin(arr,edName) {
+async function genLatin(arr, edName) {
   // max chars for which latin can be generated, this is what google translate supports through pytranslate library
   var maxLatin = 1500
   // first check whether google gives the latin or not
   var result = runPyScript(path.join(__dirname, 'translate.py'), arr.slice(0, 10).join('\n').substring(0, maxLatin))
- try{
-   // If this throws error, it means google might have started blocking the ip
-  var result = JSON.parse(result)
-}catch(error){
-  logmsg("\nLatin generation detection failed")
-  logmsg("\n Noting down the editionName for future latin generation")
-  fs.appendFileSync(path.join(__dirname, "failed latin generation.txt"), edName+'\n')
-  return
-}
+  try {
+    // If this throws error, it means google might have started blocking the ip
+    var result = JSON.parse(result)
+  } catch (error) {
+    logmsg("\nLatin generation detection failed")
+    logmsg("\n Noting down the editionName for future latin generation")
+    fs.appendFileSync(path.join(__dirname, "failed latin generation.txt"), edName + '\n')
+    return
+  }
   // If the place were latin is found is array then it means latin generation is not supported for this langauge
   if (Array.isArray(result[0]['extra_data'].translation.slice(-1)[0].slice(-1)[0])) {
     logmsg("\nLatin script not supported for this langauge, skipping latin script generation")
@@ -1152,14 +1160,14 @@ async function genLatin(arr,edName) {
     await new Promise(r => setTimeout(r, getRandomNo(randomWait)));
     // Can give around 10 or something arrays to the script , which is equal to maxLatin*maxarr characters i.e 1500*10
     result = runPyScript(path.join(__dirname, 'translate.py'), holderarr.splice(0, maxarr))
-try{
-    result = JSON.parse(result)
-  }catch(error){
-    logmsg("\n Got an error in middle of latin generation, translate script have failed")
-    logmsg("\n Noting down the editionName for future latin generation")
-    fs.appendFileSync(path.join(__dirname, "failed latin generation.txt"), edName+'\n')
-    return
-}
+    try {
+      result = JSON.parse(result)
+    } catch (error) {
+      logmsg("\n Got an error in middle of latin generation, translate script have failed")
+      logmsg("\n Noting down the editionName for future latin generation")
+      fs.appendFileSync(path.join(__dirname, "failed latin generation.txt"), edName + '\n')
+      return
+    }
     // removing last element as it's empty space returned by translate.py
     result.splice(-1)
     fullresult = fullresult.concat(result)
@@ -1177,15 +1185,14 @@ try{
   // Remove empty lines from the array, google translate sometimes is not able to translate few lines properly and that is returned as empty
   var filteredlatinarr = latinarr.filter(elem => !/^\s*$/.test(elem))
   // if the lengths of input arr and generated latin is same and atleast 80% of input arr is generated and are not empty lines
-  if (latinarr.length == arr.length && arr.length*0.8<filteredlatinarr.length){
+  if (latinarr.length == arr.length && arr.length * 0.8 < filteredlatinarr.length) {
     logmsg("\nlatin script generated for this language")
-      return latinarr
-    }
-  else{
-    logmsg("\n latin script generated but the number of lines are "+latinarr.length+', so not considering it altogether')
+    return latinarr
+  } else {
+    logmsg("\n latin script generated but the number of lines are " + latinarr.length + ', so not considering it altogether')
     // It will generated incase the latinarr after empty line filtering i.e filteredlatinarr is 6236 lines
     return filteredlatinarr
-}
+  }
 
 
 }
