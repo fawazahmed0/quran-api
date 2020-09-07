@@ -71,7 +71,7 @@ Without your contribution, this repo won't survive, incase of any issues or prob
 - Please help by adding new translations to this repo, you can share me the translation [here](https://github.com/fawazahmed0/quran-api/issues/new "here")
 
 or
-- Read [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute") to add the translation directly to this repo
+- Read [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute") to add/update the translation directly to this repo
 
 
 ### Help Needed:
