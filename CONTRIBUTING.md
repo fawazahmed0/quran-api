@@ -7,7 +7,7 @@
 
 `pip3 install googletrans`
 
-`npm install -g -D playwright extract-zip `
+`npm install -g -D playwright extract-zip opentype.js`
 
 To Create/Update/Delete/Search the editions, we will use [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js"). 
 
