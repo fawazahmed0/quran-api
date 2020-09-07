@@ -46,6 +46,9 @@ Here is a list of websites that helped me either directly or indirectly in makin
 - https://github.com/Tarobish
 - https://github.com/quranacademy
 - https://github.com/quranacademy/test-arabic-fonts
+- http://www.goodwordbooks.com/
+- https://www.cpsglobal.org/
+- https://www.sil.org/
 
 <br>
 <br>
