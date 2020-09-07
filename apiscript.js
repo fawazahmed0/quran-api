@@ -653,7 +653,8 @@ async function fontsGen() {
         recursive: true
       })
     }
-    // closing the browser
+    // closing the browser incase, if it was launched
+    if(fullPathArr.length>0)
     await browser.close()
   } // End of if
 
