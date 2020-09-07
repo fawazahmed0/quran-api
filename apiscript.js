@@ -69,6 +69,21 @@ var page
 // browser variable, to allow easily closing the browser from anywhere in the script
 var browser
 
+// We will make few directories, incase if they doesn't exists, this will help to run this script even if we
+// partially cloned this repo
+fs.mkdirSync(startDir, {
+  recursive: true
+});
+fs.mkdirSync(editionsDir, {
+  recursive: true
+});
+fs.mkdirSync(path.join(databaseDir, "originals"), {
+  recursive: true
+});
+fs.mkdirSync(path.join(databaseDir, "chapterverse"), {
+  recursive: true
+});
+
 // function that will run on running this script
 async function start() {
   logmsg("\nBEGIN:\n" + process.argv.join(' '), true)
