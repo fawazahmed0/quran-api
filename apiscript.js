@@ -360,7 +360,8 @@ function validateCleanTrans(arr, filename, orgarr) {
     // specifies the limit, i.e next number of lines to search for next verse
     var limit = 10
     // stores the last line string which had valid number pattern like 1|1|Praise be to God
-    var laststr;
+    // setting this to first line, incase the translation is without number patters and in wrong format, it will print error in line 0
+    var laststr = orgarr[0]
     // stores the numbers from line
     //  var numsarr;
     // This will store arr which has valid lines, it will help in backtrack incase the limit is reached and we wanted to check the lastcorrect index for the search value
@@ -370,7 +371,7 @@ function validateCleanTrans(arr, filename, orgarr) {
     // Stores the regex verse pattern
     var versePattern;
     // stores the regex split values in an array
-    var splitval
+    var splitval = []
     for (i = 0; i < arr.length; i++) {
       // Make versePattern for only if the mappings is defined and we are not trying to access which doesn't exists
       if (mappings[j])
@@ -400,6 +401,8 @@ function validateCleanTrans(arr, filename, orgarr) {
         // and we have not yet got the right pattern verses, we will backtrack using temparray
         // and check for search value at valid index, to make sure that next verse was not merged with the valid laststr
         if (stop++ == limit || (i + 1 == arr.length && j != mappings.length)) {
+          // Making sure temparr is not empty
+          if(temparr.length!=0)
           // Checking whether the last valid index had the verse pattern in it
           splitval = temparr[lastindex].split(versePattern)
           // If the verse pattern exists, then we will cut and push that line into new line, otherwise we will stop, as it might be missing some verses in it
@@ -429,7 +432,6 @@ function cleanTrans(arr) {
     // https://en.wikipedia.org/wiki/List_of_Unicode_characters#Basic_Latin
     // This will remove all special symbols and numbers from starting and ending of verse
     arr[i] = arr[i].replace(/^[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n]{1,20}/, " ").replace(/^\s*\w{1}\s*(\.|\)|\}|\>|\])+[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n]{0,7}/i, " ").replace(/[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n]{1,15}$/, " ").replace(/\s\s+/g, " ").trim()
-
     // Checking partially open/close bracket exists or not at begninning of verse
     var bracket1 = arr[i].match(/^[^\[|\(|\<|\{]+(\]|\)|\>|\})/)
     // Checking partially open/close bracket exists or not at end of verse
@@ -443,7 +445,7 @@ function cleanTrans(arr) {
     if (bracket2)
       arr[i] = arr[i] + getOppoBracket(bracket2[0].slice(0, 1))
   }
-  return arr.filter(elem => !/^\s*$/.test(elem))
+  return arr
 }
 
 // clean the string from special symbols,numbers,multiple spaces etc , this is used for string comparision
@@ -1170,15 +1172,22 @@ try{
     fullval = fullval + val['extra_data'].translation.slice(-1)[0].slice(-1)[0] + delimiter
 
   //var latinarr = fullval.split(/\r?\n/);
-  // Clean the returned array from translate.py, remove empty lines and trim the verse line
-  var latinarr = fullval.split(delimiter).filter(elem => !/^\s*$/.test(elem)).map(s => s.trim())
-  if (latinarr.length == 6236)
+  // Clean the returned array from translate.py, trim the verse line
+  var latinarr = fullval.split(delimiter).map(s => s.trim())
+  // Remove empty lines from the array, google translate sometimes is not able to translate few lines properly and that is returned as empty
+  var filteredlatinarr = latinarr.filter(elem => !/^\s*$/.test(elem))
+  // if the lengths of input arr and generated latin is same and atleast 80% of input arr is generated and are not empty lines
+  if (latinarr.length == arr.length && arr.length*0.8<filteredlatinarr.length){
     logmsg("\nlatin script generated for this language")
-  else
+      return latinarr
+    }
+  else{
     logmsg("\n latin script generated but the number of lines are "+latinarr.length+', so not considering it altogether')
+    // It will generated incase the latinarr after empty line filtering i.e filteredlatinarr is 6236 lines
+    return filteredlatinarr
+}
 
 
-  return latinarr
 }
 
 // This will make the python 3 script run in multiple os environments
