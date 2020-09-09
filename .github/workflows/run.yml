@@ -44,14 +44,14 @@ jobs:
           git checkout
 
 
-      - if: ${{ GITHUB_EVENT_NAME != 'workflow_dispatch' }}
+      - if: ${{ github.event_name != 'workflow_dispatch' }}
         id: command-val
         shell: bash
         run: |
           echo "::set-output name=mycmd::$(sed -n '1 p' command.txt)"
           echo "::set-output name=myargs::$(sed -n '2 p' command.txt)"
 
-      - if: ${{ GITHUB_EVENT_NAME == 'workflow_dispatch' }}
+      - if: ${{ github.event_name == 'workflow_dispatch' }}
         id: command-val
         shell: bash
         run: |
