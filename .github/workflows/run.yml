@@ -115,7 +115,8 @@ jobs:
 
 
       - name: Emptying command.txt
-        run: > command.txt
+        run: |
+          > command.txt
 
 
 
