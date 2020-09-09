@@ -26,6 +26,15 @@ jobs:
     steps:
 
 
+      # Partial clone
+      - name: Partial clone
+        shell: bash
+        run: |
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
+          git checkout
+
+
       - id: command-val
         shell: bash
         run: |
@@ -38,29 +47,17 @@ jobs:
           echo ${{ steps.command-val.outputs.myargs }}
 
 
-      # Partial clone
-      - name: Partial clone
-        shell: bash
-        run: |
-          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-          git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
-
-
       # Add folders to sparse-checkout
       - name: Add folders to sparse-checkout
         if: ${{ contains(steps.command-val.outputs.mycmd, 'create') || contains(steps.command-val.outputs.mycmd, 'search') }}
         shell: bash
-        run: |
-          git sparse-checkout init --cone
-          git sparse-checkout add database/linebyline isocodes start
+        run: git sparse-checkout add database/linebyline/* isocodes/* start/*
 
       # Add folders to sparse-checkout
       - name: Add folders to sparse-checkout
         if: ${{ contains(steps.command-val.outputs.mycmd, 'fontsgen') }}
         shell: bash
-        run: |
-          git sparse-checkout init --cone
-          git sparse-checkout add fonts start
+        run: git sparse-checkout add fonts/* start/*
 
       # Add folders to sparse-checkout
       - name: Add folders to sparse-checkout
@@ -76,10 +73,6 @@ jobs:
           echo $delargs
           echo $updateargs
 
-      # checkout
-      - name: Checkout
-        shell: bash
-        run: git checkout
 
       - run: python3 -m pip install --upgrade pip setuptools wheel
         if: ${{ ! contains(runner.os, 'windows') }}
@@ -120,6 +113,9 @@ jobs:
       - name: Run command
         run: node apiscript.js ${{ steps.command-val.outputs.mycmd }} ${{ steps.command-val.outputs.myargs }}
 
+
+      - name: Emptying command.txt
+        run: > command.txt
 
 
 
