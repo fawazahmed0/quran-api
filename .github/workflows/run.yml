@@ -1,0 +1,151 @@
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch and on start directory or command.txt file
+on:
+  push:
+    branches: [ 1 ]
+    paths:
+    - 'start/*'
+    - 'command.txt'
+  pull_request:
+    branches: [ 1 ]
+    paths:
+    - 'start/*'
+    - 'command.txt'
+
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+
+
+      - id: command-val
+        shell: bash
+        run: |
+          echo "::set-output name=mycmd::$(sed -n '1 p' command.txt)"
+          echo "::set-output name=myargs::$(sed -n '2 p' command.txt)"
+
+      - shell: bash
+        run: |
+          echo ${{ steps.command-val.outputs.mycmd }}
+          echo ${{ steps.command-val.outputs.myargs }}
+
+
+      # Partial clone
+      - name: Partial clone
+        shell: bash
+        run: |
+          REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
+
+
+      # Add folders to sparse-checkout
+      - name: Add folders to sparse-checkout
+        if: ${{ contains(steps.command-val.outputs.mycmd, 'create') || contains(steps.command-val.outputs.mycmd, 'search') }}
+        shell: bash
+        run: |
+          git sparse-checkout init --cone
+          git sparse-checkout add database/linebyline isocodes start
+
+      # Add folders to sparse-checkout
+      - name: Add folders to sparse-checkout
+        if: ${{ contains(steps.command-val.outputs.mycmd, 'fontsgen') }}
+        shell: bash
+        run: |
+          git sparse-checkout init --cone
+          git sparse-checkout add fonts start
+
+      # Add folders to sparse-checkout
+      - name: Add folders to sparse-checkout
+        if: ${{ contains(steps.command-val.outputs.mycmd, 'update') || contains(steps.command-val.outputs.mycmd, 'delete') }}
+        shell: bash
+        # delargs gets the arguments in command.txt, then remove start spaces if any, then adds space at end, then replace spaces with *, then remove if only single * exists
+        # updateargs lists all files in startDir, replaced .txt with * and then replace \n with space
+        # sparse checkout will have editionName*, which means all files and folders starting with editionName will be checkeout
+        run: |
+          delargs=`echo ${{ steps.command-val.outputs.myargs }} | sed -E 's/^\s+//g' | sed -E 's/$/ /g' | sed -E 's/\s+/* /g' | sed -E 's/^\* $//'`
+          updateargs=`ls -1 start | sed -e 's/\.txt$/*/' | tr '\n' ' '`
+          git sparse-checkout add isocodes/* start/* $delargs $updateargs
+          echo $delargs
+          echo $updateargs
+
+      # checkout
+      - name: Checkout
+        shell: bash
+        run: git checkout
+
+      - run: python3 -m pip install --upgrade pip setuptools wheel
+        if: ${{ ! contains(runner.os, 'windows') }}
+        shell: bash
+
+      - run: py -3 -m pip install --upgrade pip setuptools wheel
+        if: ${{ contains(runner.os, 'windows') }}
+        shell: bash
+
+
+      - name: Get cache directories
+        id: cache-dir
+        shell: bash
+        run: |
+          echo "::set-output name=pipcache::$(pip3 cache dir)"
+          echo "::set-output name=npmcache::$(npm config get cache)"
+
+
+
+      - uses: actions/cache@v2
+        with:
+          path: |
+            ${{ steps.cache-dir.outputs.pipcache }}
+            ${{ steps.cache-dir.outputs.npmcache }}
+          key: ${{ runner.os }}-cache-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-cache-${{ hashFiles('**/package.json') }}
+            ${{ runner.os }}-cache-${{ hashFiles('**/requirements.txt') }}
+            ${{ runner.os }}-cache-
+            ${{ runner.os }}-
+
+      - name: Install Dependencies
+        run: |
+          pip3 install -r requirements.txt
+          npm install
+
+
+      - name: Run command
+        run: node apiscript.js ${{ steps.command-val.outputs.mycmd }} ${{ steps.command-val.outputs.myargs }}
+
+
+
+
+      # commiting and pushing changes
+      - name: commit and push
+        if: ${{ ! contains(steps.command-val.outputs.mycmd, 'search') }}
+        shell: bash
+        run: |
+          git config --global user.email github-actions@github.com
+          git config --global user.name github-actions
+          git add -A
+          git commit -m ${{ steps.command-val.outputs.mycmd }}
+          git push
+
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: log
+          path: log.txt
+
+
+
+
+
+      - name: Dump steps context
+        shell: bash
+        env:
+          STEPS_CONTEXT: ${{ toJson(steps) }}
+        run: echo "$STEPS_CONTEXT"
