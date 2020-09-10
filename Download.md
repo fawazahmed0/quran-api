@@ -29,8 +29,8 @@ https://github.com/fawazahmed0/quran-api/trunk/database/linebyline <br>
 https://github.com/fawazahmed0/quran-api/trunk/fonts <br>
 
 
-### Method 3(Not Recommended):
-- Just [Download](https://github.com/fawazahmed0/quran-api/archive/1.zip) or clone this huge repo to get those files
+### Method 3(Easy, Not Recommended):
+- Just [Download](https://github.com/fawazahmed0/quran-api/archive/1.zip) or clone this repo to get those files
 
 <br>
 
