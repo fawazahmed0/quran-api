@@ -8,11 +8,6 @@ on:
     paths:
     - 'start/*'
     - 'command.txt'
-  pull_request:
-    branches: [ 1 ]
-    paths:
-    - 'start/*'
-    - 'command.txt'
 
   workflow_dispatch:
     inputs:
