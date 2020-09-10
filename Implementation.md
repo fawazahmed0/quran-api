@@ -52,7 +52,7 @@ It uses [googletrans](https://github.com/ssut/py-googletrans "googletrans") pyth
 In future it's possible that the [googletrans](https://github.com/ssut/py-googletrans "googletrans") might break, but we can still get the functionality using [browser](https://github.com/microsoft/playwright/ "browser") and get the latin script translations from [Google Translate](https://translate.google.com/ "Google Translate")
 
 ### Actions script:
-This repo uses GitHub [Actions](https://github.com/features/actions) to perform all the operations automatically duing push to repo, the code is in [run.yml](https://github.com/fawazahmed0/quran-api/blob/1/.github/workflows/run.yml).
+This repo uses GitHub [Actions](https://github.com/features/actions) to perform all the operations automatically duing push to this repo, the code is in [run.yml](https://github.com/fawazahmed0/quran-api/blob/1/.github/workflows/run.yml).
 The workflow can be triggered either by adding files in [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory and/or by editing the [command.txt](https://github.com/fawazahmed0/quran-api/blob/1/command.txt) file as shown [here](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L8). It can also be triggered [manually](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L12) from [Actions tab](https://github.com/fawazahmed0/quran-api/actions).
 
 During the workflow run the repo is [partially cloned](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L34)
@@ -65,7 +65,7 @@ Then the [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscrip
 The [command.txt](https://github.com/fawazahmed0/quran-api/blob/1/command.txt) gets [emptied](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L125) and [log is saved](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L130)  and the changes are [commited and pushed](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L137) to this repository.
 
 
-In case you still have questions refer [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js"), [translate.py](https://github.com/fawazahmed0/quran-api/blob/1/translate.p "translate.py")
+In case you still have questions refer [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js"), [translate.py](https://github.com/fawazahmed0/quran-api/blob/1/translate.p "translate.py"), [run.yml](https://github.com/fawazahmed0/quran-api/blob/1/.github/workflows/run.yml)
 and also you can [ask me](https://github.com/fawazahmed0/quran-api/issues/new "ask me ")
 
 <br>
