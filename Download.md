@@ -15,9 +15,9 @@
 1. Install [TortoiseSVN](https://tortoisesvn.net/downloads.html)
 
 2. Right click and SVN Checkout the following urls one by one:
-https://github.com/fawazahmed0/quran-api/trunk/database/chapterverse
-https://github.com/fawazahmed0/quran-api/trunk/database/linebyline
-https://github.com/fawazahmed0/quran-api/trunk/fonts
+https://github.com/fawazahmed0/quran-api/trunk/database/chapterverse <br>
+https://github.com/fawazahmed0/quran-api/trunk/database/linebyline <br>
+https://github.com/fawazahmed0/quran-api/trunk/fonts <br>
 
 ### Method 3(Using Git):
 1. Install [Git](https://git-scm.com/downloads)
