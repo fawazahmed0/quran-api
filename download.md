@@ -1,6 +1,6 @@
 ## Download:
 
-- All the files are in [database](https://github.com/fawazahmed0/quran-api/tree/1/database "database") folder of this repo, there are two folders available, one is [linebyline](https://github.com/fawazahmed0/quran-api/tree/1/database/linebyline "linebyline") and other is [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "chapterverse").
+- All the translations are in [database](https://github.com/fawazahmed0/quran-api/tree/1/database "database") folder of this repo, there are two folders available, one is [linebyline](https://github.com/fawazahmed0/quran-api/tree/1/database/linebyline "linebyline") and other is [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "chapterverse").
  [linebyline](https://github.com/fawazahmed0/quran-api/tree/1/database/linebyline "linebyline") contains files having verses in 6236 lines and [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "chapterverse") contains files having each verse prepended with chapter and verse no.
 
  - Fonts are available in [fonts](https://github.com/fawazahmed0/quran-api/tree/1/fonts "fonts") directory
