@@ -143,7 +143,7 @@ jobs:
 
       # commiting and pushing changes
       - name: commit and push
-        if: ${{ ! contains(env.mycmd, 'search') }}
+        if: ${{ ! contains(env.mycmd, 'search') && env.mycmd}}
         shell: bash
         run: |
           git config --global user.email github-actions@github.com
@@ -157,13 +157,3 @@ jobs:
         with:
           name: log
           path: log.txt
-
-
-
-
-
-      - name: Dump steps context
-        shell: bash
-        env:
-          STEPS_CONTEXT: ${{ toJson(steps) }}
-        run: echo "$STEPS_CONTEXT"
