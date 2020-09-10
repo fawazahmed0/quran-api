@@ -35,6 +35,7 @@ jobs:
     steps:
 
 
+
       # Partial clone
       - name: Partial clone
         shell: bash
@@ -45,46 +46,48 @@ jobs:
 
 
       - if: ${{ github.event_name != 'workflow_dispatch' }}
-        id: command-val
         shell: bash
         run: |
-          echo "::set-output name=mycmd::$(sed -n '1 p' command.txt)"
-          echo "::set-output name=myargs::$(sed -n '2 p' command.txt)"
+          echo "::set-env name=mycmd::$(sed -n '1 p' command.txt)"
+          echo "::set-env name=myargs::$(sed -n '2 p' command.txt)"
+
+
+
 
       - if: ${{ github.event_name == 'workflow_dispatch' }}
-        id: command-val
         shell: bash
         run: |
-          echo "::set-output name=mycmd::${{ github.event.inputs.cmdval }}"
-          echo "::set-output name=myargs::${{ github.event.inputs.argval }}"
+          echo "::set-env name=mycmd::${{ github.event.inputs.cmdval }}"
+          echo "::set-env name=myargs::${{ github.event.inputs.argval }}"
 
       - shell: bash
         run: |
-          echo ${{ steps.command-val.outputs.mycmd }}
-          echo ${{ steps.command-val.outputs.myargs }}
+          echo ${{ env.mycmd }}
+          echo ${{ env.myargs }}
+
 
 
       # Add folders to sparse-checkout
       - name: Add folders to sparse-checkout
-        if: ${{ contains(steps.command-val.outputs.mycmd, 'create') || contains(steps.command-val.outputs.mycmd, 'search') }}
+        if: ${{ contains(env.mycmd, 'create') || contains(env.mycmd, 'search') }}
         shell: bash
         run: git sparse-checkout add database/linebyline/* isocodes/* start/*
 
       # Add folders to sparse-checkout
       - name: Add folders to sparse-checkout
-        if: ${{ contains(steps.command-val.outputs.mycmd, 'fontsgen') }}
+        if: ${{ contains(env.mycmd, 'fontsgen') }}
         shell: bash
         run: git sparse-checkout add fonts/* start/*
 
       # Add folders to sparse-checkout
       - name: Add folders to sparse-checkout
-        if: ${{ contains(steps.command-val.outputs.mycmd, 'update') || contains(steps.command-val.outputs.mycmd, 'delete') }}
+        if: ${{ contains(env.mycmd, 'update') || contains(env.mycmd, 'delete') }}
         shell: bash
         # delargs gets the arguments in command.txt, then remove start spaces if any, then adds space at end, then replace spaces with *, then remove if only single * exists
         # updateargs lists all files in startDir, replaced .txt with * and then replace \n with space
         # sparse checkout will have editionName*, which means all files and folders starting with editionName will be checkeout
         run: |
-          delargs=`echo ${{ steps.command-val.outputs.myargs }} | sed -E 's/^\s+//g' | sed -E 's/$/ /g' | sed -E 's/\s+/* /g' | sed -E 's/^\* $//'`
+          delargs=`echo ${{ env.myargs }} | sed -E 's/^\s+//g' | sed -E 's/$/ /g' | sed -E 's/\s+/* /g' | sed -E 's/^\* $//'`
           updateargs=`ls -1 start | sed -e 's/\.txt$/*/' | tr '\n' ' '`
           git sparse-checkout add isocodes/* start/* $delargs $updateargs
           echo $delargs
@@ -128,7 +131,7 @@ jobs:
 
 
       - name: Run command
-        run: node apiscript.js ${{ steps.command-val.outputs.mycmd }} ${{ steps.command-val.outputs.myargs }}
+        run: node apiscript.js ${{ env.mycmd }} ${{ env.myargs }}
 
 
       - name: Emptying command.txt
@@ -139,13 +142,13 @@ jobs:
 
       # commiting and pushing changes
       - name: commit and push
-        if: ${{ ! contains(steps.command-val.outputs.mycmd, 'search') }}
+        if: ${{ ! contains(env.mycmd, 'search') }}
         shell: bash
         run: |
           git config --global user.email github-actions@github.com
           git config --global user.name github-actions
           git add -A
-          git commit -m ${{ steps.command-val.outputs.mycmd }}
+          git commit -m ${{ env.mycmd }}
           git push
 
 
