@@ -79,7 +79,7 @@ or
 [Make Colored Tajweed Fonts](https://github.com/fawazahmed0/quran-api/issues/12 "Make Colored Tajweed Fonts")
 
 
-### Download:[Here](https://github.com/fawazahmed0/quran-api/blob/1/download.md)
+### Download: [Here](https://github.com/fawazahmed0/quran-api/blob/1/download.md)
 
 ### Authenticity:
 I have taken great care to not include any controversial authors, for example: 'Rashad Khalifa' , because there are chances that the translation may contain opinions of the author and not the meaning of the verse.
@@ -88,9 +88,7 @@ But I cannot take those translations also because the verses such as those talki
 
 In case you find any translation whose authenticity could be questioned, please let me know at [here](https://github.com/fawazahmed0/quran-api/issues/new "here") .Only after verifying the claims, will I remove the translation
 
-### Any Issues:
-
- [Raise here](https://github.com/fawazahmed0/quran-api/issues/new "Raise here")
+### Any Issues: [Raise here](https://github.com/fawazahmed0/quran-api/issues/new "Raise here")
 
 ### Donation:
 Even though I worked very hard on this project, I will not ask donation for myself. I will take the reward from God in this world and the next
