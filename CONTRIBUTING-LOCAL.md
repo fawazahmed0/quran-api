@@ -1,6 +1,6 @@
 ## Contribute:
 
-**Note:** This is an old documentation but still valid, incase you want to contribute without downlading this huge repo, Please refer [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute")
+**Note:** This is an old documentation but still valid, incase you want to contribute by following simple and easy steps, Please refer [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute")
 
 ### Prerequisites:
 
