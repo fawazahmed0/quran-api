@@ -7,7 +7,7 @@
 
 ### Prerequisite Steps:
 1.  Fork [quran-api](https://github.com/fawazahmed0/quran-api "quran-api") repo
-1.  clone the forked repo:
+2.  clone the forked repo:
 ```bash
 git clone --filter=blob:none --no-checkout --depth 1  --sparse <YourFork.git>
 cd quran-api
@@ -43,10 +43,10 @@ When specifying the language, please use proper [iso name of language](https://g
 
 3. Copy and paste the translations to the [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory, you can paste any number of translations.
 
-4. And then, enter the following command:
+4. And then, enter the following command:<br>
 `echo create > command.txt`
 
-5. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
+5. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
 
 
 If you got stuck somewhere, Let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
@@ -55,74 +55,74 @@ If you got stuck somewhere, Let me  [Know](https://github.com/fawazahmed0/quran-
 
 Let say there is a spelling mistake in the edition and you would like to correct:
 
-1. Run the following commad:
-`git sparse-checkout add database/chapterverse/<editionNametoUpdate>.txt`
-For example if you want to update [eng-talalitani](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/eng-talalitani.txt) and  [ces-arnykl](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/ces-arnykl.txt)
+1. Run the following commad:<br>
+`git sparse-checkout add database/chapterverse/<editionNametoUpdate>.txt`<br>
+For example if you want to update [eng-talalitani](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/eng-talalitani.txt) and  [ces-arnykl](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/ces-arnykl.txt)<br>
 `git sparse-checkout add database/chapterverse/eng-talalitani.txt database/chapterverse/ces-arnykl.txt`
 
-1. Copy the translations to be updated from [database/chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "database/chapterverse") and paste it into start directory
+2. Copy the translations to be updated from [database/chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "database/chapterverse") and paste it into start directory
 
-2. Update the translation text, Please do not modify the JSON values which are stored at the end of file,specifically the name and language json values
+3. Update the translation text, Please do not modify the JSON values which are stored at the end of file,specifically the name and language json values
 
-3. And then, run the following command:
+4. And then, run the following command:<br>
+ `echo update > command.txt`
 
-    `echo update > command.txt`
-
-4. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
+5. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
 
 ### Searching Translation:
 
 Lets say you what to know whether a translation exists in the database or not, or you want to find the edition which have a specific verse
 
-1. First Run the following command:
-`echo search > command.txt`
-And Now If you want to search single verse
-`echo "verse to be search" >> command.txt`
-If you want to search multiple verses in different editions
+1. First Run the following command:<br>
+`echo search > command.txt`<br>
+And Now If you want to search single verse<br>
+`echo "verse to be search" >> command.txt`<br>
+If you want to search multiple verses in different editions<br>
 `echo "verse to be searched1" "verse to be searched2" >> command.txt`
 
-2. Now [Push the changes and Create PR](pushing-and-creating-pull-request) ,and I will share the result with you
+2. Now [Push the Changes and Create PR](pushing-and-creating-pull-request) ,and I will share the results with you
 
 
 
 ### Deleting Translation:
-1. Translations should not be deleted, otherwise it will break the api, but if there is a need, it can be done using:
-`echo delete > command.txt`
-And Now If you want to delete single edition
-`echo editionNameToDelete >> command.txt`
-And If you want to delete multiple editions
+1. Translations should not be deleted, otherwise it will break the api, but if there is a need, it can be done using:<br>
+`echo delete > command.txt`<br>
+And Now If you want to delete single edition<br>
+`echo editionNameToDelete >> command.txt`<br>
+And If you want to delete multiple editions<br>
 `echo editionNameToDelete editionName2ToDelete >> command.txt`
 
-2. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
+2. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
 
 
 
 ### Adding new font:
 1. Copy and paste the fonts into [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory, you can paste any number of fonts in [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory
 
-2. Run the following command:
+2. Run the following command:<br>
+`echo fontsgen > command.txt`
 
-    `echo fontsgen > command.txt`
-
-3. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
+3. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
 
 
 
 ###  Deleting a font:
 1. Delete the font and all its formats specified in [fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "fonts.json") from [fonts](https://github.com/fawazahmed0/quran-api/tree/1/fonts "fonts") directory .
 
-2. Run the following command:
+2. Run the following command:<br>
+`echo fontsgen > command.txt`
 
-    `echo fontsgen > command.txt`
-
-3. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
+3. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
 
 
 ###  Pushing and Creating Pull Request:
 1. After you are done with your changes
-Run the following command:
-`git add -A && git commit -m "Your commit message"`
-`git push`
+Run the following command:<br>
+```bash
+git add -A && git commit -m "Your commit message"
+git push
+```
+
 
 2. Go to your forked repo and click on pull request
 
