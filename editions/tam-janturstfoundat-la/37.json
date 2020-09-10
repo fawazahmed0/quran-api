@@ -1,0 +1,914 @@
+{
+    "chapter": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "anivakuttu nirpavarkal mitu cattiyamaka"
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "palamaka virattupavarkal mitu cattiyamaka"
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "(ninaivuttum) vetattai otuvor mitu cattiyamaka"
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "niccayamaka unkalutaiya nayan oruvane"
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "vanankalukkum, pumikkum, ivvirantirkum itaiye ullavarrukkum (avane) iraivan; kilticaikalin iraivan"
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "niccayamaka name (pumikku) camipamaka irukkum vanattai natcattirankalin alakaik kontu alakupatuttiyirukkirom"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "(atait) tiya saittankal anaivarukkum tataiyakavum (akkinom)"
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "(atanal) avarkal melana kuttattar (peccai olintu) ketka mutiyatu innum, avarkal ovvor ticaiyiliruntum vici eriyappatukirarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "(avarkal) turattappatukirarkal; avarkalukku nilaiyana vetanaiyumuntu"
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "(etenum ceytiyai) iraincic cella murpattal, appolutu avanaip pirakaca tippantam pintotarum"
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "akave, \"pataippal avarkal valiyavarkala allatu nam pataittirukkum (vanam, pumi ponravaiya) enru (nirakaripporitam napiye!) Nir ketpiraka! Niccayamaka nam avarkalaip picupicuppana kalimannaltan pataittirukkinrom"
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "(napiye! Allahvin vallamaiyaik kantu) nir accariyappatukirir; (anal) avarkal parikacam ceykinranar"
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "anriyum, avarkalukku ninaivuttappattalum, (atanai) avarkal ninaiviliruttik kolvatillai"
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "avarkal (etenum) or attatciyaik kantalum, (atai) mettapparikacam ceykinranar"
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "itu pakirankamana cuniyameyanri verillai\" enrum avarkal kurukinranar"
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "Nankal irantu, mannakavum elumpukalakavum nankal akivittalum, meyyakave (nankal mintum uyirppittu) eluppappatupavarkala? (Enrum ketkinranar)"
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "avvare, muntaiya nam tantaiyarkaluma? (Eluppappatuvarkal? Enrum ketkinranar)"
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "am! (Unkal ceyalkalin karanamaka) ninkal cirumaiyataintavarkala(kavum eluppappatu)virkal\" enru (napiye!) Nir kurum"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "ore captam tan! Utane avarkal (titukkittu eluntu) parpparkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "(avvelai)\"enkalutaiya kete! Itu kuli kotukkum nalayirre\" enru avarkal kuruvar"
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "ninkal poyppikka murpattuk kontiruntirkale antat tirppu nal itutan!\" (Enru avarkalukkuk kurappatum)"
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "aniyayam ceytarkale avarkalaiyum avarkalutaiya tunaikalaiyum, avarkal vanankik kontiruntavarraiyum onru cerunkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "allahvaiyanri (avarkal valipattavai avai) pinnar avarkalai, narakattin pataikku kontu cellunkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "innum, avarkalai (anke) nirutti vaiyunkal; avarkal niccayamakak (kelvi kanakkuk) ketkappata ventiyavarkal\" (enru malakkukalukkuk kurappatum)"
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "unkalukku enna nerntatu? Ninkal en oruvarukkoruvar (ulakil ceytatu ponru) utavi ceytu kollavillai?\" (Enru ketkappatum)"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "anal avarkal annalil (etuvum ceyya iyalatu talai kunintu) kilpatintavarkalaka irupparkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "avarkalil cilar cilarai munnokki, oruvarai oruvar kelvi kettu(t tarkkittuk) kontum irupparkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "(tam talaivarkalai nokki)\"niccayamaka ninkal valappurattiliruntu (caktiyutan) enkalitam varukiravarkalaka iruntirkal\" enru kuruvarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "(Appatiyalla!) Ninkal tam muhminkalaka - nampikkai kontoray - irukkavillai!\" Enru a(ttalai)varkal kuruvar"
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "anriyum unkal mitu enkalukku evvita atikaramum irukkavillai eninum ninkal tam varampu katantu pavam ceyyum kuttattaraka iruntirkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "akaiyal, enkal iraivanutaiya vakku enkal mitu unmaiyaki vittatu niccayamaka nam (yavarum vetanaiyaic) cuvaippavarkal tam"
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "(am) nankal unkalai valiketuttom; niccayamaka nankale valikettuttan iruntom"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "akave, annalil niccayamaka avarkal vetanaiyil kuttanavarkalakave irupparkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "kurravalikalai ivvaru tan nam niccayamaka natattuvom"
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "allahvaittavira nayan illai\" enru avarkalukkuk kurappattal, meyyakave avarkal perumaiyatittavarkalaka iruntanar"
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "oru paittiyakkarap pulavarukkaka nankal meyyaka enkal teyvankalaik kaivittu vitukiravarkala?\" Enrum avarkal kurukirarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "appatiyalla! Avar cattiyattaiye kontu vantirukkirar; anriyum (tamakku munnar vanta) tutarkalaiyum unmaippatuttukirar"
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "(itai nirakaripporayin) niccayamaka ninkal novinai tarum vetanaiyai anupavippavarkal tam"
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "anal, ninkal ceytu kontiruntavarrukkanri (veru) etarkum ninkal kuli kotukkappatamattirkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "allahvutaiya antaranka cuttiyana atiyarkalo (enin)"
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "avarkalukku ariyappattulla unavu avarkalukku irukkiratu"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "kani vakaikal (alikkappatum), innum avarkal kanniyappatuttappatuvarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "inpam alikkum cuvarkkankalil"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "oruvaraiyoruvar munnokkiyavaru kattilkal mitu (amarntirupparkal)"
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "telivana panam nirainta kuvalaikal avarkalacai; curri kontuvarum"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "(Atu) mikka venmaiyanatu aruntuvorukku maturamanatu"
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "atil ketutiyum iratu atanal avarkal putti tatumarupavarkalum allar"
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "innum, avarkalitattil atakkamana parvaiyum, netiya kankalum konta (amara kanniyarum) irupparkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "(tuymaiyil avarkal cippikalil) maraikkappatta muttukkalaip pol irupparkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "(appolutu) avarkalil oru cilar cilarai munnokkiyavaru pecik kontirupparkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "avarkalil oruvar; enakku (im'maiyil) urra nanpan oruvan iruntan enak kuruvar"
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "(maranattirkup pin uyirppikkap patuvom enpatai) unmaiyena erpavarkalil niccayamaka niyum oruvana enak kettan"
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "nam irantu mannakavum, elumpukalakavumaki vittapin, (mintum nam uyirppikkappattu) kuli valankapperuvoma?\" Enrum kettan"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "(avvaru kuriyavanai)\"ninkal park(ka virumpu)kirirkala?\" Enrum kuruvar"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "avar (kile) nokkinar; avanai narakattin natuvil parttar"
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "(avanitam)\"allahvin mitu cattiyamaka! Ni ennai alittuvita murpattaye"
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "en iraivanutaiya arul illatiruntal, nanum (narakattirkuk) kontu varappattavarkalil oruvanakiyiruppen"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "(marrorumuraiyum) nam irantu vituvoma"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "(illai) namakku muntiya maranattait tavira verillai anriyum, nam vetanai ceyyappatupavarkalum allar\" enru kuruvar"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "niccayamaka itutan makattana verriyakum"
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "enave patupatupavarkal itu ponratarkakave patupataventum"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "atu cirappana virunta? Allatu (narakattilirukkum kalli)'jakkum' enra marama"
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "niccayamaka nam atai aniyayakkararkalukku oru cotanaiyakave ceytirukkirom"
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "meyyakave atu narakattin atittalattiliruntu valarum maramakum"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "Atan palaikal saittankalin talaikalaip polirukkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "niccayamaka, avarkal atilirunte pucipparkal; ataikkontu tankalutaiya vayirukalai nirappik kolvarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "pinnar, niccayamaka avarkalukkuk kutikka, kotikkum nir kotukkappatum"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "atan pinnar avarkal milum talam niccayamaka narakamtan"
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "niccayamaka avarkal tam mutataiyarkalai vali kettileye kantarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "akaiyal, avarkalutaiya aticcuvatukalmite ivarkalum viraintarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "innum, ivarkalukku munnarum appantaiya makkalil perumpalor vali kettiruntanar"
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "melum, niccayamaka nam avarkalitaiye accamutti eccarippavarkalai anuppinom"
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "piraku, avvaru accamutti eccarikkappattavarkalin mutivu ennavayirrenru (napiye!) Nir parum"
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "allahvutaiya antaranka cuttiyana atiyarkalait tavira"
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "anriyum nuh nam'maip pirarttittar; pirarttanaikku patilalippatil name cirantor avom"
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "akave, nam avaraiyum avarutaiya kutumpattaraiyum mikapperun kastattiliruntu patukattom"
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "melum, avarkalutaiya cantatiyarai (piralayattiliruntu kapparri pirkalam) nilaittirukkumpati ceytom"
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "melum, avarukkakap pirkalattavarkku (oru napakarttattai) vittu vaittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "salamun alanuh\" - akilankal enkum nuh mitu salam untavataka"
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "ivvare, nanmai ceyvorukku nicyamaka nam kuli kotukkirom"
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "niccayamaka avar (nuh) muhminkalana nam nallatiyarkalil ninrumullavar"
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "piraku nam marravarkalai (vellattil) mulkatittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "niccayamaka, iprahimum avarutaiya valiyaip pinparriyavarkalil oruvartam"
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "avar tuya nencattutan tam'mutaiya iraivanitam vantapotu (napiye! Nir ninaivu kurviraka)"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "Avar tam tantaiyaiyum, tam camukattaraiyum nokki\"ninkal etanai vanankukirirkal? Enak ketta potu"
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "allahvaiyanri poyyana teyvankalaiya ninkal virumpukirirkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "avvarayin akilankalukkellam iraivan parri unkal ennam tan enna?\" (Enru kettar)"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "pinnar avar natcattirankalai oru parvai parttar"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "niccayamaka nam noyaliyaka irukkiren\" enrum kurinar"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "enave avarai vittum a(varutaiya camukatta)varkal tirumpic cenranar"
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "appal avarkalutaiya teyvankalin pal avar cenru\"(unkalukku mun pataikkappattulla unavukalai) ninkal unnamattirkala?\" Enru kurinar"
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "unkalukku enna (nerntatu)? Ninkal en pecukirirkalillai?\" (Enrum kettar)"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "pin avar avarrin pakkam tirumpi tam valakkaiyal avarrai atittu (utaittu) vittar"
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "(avarrai vanankupavarkal) avarpal viraintu vantarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "avar kurinar! \"Ninkale cetukkiya ivarraiya vanankukirirkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "unkalaiyum, ninkal ceyta(i)varraiyum, allahve pataittirukkinran"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "avarkal kurinarkal; \"ivarukkaka(p periyatoru neruppuk) kitankai amaittu erineruppil avarai erintu vitunkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "(ivvaraka) avarkal avarukkuc cati ceyya natinarkal; anal, nam avarkalaiye ilivupatutti vittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "melum, avar kurinar; \"niccayamaka nan ennutaiya iraivanitam celpavan; tittamaka avan enakku ner valiyaik kanpippan"
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "ennutaiya iraiva! Ni enakku salihana oru nanmakanait tantarulvayaka\" (enru pirarttittar)"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "enave, nam avarukku porumaicaliyana oru makanaik kontu nanmarayan kurinom"
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "Pin (am'makan) avarutan natamatakkutiya (vayatai atainta) potu avar kurinar; \"ennarumai makane! Nan unnai aruttu paliyituvataka niccayamakak kanavu kanten. Itaipparri um karuttu enna enpataic cintippiraka!\" (Makan) kurinan; \"ennarumait tantaiye! Ninkal evappattapatiye ceyyunkal. Allah natinal - ennai ninkal porumaiyalarkalil ninrumullavanakave kanpirkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "akave, avviruvarum (iraivan kattalaikku) murrilum valippattu, (iprahim) makanaip paliyita mukam kuppurakkitattiya potu"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "nam avarai\"ya iprahim!\" Enralaittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "titamaka nir (kanta) kanavai meyppatuttinir. Niccayamaka nanmai ceyvorukku nam ivvare kuli kotuttirukkirom"
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "niccayamaka itu telivana oru perun cotanaiyakum"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "ayinum, nam oru makattan paliyaik kontu avarukkuppa pakaramakkinom"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "innum avarukkakap pirkalattavarukku (oru napakarttattai) vittu vaittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "salamun ala iprahim\" (iprahim mitu salam untavataka)"
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "ivvare, nanmai ceyvorukku, nam kuli kotukkirom"
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "niccayamaka avar muhminkalana nam (nal)latiyarkalil ninrumullavar"
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "salihanavarkalilullavarana napi is'hakkai avarukku innum (makanakat taruvataka) nam nanmarayam kurinom"
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "innum nam avar mitum is'hak mitum pakkiyankal polintom; melum avviruvarutaiya cantatiyaril nanmai ceypavarkalum irukkinrarkal; anriyum tamakkut tame pakirankamaka aniyayam ceytu kolvorum irukkinranar"
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "melum, musa, harun akiyavarkal mitum nam niccayamaka arul purintom"
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "avviruvaraiyum, avviruvarutaiya camukattaraiyum mikapperum tunpattiruntu iratcittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "Melum, nam avarkalukku utavi ceytom; enave avarkal tam verri perroranarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "avviruvarukkum nam tulakkamana vetattaik kotuttom"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "innum, nam avviruvarukkum nervaliyaik kanpittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "innum avviruvarukkumakap pirkalattavarukku (oru napakarttattai) vittu vaittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "salamun ala musa va harun\" musavukkum, harunukkum salam untavataka"
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "ivvare nanmai ceyvorukku nam kuli kotukkirom"
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "niccayamaka avviruvarum muhminkalana nam (nal)latiyarkalil ninrumullavarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "melum, niccayamaka ilyasum mursal(kalil - tutaraka anuppappattavar)kalil oruvar tam"
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "avar tam camukattavaritam; \"ninkal (iraivanai) anca mattirkala?\" Enru (potittuc) colliyatai (ninaivu kurviraka)"
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "ninkal pataippavarkalil mikac cirappanavanai vittu vittu'pahlu' (enum cilaiyai) vanankukirirkala"
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "allahtan - unkalutaiya iraivanum, unkalutai mun cenra mutataiyarkalin iraivanum avan"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "anal avarkal avaraip poyppittarkal; akaiyal, avarkal (marumaiyil iraivan munne tantanaikkaka) niccayamaka kontu varappatuvarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "allahvutaiya tuya atiyarkalait tavira. (Ivarkalukku narkuliyuntu)"
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "melum, nam avarukkakap pirkalattavarukku (oru napakarttattai) vittu vaittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "salamun ala ilyasin\" ilyasin mitu salamuntavataka"
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "ivvare nanmai ceyvorukku niccayamaka nam kuli kotukkirom"
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "niccayamaka avar muhminkalana nam (nal) atiyarkalil ninrumullavar"
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "melum, luttum niccayamaka mursalkalil - anuppappattavarkalil ninrumullavar"
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "avaraiyum avarutaiya kutumpattar yavaraiyum kattuk kontom"
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "Pinnal tankivittavarkalitaiye iruntuvitta (luttin manaiviyana) kilaviyait tavirttu"
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "pinnar nam marravarkalai alittu vittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "innum, ninkal kalai velaikalil avarkalin (alintu pona urkalin) mite natantu celkirirkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "innum iravilum kuta(c celkirirkal. Itaikkontu) ninkal nallarivu pera mattirkala"
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "melum, yunusum niccayamaka mursalkalil - anuppappattavarkalil ninrumullavar"
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "nirappappatta kappalin pal avar olittotiya potu"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "a(kkappalilulla)varkal cittukkulukkip pottup parttanar - ivar tam kurramullavar (enru tirmanittanar)"
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "akave, (avarkalutaiya) palippukkitamana nilaiyil (katalil) eriyappata ventiyavaranar oru min vilunkirru"
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "anal avar (min vayirrinul) iraivanait tuticeytu - taspihu ceytu - kontiravittal"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "(marumaiyil avar) eluppappatum nalvarai, atan vayirrileye tankiyiruntiruppar"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "anal, avar noyurrirunta nilaiyil, nam avarai (min vayirriliruntu veliyerri) vetta veliyil pottom"
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "anriyum nam avarukku mel oru curaikkotiyai mulaippit(tu nilalitumaru cey)tom"
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "melum, nam avarai oru nurayiram allatu atarkatikamanavarkalitam anuppi vaittom"
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "akave avarkal iman kontarkal. Akaiyal avarkalai oru kalamvarai cukik; kacceytom"
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "(napiye!) Avarkalitam kelum; um iraivanukkup pen makkalaiyum avarkalukku anmakkalaiyuma (karpanai ceykirarkal) enru"
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "allatu nam malakkukalaip penkalakava pataittom? (Atarku) avarkal catcikala"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "arintu kolka! Niccayamaka ivarkal tankal karpanaiyil tan kurukinranar"
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "allah pillaikalaip perran\" (enru kurupavarkal) niccayamakap poyyarkale"
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "(Anriyum, allah) avan anmakkalai vittup penmakkalait terntetuttuk kontana"
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "unkalukku enna (nerntu vittatu)? Evvaru ninkal tirmanikkirirkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "ninkal cintittunara mattirkala"
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "allatu unkalitam telivana ataram etuvum irukkirata"
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "ninkal unmaiyalarkalayiruppin, unkal veta (atara)ttaik kontu varunkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "anriyum ivarkal allahvukkum jinkalukkumitaiyil (vamcavali) uravai (karpanaiyaka) erpatuttukinranar anal jinkalum (marumaiyil iraivan mun) niccayamakak kontuvarappatuvarkal enpatai arinteyirukkirarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "enave, avarkal ivvaru varnippatai vittum allah mikavum paricuttamanavan"
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "antaranka cuttiyana allahvin atiyarkalait tavirttu"
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "akaiyal, niccayamaka ninkalum ninkal vanankupavaiyum"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "(evaraiyum allahvukku) etiraka ninkal valiketuttu vitamutiyatu"
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "narakaic cenrataipavarkalait tavira"
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "(melum malakkukal kurukirarkal;)\"kurippitappatta or itam illatavaraka titamaka enkalil evarumillai"
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "niccayamaka, nankal (allahvin evalai etirparttu) anivakuttavarkalakave (nirkinrom)"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "melum, niccayamaka nankal (allahvait tuti ceytu) taspihu ceypavarkalaka irukkirom"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "(napiye! Makkavacikal munnar) kurikkontiruntarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "munnorkalitamiruntu, (enkalukku irai ninaivuttum) etenum oru vetattai nankal perriruntal"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "allahvutaiya tuya atiyarkalaka nankal niccayamaka akiyiruppom\" enru"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "anal (tiruk kur'an vantapotu) avarkal atai nirakarikkirarkal - (itan palanai) viraivileye avarkal arintu kolvarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "tutarkalakiya nam atiyarkalitam, munnare titamaka namvakkuc cenrirukkiratu"
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "(Atavatu) niccayamaka avarkal utavi ceyyappatuvarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "melum, nam pataikale niccayamaka avarkale verri peruvarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "(akave, napiye!) Ciritu kalam varaiyil nir avarkalai vittum vilakiyiruppiraka"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "(avarkalin nilai ennavakiratu enpatai) nir kavanippiraka! (Tankalukku nerappovatai) avarkalum kavanipparkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "nam(mitamiruntu varum) vetanaikkakava avarkal avacarappatukirarkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "(avvetanai) avarkalutaiya murrattil irankumpotu accamutti eccarikkappatta avarkalin vitiyal mikak kettataka irukkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "akave, ciritu kalam varai nir avarkalai vittum vilakiyiruppiraka"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "(avarkalin nilai ennavakiratu enpatai) nir kavanippiraka! (Tankalukku nerap povatai) avarkalum kavanipparkal"
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "avarkal varnippatai vittum, kanniyattin iraivanana um'mutaiya iraivan tuyavan"
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "melum mursal(kalana avan tutar)kal mitu salam untavataka"
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "val'hamtu lillahi rappil alamim (innum pukal anaittum akilankalin iraivanakiya allahvukke urittakum)"
+        }
+    ]
+}

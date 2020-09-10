@@ -1,0 +1,859 @@
+{
+    "juzs": [
+        {
+            "chapter": 27,
+            "verse": 56,
+            "text": "geuleona geuui baegseong-eun ie dae dab-eul moshago daman los-ui chujongjadeul eul dangsin-ui go-eul-eseo chubanghaeya doe nani sillo geudeul-eun sungyeolkoja haneun salamdeul-ibnida lago malhaess-eul ppun-ila"
+        },
+        {
+            "chapter": 27,
+            "verse": 57,
+            "text": "hananim-eun geuwa geuui chujongja deul-eul guhayeoss-euna geuui bu-in-eun je oehayeo beol-eul naelyeossnola"
+        },
+        {
+            "chapter": 27,
+            "verse": 58,
+            "text": "hananim-eun geudeul wie dol-ubag eul naelyeoss-euni gyeong-gobad-eun jadeul-ege-ui dol-ubag-eun bulhaeng-ieossnola"
+        },
+        {
+            "chapter": 27,
+            "verse": 59,
+            "text": "illeogalodoe hananimkke chanmileul deulimyeo geubun-i seontaeghan geubun-ui jong-ege pyeong-an-eul deulimyeo hananim-eun geudeul i sungbaehan usangboda hullyunghasinila"
+        },
+        {
+            "chapter": 27,
+            "verse": 60,
+            "text": "geubun-eun cheonjileul changjohasigo haneullobuteo bileul naelyeojusin bun-isi myeo i biloseo jeong-won-eul aleumdabgo mu seonghage hamyeo geu an-e namuleul jala ge haneun geos-eun neohuiga anila hana nim oee daleun sin-i iss-eul su issneu nyo geuleona geudeul-eun beos-eonan baegseongdeul ila"
+        },
+        {
+            "chapter": 27,
+            "verse": 61,
+            "text": "daejileul ansigcheolo hayeo jusi go geu an-e gangdeul-eul dusyeoss-eumyeo geogie umjig-iji anhneun san-eul se-usigo gang-gwa bada saileul dusin bun-i nu gu-inyo hananim oee daleun sin-i iss-eul su issdan mal-inyo geudeul daedasuneun-alji moshadeola"
+        },
+        {
+            "chapter": 27,
+            "verse": 62,
+            "text": "pil-yohanjaga buleul ttae ie daedabhasineun bun-i nugu-isimyeo saag-euljegeohayeojusa geudaedeul-eul daejiwiui hugyejalo hayeojusin bun-i nugu-inyohananim oee daleun sin-i iss-eul su issneunyo geuleondedo neohuineun suggohajianhneunyo"
+        },
+        {
+            "chapter": 27,
+            "verse": 63,
+            "text": "yugjiwa badaui eodum sog-eulo buteo geudaedeul-eul indohayeo jusin bun i nugu-imyeo geubun-ui eunhyeleul yego hayeo juneun balam-eul bonaejusin bun-eun nugu-inyo hananim oee daleun sin-i iss-eul su issneunyo hananim-eun geudeul-i sungbaehaneun modeun geos wie gyesinila"
+        },
+        {
+            "chapter": 27,
+            "verse": 64,
+            "text": "changjoleul hasigo geuhu changjoleul geodeubhasimyeo haneulgwa ttang-eulobuteo geudaedeul-ege il-yonghal yangsig-eul jusin bun eun nugu-inyo hananim oee daleun sin-i iss-eul su issneunyo illeogalodoe neohuiga jinsilhan jadeul-ilamyeon neohuiui jeung-geoleul ileuge hala"
+        },
+        {
+            "chapter": 27,
+            "verse": 65,
+            "text": "illeogalodoe hananim oeeneun haneulgwa ttang saie issneun bimil-eul aneun ja eobs-eumyeo ttohan jug-eun hu geudeul i eonje buhwaldoeneunji aneun ja eobsnola"
+        },
+        {
+            "chapter": 27,
+            "verse": 66,
+            "text": "naesee daehan geudeul-ui jisig-eun cheonbaghayeo geudeul-eun uisimhal geos-igeoneul geudeul-eun geue gwanhayeo jangnim-ila hani"
+        },
+        {
+            "chapter": 27,
+            "verse": 67,
+            "text": "bulsinjadeul-i malhagil uliwa uliui seonjodeul-i heulg-i doen hu dasi buhwal doendan mal-inyo"
+        },
+        {
+            "chapter": 27,
+            "verse": 68,
+            "text": "uliwa uli seonjodeul ijeon-e do i yagsog-i iss-eossjiman igeos-eun yes seonjodeul-ui jeonseol-e bulgwahadoda"
+        },
+        {
+            "chapter": 27,
+            "verse": 69,
+            "text": "illeogalodoe daeji wileul yeohaeng hamyeonseo joeindeul-ui malloga eotteohaessneun ga salpyeobola"
+        },
+        {
+            "chapter": 27,
+            "verse": 70,
+            "text": "geudeul-e daehayeo seulpeohaji mal go geudeul-ui eummo-e daehayeo goelowo hajido malla"
+        },
+        {
+            "chapter": 27,
+            "verse": 71,
+            "text": "geuttae geudeul-i malhalila neohui ga jinsilhan jadeul-ilamyeon eonje iyagsog-i dolaehaneunyo"
+        },
+        {
+            "chapter": 27,
+            "verse": 72,
+            "text": "illeogalodoe neohuiga seodulleo guhaneun geos-ui ilbuga teohuiege do laehaessneunjido moleul il-ila"
+        },
+        {
+            "chapter": 27,
+            "verse": 73,
+            "text": "sillo geudaeui junim-eun ingan-eul wihan eunhyelo chungmanhasina geudeul da suneun gamsahal jul moleudeola"
+        },
+        {
+            "chapter": 27,
+            "verse": 74,
+            "text": "geudaeui junimkkeseoneun geudeul-ui ma-eum-i gamchuneun geosgwa natanaeneun geos do asigo gyesigeoneul"
+        },
+        {
+            "chapter": 27,
+            "verse": 75,
+            "text": "haneulgwa ttang wie sumgyeojin geos-i eobs-eudoe geugeos-eun bunmyeonghi seongseoe gi logdoeeo issnola"
+        },
+        {
+            "chapter": 27,
+            "verse": 76,
+            "text": "sillo i kkulan-eun uigyeon-eul dallihago issneun daedasu iseula-el jason e gwanhayeo yaegihago iss-eumyeo"
+        },
+        {
+            "chapter": 27,
+            "verse": 77,
+            "text": "sillo igeos-eun midneun jadeul-eul wi han gil-iyo eunhaela"
+        },
+        {
+            "chapter": 27,
+            "verse": 78,
+            "text": "sillo junimkkeseoneun geudeul-eul geu bun-ui myeonglyeong-eulosseo pangyeolhasini geubun eun gwonneung-gwa jihyelo chungmanhasim-ila"
+        },
+        {
+            "chapter": 27,
+            "verse": 79,
+            "text": "hananimkke uijihala geudaega balo bunmyeonghan jinliui gil-wie issno la"
+        },
+        {
+            "chapter": 27,
+            "verse": 80,
+            "text": "geudaeneun jug-eunjalo hayeogeum deud ge hal su eobs-eumyeo gwimeogeolilo hayeo geum buleum-eul deudge hal su eobsnani i deul-eun balo jinlileul oemyeonhaneun jadeul ila"
+        },
+        {
+            "chapter": 27,
+            "verse": 81,
+            "text": "geudaeneun geudeul-ui joeag-eulo jang nim-i doen geudeul-eul wihan annaejado doel su eobs-eumyeo hananim-ui mal-eul midneun mu seullim oeeneun amudo deudge hal su eobsnola"
+        },
+        {
+            "chapter": 27,
+            "verse": 82,
+            "text": "geudeul wie malsseum-i ihaengdoel ttae daejilobuteo yasuleul kkeul-eonaeeo geu jimseung-eulohayeo hananim-ui malsseum-eul midji anihaessdeon geudeul-eul jeojuhage halila"
+        },
+        {
+            "chapter": 27,
+            "verse": 83,
+            "text": "geunal hananim-eun modeun baegseong-eu lobuteo geubun-ui malsseum-eul bujeonghan ja deul-eul moige hani geudeul-eun jul-eul seo ge doelila"
+        },
+        {
+            "chapter": 27,
+            "verse": 84,
+            "text": "geudeul-i simpandae wie oleul ttaegeubunkkeseo malsseumhasilini neohuineun aljido moshamyeonseo naui mal-eul bujeonghaess neunyo animyeon algo iss-eossneunyo"
+        },
+        {
+            "chapter": 27,
+            "verse": 85,
+            "text": "joejieun geudeul wie pangyeol-i iss-eul geos-ila geuttae geudeul-eun malmun-eul yeolji moshalila"
+        },
+        {
+            "chapter": 27,
+            "verse": 86,
+            "text": "bam-euldueo geudeullo hayeogeum hyu sig-eul chwihage hago naj-eul dueo bich-iissge hayeoss-eum-eul geudeul-eun alji mosha neunyo sillo geu an-eneun midneun baegseongdeul-eul wihan yejung-i issnola"
+        },
+        {
+            "chapter": 27,
+            "verse": 87,
+            "text": "napal-i ullineun geunal-eul sang-gi sikiljini haneulgwa ttang wie issneun modeun geosdeul-i gongpo-e hoebssaige doeli la geuleona hananim-ui tteus-eul dusyeossdeon jadeul-eun je-oedoenani geudeul moduneun gyeomsonhage geubun-ege oneunila"
+        },
+        {
+            "chapter": 27,
+            "verse": 88,
+            "text": "geudaega sandeul-eul bomae gyeongoha dago saeng-gaghana geugeos-eun guleum-i ji nagadeus salajigeoneul geugeos-eun modeun geos-eul jugwanhasineun hananim-ui jagpum-ila sillo geubun-eun neohuideul-i haenghaneun modeun geos-eul algo gyesinola"
+        },
+        {
+            "chapter": 27,
+            "verse": 89,
+            "text": "seon-eul haenghan janeun nugudeun geu geos-eulo bosang-eul bad-eumyeo geunal-ui gong polobuteo anjeonhadoe"
+        },
+        {
+            "chapter": 27,
+            "verse": 90,
+            "text": "ag-eul jeojileun janeun nugudeun geudeul-ui eolgul-i bulsog-e meomulge doe nani neohuiga jeojileun geos oee bosang eul badneunda saeng-gaghaneunyo"
+        },
+        {
+            "chapter": 27,
+            "verse": 91,
+            "text": "naneun i dosileul seong-yeog-eulo hayeo jusin junimman-eul gyeongbaehala myeong lyeongbad-ass-euni modeun geos-eun geubun-ui gwon neung an-e issnola ttohan naneun hananim kke sunjonghaneun jaga doelaneun myeonglyeong-eul bad-assnola"
+        },
+        {
+            "chapter": 27,
+            "verse": 92,
+            "text": "kkulan-eul nangsonghadolog myeonglyeong bad ass-euni olh-eun gil-eul ganeun janeun jagi jasin-eul wihae ganeun jaimyeo banghwangha neun jaga issdamyeon illeogalodoe naega balo geudeul-eul wihan gyeong-gojala"
+        },
+        {
+            "chapter": 27,
+            "verse": 93,
+            "text": "illeogalodoe hananimkke gamsahala geubun-eun neohuiege yejung-eul boyeo jusilini god neohuiga alge doelila junimkkeseoneun neohuiga haenghago issneun modeun geos-eul moleuneun bun-i aninola"
+        },
+        {
+            "chapter": 28,
+            "verse": 1,
+            "text": "ttwa ssin mim"
+        },
+        {
+            "chapter": 28,
+            "verse": 2,
+            "text": "igeos-eun sasil-eul balghyeojuneun seongseoui malsseum-eulo"
+        },
+        {
+            "chapter": 28,
+            "verse": 3,
+            "text": "hananim-i mosewa palao-e gwanhan iyagileul jinlilo geudaeege jeon hani ineun midneun baegseong-eul wihan gyo hun-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 4,
+            "text": "palaoneun geuui ttang wieseo o manhayeossgo geuui baegseong-eul yeoleo muli lo nanueo geu gaunde han mulileul eog-abhayeoss-euni nam-adeul-eul salhaehago yeoadeulman sallyeo noh-ass-eumae sillo geu neun saaghanja gaunde hanayeossnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 5,
+            "text": "hananim-eun geu ttang-eseo hagdaebad-eun geudeul-ege eunhyeleul bepul-eo geudeul-eul sin-ang-ui jidojaga doegehago tto geu deul-eul hugyejalo hagoja hayeoss-eumae"
+        },
+        {
+            "chapter": 28,
+            "verse": 6,
+            "text": "geu ttang-eseo geudeul-ege gwonneung-eul buyeohayeo palaowa hamangwa geudeul ui gundaelo hayeogeum geudeul-i gyeong-gobad assdeon geos-eul jikyeobodolog hayeossnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 7,
+            "text": "hananim-eun mose-ui eomiege gyesihayeo geuege jeoj-eul meog-idolog ha go man-il geuui sinbyeon-e dulyeoum-eul neukkilttaeneun geuleul gangmullo deonjidoe dulyeo wohaji malgo seulpeohajido malla geu bun-eun geuleul neoegelo dollyeo jul geos-imyeo geuleul seonjija gaunde hanalo mandeul geos-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 8,
+            "text": "palaoui gamun-eseo geuleul jueoyang-yughayeoss-eumae ineun geudeul-ege jeog-idoeeossgo geudeul-ege seulpeum-ui won-in-i doeeoss-euni palaowa hamangwa geudeul-uigundaega joejieun baegseongdeul-ieossgi ttaemun-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 9,
+            "text": "palaoui anaeneun malhayeossdeola i aineun nawa dangsin-eul wihan gideung-ini i aileul salhaehaji masoseo geuneun uliege doum-i doel geos-ibni da animyeon geuleul uliui adeullo halsudo iss-eul geos-ibnida ileohdeus geudeul eun geulo inhayeo geudeul-ege mueos-i il-eonalji alji moshaessdeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 10,
+            "text": "mose-ui eomeonineun ma-eumsog-e mosee daehan saeng-gagbakk-en eobs-eoss-euni hananim-i geunyeolo hayeogeum midneunja gaunde issdolog geunyeoui ma-eum-eul gang hage haji anihaessdamyeon geunyeoneun geu ui il-eul deuleonaess-eulila"
+        },
+        {
+            "chapter": 28,
+            "verse": 11,
+            "text": "geunyeoneun geuui nu-iege illeogeuleul ttaleula hani geunyeoneun geuleul meolliseo jikyeobogo iss-eossdeola geuleonageudeul-eun alji moshayeossnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 12,
+            "text": "hananim-eun geulo hayeogeum yumoui jeoj-eul ppalji anhdolog hayeoss-euni geuttae geuui nu-iga natana malhagil dangsindeul-eul wihae i aileul yang-yughal han gamun-eul sogaehalkkayo geudeul-eun seong silhi geuleul dolbol geos-ibnida"
+        },
+        {
+            "chapter": 28,
+            "verse": 13,
+            "text": "geulihayeo hananim-eun geuleul geuui eomeoniegelo dollyeobonaeni geunyeoui nun-eun gippeum-eulo gadeugchago geunyeo neun seulpeohajido ani hayeoss-eumyeo ha nanim-ui yagsog-i jinliim-eul alge doe eossdeola geuleona daedasuneun alji mos hayeossnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 14,
+            "text": "geuga seongjanghayeo seongnyeon-i doeeoss-eul ttae hananim-eun geuege chongmyeonghamgwa jihyeleul jueossnani ileohdeus seon-eul sil cheonhaneun ideul-ege bosanghanola"
+        },
+        {
+            "chapter": 28,
+            "verse": 15,
+            "text": "geuneun salamdeul-i geuleul jikyeoboji anhneun saie geu domsie deul-eoga ssaugo issneun du salam-eul boass-euni han salam-eun geuui pyeon-aeeossgo da leun han salam-eun jeog-ieossdeola geuttae geuui pyeon-ieossdeon salam-i geuege gu won-eul yocheonghani moseneun geuui jumeog eulo ttaelyeo juggehago malhayeossdeola ineun satan-ui yuhog ttaemun-ieoss-euni sillo geuneun yuhoghaneun jeog-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 16,
+            "text": "geuneun gidohayeoss-euni juyeo sillo jega je seuseuloleul yogdoege hayeossnaida jeoleul yongseohayeo juobsoseo geubun-eun geuleul bohohayeoss-euni sillo geubun-eun gwan-yong-gwa jabilo chungmanhasim-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 17,
+            "text": "geuneun malhayeossdeola juyeo dangsinkkeseo jeoege bepul-eojusin geu eunhye lo jeoneun saaghan ja pyeon-e gyeolko iss ji anhgessnaida"
+        },
+        {
+            "chapter": 28,
+            "verse": 18,
+            "text": "moseneun geu dosi an-eseo du lyeoum-eulo juwileul salpigo issnolanibola eoje geuui doum-eul cheonghadeon geuga tto geuege doum-eul guhago issjianihanga mosega geuege sillo neo neun ssaugileul joh-ahaneun jala"
+        },
+        {
+            "chapter": 28,
+            "verse": 19,
+            "text": "geulaeseo geuga dul-ege-ui jeog-i eossdeon geuleul butjab-eulyeo hayeoss-eul ttae geu ga malhaessdeola moseyeo eoje han salam eul jug-yeossdeon geoscheoleom naleul jug-ilyeo ha neunyo dangsin-eun jisang-eseo poggun-i doelyeohaneun geos oeeneun seon-eul haenghaneun ja gaunde issgileul wonhaji anhneunyo"
+        },
+        {
+            "chapter": 28,
+            "verse": 20,
+            "text": "ittae geu dosilobuteo eoneu han namjaga dallyeowa malhagil moseyeo jog jangdeul-i dangsin-eul salhaehalyeo gongmohago issnani god tteonasiyo sillo naneun dang sinkke jinsillo chung-gohanaida"
+        },
+        {
+            "chapter": 28,
+            "verse": 21,
+            "text": "geuneun dulyeoum-eulo juwileul sal pimyeo geugos-eulobuteo nagamyeo malhayeoss deola juyeo i saaghan baegseongdeullobu teo jeoleul guhayeo jusoseo"
+        },
+        {
+            "chapter": 28,
+            "verse": 22,
+            "text": "geuga madeuyan ttang-eul hyanghayeo gamyeo giwonhagil jukkeseo pyeongtanhago olh-eun gillo jeoleul indohayeo jusoseo"
+        },
+        {
+            "chapter": 28,
+            "verse": 23,
+            "text": "geuga madeuyan-ui umulga-e i leuleoss-eul ttae gachug-ege mul-eul meog-igo issneun mogdongdeulgwa geudeul oeedo gachug deul-eul jikigo issneun du yeoin-eul balgyeon hago museun il-inyo lago mul-euni geudeul-i malhagil ulineun mogdongdeul-i geudeul-ui yangdeul-eul umullobuteo deligo gal ttaekkaji mul-eul meog-il suga eobs-seubni da geuligo uliui abeojineun daedan hi yeonlohasyeossseubnida hayeossdeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 24,
+            "text": "geulaeseo geuneun du yeoin-eul wiha yeo yang-ege mul-eul meog-yeojugo namugeu neul alae anj-a malhaessdeola juyeo dang sinkkeseo jeoege bepul-eo jusyeossdeon eun hyega jeolsilhi pil-yohanaida"
+        },
+        {
+            "chapter": 28,
+            "verse": 25,
+            "text": "geuttae du yeoin jung-ui han yeoin i sujub-eohamyeo moseegelo dagawamalhagil jeoui abeojikkeseo dangsin-eul chodaehayeo jeohuileul wihayeo yang-ege mul-eul meog-yeojun eunhyee bodabhalyeo haobnida geulaeseo geuneun geu yeoseong-ui abeoji egelo ga iyagileul hayeossdeoni geu yeoseong-ui abeojiga malhayeossdeola dulyeo wohaji masiyo dangsin-eun saaghan baeg seongdeullobuteo gujedoeeossseubnida"
+        },
+        {
+            "chapter": 28,
+            "verse": 26,
+            "text": "du yeoin jung han yeoin-i malha gil abeoji geuleul goyonghasoseo geuneun abeojikkeseo goyonghagoja han gajang hullyunghan ja jung-e han salam-eulo him-i sego mid-eul su issneun salam-ibnida"
+        },
+        {
+            "chapter": 28,
+            "verse": 27,
+            "text": "abeojiga malhaessdeola naega nae du ttal jung-ui han ttal-eul dangsinkke naleul wihae palnyeongan bongsahal jogeon-eulo dang sin-ege gyeolhonsikigoja ham-ila dangsin i sibnyeon-eul chaeuneun geos-eun dangsin-ui ja yuimyeo naega dangsin-ege eolyeoun il eul bugwahago sipjineun anhseubnida ha nanim-i wonhasindamyeon dangsin-eun naega seon-eul haenghaneun salam jung-e han salam-im eul alge doel geos-ibnida"
+        },
+        {
+            "chapter": 28,
+            "verse": 28,
+            "text": "mosega daedabhayeossdeola igeos-eunjeowa dangsin saiui yagsog-eulo duga ji jogeon jung-ui hanaleul suhaenghaedo jeoegeneun amuleon joega doeji anhseub nida hananimkkeseo jeohuiga malhago issneun geos-eul jikyeobogo gyesibnida"
+        },
+        {
+            "chapter": 28,
+            "verse": 29,
+            "text": "mosega geu gigan-eul chaeugo geuui gajoggwa hamkke yeohaeng-eul hadeon jung-e ttuleusan banghyang-eseo bul-eul balgyeon hago geuui gajog-ege malhagil meomchu siyo naega bul-eul boassnani naega geugos-eulobuteo neohuiege sosig-eul gajyeoolila animyeon buldeong-ileul gajyeowa dangsin-i ttatteusham-eul neukkige halila"
+        },
+        {
+            "chapter": 28,
+            "verse": 30,
+            "text": "mosega geugos-e ileuleoss-eul ttae chugbogbad-eun namuga issneun geu gyegog-ui oleunpyeon-eulobuteo soliga deullyeo wass-euni moseya sillo naega man-yuui ju-isin hananim-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 31,
+            "text": "neoui jipang-ileul deonjyeobola haneun soliga deullyeossdeola geuttae geugeos-i machi baemcheoleom umjig-ineun geos-eul boass eumae dwilo dol-aboji anihani mo seya ap-eulo naola geuligo dulyeo wo haji malla sillo neoneun midneunja jung-e issnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 32,
+            "text": "ne son-eul jumeonie neoh-eun hu ppaeeobola eollug han jeom eobsneun saehayanson-i doeeo naolila ne son-eul neoege gakkai hayeo museoum-eul jejiha la igeos-i neoui junimkkeseo palao wa geuui jogjangdeul-ege boyeojun dugae ui yejeung-ini sillo geudeul-eun saaghan jadeul-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 33,
+            "text": "mosega malhagil juyeo jega geudeuljung-ui hanmyeong-eul salhaehayeossnaida geulaeseo jeoneun geudeul-i jeoleul salhaehal kka dulyeobnaida"
+        },
+        {
+            "chapter": 28,
+            "verse": 34,
+            "text": "jeoui hyeongje alon-eun jeoboda ungbyeon-e neungsughabnida geuleomeulo geuleul jeoui wonjojalosseo jeowa hamkke bonae eo jusoseo geuga jeoui jinsil-e daehanjung-in-i doege hagessseubnida sillo jeo neun geudeul-i jeoleul wiseonjalago binan haji anihalkka dulyeobnaida"
+        },
+        {
+            "chapter": 28,
+            "verse": 35,
+            "text": "hananimkkeseo ungdabhasa uliganeoui pal-eul teunteunhage halila ttohan ulineun hyeongjeleul tonghayeo neohui dul-eul gwonneungke halini geudeul-i neohuileul dae jeoghaji moshalila uliui yejeung-eulosseo neohui du hyeongjewa neohuileul ttaleuneunjaga seunglihal geos-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 36,
+            "text": "mosega hananim-ui yejeung-eul ga jigo geudeul-ege ileuleoss-eul ttae geudeul i malhagil igeos-eun wijodoen masul-e bulgwahadoda ulineun gyeolko uli jo sangdeullobuteo geugeos-e gwanhae deul-eobon jeog-i eobsdoda hani"
+        },
+        {
+            "chapter": 28,
+            "verse": 37,
+            "text": "mosega malhaessdeola hananim-eulobuteo nuga bog-eum-eul gajyeo wass-eumyeo naese-ui eunhyega nuguui geos-inji naui junimkkeseoneun asim-eulo chungmanhasini sillo joejieun jadeul-eun beonseonghaji mos halila"
+        },
+        {
+            "chapter": 28,
+            "verse": 38,
+            "text": "palaoga malhagil jogjangdeul-iyeona oeeneun neohuileul wihan eotteon sindonaega aneunba eobsnani haman-a jinheulg eulo byeogdol-eul gueo naega mose-ui sin-eul bol su issdolog nop-eun gongjeon-eul jisdolog hala sillo naneun geuga geo jismal haneunjala saeng-gaghanila"
+        },
+        {
+            "chapter": 28,
+            "verse": 39,
+            "text": "palaowa geuui jogjangdeulgwa gun daeneun geu ttang-eseo geomanhago omanha yeo geudeul-i hananim-egelo gwiuihajianhneundago saeng-gaghaessdeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 40,
+            "text": "hananim-i geuwa geuui gundaeleul badasog-e igsake hayeoss-euni joejieunjadeul-ui malloga eotteohangaleul bola"
+        },
+        {
+            "chapter": 28,
+            "verse": 41,
+            "text": "hananim-eun geudeullo hayeogeum ji og-e ileuneun insoljaga doege hayeoss euni buhwal-ui nal geudeul-eun eotteon doumdo badji moshalila"
+        },
+        {
+            "chapter": 28,
+            "verse": 42,
+            "text": "hananim-eun geudeullo hayeogeum hyeon seeseo jeojuleul badge hayeoss-euni sim pan-ui nal geudeul-eun gyeongmyeolbadneun ja gaunde iss-eulila"
+        },
+        {
+            "chapter": 28,
+            "verse": 43,
+            "text": "hananim-i jeonsedaedeul-eul myeolmang ke han hu moseege seongseoleul jueossna ni ilohayeo baegseongdeul-ege bich-i doegogil-idoemyeo gyohun-eul badgoja haneun ideul-ege eunhyega doedolog hayeossnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 44,
+            "text": "hananim-i moseege gyesileul naelil ttae geudaeneun seosan-e issji a nihayeoss-eumyeo ttohan jung-in gaunde iss jido anihayeossnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 45,
+            "text": "hananim-eun yeoleo sedaeleul il-eu kieo olaen sewol-eul duni malsseum-eul mang gaghayeossdeola geudaega madeuyan-ui baeg seong gaunde geojuhaji ani haess-euna geudaeege gyesihanani hananim mal-eul geudeul-ege nangsonghala geudaeleul seonjija lo hayeo malsseum-eul bonaen janeun balo hananim-isila"
+        },
+        {
+            "chapter": 28,
+            "verse": 46,
+            "text": "hananim-i moseleul bulleoss-eul ttae geudaeneun ttuleusan jungteog-e issji ani hayeoss-eumyeo yeeonjadeul-ui iyagileul al ji moshaess-euna junimkkeseo neohuiege eunhyeleul bepul-eossnani ilo hayeo geu daega neohui ijeon-e yeeonjaga oji anihan baegseong-ege gyeong-gohayeo geudeul i gyohun-eul eoddolog ham-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 47,
+            "text": "man-il hananim-i geudaeleul seonjijalo bonaeji anihayeo geudeul-ege geudeul seuseuloga jeojileun haeng-wilo in hayeo eotteon jaeang-i dagchyeoss-eul ttae geudeul-eun ileohge malhal su iss-eoss-eulila juyeo dangsinkkeseoneun eoihayeo jeohuiegeseonjijaleul bonaeji anh-eusyeossnaikka ulineun dangsin-ui malsseum-eul ttala midneun jajung-e iss-eoss-eul geos-ibnida"
+        },
+        {
+            "chapter": 28,
+            "verse": 48,
+            "text": "hananim-eulobuteo geudeul-ege jinliga ileuleoss-eul ttae geudeul-i malha gil moseege jueojyeossdeon geosdeul-i wae geudaeegeneun jueojiji anihaessneunyo lago malhana bola geudeul-eun mosee ge jueojin geos-eul mid-eossdeonga tto geudeul-i malhagil du masulsaga seologa seololeul huwonhago issnani ulineun mo duleul bujeonghanola hadeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 49,
+            "text": "geudeul-ege illeogalodoe i du gwon-ui seongseoboda deo na-eun daleun bog eum-eul hananim-eulobuteo gajyeoola neohuiga jinsil-ilamyeon naega geugeos-eul tta leulila"
+        },
+        {
+            "chapter": 28,
+            "verse": 50,
+            "text": "geudeul-i geudaeege daedabhal su eobsdamyeon geudeul-eun danji jeosoghan yogmang eul ttalass-eul ppun-ini hananim-ui bog-eum i anin jeosoghan yogmang-eul ttaleun ja boda deo banghwanghanja nugu-inyo sillo hananim-eun joejieun baegseongdeul-eul indohasiji anhnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 51,
+            "text": "hananim-eun geudeul-ege malsseum-eul jeonhaessnani ilo inhayeo geudeul-i gyo hun-eul eoddolog ham-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 52,
+            "text": "ijeon-e hananim-eulobuteo seongseoleul bad-eun ideul-eun geugeos-eul midgo iss nani"
+        },
+        {
+            "chapter": 28,
+            "verse": 53,
+            "text": "geugeos-i geudeul-ege gyesidoel ttae geudeul-eun jeohuineun geugeos-eul midnaida geugeos-eun junim-eulobuteo on jinliinani jeohuineun ijeon-edo museullim ieoss seubnida lago malhadeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 54,
+            "text": "geudeul-eun dubaeui bosang-eul bad-eu lini ineun geudeul-i innaehayeossgo ag eul seon-eulo igyeonaess-eumyeo hananim-i geudeul-ege jun yangsig-eul jaseon-eulo be pul-eossgi ttaemun-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 55,
+            "text": "geudeul-i gongheohan mal-eul deul-eul ttaeeneun deung-eul dollimyeo uliegeneun uliui il-i issgo neohuiegeneun neo huiui hal il-i issnani dangsindeulkke pyeonghwaga issgileul balabnida ulineun mu jihan jadeul-eul wonchi anhseubnida lago malhadeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 56,
+            "text": "geudaeneun geudaega salanghaneun ja leul indohaji moshana hananim-eun geu bun-i wonhasineun jaleul indohasini geubun-eun indobad-eul jadeul-eul asinila"
+        },
+        {
+            "chapter": 28,
+            "verse": 57,
+            "text": "geudeul-eun malhagil uliga geudaewa hamkke bog-eum-eul ttaleundamyeon ulineun uliui ttang-eseo butjabhyeo ganila mal hajiman hananim-eun geudeul-eul wihayeo anjeonhan seong-yeog-eul malyeonhayeo geugos-e uliui yangsig-in modeun jonglyuui gwail eul juji anihaessdeonyo geudeul daedasu ga alji moshadeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 58,
+            "text": "hananim-eun bugwiyeonghwaleul nulyeossdeonmanh-eun sedaeleul myeolmangke haess-euni ije geudeul-i sal-assdeon geudeul-ui jugeojineun hwangpyedoego cholahan geos ppun-imyeo ttohan uliga sangsoghayeossnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 59,
+            "text": "junimkkeseo do-eub-eul myeolmangke ha sil ttaeneun geu do-eub-e seonjijaleul bonaeeo geudeul-ege naui malsseum-eul nangsongke han ihulo hananim-i geu do-eub-eul myeolmangke han geos-eun geudeul-ui joe ttaemun-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 60,
+            "text": "neohuiege jueojin muljil-eun hyeon se-ui ilsijeog hyanglaggwa heosig-e bulgwa hadoe hananimkke issneun geos-eun seon-iyo yeong-wonhan geos-im-eul neohuineun alji mosha neunyo"
+        },
+        {
+            "chapter": 28,
+            "verse": 61,
+            "text": "hananim-eulobuteo aleumdaun yagsog-eul bad-a geugeos-eul suhaenghago issneun jawa hananim-i bepun hyeonse-ui hyanglag man-eul jeulgidaga buhwal-ui nal-e beol-eul badneun jaga gat-eul su issneunyo"
+        },
+        {
+            "chapter": 28,
+            "verse": 62,
+            "text": "geunal hananimkkeseo geudeul-eul bul leo neohuiga jujanghan na oee daejeoghaljaga eodie issneunyo mul-eusimae"
+        },
+        {
+            "chapter": 28,
+            "verse": 63,
+            "text": "pangyeol-eul bad-eun geudeul-eun juyeo ideul-i jeohuileul banghwangkehaessdeon jadeullo jeohuiga jeohui seuseuloleul banghwangke haess deon geoscheoleom jeohuiga geudeul-eul banghwangke hayeossnaida jeohuiga dangsinkke balghinani jeohuineun geudeulgwa gwangyega eobsnai da lago malhajiman geudeul-eun hananim eul gyeongbaehaji ani haessnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 64,
+            "text": "neohui dongbanjadeul-ege guwon-eul yocheonghala bulsinja-ege malsseum-i iss-eogeudeul-i usangdeul-eul buleuna usang-eun geudeul-ege gwileul giul-iji moshani geudeul-i jingbeol-eul moggyeoghagoseoya baleungil-eul ttaleul geos-eul hago huhoehadeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 65,
+            "text": "geunal hananimkkeseo geudeul-eul bul leo seonjijadeul-ege mueolago daedabhaessneunyo lago mul-eusimae"
+        },
+        {
+            "chapter": 28,
+            "verse": 66,
+            "text": "geuttaeui modeun iyagiga monglong hayeojini geudeul-eun seologa seolo-egemudjido moshadeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 67,
+            "text": "geuleona hoegaehago mid-eum-eul ga jimyeo seon-eul haenghaneun janeun beonseonghaneun ja jung-e issge doelila"
+        },
+        {
+            "chapter": 28,
+            "verse": 68,
+            "text": "junimkkeseoneun geubun-ui tteus-e tta la changjohasigo seontaeghasinani seontaeghaneun geos-eun geudeul-ui geos-i anila hananim-eul chan-yanghala geubun-eun geudeul-i biyuhaneun modeun geos wie gyesinila"
+        },
+        {
+            "chapter": 28,
+            "verse": 69,
+            "text": "junimkkeseoneun geudeul-i ma-eum-e sumgigo issneun geosgwa deuleonaego issneun geosdo asinila"
+        },
+        {
+            "chapter": 28,
+            "verse": 70,
+            "text": "geubun-i balo hananim-isimyeo geubun oeeneun sin-i eobsnani hyeonsewa naeseeseoui modeun yeong-gwang-i geubun-ui geos-ila simpanhasimdo geubun-isini neohuineun geubun-egelo dol-aganila"
+        },
+        {
+            "chapter": 28,
+            "verse": 71,
+            "text": "illeogalodoe man-il hananimkkeseoneohuideul wie bam-eul simpan-ui nalkkaji jisogsikyeossdamyeon hananim oee eoneu sin-i neohuiege bich-eul jul su issgessneunyo neohuideul-eun deudgo issji anhneunyo"
+        },
+        {
+            "chapter": 28,
+            "verse": 72,
+            "text": "illeogalodoe man-il hananimkkeseoneohuideul wie simpan-ui geunalkkaji naj eul jisogsikyeossdamyeon hananim oee eo neu sin-i neohuiga hyusig-eul chwihal su issneun bam-eul gajyeoda jugessneunyo neohui neun bogo issji anhneunyo"
+        },
+        {
+            "chapter": 28,
+            "verse": 73,
+            "text": "geubun-ui eunhyelo malmiam-a geu bun-eun bamgwa naj-i issdolog hasyeoss-euni ineun neohuiga geu an-eseo hyusig-eul chwihago geubun-ui eunhye gaundeseo yangsig eul guhamyeo hananim-ege gamsahado log ham-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 74,
+            "text": "geunal hananimkkeseo geudeul-eul bul leo neohuiga jujanghan na-ege daejeoghal jaga eodie issneunyo lago mul-eusi lila"
+        },
+        {
+            "chapter": 28,
+            "verse": 75,
+            "text": "hananim-eun gag sedaeeseo gag jeung-in-eul bulleonaeeo neohuiui jeung-geoleul je sihage halini ittae geudeul-eun jinli neun ojig hananim an-eman iss-eumyeo geudeul-i kkumin heowineun geudeul-eul gongyeong-e beolyeodundaneun geos-eul alge doelila"
+        },
+        {
+            "chapter": 28,
+            "verse": 76,
+            "text": "golaneun mose-ui baegseong-ieoss-eu na geuneun geudeul-ege omanhayeoss-euni ineun hananim-i geuege bomul-eul ju go himsen namjadeul-ui muliga jilm-eojil sudo eobsneun bomulchang-goui yeolsoeleul ju eossgi ttaemun-ila bola ittae geuui baegseongdeul-eun geuege omanhaji malla sillo hananim-eun gajin geos-eulo oman han jaleul salanghaji anihasinilagomalhayeossnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 77,
+            "text": "hananimkkeseo neoege bepul-eo jun geos-eulo naese-ui ansigcheoleul guha la geuligo hyeonseeseo neoui mogs-eul mang-gaghaji malmyeo hananimkkeseo neoege seon-eul bepusyeossdeon geoscheoleom seon-eul bepul doe ttang wie haeag-eul peotteuliji mallasillo hananim-eun haeag-eul peotteulineun jaleul salanghaji ani hasinila"
+        },
+        {
+            "chapter": 28,
+            "verse": 78,
+            "text": "geuga daedabhagil naega gajin jihyelo malmiam-a jaemul-i naege ju eojyeossdoda hadeola hananimkkeseo boda him-i ganghago jaesan-i geuboda deo manh assdeon ijeon sedaedeul-eul myeolmangke han geos eul geuneun alji moshayeossneunyo joeindeul eun geudeul-ui joeag-e daehayeo jilmundo bad-eul pil-yoga eobsnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 79,
+            "text": "geuga danjang-eul hago geuui baegseongdeul ap-e naagani hyeonse-ui salm-eul gal guhadeon jadeul-i malhagil gola-ege jueojin geoscheoleom uliege jueojyeoss-eu myeon sillo geuneun widaehan haeng-un-ui ju-in gong-ila hadeola"
+        },
+        {
+            "chapter": 28,
+            "verse": 80,
+            "text": "geuleona jihyeloun salamdeul-eun ileohge malhadeola neohuiga gayeobsdoda naesee iss-eul hananim-ui bosang-eun mid eum-eulo seon-eul silcheonhan jaui geos-eulo nuguna eod-eul su eobsnola innaehamyeo seon-eul silcheonhaneun jaui geos-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 81,
+            "text": "hananim-eun daejilo hayeogeum geu nani hananim-e daejeoghayeo geuleul do ul mulido eobs-eossgo jagi seuseuloleul bohohal sudo eobs-eossnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 82,
+            "text": "ittae eojekkaji geuui jiwileul buleowo haessdeon ideul-i malhagil hana nim-i wonhasa geubun-ui jong-ege il-yong hal yangsig-eul deohayeo jusigeona gamso hasineun bun-eun balo hananim-isila sillo uliege hananim-ui eunhyega eobs-eossdeolamyeon geubun-eun daejilo hayeogeum ulileul samkyeobeolidolog hayeoss-eulila hananim-eul geoyeoghaneun jadeul-eun gyeolko beonseonghaji moshanola"
+        },
+        {
+            "chapter": 28,
+            "verse": 83,
+            "text": "hananim-eun geomanhae haji ani hago jisang-eseo haeag-eul peotteuliji anihan ideul-ege naese-ui ansig-eul julini chugbog bad-eun jongmal-eun saagham eul meollihaneun ideul-eul wihae issnola"
+        },
+        {
+            "chapter": 28,
+            "verse": 84,
+            "text": "seon-eul silcheonhaneun ja geudeul-eun geu geosboda deo na-eun bosang-eul badgedoemyeo ag-eul peotteulineun ja geudeul-i haenghan geos eulo beol-eul bad-eul geos-ila"
+        },
+        {
+            "chapter": 28,
+            "verse": 85,
+            "text": "sillo geudaeege kkulan-eul gyesi hasin bun-i geudaelo hayeogeum dol-agal gos-eulo dol-agage hasilila illeo galodoe junimkkeseoneun indohaneun jaga nugu-imyeo banghwangke haneun jaga nugu injileul asinola"
+        },
+        {
+            "chapter": 28,
+            "verse": 86,
+            "text": "geu seongseoga geudaeege gyesidoe nila geudaeneun yegichi anihaess-euna geugeos-eun junim-eulobuteoui eunhyela geu leomeulo bulsinjadeul-eun huwonhaneun jaga doeji malla"
+        },
+        {
+            "chapter": 28,
+            "verse": 87,
+            "text": "malsseum-i neohuiege gyesidoen i hu bulsinjadeul-i neohuilo hayeogeum ha nanim-ui malsseum-eulobuteo beos-eonage ha lyeoham-eul bangsimhaji malmyeo salamdeul-eul neohui junimkkelo indohadoe daleun sin eul seomgineun ja gaunde issji malla"
+        },
+        {
+            "chapter": 28,
+            "verse": 88,
+            "text": "hananimgwa deobul-eo daleun sin-eul seomgiji malla geubun oeeneun sin-i eobs nani geubun-eul je-oehan modeun manmul-eun myeolmanghago simpanhasimdo geubun-isini neohui moduneun geubunkkelo dol-agani la"
+        },
+        {
+            "chapter": 29,
+            "verse": 1,
+            "text": "allipeu lam mim"
+        },
+        {
+            "chapter": 29,
+            "verse": 2,
+            "text": "ulineun midnaida lagoman malhamyeon siheom-eul badji anihandago salam deul-eul saeng-gaghaneunyo"
+        },
+        {
+            "chapter": 29,
+            "verse": 3,
+            "text": "hananim-eun imi ijeon-ui salamdeuldo siheomhayeoss-euni hananimkkeseoneun jinsil-eul malhaneun jawa geojis-eul malhaneun jadeul-eul asinila"
+        },
+        {
+            "chapter": 29,
+            "verse": 4,
+            "text": "saagham-eul haenghaneun jadeul-eun geu deul-i hananim-ui beol-eul pihal su iss-eulila saeng-gaghaneunyo sillo geudeul-ui pan dan-i saagham-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 5,
+            "text": "hananim yeongjeobhagileul huimanghaneun jayeo hananim-i jeonghan sigiga dolae hago issnola hananim-eun modeun geos-eul deul-eusigo asinola"
+        },
+        {
+            "chapter": 29,
+            "verse": 6,
+            "text": "mid-eum-eul wihae nolyeoghaneun janeun god jagi jasin-eul wihae nolyeoghaneun geos-igeoneul hananim-eun hollo chungmanhasa sesang-ui modeun geos-i pil-yochi aniha nola"
+        },
+        {
+            "chapter": 29,
+            "verse": 7,
+            "text": "mid-eum-eul gajgo seon-eul haenghaneun ja leul wihae hananim-eun geudeul-ui modeun joe leul sahayeo jul geos-imyeo geudeul-i haenghan gajang hullyunghan haeng-wie ttala bosangha lila"
+        },
+        {
+            "chapter": 29,
+            "verse": 8,
+            "text": "hananimkkeseo ingan-ege bumo-e ge hyodohala hayeossnola geuleona geudeulga alji moshaneun daleun geos-eul sungbaeha la gang-yohandamyeon geudeul-ege sunjonghaji malla neohuineun god naega neohuiege al lyeo jul geos-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 9,
+            "text": "hananim-eun mid-eum-eul gajgo seon-eul silcheonhaneun ideullo hayeogeum uiloun salamgaunde deulge halila"
+        },
+        {
+            "chapter": 29,
+            "verse": 10,
+            "text": "salamdeul jung-eneun jeohuineun hana nim-eul midnaida lago malhana geudeul i hananim-ui gil-eseo jaenan-eul danghaess eul ttaeneun geugeos-eul machi hananim-ui bag haelo saeng-gaghaneun jadeul-i issdeola geu leona junim-ui eunhyelo seungliga ileul ttaemyeon ulido neohuiwa hamkke iss-eossdo da lago malhanila geuleona hananim eun ingandeul-ui simjung-e issneun geosdeul-eul moleusineun bun-i anisila"
+        },
+        {
+            "chapter": 29,
+            "verse": 11,
+            "text": "hananimkkeseoneun mid-eum-eul gajinjadeulgwa mid-eum-eul gajanghaneun wiseonjadeul-eul jal asinola"
+        },
+        {
+            "chapter": 29,
+            "verse": 12,
+            "text": "bulsinjadeul-i mid-eum-eul gajin ja deul-ege uliui gil-eul ttaleula uli ga neohuideul-ui joeleul jeolm-eojililago malhana geudeul-ui joedo daesinhal su eobs nani sillo geudeul-eun geojismaljang-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 13,
+            "text": "geuleona geudeul-eun jagi jasindeul ui jimgwa geubakk-ui daleun jimdeul-eul simpan ui nal-e jilm-eojigo wa geudeul-i geojis eul kkumyeossdeon sasil-e daehayeo jilmun-eul bad-eulila"
+        },
+        {
+            "chapter": 29,
+            "verse": 14,
+            "text": "hananim-eun noaleul geuui baegseong ege bonaeeo osibnyeon-i mojalan cheon nyeon-eul meomulge hayeoss-eul ttae geudeul-ui joeag-eulo malmiam-a daeheungsuga geudeul eul deopchige haessnola"
+        },
+        {
+            "chapter": 29,
+            "verse": 15,
+            "text": "geuleona hananim-eun noawa geu ligo bangjue issdeon chujongjadeul-eul gu hayeo geugeos-eul on baegseong-eul wihan yejeung eulo hayeossnola"
+        },
+        {
+            "chapter": 29,
+            "verse": 16,
+            "text": "abeulahamdo guhaess-euni geuneun geuui baegseong-ege hananim-eul gyeongbaehago geubun-eul dulyeowo hala neohuiga aneun jadeul-ilamyeon geugeos-i neohuiege bog-i doelila hayeossdeola"
+        },
+        {
+            "chapter": 29,
+            "verse": 17,
+            "text": "sillo neohuineun hananim oee usang-eul sungbaehago geojis-eul kkumigo iss eul ppun-ila hananim oee neohuiga sung baehaneun geosdeul-eun neohuiege il-yonghal yangsig-eul jul neunglyeog-i eobsnola geuleobeu lo hananimkke il-yonghal yangsig-eul guha la geuligo geubunkke gamsahala neohui moduga geubunkkelo dol-aganila"
+        },
+        {
+            "chapter": 29,
+            "verse": 18,
+            "text": "neohui ijeon-ui baegseongdeul-i geulaess deus-i neohuideul-i geu malsseum-eul geoyeoghan da hayeodo seonjijaui chaeg-im-i ani la seonjijaneun geu mesejileul jeonhaneun geos ppun-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 19,
+            "text": "hananimkkeseo eotteohge changjohasigo geugeos-eul jaechangjohasineunji geudeul-eun alji moshaji anhneunyo sillo geugeos-eun hananimkke swiun il-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 20,
+            "text": "daeji wileul yeohaenghamyeonseo hananimkkeseo taecho-e eotteohge changjohasyeoss-eumyeo hugiui changjoga eotteohangaleul bola sillo hananim-eun modeun il-e jeonjijeonneunghasim-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 21,
+            "text": "geubun-i wonhasineun ja-ege beol eul jusigo geubun-i wonhasineun ja-e ge eunhyeleul bepusini neohuineun geubun egelo gwiuihanola"
+        },
+        {
+            "chapter": 29,
+            "verse": 22,
+            "text": "neohuiga jisang-e issdeun ttoneun ha neul-e issdeun neohuineun geubun-ui gyehoeg-eul jwajeolke hal su eobs-eumyeo hananim oee neun neohuileul bohohal jaga amudo eobs nola"
+        },
+        {
+            "chapter": 29,
+            "verse": 23,
+            "text": "hananim-ui malsseumgwa geubun-ui sang bong-eul bulsinhaneun jadeul-eun naui eunhye leul pogihan geos-imyeo geudeul-egeneun go tongseuleoun beol-i iss-eul ppun-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 24,
+            "text": "geuga geuui baegseong-eul indohaess-eul ttae geudeul-ui daedab-eun ileohaess-euni geu leul salhaehala animyeon bul-e taewola geuleona hananim-eun geudeul jung-eseo geu leul guhayeoss-euni i an-eneun midneun salamdeul-eul wihan yejeung-i issnola"
+        },
+        {
+            "chapter": 29,
+            "verse": 25,
+            "text": "geuga malhagil hyeonseeseo neohui deulgan-ui sanghoiig-eul wihae hananim anin usang-eul sungbaehaneunyo geuleona simpan-ui nal neohuineun seologa seololeul bibanghamyeo jeojuhage doenani neohuiuigeojujileul buljiog-eulo eotteon guwonjado neohuileul guwonchi moshanola"
+        },
+        {
+            "chapter": 29,
+            "verse": 26,
+            "text": "geuleona los-eun geuleul ttalass-eu ni geuga malhagil sillo naneun junim kke ansigcheoleul chajnani geubun-eun gwonneung gwa jihyelo chungmanhasim-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 27,
+            "text": "hananim-eun geuege isaggwa ya gob-eul jueo geuui jasondeul jung-eseo yeeonjalo seontaeghayeo seongseoleul jueoss-eu myeo geuege hyeonse-ui bosang-eul bepul-eoss go naeseeseoneun uiloun ja jung-e issge hayeossnola"
+        },
+        {
+            "chapter": 29,
+            "verse": 28,
+            "text": "geuligo los-i geuui baegseong-ege malhaessdeola neohuineun iljjigi neohui baeg seongdo geuleohan jeog-i eobsneun eumlanhan haeng-wileul jeojileul joeindeul-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 29,
+            "text": "neohuineun namseong-ege seong-yog-eul gaj go yeohaengjaui gil-eul mag-a mulgeon-eul ppaeas-eumyeo neohuiga moin gos-eseojocha saaghan haeng-wileul haneunyo hani nega jinsil-eul malhaneun jalamyeon uliege hananim-ui beol-i ileuge halago ha deola"
+        },
+        {
+            "chapter": 29,
+            "verse": 30,
+            "text": "ittae geuga juyeo saaghan baeg seongdeullobuteo jeoleul guhayeojusoseo lago malhayeossdeola"
+        },
+        {
+            "chapter": 29,
+            "verse": 31,
+            "text": "hananim-ui cheonsadeul-i bog-eum-eul gajigo abeulaham-ege ileuleo uliga i go-eul-ui baegseongdeul-eul geudeul-ui joejieum-eulo malmiam-a geudeul-eul myeolmangsikilila malhani"
+        },
+        {
+            "chapter": 29,
+            "verse": 32,
+            "text": "geuga malhagil geu an-eneun los i issnaida lago hamae geudeul-i balhayeossdeola ulineun geugos-e nuga issneunjileul jal algo issnani geuwa geuui chujongjadeul-eul guhadoe geuui anae neun je-oela geunyeoga dwie nam-a iss-eossdeon jadeul jung-e iss-eossgi ttaemun-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 33,
+            "text": "hananim-ui cheonsadeul-i los-ege ileuleoss-eul ttae geuneun geudeul ttaemun-e geunsim-i gadeughaess-eumyeo seuseulo geudeul-eul bohohal him-i eobs-eum-eul neukkyeossdeola geu leona geudeul-i malhagileul dulyeowo ha ji malmyeo geunsimhajido malla uliga geudaewa geudaeui chujongjadeul-eul guhal geos-idoe geudaeui anaeneun je-oela geu nyeoga dwie nam-a iss-eossdeon jadeul jung-e iss-eossgi ttaemun-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 34,
+            "text": "sillo hananimkkeseo i go-eul-ui baegseongdeul-ege haneul-ui beol-eul naelige halini ineun geudeul-ui saagham ttaemun ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 35,
+            "text": "ileohge hayeo hananim-eun ihae haneun baegseong-eul wihayeo han yejeung-eul nam gyeossnola"
+        },
+        {
+            "chapter": 29,
+            "verse": 36,
+            "text": "madeuyan-ui baegseong-ege geudeul-ui hyeongje syuaibeuleul bonaemae geuga malhayeossdeola baegseongdeul-iyeo hananim-eul gyeongbae hago choehuui nal-eul dulyeowohamyeo jisang-eseo saaghan haeng-wileul haji malla"
+        },
+        {
+            "chapter": 29,
+            "verse": 37,
+            "text": "geuleona geudeul-eun geuleul geoyeogha yeoss-euni keun jijin-i geudeul-eul eomseubha mae geudeul-eun geudeul-ui jugeoji an-eseo neom-eojyeo umjig-il su eobsneun momdeul-i doe eossdeola"
+        },
+        {
+            "chapter": 29,
+            "verse": 38,
+            "text": "adeuwa samudeu baegseong-ui iya gileul sang-gihaljini geudeul jugeojiui hwangpyeham-i neohuiege myeongbaeghalila sa tan-eun kkumyeojin haeng-wilo geudeul-eul yuhog hayeo geudeul-eul baleun gil-eseo italke hayeossnola geudeul baegseong-egeneun jihye wa gisuldo iss-eossnola"
+        },
+        {
+            "chapter": 29,
+            "verse": 39,
+            "text": "golawa palaowa haman-ui i yagileul sang-gihaljini mosega yejung-eul gajigo geudaeege ileuleoss-eul ttae geu deul-eun jisang-eseo omanhayeoss-euna geudeul eun hananim-eul neung-gahal su eobs-eossnola"
+        },
+        {
+            "chapter": 29,
+            "verse": 40,
+            "text": "hananim-eun geudeul gagjaui joeag-e ttala beolhayeoss-euni geudeul jung-eneun dol pogpung-ulo beol-eul bad-eun baegseong-i issgo keun byeolag-eul maj-eun baegseongdo iss eumyeo ttohan hananim-eun daejilo hayeo geum geudeul-eul samkyeobeolidolog hayeossgo tto mul-e igsahagedo hayeossnola i geos-eun god hananim seuseuloga geudeul-eul yogdoege han geos-i anila geudeul-i seuseuloleul yogdoege han geos ppun-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 41,
+            "text": "hananim oee daleun geos-eul sungbaehaneun jadeul-eul biyuhasa seuseuloleul wihae jib-eul jisneun geomiwa gatnani gajang heoyaghan jib-i geomiui jib-im-eul neohuineun al geos-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 42,
+            "text": "hananim-eun geudeul-i hananim a nin daleun geos-eul sungbaehaneun geos-eul moduasigo gyesinani geubun-eun gwonneung-gwa jihaelo chungmanhasim-ila"
+        },
+        {
+            "chapter": 29,
+            "verse": 43,
+            "text": "hananim-i biyuleul deusa igeos eun on baegseong-eul wihaeseola jihye issneunjadeul-eun ihaehalila"
+        },
+        {
+            "chapter": 29,
+            "verse": 44,
+            "text": "hananim-eun cheonjileul jinlilosseo changjohasyeossnani i an-eneun midneun ja deul-eul wihan yejeung-i issnola"
+        },
+        {
+            "chapter": 29,
+            "verse": 45,
+            "text": "geudaeege gyesidoen geu seongseoleul nangsonghamyeo yebaeleul deulila yebaeneun suchiwa geuleusdoen haeng-wileul yebanghayeo julila geuligo hananim-eul yeom-wonhaneun geos-eun saenghwal-ui gajang jung-yohan geos-eulo uisimhal ba eobsnani hananim-eun neohuigahaenghaneun modeun geos-eul algo gyesinola"
+        }
+    ]
+}

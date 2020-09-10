@@ -1,0 +1,799 @@
+{
+    "juzs": [
+        {
+            "chapter": 7,
+            "verse": 88,
+            "text": "avaruṭaiya camūkattiṉaril perumai aṭittuk koṇṭirunta talaivarkaḷ (avarai nōkki), \"ṣu'aipē! Um'maiyum um'muṭaṉ īmāṉ koṇṭavarkaḷaiyum, niccayamāka nāṅkaḷ eṅkaḷ ūraiviṭṭē veḷiyēṟṟi viṭuvōm; allatu nīr eṅkaḷ mārkkattiṟkut tirumpi viṭavēṇṭum\" eṉṟu kūṟiṉārkaḷ - ataṟkavar, \"nāṅkaḷ (uṅkaḷ mārkkattai) veṟuppavarkaḷāka iruntālumā?\" Eṉṟu kēṭṭār"
+        },
+        {
+            "chapter": 7,
+            "verse": 89,
+            "text": "uṅkaḷ mārkkattai viṭṭu; alalāh eṅkaḷaik kāppāṟṟi viṭṭapiṉ, uṅkaḷ mārkkattiṟku nāṅkaḷ tīrumpiṉāl, niccayamāka nāṅkaḷ allāhviṉ mītu poykkaṟpaṉai ceytavarkaḷāki viṭuvōm; eṅkaḷ iṟaivaṉ (taṉ) ñāṉattāl ellāp poruṭkaḷaiyum cūḻntirukkiṉṟāṉ- allāhviṉ mītē nāṅkaḷ paripūraṇa nampikkai vaittuḷḷōm\" (eṉṟu kūṟi), \"eṅkaḷ iṟaivā! Eṅkaḷukkum, eṅkaḷ kūṭṭattārukkumiṭaiyē niyāyamāṉa tīrppu vaḻaṅkuvāyāka - tīrppaḷippavarkaḷil nīyē mikavum mēlāṉavaṉ\" (eṉṟum pirārttittār)"
+        },
+        {
+            "chapter": 7,
+            "verse": 90,
+            "text": "avaruṭaiya camukattāril kāḥpirākayiruntavarkaḷiṉ talaivarkaḷ (maṟṟavarkaḷai nōkki), \"nī; ṅkaḷ ṣu'aipai piṉ paṟṟuvīrkaḷāṉāl niccayamāka nīṅkaḷ naṣṭamaṭaintavarkaḷāki viṭuvīrkaḷ\" eṉṟu kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 91,
+            "text": "ākavē avarkaḷai pūkampam piṭittuk koṇṭatu ataṉāl avarkaḷ (kālaiyil) tam vīṭukaḷil, iṟantaḻintu kiṭantaṉar"
+        },
+        {
+            "chapter": 7,
+            "verse": 92,
+            "text": "Ṣu'aipai poyppittavarkaḷ tam vīṭukaḷil (oru poḻutum) vāḻntirākavarkaḷaip pōl ākiviṭṭaṉar - ṣu'aipai poyppittavarkaḷ - (muṟṟilum) naṣṭamaṭaintavarkaḷāki viṭṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 93,
+            "text": "itaṉāl (ṣu'aipu) avarkaḷai viṭṭu vilakikkoṇṭār; mēlum, \"eṉ camūkattavarkaḷē! Meyyākavē nāṉ uṅkaḷukku eṉ iṟaivaṉuṭaiya tūtai eṭuttuk kūṟi vantēṉ, uṅkaḷukku naṟpōtaṉaiyum ceytēṉ - āṉāl nirākarikkum makkaḷukkāka nāṉ evvāṟu kavalaippaṭuvēṉ\" eṉṟu avar kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 94,
+            "text": "nām napimārkaḷai aṉuppi vaitta ovvōr ūriluḷḷa makkaḷaiyum, (am makkaḷ) paṇintu naṭappataṟkāka, nām avarkaḷai vaṟumaiyālum, piṇiyālum piṭikkāmal (cōtikkāmal) iruntatillai"
+        },
+        {
+            "chapter": 7,
+            "verse": 95,
+            "text": "piṉṉar nām (avarkaḷuṭaiya) tuṉpa nilaikkup patilāka (vacatikaḷuḷḷa) nalla nilaiyil māṟṟiyamaittōm. Atil avarkaḷ (ceḻittup palkip) perukiya pōtu, avarkaḷ; nam'muṭaiya mūtātaiyarkaḷukkum tāṉ ittakaiya tukkamum cukamum ēṟpaṭṭiruntaṉa\" eṉṟu (alaṭciyamākak) kūṟiṉārkaḷ - ākaiyāl avarkaḷ uṇarntu koḷḷāta nilaiyil avarkaḷait tiṭīreṉa (vētaṉaiyaik koṇṭu) piṭittōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 96,
+            "text": "niccayamāka avvūrvācikaḷ īmāṉ koṇṭu allāhvukku añci naṭantiruntāl, nām avarkaḷukku vāṉattiliruntum pūmiyiliruntum - parakattukaḷai - pākkiyaṅkaḷait tiṟantu viṭṭiruppōm; āṉāl avarkaḷ (napimārkaḷai nampātu) poyppittaṉar, ākavē avarkaḷ ceytu koṇṭirunta (pāvat)tiṉ kāraṇamāka nām avarkaḷaip piṭittōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 97,
+            "text": "avvūrvācikaḷ iravil nittirai ceytu koṇṭirukkum pōtē, namatu vētaṉai avarkaḷai vantu aṭaiyātu eṉa payamillāmal irukkiṉṟārkaḷā"
+        },
+        {
+            "chapter": 7,
+            "verse": 98,
+            "text": "Allatu avvūr vācikaḷ (kavalaiyillātu) pakalil viḷaiyāṭikkoṇṭirukkum pōtē, namatu vētaṉai avarkaḷaiyaṭaiyātu eṉa payamillāmal irukkiṉṟārkaḷā"
+        },
+        {
+            "chapter": 7,
+            "verse": 99,
+            "text": "allāhviṉ cūḻcciyiliruntu avarkaḷ accam tīrntu viṭṭārkaḷā? Naṣṭa vāḷikaḷāṉa makkaḷai tavira, vēṟu evarum allāhviṉ cūḻcciyiliruntu accam tīrntu irukka māṭṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 100,
+            "text": "pūmiyil (vāḻntu pōṉavarkaḷukkup piṉṉāl), ataṉai vāricākap peṟṟa ivarkaḷaiyum, nām nāṭiṉāl, ivarkaḷuṭaiya pāvaṅkaḷiṉ kāraṇattāl (avvāṟē) taṇṭippōm eṉpatu ivarkaḷukku teḷivākavillaiyā? Nām ivarkaḷuṭaiya itayaṅkaḷiṉ mītu muttiraiyiṭṭu viṭṭōm; eṉavē ivarkaḷ (naṟpōtaṉaikaḷukkuc) cevicāykka māṭṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 101,
+            "text": "(napiyē!) Ivvūrārkaḷiṉ varalāṟṟai nām umakkuk kūṟukiṟōm; niccayamāka avarkaḷiṉ tūtarkaḷ avarkaḷiṭam teḷivāṉa attāṭcikaḷaik koṇṭu vantārkaḷ, eṉiṉum avarkaḷ muṉṉāl poyyākkik koṇṭirunta kāraṇattiṉāl nampikkai koḷpavarkaḷāka illai - ivvāṟē allāh kāḥpirkaḷiṉ itayaṅkaḷ mītu muttiraiyiṭṭu viṭukiṟāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 102,
+            "text": "avarkaḷil perumpālōrukku vākkuṟutiyai (niṟaivēṟṟum taṉmai iruppatāka) nām kāṇavillai - aṉṟiyum avarkaḷil perumpārōraip pāvikaḷākavē kaṇṭōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 103,
+            "text": "avarkaḷukkup piṟaku, mūsāvai nam attāṭcikaḷuṭaṉ ḥpir'avṉiṭattilum avaṉuṭaiya talaivarkaḷiṭattilum nām aṉuppivaittōm; appōtu avarkaḷ avaṟṟai (nirākarittu) aniyāyam ceytu viṭṭārkaḷ; ittakaiya kuḻappakkārarkaḷiṉ muṭivu eppaṭiyiruntatu eṉpatai kavaṉippīrāka"
+        },
+        {
+            "chapter": 7,
+            "verse": 104,
+            "text": "ḥpir'avṉē! Niccayamāka nāṉ akilaṅkaḷiṉ iṟaivaṉāl aṉuppappaṭṭa tūtaṉ āvēṉ\" eṉṟu mūsā kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 105,
+            "text": "Allāhviṉ mītu uṇmaiyait tavira (vēṟetuvum) kūṟāmaliruppatu eṉmītu kaṭamaiyākum; uṅkaḷuṭaiya iṟaivaṉiṭamiruntu uṅkaḷukkut teḷivāṉa attāṭcikaḷaik koṇṭu vantirukkiṟēṉ - ākavē isravēlarkaḷai eṉṉuṭaṉ aṉuppivai\" (eṉṟum avar kūṟiṉār)"
+        },
+        {
+            "chapter": 7,
+            "verse": 106,
+            "text": "ataṟku avaṉ, \"nīr attāṭcikaḷaik koṇṭu vantiruppīrāṉāl - nīr uṇmaiyāḷarāka iruppiṉ ataik koṇṭuvārum\" eṉṟu kūṟiṉāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 107,
+            "text": "appōtu (mūsā) tam kaittaṭiyai eṟintār - uṭaṉē atu oru periya pāmpāki viṭṭatu"
+        },
+        {
+            "chapter": 7,
+            "verse": 108,
+            "text": "mēlum avar tam kaiyai veḷiyil eṭuttār - uṭaṉē atu pārppavarkaḷukkup paḷicciṭum veṇmaiyāṉatāka iruntatu"
+        },
+        {
+            "chapter": 7,
+            "verse": 109,
+            "text": "ḥpir'avṉiṉ camūkattāraic cērnta talaivarkaḷ, \"ivar niccayamāka tiṟamaimikka cūṉiyakkārarē!\" Eṉṟu kūṟiṉārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 110,
+            "text": "(ataṟku, ḥpir'avṉ), \"ivar uṅkaḷai, uṅkaḷuṭaiya nāṭṭai viṭṭum veḷiyēṟṟa nāṭukiṟār; eṉavē (itaippaṟṟi) nīṅkaḷ kūṟum yōcaṉai yātu?\" (Eṉṟu kēṭṭāṉ)"
+        },
+        {
+            "chapter": 7,
+            "verse": 111,
+            "text": "ataṟkavarkaḷ, \"avarukkum avaruṭaiya cakōtararukkum ciṟitu tavaṇaiyaik koṭuttu viṭṭu, pala paṭṭiṉaṅkaḷukkuc (cūṉiyakkārarkaḷait) tiraṭṭikkoṇṭu varuvōrai aṉuppi vaippīrāka"
+        },
+        {
+            "chapter": 7,
+            "verse": 112,
+            "text": "avarkaḷ ceṉṟu cūṉiyattil vallavarkaḷaiyellām um'miṭam koṇṭu varuvārkaḷ\" eṉṟu kūṟiṉārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 113,
+            "text": "avvāṟē ḥpir'avṉiṭattil cūṉiyakkārarkaḷ vantārkaḷ. Avarkaḷ, \"nāṅkaḷ (mūsāvai) veṉṟuviṭṭāl, niccayamāka eṅkaḷukku ataṟkuriya vekumati kiṭaikkumallavā?\" Eṉ; ṟu kēṭṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 114,
+            "text": "avaṉ kūṟiṉāṉ; \"ām (uṅkaḷukku vekumati kiṭaikkum). Iṉṉum niccayamāka nīṅkaḷ (eṉakku) nerukkamāṉavarkaḷāki viṭuvīrkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 115,
+            "text": "mūsāvē! Mutalil nīr eṟikiṟīrā? Allatu nāṅkaḷ eṟiyaṭṭumā?\" Eṉṟu (cūṉiyakkārarkaḷ) kēṭṭaṉar"
+        },
+        {
+            "chapter": 7,
+            "verse": 116,
+            "text": "Ataṟku (mūsā), \"nīṅkaḷ (mutalil) eṟiyuṅkaḷ\" eṉṟu kūṟiṉār. Avvāṟē avarkaḷ (tam kaittaṭikaḷai) eṟintārkaḷ; makkaḷiṉ kaṇkaḷai maruṭṭi avarkaḷ tiṭukkiṭumpaṭiyāṉa maktāṉa cūṉiyattai ceytaṉar"
+        },
+        {
+            "chapter": 7,
+            "verse": 117,
+            "text": "appoḻutu nām\"mūsāvē! (Ippoḻutu) nīr um kaittaṭiyai eṟiyum\" eṉa avarukku vahī aṟivittōm; avvāṟu avar eṟiyavē (atu periya pāmpāki) avarkaḷ (cūṉiyattāl) kaṟpaṉai ceyta yāvaṟṟaiyum viḻuṅki viṭṭatu"
+        },
+        {
+            "chapter": 7,
+            "verse": 118,
+            "text": "ivvāṟu uṇmai uṟutiyāyiṟṟu, avarkaḷ ceyta (cūṉiyaṅkaḷ) yāvum vīṇāki viṭṭaṉa"
+        },
+        {
+            "chapter": 7,
+            "verse": 119,
+            "text": "aṅkēyē tōṟkaṭikkappaṭṭārkaḷ; ataṉāl avarkaḷ ciṟumaippaṭṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 120,
+            "text": "aṉṟiyum antac cūṉiyakkārarkaḷ ciram paṇintu"
+        },
+        {
+            "chapter": 7,
+            "verse": 121,
+            "text": "akilaṅkaḷiṉ iṟaivaṉ mītu niccayamāka nāṅkaḷ īmāṉ koṇṭōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 122,
+            "text": "avaṉē mūsāvukkum hārūṉukkum iṟaivaṉāvāṉ\" eṉṟu kūṟiṉārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 123,
+            "text": "ataṟku ḥpir'avṉ (avarkaḷai nōkki)\"uṅkaḷukku nāṉ aṉumati koṭuppataṟku muṉṉarē nīṅkaḷ avar mēl īmāṉ koṇṭu viṭṭīrkaḷā? Niccayamāka itu oru cūḻcciyākum - innakaravācikaḷai atiliruntu veḷiyēṟṟuvataṟkāka mūsāvuṭaṉ cērntu nīṅkaḷ ceyta cūḻcciyēyākum - itaṉ viḷaivai nīṅkaḷ aticīkkiram aṟintu koḷvīrkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 124,
+            "text": "niccayamāka nāṉ uṅkaḷ kaikaḷaiyum, kālkaḷaiyum māṟukai, māṟukāl vāṅki uṅkaḷ yāvaraiyum ciluvaiyil aṟaintu (koṉṟu) viṭuvēṉ\" eṉṟa kūṟiṉāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 125,
+            "text": "ataṟku avarkaḷ\"(avvāṟāyiṉ) niccayamāka nāṅkaḷ eṅkaḷ iṟaivaṉiṭam tāṉ tirumpic celvōm; (eṉavē itaip paṟṟi eṅkaḷukkuk kavalaiyillai)\" eṉṟu kūṟiṉārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 126,
+            "text": "Eṅkaḷukku eṅkaḷ iṟaivaṉiṭamiruntu entuḷḷa attāṭcikaḷai nāṅkaḷ nampiṉōm eṉpataṟkākavē nī eṅkaḷaip paḻi vāṅkukiṟāy?\" Eṉṟu kūṟi\"eṅkaḷ iṟaivaṉē! Eṅkaḷ mītu poṟumaiyaiyum (uṟutiyaiyum) poḻivāyāka muslīmkaḷāka (uṉakku muṟṟilum vaḻippaṭṭavarkaḷāka eṅkaḷai ākki), eṅka(ḷ ātmākka)ḷaik kaippaṟṟik koḷvāyāka!\" (Eṉap pirārtittaṉar)"
+        },
+        {
+            "chapter": 7,
+            "verse": 127,
+            "text": "ataṟku, ḥpir'avṉiṉ camūkat talaivarkaḷ (avaṉai nōkki)\"mūsāvum avaruṭaiya camūkattārum pūmiyil kuḻappam uṇṭākki, um'maiyum um teyvaṅkaḷaiyum puṟakkaṇittu viṭumpaṭi nīr avarkaḷai viṭṭu vaippīrā?\" Eṉṟu kēṭṭārkaḷ. Ataṟku avaṉ, \"(avvāṟaṉṟu!) Nām avarkaḷuṭaiya āṇ makkaḷai veṭṭik koṇṟuviṭṭu, (avarkaḷaic ciṟumaip paṭuttuvataṟkāka) avarkaḷuṭaiya peṇ makkaḷai maṭṭum uyiruṭaṉ vāḻaviṭuvōm - niccayamāka nām avarkaḷ mītu pūraṇa ākikkam peṟṟuḷḷōm\" eṉṟu kūṟiṉāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 128,
+            "text": "mūsā tam camūkattāriṭam; \"allāhviṭam utavi tēṭuṅkaḷ; iṉṉum poṟumaiyākavum iruṅkaḷ; niccayamāka (inta) pūmi allāhvukkē contam - taṉ aṭiyārkaḷil, tāṉ nāṭiyavarkaḷukku avaṉ atai uriyatākki viṭukiṉṟāṉ - iṟuti veṟṟi, payapaktiyuṭaiyavarkaḷukkē kiṭaikkum\" eṉṟu kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 129,
+            "text": "nīr eṅkaḷiṭam varuvataṟku muṉṉarum (tuṉpappaṭṭōm;) nīr vanta piṉṉarum tuṉpappaṭukiṟōm\" eṉṟu avarkaḷ kūṟiṉārkaḷ. Ataṟkavar kūṟiṉār; \"uṅkaḷ iṟaivaṉ uṅkaḷuṭaiya pakaivarkaḷai aḻittu, uṅkaḷaip pūmiyil piṉtōṉṟalkaḷākki vaikkakkūṭum; nīṅkaḷ evvāṟu naṭantu koḷkiṟīrkaḷ eṉpatai avaṉ kavaṉittuk koṇṭirukkiṉṟāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 130,
+            "text": "Piṉṉar nām ḥpir'avṉuṭaiya kūṭṭattāraip pañcam piṭikkac ceytu, vivacāyap palaṉkaḷaik kuṟaittut taṇṭittōm - avarkaḷ nalluṇarvu peṟuvataṟkāka"
+        },
+        {
+            "chapter": 7,
+            "verse": 131,
+            "text": "avarkaḷukku oru naṉmai varumāṉāl, \"atu namakku (urimaiyāka) varavēṇṭiyatu tāṉ\" eṉṟu kūṟiṉārkaḷ; āṉāl avarkaḷukku oru keṭuti ēṟpaṭumāṉāl, atu mūsāviṉālum, avaruṭaṉiruppavarkaḷālum vanta pīṭaiyeṉpārkaḷ; aṟintu koḷḷuṅkaḷ; avarkaḷuṭaiya inta turpākkiyamellām allāhviṭamiruntē vantuḷḷatu - eṉiṉum avarkaḷil perumpālōr itaṉai aṟintu koḷvatillai"
+        },
+        {
+            "chapter": 7,
+            "verse": 132,
+            "text": "avarkaḷ mūsāviṭam, \"nīr eṅkaḷai vaciyappaṭutta evvaḷavu attāṭcikaḷaik koṇṭu vanta pōtilum, nāṅkaḷ um'mai nampakkūṭiyavarkaḷāka illai\" eṉṟu kūṟiṉārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 133,
+            "text": "ākavē avarkaḷ mītu, kaṉamaḻaiyaiyum, veṭṭukkiḷiyaiyum, pēṉaiyum, tavaḷaikaḷaiyum, irattattaiyum teḷivāṉa attāṭcikaḷāka (oṉṟaṉpiṉ oṉṟāka) aṉuppi vaittōm - āṉāl avarkaḷ perumaiyaṭittu kuṟṟam puriyum camūkattārākavē ākiyiruntaṉar"
+        },
+        {
+            "chapter": 7,
+            "verse": 134,
+            "text": "taṅkaḷ mītu vētaṉai ēṟpaṭṭa pōtellām avarkaḷ\"mūsāvē! Um iṟaivaṉ umakku aḷittirukkum vākkuṟutiyiṉpaṭi eṅkaḷukkākap pirārttaṉai ceyvīrāka! Eṅkaḷai viṭṭum iv vētaṉaiyai nīr nīkki viṭṭāl, niccayamāka nāṅkaḷ um'mītu nampikkai koṇṭu isravēlarkaḷai um'muṭaṉ mēlum niccayamāka aṉuppi viṭukiṟōm\" eṉṟu kūṟiṉārkaḷa"
+        },
+        {
+            "chapter": 7,
+            "verse": 135,
+            "text": "avarkaḷ aṭaintuviṭakkūṭiya oru tavaṇai varai vētaṉaiyai avarkaḷai viṭṭum nām nīkkiyapōtu avarkaḷ māṟu ceytē vantaṉar"
+        },
+        {
+            "chapter": 7,
+            "verse": 136,
+            "text": "ākavē, avarkaḷ nam attāṭcikaḷaip poruṭpaṭuttāmal; avaṟṟaip poyppittuk koṇṭu iruntatāl, avarkaḷaik kaṭalil mūḻkaṭittu avarkaḷiṭam nām paḻivāṅkiṉōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 137,
+            "text": "Eṉavē, evarkaḷ cakti kuṟaintavarkaḷākak karutappaṭṭārkaḷō anta isravēlarkaḷaik kiḻakkilum mēṟkilumuḷḷa nilappakutikaḷiṉ atipatikaḷākkiṉōm; iṉṉum avaṟṟilē perum pākkiyaṅkaḷaiyum aḷittōm. Isrāyīliṉ makkaḷ poṟumaiyākavum, uṟutiyākavum irunta kāraṇattāl, avarkaḷ mītu um iṟaivaṉuṭaiya aḻakiya vākkup paripūraṇamāki niṟaivēṟiṟṟu mēlum ḥpir'avṉum avaṉuṭaiya camūkattārum uṇṭupaṇṇiyiruntavaṟṟaiyum, kaṭṭiyirunta māṭamāḷikaikaḷaiyum nām taraimaṭṭamākki viṭṭōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 138,
+            "text": "nām isrāyīliṉ cantatiyiṉaraik kaṭalaikkaṭantu (aḻaittuc) ceṉṟapōtu, taṅkaḷukkuriya vikkirakaṅkaḷai ārātaṉai ceytu koṇṭirunta oru kūṭṭattār arukē (avarkaḷ) ceṉṟārkaḷ. Uṭaṉē avarkaḷ, \"mūsāvē! Avarkaḷiṭamirukkum kaṭavuḷkaḷaip pōl namakkum nīṅkaḷ oru kaṭavuḷai ākkittaruvīrkaḷāka!\" Eṉṟu vēṇṭiṉar; \"niccayamāka nīṅkaḷ ōr aṟivillāta kūṭṭattārāka irukkiṉṟīrkaḷ\" eṉṟu mūsā (avarkaḷiṭam) kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 139,
+            "text": "niccayamāka inta makkaḷ īṭupaṭṭirukkum mārkkam aḻiyak kūṭiyatu iṉṉum avarkaḷ ceypavai yāvum (muṟṟilum) vīṇāṉavaiyē\" (eṉṟum kūṟiṉār)"
+        },
+        {
+            "chapter": 7,
+            "verse": 140,
+            "text": "aṉṟiyum, allāh allāta oṉṟaiyā nāṉ uṅkaḷukku iṟaivaṉāka tēṭi vaippēṉ? Avaṉō uṅkaḷai ulakattiluḷḷa ellā makkaḷaiyumviṭa mēṉmaiyākki vaittuḷḷāṉ\" eṉṟum avar kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 141,
+            "text": "Iṉṉum niṉaivu kūṟuṅkaḷ; ḥpir'avṉiṉ kūṭṭattāriṭamiruntu nām uṅkaḷaik kāppāṟṟiṉōm; avarkaḷ uṅkaḷukkuk koṭiya vētaṉaikaḷaik koṭuttuk koṇṭiruntārkaḷ; avarkaḷ uṅkaḷ āṇ makkaḷaik kolai ceytuviṭṭu, (uṅkaḷaic ciṟumaippaṭuttuvataṟkāka) uṅkaḷ peṇ makkaḷai uyiruṭaṉ vāḻaviṭṭārkaḷ; itil uṅkaḷukku uṅakaḷ iṟaivaṉiṭamiruntu oru perum cōtaṉai ēṟpaṭṭiruntatu"
+        },
+        {
+            "chapter": 7,
+            "verse": 142,
+            "text": "mūsāvukku nām muppatu iravukaḷai vākkaḷittōm; piṉṉar, mēlum atai pattu (iravukaḷaik) koṇṭu pūrttiyākkiṉōm; ivhvaṟāka avaruṭaiya iṟaivaṉ (vākkaḷitta) kālakkeṭu nāṟpatu iravukaḷāka muḻamai peṟṟatu. Appōtu mūsā tam catōtarar hārūṉai nōkki, \"nīṅkaḷ eṉṉuṭaiya camūkattārukku, eṉ kalīḥpāvāka iruntu, (avarkaḷait) tiruttuvīrkaḷāka! Kuḻappamuṇṭākkupavariṉ vaḻiyaip piṉ paṟṟātiruppīrkaḷāka!\" Eṉṟu kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 143,
+            "text": "nām kuṟitta kālattil (kuṟippiṭṭa iṭattil) mūsā vanta pōtu, avaruṭaiya iṟaivaṉ avaruṭaṉ pēciṉāṉ; appōtu mūsā\"eṉ iṟaivaṉē! Nāṉ uṉṉaip pārkka vēṇṭum; eṉakku uṉṉaik kāṇpippāyāka! Eṉṟu vēṇṭiṉār. Ataṟku avaṉ, \"mūsāvē! Nīr eṉṉai orukkālum pārkka muṭiyātu, eṉiṉum nīr inta malaiyaip pārttuk koṇṭirum. Atu taṉ iṭattil nilaittiruntāl, appōtu nīr eṉṉaip pārppīr!\" Eṉṟu kūṟiṉāṉ. Ākavē avaruṭaiya iṟaivaṉ am'malai mītu taṉṉuṭaiya pēroḷiyait tōṟṟuvitta pōtu, avaṉ am'malaiyai noṟukkit tūḷākki viṭṭāṉ; appōtu mūsā mūrccaiyākik kīḻē viḻuntu viṭṭār. Avar teḷivaṭaintatum, \"(iṟaivā!) Nī mikavum paricattamāṉavaṉ; nāṉ uṉṉiṭam maṉṉippu kōrukiṟēṉ. Īmāṉ koṇṭavarkaḷil nāṉ mutaṉmaiyāṉavaṉāka irukkiṟēṉ\" eṉṟu kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 144,
+            "text": "Ataṟku avaṉ, \"mūsāvē! Niccayamāka nāṉ um'mai eṉ tūtuvattaik koṇṭum (um'muṭaṉ nēril) nāṉ pēciyataik koṇṭum, (um'mai) maṉitarkaḷiliruntu (mēlāṉavarāka ikkālai) tērntu eṭuttuḷḷēṉ - ākavē nāṉ umakkuk koṭuttatai (uṟutiyākap) piṭittuk koḷḷum; (eṉakku) naṉṟi celuttupavarkaḷil (oruvarākavum) iruppīrāka\" eṉṟu kūṟiṉāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 145,
+            "text": "mēlum nām avarukku palakaikaḷil, ovvoru viṣayam paṟṟiya nallupatēcaṅkaḷaiyum, (kaṭṭaḷaikaḷaiyum,) ovvoṉṟaip paṟṟiya viḷakkaṅkaḷaiyum eḻuti; \"avaṟṟai uṟutiyākap paṟṟip piṭippīrāka! Iṉṉum um'muṭaiya camūkattārai avaṟṟil aḻakāṉavaṟṟai eṭuttuk koḷḷumāṟu kaṭṭaḷaiyiṭuvīrāka! Aticīkkiram pāvikaḷiṉ taṅkumiṭattai nāṉ uṅkaḷukku kāṭṭuvēṉ\" (eṉṟu kūṟiṉāṉ)"
+        },
+        {
+            "chapter": 7,
+            "verse": 146,
+            "text": "evvita niyāyamumiṉṟi, pūmiyil perumaiyaṭittu naṭappavarkaḷai, eṉ kaṭṭaḷaikaḷai viṭṭum tiruppi vaittu viṭuvēṉ; avarkaḷ ellā attāṭcikaḷaiyum kaṇṭa pōtilum avaṟṟai nampa māṭṭārkaḷ; avarkaḷ nēr vaḻiyaik kaṇṭāl ataṉait (taṅkaḷukkuriya) vaḻiyeṉa ēṟṟuk koḷḷa māṭṭārkaḷ - āṉāl tavaṟāṉa vaḻiyaik kaṇṭāl, ataṉai(t taṅkaḷukku nēr) vaḻiyeṉa eṭuttuk koḷvārkaḷ; ēṉeṉil avarkaḷ nam attāṭcikaḷaip poyyeṉak kūṟiṉārkaḷ. Iṉṉum avaṟṟaip puṟakkaṇittum iruntārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 147,
+            "text": "evarkaḷ nam vacaṉaṅkaḷaiyum, (attāṭcikaḷaiyum) maṟumaiyil (nam'maic) cantippataiyum poyyeṉak kūṟukiṉṟārkaḷō avarkaḷuṭaiya naṟkarumaṅkaḷ yāvum aḻintuviṭum; avarkaḷ evvāṟu ceyalpaṭṭārkaḷō ataṟkuttakunta kūliyait tavira vēṟu etaip peṟa muṭiyum"
+        },
+        {
+            "chapter": 7,
+            "verse": 148,
+            "text": "Mūsāviṉ camūkattār avar (ceṉṟa) piṉ taṅkaḷ nakaikaḷaik koṇṭu oru kāḷaik kaṉṟiṉ cilaiyai(c ceytu atait teyvamāka) ākkik koṇṭārkaḷ; ataṟku (māṭṭiṉ captattaip pōl veṟum) captamiruntatu niccayamāka atu avarkaḷiṭam pēcavum māṭṭātu, iṉṉum avarkaḷukku (nēr) vaḻi kāṭṭavum ceyyātu eṉpatai avarkaḷ kavaṉittirukka vēṇṭāmā, avarkaḷ ataṉaiyē (teyvamāka) ākkik koṇṭārkaḷ - iṉṉum avarkaḷ (tamakkut tāmē) aniyāyam ceytu koṇṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 149,
+            "text": "avarkaḷ ceytuviṭṭa tavaṟu paṟṟi kaicētap paṭṭu, niccayamāka tāṅkaḷē vaḻi tavaṟi viṭṭatai aṟintu koṇṭa pōtu, avarkaḷ; \"eṅkaḷ iṟaivaṉ eṅkaḷukkuk kirupai ceytu eṅkaḷai maṉṉikkā viṭṭāl, niccayamāka nāṅkaḷ naṣṭamaṭaintavarkaḷāki viṭuvōm\" eṉṟu kūṟiṉārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 150,
+            "text": "(itaṉaiyaṟinta) mūsā taṉ camūkattāriṭam kōpattuṭaṉ, vicaṉattuṭaṉ tirumpi vanta pōtu; (avarkaḷai nōkki)\"nāṉ illāta camayattil nīṅkaḷ ceyta ikkāriyam mikavum keṭṭatu uṅkaḷ iṟaivaṉuṭaiya kaṭṭaḷai (vētaṉai)yaik (koṇṭu vara) avacarappaṭukiṟīrkaḷā?\" Eṉṟu kūṟiṉār; piṉṉar vētam varaiyap (peṟṟirunta) palakaikaḷai eṟintu viṭṭu, tam catōtarar (hārūṉ) uṭaiya talai(muṭi)yaip piṭittut tam pakkam iḻuttār. Appōtu (hārūṉ)\"eṉ tāyiṉ makaṉē! Inta makkaḷ eṉṉai palahīṉappaṭutti eṉṉai kolai ceyyavum muṟpaṭṭaṉar. Ākavē (eṉṉuṭaiya)\"pakaivarkaḷukku eṉmūlam makiḻcciyai ēṟpaṭutti viṭātīr\" iṉṉum eṉṉai aniyāyak kārak kūṭṭattāruṭaṉ cērttuviṭātīr\" eṉṟu kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 151,
+            "text": "Eṉ iṟaivaṉē! Eṉṉaiyum eṉ cakōtararaiyum maṉṉippāyāka! Uṉ rahmattil (naṟkirupaiyil) - piravēcikkac ceyvāyāka! Ēṉeṉil, nīyē kirupaiyāḷarkaḷilellām, mikka kirupaiyāḷaṉ\" eṉṟu (pirārttittuk) kūṟiṉār"
+        },
+        {
+            "chapter": 7,
+            "verse": 152,
+            "text": "niccayamāka evarkaḷ kāḷaik kaṉṟai (iṟaivaṉāka) ākkik koṇṭārkaḷō avarkaḷai, avarkaḷ iṟaivaṉiṭamiruntu kōpamum, ivvulaka vāḻkkaiyil iḻivum cīkkiramē vantu cērum;. Poyk kaṟpaṉai ceypavarkaḷukku nām ivvāṟē kūli koṭuppōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 153,
+            "text": "āṉāl tīya ceyalkaḷ ceytu koṇṭiruntōr (maṉantirunti), tavpā ceytu (pāvaṅkaḷiliruntu vilaki uṇmaiyāka) nampikkai koṇṭāl - niccayamāka ataṉpiṉ um'muṭaiya iṟaivaṉ maṉṉippavaṉākavum, mikka kirupai ceypavaṉākavumirukkiṉṟāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 154,
+            "text": "mūsāvai viṭṭum kōpam taṉinta pōtu, (avar eṟintu viṭṭa) palakaikaḷai eṭuttuk koṇṭār - avaṟṟil varaiyappeṟṟa kuṟippukaḷil tam iṟaivaṉukkup payappaṭupavarkaḷukku nēr vaḻiyum, (iṟai) kirupaiyum iruntaṉa"
+        },
+        {
+            "chapter": 7,
+            "verse": 155,
+            "text": "Iṉṉum mūsā nām kuṟippiṭṭa nērattil (tūr malaiyil) nam'maic cantippataṟkāka, tam camūkattāriliruntu eḻupatu āṇkaḷait tērnteṭuttār; avarkaḷaip pūkampam paṟṟikkoṇṭapōtu, avar, \"eṉ iṟaivaṉē! Nī karutiyiruntāl, itaṟku muṉṉarē avarkaḷaiyum eṉṉaiyum nī aḻittirukkalāmē! Eṅkaḷiluḷḷa aṟivilikaḷ ceyta (kuṟṟat)tiṟkāka, eṅkaḷ yāvaraiyum nī aḻittuviṭukiṟāyā? Itu uṉṉuṭaiya cōtaṉaiyēyaṉṟi vēṟillai itaikkoṇṭu nī nāṭiyavarkaḷai vaḻitavaṟa viṭukiṟāy; iṉṉum nī nāṭiyavarkaḷai nēr vaḻiyil naṭattukiṟāy. Nī tāṉ eṅkaḷuṭaiya pātukāvalaṉ. Ākavē eṅkaḷukku maṉṉippu aḷippāyāka! Eṅkaḷukku kirupai ceyvāyāka. Maṉṉippavarkaḷilellām nī tāṉ mikka mēṉmaiyāṉavaṉ\" eṉṟu pirārttittār"
+        },
+        {
+            "chapter": 7,
+            "verse": 156,
+            "text": "iṉṉum ivvulakattilum, maṟumaiyilum eṅkaḷukku (aḻakiya) naṉmaikaḷaiyē vitittaruḷvāyāka! Niccayamāka nāṅkaḷ uṉṉaiyē muṉṉōkkukiṟōm\" (eṉṟum pirārttittār). Ataṟku iṟaivaṉ, \"eṉṉuṭaiya aruḷāṉatu ellāp poruḷkaḷilum (virintu, parantu) cūḻntu niṟkiṟatu eṉiṉum ataṉai payapaktiyuṭaṉ (pēṇi) naṭappōrukkum, (muṟaiyāka) jakāttu koṭuttu varuvōrukkum nam'muṭaiya vacaṉaṅkaḷai nampukiṟavarkaḷukkum nāṉ vitittaruḷ ceyvēṉ\" eṉṟu kūṟiṉāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 157,
+            "text": "Evarkaḷ eḻutappaṭikkat teriyāta napiyākiya nam tūtaraip piṉpaṟṟukiṟārkaḷō - avarkaḷ taṅkaḷiṭamuḷḷa tavrāttilum iṉjīlilum ivaraip paṟṟi eḻutap paṭṭiruppataik kāṇpārkaḷ; avar, avarkaḷai naṉmaiyāṉa kāriyaṅkaḷ ceyyumāṟu ēvuvār; pāvamāṉa kāriyaṅkaḷiliruntu vilakkuvār; tūymaiyāṉa ākāraṅkaḷaiyē avarkaḷukku ākumākkuvār; keṭṭavaṟṟai avarkaḷukkut taṭuttu viṭuvār; avarkaḷuṭaiya paḷuvāṉa cumaikaḷaiyum, avarkaḷ mītu irunta vilaṅkukaḷaiyum, (kaṭiṉamāṉa kaṭṭaḷaikaḷaiyum) iṟakkiviṭuvār; eṉavē evarkaḷ avarai meyyākavē nampi, avaraik kaṇṇiyappaṭutti, avarukku utavi ceytu, avaruṭaṉ aruḷappaṭṭirukkum oḷimayamāṉa (vētat)taiyum piṉ paṟṟukiṟārkaḷō, avarkaḷ tām veṟṟi peṟuvārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 158,
+            "text": "(napiyē!) Nīr kūṟuvīrāka\"maṉitarkaḷē! Meyyāka nāṉ uṅkaḷ aṉaivarukkum allāhviṉ tūtarāka irukkiṟēṉ; vāṉaṅkaḷ, pūmi ākiyavaṟṟiṉ āṭci avaṉukkē uriyatu, avaṉaittavira (vaṇakkattiṟkuriya) nāyaṉ vēṟuyārumillai - avaṉē uyirppikkiṉṟāṉ; avaṉē maraṇam aṭaiyumpaṭiyum ceykiṉṟāṉ - ākavē, allāhviṉ mītum, eḻutappaṭikkatteriyā napiyākiya avaṉ tūtariṉ mītum īmāṉ koḷḷuṅkaḷ, avarum allāhviṉ mītum avaṉ vacaṉaṅkaḷiṉ mītum īmāṉ koḷkiṟār - avaraiyē piṉpaṟṟuṅkaḷ; nīṅkaḷ nērvaḻi peṟuvīrkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 159,
+            "text": "uṇmaiyaik koṇṭu nērvaḻi peṟṟu ataṉ mūlam nītiyum celuttukiṉṟavarkaḷum mūsāviṉ camutāyattil uḷḷaṉar"
+        },
+        {
+            "chapter": 7,
+            "verse": 160,
+            "text": "salvāvaiyum (mēlāṉa uṇavāka) iṟakkivaittu\"nām uṅkaḷukku aḷittuḷḷa tūyavaṟṟiliruntu puciyuṅkaḷ\" (eṉṟu coṉṉōm; avvāṟu iruntum avarkaḷ allāhvukku māṟu ceytārkaḷ), avarkaḷ namakku oṉṟum tīṅkiḻaikkavilalai taṅkaḷukkut tāmē tīṅkiḻaittuk koṇṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 161,
+            "text": "Iṉṉum avarkaḷai nōkki; \"nīṅkaḷ ivvūril vacittiruṅkaḷ, itil nīṅkaḷ virumpiya iṭattilellām (nīṅkaḷ nāṭiya poruṭkaḷaip) pucittuk koḷḷuṅkaḷ; 'hittatuṉ' (eṅkaḷuṭaiya pāvaṅkaḷ maṉṉikkappaṭuvatāka,) eṉṟu kūṟiyāvāṟu (ataṉ) vāyilil (paṇivōṭu) talaitāḻttiyavarkaḷāka nuḻaiyuṅkaḷ; nām uṅkaḷ kuṟṟaṅkaḷai maṉṉippōm. Naṉmai ceypavarkaḷukku nām atikamākavē (kūli) koṭuppōm\" eṉṟu kūṟappaṭṭapōtu"
+        },
+        {
+            "chapter": 7,
+            "verse": 162,
+            "text": "avarkaḷil aniyāyam ceytavarkaḷ avarkaḷukku kūṟappaṭṭatai veṟoru collāka māṟṟi viṭṭārkaḷ; eṉavē avarkaḷ aniyāyam ceytatiṉ kāraṇamāka avarkaḷ mītu nām vāṉattiliruntu vētaṉaiyai iṟakkiṉōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 163,
+            "text": "(napiyē!) Kaṭaṟkaraiyilirunta (ōr) ūr makkaḷaippaṟṟi nīr avarkaḷaik kēḷum - avarkaḷ (taṭukkappaṭṭa saptu) caṉikkiḻamaiyaṉṟu varampai mīṟi (mīṉ vēṭṭaiyāṭi)k koṇṭiruntārkaḷ; ēṉeṉṟāl avarkaḷuṭaiya caṉikkiḻamaiyaṉṟu (kaṭal) mīṉkaḷ, avarkaḷukku(t taṇṇīrukku mēlē talaikaḷai veḷiyākki)k koṇṭu vantaṉa - āṉāl caṉikkiḻamaiyallāta nāṭkaḷil avarkaḷiṭam (avvāṟu veḷiyākki) varuvatillai - avarkaḷ ceytu koṇṭirunta pāvattiṉ kāraṇamāka avarkaḷai nām ivvāṟu cōtaṉaik kuḷḷākkiṉōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 164,
+            "text": "(Avvūrilirunta nallaṭiyār cilar aṟivurai coṉṉa pōtu) avarkaḷil cilar, \"allāh evarkaḷai aḻikkavō, allatu kaṭiṉamāṉa vētaṉaikkuḷḷākkavō nāṭiyirukkiṟāṉō, anta kūṭṭattārkaḷukku nīṅkaḷ ēṉ upatēcam ceykiṟīrkaḷ?\" Eṉṟu kēṭṭārkaḷ; ataṟku (anta nallaṭiyārkaḷ); \"eṅkaḷ iṟaivaṉiṭam (nam) poṟuppiliruntu nīṅki viṭuvataṟkākavum iṉṉum avarkaḷ (oruvēḷai tāṅkaḷ ceytu varuvatiliruntu) vilakiviṭalām eṉpataṟkākavum (nāṅkaḷ upatēcam ceykiṟōm) eṉṟu kūṟiṉārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 165,
+            "text": "avarkaḷ etu kuṟittu upatēcikkap paṭṭārkaḷō, ataṉai avarkaḷ maṟantu viṭṭapōtu, avarkaḷait tīmaiyaiviṭṭu vilakkik koṇṭiruntavarkaḷai nām kāppāṟṟiṉōm; varampu mīṟi akkiramam ceytu koṇṭiruntavarkaḷukku, avarkaḷ ceytu vanta pāvattiṉ kāraṇamāka kaṭumaiyāṉa vētaṉaiyaik koṭuttōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 166,
+            "text": "taṭukkappaṭṭirunta varampai avarkaḷ mīṟiviṭavē, \"nīṅkaḷ iḻivaṭainta kuraṅkukaḷāki viṭuṅkaḷ\" eṉṟu avarkaḷukku nām kūṟiṉōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 167,
+            "text": "(napiyē!) Avarkaḷukkuk koṭiya vētaṉai koṭukka kūṭiyavarkaḷaiyē, avarkaḷ mītu ātikkam celuttumāṟu kiyāma nāḷ varai nām ceyvōmeṉṟu uṅkaḷ iṟaivaṉ aṟivittatai (avarkaḷukku niṉaivūṭṭuvīrāka) - niccayamāka um iṟaivaṉ taṇṭaṉaiyaḷippatil tīviramāṉavaṉ - āṉāl niccayamāka avaṉ mikavum maṉṉippavaṉākavum, kirupaiyāḷaṉākavum irukkiṉṟāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 168,
+            "text": "avarkaḷai nām pūmiyil pala piriviṉarākac (citaṟittiriyumāṟu) ākki viṭṭōm; avarkaḷil nallavarkaḷumirukkiṉṟārkaḷ. Atuvallāta keṭṭavarkaḷum irukkiṉṟārkaḷ - avarkaḷ (naṉmaiyiṉ pāl) tirumpum poruṭṭu avarkaḷai naṉmaikaḷaik koṇṭum, tīmaikaḷaik koṇṭum cōtittōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 169,
+            "text": "Avarkaḷukkup piṉ avarkaḷuṭaiya iṭattai (takutiyaṟṟa) oru piriviṉar aṭaintaṉar; avarkaḷ vētattiṟkum vāricukaḷ āṉārkaḷ;. Ivvulakiṉ aṟpap poruṭkaḷaip peṟṟuk koṇṭu (ataṟku takuntapaṭi vētattai māṟṟi koṇṭārkaḷ). 'Eṅkaḷukku maṉṉippu aḷikkappaṭum' eṉṟum kūṟikkoḷkiṟārkaḷ. Itupōṉṟu vēṟōr aṟpapporuḷ avarkaḷukku vantu viṭṭāl, ataiyum eṭuttuk koḷvārkaḷ, \"allāhviṉ mītu uṇmaiyēyaṉṟi vēṟu oṉṟum kūṟalākātu eṉṟu vētattiṉ mūlam avarkaḷiṭam uṟutimoḻi vāṅkap paṭavillaiyā?\" (Iṉṉum) atiluḷḷavai (pōtaṉaikaḷai) avarkaḷ ōtiyum varukiṉṟārkaḷ; (ataiyellām avarkaḷ poruṭpaṭuttuvatillai) payapaktiyuṭaiyavarkaḷukku maṟumaiyiṉ vīṭē mēlāṉatākum. Nīṅkaḷ (nallavitamāka) aṟintu koḷḷa vēṇṭāmā"
+        },
+        {
+            "chapter": 7,
+            "verse": 170,
+            "text": "evarkaḷ vētattai uṟutiyākap paṟṟippiṭittuk koṇṭu, toḻukaiyaiyum nilainiṟuttukiṟārkaḷō (attakaiya) nallōrkaḷiṉ kūliyai nām niccayamāka vīṇākka māṭṭōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 171,
+            "text": "nām (siṉāy) malaiyai avarkaḷukku mēl mukaṭṭaippōl uyarttiṉōm; appōtu avarkaḷ atu taṅkaḷ mītu viḻuntu viṭumō eṉṟu eṇṇiyapōtu, nām avarkaḷai nōkki, \"nām uṅkaḷukkuk koṭutta (vētat)taip palamākap piṭittuk koḷḷuṅkaḷ; atiluḷḷavaṟṟaic cintiyuṅkaḷ; nīṅkaḷ payapaktiyuṭaiyōr ākalām\" (eṉṟu kūṟiṉōm)"
+        },
+        {
+            "chapter": 7,
+            "verse": 172,
+            "text": "Um iṟaivaṉ ātamuṭaiya makkaḷiṉ mutukukaḷiliruntu avarkaḷuṭaiya cantatikaḷai veḷiyākki, avarkaḷait taṅkaḷukkē cāṭciyāka vaittu\"nāṉ uṅkaḷuṭaiya iṟaivaṉ allavā?\" Eṉṟu kēṭṭataṟku, avarkaḷ\"mey tāṉ. Nāṅkaḷ cāṭci kūṟukiṟōm\" eṉṟu kūṟiyatai (avarkaḷukku) niṉaivūṭṭuvīrāka (ēṉeṉil itu niṉaivūṭṭappaṭātataṉāl) niccayamāka itaṉai (maṟantu) viṭṭup parāmukamāka iruntu viṭṭōm eṉṟu maṟumai nāḷil nīṅkaḷ (yārumē) collātirukkavum"
+        },
+        {
+            "chapter": 7,
+            "verse": 173,
+            "text": "allatu, \"iṇaivaittavarkaḷ ellām eṅkaḷukku muṉ irunta eṅkaḷ mūtātaiyarkaḷē nāṅkaḷō avarkaḷukkup piṉ vanta (avarkaḷuṭaiya) cantatikaḷ - anta vaḻikeṭṭōriṉ ceyalukkāka nī eṅkaḷai aḻittu viṭalāmā?\" Eṉṟu kūṟātirukkavumē! (Itaṉai niṉaivūṭṭukiṟōm eṉṟu napiyē! Nīr kūṟuvīrāka)"
+        },
+        {
+            "chapter": 7,
+            "verse": 174,
+            "text": "avarkaḷ (pāvaṅkaḷiliruntu) viṭupaṭṭu (nam'miṭam) tirumpuvataṟkāka nām (nam) vacaṉaṅkaḷai ivvāṟu viḷakkik kūṟukiṉṟōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 175,
+            "text": "(napiyē!) Nīr avarkaḷukku oru maṉitaṉuṭaiya varalāṟṟai ōtikkāṭṭuvīrāka! Avaṉukku nām nam attāṭcikaḷaik koṭuttiruntōm; eṉiṉum avaṉ avaṟṟai viṭṭu muṟṟilum naḻuviviṭṭāṉ; appōtu avaṉai ṣaittāṉ piṉ toṭarntāṉ - ataṉāl avaṉ vaḻi tavaṟiyavarkaḷil oruvaṉāki viṭṭāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 176,
+            "text": "Nām nāṭiyiruntāl, nam attāṭcikaḷaik koṇṭu avaṉai uyarttiyiruppōm; eṉiṉum avaṉ ivvulaka vāḻvai(yē catameṉa) matittu, taṉṉuṭaiya iccaikaḷaiyē piṉpaṟṟiṉāṉ; avaṉukku utāraṇam nāyaip pōṉṟu, atai nīr viraṭṭiṉālum nākkait toṅka viṭukiṟatu, allatu atai nīr viṭṭu viṭṭālum nākkait toṅka viṭukiṟatu - ituvē nam vacaṉaṅkaḷaip poyyeṉak kūṟum kūṭṭattārukkum utāraṇamākum - ākavē avarkaḷ cintittu nalluṇarvu peṟum poruṭṭu (ittakaiya) varalāṟukaḷaik kūṟuvīrāka"
+        },
+        {
+            "chapter": 7,
+            "verse": 177,
+            "text": "nam'muṭaiya vacaṉaṅkaḷaip poyyeṉak kūṟiya makkaḷiṉ utāraṇam mikavum keṭṭatākum; avarkaḷ tamakkut tāmē tīṅkiḻaittuk koṇṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 178,
+            "text": "allāh evarukku nērvaḻi kāṭṭukiṉṟāṉō avar nērvaḻiyai aṭaintavar āvār;. Yārait tavaṟāṉa vaḻiyil viṭṭu viṭṭāṉō, attakaiyavarkaḷ muṟṟilum naṣṭam aṭaintavarkaḷē"
+        },
+        {
+            "chapter": 7,
+            "verse": 179,
+            "text": "niccayamāka nām jiṉkaḷiliruntum, maṉitarkaḷiliruntum anēkarai narakattiṟkeṉṟē paṭaittuḷḷōm; avarkaḷukku irutayaṅkaḷ irukkiṉṟaṉa - āṉāl avaṟṟaik koṇṭu avarkaḷ nalluṇarvu peṟa māṭṭārkaḷ; avarkaḷukkuk kaṇkaḷ uṇṭu; āṉāl, avaṟṟaik koṇṭu avarkaḷ (iṟaivaṉiṉ attāṭcikaḷaip) pārppatillai avarkaḷukkuk kātukaḷ uṇṭu. Āṉāl avaṟṟaik koṇṭu avarkaḷ (naṟpōtaṉaiyaik) kēṭkamāṭṭārkaḷ - ittakaiyōr kālnaṭaikaḷaip pōṉṟavarkaḷ. Illai! Avaṟṟai viṭavum vaḻi kēṭarkaḷ; ivarkaḷ tām (namvacaṉaṅkaḷai) alaṭciyam ceytavarkaḷāvārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 180,
+            "text": "allāhvukku aḻakiya tirunāmaṅkaḷ irukkiṉṟaṉ avaṟṟaik koṇṭē nīṅkaḷ avaṉaip pirārttiyuṅkaḷ, avaṉuṭaiya tirunāmaṅkaḷai tavaṟāka payaṉpaṭuttuvōrkaḷai (puṟakkaṇittu) viṭṭu viṭuṅkaḷ - avarkaḷuṭaiya ceyalkaḷukkāka avarkaḷ (takka) kūli koṭukkappaṭuvārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 181,
+            "text": "Nām paṭaittavarkaḷil oru kūṭṭattār irukkiṉṟārkaḷ. Avarkaḷ cattiya vaḻiyaik kāṭṭukiṟārkaḷ; ataik koṇṭu nītiyum celuttukiṟārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 182,
+            "text": "evar nam vacaṉaṅkaḷaip poyyeṉak kūṟukiṟārkaḷō avarkaḷaip paṭippaṭiyāka avarkaḷ aṟiyā vaṇṇam piṭippōm"
+        },
+        {
+            "chapter": 7,
+            "verse": 183,
+            "text": "(ivvulakil) nāṉ avarkaḷukku avakācam koṭukkiṉṟēṉ; niccayamāka eṉatu tiṭṭam mikavum uṟutiyāṉatu"
+        },
+        {
+            "chapter": 7,
+            "verse": 184,
+            "text": "avarkaḷ cintikkavillaiyā? (Nam tūtarākiya) avarkaḷuṭaiya tōḻarukku evvita paittiyamumillai. Avar pakiraṅkamāka accamūṭṭi eccarikkai ceypavarēyaṉṟi vēṟillai"
+        },
+        {
+            "chapter": 7,
+            "verse": 185,
+            "text": "vāṉaṅkaḷ, pūmi, ivaṟṟiṉ āṭciyaiyum allāh paṭaittirukkum maṟṟap poruḷkaḷaiyum avarkaḷ nōṭṭamiṭavillaiyā? Avarkaḷuṭaiya (maraṇa) tavaṇai neruṅkiyirukkakkūṭum eṉpataiyum (avarkaḷ cintikkavillaiyā?) Itaṟkup piṉṉar enta viṣayattait tāṉ avarkaḷ īmāṉ koḷḷappōkiṟārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 186,
+            "text": "evarkaḷai allāh tavaṟāṉa vaḻiyil viṭṭu viṭukiṟāṉō avarkaḷai nērāṉa vaḻiyil celutta evarālum muṭiyātu. Avaṉ avarkaḷai tavaṟāṉa vaḻiyilēyē taṭṭaḻiyumāṟu viṭṭuviṭukiṟāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 187,
+            "text": "avarkaḷ um'miṭam iṟutit tīrppu nāḷ eppoḻutu varum eṉṟu viṉavukiṟārkaḷ; nīr kūṟum; \"ataṉ aṟivu eṉ iṟaivaṉiṭattil tāṉ irukkiṟatu atu varum nērattai avaṉait tavira vēṟu evarum veḷippaṭutta iyalātu - atu vāṉaṅkaḷilum, pūmiyilum perum paḷuvāṉa campavamāka nikaḻum; tiṭukūṟāka atu uṅkaḷiṭam varum; atai muṟṟilum aṟintu koṇṭavarāka um'maik karutiyē avarkaḷ um'maik kēṭkiṟārkaḷ; ataṉ aṟivu niccayamāka allāhviṭamē irukkiṉṟatu - eṉiṉum maṉitarkaḷil perum pālōr atai aṟiya māṭṭārkaḷ\" eṉṟu kūṟuvīrāka"
+        },
+        {
+            "chapter": 7,
+            "verse": 188,
+            "text": "(Napiyē!) Nīr kūṟum; \"allāh nāṭiṉālaṉṟi nāṉ eṉakkē yātoru naṉmaiyō allatu tīmaiyō ceytu koḷḷa caktiyillātavaṉ; maṟaintiruppavaṟṟai nāṉ aṟipavaṉāka iruntāl nam'maikaḷai atikamākat tēṭikkoṇṭiruppēṉ; (annilaiyil evvitamāṉa) tīṅkum eṉṉait tīṇṭiyirātu - nampikkai koḷḷum makkaḷukku nāṉ accamūṭṭi eccarikkai ceypavaṉum, naṉmārāyam kūṟupavaṉumēyaṉṟi vēṟillai"
+        },
+        {
+            "chapter": 7,
+            "verse": 189,
+            "text": "avaṉē, uṅkaḷai orē maṉitariliruntu paṭaittāṉ, avaruṭaṉ kūṭi (iṇaintu) vāḻvataṟkāka avaruṭaiya tuṇaiviyai (avariliruntē) paṭaittāṉ - avaṉ avaḷai neruṅkiya pōtu avaḷ ilēcāṉa karppavatiyāṉāḷ; piṉpu ataṉaic cumantu naṭamāṭik koṇṭiruntāḷ; piṉpu atu paḷuvākavē, avarkaḷiruvarum tam'miruvariṉ iṟaivaṉiṭam, \"(iṟaivaṉē!) Eṅkaḷukku nī nalla (cantatiyaik) koṭuttāl, niccayamāka nāṅkaḷ iruvarum naṉṟiyuḷḷavarkaḷāka iruppōm\" eṉṟu pirārttittuk koṇṭiruntaṉar"
+        },
+        {
+            "chapter": 7,
+            "verse": 190,
+            "text": "avarkaḷukku (avarkaḷ viruppappaṭi) nalla kuḻantaiyai avaṉ koṭuttavuṭaṉ, avarkaḷukku avaṉ koṭuttatil avviruvarum avaṉukku iṇaikaḷaik kaṟpikkiṉṟaṉar - ivarkaḷ iṇai vaippatai viṭṭum allāh tūymaiyāṉavaṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 191,
+            "text": "entap poruḷaiyum paṭaikka iyalātavaṟṟaiyā ivarkaḷ (allāhvukku) iṇaiyākkukiṟārkaḷ? Iṉṉum, avarkaḷō (allāhviṉālēyē) paṭaikkappaṭṭavarkaḷāyiṟṟē"
+        },
+        {
+            "chapter": 7,
+            "verse": 192,
+            "text": "avarkaḷ ivarkaḷukku ettakaiya utaviyum ceyya caktiyaṟṟavarkaḷāka irukkiṉṟaṉar; (atu māttiramalla) avarkaḷ tamakkut tāmē utavi ceytu koḷḷavum caktiyaṟṟavarkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 193,
+            "text": "(inta muṣrikkukaḷai) nīṅkaḷ nērvaḻikku aḻaittālum, uṅkaḷai avarkaḷ piṉpaṟṟa māṭṭārkaḷ; nīṅkaḷ avarkaḷai aḻaippatum allatu (aḻaiyātu) vāymūṭiyiruppatum uṅkaḷukkuc camamēyākum"
+        },
+        {
+            "chapter": 7,
+            "verse": 194,
+            "text": "Niccayamāka allāhvaiyaṉṟi evarkaḷai nīṅkaḷ aḻaikkiṉṟīrkaḷō, avarkaḷum uṅkaḷaip pōṉṟa aṭimaikaḷē nīṅkaḷ uṇmaiyāḷarkaḷāka iruntāl nīṅkaḷ avarkaḷai aḻaittup pāruṅkaḷ - avarkaḷ uṅkaḷukku patil aḷikkaṭṭum"
+        },
+        {
+            "chapter": 7,
+            "verse": 195,
+            "text": "avarkaḷukku naṭakkakkūṭiya kālkaḷ uṇṭā? Allatu avarkaḷukku piṭippataṟkuriya kaikaḷ uṇṭā? Allatu avarkaḷukkup pārkkak kūṭiya kaṇkaḷ uṇṭā? Allatu avarkaḷukkuk kēṭkak kūṭiya kātukaḷ uṇṭā? (Napiyē!) Nīr kūṟum; \"nīṅkaḷ iṇai vaittu vaṇaṅkum (uṅkaḷ) teyvaṅkaḷai (ellām) aḻaittu, eṉakku(t tīṅku ceytiṭa) cūḻcci ceytu pāruṅkaḷ - (itil) eṉakkuc ciṟitum avakācam koṭukkātīrkaḷ\" eṉṟu"
+        },
+        {
+            "chapter": 7,
+            "verse": 196,
+            "text": "niccayamāka eṉ pātukāvalaṉ allāhvē. Avaṉē vētattai iṟakki vaittāṉ. Avaṉē nallaṭiyārkaḷaip pātukāppavaṉ āvāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 197,
+            "text": "avaṉaiyaṉṟi nīṅkaḷ yārai pirārttikkiṟīrkaḷō avarkaḷ uṅkaḷukku utavi ceyyavum taṅkaḷukkut tāṅkaḷē utavi ceytu koḷḷavum cakti peṟa māṭṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 198,
+            "text": "nīṅkaḷ avarkaḷai nēr vaḻiyiṉ pakkam aḻaippīrkaḷāṉāl, avarkaḷ kēṭkamāṭṭārkaḷ. (Napiyē!) Avarkaḷ um'maip pārppatu pōl umakkut tōṉṟum; āṉāl avarkaḷ (um'maip)pārppatillai"
+        },
+        {
+            "chapter": 7,
+            "verse": 199,
+            "text": "eṉiṉum (napiyē) maṉṉippaik kaik koḷvīrāka! Naṉmaiyaik kaṭaipiṭikkumāṟu (makkaḷai) ēvuvīrāka mēlum aṟivīṉarkaḷaip puṟakkaṇittu viṭum"
+        },
+        {
+            "chapter": 7,
+            "verse": 200,
+            "text": "ṣaittāṉ ētāvatoru (tavaṟāṉa) eṇṇattai um maṉattil ūcalāṭac ceytu (tavaṟu ceyya um'mait) tūṇṭiṉāl, appōtu allāhviṭam pātukāpput tēṭuvīrāka! Meyyākavē avaṉ ceviyēṟpavaṉākavum, (yāvaṟṟaiyum naṉku) aṟipavaṉākavum irukkiṉṟāṉ"
+        },
+        {
+            "chapter": 7,
+            "verse": 201,
+            "text": "Niccayamāka evarkaḷ (allāhvukku) añcukiṟārkaḷō, avarkaḷukkuḷ ṣaittāṉiliruntu tavaṟāṉa eṇṇam ūcalāṭiṉāl, avarkaḷ (allāhvai) niṉaikkiṉṟārkaḷ - avarkaḷ tiṭīreṉa viḻippaṭaintu (ṣaittāṉiṉ cūḻcciyaik) kāṇkiṟārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 202,
+            "text": "āṉāl ṣaittāṉkaḷiṉ catōtararkaḷō avarkaḷai vaḻi kēṭṭilēyē iḻuttuc celvārkaḷ - avarkaḷ (pāvattiṉ pātaiyilāṉa tam muyaṟciyil) yātoru kuṟaiyum ceyya māṭṭārkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 203,
+            "text": "nīr (avarkaḷiṉ viruppappaṭi) avarkaḷiṭam ōr attāṭciyaik koṇṭu varāviṭṭāl, \"nīr inta attāṭciyai ēṉ koṇṭu varavillai?\" Eṉṟu kēṭpārkaḷ; (nīr kūṟum;) nāṉ piṉpaṟṟuvatellām eṉ iṟaivaṉiṭamiruntu eṉakku aṟivikkappaṭuvataittāṉ; (tirukkur'āṉ ākiya) itu uṅkaḷ iṟaivaṉiṭamiruntu vanta aṟivoḷiyākavum, nērvaḻiyākavum, nallaruḷākavum irukkiṉṟatu - nampikkai koṇṭa makkaḷukku"
+        },
+        {
+            "chapter": 7,
+            "verse": 204,
+            "text": "kur'āṉ ōtappaṭumpōtu ataṉai nīṅkaḷ cevitāḻtti (kavaṉamākak) kēḷuṅkaḷ; appoḻutu nicaptamāka iruṅkaḷ - (itaṉāl) nīṅkaḷ kirupai ceyyappaṭuvīrkaḷ"
+        },
+        {
+            "chapter": 7,
+            "verse": 205,
+            "text": "(napiyē!) Nīr um maṉatiṟkuḷ mikka paṇivōṭum, accattōṭum (metuvāka) uratta captamiṉṟi kālaiyilum, mālaiyilum um iṟaivaṉiṉ (tirunāmattai) tikru ceytu koṇṭu iruppīrāka! (Avaṉai) maṟantu viṭṭiruppōril oruvarāka nīr irukka vēṇṭām"
+        },
+        {
+            "chapter": 7,
+            "verse": 206,
+            "text": "evarkaḷ umatu iṟaivaṉiṭattil (neruṅki) irukkiṟārkaḷēr avarkaḷ niccayamāka perumai koṇṭu avaṉai vaṇaṅkāmal iruppatillai. Mēlum avaṉuṭaiya (pukaḻaik kūṟit) tutittukkoṇṭum, avaṉukkuc ciravaṇakkam (sajtā) ceytu koṇṭum irukkiṉṟaṉar"
+        },
+        {
+            "chapter": 8,
+            "verse": 1,
+            "text": "Pōril kiṭaitta veṟṟipporuḷ(aṉḥpāl)kaḷaip paṟṟi um'miṭam avarkaḷ kēṭkiṟārkaḷ. (Ataṟku napiyē!) Nīr kūṟuvīrāka aṉḥpāl allāhvukkum, (avaṉuṭaiya) tūtarukkum contamāṉatākum; ākavē allāhvukku añcik koḷḷuṅkaḷ; uṅkaḷiṭaiyē oḻuṅkuṭaṉ naṭantu koḷḷuṅkaḷ; nīṅkaḷ muḥmiṉkaḷāka iruppiṉ allāhvukkum, avaṉuṭaiya tūtarukkum kīḻpaṭiyuṅkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 2,
+            "text": "uṇmaiyāṉa muḥmiṉkaḷ yār eṉṟāl, allāh(viṉ tirunāmam avarkaḷ muṉ) kūṟappaṭṭāl, avarkaḷuṭaiya irutayaṅkaḷ payantu naṭuṅkiviṭum; avaṉuṭaiya vacaṉaṅkaḷ avarkaḷukku ōtikkāṇpikkappaṭṭāl avarkaḷuṭaiya īmāṉ (piṉṉum) atikarikkum; iṉṉum taṉ iṟaivaṉ mītu avarkaḷ muṟṟilum nampikkai vaippārkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 3,
+            "text": "avarkaḷ toḻukaiyai nilai niṟuttuvārkaḷ; avarkaḷukku nām aḷitta (celvat)tiliruntu naṉku celavu ceyvārkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 4,
+            "text": "ittakaiyavar tām uṇmaiyāṉa muḥmiṉkaḷ āvārkaḷ; avarkaḷuṭaiya iṟaivaṉiṭam avarkaḷukku uyar patavikaḷum, pāva maṉṉippum caṅkaiyāṉa uṇavum uṇṭu"
+        },
+        {
+            "chapter": 8,
+            "verse": 5,
+            "text": "(napiyē!) Um iṟaivaṉ um'mai um vīṭṭaiviṭṭu cattiyattaik koṇṭu (patru kaḷam nōkki) veḷiyēṟṟiya pōtu muḥmiṉkaḷil oru piriviṉar (um'muṭaṉ vara iṇakkamillātu) veṟuttuk koṇṭiruntatu pōla"
+        },
+        {
+            "chapter": 8,
+            "verse": 6,
+            "text": "avarkaḷukku teḷivāṉa piṉṉarum cattiyattil avarkaḷ um'muṭaṉ vivātam ceykiṉṟaṉar; avarkaḷ pārttuk koṇṭirukkum pōtē yārō avarkaḷai maraṇattiṉpāl iḻuttuk koṇṭu celvatu pōṉṟu (niṉaikkiṉṟārkaḷ)"
+        },
+        {
+            "chapter": 8,
+            "verse": 7,
+            "text": "(Apūsuḥpyāṉ talaimaiyil varum viyāpārak kūṭṭam apū jahliṉ talaimaiyil varum paṭaiyiṉar ākiya) iru kūṭṭaṅkaḷil (ētēṉum) oru kūṭṭattai (veṟṟi koḷḷum vāyppu) uṅkaḷukku uṇṭu eṉṟu, allāh vākkaḷittatai niṉaivu kūṟuṅkaḷ. Āyuta pāṇikaḷāka illāta (viyāpārak kūṭṭam kiṭaikka vēṇṭumeṉa) nīṅkaḷ virumpiṉīrkaḷ; (āṉāl) allāh taṉ tiruvākkukaḷāl cattiyattai nilaināṭṭavum kāḥpirkaḷai vēraṟukkavumē nāṭukiṟāṉ"
+        },
+        {
+            "chapter": 8,
+            "verse": 8,
+            "text": "mēlum kuṟṟavāḷikaḷ veṟutta pōtilum, allāh poyyai aḻittu hakkai-uṇmaiyai - nilaināṭṭavē (nāṭukiṟāṉ)"
+        },
+        {
+            "chapter": 8,
+            "verse": 9,
+            "text": "(niṉaivu kūṟuṅkaḷ;) uṅkaḷai iraṭcikkumāṟu uṅkaḷ iṟaivaṉiṉ utaviyai nāṭiyapōtu\"(aṇi aṇiyāka uṅkaḷaip) piṉpaṟṟi varakkūṭiya ōrāyiram malakkukaḷaik koṇṭu niccayamāka uṅkaḷukku utavi purivēṉ\" eṉṟu iṟaivaṉ uṅkaḷukku patilaḷittāṉ"
+        },
+        {
+            "chapter": 8,
+            "verse": 10,
+            "text": "uṅkaḷ irutayaṅkaḷ tiruptiyaṭaivataṟkākavum, oru naṉmārāyamākavum (inta veṟṟiyai) allāh ākkiṉāṉ; allāhviṭamiruntē tavira utavi illai niccayamāka allāh mikaittavaṉākavum, ñāṉamuṭaiyavaṉākavum irukkiṉṟāṉ"
+        },
+        {
+            "chapter": 8,
+            "verse": 11,
+            "text": "(niṉaivu kūṟuṅkaḷ;) nīṅkaḷ amaitiyaṭaivataṟkāka avaṉ ciṟiyatoru nittirai uṅkaḷai potintu koḷḷumāṟu ceytāṉ; iṉṉum uṅkaḷai ataṉ mūlam tūymaippaṭuttuvataṟkākavum, ṣaittāṉiṉ tīya eṇṇaṅkaḷai uṅkaḷaiviṭṭu nīkkuvataṟkākavum, uṅkaḷ irutayaṅkaḷaip palappaṭutti, uṅkaḷ pātaṅkaḷai uṟutippaṭuttuvataṟkākavum, avaṉ uṅkaḷ mītu vāṉiliruntu maḻai poḻiyac ceytāṉ"
+        },
+        {
+            "chapter": 8,
+            "verse": 12,
+            "text": "(Napiyē!) Um iṟaivaṉ malakkukaḷai nōkki; \"niccayamāka nāṉ uṅkaḷuṭaṉ irukkiṟēṉ; ākavē, nīṅkaḷ muḥmiṉkaḷai uṟutippaṭuttuṅakaḷ; nirākarippōriṉ irutayaṅkaḷil nāṉ tikilai uṇṭākki viṭuvēṉ; nīṅkaḷ avarkaḷ piṭarikaḷiṉ mītu veṭṭuṅkaḷ; avarkaḷuṭaiya viral nuṉikaḷaiyum veṭṭi viṭuṅkaḷ\" eṉṟu (vahī mūlam) aṟivittatai niṉaivu kūṟum"
+        },
+        {
+            "chapter": 8,
+            "verse": 13,
+            "text": "itaṟku kāraṇam; niccayamāka avarkaḷ allāhvukkum, avaṉuṭaiya tūtarukkum virōtam ceytārkaḷ. Evar allāhvukkum, avaṉ tūtarukkum virōtam ceyvārō - niccayamāka allāh kaṭiṉamākat taṇṭaṉai ceypavaṉāka irukkiṟāṉ"
+        },
+        {
+            "chapter": 8,
+            "verse": 14,
+            "text": "itai(taṇṭaṉaiyai)c cuvaiyuṅkaḷ; niccayamāka kāḥpirkaḷukku naraka vētaṉaiyuṇṭu\" eṉṟu (nirākarippōrukkuk) kūṟappaṭum"
+        },
+        {
+            "chapter": 8,
+            "verse": 15,
+            "text": "nampikkai koṇṭavarkaḷē! Nīṅkaḷ nirākarippōraip (pōril) oṉṟu tiraṇṭavarkaḷāka cantittāl avarkaḷukku puṟamutuku kāṭṭātīrkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 16,
+            "text": "(etirikaḷai) veṭṭuvataṟkākavō allatu (tam) kūṭṭattāruṭaṉ cērntu koḷvataṟkākavōyaṉṟi, annāḷil evarēṉum tam puṟamutukaik kāṭṭit tirumpuvārāṉāl, niccayamāka avar allāhviṉ kōpattiṟku uḷḷāki viṭuvār - avar taṅkumiṭam narakamē iṉṉum atu mikavum keṭṭa taṅkumiṭam"
+        },
+        {
+            "chapter": 8,
+            "verse": 17,
+            "text": "(patru pōril) etirikaḷai veṭṭiyavakaḷ nīṅkaḷ alla - allāh tāṉ avarkaḷai veṭṭiṉāṉ; (pakaivarkaḷ mītu maṇṇai) nīr eṟintapōtu ataṉai nīr eṟiyavillai, allāhtāṉ eṟintāṉ; muḥmiṉkaḷai aḻakāṉa muṟaiyil cōtippataṟkākavē allāh ivvāṟu ceytāṉ; niccayamāka allāh (ellāvaṟṟaiyum) cevi ēṟpavaṉākavum, (ellām) aṟipavaṉākavum irukkiṉṟāṉ"
+        },
+        {
+            "chapter": 8,
+            "verse": 18,
+            "text": "iṉṉum, niccayamāka allāh nirākarippōriṉ cūḻcciyai iḻivākki (caktiyaṟṟatāy) ākkuvataṟkum (ivvāṟu ceytāṉ)"
+        },
+        {
+            "chapter": 8,
+            "verse": 19,
+            "text": "(Nirākarippavarkaḷē!) Nīṅkaḷ veṟṟi(yiṉ mūlam tīrppait) tēṭik koṇṭiruntāl, niccayamāka avveṟṟi (muḥmiṉkaḷukku) vantu viṭṭatu iṉiyēṉum nīṅkaḷ (tavaṟai viṭṭu) vilakik koṇṭāl atu uṅkaḷukku nalamāka irukkum; nīṅkaḷ mīṇṭum (pōrukku) vantāl nāṅkaḷum varuvōm; uṅkaḷuṭaiya paṭai evvaḷavu atikamāka iruntālum, atu uṅkaḷukku ettakaiya palaṉaiyum aḷikkātu. Meyyākavē allāh muḥmiṉkaḷōṭu tāṉ irukkiṉṟāṉ (eṉṟu muḥmiṉkaḷē kūṟi viṭuṅkaḷ)"
+        },
+        {
+            "chapter": 8,
+            "verse": 20,
+            "text": "muḥmiṉkaḷē! Nīṅkaḷ allāhvukkum avaṉuṭaiya tūtarukkum kīḻpaṭiyuṅkaḷ; nīṅkaḷ kēṭṭuk koṇṭirukkum nilaiyilēyē avarai puṟakkaṇikkātīrkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 21,
+            "text": "(maṉappūrvamākac) ceviyēṟkāmal iruntukoṇṭē, \"nāṅkaḷ ceviyuṟṟōm\" eṉṟu (nāvāl maṭṭum) colkiṉṟavarkaḷaip pōṉṟu nīṅkaḷ ākiviṭātīrkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 22,
+            "text": "niccayamāka allāhviṭattil uyirppirāṇikaḷil mikka kēvalamāṉavarkaḷ (uṇmaiyai) aṟintu koḷḷāc ceviṭarkaḷum ūmaikaḷum tām"
+        },
+        {
+            "chapter": 8,
+            "verse": 23,
+            "text": "avarkaḷiṭattil ētēṉum naṉmai uṇṭu eṉa allāh aṟintiruntāl, avaṉ avarkaḷaic ceviyēṟkumāṟu ceytiruppāṉ; (avarkaḷ irukkum nilaiyil) avaṉ avarkaḷaic ceviyēṟkac ceytālum avarkaḷ puṟakkaṇittu māṟiyiruppārkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 24,
+            "text": "īmāṉ koṇṭavarkaḷē! Allāhvum, avaṉ tūtarum uṅkaḷai uṅkaḷukku uyir aḷikkakkūṭiya kāriyattiṉpāl aḻaittāl nīṅkaḷ avarkaḷukku patilaḷiyuṅkaḷ; iṉṉum, meyyākavē allāh maṉitaṉukkum avaṉ irutayattiṟkumiṭaiyēyum ātikkam celuttukiṟāṉ eṉpataiyum, avaṉiṭattilēyē nīṅkaḷ oṉṟu cērkkap paṭuvīrkaḷ eṉpataiyum (uṟutiyāka) aṟintu koḷḷuṅkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 25,
+            "text": "Nīṅkaḷ vētaṉaikku payantu koḷḷuṅkaḷ; atu uṅkaḷil aniyāyam ceytavarkaḷai maṭṭumtāṉ kuṟippākap piṭikkum eṉpatillai - niccayamāka allāh taṇṭaṉai aḷippatil kaṭumaiyāṉavaṉ eṉpataiyum naṉku aṟintu koḷḷuṅkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 26,
+            "text": "nīṅkaḷ pūmiyil (makkāvil) ciṟu tokaiyiṉarākavum, palahīṉarkaḷākavum irunta nilaiyil, uṅkaḷai (enta nērattilum) maṉitarkaḷ iṟāñcik koṇṭu ceṉṟu viṭuvārkaḷ eṉṟu nīṅkaḷ payappaṭṭuk koṇṭirunta pōtu avaṉ uṅkaḷukku (matīṉāvil) pukaliṭam aḷittut taṉ utaviyaik koṇṭu uṅkaḷai palappaṭuttiṉāṉ - iṉṉum paricuttamāṉa ākāraṅkaḷaiyum avaṉ uṅkaḷukku aḷittāṉ; ivaṟṟai niṉaivu kūrntu (avaṉukku) nīṅkaḷ naṉṟi celuttuvīrkāḷāka"
+        },
+        {
+            "chapter": 8,
+            "verse": 27,
+            "text": "īmāṉ koṇṭavarkaḷē! Nīṅkaḷ allāhvukkum, (avaṉuṭaiya) tūtarukkum mōcam ceyyātīrkaḷ nīṅkaḷ aṟintu koṇṭē, uṅkaḷiṭamuḷḷa amāṉitap poruṭkaḷilum mōcam ceyyātīrkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 28,
+            "text": "niccayamāka uṅkaḷ celvamum, uṅkaḷ kuḻantaikaḷum (uṅkaḷukkuc) cōtaṉaiyāka irukkiṉṟaṉa niccayamāka allāhviṭattil tāṉ mikavum uyarnta naṟkūli uṇṭu\" eṉpatai nīṅkaḷ naṉku aṟintu koḷḷuṅkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 29,
+            "text": "īmāṉ koṇṭavarkaḷē! Nīṅkaḷ allāhvukku añci naṭantu koḷvīrkaḷāṉāl avaṉ uṅkaḷukku (naṉmai tīmaiyaip) pirittaṟintu naṭakkakkūṭiya nērvaḻi kāṭṭuvāṉ; iṉṉum uṅkaḷai viṭṭum uṅkaḷ pāvaṅkaḷaip pōkki uṅkaḷai maṉṉippāṉ; ēṉeṉil allāh makattāṉa aruṭkoṭaiyuṭaiyavaṉ"
+        },
+        {
+            "chapter": 8,
+            "verse": 30,
+            "text": "(Napiyē!) Um'maic ciṟaippaṭuttavō, allatu um'maik kolai ceyyavō allatu um'mai (ūraiviṭṭu) veḷiyēṟṟiviṭavō nirākarippōr cūḻcciceytatai niṉaivu kūṟuvīrāka avarkaḷum cūḻcci ceytu koṇṭiruntaṉar; allāhvum (avarkaḷukku etirākac) cūḻcci ceytu koṇṭiruntāṉ. Cūḻcci ceyvōril ellām allāh mikavum mēṉṉaiyuṭaiyavaṉ"
+        },
+        {
+            "chapter": 8,
+            "verse": 31,
+            "text": "avarkaḷ mītu nam vacaṉaṅkaḷ ōtik kāṇpikkappaṭṭāl, avarkaḷ, \"nām niccayamāka ivaṟṟai (muṉṉarē) kēṭṭirukkiṉṟōm; nāṅkaḷ nāṭiṉāl itaip pōl colliviṭuvōm; itu muṉṉōrkaḷiṉ kaṭṭukkataikaḷēyaṉṟi vēṟillai\" eṉṟu colkiṟārkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 32,
+            "text": "(iṉṉum nirākarippōr;)\"allāhvē! Itu uṉṉiṭamiruntu vanta uṇmaiyāṉāl, eṅkaḷ mītu vāṉattiliruntu kal māri peyyac cey, allatu eṅkaḷukku nōviṉaimikka vētaṉaiyai aṉuppu!\" Eṉṟu kūṟiṉārkaḷ (ataiyum napiyē! Nīr niṉaivu kūṟum)"
+        },
+        {
+            "chapter": 8,
+            "verse": 33,
+            "text": "āṉāl nīr avarkaḷiṭaiyē irukkum varaiyilum allāh avarkaḷai vētaṉai ceyya māṭṭāṉ; mēlum avarkaḷ pāvamaṉṉippaik kēṭṭuk koṇṭirukkum pōtum allāh avarkaḷai vētaṉai ceypavaṉāka illai"
+        },
+        {
+            "chapter": 8,
+            "verse": 34,
+            "text": "(ikkāraṇaṅkaḷ; illātu) allāh avarkaḷai vētaṉai ceyyāmalirukka (vēṟu kāraṇam) eṉṉa irukkiṟatu? Avarkaḷ (kaḥpāviṉ) kāriyastarkaḷāka illāta nilaiyil anta caṅkaiyāṉa paḷḷikku (makkaḷ celvatai)t taṭukkiṉṟaṉar; ataṉ kāriyastarkaḷ payapaktiyuṭaiyavarkaḷēyaṉṟi (vēṟevarum) irukkamuṭiyātu eṉiṉum avarkaḷil perum pālōr (itaṉai) aṟiyamāṭṭārkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 35,
+            "text": "appaḷḷiyil avarkaḷuṭaiya toḻukaiyellām cīṭṭiyaṭippatum, kai taṭṭuvatumē tavira vēṟillai. (Ākavē maṟumaiyil avarkaḷukkuk kūṟappaṭum;)\"nīṅkaḷ nirākarittatiṉ kāraṇamāka (ippōtu) vētaṉaiyaic cuvaiyuṅkaḷ\" (eṉṟu)"
+        },
+        {
+            "chapter": 8,
+            "verse": 36,
+            "text": "Niccayamāka nirākarippavarkaḷ, allāhviṉ pātaiyai viṭṭum taṭuppataṟkāka taṅkaḷ celvaṅkaḷai celavu ceykiṉṟaṉar; (ivvāṟē avarkaḷ toṭarntu) avaṟṟai celavu ceytu koṇṭiruppārkaḷ - muṭivil (atu) avarkaḷukkē tukkamāka amaintuviṭum; piṉṉar avarkaḷ veṟṟi koḷḷappaṭuvārkaḷ; (iṟutiyil) nirākarippavarkaḷ narakattil oṉṟu cērkkappaṭuvārkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 37,
+            "text": "allāh nallavarkaḷaiyum keṭṭavarkaḷaiyum pirippataṟkākavum, keṭṭavarkaḷ oruvar mītu oruvarāka aṭukkappeṟṟu oṉṟu cērkkappaṭṭapiṉ avarkaḷai narakattil pōṭuvataṟkākavumē (ivvāṟu ceykiṟāṉ; eṉavē) ivarkaḷtām naṣṭamaṭaintavarkaḷ"
+        },
+        {
+            "chapter": 8,
+            "verse": 38,
+            "text": "nirākarippōrukku (napiyē!) Nīr kūṟum; iṉiyēṉum avarkaḷ (viṣamaṅkaḷai) viṭṭum vilakik koḷvārkaḷāṉāl, (avarkaḷ) muṉpu ceyta (kuṟṟaṅkaḷ) avarkaḷukku maṉṉikkappaṭum. (Āṉāl avarkaḷ muṉpōlavē viṣamaṅkaḷ ceyya) mīṇṭum muṟpaṭuvārkaḷāṉāl, muṉceṉṟavarkaḷukkuc ceytatu niccayamāka naṭantēri irukkiṟatu. (Atuvē ivarkaḷukkum)"
+        },
+        {
+            "chapter": 8,
+            "verse": 39,
+            "text": "(muḥmiṉkaḷē! Ivarkaḷuṭaiya) viṣamaṅkaḷ muṟṟilum nīṅki, (allāhviṉ) mārkkam muṟṟilum allāhvukkē ākamvaraiyil avarkaḷuṭaṉ pōr puriyuṅkaḷ; āṉāl avarkaḷ (viṣamaṅkaḷ ceyvatiliruntu) vilakik koṇṭāl - niccayamāka allāh avarkaḷ ceyvatai uṟṟu nōkkiyavaṉākavē irukkiṉṟāṉ"
+        },
+        {
+            "chapter": 8,
+            "verse": 40,
+            "text": "avarkaḷ māṟu ceytāl, niccayamāka allāh uṅkaḷuṭaiya pātukāvalaṉ eṉpatai aṟintu koḷḷuṅkaḷ - avaṉ pātukāppatilum mikac ciṟantavaṉ; iṉṉum utavi ceyvatilum mikavum ciṟantavaṉ"
+        }
+    ]
+}

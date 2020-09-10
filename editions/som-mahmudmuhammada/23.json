@@ -1,0 +1,594 @@
+{
+    "chapter": [
+        {
+            "chapter": 23,
+            "verse": 1,
+            "text": "Waxaa Dhab ahaan u Liibaanay Mu'miniinta"
+        },
+        {
+            "chapter": 23,
+            "verse": 2,
+            "text": "Ah kuwa Salaaddooda ku Khushuuca"
+        },
+        {
+            "chapter": 23,
+            "verse": 3,
+            "text": "Oo ah kuwa Hadalka Macno Darro ka Jeedsada"
+        },
+        {
+            "chapter": 23,
+            "verse": 4,
+            "text": "Oo ah kuwa Fala Zakada «bixiya»"
+        },
+        {
+            "chapter": 23,
+            "verse": 5,
+            "text": "Oo ah kuwa Furuujtooda Ilaaliya"
+        },
+        {
+            "chapter": 23,
+            "verse": 6,
+            "text": "Haweenkooda iyo waxay Hanatay Gacantoodu mooyee, lagurna Dagaalo Taas"
+        },
+        {
+            "chapter": 23,
+            "verse": 7,
+            "text": "Ruuxiise Doona waxaad wax ka Soo Hadhay kuwaasu waa Xad Gudbayaal"
+        },
+        {
+            "chapter": 23,
+            "verse": 8,
+            "text": "Waa kuwa Ammaanadooda iyo Ballankooda Dhawra"
+        },
+        {
+            "chapter": 23,
+            "verse": 9,
+            "text": "waana kuwa Salaadda Ilaaliya"
+        },
+        {
+            "chapter": 23,
+            "verse": 10,
+            "text": "Kuwaasu waa kuwa Dhaxli"
+        },
+        {
+            "chapter": 23,
+            "verse": 11,
+            "text": "oo ah kuwa Dhaxli Firdowsa wayna ku Dhexwaari"
+        },
+        {
+            "chapter": 23,
+            "verse": 12,
+            "text": "Waxaan ka Abuuray Dadka wax laga soo Soocay Dhoobo"
+        },
+        {
+            "chapter": 23,
+            "verse": 13,
+            "text": "Markaasan ka yeellay Dhibic ku Jirta meel Sugan"
+        },
+        {
+            "chapter": 23,
+            "verse": 14,
+            "text": "Markaasaan ka Abuuray Dhibicdii Calaqo kana Abuuray Calaqdii Goosin, kana Abuuray Goosintii Lafo oon Huwinnay Lafihii Hilib Markaasaan ka ahaysinnay Khalqi kale, waxaa Khayr Badnaday Eebaha Abuurkiisu Fiicanyahay"
+        },
+        {
+            "chapter": 23,
+            "verse": 15,
+            "text": "Markaas Idinku Arrintaas ka Dib waad Dhimmaysaan"
+        },
+        {
+            "chapter": 23,
+            "verse": 16,
+            "text": "Markaas Maalinta Qiyaame Laydin soo Bixin"
+        },
+        {
+            "chapter": 23,
+            "verse": 17,
+            "text": "Waxaana ku Abuuray Korkiinna Toddobo Samo mana nihin mid Khalqiga Halmaansan"
+        },
+        {
+            "chapter": 23,
+            "verse": 18,
+            "text": "Waxaan ka soo Dejinay Samada Biyo Qiyaasan, waxaana Dejinay dhulka inaan la Tagnana waan karraa"
+        },
+        {
+            "chapter": 23,
+            "verse": 19,
+            "text": "Waxaana idinku Ahaysiinnay Beero Timir ah iyo Cinabyo oo Dhexdeed Khudaar Badani ku sugantahay ood wax ka Cuntaan"
+        },
+        {
+            "chapter": 23,
+            "verse": 20,
+            "text": "Iyo Geed ka Baxa Dhuur Siina oo soo saarta Subag iyo Koosaar kuwa Cuni"
+        },
+        {
+            "chapter": 23,
+            "verse": 21,
+            "text": "Waxaa idiinku Sugnaaday Xoolaha Waano, waxaana idinka Waraabinnaa waxa Caloosheeda ku Sugan waxaana idinku Sugan Manfaco badan, Xaggeedaadna wax ka Cuntaan"
+        },
+        {
+            "chapter": 23,
+            "verse": 22,
+            "text": "Korkeeda iyo Markabka Korkiisa yaana laydinku Xambaaraa"
+        },
+        {
+            "chapter": 23,
+            "verse": 23,
+            "text": "Waxaan u Dirray (Nabi) Nuux Qoomkiisii wuxuuna Yidhi Qoomkayow Caabuda Eebe idinma sugnaanin Ilaah ka soo Hadhaye, miyeydaan dhawrsanayn"
+        },
+        {
+            "chapter": 23,
+            "verse": 24,
+            "text": "Waxayna Dheheen Madaxdii Gaalowday oo Qoomkiisa ahaa kanu ma aha waxaan Dad idin la midah ahayn, wuxuuna doonayaa inuu idinka Fadilmo, Hadduu Doono Eebe wuxuu soo Dejinlahaa Malaa'ig, manaan ka Maqlin Arrintan Aabayaalkanagii Horeeyey"
+        },
+        {
+            "chapter": 23,
+            "verse": 25,
+            "text": "Ma aha waxaan Nin Waalan ahayn ee Suga Tan iyo Muddo, Geerida"
+        },
+        {
+            "chapter": 23,
+            "verse": 26,
+            "text": "Wuxuu yidhi Eebow iiga Gargaar Beenintooda"
+        },
+        {
+            "chapter": 23,
+            "verse": 27,
+            "text": "Waxaana u waxyoonay ku Samee Doon Ilaalintanada iyo Waxyiganaga, markuu yimaado Amarkanagu oo Burqado Tanuurku, Gali Doonta Nooc kastaba Labo Labo iyo Ehelkaaga Ciddii Hadal u Hor maray (Halaag) mooyee oo ka mid ah Haygulana Hadlin (Xaalka) kuwa Dulmiga falay iyaga waa la Maanshayne"
+        },
+        {
+            "chapter": 23,
+            "verse": 28,
+            "text": "Markaad Korto Adiga iyo inta kula Jirta Doonta waxaad Dhahdaan Mahad Eebaa iska leh ah kan iga koriyey Qoomka Daalimiinta ah"
+        },
+        {
+            "chapter": 23,
+            "verse": 29,
+            "text": "Waxaadna Dhahdaa Eebow I daji Guri la Barakeeyey Adaa u Khayrroon Dejiyee"
+        },
+        {
+            "chapter": 23,
+            "verse": 30,
+            "text": "Arrintaasna waxaa ku Sugan Aayaad waxaana nahay kuwo wax Imtixaama"
+        },
+        {
+            "chapter": 23,
+            "verse": 31,
+            "text": "Markaasaan ahaysiinay Gadaashood Qarni kale"
+        },
+        {
+            "chapter": 23,
+            "verse": 32,
+            "text": "Waxaana u Dirray Dhexdooda Rasuul ka mid ah Caabuda Eebe idiinma sugna Ilaah Eebe ka soo Hadhay ee Miyeydaan Dhawrsanayn"
+        },
+        {
+            "chapter": 23,
+            "verse": 33,
+            "text": "waxay Dheheen Madaxdii Qoomkiisa ee ah kuwii Gaaloobay oo Beeniyey la Kulanka Aakhiro oon ugu Raaxaynay Nolosha Dhaw, kani ma aha waxaan Dad idinla mid ahayn Cunina waxaad Cunaysaan, Cabbina waxaad Cabbaysaan"
+        },
+        {
+            "chapter": 23,
+            "verse": 34,
+            "text": "Haddaad Adeecdaan Dad idila mid ah idinku waa Khasaarteen"
+        },
+        {
+            "chapter": 23,
+            "verse": 35,
+            "text": "ma wuxuu idiin Yaboohi Markaad Dhimataan ood Noqotaan Carro iyo Lafo in laydin soo Boxin"
+        },
+        {
+            "chapter": 23,
+            "verse": 36,
+            "text": "Waa Fogtahay oo Fogtahay waxa laydinku Goodin"
+        },
+        {
+            "chapter": 23,
+            "verse": 37,
+            "text": "Ma aha waxaan Noloshanada Adduunyo ahayn, waanu Dhiman (Qaar) oonnu Noolaan (Qaar) kuwa la soo Bixinna ma Nihin"
+        },
+        {
+            "chapter": 23,
+            "verse": 38,
+            "text": "Mana aha waxaan Nin ku Been Abuurtay Eebe ahayn, mana nihin kuwo u Rumeyn"
+        },
+        {
+            "chapter": 23,
+            "verse": 39,
+            "text": "Wuxuuna yidhi Eebow iiga Gargaar Beenintooda"
+        },
+        {
+            "chapter": 23,
+            "verse": 40,
+            "text": "Wuxuu yidhi Eebe Mudda Yar ka Dib yey ahaan kuwo Nidaamooda"
+        },
+        {
+            "chapter": 23,
+            "verse": 41,
+            "text": "Waxaana ku Qabatay si Xaq ah Qaylo waxaana ka yeellay Daadxoor ee Fagaansho Haw Sugnaado Daaliminta"
+        },
+        {
+            "chapter": 23,
+            "verse": 42,
+            "text": "Markaasaan Ahaysiinay Gadaashood Quruumo kale"
+        },
+        {
+            "chapter": 23,
+            "verse": 43,
+            "text": "Kamana hor marto Ummadi Ajasheeda (Waqtigeeda) kamana Dib marto"
+        },
+        {
+            "chapter": 23,
+            "verse": 44,
+            "text": "Markaasaan Diray Rasuullada nadii oo Israacsan markastooy Ummad u Yimaaddoo Rasuulkoodu waybeeniyaan, waxaana Raacsiinay Qarkood Qaar (Halaag) waxaana ka yeelay Sheeko Fogaanshaana u Sugnaaday Qoomaan (Xaqa) Rumeyn"
+        },
+        {
+            "chapter": 23,
+            "verse": 45,
+            "text": "Markaasaan la Diray (Nabi) Muuse iyo Walaalkiis Haaruun Aayadkanagii iyo Xujo Cad"
+        },
+        {
+            "chapter": 23,
+            "verse": 46,
+            "text": "Xagga Fircoon iyo Jameecadiisii (yaana u dirray) wayna is kibriyeen waxayna ahaayeen Qoom is korraysiiya"
+        },
+        {
+            "chapter": 23,
+            "verse": 47,
+            "text": "waxayna dheheen ma waxaanu u rumayn Labo ruux oo nala mid ah Qoomkooduna anaga na Caabudo"
+        },
+        {
+            "chapter": 23,
+            "verse": 48,
+            "text": "Wayna Beeniyeen waxayna Noqdeen kuwo la Halaagay"
+        },
+        {
+            "chapter": 23,
+            "verse": 49,
+            "text": "Waxaana Siinay (Nabi) Muuse Kitaabka inay Hanuunaan"
+        },
+        {
+            "chapter": 23,
+            "verse": 50,
+            "text": "Waxaana ka yeellay ina Maryamna iyo Hooyadiis Aayad waxaana u Dunnay Meel sare oo Sugnaansho iyo Biyo Socda leh"
+        },
+        {
+            "chapter": 23,
+            "verse": 51,
+            "text": "Rasuullow ka Cuna Xalaasha, Falana Wanaag, Anigu waxaad Falaysan waan Ogahaye"
+        },
+        {
+            "chapter": 23,
+            "verse": 52,
+            "text": "Tanna waa Umaddiinii (Diinta) umad (Diin) kaliya anna waxaan ahay Eebihiin ee iga Dhawrsada"
+        },
+        {
+            "chapter": 23,
+            "verse": 53,
+            "text": "Waxayse y kala Goosteen Amarkooda Dhexdooda Kooxo, Xisbi kastana waxa Agtooda ah yey ku Faraxsanyihiin"
+        },
+        {
+            "chapter": 23,
+            "verse": 54,
+            "text": "ee Isagaga Tag Halmaanshahooda Dhexdiisa Tan iyo Muddo"
+        },
+        {
+            "chapter": 23,
+            "verse": 55,
+            "text": "ma waxay u Malayn waxaannu Siin oo Xoolo iyo Caruur ah"
+        },
+        {
+            "chapter": 23,
+            "verse": 56,
+            "text": "Inaanu u soo Hormarinay Khayraad wax ma Oga"
+        },
+        {
+            "chapter": 23,
+            "verse": 57,
+            "text": "kuwa uun Ka Cabsada Eebahood ka Yaabid"
+        },
+        {
+            "chapter": 23,
+            "verse": 58,
+            "text": "kuwa uun Aayaadka Eebahood Rumeeya"
+        },
+        {
+            "chapter": 23,
+            "verse": 59,
+            "text": "kuwa uun Eebahood aan la Wadaajinin"
+        },
+        {
+            "chapter": 23,
+            "verse": 60,
+            "text": "kuwa Bixin waxa la Siiyay Iyadooy ka Cabsan Quluubtoodu inay Xagga Eebe u Noqon"
+        },
+        {
+            "chapter": 23,
+            "verse": 61,
+            "text": "Kuwaasaa u deg degi Khayraadka una Hormarinay"
+        },
+        {
+            "chapter": 23,
+            "verse": 62,
+            "text": "kuma Mashaqayno Naf waxayna karin, Agtanadana waxaa ah Kitaab ku Hadli Xaq, lamana Dulmiyo Iyagana"
+        },
+        {
+            "chapter": 23,
+            "verse": 63,
+            "text": "waxayse kaga Sugantahay Quluubtoodu Halmaansho Xagga Kaas, waxayna Leeyihiin Camallo Kaas ka Duwan (oo Xun) oy iyagu u Camal Fali"
+        },
+        {
+            "chapter": 23,
+            "verse": 64,
+            "text": "Markaanse ku Qabanno Kuwooda Nicmaysan Cadaab Markaasay Qaylyaan"
+        },
+        {
+            "chapter": 23,
+            "verse": 65,
+            "text": "(Waxaana la Dhihi) ha Qaylyina Maanta Idinku Xagganaga Laydiin kama Gargaaree"
+        },
+        {
+            "chapter": 23,
+            "verse": 66,
+            "text": "Waxay ahayd Aayaadkeygii Tii lagu Akhriyo Korkiinna waxaadse ahaydeen kuwa Cidhibtiinna Dib ugu noqda (Xaqa Diida)"
+        },
+        {
+            "chapter": 23,
+            "verse": 67,
+            "text": "Idinkoo isku Kibrin Quraanka (ama Kacbada iyo Nabiga) Cawaysimina idinkoo Hadal Xun"
+        },
+        {
+            "chapter": 23,
+            "verse": 68,
+            "text": "Miyeyna Fiirinin Quraanka, mise waxaa u Yimid Waxaan U imaanin Aabayaalkoodii hore"
+        },
+        {
+            "chapter": 23,
+            "verse": 69,
+            "text": "Mise waxayna Aqoonin Rasuulkooda oo ay Diidi"
+        },
+        {
+            "chapter": 23,
+            "verse": 70,
+            "text": "Mise waxay Dhihi waa Waalanyahay, wuxuuse Ula Yimid Xaq Badankoodse Xaqay Nici"
+        },
+        {
+            "chapter": 23,
+            "verse": 71,
+            "text": "Hadduu Raaco Xaqu Hawadooda waxaa Fasaadi Lahaa Samooyinka iyo Dhulka iyo waxa u Dhaxeeya, waxaanse Siinay Quraanka wayse ka Jeedsan quraanka"
+        },
+        {
+            "chapter": 23,
+            "verse": 72,
+            "text": "Mise waxaad warsan Kharaj (u Juuro) Ajirka Eebahaabaa Khayr Roon, waana kan u Khayr Badan Arzaaqe"
+        },
+        {
+            "chapter": 23,
+            "verse": 73,
+            "text": "Adiguna waxaad ugu Yeedhi Jid Toosan"
+        },
+        {
+            "chapter": 23,
+            "verse": 74,
+            "text": "Kuwa aan Rumeyn Aakhiroona Jidka way ka lilan"
+        },
+        {
+            "chapter": 23,
+            "verse": 75,
+            "text": "Haddaan u Naxariisanno oon ka Faydno waxa haya oo Dhib ah waxay ku Madax Taagi Xumaantooda iyagoo ku Indho la"
+        },
+        {
+            "chapter": 23,
+            "verse": 76,
+            "text": "Waxaannu ku Qabanay Cadaab umana ayan Hogaansamin «Dulloobin» Eebahood umana Khushuucin"
+        },
+        {
+            "chapter": 23,
+            "verse": 77,
+            "text": "Markaan ku Furro Korkooda Cadaab Daran markaasay Quustaan"
+        },
+        {
+            "chapter": 23,
+            "verse": 78,
+            "text": "Eebe waa kan idiin Yeelay Maqalka, iyo Araga iyo Quluubta wax Yar baadna ku Shugriyeysaan (Eebe)"
+        },
+        {
+            "chapter": 23,
+            "verse": 79,
+            "text": "Eebe waa Kan idinka Abuuray Dhulka Xagiisaana laydiin soo Celina"
+        },
+        {
+            "chapter": 23,
+            "verse": 80,
+            "text": "Eebe waa Kan wax Nooleeya, waxna Dila wuxuuna Leeyahay Iskhilaafka (Kala Duwaanta) Habeenka iyo Maalinta ee Miyeydaan Wax kasayn"
+        },
+        {
+            "chapter": 23,
+            "verse": 81,
+            "text": "Waxayse Dheheen wax la mid ah waxay Dhaheen kuwii hore (Gaaladii)"
+        },
+        {
+            "chapter": 23,
+            "verse": 82,
+            "text": "Waxay Dheheen Ma Markaan Dhimanno oon Noqonno Carro iyo Lafo Miyaa Anaga nala soo Bixin"
+        },
+        {
+            "chapter": 23,
+            "verse": 83,
+            "text": "Waa Naloo Yaboohay Aabayaalkanno kan (Soo Bixinta) horay mana aha kani waxaaan warkii hore ahayn"
+        },
+        {
+            "chapter": 23,
+            "verse": 84,
+            "text": "Waxaad Dhahdaa yaa leh Dhulka iyo waxa ku sugan haddaad wax Ogtihiin"
+        },
+        {
+            "chapter": 23,
+            "verse": 85,
+            "text": "Waxay Odhan Eebe, waxaad Dhahdaa Miyeydaan wax Xusuusanayn"
+        },
+        {
+            "chapter": 23,
+            "verse": 86,
+            "text": "Dheh waayo Eebaha Samooyinka Todobada ah iyo Eebaha Carshiga Wayn"
+        },
+        {
+            "chapter": 23,
+            "verse": 87,
+            "text": "Waxay Odhan Eebe, Dheh Miyeydaan Dhawrsanayn"
+        },
+        {
+            "chapter": 23,
+            "verse": 88,
+            "text": "Dheh Yey yaddiisa ku Jirtaa Xukunka wax kasta, oo wax Magan Galiya, isna aan wax laga Magan galinayn, Haddaad wax Ogtihiin"
+        },
+        {
+            "chapter": 23,
+            "verse": 89,
+            "text": "Waxay Odhan Eebe, Dheh Xaggee Laydiin Sixri"
+        },
+        {
+            "chapter": 23,
+            "verse": 90,
+            "text": "Waxaanse Siinay Xaq waana Beenaalayaal"
+        },
+        {
+            "chapter": 23,
+            "verse": 91,
+            "text": "Ma yeelan Eebe Ilmo, mana aha Miciisa Ilaah (kale) Illeen markaas wuu la Tagi lahaa Ilaah walba wuxuu Abuuray, wuxuuna ka Kormari lahaa (Adkaan lahaa) Qaarkood Qaar, waxaa ka Nasahan Eebe waxay ku Tilmaami"
+        },
+        {
+            "chapter": 23,
+            "verse": 92,
+            "text": "Waa Ogaha waxa Maqan iyo waxa Jooga, wuuna ka Sarreeyaa waxa la Wadaajin"
+        },
+        {
+            "chapter": 23,
+            "verse": 93,
+            "text": "Waxaad Dhahdaa Eebow Hadaad i Tusiso waxa Looyaboohay"
+        },
+        {
+            "chapter": 23,
+            "verse": 94,
+            "text": "Eebow hayga Yeelin Qoomka Daalimiinta ah"
+        },
+        {
+            "chapter": 23,
+            "verse": 95,
+            "text": "Annaguna inaan ku Tusinno waxaan u Yaboohnay waan Karraa"
+        },
+        {
+            "chapter": 23,
+            "verse": 96,
+            "text": "ee Raaci (Dhaafso) Tan Wanaagsan Midda Xun Anagaa og Waxay Tilmaamiye (Sheegi)"
+        },
+        {
+            "chapter": 23,
+            "verse": 97,
+            "text": "Waxaadna Dhahdaa Eebow waxaan kaa Magangalay Waswaaska Shayaadiinta"
+        },
+        {
+            "chapter": 23,
+            "verse": 98,
+            "text": "Waxaana kaa Magan Gali Eebow inay ii Yimaadaan Shayaadiintu"
+        },
+        {
+            "chapter": 23,
+            "verse": 99,
+            "text": "Markuu u Yimaaddo Midkood (Gaalada) Mawdku wuxuu Dhihi Eebow I celiya"
+        },
+        {
+            "chapter": 23,
+            "verse": 100,
+            "text": "Waxaan u Dhawahay inaan Falo Wanaage waxaan ka Tagay, saas ma aha ee waa Hadal uu iska Yidhi Gadaashoodana waxaa ah Barzakh, tan iyo Maalinta la Soo Bixin"
+        },
+        {
+            "chapter": 23,
+            "verse": 101,
+            "text": "Marka la Afuufo Suurka ma Jiro Nasab Dhexdooda Maalintaas, waxna isma Warsadaan"
+        },
+        {
+            "chapter": 23,
+            "verse": 102,
+            "text": "Ciddayse Cuslaato Miisaankiisu (Wanaagga) kuwaasi waa kuwa uun Liibaanay"
+        },
+        {
+            "chapter": 23,
+            "verse": 103,
+            "text": "Ciddayse Fududaato Miisaankiisu kuwaasi waa kuwa Khasaariyey Naftooda Jahannamayna ku Waari"
+        },
+        {
+            "chapter": 23,
+            "verse": 104,
+            "text": "Waxaana Gubi Wajigooda Naarta iyagoo Waji diiran"
+        },
+        {
+            "chapter": 23,
+            "verse": 105,
+            "text": "(Waxaa lagu Dhihi) Miyeyna ahayn Aayaadkanagu kuwa lagu Akhriyo Korkiinna ood Beenin Jirteen"
+        },
+        {
+            "chapter": 23,
+            "verse": 106,
+            "text": "Waxay Dhahaan Eebow waxaa naga Adkaatay Xumaantanadii, waxaana ahayn Qaar Dhunsan"
+        },
+        {
+            "chapter": 23,
+            "verse": 107,
+            "text": "Eebow naga Bixi Xageeda Haddaan u Noqonana Anagaa Daalimiin ah"
+        },
+        {
+            "chapter": 23,
+            "verse": 108,
+            "text": "Wuxuu Dhahaa Eebe ku Fogaada Dhexdeeda Idinkoo (Dullaysan) hana Ila Hadlina"
+        },
+        {
+            "chapter": 23,
+            "verse": 109,
+            "text": "Waxaa Jirtay in Koox ka mid ah Addoomadayda ay Dhahaan Eebow waan Rumaynay Xaqa ee noo Dhaaf noona Naxariiso Adaa Naxariiste u Khayr Roone"
+        },
+        {
+            "chapter": 23,
+            "verse": 110,
+            "text": "Waxaadse ka Yeelateen Jees jees intay idinka Halmaansiiyaan xuskayga ood kuna Qoslayseen"
+        },
+        {
+            "chapter": 23,
+            "verse": 111,
+            "text": "Waan ka Abaal marinay Maanta Samirkoodii Dartiis, iyaga unbaana Liibaanay"
+        },
+        {
+            "chapter": 23,
+            "verse": 112,
+            "text": "Wuxuuna Dhihi Eebe imisa Sanaad ku Nagaateen Dhulka"
+        },
+        {
+            "chapter": 23,
+            "verse": 113,
+            "text": "Waxayna Odhan waxaan ku Nagaanay Maalin ama Maalin Qaarkeed, warsada kuwa wax tiriya «Malaa'gta»"
+        },
+        {
+            "chapter": 23,
+            "verse": 114,
+            "text": "Wuxuu Yidhi Maydaan Nagaanin wax Yar Mooyee Haddaad wax Ogtihiin"
+        },
+        {
+            "chapter": 23,
+            "verse": 115,
+            "text": "ma Waxaad u Malayseen inaan Idiin Abuuray Ciyaar oon idinka Xagganaga loo soo Celinayn"
+        },
+        {
+            "chapter": 23,
+            "verse": 116,
+            "text": "Waxaa Sarreeya Eebaha Xaakimka Xaqa ah Ilaah aan isaga ahayna ma jiro Waana Eebaha Carshiga Sharafta leh"
+        },
+        {
+            "chapter": 23,
+            "verse": 117,
+            "text": "Ciddii Caabudda Eebe la Jirkiisa Ilaah kale oon Xujo lahayn Xisaabtiisu waa uun Eebe Agtiisa, mana Liibaanto Gaalo"
+        },
+        {
+            "chapter": 23,
+            "verse": 118,
+            "text": "Waxaad Dhahdaa Eebow Dhaaf oo Naxariiso adaa Naxariiste u Khayr Roone"
+        }
+    ]
+}

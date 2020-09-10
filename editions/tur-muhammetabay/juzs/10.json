@@ -1,0 +1,639 @@
+{
+    "juzs": [
+        {
+            "chapter": 8,
+            "verse": 41,
+            "text": "va`lemû ennemâ ganimtüm min şey'in feenne lillâhi ḫumüsehû velirrasûli veliẕi-lḳurbâ velyetâmâ velmesâkîni vebni-ssebîli in küntüm âmentüm billâhi vemâ enzelnâ `alâ `abdinâ yevme-lfürḳâni yevme-lteḳe-lcem`ân. vellâhü `alâ külli şey'in ḳadîr"
+        },
+        {
+            "chapter": 8,
+            "verse": 42,
+            "text": "iẕ entüm bil`udveti-ddünyâ vehüm bil`udveti-lḳuṣvâ verrakbü esfele minküm. velev tevâ`attüm laḫteleftüm fi-lmî`âdi velâkil liyaḳdiye-llâhü emran kâne mef`ûlel liyehlike men heleke `am beyyinetiv veyaḥyâ men ḥayye `am beyyineh. veinne-llâhe lesemî`un `alîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 43,
+            "text": "iẕ yürîkehümü-llâhü fî menâmike ḳalîlâ. velev erâkehüm keŝîral lefeşiltüm veletenâza`tüm fi-l'emri velâkinne-llâhe sellem. innehû `alîmüm biẕâti-ṣṣudûr"
+        },
+        {
+            "chapter": 8,
+            "verse": 44,
+            "text": "veiẕ yürîkümûhüm iẕi-tteḳaytüm fî a`yüniküm ḳalîlev veyüḳallilüküm fî a`yünihim liyaḳdiye-llâhü emran kâne mef`ûlâ. veile-llâhi türce`u-l'ümûr"
+        },
+        {
+            "chapter": 8,
+            "verse": 45,
+            "text": "yâ eyyühe-lleẕîne âmenû iẕâ leḳîtüm fieten feŝbütû veẕkürü-llâhe keŝîral le`alleküm tüfliḥûn"
+        },
+        {
+            "chapter": 8,
+            "verse": 46,
+            "text": "veeṭî`ü-llâhe verasûlehû velâ tenâza`û fetefşelû veteẕhebe rîḥuküm vaṣbirû. inne-llâhe me`a-ṣṣâbirîn"
+        },
+        {
+            "chapter": 8,
+            "verse": 47,
+            "text": "velâ tekûnû kelleẕîne ḫaracû min diyârihim beṭarav veriâe-nnâsi veyeṣuddûne `an sebîli-llâh. vellâhü bimâ ya`melûne müḥîṭ"
+        },
+        {
+            "chapter": 8,
+            "verse": 48,
+            "text": "veiẕ zeyyene lehümü-şşeyṭânü a`mâlehüm veḳâle lâ gâlibe lekümü-lyevme mine-nnâsi veinnî cârul leküm. felemmâ terâeti-lfietâni nekeṣa `alâ `aḳibeyhi veḳâle innî berîüm minküm innî erâ mâ lâ teravne innî eḫâfü-llâh. vellâhü şedîdü-l`iḳâb"
+        },
+        {
+            "chapter": 8,
+            "verse": 49,
+            "text": "iẕ yeḳûlü-lmünâfiḳûne velleẕîne fî ḳulûbihim meraḍun garra hâülâi dînühüm. vemey yetevekkel `ale-llâhi feinne-llâhe `azîzün ḥakîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 50,
+            "text": "velev terâ iẕ yeteveffe-lleẕîne keferü-lmelâiketü yaḍribûne vucûhehüm veedbârahüm. veẕûḳû `aẕâbe-lḥarîḳ"
+        },
+        {
+            "chapter": 8,
+            "verse": 51,
+            "text": "ẕâlike bimâ ḳaddemet eydîküm veenne-llâhe leyse biżallâmil lil`abîd"
+        },
+        {
+            "chapter": 8,
+            "verse": 52,
+            "text": "kede'bi âli fir`avne velleẕîne min ḳablihim. keferû biâyâti-llâhi feeḫaẕehümü-llâhü biẕünûbihim. inne-llâhe ḳaviyyün şedîdü-l`iḳâb"
+        },
+        {
+            "chapter": 8,
+            "verse": 53,
+            "text": "ẕâlike bienne-llâhe lem yekü mügayyiran ni`meten en`amehâ `alâ ḳavmin ḥattâ yügayyirû mâ bienfüsihim veenne-llâhe semî`un `alîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 54,
+            "text": "kede'bi âli fir`avne velleẕîne min ḳablihim. keẕẕebû biâyâti rabbihim. feehleknâhüm biẕünûbihim veagraḳnâ âle fir`avn. veküllün kânû żâlimîn"
+        },
+        {
+            "chapter": 8,
+            "verse": 55,
+            "text": "inne şerra-ddevâbbi `inde-llâhi-lleẕîne keferû fehüm lâ yü'minûn"
+        },
+        {
+            "chapter": 8,
+            "verse": 56,
+            "text": "elleẕîne `âhette minhüm ŝümme yenḳuḍûne `ahdehüm fî külli merrativ vehüm lâ yetteḳûn"
+        },
+        {
+            "chapter": 8,
+            "verse": 57,
+            "text": "feimmâ teŝḳafennehüm fi-lḥarbi feşerrid bihim men ḫalfehüm le`allehüm yeẕẕekkerûn"
+        },
+        {
+            "chapter": 8,
+            "verse": 58,
+            "text": "veimmâ teḫâfenne min ḳavmin ḫiyâneten fembiẕ ileyhim `alâ sevâ'. inne-llâhe lâ yüḥibbü-lḫâinîn"
+        },
+        {
+            "chapter": 8,
+            "verse": 59,
+            "text": "velâ yaḥsebenne-lleẕîne keferû sebeḳû. innehüm lâ yü`cizûn"
+        },
+        {
+            "chapter": 8,
+            "verse": 60,
+            "text": "vee`iddû lehüm me-steṭa`tüm min ḳuvvetiv vemir ribâṭi-lḫayli türhibûne bihî `adüvve-llâhi ve`adüvveküm veâḫarîne min dûnihim. lâ ta`lemûnehüm. allâhü ya`lemühüm. vemâ tünfiḳû min şey'in fî sebîli-llâhi yüveffe ileyküm veentüm lâ tużlemûn"
+        },
+        {
+            "chapter": 8,
+            "verse": 61,
+            "text": "vein ceneḥû lisselmi fecnaḥ lehâ vetevekkel `ale-llâh. innehû hüve-ssemî`u-l`alîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 62,
+            "text": "veiy yürîdû ey yaḫde`ûke feinne ḥasbeke-llâh. hüve-lleẕî eyyedeke binaṣrihî vebilmü'minîn"
+        },
+        {
+            "chapter": 8,
+            "verse": 63,
+            "text": "veellefe beyne ḳulûbihim. lev enfaḳte mâ fi-l'arḍi cemî`am mâ ellefte beyne ḳulûbihim velâkinne-llâhe ellefe beynehüm. innehû `azîzün ḥakîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 64,
+            "text": "yâ eyyühe-nnebiyyü ḥasbüke-llâhü vemeni-ttebe`ake mine-lmü'minîn"
+        },
+        {
+            "chapter": 8,
+            "verse": 65,
+            "text": "yâ eyyühe-nnebiyyü ḥarriḍi-lmü'minîne `ale-lḳitâl. iy yeküm minküm `işrûne ṣâbirûne yaglibû mieteyn. veiy yeküm minküm mietüy yaglibû elfem mine-lleẕîne keferû biennehüm ḳavmül lâ yefḳahûn"
+        },
+        {
+            "chapter": 8,
+            "verse": 66,
+            "text": "el'âne ḫaffefe-llâhü `anküm ve`alime enne fîküm ḍa`fâ. feiy yeküm minküm mietün ṣâbiratüy yaglibû mieteyn. veiy yeküm minküm elfüy yaglibû elfeyni biiẕni-llâh. vellâhü me`a-ṣṣâbirîn"
+        },
+        {
+            "chapter": 8,
+            "verse": 67,
+            "text": "mâ kâne linebiyyin ey yekûne lehû esrâ ḥattâ yüŝḫine fi-l'arḍ. türîdûne `araḍa-ddünyâ. vellâhü yürîdü-l'âḫirah. vellâhü `azîzün ḥakîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 68,
+            "text": "levlâ kitâbüm mine-llâhi sebeḳa lemesseküm fîmâ eḫaẕtüm `aẕâbün `ażîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 69,
+            "text": "fekülû mimmâ ganimtüm ḥalâlen ṭayyibâ. vetteḳu-llâh. inne-llâhe gafûrur raḥîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 70,
+            "text": "yâ eyyühe-nnebiyyü ḳul limen fî eydîküm mine-l'esrâ iy ya`lemi-llâhü fî ḳulûbiküm ḫayray yü'tiküm ḫayram mimmâ üḫiẕe minküm veyagfir leküm. vellâhü gafûrur raḥîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 71,
+            "text": "veiy yürîdû ḫiyâneteke feḳad ḫânü-llâhe min ḳablü feemkene minhüm. vellâhü `alîmün ḥakîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 72,
+            "text": "inne-lleẕîne âmenû vehâcerû vecâhedû biemvâlihim veenfüsihim fî sebîli-llâhi velleẕîne evev veneṣarû ülâike ba`ḍuhüm evliyâü ba`ḍ. velleẕîne âmenû velem yühâcirû mâ leküm miv velâyetihim min şey'in ḥattâ yühâcirû. veini-stenṣarûküm fi-ddîni fe`aleykümü-nnaṣru illâ `alâ ḳavmim beyneküm vebeynehüm mîŝâḳun. vellâhü bimâ ta`melûne beṣîr"
+        },
+        {
+            "chapter": 8,
+            "verse": 73,
+            "text": "velleẕîne keferû ba`ḍuhüm evliyâü ba`ḍ. illâ tef`alûhü tekün fitnetün fi-l'arḍi vefesâdün kebîr"
+        },
+        {
+            "chapter": 8,
+            "verse": 74,
+            "text": "velleẕîne âmenû vehâcerû vecâhedû fî sebîli-llâhi velleẕîne evev veneṣarû ülâike hümü-lmü'minûne ḥaḳḳâ. lehüm magfiratüv verizḳun kerîm"
+        },
+        {
+            "chapter": 8,
+            "verse": 75,
+            "text": "velleẕîne âmenû mim ba`dü vehâcerû vecâhedû me`aküm feülâike minküm. veülü-l'erḥâmi ba`ḍuhüm evlâ biba`ḍin fî kitâbi-llâh. inne-llâhe bikülli şey'in `alîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 1,
+            "text": "berâetüm mine-llâhi verasûlihî ile-lleẕîne `âhettüm mine-lmüşrikîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 2,
+            "text": "fesîḥû fi-l'arḍi erbe`ate eşhüriv va`lemû enneküm gayru mü`cizi-llâhi veenne-llâhe muḫzi-lkâfirîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 3,
+            "text": "veeẕânüm mine-llâhi verasûlihî ile-nnâsi yevme-lḥacci-l'ekberi enne-llâhe berîüm mine-lmüşrikîne verasûlüh. fein tübtüm fehüve ḫayrul leküm. vein tevelleytüm fa`lemû enneküm gayru mü`cizi-llâh. vebeşşiri-lleẕîne keferû bi`aẕâbin elîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 4,
+            "text": "ille-lleẕîne `âhettüm mine-lmüşrikîne ŝümme lem yenḳuṣûküm şey'ev velem yüżahirû `aleyküm eḥaden feetimmû ileyhim `ahdehüm ilâ müddetihim. inne-llâhe yüḥibbü-lmütteḳîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 5,
+            "text": "feiẕe-nseleḫa-l'eşhüru-lḥurumü faḳtülü-lmüşrikîne ḥayŝü vecettümûhüm veḫuẕûhüm vaḥṣurûhüm vaḳ`udû lehüm külle merṣad. fein tâbû veeḳâmu-ṣṣalâte veâtevu-zzekâte feḫallû sebîlehüm. inne-llâhe gafûrur raḥîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 6,
+            "text": "vein eḥadüm mine-lmüşrikîne-stecârake feecirhü ḥattâ yesme`a kelâme-llâhi ŝümme eblighü me'meneh. ẕâlike biennehüm ḳavmül lâ ya`lemûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 7,
+            "text": "keyfe yekûnü lilmüşrikîne `ahdün `inde-llâhi ve`inde rasûlihî ille-lleẕîne `âhettüm `inde-lmescidi-lḥarâm. feme-steḳâmû leküm festeḳîmû lehüm. inne-llâhe yüḥibbü-lmütteḳîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 8,
+            "text": "keyfe veiy yażherû `aleyküm lâ yerḳubû fîküm illev velâ ẕimmeh. yürḍûneküm biefvâhihim vete'bâ ḳulûbühüm. veekŝeruhüm fâsiḳûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 9,
+            "text": "işterav biâyâti-llâhi ŝemenen ḳalîlen feṣaddû `an sebîlih. innehüm sâe mâ kânû ya`melûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 10,
+            "text": "lâ yerḳubûne fî mü'minin illev velâ ẕimmeh. veülâike hümü-lmü`tedûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 11,
+            "text": "fein tâbû veeḳâmu-ṣṣalâte veâtevu-zzekâte feiḫvânüküm fi-ddîn. venüfeṣṣilü-l'âyâti liḳavmiy ya`lemûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 12,
+            "text": "vein nekeŝû eymânehüm mim ba`di `ahdihim veṭa`anû fî dîniküm feḳâtilû eimmete-lküfri innehüm lâ eymâne lehüm le`allehüm yentehûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 13,
+            "text": "elâ tüḳâtilûne ḳavmen nekeŝû eymânehüm vehemmû biiḫrâci-rrasûli vehüm bedeûküm evvele merrah. etaḫşevnehüm. fellâhü eḥaḳḳu en taḫşevhü in küntüm mü'minîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 14,
+            "text": "ḳâtilûhüm yü`aẕẕibhümü-llâhü bieydîküm veyuḫzihim veyenṣurküm `aleyhim veyeşfi ṣudûra ḳavmim mü'minîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 15,
+            "text": "veyüẕhib gayża ḳulûbihim. veyetûbü-llâhü `alâ mey yeşâ'. vellâhü `alîmün ḥakîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 16,
+            "text": "em ḥasibtüm en tütrakû velemmâ ya`lemi-llâhü-lleẕîne câhedû minküm velem yetteḫiẕû min dûni-llâhi velâ rasûlihî vele-lmü'minîne velîceh. vellâhü ḫabîrum bimâ ta`melûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 17,
+            "text": "mâ kâne lilmüşrikîne ey ya`mürû mesâcide-llâhi şâhidîne `alâ enfüsihim bilküfr. ülâike ḥabiṭat a`mâlühüm. vefi-nnâri hüm ḫâlidûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 18,
+            "text": "innemâ ya`müru mesâcide-llâhi men âmene billâhi velyevmi-l'âḫiri veeḳâme-ṣṣalâte veâte-zzekâte velem yaḫşe ille-llâhe fe`asâ ülâike ey yekûnû mine-lmühtedîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 19,
+            "text": "ece`altüm siḳâyete-lḥâcci ve`imârate-lmescidi-lḥarâmi kemen âmene billâhi velyevmi-l'âḫiri vecâhede fî sebîli-llâh. lâ yestevûne `inde-llâh. vellâhü lâ yehdi-lḳavme-żżâlimîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 20,
+            "text": "elleẕîne âmenû vehâcerû vecâhedû fî sebîli-llâhi biemvâlihim veenfüsihim a`żamü deraceten `inde-llâh. veülâike hümü-lfâizûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 21,
+            "text": "yübeşşiruhüm rabbühüm biraḥmetim minhü veriḍvâniv vecennâtil lehüm fîhâ ne`îmüm müḳîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 22,
+            "text": "ḫâlidîne fîhâ ebedâ. inne-llâhe `indehû ecrun `ażîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 23,
+            "text": "yâ eyyühe-lleẕîne âmenû lâ tetteḫiẕû âbâeküm veiḫvâneküm evliyâe ini-steḥabbü-lküfra `ale-l'îmân. vemey yetevellehüm minküm feülâike hümu-żżâlimûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 24,
+            "text": "ḳul in kâne âbâüküm veebnâüküm veiḫvânüküm veezvâcüküm ve`aşîratüküm veemvâlün-ḳteraftümûhâ veticâratün taḫşevne kesâdehâ vemesâkinü terḍavnehâ eḥabbe ileyküm mine-llâhi verasûlihî vecihâdin fî sebîlihî feterabbeṣû ḥattâ ye'tiye-llâhü biemrih. vellâhü lâ yehdi-lḳavme-lfâsiḳîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 25,
+            "text": "leḳad neṣarakümü-llâhü fî mevâṭine keŝîrativ veyevme ḥuneynin iẕ a`cebetküm keŝratüküm felem tugni `anküm şey'ev veḍâḳat `aleykümü-l'arḍu bimâ raḥubet ŝümme velleytüm müdbirîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 26,
+            "text": "ŝümme enzele-llâhü sekînetehû `alâ rasûlihî ve`ale-lmü'minîne veenzele cünûdel lem teravhâ ve`aẕẕebe-lleẕîne keferû. veẕâlike cezâü-lkâfirîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 27,
+            "text": "ŝümme yetûbü-llâhü mim ba`di ẕâlike `alâ mey yeşâ'. vellâhü gafûrur raḥîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 28,
+            "text": "yâ eyyühe-lleẕîne âmenû inneme-lmüşrikûne necesün felâ yaḳrabü-lmescide-lḥarâme ba`de `âmihim hâẕâ. vein ḫiftüm `ayleten fesevfe yugnîkümü-llâhü min faḍlihî in şâ'. inne-llâhe `alîmün ḥakîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 29,
+            "text": "ḳâtilü-lleẕîne lâ yü'minûne billâhi velâ bilyevmi-l'âḫiri velâ yüḥarrimûne mâ ḥarrame-llâhü verasûlühû velâ yedînûne dîne-lḥaḳḳi mine-lleẕîne ûtü-lkitâbe ḥattâ yü`ṭü-lcizyete `ay yediv vehüm ṣâgirûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 30,
+            "text": "veḳâleti-lyehûdü `uzeyrun-bnü-llâhi veḳâleti-nneṣâra-lmesîḥu-bnü-llâh. ẕâlike ḳavlühüm biefvâhihim. yüḍâhiûne ḳavle-lleẕîne keferû min ḳabl. ḳâtelehümü-llâh. ennâ yü'fekûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 31,
+            "text": "itteḫaẕû aḥbârahüm veruhbânehüm erbâbem min dûni-llâhi velmesîḥa-bne meryem. vemâ ümirû illâ liya`büdû ilâhev vâḥidâ. lâ ilâhe illâ hû. sübḥânehû `ammâ yüşrikûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 32,
+            "text": "yürîdûne ey yuṭfiû nûra-llâhi biefvâhihim veye'be-llâhü illâ ey yütimme nûrahû velev kerihe-lkâfirûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 33,
+            "text": "hüve-lleẕî ersele rasûlehû bilhüdâ vedîni-lḥaḳḳi liyużhirahû `ale-ddîni küllihî velev kerihe-lmüşrikûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 34,
+            "text": "yâ eyyühe-lleẕîne âmenû inne keŝîram mine-l'aḥbâri verruhbâni leye'külûne emvâle-nnâsi bilbâṭili veyeṣuddûne `an sebîli-llâh. velleẕîne yeknizûne-ẕẕehebe velfiḍḍate velâ yünfiḳûnehâ fî sebîli-llâhi febeşşirhüm bi`aẕâbin elîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 35,
+            "text": "yevme yuḥmâ `aleyhâ fî nâri cehenneme fetükvâ bihâ cibâhühüm vecünûbühüm veżuhûruhüm. hâẕâ mâ keneztüm lienfüsiküm feẕûḳû mâ küntüm teknizûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 36,
+            "text": "inne `iddete-şşühûri `inde-llâhi-ŝnâ `aşera şehran fî kitâbi-llâhi yevme ḫaleḳa-ssemâvâti vel'arḍa minhâ erbe`atün ḥurum. ẕâlike-ddînü-lḳayyimü felâ tażlimû fîhinne enfüseküm veḳâtilü-lmüşrikîne kâffeten kemâ yüḳâtilûneküm kâffeh. va`lemû enne-llâhe me`a-lmütteḳîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 37,
+            "text": "inneme-nnesîü ziyâdetün fi-lküfri yüḍallü bihi-lleẕîne keferû yüḥillûnehû `âmev veyüḥarrimûnehû `âmel liyüvâṭiû `iddete mâ ḥarrame-llâhü feyüḥillû mâ ḥarrame-llâh. züyyine lehüm sûü a`mâlihim. vellâhü lâ yehdi-lḳavme-lkâfirîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 38,
+            "text": "yâ eyyühe-lleẕîne âmenû mâ leküm iẕâ ḳîle lekümü-nfirû fî sebîli-llâhi-ŝŝâḳaltüm ile-l'arḍ. eraḍîtüm bilḥayâti-ddünyâ mine-l'âḫirah. femâ metâ`u-lḥayâti-ddünyâ fi-l'âḫirati illâ ḳalîl"
+        },
+        {
+            "chapter": 9,
+            "verse": 39,
+            "text": "illâ tenfirû yü`aẕẕibküm `aẕâben elîmev veyestebdil ḳavmen gayraküm velâ teḍurrûhü şey'â. vellâhü `alâ külli şey'in ḳadîr"
+        },
+        {
+            "chapter": 9,
+            "verse": 40,
+            "text": "illâ tenṣurûhü feḳad neṣarahü-llâhü iẕ aḫracehü-lleẕîne keferû ŝâniye-ŝneyni iẕ hümâ fi-lgâri iẕ yeḳûlü liṣâḥibihî lâ taḥzen inne-llâhe me`anâ. feenzele-llâhü sekînetehû `aleyhi veeyyedehû bicünûdil lem teravhâ vece`ale kelimete-lleẕîne keferü-ssüflâ. vekelimetü-llâhi hiye-l`ulyâ. vellâhü `azîzün ḥakîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 41,
+            "text": "infirû ḫifâfev veŝiḳâlev vecâhidû biemvâliküm veenfüsiküm fî sebîli-llâh. ẕâliküm ḫayrul leküm in küntüm ta`lemûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 42,
+            "text": "lev kâne `araḍan ḳarîbev veseferan ḳâṣidel lettebe`ûke velâkim be`udet `aleyhimü-şşüḳḳah. veseyaḥlifûne billâhi levi-steṭa`nâ leḫaracnâ me`aküm. yühlikûne enfüsehüm. vellâhü ya`lemü innehüm lekâẕibûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 43,
+            "text": "afe-llâhü `ank. lime eẕinte lehüm ḥattâ yetebeyyene leke-lleẕîne ṣadeḳû veta`leme-lkâẕibîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 44,
+            "text": "lâ yeste'ẕinüke-lleẕîne yü'minûne billâhi velyevmi-l'âḫiri ey yücâhidû biemvâlihim veenfüsihim. vellâhü `alîmüm bilmütteḳîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 45,
+            "text": "innemâ yeste'ẕinüke-lleẕîne lâ yü'minûne billâhi velyevmi-l'âḫiri vertâbet ḳulûbühüm fehüm fî raybihim yeteraddedûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 46,
+            "text": "velev erâdü-lḫurûce lee`addû lehû `uddetev velâkin kerihe-llâhü-mbi`âŝehüm feŝebbeṭahüm veḳîle-ḳ`udû me`a-lḳâ`idîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 47,
+            "text": "lev ḫaracû fîküm mâ zâdûküm illâ ḫabâlev veleevḍa`û ḫilâleküm yebgûnekümü-lfitneh. vefîküm semmâ`ûne lehüm. vellâhü `alîmüm biżżâlimîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 48,
+            "text": "leḳadi-btegavu-lfitnete min ḳablü veḳallebû leke-l'ümûra ḥattâ câe-lḥaḳḳu veżahera emru-llâhi vehüm kârihûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 49,
+            "text": "veminhüm mey yeḳûlü-'ẕel lî velâ teftinnî. elâ fi-lfitneti seḳaṭû. veinne cehenneme lemüḥîṭatüm bilkâfirîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 50,
+            "text": "in tüṣibke ḥasenetün tesü'hüm. vein tüṣibke müṣîbetüy yeḳûlû ḳad eḫaẕnâ emranâ min ḳablü veyetevellev vehüm feriḥûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 51,
+            "text": "ḳul ley yüṣîbenâ illâ mâ ketebe-llâhü lenâ. hüve mevlânâ. ve`ale-llâhi felyetevekkeli-lmü'minûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 52,
+            "text": "ḳul hel terabbeṣûne binâ illâ iḥde-lḥusneyeyn. venaḥnü neterabbeṣu biküm ey yüṣîbekümü-llâhü bi`aẕâbim min `indihî ev bieydînâ. feterabbeṣû innâ me`aküm müterabbiṣûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 53,
+            "text": "ḳul enfiḳû ṭav`an ev kerhel ley yüteḳabbele minküm. inneküm küntüm ḳavmen fâsiḳîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 54,
+            "text": "vemâ mene`ahüm en tuḳbele minhüm nefeḳâtühüm illâ ennehüm keferû billâhi vebirasûlihî velâ ye'tûne-ṣṣalâte illâ vehüm küsâlâ velâ yünfiḳûne illâ vehüm kârihûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 55,
+            "text": "felâ tü`cibke emvâlühüm velâ evlâdühüm. innemâ yürîdü-llâhü liyü`aẕẕibehüm bihâ fi-lḥayâti-ddünyâ vetezheḳa enfüsühüm vehüm kâfirûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 56,
+            "text": "veyaḥlifûne billâhi innehüm leminküm. vemâ hüm minküm velâkinnehüm ḳavmüy yefraḳûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 57,
+            "text": "lev yecidûne melceen ev megârâtin ev müddeḫalel levellev ileyhi vehüm yecmeḥûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 58,
+            "text": "veminhüm mey yelmizüke fi-ṣṣadeḳât. fein ü`ṭû minhâ raḍû veil lem yü`ṭav minhâ iẕâ hüm yesḫaṭûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 59,
+            "text": "velev ennehüm raḍû mâ âtâhümü-llâhü verasûlühû veḳâlû ḥasbüne-llâhü seyü'tîne-llâhü min faḍlihî verasûlühû innâ ile-llâhi râgibûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 60,
+            "text": "inneme-ṣṣadeḳâtü lilfüḳarâi velmesâkîni vel`âmilîne `aleyhâ velmüellefeti ḳulûbühüm vefi-rriḳâbi velgârimîne vefî sebîli-llâhi vebni-ssebîl. ferîḍatem mine-llâh. vellâhü `alîmün ḥakîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 61,
+            "text": "veminhümü-lleẕîne yü'ẕûne-nnebiyye veyeḳûlûne hüve üẕün. ḳul üẕünü ḫayril leküm yü'minü billâhi veyü'minü lilmü'minîne veraḥmetül lilleẕîne âmenû minküm. velleẕîne yü'ẕûne rasûle-llâhi lehüm `aẕâbün elîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 62,
+            "text": "yaḥlifûne billâhi leküm liyürḍûküm. vellâhü verasûlühû eḥaḳḳu ey yürḍûhü in kânû mü'minîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 63,
+            "text": "elem ya`lemû ennehû mey yüḥâdidi-llâhe verasûlehû feenne lehû nâra cehenneme ḫâliden fîhâ. ẕâlike-lḫizyü-l`ażîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 64,
+            "text": "yaḥẕeru-lmünâfiḳûne en tünezzele `aleyhim sûratün tünebbiühüm bimâ fî ḳulûbihim. ḳuli-stehziû. inne-llâhe muḫricüm mâ taḥẕerûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 65,
+            "text": "velein seeltehüm leyeḳûlünne innemâ künnâ neḫûḍu venel`ab. ḳul ebillâhi veâyâtihî verasûlihî küntüm testehziûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 66,
+            "text": "lâ ta`teẕirû ḳad kefertüm ba`de îmâniküm. in na`fü `an ṭâifetim minküm nü`aẕẕib ṭâifetem biennehüm kânû mücrimîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 67,
+            "text": "elmünâfiḳûne velmünâfiḳâtü ba`ḍuhüm mim ba`ḍ. ye'mürûne bilmünkeri veyenhevne `ani-lma`rûfi veyaḳbiḍûne eydiyehüm. nesü-llâhe fenesiyehüm. inne-lmünâfiḳîne hümü-lfâsiḳûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 68,
+            "text": "ve`ade-llâhü-lmünâfiḳîne velmünâfiḳâti velküffâra nâra cehenneme ḫâlidîne fîhâ. hiye ḥasbühüm. vele`anehümü-llâh. velehüm `aẕâbüm müḳîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 69,
+            "text": "kelleẕîne min ḳabliküm kânû eşedde minküm ḳuvvetev veekŝera emvâlev veevlâdâ. festemte`û biḫalâḳihim festemta`tüm biḫalâḳiküm keme-stemte`a-lleẕîne min ḳabliküm biḫalâḳihim veḫuḍtüm kelleẕî ḫâḍû. ülâike ḥabiṭat a`mâlühüm fi-ddünyâ vel'âḫirah. veülâike hümü-lḫâsirûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 70,
+            "text": "elem ye'tihim nebeü-lleẕîne min ḳablihim ḳavmi nûḥiv ve`âdiv veŝemûde veḳavmi ibrâhîme veaṣḥâbi medyene velmü'tefikât. etethüm rusülühüm bilbeyyinât. femâ kâne-llâhü liyażlimehüm velâkin kânû enfüsehüm yażlimûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 71,
+            "text": "velmü'minûne velmü'minâtü ba`ḍuhüm evliyâü ba`ḍ. ye'mürûne bilma`rûfi veyenhevne `ani-lmünkeri veyüḳîmûne-ṣṣalâte veyü'tûne-zzekâte veyüṭî`ûne-llâhe verasûleh. ülâike seyerḥamühümü-llâh. inne-llâhe `azîzün ḥakîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 72,
+            "text": "ve`ade-llâhü-lmü'minîne velmü'minâti cennâtin tecrî min taḥtihe-l'enhâru ḫâlidîne fîhâ vemesâkine ṭayyibeten fî cennâti `adn. veriḍvânüm mine-llâhi ekber. ẕâlike hüve-lfevzü-l`ażîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 73,
+            "text": "yâ eyyühe-nnebiyyü câhidi-lküffâra velmünâfiḳîne vagluż `aleyhim. veme'vâhüm cehennem. vebi'se-lmeṣîr"
+        },
+        {
+            "chapter": 9,
+            "verse": 74,
+            "text": "yaḥlifûne billâhi mâ ḳâlû. veleḳad ḳâlû kelimete-lküfri vekeferû ba`de islâmihim vehemmû bimâ lem yenâlû. vemâ neḳamû illâ en agnâhümü-llâhü verasûlühû min faḍlih. feiy yetûbû yekü ḫayral lehüm. veiy yetevellev yü`aẕẕibhümü-llâhü `aẕâben elîmen fi-ddünyâ vel'âḫirah. vemâ lehüm fi-l'arḍi miv veliyyiv velâ neṣîr"
+        },
+        {
+            "chapter": 9,
+            "verse": 75,
+            "text": "veminhüm men `âhede-llâhe lein âtânâ min faḍlihî leneṣṣaddeḳanne velenekûnenne mine-ṣṣâliḥîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 76,
+            "text": "felemmâ âtâhüm min faḍlihî beḫilû bihî vetevellev vehüm mü`riḍûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 77,
+            "text": "fea`ḳabehüm nifâḳan fî ḳulûbihim ilâ yevmi yelḳavnehû bimâ aḫlefü-llâhe mâ ve`adûhü vebimâ kânû yekẕibûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 78,
+            "text": "elem ya`lemû enne-llâhe ya`lemü sirrahüm venecvâhüm veenne-llâhe `allâmü-lguyûb"
+        },
+        {
+            "chapter": 9,
+            "verse": 79,
+            "text": "elleẕîne yelmizûne-lmüṭṭavvi`îne mine-lmü'minîne fi-ṣṣadeḳâti velleẕîne lâ yecidûne illâ cühdehüm feyesḫarûne minhüm. seḫira-llâhü minhüm. velehüm `aẕâbün elîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 80,
+            "text": "istagfir lehüm ev lâ testagfir lehüm. in testagfir lehüm seb`îne merraten feley yagfira-llâhü lehüm. ẕâlike biennehüm keferû billâhi verasûlih. vellâhü lâ yehdi-lḳavme-lfâsiḳîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 81,
+            "text": "feriḥa-lmüḫallefûne bimaḳ`adihim ḫilâfe rasûli-llâhi vekerihû ey yücâhidû biemvâlihim veenfüsihim fî sebîli-llâhi veḳâlû lâ tenfirû fi-lḥarr. ḳul nâru cehenneme eşeddü ḥarrâ. lev kânû yefḳahûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 82,
+            "text": "felyaḍḥakû ḳalîlev velyebkû keŝîrâ. cezâem bimâ kânû yeksibûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 83,
+            "text": "feir race`ake-llâhü ilâ ṭâifetim minhüm feste'ẕenûke lilḫurûci feḳul len taḫrucû me`iye ebedev velen tüḳâtilû me`iye `adüvvâ. inneküm raḍîtüm bilḳu`ûdi evvele merratin faḳ`udû me`a-lḫâlifîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 84,
+            "text": "velâ tüṣalli `alâ eḥadim minhüm mâte ebedev velâ teḳum `alâ ḳabrih. innehüm keferû billâhi verasûlihî vemâtû vehüm fâsiḳûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 85,
+            "text": "velâ tü`cibke emvâlühüm veevlâdühüm. innemâ yürîdü-llâhü ey yü`aẕẕibehüm bihâ fi-ddünyâ vetezheḳa enfüsühüm vehüm kâfirûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 86,
+            "text": "veiẕâ ünzilet sûratün en âminû billâhi vecâhidû me`a rasûlihi-ste'ẕeneke ülu-ṭṭavli minhüm veḳâlû ẕernâ neküm me`a-lḳâ`idîn"
+        },
+        {
+            "chapter": 9,
+            "verse": 87,
+            "text": "raḍû biey yekûnû me`a-lḫavâlifi veṭubi`a `alâ ḳulûbihim fehüm lâ yefḳahûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 88,
+            "text": "lâkini-rrasûlü velleẕîne âmenû me`ahû câhedû biemvâlihim veenfüsihim. veülâike lehümü-lḫayrât. veülâike hümü-lmüfliḥûn"
+        },
+        {
+            "chapter": 9,
+            "verse": 89,
+            "text": "e`adde-llâhü lehüm cennâtin tecrî min taḥtihe-l'enhâru ḫâlidîne fîhâ. ẕâlike-lfevzü-l`ażîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 90,
+            "text": "vecâe-lmü`aẕẕirûne mine-l'a`râbi liyü'ẕene lehüm veḳa`ade-lleẕîne keẕebü-llâhe verasûleh. seyüṣîbü-lleẕîne keferû minhüm `aẕâbün elîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 91,
+            "text": "leyse `ale-ḍḍu`afâi velâ `ale-lmerḍâ velâ `ale-lleẕîne lâ yecidûne mâ yünfiḳûne ḥaracün iẕâ neṣaḥû lillâhi verasûlih. mâ `ale-lmuḥsinîne min sebîlin. vellâhü gafûrur raḥîm"
+        },
+        {
+            "chapter": 9,
+            "verse": 92,
+            "text": "velâ `ale-lleẕîne iẕâ mâ etevke litaḥmilehüm ḳulte lâ ecidü mâ aḥmilüküm `aleyh. tevellev vea`yünühüm tefîḍu mine-ddem`i ḥazenen ellâ yecidû mâ yünfiḳûn"
+        }
+    ]
+}

@@ -1,0 +1,979 @@
+{
+    "juzs": [
+        {
+            "chapter": 46,
+            "verse": 1,
+            "text": "Eta sura otkryvayetsya nekotorymi bukvami arabskogo alfavita, kak i ryad sur Svyashchennogo Korana"
+        },
+        {
+            "chapter": 46,
+            "verse": 2,
+            "text": "Koran nisposlan Allakhom Vsemogushchim, - Vlastelinom vsego sushchego i Obladatelem glubokoy mudrosti vo vsom, chto On delayet"
+        },
+        {
+            "chapter": 46,
+            "verse": 3,
+            "text": "My sozdali nebesa i zemlyu, a takzhe to, chto mezhdu nimi, po tvordym zakonam i dlya opredelonnykh tseley v sootvetstvii s Nashey mudrost'yu na opredelonnyy srok, cherez kotoryy oni pogibnut. A te, kotoryye otritsayut etu istinu - oni otvergayut i to, o chom byli preduprezhdeny otnositel'no novogo sotvoreniya v Den', kogda lyudi budut voskresheny dlya vozdayaniya"
+        },
+        {
+            "chapter": 46,
+            "verse": 4,
+            "text": "Skazhi tem, kotoryye poklonyayutsya izmyshlennym bogam pomimo Allakha: \"Skazhite mne, kakiye oni vashi bogi, kotorym vy poklonyayetes' pomimo Allakha? Pokazhite mne, chto oni sotvorili na zemle. Ili oni uchastvovali v sozdanii nebes?! Prinesite mne Pisaniye ot Allakha ili kakoy-nibud' sled znaniy prezhnikh narodov, kotoryye podtverdyat vashi utverzhdeniya, yesli vy govorite pravdu"
+        },
+        {
+            "chapter": 46,
+            "verse": 5,
+            "text": "A kto zhe boleye zabluzhdayetsya, chem tot, kto poklonyayetsya vymyshlennym bogam pomimo Allakha, vzyvaya k nim s mol'boy, a oni ne mogut otvetit' na etu mol'bu do kontsa zemnoy zhizni? Nesmotrya na molitvy, oni bezrazlichny k ikh mol'bam i ne chuvstvuyut ikh"
+        },
+        {
+            "chapter": 46,
+            "verse": 6,
+            "text": "Kogda lyudi budut sobrany v Den' voskreseniya dlya rasplaty, eti vymyshlennyye bogi, kotorym mnogobozhniki poklonyayutsya, okazhutsya ikh vragami, otrekutsya ot nikh i otvergnut utverzhdeniye mnogobozhnikov, chto oni zasluzhivayut ikh pokloneniya"
+        },
+        {
+            "chapter": 46,
+            "verse": 7,
+            "text": "Kogda mnogobozhnikam chitayutsya Nashi yasnyye ayaty, oni iz-za neveriya i upryamstva, ne razmyshlyaya o nikh, govoryat: \"Eto - yavnoye koldovstvo"
+        },
+        {
+            "chapter": 46,
+            "verse": 8,
+            "text": "Neuzheli eti nevernyye skazhut: \"Mukhammad sam izmyslil Koran i pripisal yego Allakhu\"? Otvechay im: \"Yesli by ya izmyslil yego, Allakh bez promedleniya nakazal by menya, i vy niskol'ko ne mozhete izbavit' menya ot nakazaniya Allakha. Tol'ko Allakh odin luchshe znayet to, chto vy lozhno rasprostranyayete o Yego ayatakh. Dostatochno Yego Svidetelem v tom, chto ya govoryu pravdu, a vy - lozh'. I tol'ko On - Proshchayushchiy i proshchayet grekh kayushchimsya, obladayet velikoy milost'yu i otsrochivayet nakazaniye greshnikam, chtoby oni raskayalis'"
+        },
+        {
+            "chapter": 46,
+            "verse": 9,
+            "text": "I skazhi im: \"YA ved' ne byl pervym poslannikom, napravlennym Allakhom k lyudyam, chtoby vy otvergali moyu prorocheskuyu missiyu, i ya ne znayu, chto Allakh sdelayet so mnoy ili s vami. YA sleduyu vo vsom, chto ya govoryu i delayu, tol'ko Otkroveniyu, nisposlannomu Allakhom mne. YA - tol'ko uveshchevatel', kotoryy yasno uveshchevayet vas"
+        },
+        {
+            "chapter": 46,
+            "verse": 10,
+            "text": "I sprosi ikh: \"Skazhite mne, yesli Koran nisposlan Allakhom, a vy ne uverovali v nego, no odin iz synov Israila, zasvidetel'stvovav nisposlaniye Allakhom Pisaniya, podobnogo Koranu, uveroval v nego, a vy vozgordilis', ne schitayetes' li vy togda samymi zabludshimi sredi lyudey i samymi nespravedlivymi k sebe sredi nikh?! Poistine, Allakh ne nastavlyayet na pryamoy put' tekh, kto vredit sebe, sovershaya bezzakoniya, i vozgordilsya, ne sleduya istine"
+        },
+        {
+            "chapter": 46,
+            "verse": 11,
+            "text": "Te, kotoryye ne veruyut, izdevayas', vysokomerno govoryat o tekh, kotoryye uverovali: \"Yesli by to, s chem Mukhammad prishol, bylo blagom, ne operedili by oni (veruyushchiye) nas v vere v nego. Ved' my znatnyye i obladayem vlast'yu i bol'shim umom\". A raz oni ne byli nastavleny na pryamoy put' Koranom, oni, starayas' oporochit' yego, govoryat: \"Eto - davnyaya lozh' iz skazaniy prezhnikh"
+        },
+        {
+            "chapter": 46,
+            "verse": 12,
+            "text": "I do Korana Allakh nisposlal Toru v kachestve nastavleniya, primera i milosti dlya tekh, kotoryye rukovodstvuyutsya yeyu. A etot Koran, kotoryy oni otvergayut, podtverzhdayet nisposlannyye do nego Pisaniya. Allakh nisposlal yego na arabskom yazyke, chtoby on byl postoyannym uveshchevaniyem nepravednym, tvoryashchim bezzakoniya, i radostnoy vest'yu dlya blagodeyushchikh, kotoryye idut pryamym putom, priderzhivayas' shariata Allakha"
+        },
+        {
+            "chapter": 46,
+            "verse": 13,
+            "text": "Poistine, tekh, kotoryye skazali: \"Nash Gospod' - tol'ko Allakh\",- a potom sovershali blagochestivyye, pravednyye deyaniya, ne okhvatit ni strakh ottogo, chto ikh postignet nepriyatnost', ni pechal' o tom, chto ikh minuyet chto-libo zhelannoye"
+        },
+        {
+            "chapter": 46,
+            "verse": 14,
+            "text": "Eti lyudi, kotoryye priderzhivayutsya yedinobozhiya i sovershayut pravednyye deyaniya, voydut v ray, gde oni vechno budut prebyvat'. Allakh daroval im etu milost' kak vozdayaniye za to, chto oni sovershali blagochestivyye dela"
+        },
+        {
+            "chapter": 46,
+            "verse": 15,
+            "text": "My zapovedali cheloveku byt' blagodeyushchim i khorosho otnosit'sya k svoim roditelyam. Mat' nosila yego v chreve s tyagost'yu, rodila yego s tyagost'yu, a srok beremennosti i kormleniya grud'yu - tridtsat' mesyatsev, v kotoryye ona ispytyvala vse vidy muk, stradala i muchilas'. Kogda zhe on dostignet vershiny svoyey zrelosti i razuma, dostignet soroka let, on govorit: \"Gospodi! Vnushi mne byt' blagodarnym za Tvoyu milost', kotoruyu Ty okazal mne i moim roditelyam, i vnushi mne, chtoby ya tvoril dobroye, ugodnoye Tebe deyaniye, i pust' moyo potomstvo budet blagochestivym i pravednym. Poistine, ya kayus' pered Toboy vo vsekh moikh grekhakh, i ya iz tekh, kotoryye predalis' Tebe i priderzhivayutsya islama"
+        },
+        {
+            "chapter": 46,
+            "verse": 16,
+            "text": "Ot tekh, kotoryye obladayut etimi pokhval'nymi kachestvami, My prinimayem dobryye deyaniya i proshchayem im pregresheniya. Oni - v chisle obitateley raya, soglasno istinnomu obeshchaniyu, dannomu im v zemnoy zhizni"
+        },
+        {
+            "chapter": 46,
+            "verse": 17,
+            "text": "A u togo, kto skazal svoim roditelyam, kogda oni prizvali yego uverovat' v voskreseniye, razdrazhayas' protiv nikh i gnevno oprovergaya ikh: \"T'fu na vas! Neuzheli vy obeshchayete mne, chto menya podnimut iz mogily? Ved' do menya uzhe umerli pokoleniya, i nikto iz nikh ne byl voskreshon i izvedon iz mogil!\"- roditeli vzyvayut k Allakhu, obrashchayas' k Nemu za pomoshch'yu, poskol'ku oni znayut kakoy tyazhkiy grekh on sovershayet i govoryat yemu, pobuzhdaya yego k vere: \"Pogibnesh', yesli ne uveruyesh'! Poistine, obeshchaniye Allakha o voskreshenii - istina\". On zhe, uporstvuya v otritsanii, govorit: \"To, chto vy govorite - lish' skazki prezhnikh pokoleniy"
+        },
+        {
+            "chapter": 46,
+            "verse": 18,
+            "text": "Tekh, kotoryye govoryat tak, resheno nakazat' v chisle prezhnikh narodov iz dzhinnov i lyudey, poskol'ku oni poterpeli ubytok"
+        },
+        {
+            "chapter": 46,
+            "verse": 19,
+            "text": "I dlya musul'man i dlya nevernykh: stupeni vozdayaniya - soglasno ikh deyaniyam, daby byla yasnoy spravedlivost' Allakha k nim i daby On polnost'yu vozdal im za ikh deyaniya. Eto vozdayaniye budet spravedlivym, poskol'ku oni zasluzhivayut yego"
+        },
+        {
+            "chapter": 46,
+            "verse": 20,
+            "text": "V tot Den', kogda nevernyye budut privedeny k ognyu, im budet skazano: \"Vy poluchili vashi blaga v zemnoy zhizni, ischerpali ikh i nasladilis' imi. Segodnya zhe vam ugotovano unizitel'noye nakazaniye v vozdayaniye za vashi nechestivyye deyaniya v zemnoy zhizni za to, chto vy vozgordilis' na zemle bez vsyakogo prava, i za to, chto vy ne povinovalis' Allakhu"
+        },
+        {
+            "chapter": 46,
+            "verse": 21,
+            "text": "Rasskazhi mnogobozhnikam istoriyu Khuda, brata aditov, kogda on predupredil svoy narod, zhivushchiy v al'- Akhkaf - a do nego i posle nego uzhe prikhodili poslanniki s podobnymi uveshchevaniyami, -skazav: \"Ne poklonyaytes' nikomu, krome Allakha. YA boyus', chto vas porazit nakazaniye Dnya velikogo svoim uzhasom"
+        },
+        {
+            "chapter": 46,
+            "verse": 22,
+            "text": "Narod Khuda skazal yemu, poritsaya: \"Neuzheli ty prishol otvratit' nas ot nashikh bogov? Nizvedi na nas nakazaniye, kotoroye ty obeshchayesh' nam, yesli ty pravdiv v svoyom obeshchanii"
+        },
+        {
+            "chapter": 46,
+            "verse": 23,
+            "text": "Khud skazal: \"Tol'ko Allakh znayet, kogda postignet vas nakazaniye. YA peredayu vam to, s chem ya poslan, no ya vizhu, chto vy narod nesvedushchiy v tom, s chem otpravleny poslanniki"
+        },
+        {
+            "chapter": 46,
+            "verse": 24,
+            "text": "K nim prishlo nakazaniye v vide oblakov. Kogda adity uvideli na gorizonte oblaka, napravlyayushchiyesya k ikh dolinam, oni, likuya, skazali: \"Eto oblaka, kotoryye prinesut nam dozhd' i blago\". Im bylo skazano: \"Net! Eto - to, chto vy toropili, - vikhr', nesushchiy vam muchitel'neysheye nakazaniye"
+        },
+        {
+            "chapter": 46,
+            "verse": 25,
+            "text": "On gubit vso po veleniyu svoyego Gospoda\". Etot vikhr' unichtozhil ikh, i nichego ne ostalos' ot nikh, krome ikh zhilishch. Podobnomu nakazaniyu My podvergayem vsekh, kto sovershal podobnyye grekhi"
+        },
+        {
+            "chapter": 46,
+            "verse": 26,
+            "text": "My darovali aditam mogushchestva i bogatstva bol'she, chem My darovali vam, o mekkantsy. My darovali im slukh, zreniye i serdtsa, kotoryye, yesli by oni pozhelali, mogli prinesti im pol'zu, no ni ikh slukh, ni ikh zreniye, ni ikh serdtsa niskol'ko ne pomogli im, tak kak oni otritsali znameniya Allakha, i eto meshalo im pol'zovat'sya tem, chto bylo im darovano, i ikh postiglo nakazaniye, nad kotorym oni izdevalis'"
+        },
+        {
+            "chapter": 46,
+            "verse": 27,
+            "text": "My unichtozhili seleniya, kotoryye byli vokrug vas, o mekkantsy! My privodili im raznyye dovody: mozhet byt', oni otkazhutsya ot svoyego neveriya, no oni ne otstupilis' ot nego"
+        },
+        {
+            "chapter": 46,
+            "verse": 28,
+            "text": "Razve ikh spasli ot unichtozheniya te bogi, kotorym oni poklonyalis' pomimo Allakha, chtoby oni ikh priblizili k Vsevyshnemu?! Ved' eti bogi ne prishli k nim na pomoshch' v to vremya, kogda oni krayne nuzhdalis' v ney. To, chto ikh bogi ne pomogli im i ostavili ikh - nakazaniye za ikh lozh' i izmyshleniya"
+        },
+        {
+            "chapter": 46,
+            "verse": 29,
+            "text": "I rasskazhi im, o Mukhammad, kak My napravili k tebe gruppu dzhinnov, chtoby oni poslushali Koran. Kogda oni uslyshali chteniye Korana, oni skazali drug drugu: \"Slushayte!\" A kogda chteniye zavershilos', oni pospeshili k svoyemu narodu i stali predosteregat' yego ot neveriya i prizyvat' k vere"
+        },
+        {
+            "chapter": 46,
+            "verse": 30,
+            "text": "Oni skazali: \"Narod nash! My slyshali velikoye, vysokochtimoye Pisaniye, nisposlannoye posle Musy, podtverzhdayushcheye prezhniye Bozhestvennyye Pisaniya i vedushcheye k istinnoy vere i spravedlivomu shariatu"
+        },
+        {
+            "chapter": 46,
+            "verse": 31,
+            "text": "Narod nash! Vnemlite tomu, kto zovot k Allakhu i prizyvayet k istine i pryamomu puti, i uveruyte v Allakha, chtoby On prostil vse vashi prezhniye grekhi i izbavil vas ot muchitel'neyshego nakazaniya"
+        },
+        {
+            "chapter": 46,
+            "verse": 32,
+            "text": "A kto ne vnyal poslanniku Allakha, tot ne smozhet spastis' ot Allakha, dazhe yesli on userdno budet iskat' ubezhishche na zemle. I net dlya nego pomimo Allakha zashchitnikov, kotoryye izbavyat yego ot nakazaniya Allakha. Te, kotoryye otkazalis' vnyat' poslanniku Allakha, v zameshatel'stve i yavno daleki ot istiny"
+        },
+        {
+            "chapter": 46,
+            "verse": 33,
+            "text": "Neuzheli oni v nevedenii i ne znayut, chto Allakh, kotoryy sotvoril nebesa i zemlyu bez vsyakogo truda, v silakh ozhivit' mortvykh?! On mozhet ikh ozhivit', poskol'ku On, Vsevyshniy, polnost'yu vlasten nad vsem sushchim"
+        },
+        {
+            "chapter": 46,
+            "verse": 34,
+            "text": "V tot Den', kogda nevernykh privedut k ognyu, poritsaya ikh, im skazhut: \"Razve eto nakazaniye ne istina i ne sootvetstvuyet tomu, o chom My preduprezhdali vas v zemnom mire?!\" Oni otvetyat: \"Da, klyanomsya nashim Gospodom, ono - istina!\". On togda skazhet: \"Vkusite zhe raznyye vidy muchitel'nogo nakazaniya za nastoychivost' v neverii i otritsanii poslannika"
+        },
+        {
+            "chapter": 46,
+            "verse": 35,
+            "text": "Terpi zhe, o Mukhammad, i perenosi nepriyatnosti, kotoryye tebe prichinyayut nevernyye, kak terpeli stoykiye i tvordyye dukhom poslanniki v trudnoye vremya, i ne toropi s ikh nakazaniyem. Ved' ono nepremenno ikh postignet, dazhe spustya dlitel'noye vremya. V tot Den', kogda oni uvidyat uzhasy nakazaniya, im pokazhetsya, chto oni probyli v zemnom mire tol'ko odin chas dnya. To, chto vam vozveshcheno v nazidaniye, - dostatochno dlya nastavleniya. Nikto ne budet pogublen nakazaniyem Allakha, krome tekh, kotoryye ne povinovalis' Yemu"
+        },
+        {
+            "chapter": 47,
+            "verse": 1,
+            "text": "Allakh sdelal tshchetnymi vse dela tekh, kotoryye ne uverovali v Allakha i v Yego poslannika i otvratili drugikh ot prinyatiya islama"
+        },
+        {
+            "chapter": 47,
+            "verse": 2,
+            "text": "A tem, kotoryye uverovali, sovershayut pravednyye deyaniya i veryat v to, chto nisposlano Mukhammadu, - a eto - Istina ot ikh Gospoda, - On otpustit vse grekhi i uporyadochit sostoyaniye ikh del v religii i v zhizni"
+        },
+        {
+            "chapter": 47,
+            "verse": 3,
+            "text": "Eto - vozdayaniye za to, chto nevernyye posledovali lzhi, a te, kotoryye uverovali, posledovali Istine, nisposlannoy ikh Gospodom. Tak Allakh yasno pokazyvayet lyudyam ikh polozheniye, chtoby oni pouchalis'"
+        },
+        {
+            "chapter": 47,
+            "verse": 4,
+            "text": "A kogda vy vstretites' s nevernymi na pole srazheniya, obezglav'te ikh udarom po sheye , a kogda ubiv mnogikh iz nikh, vy oslabite ikh, ukrepite okovy plennykh. Potom, posle okonchaniya boya, libo pomiluyte ikh, osvobodiv bez vykupa, libo osvobodite za vykup, libo obmenyayte ikh na plennykh musul'man. Tak postupayte s nevernymi, poka ne konchitsya voyna. Eto resheniye Allakha otnositel'no nikh. Yesli by Allakh pozhelal, On pokaral by ikh, pobediv bez boya, no On predpisal dzhikhad (bor'bu za veru na puti Allakha), chtoby nevernymi ispytat' veruyushchikh. A te, kotoryye pogibli v bor'be na puti Allakha, - deyaniya ikh Allakh ne sdelayet tshchetnymi"
+        },
+        {
+            "chapter": 47,
+            "verse": 5,
+            "text": "a povedot ikh po pryamomu puti k rayu i ispravit ikh serdtsa"
+        },
+        {
+            "chapter": 47,
+            "verse": 6,
+            "text": "i vvedot ikh v ray, o kotorom On vozvestil im"
+        },
+        {
+            "chapter": 47,
+            "verse": 7,
+            "text": "O vy, kotoryye uverovali! Yesli vy podderzhite religiyu Allakha, boryas' za neyo, On pomozhet vam pobedit' vashego vraga i utverdit vashe delo"
+        },
+        {
+            "chapter": 47,
+            "verse": 8,
+            "text": "A tekh, kotoryye ne uverovali v Allakha, sdelayet neschastnymi, a ikh dela - tshchetnymi"
+        },
+        {
+            "chapter": 47,
+            "verse": 9,
+            "text": "za to, chto oni nenavidyat Koran i predpisaniya Allakha. I Allakh sdelal ikh deyaniya tshchetnymi"
+        },
+        {
+            "chapter": 47,
+            "verse": 10,
+            "text": "Neuzheli oni otkazalis' iskat' nazidaniya i ne khodili po zemle, i ne videli, kakov byl konets tekh, iz prezhnikh pokoleniy, kotoryye otvergli poslannikov, i kak Allakh pogubil ikh i unichtozhil ikh imushchestvo i synovey? I dlya nevernykh, kotoryye ne uverovali v Allakha i v Yego poslannika, budet takoy zhe konets"
+        },
+        {
+            "chapter": 47,
+            "verse": 11,
+            "text": "Takovo vozdayaniye - pobeda veruyushchikh i porazheniye nevernykh, - potomu, chto Allakh - Pokrovitel' veruyushchikh i pomogayet im dostich' pobedy, a u nevernykh net pokrovitelya, kotoryy mozhet podderzhat' ikh i spasti ot gibeli"
+        },
+        {
+            "chapter": 47,
+            "verse": 12,
+            "text": "Poistine, Allakh vvodit tekh, kotoryye uverovali i tvorili dobryye deyaniya v rayskiye sady, gde vnizu tekut reki, a te, kotoryye ne uverovali, korotkiy srok naslazhdayutsya v zemnom mire i yedyat, kak yedyat zhivotnyye, ne dumaya o svoyom kontse i ni o chom ne zabotyas', krome svoikh prikhotey, i v budushchey zhizni oni budut obitatelyami ognya"
+        },
+        {
+            "chapter": 47,
+            "verse": 13,
+            "text": "Mnogikh zhiteley prezhnikh seleniy boleye sil'nykh, chem zhiteli tvoyego goroda - Mekki, - kotoryye zastavili tebya uyti iz nego, o Mukhammad, My pogubili, podvergnuv raznym vidam nakazaniya, i nikto ne izbavil ikh ot Nashego nakazaniya"
+        },
+        {
+            "chapter": 47,
+            "verse": 14,
+            "text": "Neuzheli oni ravny v vozdayanii?! Razve tot, kto khorosho znayet svoyego Tvortsa i Nastavnika i povinuyetsya Yemu, takov, kak tot, kotoromu ukrasheny yego zlyye deyaniya i kotoryy rukovodstvuyetsya svoimi nizmennymi zhelaniyami i strastyami vo vsom, chto on tvorit i ot chego on otkazyvayetsya"
+        },
+        {
+            "chapter": 47,
+            "verse": 15,
+            "text": "Vot opisaniye raya, kotoryy obeshchan bogoboyaznennym: tam tekut reki iz vody, vkus kotoroy ne menyayetsya, i reki iz moloka, vkus kotorogo ne portitsya, i reki iz vina, uslazhdayushchiye togo, kto p'yot, i reki iz prozrachnogo, chistogo moda. Dlya bogoboyaznennykh v nom vse vidy plodov i velikoye proshcheniye ot ikh Gospoda. Neuzheli takoy ray - vozdayaniye bogoboyaznennym - raven vozdayaniyu tomu, kto vechno prebyvayet v ogne i kogo poyat pit'yom kipyashchim, razryvayushchim vnutrennosti"
+        },
+        {
+            "chapter": 47,
+            "verse": 16,
+            "text": "Sredi nevernykh yest' takiye, kotoryye slushayut tebya, o Mukhammad, ne veruya v tebya i ne izvlekaya pol'zy iz togo, chto ty govorish'. I stoit im otoyti ot tebya, kak oni, izdevayas', govoryat tem, komu darovano znaniye: \"Chto eto Mukhammad skazal tol'ko chto?\" Eto - te, na serdtsa kotorykh Allakh nalozhil pechat' neveriya, i oni otvernulis' ot dobra, posledovav za svoimi nizmennymi strastyami"
+        },
+        {
+            "chapter": 47,
+            "verse": 17,
+            "text": "A tekh, kotoryye poshli po puti istiny, Allakh yeshcho bol'she nastavil na pryamoy put' i vselil v ikh serdtsa bogoboyaznennost', kotoraya izbavit ikh ot ognya"
+        },
+        {
+            "chapter": 47,
+            "verse": 18,
+            "text": "A te, kotoryye otvergli poslannika Allakha, ne izvlekli urokov iz nakazaniya, postigshego prezhniye pokoleniya; razve dozhdutsya chego-nibud', krome Sudnogo chasa, kotoryy porazit ikh vnezapno? Ved' poyavilis' uzhe yego primety, no oni ne stali poucheniyem dlya nikh. I k chemu im napominaniye, kogda Sudnyy chas postignet ikh vnezapno"
+        },
+        {
+            "chapter": 47,
+            "verse": 19,
+            "text": "Znay zhe, chto net istinnogo bozhestva, kotoromu sleduyet poklonyat'sya, krome Allakha, i prosi u Nego proshcheniya za tvoi grekhi i grekhi veruyushchikh muzhchin i veruyushchikh zhenshchin. Allakh vedayet vso, chto vy tvorite, kuda vy khodite i mesto vashego prebyvaniya"
+        },
+        {
+            "chapter": 47,
+            "verse": 20,
+            "text": "Te, kotoryye uverovali, govoryat: \"Yesli by byla nisposlana sura, prizyvayushchaya nas borot'sya protiv nevernykh!\" No kogda byvayet nisposlana sura, v kotoroy predpisano srazheniye s nevernymi, to ty vidish', kak te, v ch'ikh serdtsakh litsemeriye, smotryat na tebya zatumanennym ot strakha pered smert'yu i nenavisti k ney vzglyadom. Oni dolzhny byli"
+        },
+        {
+            "chapter": 47,
+            "verse": 21,
+            "text": "povinovat'sya Allakhu i skazat' slovo, odobryayemoye shariatom. Kogda delo stanovitsya ser'yoznym i im nuzhno voyevat', to, yesli oni iskrenne uverovali v Allakha i povinovalis' Yemu, eto dlya nikh bylo by luchshe, chem litsemeriye"
+        },
+        {
+            "chapter": 47,
+            "verse": 22,
+            "text": "Neuzheli ot vas sleduyet ozhidat', o litsemery, chto yesli vy otvratites' ot dzhikhada, to budete rasprostranyat' nechestiye na zemle i razryvat' rodstvennyye svyazi"
+        },
+        {
+            "chapter": 47,
+            "verse": 23,
+            "text": "Oni - te, kotorykh Allakh proklyal, lishiv ikh Svoyego miloserdiya, - slukha, chtoby oni ne slyshali istiny, zreniya, chtoby oni ne videli pryamogo puti"
+        },
+        {
+            "chapter": 47,
+            "verse": 24,
+            "text": "Neuzheli oni nastol'ko oslepli, chto ne osoznayut Koran i ne vidyat, chto Koran - rukovodstvo k pryamomu puti?! Na ikh serdtsa nalozheno to, chto uderzhivayet ikh ot razmyshleniya o Korane"
+        },
+        {
+            "chapter": 47,
+            "verse": 25,
+            "text": "Poistine, tem, kotoryye vernulis' k neveriyu i zabluzhdeniyu posle togo, kak im stalo yasnym rukovodstvo k pryamomu puti, shaytan predstavil eto deyaniye v luchshem svete i obmanul ikh lozhnymi nadezhdami"
+        },
+        {
+            "chapter": 47,
+            "verse": 26,
+            "text": "Oni vernulis' k neveriyu i zabluzhdeniyu, potomu chto oni skazali tem, kotorym nenavistno to, chto nisposlano Allakhom: \"My budem povinovat'sya vam"
+        },
+        {
+            "chapter": 47,
+            "verse": 27,
+            "text": "v nekotorykh delakh\", - a Allakh znayet tayny litsemerov. Takovy oni (litsemery) v zemnom mire, no kakovo budet ikh sostoyaniye, kogda angely pridut k nim, chtoby vyrvat' ikh dushi, i budut bit' ikh po litsam i spinam, podvergaya ikh unizheniyu"
+        },
+        {
+            "chapter": 47,
+            "verse": 28,
+            "text": "Takaya uzhasnaya smert' predstoit im za to, chto oni posledovali za lozh'yu, chto vyzvalo na nikh gnev Allakha, i za nenavist' k istine, ugodnoy Yemu. I Allakh sdelal tshchetnymi vse ikh deyaniya"
+        },
+        {
+            "chapter": 47,
+            "verse": 29,
+            "text": "Neuzheli eti lyudi, v ch'ikh serdtsakh litsemeriye, dumayut, chto Allakh ne raskroyet Svoyemu poslanniku i veruyushchim ikh zloby"
+        },
+        {
+            "chapter": 47,
+            "verse": 30,
+            "text": "Yesli by My pozhelali, My ukazali by tebe na nikh, i ty nepremenno uznal by ikh po primetam, nazvannym Nami; i YA klyanus', ty, nesomnenno, uznayesh' ikh po ikh recham. Allakh zhe znayet vse vashi deyaniya"
+        },
+        {
+            "chapter": 47,
+            "verse": 31,
+            "text": "I klyanus'! My podvergnem vas ispytaniyu, chtoby vyyavit', kto iz vas boretsya na puti Allakha i terpeliv v bede i neschast'ye, i proverit' vashi deyaniya tem, budete vy povinovat'sya Allakhu ili oslushayetes' Yego otnositel'no dzhikhada i drugikh predpisaniy"
+        },
+        {
+            "chapter": 47,
+            "verse": 32,
+            "text": "Poistine, te, kotoryye ne uverovali, otvratili lyudey ot puti Allakha, upryamo i nastoychivo oslushivayas' i protivyas' poslanniku, posle togo kak im stal yasen pryamoy put', ne prichinyat nikakogo vreda Allakhu, a On sdelayet tshchetnymi vse ikh dela"
+        },
+        {
+            "chapter": 47,
+            "verse": 33,
+            "text": "O vy, kotoryye uverovali! Povinuytes' Allakhu, vypolnyaya to, chto On povelel vam, i sleduyte za poslannikom, priderzhivayas' togo, k chemu on prizyvayet vas, i ne delayte svoi dela pustymi, obrativ ikh v prakh"
+        },
+        {
+            "chapter": 47,
+            "verse": 34,
+            "text": "Poistine, tekh, kotoryye ne uverovali i otvrashchali lyudey ot prinyatiya islama, a potom umerli, buduchi nevernymi, Allakh ne prostit"
+        },
+        {
+            "chapter": 47,
+            "verse": 35,
+            "text": "Ne proyavlyayte slabosti, kogda vy vstretites' s vashimi vragami v boyu, i ne prosite mira s nimi, ispugavshis' ikh. Ved' vy imeyete prevoskhodstvo i voz'mote verkh nad nimi blagodarya sile very. Allakh na vashey storone i pomozhet vam oderzhat' pobedu nad nimi, i On ne umen'shit vam nagrady za vashi deyaniya"
+        },
+        {
+            "chapter": 47,
+            "verse": 36,
+            "text": "Poistine, zemnoy mir - vsego lish' prizrak i suyeta. Yesli vy uveruyete, otkazhetes' ot soversheniya grekhov i budete vershit' blagiye deyaniya, to Allakh daruyet vam nagradu i ne potrebuyet ot vas polnost'yu izraskhodovat' vashe imushchestvo"
+        },
+        {
+            "chapter": 47,
+            "verse": 37,
+            "text": "Yesli zhe On potrebuyet ot vas izraskhodovat' yego polnost'yu, to vy skupites', i On pokazhet vashu nenavist' k raskhodovaniyu, poskol'ku vy ochen' lyubite imushchestvo"
+        },
+        {
+            "chapter": 47,
+            "verse": 38,
+            "text": "Vot vas prizyvayut izraskhodovat' iz imushchestva na puti Allakha na to, chto On vam predpisal. No nekotoryye iz vas skupyatsya, i etim oni prichinyayut vred tol'ko samim sebe. Ved' tol'ko Allakh bogat , ni v chom ne nuzhdayetsya, a vy - bedny i nuzhdayetes' v Yego milosti! Poistine, yesli vy otkazhetes' ot povinoveniya Allakhu, to On zamenit vas drugim narodom, kotoryy ne budet pokhozh na vas, a uveruyet i budet povinovat'sya Allakhu"
+        },
+        {
+            "chapter": 48,
+            "verse": 1,
+            "text": "Poistine, My darovali tebe, o Mukhammad, yavnuyu velikuyu pobedu"
+        },
+        {
+            "chapter": 48,
+            "verse": 2,
+            "text": "sposobstvovav pobede istiny nad lozh'yu, chtoby Allakh prostil tebe to, chto schitayetsya grekhom dlya tvoyego dostoinstva i polozheniya - prezhniye grekhi i te, kotoryye budut vposledstvii, i chtoby zavershil On Svoyu milost' tebe rasprostraneniyem islama, tvordo postavil tebya na pryamoy put' Allakha"
+        },
+        {
+            "chapter": 48,
+            "verse": 3,
+            "text": "i daroval tebe velikuyu pobedu nad vragami tvoyego poslaniya"
+        },
+        {
+            "chapter": 48,
+            "verse": 4,
+            "text": "On - Tot, kotoryy nisposlal spokoystviye v serdtsa veruyushchikh, chtoby ikh vera yeshcho bol'she utverdilas' i uvelichilas'. Tol'ko Allakhu odnomu prinadlezhat voinstva nebes i zemli. On vlasten nad nimi i rasporyazhayetsya imi, kak zhelayet. On ob\"yemlet Svoim znaniyem vso sushcheye i obladayet polnoy i sovershennoy mudrost'yu, reshaya vse dela"
+        },
+        {
+            "chapter": 48,
+            "verse": 5,
+            "text": "chtoby Allakh vvol veruyushchikh muzhchin i zhenshchin, kotoryye uverovali v Nego i v Yego poslannika, v rayskiye sady, gde tekut reki, dlya vechnogo prebyvaniya tam. Allakh prostit im ikh durnyye deyaniya. I eto vozdayaniye ot Allakha - velikoye preuspeyaniye"
+        },
+        {
+            "chapter": 48,
+            "verse": 6,
+            "text": "Chtoby On podverg litsemerov i litsemerok nakazaniyu, a takzhe nakazal mnogobozhnikov, muzhchin i zhenshchin, kotoryye pridali Yemu sotovarishchey i plokho dumali ob Allakhe, somnevayas', chto On podderzhit Svoyego poslannika i daruyet yemu pobedu. Da postignet ikh gibel' i unichtozheniye, ot kotorykh ne budet im izbavleniya. Allakh razgnevalsya na nikh i lishil ikh Svoyego miloserdiya, i ugotovil im nakazaniye adskim ognom. A kakoy eto dlya nikh skvernyy konets"
+        },
+        {
+            "chapter": 48,
+            "verse": 7,
+            "text": "Allakhu prinadlezhat voinstva nebes i zemli. On Svoyey mudrost'yu rasporyazhayetsya i upravlyayet imi, kak pozhelayet. On vlasten nad vsem sushchim i obladayet polnoy, sovershennoy mudrost'yu v reshenii vsekh del"
+        },
+        {
+            "chapter": 48,
+            "verse": 8,
+            "text": "Poistine, My poslali tebya, o Mukhammad, svidetelem o svoyey obshchine i o drugikh obshchinakh, kotoryye byli do neyo, dobrovestnikom, raduyushchim bogoboyaznennykh dobroy vest'yu o velikoy nagrade, i uveshchevatelem, preduprezhdayushchim tekh, kto ne povinuyetsya Allakhu, o skvernom nakazanii"
+        },
+        {
+            "chapter": 48,
+            "verse": 9,
+            "text": "chtoby vy, k kotorym otpravlen poslannik, uverovali v Allakha i Yego poslannika i podderzhali religiyu Allakha, boryas' za neyo, vozvelichivali i proslavlyali Allakha, voznosya Yemu khvalu utrom i vecherom, i stavili Yego prevyshe vsego, chto ne podobayet Yemu"
+        },
+        {
+            "chapter": 48,
+            "verse": 10,
+            "text": "Poistine, te, kotoryye prisyagayut tebe v tom, chto oni pozhertvuyut svoyey siloy, podderzhivaya tebya, prisyagayut Allakhu v vernosti. Mogushchestvo Allakha, Yego sila i ikh sila na tvoyey storone. A kto narushit prisyagu i obet, dannyye tebe, tot nanesot vred tol'ko samomu sebe. A tomu, kto veren svoyemu obetu, kotoryy on dal Allakhu, prisyagnuv tebe i sleduya prisyage, Allakh daruyet velikuyu nagradu"
+        },
+        {
+            "chapter": 48,
+            "verse": 11,
+            "text": "Araby-kochevniki, kotorykh ikh litsemeriye uderzhalo ot vystupleniya s toboyu v pokhod, skazhut tebe posle tvoyego vozvrashcheniya iz pokhoda: \"Nam pomeshali vystupit' v pokhod nashi khozyaystvennyye i semeynyye dela. Prosi zhe u Allakha dlya nas proshcheniya\". Oni govoryat svoimi ustami to, chego net v ikh serdtsakh. Otvet' im: \"Kto smozhet khot' skol'ko-nibud' protivostoyat' vole Allakha i Yego neprelozhnomu resheniyu, yesli On pozhelayet prichinit' vam vred ili pozhelayet odarit' vas Svoyey milost'yu?!\" Ved' Allakh ob\"yemlet Svoim znaniyem vso, chto vy delayete"
+        },
+        {
+            "chapter": 48,
+            "verse": 12,
+            "text": "Vy polagali, chto poslannik i veruyushchiye nikogda ne vernutsya iz pokhoda k svoim sem'yam, poetomu vy ne uchastvovali v pokhode i ostalis' doma. Eto predpolozheniye predstavilos' v vashikh serdtsakh v samom raduzhnom svete. Podobnyye porochnyye mysli gospodstvuyut vo vsekh vashikh delakh i, po predopredeleniyu Allakha, vy - giblyy narod, zasluzhivayushchiy Yego gnev i nakazaniye"
+        },
+        {
+            "chapter": 48,
+            "verse": 13,
+            "text": "A chto kasayetsya tekh, kotoryye ne uverovali v Allakha i Yego poslannika, to My ved' ugotovili dlya nevernykh pylayushchiy adskiy ogon'"
+        },
+        {
+            "chapter": 48,
+            "verse": 14,
+            "text": "Allakhu odnomu prinadlezhit vlast' nad nebesami i zemloy. On upravlyayet imi Svoyey moshch'yu i mudrost'yu. On proshchayet grekhi, komu pozhelayet, i nakazyvayet po Svoyey mudrosti, kogo pozhelayet. Poistine, proshcheniye i miloserdiye Allakha veliki"
+        },
+        {
+            "chapter": 48,
+            "verse": 15,
+            "text": "Te iz arabov-kochevnikov, kotorykh uderzhalo ot uchastiya v pokhode s toboy ikh litsemeriye, skazhut: \"Kogda vy otpravites' zabrat' dobychu, kotoruyu Allakh obeshchal vam, razreshite nam poyti s vami za ney\". Etim oni zhelayut peremenit' Slovo Allakha, kotoryy obeshchal etu dobychu tem, kto otpravilsya s poslannikom Allakha k Khudaybiyi. Skazhi im, o Mukhammad: \"Vy ne poydote s nami\". Takoye resheniye - za to, chto oni ne soblyudali poveleniya Allakha darovat' etu dobychu tem, kto otpravilsya v pokhod s Yego poslannikom. Togda oni skazhut: \"Allakh ne daval vam takogo prikaza. Net, vy prosto nam zaviduyete, boyas', chto my podelim s vami dobychu\". Eti slova litsemerov pokazyvayut, chto oni malo smyslyat v predpisaniyakh Allakha"
+        },
+        {
+            "chapter": 48,
+            "verse": 16,
+            "text": "Skazhi tem arabam-kochevnikam, kotoryye ne uchastvovali s toboy v pokhode: \"Vas prizovut srazhat'sya s sil'nymi, groznymi voinami. Yesli vy otvetite na etot prizyv i budete srazhat'sya s nimi, vy poluchite po milosti Allakha ogromnuyu dobychu v etoy zhizni, a v budushchey zhizni dlya vas budet bol'shaya nagrada. No yesli vy otkazhetes' srazit'sya s nimi, kak vy sdelali ran'she, Allakh podvergnet vas muchitel'nomu nakazaniyu"
+        },
+        {
+            "chapter": 48,
+            "verse": 17,
+            "text": "Net grekha na slepom, yesli on ne uchastvuyet v srazhenii protiv nevernykh, takzhe net uproka na khromom ili bol'nom, poskol'ku oni ne v sostoyanii srazhat'sya. A togo, kto povinuyetsya Allakhu i Yego poslanniku, soblyudaya vse Yego poveleniya i zaprety, Allakh vvedot v ray, gde tekut reki. Togo zhe, kto otkazhetsya ot povinoveniya Allakhu i Yego poslanniku, Allakh podvergnet muchitel'nomu nakazaniyu"
+        },
+        {
+            "chapter": 48,
+            "verse": 18,
+            "text": "Allakh byl dovolen veruyushchimi, kogda oni dobrovol'no prisyagnuli tebe pod derevom na vernost'. On vedal ob ikh vernosti i loyal'nosti k tvoyemu poslaniyu, napolnivshikh ikh serdtsa, i nisposlal pokoy na ikh serdtsa za ikh iskrennyuyu prisyagu i blagodarya peremiriyu, kotoroye Allakh pomog im zaklyuchit', i daroval im skoruyu velikuyu pobedu"
+        },
+        {
+            "chapter": 48,
+            "verse": 19,
+            "text": "i bogatuyu dobychu, kotoruyu Allakh obeshchal im. Poistine, Allakh - Vsemogushchiy, vlasten nad vsem sushchim i obladayet polnoy vseob\"yemlyushchey mudrost'yu vo vsom, chto predopredelil"
+        },
+        {
+            "chapter": 48,
+            "verse": 20,
+            "text": "Allakh obeshchal vam bogatuyu dobychu, kotoruyu vy voz'mote v predopredelonnoye Im vremya, i uskoril On dlya vas polucheniye etoy dobychi, i izbavil On vas ot vreda lyudey, chtoby eto bylo svidetel'stvom dlya veruyushchikh, dokazyvayushchim, chto obeshchaniye Allakha im - istina, i chtoby nastavit' vas na pryamoy put', yesli budete povinovat'sya Yemu i sledovat' za Yego poslannikom"
+        },
+        {
+            "chapter": 48,
+            "verse": 21,
+            "text": "I druguyu dobychu, kotoruyu vy ne mogli zakhvatit', On sokhranil dlya vas i pomog vam yeyo vzyat'. Ved' Allakh vlasten nad vsem sushchim"
+        },
+        {
+            "chapter": 48,
+            "verse": 22,
+            "text": "Yesli by nevernyye mekkantsy srazilis' s vami i ne zaklyuchili s vami peremiriya, to oni by otstupili ot strakha pered vami, i ne nashli by oni nikakogo pokrovitelya, kotoryy upravlyal by imi ili zastupilsya by za nikh, i nikakogo pomoshchnika, kotoryy pomog by im"
+        },
+        {
+            "chapter": 48,
+            "verse": 23,
+            "text": "Allakh ustanovil neprelozhnoye pravilo otnositel'no lyudey, i eto pravilo nikogda ne narushalos'. Soglasno yemu konechnuyu pobedu neizmenno oderzhivayut Yego poslanniki i veruyushchiye. I ne nayti tebe peremeny v zakone Allakha i ustanovlennom Im pravile"
+        },
+        {
+            "chapter": 48,
+            "verse": 24,
+            "text": "Tol'ko Allakh uderzhal desnitsy nevernykh, izbaviv vas ot ikh zla, i uderzhal vashi desnitsy ot togo, chtoby vy ne srazilis' s nimi v tsentre Mekki posle togo, kak On daroval vam pobedu nad nimi. Poistine, Allakh vidit vso, chto vy delayete"
+        },
+        {
+            "chapter": 48,
+            "verse": 25,
+            "text": "Mekkantsy - te, kotoryye ne uverovali, zapretili vam voyti v Zapretnuyu mechet' i uderzhali zhivotnykh, kotorykh vy prignali dlya zhertvoprinosheniya, ne dav im vozmozhnosti doyti do mesta zakalyvaniya. Yesli by ne bylo strakha za veruyushchikh muzhchin i zhenshchin, zhivushchikh sredi mekkantsev, kotorykh vy ne znayete i kotorykh, ne vedaya ob etom, vy mogli by ubit' i etim navlech' na sebya styd i pozor, My dali by vam volyu i pobudili by vas srazit'sya s nimi. No My uderzhali vas ot etogo, chtoby, okazyvaya Svoyu milost', okhranit' veruyushchikh mekkantsev, kotoryye vtayne prinyali islam, i tekh iz nevernykh, kotoryye prinyali islam. Yesli by mekkanskiye veruyushchiye i nevernyye razdelilis' i otlichalis' drug ot druga, to My by podvergli muchitel'nomu nakazaniyu tekh, kto uporstvoval v neverii"
+        },
+        {
+            "chapter": 48,
+            "verse": 26,
+            "text": "V to vremya, kak te, kotoryye ne uverovali, napolnili svoi serdtsa vysokomeriyem i chvanstvom, kharakternymi dlya vremon dzhakhiliyi (doislamskikh vremon), Allakh nizvol na Svoyego poslannika i veruyushchikh spokoystviye i sdelal neotluchnym ot nikh Slovo, okhranyayushcheye ot mnogobozhiya i nakazaniya (shakhada). Veruyushchiye byli boleye dostoyny i boleye zasluzhili eto Slovo. Poistine, Allakh ob\"yemlet Svoim znaniyem vso sushcheye"
+        },
+        {
+            "chapter": 48,
+            "verse": 27,
+            "text": "I pretvoril Allakh son Svoyego poslannika o vkhozhdenii v Zapretnuyu mechet' v yav'. Allakh poklyalsya: \"Vy nepremenno voydote v Zapretnuyu mechet', yesli na eto budet volya Allakha, chuvstvuya sebya v bezopasnosti ot svoyego vraga, s obritymi golovami ili korotko podstrizhennymi volosami, ne ispytyvaya strakha. Ved' Allakh - khvala Yemu! - znal blago, zaklyuchonnoye v otsrochke vam vkhoda v Zapretnuyu mechet', kotorogo vy ne znali. I daroval On vam, prezhde chem voyti v neyo, blizkuyu pobedu"
+        },
+        {
+            "chapter": 48,
+            "verse": 28,
+            "text": "Allakh - Tot, kotoryy napravil Svoyego poslannika s yasnym rukovodstvom k pryamomu puti i s istinnoy religiyey (islamom), chtoby prevoznesti yeyo nad vsemi drugimi religiyami. I dostatochno, chto Allakh svidetel' etogo"
+        },
+        {
+            "chapter": 48,
+            "verse": 29,
+            "text": "Mukhammad - poslannik Allakha - i yego spodvizhniki surovy k nevernym, no drug k drugu proyavlyayut sochuvstviye i miloserdiye. Ty chasto vidish' ikh preklonyayushchimisya, padayushchimi nits, ishcha velikoy nagrady ot Allakha i zhelaya priobresti Yego blagosklonnost'. Primety ikh - ochevidnoye smireniye i pokornost' Allakhu na ikh litsakh ottogo, chto oni mnogo molyatsya. Takov velikiy obraz ikh v Tore. V Yevangelii zhe obraz ikh - posev, kotoryy puskayet svoy rostok, potom on stanovitsya krepkim i tolstym, vypryamlyayetsya na steble, privodya v voskhishcheniye seyateley. Veruyushchiye podobny etomu rasteniyu, chtoby moshch'yu veruyushchikh Allakh vyzval u nevernykh gnev. Allakh obeshchal tem iz nikh, kotoryye uverovali i tvorili pravednyye deyaniya, proshcheniye vsekh ikh grekhov i shchedruyu i velikuyu nagradu"
+        },
+        {
+            "chapter": 49,
+            "verse": 1,
+            "text": "O vy, kotoryye uverovali! Ne reshayte chto-libo otnositel'no voprosov religii ili zhizni, prezhde chem Allakh i Yego poslannik ne povelyat vam eto sdelat', i izbegayte nakazaniya Allakha, priderzhivayas' Yego shariata. Poistine, Allakh slyshit vso, o chom vy govorite, i On ob\"yemlet Svoim znaniyem vso sushcheye"
+        },
+        {
+            "chapter": 49,
+            "verse": 2,
+            "text": "O vy, kotoryye uverovali! Ne podnimayte svoi golosa vyshe golosa proroka, yesli vy beseduyete s nim, i ne govorite s nim gromko, kak vy govorite drug s drugom, chtoby vashi dela ne stali tshchetnymi, a vy ob etom i ne dumayete"
+        },
+        {
+            "chapter": 49,
+            "verse": 3,
+            "text": "Poistine, te, kotoryye ponizhayut svoy golos v prisutstvii poslannika Allakha, uvazhaya yego, - eto tol'ko te, serdtsa kotorykh Allakh ochistil dlya bogoboyaznennosti i v nikh ne ostalos' mesta dlya chego- libo drugogo. Im - velikoye proshcheniye ikh grekhov i bol'shaya nagrada"
+        },
+        {
+            "chapter": 49,
+            "verse": 4,
+            "text": "Poistine, bol'shinstvo iz tekh, kotoryye tebya klichut, vyzyvaya tebya pozadi tvoikh pokoyev, ne ponimayut, kak nado uvazhat' tvoy san (kak poslannika Allakha)"
+        },
+        {
+            "chapter": 49,
+            "verse": 5,
+            "text": "Yesli by oni, uvazhaya tebya i priderzhivayas' pravil prilichiya, poterpeli, poka ty sam vyydesh' k nim, eto bylo by luchshe dlya ikh very. Poistine, proshcheniye Allakha veliko i Yego miloserdiye bezgranichno"
+        },
+        {
+            "chapter": 49,
+            "verse": 6,
+            "text": "O vy, kotoryye uverovali! Yesli lyuboy nechestivyy, prestupivshiy ustanovleniya shariata Allakha, prishol k vam s kakoy-to vest'yu, udostover'tes' v pravil'nosti soobshcheniya i razuznayte, pravdiv li on, chtoby vy po nevedeniyu ne prichinili vreda nevinovnym, a zatem, uznav, chto oni nevinovny, ne gorevali i ne raskaivalis' v tom, chto vy sovershili"
+        },
+        {
+            "chapter": 49,
+            "verse": 7,
+            "text": "I znayte, o veruyushchiye, chto sredi vas yest' poslannik Allakha. Otsenite zhe yego dolzhnym obrazom, i bud'te iskrenni s nim. Yesli by on slushal sovety slabykh v vere vo mnogikh delakh, vas porazili by beda i gibel'. No Allakh daroval sovershennym i iskrennim iz vas lyubov' k vere i razukrasil yeyo v vashikh serdtsakh, tak chto ne staraytes' razukrasit' to, chto ne nadlezhit. On takzhe vselil v vas nenavist' k neveriyu i otritsaniyu milosti Allakha, nesoblyudeniyu ustanovleniy Yego shariata, nepovinoveniyu Yego poveleniyam. Tol'ko lyudi, obladayushchiye takimi svoystvami, znayut pryamoy put' i tvordo idut po nemu"
+        },
+        {
+            "chapter": 49,
+            "verse": 8,
+            "text": "blagodarya velikoy milosti Allakha i Yego shchedrosti. Poistine, Allakh ob\"yemlet Svoim znaniyem vso sushcheye i obladayet velikoy mudrost'yu vo vsom, chto On reshayet"
+        },
+        {
+            "chapter": 49,
+            "verse": 9,
+            "text": "I yesli dva otryada veruyushchikh budut srazhat'sya drug s drugom, to primirite, o veruyushchiye, ikh! Yesli zhe odin iz otryadov napal na drugoy i otkazalsya primirit'sya, to srazhaytes' s tem, kotoryy otkazalsya pomirit'sya, poka on ne priznayet veleniya Allakha, rukovodstvuyas' Yego shariatom. A yesli on priznayet resheniye Allakha, primirite ikh po sovesti i bud'te spravedlivymi ko vsem lyudyam vo vsekh delakh. Poistine, Allakh lyubit spravedlivykh i bespristrastnykh"
+        },
+        {
+            "chapter": 49,
+            "verse": 10,
+            "text": "Poistine, veruyushchiye v Allakha i v Yego poslannika - brat'ya. Vera ob\"yedinila ikh serdtsa. Tak primirite zhe svoikh brat'yev radi bratstva v vere i zashchitite sebya ot nakazaniya Allakha, vypolnyaya to, chto On povelel, i, otkazyvayas' ot togo, chto On zapretil, zhelaya, chtoby On pomiloval vas za vashu bogoboyaznennost'"
+        },
+        {
+            "chapter": 49,
+            "verse": 11,
+            "text": "O vy, kotoryye uverovali! Pust' odni muzhchiny iz vas ne izdevayutsya nad drugimi. Mozhet byt', te, nad kotorymi oni smeyutsya, luchshe ikh u Allakha. I pust' ne izdevayutsya veruyushchiye zhenshchiny nad drugimi veruyushchimi zhenshchinami. Mozhet byt', te, nad kotorymi oni glumyatsya, luchshe ikh u Allakha. I ne poroch'te drug druga zlosloviyem i ne zovite drug druga obidnymi, zlymi prozvishchami. Ved' ochen' skverno nazyvat' cheloveka nechestivym, posle togo kak on uveroval. A kto ne otkazhetsya ot togo, chto Allakh yemu zapretil, tot nespravedliv k sebe i k drugim. Ved' on sebe i drugim prichinyayet zlo"
+        },
+        {
+            "chapter": 49,
+            "verse": 12,
+            "text": "O vy, kotoryye uverovali! Izbegayte podozreniy i durnykh mysley otnositel'no dobrykh lyudey. Ved' nekotoryye podozreniya - grekh, kotoryy zasluzhivayet nakazaniya, i ne podglyadyvayte za musul'manami, vyiskivaya ikh nedostatki, i ne ponosite drug druga za glaza. Razve kto-libo iz vas pozhelayet yest' myaso svoyego pokoynogo brata?! Ved' eto vyzyvayet u vas tol'ko otvrashcheniye. Tak pust' zhe dlya vas budet takim zhe otvratitel'nym ponosheniye za glaza. Izbegayte nakazaniya Allakha, vypolnyaya to, chto On povelel vam, i storonyas' togo, chto On vam zapretil. Poistine, proshcheniye Allakhom kayushchikhsya veliko, a Yego miloserdiye k obitatelyam mirov bezgranichno"
+        },
+        {
+            "chapter": 49,
+            "verse": 13,
+            "text": "O lyudi! My sotvorili vas ravnymi ot odnogo muzhchiny i odnoy zhenshchiny - Adama i Khavvy - i, razmnozhiv vas, sdelali mnogimi narodami i raznymi plemenami, chtoby vy znali drug druga i sotrudnichali drug s drugom. Poistine, pered Allakhom samyy dostoynyy i pochtennyy iz vas na etom i na tom svete - naiboleye bogoboyaznennyy. Poistine, Allakh ob\"yemlet vso sushcheye Svoim znaniyem. On Svedushch i ot Nego nichto ne skroyetsya"
+        },
+        {
+            "chapter": 49,
+            "verse": 14,
+            "text": "Beduiny skazali tol'ko na slovakh: \"My uverovali\". Skazhi im, o Mukhammad: \"Net, vy ne uverovali, potomu chto vy ne osoznali svoim serdtsem to, chto vy slovesno zayavili. Luchshe skazhite: \"My dlya vida prinyali islam\". Ved' vera yeshcho ne voshla v vashi serdtsa. Yesli vy budete iskrenne povinovat'sya Allakhu i Yego poslanniku, to On niskol'ko ne umalit voznagrazhdeniya za vashi deyaniya. Poistine, proshcheniye Allakhom Svoikh rabov veliko, a Yego miloserdiye bezgranichno i okhvatyvayet vso sushcheye"
+        },
+        {
+            "chapter": 49,
+            "verse": 15,
+            "text": "Poistine, iskrenniye veruyushchiye - te, kotoryye uverovali v Allakha i v Yego poslannika. I potom ikh serdtsa ne ispytyvali somneniy otnositel'no togo, vo chto oni uverovali, i, povinuyas' Allakhu, oni borolis' na Yego puti, zhertvuya svoim imushchestvom i svoyey zhizn'yu. Tol'ko oni iskrenni v svoyey vere"
+        },
+        {
+            "chapter": 49,
+            "verse": 16,
+            "text": "Skazhi im, o Mukhammad, oprovergaya ikh slova o tom, chto oni uverovali: \"Neuzheli vy soobshchite Allakhu, chto vy uverovali svoim serdtsem, khotya tol'ko On znayet vso, chto v nebesakh, i vso, chto na zemle, a Yego znaniye ob\"yemlet vso sushcheye"
+        },
+        {
+            "chapter": 49,
+            "verse": 17,
+            "text": "Oni schitayut, chto, obrativshis' v islam, oni okazali tebe, o Mukhammad, milost', za kotoruyu ty obyazan ikh blagodarit'. Skazhi im: \"Ne schitayte, chto, prinyav islam, vy okazali mne milost'. Ved' on prinesot vam blago. Naprotiv, eto Allakh pochtil vas Svoyeyu milost'yu, nastaviv vas na put' very, yesli vy iskrenni v svoyom utverzhdenii"
+        },
+        {
+            "chapter": 49,
+            "verse": 18,
+            "text": "Poistine, Allakh znayet vso, chto skryto v nebesakh i na zemle, i ob\"yemlet Svoim znaniyem vse vashi deyaniya"
+        },
+        {
+            "chapter": 50,
+            "verse": 1,
+            "text": "Kaf. Etoy bukvoy iz alfavita otkryvayetsya sura, podobno nekotorym suram Svyashchennogo Korana, kotoryye otkryvayutsya bukvami iz alfavita kak vyzov lyudyam i chtoby privlech' ikh vnimaniye k slushaniyu Korana. Klyanus' Svyashchennym, Blagorodnym i Vysokochtimym Koranom"
+        },
+        {
+            "chapter": 50,
+            "verse": 2,
+            "text": "My poslali tebya, Mukhammad, chtoby uveshchevat' lyudey Koranom. No mekkantsy ne uverovali i udivilis' tomu, chto k nim prishol poslannik iz nikh, chtoby uveshchevat' ikh o voskresenii. Nevernyye skazali: \"Eto - delo divnoye, udivitel'noye do neveroyatnosti"
+        },
+        {
+            "chapter": 50,
+            "verse": 3,
+            "text": "Neuzheli posle togo, kak my umrom i prevratimsya v prakh, my voskresnem? Eto voskresheniye posle smerti neveroyatno"
+        },
+        {
+            "chapter": 50,
+            "verse": 4,
+            "text": "My znayem, chto zemlya otnimayet ot ikh tela posle smerti. U Nas Kniga - Nebesnaya Skrizhal', kotoraya sokhranyayet mel'chayshiye detali ikh del"
+        },
+        {
+            "chapter": 50,
+            "verse": 5,
+            "text": "Oni ne razmyshlyali o tom, s chem prishol poslannik, a srazu otvergli yego, ne dumaya i ne razmyshlyaya. Oni v smyatenii i somnenii"
+        },
+        {
+            "chapter": 50,
+            "verse": 6,
+            "text": "Neuzheli oni tak nebrezhny, chto ne glyadeli na nebo i ne zamechali, kak ono vozdvignuto nad nimi bez opor, kak My vozdvigli yego sovershennym obrazom i razukrasili planetami, i net v nom nikakikh treshchin ili nedostatkov"
+        },
+        {
+            "chapter": 50,
+            "verse": 7,
+            "text": "I zemlyu My prostorli, utverdili na ney prochnyye gory, osnovy kotorykh daleko ushli v glubinu zemli, i vzrastili na ney razlichnyye vidy prekrasnykh rasteniy, dostavlyayushchikh udovol'stviye smotryashchim"
+        },
+        {
+            "chapter": 50,
+            "verse": 8,
+            "text": "My sdelali eto napominaniyem i nastavleniyem dlya kazhdogo kayushchegosya, pokornogo svoyemu Gospodu raba, razmyshlyayushchego o dokazatel'stvakh Yego mogushchestva"
+        },
+        {
+            "chapter": 50,
+            "verse": 9,
+            "text": "I s neba My nizveli dozhdevuyu vodu, prinosyashchuyu mnogo dobra i blagodati, kotoroy My proizrastili sady s derev'yami, tsvetami i plodami i zlaki"
+        },
+        {
+            "chapter": 50,
+            "verse": 10,
+            "text": "i pal'my, kotoryye podnimayutsya vysoko v nebo, i ch'i grozdi ryadami nesut obil'nyye plody"
+        },
+        {
+            "chapter": 50,
+            "verse": 11,
+            "text": "My ikh proizrastili dlya propitaniya Nashim rabam, i etoy vodoy My ozhivlyayem zemlyu posle togo, kak vysokhli na ney rasteniya. Takim obrazom budet i iskhod mortvykh iz mogil, kogda oni budut voskresheny"
+        },
+        {
+            "chapter": 50,
+            "verse": 12,
+            "text": "I do etikh mekkanskikh nevernykh mnogiye narody ne uverovali, otvergnuv poslannikov: i narod Nukha, i obitateli ar-Rassa (obladateli kolodtsa), i Samud"
+        },
+        {
+            "chapter": 50,
+            "verse": 13,
+            "text": "i Ad, i Faraon, i narod Luta"
+        },
+        {
+            "chapter": 50,
+            "verse": 14,
+            "text": "i zhiteli al'-Ayki, i narod Tubba - vse oni otvergli svoikh poslannikov, poetomu oni zasluzhili gibel', kotoruyu YA im obeshchal"
+        },
+        {
+            "chapter": 50,
+            "verse": 15,
+            "text": "Razve Nasha volya i Nashe mogushchestvo ne v silakh byli sotvorit' ikh v pervyy raz, chtoby My ne smogli ikh voskresit'?! My, po ikh priznaniyu, sotvorili ikh v pervyy raz, no oni v somnenii otnositel'no novogo tvoreniya (t.ye. voskresheniya) posle smerti"
+        },
+        {
+            "chapter": 50,
+            "verse": 16,
+            "text": "Klyanus'! My sotvorili cheloveka i znayem, chto yemu nashoptyvayet yego dusha, a My, poskol'ku vedayem vso o nom, blizhe k nemu, chem sheynaya arteriya, kotoraya schitayetsya samoy blizkoy k nemu"
+        },
+        {
+            "chapter": 50,
+            "verse": 17,
+            "text": "Ved' po pravuyu i levuyu storonu ot cheloveka sidyat dva angela dlya zapisi yego deyaniy"
+        },
+        {
+            "chapter": 50,
+            "verse": 18,
+            "text": "Chelovek ne molvit ni odnogo slova, chtoby ne zapisal yego angel, pristavlennyy k nemu"
+        },
+        {
+            "chapter": 50,
+            "verse": 19,
+            "text": "I pridot (chas) smertel'noy agonii - istina, v kotoroy net somneniya i kotoruyu ty staralsya izbezhat'"
+        },
+        {
+            "chapter": 50,
+            "verse": 20,
+            "text": "I vot zatrubyat v trubu, vozveshchaya voskreseniye, v tot Den', kogda nastignet ikh obeshchannoye Allakhom nakazaniye"
+        },
+        {
+            "chapter": 50,
+            "verse": 21,
+            "text": "I pridot kazhdaya dusha - blagochestivaya ili nechestivaya, - a s neyu pogonyayushchiy yeyo na mesto Suda i svidetel', kotoryy budet svidetel'stvovat' o yeyo deyaniyakh"
+        },
+        {
+            "chapter": 50,
+            "verse": 22,
+            "text": "Potom skazhut, poritsaya tekh, kto otverg poslannikov Allakha i voskreseniye: \"Poistine, ty v zemnom mire byl v nebrezhenii o tom, ot chego ty stradayesh' segodnya. My sorvali s tebya pokrov, kotoryy zakryl ot tebya to, chto postignet tebya v budushchey zhizni, i tvoyo zreniye ostro segodnya"
+        },
+        {
+            "chapter": 50,
+            "verse": 23,
+            "text": "I shaytan, kotoryy byl pristavlen k nemu v zemnom mire, skazhet: \"Vot etot nevernyy, kotoryy so mnoyu, uzhe podgotovlen k adskomu ognyu blagodarya tomu, chto ya yego vvol v zabluzhdeniye"
+        },
+        {
+            "chapter": 50,
+            "verse": 24,
+            "text": "Dvum angelam budet skazano: \"Vvergayte v ad kazhdogo, kto uporstvoval v svoyom neverii i upryamstve, ne priderzhivalsya istiny"
+        },
+        {
+            "chapter": 50,
+            "verse": 25,
+            "text": "i nastoychivo protivoborstvoval dobru, greshnika, prestupivshego istinu, somnevavshegosya v Allakhe Vsevyshnem i v tom, chto On nisposlal"
+        },
+        {
+            "chapter": 50,
+            "verse": 26,
+            "text": "kotoryy poklonyalsya pomimo Allakha drugomu bogu. Tak podvergayte zhe yego muchitel'nomu nakazaniyu"
+        },
+        {
+            "chapter": 50,
+            "verse": 27,
+            "text": "Shaytan skazhet, otvergaya slova nevernogo: \"Gospodi nash! YA ne sbil yego s pravil'nogo puti i ne vvol yego v zabluzhdeniye; ved' on uzhe byl v glubokom zabluzhdenii i dalok ot istiny, a ya lish' pooshchryal yego svoimi soblaznami"
+        },
+        {
+            "chapter": 50,
+            "verse": 28,
+            "text": "Allakh Vsevyshniy skazhet nevernym i pristavlennym k nim shaytanam: \"Ne prepiraytes' peredo Mnoy pri rasplate i vozdayanii. Ved' YA preduprezhdal vas v zemnoy zhizni ot neveriya, nisposlav vam Poslaniya, no vy ne uverovali v Moi Poslaniya"
+        },
+        {
+            "chapter": 50,
+            "verse": 29,
+            "text": "Moyo Slovo ne menyayetsya, kak ne menyayetsya Moyo obeshchaniye vvergnut' nevernykh v adskiy ogon'. YA ne postupayu nespravedlivo otnositel'no rabov Svoikh i ne nakazyvayu ni odnogo raba bez viny"
+        },
+        {
+            "chapter": 50,
+            "verse": 30,
+            "text": "V tot Den' My, poritsaya nevernykh, sprosim ad: \"Ty uzhe spolna napolnen?\" A on otvetit, gnevayas' na nikh: \"Net li yeshcho dobavki iz etikh nechestivtsev"
+        },
+        {
+            "chapter": 50,
+            "verse": 31,
+            "text": "I ray ukrashennyy budet tak priblizhen dlya bogoboyaznennykh, kotoryye vypolnyali to, chto On im velel i otkazalis' ot togo, chto On im zapretil, chto stanet sovsem nedalokim ot nikh"
+        },
+        {
+            "chapter": 50,
+            "verse": 32,
+            "text": "Takoye voznagrazhdeniye, kotoroye vam obeshchano, ugotovano dlya kazhdogo obrativshegosya k Allakhu, strogo soblyudavshego Yego shariat"
+        },
+        {
+            "chapter": 50,
+            "verse": 33,
+            "text": "kotoryy boyalsya nakazaniya Allakha, - a on Yego ne videl, - ch'ya milost' bezgranichna i okhvatyvayet vso sushcheye, i prishol v budushchuyu zhizn' s obrativshimsya k Allakhu Vsevyshnemu serdtsem"
+        },
+        {
+            "chapter": 50,
+            "verse": 34,
+            "text": "Im budet skazano pochtitel'no: \"Voydite v ray s mirom. Etot Den', kogda vy voshli v ray, - Den' vechnosti, kotoryy nikogda ne konchitsya"
+        },
+        {
+            "chapter": 50,
+            "verse": 35,
+            "text": "Dlya bogoboyaznennykh v rayu ugotovano vso, chto oni pozhelayut, i u Nas yeshcho bol'she blazhenstva, kotorogo ne mozhet sebe predstavit' ni odin chelovek"
+        },
+        {
+            "chapter": 50,
+            "verse": 36,
+            "text": "Kak mnogo My pogubili prezhnikh narodov, kotoryye zhili do etikh nevernykh, byli boleye mogushchestvenny i imeli bol'she vlasti, chem oni. Oni stranstvovali po zemle i userdno iskali ubezhishcha. No bylo li u nikh ubezhishche ot gibeli"
+        },
+        {
+            "chapter": 50,
+            "verse": 37,
+            "text": "Poistine, v tom, chto postiglo prezhniye narody, - napominaniye tomu, u kogo yest' serdtse, sposobnoye vosprinimat' fakty, ili kto vnimayet rukovodstvu k pryamomu puti s pronitsatel'nost'yu i ponyatlivost'yu"
+        },
+        {
+            "chapter": 50,
+            "verse": 38,
+            "text": "Klyanus'! My sozdali nebesa, zemlyu i vse tvoreniya, chto mezhdu nimi, za shest' dney, i eto ne predstavilo dlya Nas nikakogo truda"
+        },
+        {
+            "chapter": 50,
+            "verse": 39,
+            "text": "Raz eto ochevidno, tak terpi, o poslannik, lozh' i klevetu, kotoryye izmyshlyayut na tvoyo poslaniye te, kotoryye otvergli tvoyu prorocheskuyu missiyu. Voskhvalyay, o prorok, tvoyego Tvortsa i Nastavnika, stavya Yego prevyshe vsego, chto ne podobayet Yego Blagorodnomu Liku, i proslavlyay Yego na zare i v poslepoludennoye vremya pered zakhodom solntsa: ved' pokloneniye Allakhu v eto vremya boleye pochtitel'no"
+        },
+        {
+            "chapter": 50,
+            "verse": 40,
+            "text": "I proslavlyay Yego chast' nochi i posle molitvy"
+        },
+        {
+            "chapter": 50,
+            "verse": 41,
+            "text": "Vnemli tomu, chto YA tebe povedayu o Dne voskreseniya, poskol'ku eto ochen' vazhno. Tot Den', kogda angel- glashatay vozglasit s blizkogo rasstoyaniya ot tekh, kotorykh on sozyvayet"
+        },
+        {
+            "chapter": 50,
+            "verse": 42,
+            "text": "tot Den', kogda oni uslyshat vtoroy raz trubnyy glas, vozveshchayushchiy ob istine, t. ye. o voskreshenii, budet dnom iskhoda iz mogil"
+        },
+        {
+            "chapter": 50,
+            "verse": 43,
+            "text": "Poistine, tol'ko My ozhivlyayem tvoreniya i umershchvlyayem ikh v zemnom mire, a v budushchey zhizni tol'ko k Nam budet ikh vozvrashcheniye"
+        },
+        {
+            "chapter": 50,
+            "verse": 44,
+            "text": "V tot Den', kogda zemlya raskoletsya, oni pospeshno vyydut iz mogil k mestu sobraniya dlya Suda. Eto velikoye delo - sobrat' lyudey dlya Suda - tol'ko dlya Nas legko i ne predstavlyayet nikakoy trudnosti"
+        },
+        {
+            "chapter": 50,
+            "verse": 45,
+            "text": "My luchshe znayem te izmyshleniya i lozh', kotoryye oni govoryat o tvoyey prorocheskoy missii. Ty ne vlasten nad nimi, chtoby prinudit' ikh delat' to, chto ty zhelayesh'. Ty - lish' uveshchevatel'. Tak nastavlyay i napominay zhe Koranom veruyushchim, kotoryye boyatsya Moyego nakazaniya, chtoby nastavleniya i napominaniya prinesli im pol'zu"
+        },
+        {
+            "chapter": 51,
+            "verse": 1,
+            "text": "Klyanus' vetrami, rasseivayushchimi tuchi i razgonyayushchimi ikh"
+        },
+        {
+            "chapter": 51,
+            "verse": 2,
+            "text": "tuchami, nesushchimi tyazholoye bremya dozhdevoy vody"
+        },
+        {
+            "chapter": 51,
+            "verse": 3,
+            "text": "i (korablyami) idushchimi legko po vode"
+        },
+        {
+            "chapter": 51,
+            "verse": 4,
+            "text": "i (angelami), raspredelyayushchimi udel, kotorym Allakh nadelyayet, kogo pozhelayet"
+        },
+        {
+            "chapter": 51,
+            "verse": 5,
+            "text": "Poistine, to, chto vam obeshchano Allakhom: voskreseniye i vse ostal'noye - neprelozhnaya istina, kotoraya nepremenno osushchestvitsya"
+        },
+        {
+            "chapter": 51,
+            "verse": 6,
+            "text": "i vam, nesomnenno, budet vozdano za vashi deyaniya"
+        },
+        {
+            "chapter": 51,
+            "verse": 7,
+            "text": "Klyanus' nebosvodom, po kotoromu prolozheny sovershennyye (zvozdnyye) dorogi"
+        },
+        {
+            "chapter": 51,
+            "verse": 8,
+            "text": "v tom, chto vy govorite (o Mukhammade) - protivorechivyy vzdor"
+        },
+        {
+            "chapter": 51,
+            "verse": 9,
+            "text": "Ot very v eto istinnoye obeshchaniye i neprelozhnoye vozdayaniye otvernotsya tol'ko tot, kto otvrashchon ot very iz-za togo, chto sledoval svoim strastyam, a ne razumu"
+        },
+        {
+            "chapter": 51,
+            "verse": 10,
+            "text": "Da pogibnut lzhetsy"
+        },
+        {
+            "chapter": 51,
+            "verse": 11,
+            "text": "kotoryye govoryat o Sudnom chase odni izmyshleniya i lozhnyye predpolozheniya, kotoryye pogryazli v nevezhestve i ne zamechayut dokazatel'stv istinnosti very"
+        },
+        {
+            "chapter": 51,
+            "verse": 12,
+            "text": "Oni sprashivayut, izdevayas' i schitaya yego nevozmozhnym: \"Kogda nastanet Den' vozdayaniya"
+        },
+        {
+            "chapter": 51,
+            "verse": 13,
+            "text": "Den' vozdayaniya - tot Den', kogda oni budut vvergnuty v adskiy ogon' i sozhzheny im"
+        },
+        {
+            "chapter": 51,
+            "verse": 14,
+            "text": "Im budet skazano: \"Vkusite vashe nakazaniye. Eto - to, chto vy v zemnom mire prosili uskorit'"
+        },
+        {
+            "chapter": 51,
+            "verse": 15,
+            "text": "Poistine, te, kotoryye povinovalis' Allakhu, boyalis' Yego, budut blazhenstvovat' v rayskikh sadakh sredi istochnikov, ne poddayushchikhsya opisaniyu slovami"
+        },
+        {
+            "chapter": 51,
+            "verse": 16,
+            "text": "poluchaya nagrady i pochteniye, kotoryye ikh Gospod' daroval im. Ved' oni v zemnom mire nailuchshim obrazom ispolnili vso, chto im bylo poveleno"
+        },
+        {
+            "chapter": 51,
+            "verse": 17,
+            "text": "Oni spali tol'ko maluyu chast' nochi"
+        },
+        {
+            "chapter": 51,
+            "verse": 18,
+            "text": "bol'shuyu zhe yeyo chast' oni posvyashchali pokloneniyu Allakhu, a poslednyuyu chast' nochi (na zare) oni provodili, vzyvaya k Allakhu o proshchenii grekhov"
+        },
+        {
+            "chapter": 51,
+            "verse": 19,
+            "text": "Oni vydelyali opredelonnuyu dolyu iz svoyego dostoyaniya dlya nuzhdayushchikhsya: prosyashchikh i bednykh, kotoryye vozderzhivayutsya prosit' podayaniye"
+        },
+        {
+            "chapter": 51,
+            "verse": 20,
+            "text": "Na zemle yest' mnogo yasnykh znameniy, privodyashchikh k iskrenney vere v Allakha, dlya tekh, kto nastavlen na put' very i idot po nemu"
+        },
+        {
+            "chapter": 51,
+            "verse": 21,
+            "text": "I v vashikh dushakh tozhe yest' yasnyye znameniya. Neuzheli vy ikh ne zamechayete i ne vidite, na chto oni ukazyvayut"
+        },
+        {
+            "chapter": 51,
+            "verse": 22,
+            "text": "I v nebe ugotovan vash udel i predopredeleno to, chto vam obeshchano"
+        },
+        {
+            "chapter": 51,
+            "verse": 23,
+            "text": "Klyanus' Gospodom nebes i zemli, chto vso, chto vy otvergayete: nastupleniye voskreseniya, vozdayaniye, nakazaniye nevernykh, voznagrazhdeniye bogoboyaznennykh - neprelozhnaya istina, takaya zhe, kak to, chto vy obladayete darom rechi, v chom vy ne somnevayetes'"
+        },
+        {
+            "chapter": 51,
+            "verse": 24,
+            "text": "Doshol li do tebya rasskaz ob angelakh - pochtennykh gostyakh Ibrakhima"
+        },
+        {
+            "chapter": 51,
+            "verse": 25,
+            "text": "kotoryye prishli k nemu i skazali: \"Mir!\" I on otvetil im: \"I vam mir, lyudi neznakomyye"
+        },
+        {
+            "chapter": 51,
+            "verse": 26,
+            "text": "On vyshel nezametno dlya svoikh gostey k domochadtsam, prinos im zhirnogo telonka"
+        },
+        {
+            "chapter": 51,
+            "verse": 27,
+            "text": "i priglasil ikh kushat', no oni ne pritronulis' k nemu. Togda on, vyrazhaya svoyo nedovol'stvo etim, skazal im: \"Ne pokushayete li"
+        },
+        {
+            "chapter": 51,
+            "verse": 28,
+            "text": "On pochuvstvoval v sebe strakh pered nimi. Oni yemu skazali: \"Ne boysya!\" - i obradovali yego dobroy vest'yu o rozhdenii u nego syna, kotoryy budet obladat' bol'shim znaniyem"
+        },
+        {
+            "chapter": 51,
+            "verse": 29,
+            "text": "Uslyshav etu dobruyu vest', yego zhena podoshla k nim s krikom i shumom, udaryaya sebya po litsu, udivlyayas' i ne verya, i skazala: \"YA besplodnaya starukha. Kak ya mogu rodit'"
+        },
+        {
+            "chapter": 51,
+            "verse": 30,
+            "text": "Togda angely otvetili yey: \"Tak reshil tvoy Gospod'. Ved' On mudr vo vsekh Svoikh resheniyakh i vseznayushch - ot Nego nichto ne skroyetsya"
+        }
+    ]
+}

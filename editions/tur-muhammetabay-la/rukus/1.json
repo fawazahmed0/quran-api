@@ -1,0 +1,39 @@
+{
+    "rukus": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "bismi-llahi-rrahmani-rrahim"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "elhamdu lillahi rabbi-l`alemin"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "errahmani-rrahim"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "maliki yevmi-ddin"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "iyyake na`budu veiyyake neste`in"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "ihdine-ssirata-lmustekim"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "sirata-llezine en`amte `aleyhim gayri-lmagdubi `aleyhim vele-ddallin"
+        }
+    ]
+}

@@ -1,0 +1,914 @@
+{
+    "chapter": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "sarikk aninirannu nilkkunnavarum"
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "ennitt saktiyayi tatayunnavarum"
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "ennitt kirttanam ceallunnavarumaya malakkukale tanneyana satyam"
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "tirccayayum ninnalute daivam ekan tanneyakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "ate, akasannaluteyum bhumiyuteyum avaykkitayilullatinreyum raksitavum, udayasthanannalute raksitavum ayittullavan"
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "tirccayayum atuttulla akasatte nam naksatralankarattal meatipitippiccirikkunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "dhikkariyaya etu pisacil ninnum (atine) suraksitamakkukayum ceytirikkunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "atyunnatamaya samuhattinre nere avarkk (pisacukkalkk‌) cevikeatuttu kelkkanavilla. ellavasattu ninnum avar erinn otikkappetukayum ceyyum"
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "bahiskrtarayikkeant avarkk sasvatamaya siksayumunt‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "pakse, arenkilum pettenn vallatum ranci'etukkukayanenkil tulacc katakkunna oru tijvala avane pintutarunnatan‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "akayal (nabiye,) ni avareat (a nisedhikaleat‌) abhiprayam arayuka: srstikkan erravum prayasamullat avareyanea, atalla, nam srsticcittulla marru srstikaleyanea? tirccayayum nam avare srsticcirikkunnat pasimayulla kalimannil ninnakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "pakse, ninakk atbhutam teanni. avarakatte parihasikkukayum ceyyunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "avarkk upadesam nalkappettal avar aleacikkunnilla"
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "avar etearu drstantam kantalum tamasayakkikkalayunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "avar parayum: it pratyaksamaya oru jalavidya matramakunnu enn‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "(avar parayum:) maricc mannum asthisakalannalumayikkalinnal nannal uyirttelunnelpikkappetuka tanne ceyyumea"
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "nannalute purvvapitakkalum (uyirttelunnelpikkappetumea)"
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "parayuka: ate. (ann‌) ninnal apamanitarakukayum ceyyum"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "ennal at oru ghearasabdam matramayirikkum. appealata avar (elunnerr ninn‌) neakkunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "avar parayum: ahea! nannalkk kastam! it pratiphalattinre dinamanallea"
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "(avarkk marupati nalkappetum:) ate; ninnal nisedhicc tallikkalannirunna nirnayakamaya tirumanattinre divasamatre it‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "(appeal allahuvinre kalpanayuntakum;) akramam ceytavareyum avarute inakaleyum avar aradhiccirunnavayeyum ninnal orumiccukuttuka"
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "allahuvinu purame. ennitt avare ninnal narakattinre valiyilekk nayikkuka"
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "avare ninnaleannu nirttuka. avareat ceadyam ceyyentatakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "ninnalkk entuparri? ninnal parasparam sahayikkunnillallea enn‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "alla, avar a divasattil kilatanniyavarayirikkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "avaril cilar cilarute nere tirinn parasparam ceadyam ceyyum"
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "avar parayum: tirccayayum ninnal nannalute atutt kaiyyukkumayi vann (nannale satyattil ninn pintirippikkukayayirunnu)"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "avar marupati parayum: alla, ninnal tanne visvasikalavatirikkukayanuntayat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "nannalkkakatte ninnalute mel oradhikaravum untayirunnatumilla. pratyuta, ninnal atikramakarikalaya oru janavibhagamayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "annane nam'mute mel nam'mute raksitavinre vacanam yathart'thyamayitirnnu. tirccayayum nam (siksa) anubhavikkan peakukayan‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "appeal nannal ninnale valiketiletticcirikkunnu.(karanam) tirccayayum nannal valiterriyavarayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "appeal anne divasam tirccayayum avar (iruvibhagavum) siksayil pankalikalayirikkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "tirccayayum nam kurravalikalekkeant ceyyunnat aprakaramakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "allahu allate oru daivavumilla enn avareat parayappettal avar ahankaram natikkumayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "bhrantanaya oru kavikk venti nannal nannalute daivannale upeksicc kalayanamea enn ceadikkukayum ceyyumayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "alla, satyavum keantan addeham vannat‌. (mump vanna) daivadutanmare addeham satyappetuttukayum ceytirikkunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "tirccayayum ninnal vedanayeriya siksa asvadikkuka tanne ceyyentavarakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "ninnal pravartticcirunnatinu matrame ninnalkk pratiphalam nalkappetukayullu"
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "allahuvinre niskalankaraya dasanmar itil ninn olivakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "annaneyullavarkkakunnu ariyappetta upajivanam"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "vividha taram palavargannal. avar adarikkappetunnavarayirikkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "sebhagyattinre svargatteappukalil"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "avar cila kattilukalil parasparam abhimukhamayi irikkunnavarayirikkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "oru taram uravu jalam niracca keappakal avarute currum keantu natakkappetum"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "veluttatum kutikkunnavarkk hrdyavumaya paniyam"
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "atil yatearu deasavumilla. at nimittam avarkk lahari badhikkukayumilla"
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "drsti niyantrikkunnavarum visalamaya kannukalullavarumaya strikal avarute atutt untayirikkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "suksiccu vekkappetta muttakal pealeyirikkum avar"
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "a svargavasikalil cilar cilarute nere tirinnu keant parasparam (pala ceadyannalum) ceadikkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "avaril ninn oru vaktav parayum: tirccayayum enikk oru kuttukaranuntayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "avan parayumayirunnu: tirccayayum ni (paraleakattil) visvasikkunnavarute kuttattil tanneyanea"
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "nam mariccitt mannum asthisakalannalumayi kalinnalum namukk nam'mute karm'maphalannal nalkappetunnatanea"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "tutarnn a vaktav (kuteyullavareat‌) parayum: ninnal (a kuttukarane) ettineakkan uddesikkunnuntea"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "ennitt addeham ettineakkum. appeal addeham avane narakattinre mad'dhyattil kanum"
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "addeham (avaneat‌) parayum: allahuve tanneyana! ni enne nasattil akappetuttuka tanne ceytekkumayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "enre raksitavinre anugraham illayirunnuvenkil (a narakattil) hajarakkappetunnavaril nanum ulpetumayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "(svargavasikal parayum:) ini nam maranappetunnavarallallea"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "nam'mute adyatte maranamallate. nam siksikkappetunnavarumalla"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "tirccayayum itu tanneyan mahattaya bhagyam"
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "itupealeyullatin ventiyakatte pravarttakanmar pravarttikkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "atanea visistamaya salkkaram? atalla sakhkhum vrksamanea"
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "tirccayayum atine nam akramakarikalkk oru pariksanamakkiyirikkunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "narakattinre atiyil mulaccu peannunna oru vrksamatre at‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "atinre kula pisacukkalute talakal pealeyirikkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "tirccayayum avar atil ninn tinn vayar nirakkunnavarayirikkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "pinnit avarkk atinu mite cuttutilakkunna vellattinre oru ceruvayunt‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "pinnit tirccayayum avarute matakkam narakattilekk tanneyakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "tirccayayum avar tannalute pitakkale kantettiyat valipilaccavarayittan‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "annane ivar avarute (pitakkalute) kalpatukalilute kuticcu payunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "ivarkk mump purvvikaril adhikaperum valipilaccu peakuka tanneyanuntayat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "avaril nam takkitukare niyeagikkukayumuntayittunt‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "ennitt neakku; a takkit nalkappettavarute paryavasanam ennaneyayirunnu venn‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "allahuvinre niskalankaraya dasanmar olike"
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "nuh nam'me vilikkukayuntayi. appeal uttaram nalkiyavan etra nallavan"
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "addehatteyum addehattinre alukaleyum nam vampicca durantattil ninn raksappetutti"
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "addehattinre santatikale nam (bhumiyil) nilanilkkunnavarakkukayum"
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "pilkkalatt vannavaril addehatteparriyulla salkirtti nam avasesippikkukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "leakaril nuhin samadhanam"
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "tirccayayum aprakaraman sad‌vrttanmarkk nam pratiphalam nalkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "tirccayayum addeham nam'mute satyavisvasikalaya dasanmarute kuttattilakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "pinnit nam marrullavare mukkinasippiccu"
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "tirccayayum addehattinre kaksikalil petta al tanneyakunnu ibrahim"
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "niskalankamaya hrdayatteatu kuti addeham tanre raksitavinkal vanna sandarbham (srad'dheyamakunnu)"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "tanre pitavineatum janatayeatum addeham iprakaram paranna sandarbham: enteannineyan ninnal aradhikkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "allahuvinnu purame vyajamayi ninnal marru daivannale agrahikkukayanea"
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "appeal leakaraksitavinepparri ninnalute vicaramentan‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "ennitt addeham naksatrannalute nere oru neattam neakki"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "tutarnn addeham parannu: tirccayayum enikk asukhamakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "appeal avar addehatte vitt pintirinnu peayi"
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "ennitt addeham avarute daivannalute nerkk tirinnittu parannu: ninnal tinnunnille"
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "ninnalkkentuparri? ninnal mintunnillallea"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "tutarnn addeham avayute nere tirinnu valatukai keant ukkeate avaye vettikkalannu"
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "ennitt avar addehattinre atuttekk kuticc cennu"
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "addeham parannu: ninnal tanne keattiyuntakkunnavayeyanea ninnal aradhikkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "allahuvanallea ninnaleyum ninnal nirmikkunnavayeyum srsticcat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "avar (an'yean'yam) parannu: ninnal avann (ibrahimin‌) venti oru cula paniyuka. ennittavane jvalikkunna agniyil ittekkuka"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "annane addehattinre karyattil avar oru tantram uddesiccu. ennal nam avare erravum adhamanmarakkukayan ceytat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "addeham parannu: tirccayayum nan enre raksitavinkalekk peakukayan‌. avan enikk vali kanikkunnatan‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "enre raksitave, sad‌vrttaril orale ni enikk (putranayi) pradanam ceyyename"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "appeal sahanasilanaya oru balanepparri nam addehattin santeasavartta ariyiccu"
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "ennitt a balan addehatteateappam prayatnikkanulla prayamettiyappeal addeham parannu: enre kunnumakane! nan ninne arukkanamenn nan svapnattil kanunnu. atukeant neakku: ni entan abhiprayappetunnat‌? avan parannu: enre pitave, kalpikkappetunnatentea at tankal ceytukealluka. allahu uddesikkunna paksam ksamasilarute kuttattil tankal enne kantettunnatan‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "annane avar iruvarum (kalpanakk‌) kilpetukayum, avane nerri (cenni) mel cericcu kitattukayum ceyta sandarbham"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "nam addehatte viliccuparannu: he! ibrahim"
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "tirccayayum ni svapnam saksatkariccirikkunnu. tirccayayum aprakaraman nam sad‌vrttarkk pratiphalam nalkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "tirccayayum it spastamaya pariksanam tanneyan‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "avann pakaram baliyarppikkanayi mahattaya oru balimrgatte nam nalkukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "pilkkalakkaril addehattinre (ibrahiminre) salkirtti nam avasesippikkukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "ibrahimin samadhanam"
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "aprakaraman nam sad‌vrttarkk pratiphalam nalkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "tirccayayum addeham nam'mute satyavisvasikalaya dasanmaril pettavanakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "isakh enna makanre jananattepparriyum addehattin nam santeasavartta ariyiccu. sad‌vrttaril petta oru pravacakan enna nilayil"
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "addehattinum isakhinum nam anugraham nalkukayum ceytu. avar iruvaruteyum santatikalil sad‌vrttarunt‌. svantatteat tanne spastamaya an'yayam ceyyunnavarumunt‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "tirccayayum musayeatum haruneatum nam audaryam kaniccu"
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "avar iruvareyum avarute janatayeyum mahaduritattil ninn nam raksappetuttukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "avare nam sahayikkukayum annane vijayikal avar tanne akukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "avarkk rantuperkkum nam (karyannal) vyaktamakkunna grantham nalkukayum"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "avare neraya patayilekk nayikkukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "pilkkalakkaril avarute salkirtti nam avasesippikkukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "musaykkum harunnum samadhanam"
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "tirccayayum aprakaramakunnu sad‌vrttarkk nam pratiphalam nalkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "tirccayayum avar iruvarum nam'mute satyavisvasikalaya dasanmarute kuttattilakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "ilyasum dutanmarilearal tanne"
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "addeham tanre janatayeat iprakaram paranna sandarbham: ninnal suksmata palikkunnille"
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "ninnal ba'ala‍ain vilicc prart'thikkukayum, erravum nalla srstikarttavine vittukalayukayumanea"
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "athava ninnaluteyum ninnalute purvvapitakkaluteyum raksitavaya allahuve"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "appeal avar addehatte nisedhiccu kalannu. atinal avar (siksaykk‌) hajarakkappetuka tanne ceyyum"
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "allahuvinre niskalankaraya dasanmar olike"
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "pilkkalakkaril addehattinre salkirtti nam avasesippikkukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "ilyasin samadhanam"
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "tirccayayum aprakaramakunnu sad‌vrttarkk nam pratiphalam nalkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "tirccayayum addeham nam'mute satyavisvasikalaya dasanmarute kuttattilakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "lutvum dutanmarilearal tanne"
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "addehatteyum addehattinre alukaleyum muluvan nam raksappetuttiya sandarbham (srad'dheyamatre)"
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "pinmari ninnavarilppetta oru kilaviyealike"
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "pinne marrullavare nam takarttu kalannu"
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "tirccayayum ninnal ravile avarute atuttu kuti katannu peavarunt‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "ratriyilum. ennittum ninnal cinticc grahikkunnille"
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "yunusum dutanmarilearal tanne"
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "addeham bharam niracca kappalilekk olicceatiya sandarbham (srad'dheyamatre)"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "ennitt addeham (kappal yatrakkareateappam) narukketuppil panketuttu. appeal addeham parajitarute kuttattilayipeayi"
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "annane addeham aksepattin arhanayirikke a vanmatsyam addehatte vilunni"
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "ennal addeham allahuvinre parisud'dhiye prakirttikkunnavarute kuttattilayirunnillenkil"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "janannal uyirttelunnelpikkappetunna divasam vare atinre vayarril tanne addehattin kalinn kutenti varumayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "ennitt addehatte anareagyavanaya nilayil turanna sthalattekk nam talli"
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "addehattinre mel nam yakhtvin vrksam mulappikkukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "addehatte nam oru laksamea atiladhikamea varunna janavibhagattilekk niyeagiccu"
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "annane avar visvasikkukayum talphalamayi kure kalattekk avarkk nam sukhajivitam nalkukayum ceytu"
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "ennal (nabiye,) ni avareat (bahudaivavisvasikaleat‌) abhiprayam arayuka; ninre raksitavin penmakkalum avarkk anmakkalumanea enn‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "atalla nam malakkukale strikalayi srsticcatin avar drksaksikalayirunnea"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "arinnekkuka: avar parayunnat tirccayayum avarute vyajanirmitiyil pettatakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "allahu santatikalkku janmam nalkiyittuntenn‌. tirccayayum avar kallam parayunnavar tanneyakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "anmakkalekkalupariyayi avan penmakkale terannetuttuvennea"
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "ninnalkkentuparri? eprakaraman ninnal vidhikalpikkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "ninnal aleacicc neakkunnille"
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "atalla, vyaktamaya valla pramanavum ninnalkku kittiyittuntea"
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "ennal ninnal ninnalute rekha keantuvaruvin; ninnal satyavanmaranenkil"
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "allahuvinum jinnukalkkumitayil avar kutumbabandham sthapikkukayum ceytirikkunnu. ennal tirccayayum tannal siksaykk hajarakkappetuka tanne ceyyumenn jinnukal manas'silakkiyittunt‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "avar camaccu parayunnatil ninnellam allahu etrayea parisud'dhan"
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "ennal allahuvinre niskalankaraya dasanmar (itil ninnellam) olivakunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "ennal ninnalkkum ninnal entine aradhikkunnuvea avaykkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "allahuvinnetirayi (areyum) kulappattilakkanavilla; tircca"
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "narakattil venteriyan peakunnavanarea avaneyallate"
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "(malakkukal iprakaram parayum:) niscitamaya orea sthanamullavarayittallate nannalil arum tanneyilla"
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "tirccayayum nannal tanneyan aninirann nilkkunnavar"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "tirccayayum nannal tanneyan (allahuvinre) parisud'dhiye prakirttikkunnavar"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "tirccayayum avar (satyanisedhikal) iprakaram parayaruntayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "purvvikanmaril ninn labhicca valla ulbeadhanavum nannalute pakkal untayirunnenkil"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "nannal allahuvinre niskalankaraya dasanmaravuka tanne ceyyumayirunnu"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "ennitt avar itil (i vedagranthattil) avisvasikkukayan ceytat‌. atinal avar pinnit (karyam) manas'silakkikkeallum"
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "dutanmarayi niyeagikkappetta nam'mute dasanmareat nam'mute vacanam mumpe untayittunt‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "tirccayayum avar tanneyayirikkum sahayam nalkappetunnavarennum"
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "tirccayayum nam'mute sain'yam tanneyan jetakkalayirikkuka ennum"
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "atinal oru avadhi vare ni avaril ninn tirinnukalayuka"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "ni avare viksikkukayum ceyyuka. avar pinnit kantarinnu keallum"
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "appeal nam'mute siksayute karyattilanea avar titukkam kuttikeantirikkunnat‌"
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "ennal at avarute murratt vann iranniyal a takkit nalkappettavarute prabhatam etra measamayirikkum"
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "(atinal) oru avadhi vare ni avaril ninn tirinnukalayuka"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "ni viksiccu keantirikkukayum ceyyuka. avar pinnit kantarinnu keallum"
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "pratapattinre nathanaya ninre raksitav avar camaccu parayunnatil ninnellam etra parisud'dhan"
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "dutanmarkku samadhanam"
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "leakaraksitavaya allahuvin stuti"
+        }
+    ]
+}

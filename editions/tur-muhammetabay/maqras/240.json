@@ -1,0 +1,414 @@
+{
+    "maqras": [
+        {
+            "chapter": 100,
+            "verse": 9,
+            "text": "efelâ ya`lemü iẕâ bü`ŝira mâ fi-lḳubûr"
+        },
+        {
+            "chapter": 100,
+            "verse": 10,
+            "text": "veḥuṣṣile mâ fi-ṣṣudûr"
+        },
+        {
+            "chapter": 100,
+            "verse": 11,
+            "text": "inne rabbehüm bihim yevmeiẕil leḫabîr"
+        },
+        {
+            "chapter": 101,
+            "verse": 1,
+            "text": "elḳâri`ah"
+        },
+        {
+            "chapter": 101,
+            "verse": 2,
+            "text": "me-lḳâri`ah"
+        },
+        {
+            "chapter": 101,
+            "verse": 3,
+            "text": "vemâ edrâke me-lḳâri`ah"
+        },
+        {
+            "chapter": 101,
+            "verse": 4,
+            "text": "yevme yekûnü-nnâsü kelferâşi-lmebŝûŝ"
+        },
+        {
+            "chapter": 101,
+            "verse": 5,
+            "text": "vetekûnü-lcibâlü kel`ihni-lmenfûş"
+        },
+        {
+            "chapter": 101,
+            "verse": 6,
+            "text": "feemmâ men ŝeḳulet mevâzînüh"
+        },
+        {
+            "chapter": 101,
+            "verse": 7,
+            "text": "fehüve fî `îşetir râḍiyeh"
+        },
+        {
+            "chapter": 101,
+            "verse": 8,
+            "text": "veemmâ men ḫaffet mevâzînüh"
+        },
+        {
+            "chapter": 101,
+            "verse": 9,
+            "text": "feümmühû hâviyeh"
+        },
+        {
+            "chapter": 101,
+            "verse": 10,
+            "text": "vemâ edrâke mâ hiyeh"
+        },
+        {
+            "chapter": 101,
+            "verse": 11,
+            "text": "nârun ḥâmiyeh"
+        },
+        {
+            "chapter": 102,
+            "verse": 1,
+            "text": "elhâkümü-ttekâŝür"
+        },
+        {
+            "chapter": 102,
+            "verse": 2,
+            "text": "ḥattâ zürtümü-lmeḳâbir"
+        },
+        {
+            "chapter": 102,
+            "verse": 3,
+            "text": "kellâ sevfe ta`lemûn"
+        },
+        {
+            "chapter": 102,
+            "verse": 4,
+            "text": "ŝümme kellâ sevfe ta`lemûn"
+        },
+        {
+            "chapter": 102,
+            "verse": 5,
+            "text": "kellâ lev ta`lemûne `ilme-lyeḳîn"
+        },
+        {
+            "chapter": 102,
+            "verse": 6,
+            "text": "leteravunne-lceḥîm"
+        },
+        {
+            "chapter": 102,
+            "verse": 7,
+            "text": "ŝümme leteravunnehâ `ayne-lyeḳîn"
+        },
+        {
+            "chapter": 102,
+            "verse": 8,
+            "text": "ŝümme letüs'elünne yevmeiẕin `ani-nne`îm"
+        },
+        {
+            "chapter": 103,
+            "verse": 1,
+            "text": "vel`aṣr"
+        },
+        {
+            "chapter": 103,
+            "verse": 2,
+            "text": "inne-l'insâne lefî ḫusr"
+        },
+        {
+            "chapter": 103,
+            "verse": 3,
+            "text": "ille-lleẕîne âmenû ve`amilu-ṣṣâliḥâti vetevâṣav bilḥaḳḳi vetevâṣav biṣṣabr"
+        },
+        {
+            "chapter": 104,
+            "verse": 1,
+            "text": "veylül likülli hümezetil lümezeh"
+        },
+        {
+            "chapter": 104,
+            "verse": 2,
+            "text": "elleẕî ceme`a mâlev ve`addedeh"
+        },
+        {
+            "chapter": 104,
+            "verse": 3,
+            "text": "yaḥsebü enne mâlehû aḫledeh"
+        },
+        {
+            "chapter": 104,
+            "verse": 4,
+            "text": "kellâ leyümbeẕenne fi-lḥuṭameh"
+        },
+        {
+            "chapter": 104,
+            "verse": 5,
+            "text": "vemâ edrâke me-lḥuṭameh"
+        },
+        {
+            "chapter": 104,
+            "verse": 6,
+            "text": "nâru-llâhi-lmûḳadeh"
+        },
+        {
+            "chapter": 104,
+            "verse": 7,
+            "text": "elletî teṭṭali`u `ale-l'ef'ideh"
+        },
+        {
+            "chapter": 104,
+            "verse": 8,
+            "text": "innehâ `aleyhim mü'ṣadeh"
+        },
+        {
+            "chapter": 104,
+            "verse": 9,
+            "text": "fî `amedim mümeddedeh"
+        },
+        {
+            "chapter": 105,
+            "verse": 1,
+            "text": "elem tera keyfe fe`ale rabbüke biaṣḥâbi-lfîl"
+        },
+        {
+            "chapter": 105,
+            "verse": 2,
+            "text": "elem yec`al keydehüm fî taḍlîl"
+        },
+        {
+            "chapter": 105,
+            "verse": 3,
+            "text": "veersele `aleyhim ṭayran ebâbîl"
+        },
+        {
+            "chapter": 105,
+            "verse": 4,
+            "text": "termîhim biḥicâratim min siccîl"
+        },
+        {
+            "chapter": 105,
+            "verse": 5,
+            "text": "fece`alehüm ke`aṣfim me'kûl"
+        },
+        {
+            "chapter": 106,
+            "verse": 1,
+            "text": "liîlâfi ḳurayş"
+        },
+        {
+            "chapter": 106,
+            "verse": 2,
+            "text": "îlâfihim riḥlete-şşitâi veṣṣayf"
+        },
+        {
+            "chapter": 106,
+            "verse": 3,
+            "text": "felya`büdû rabbe hâẕe-lbeyt"
+        },
+        {
+            "chapter": 106,
+            "verse": 4,
+            "text": "elleẕî aṭ`amehüm min cû`iv veâmenehüm min ḫavf"
+        },
+        {
+            "chapter": 107,
+            "verse": 1,
+            "text": "era'eyte-lleẕî yükeẕẕibü biddîn"
+        },
+        {
+            "chapter": 107,
+            "verse": 2,
+            "text": "feẕâlike-lleẕî yedü``u-lyetîm"
+        },
+        {
+            "chapter": 107,
+            "verse": 3,
+            "text": "velâ yeḥuḍḍu `alâ ṭa`âmi-lmiskîn"
+        },
+        {
+            "chapter": 107,
+            "verse": 4,
+            "text": "feveylül lilmüṣallîn"
+        },
+        {
+            "chapter": 107,
+            "verse": 5,
+            "text": "elleẕîne hüm `an ṣalâtihim sâhûn"
+        },
+        {
+            "chapter": 107,
+            "verse": 6,
+            "text": "elleẕîne hüm yürâûn"
+        },
+        {
+            "chapter": 107,
+            "verse": 7,
+            "text": "veyemne`ûne-lmâ`ûn"
+        },
+        {
+            "chapter": 108,
+            "verse": 1,
+            "text": "innâ a`ṭaynâke-lkevŝer"
+        },
+        {
+            "chapter": 108,
+            "verse": 2,
+            "text": "feṣalli lirabbike venḥar"
+        },
+        {
+            "chapter": 108,
+            "verse": 3,
+            "text": "inne şânieke hüve-l'ebter"
+        },
+        {
+            "chapter": 109,
+            "verse": 1,
+            "text": "ḳul yâ eyyühe-lkâfirûn"
+        },
+        {
+            "chapter": 109,
+            "verse": 2,
+            "text": "lâ a`büdü mâ ta`büdûn"
+        },
+        {
+            "chapter": 109,
+            "verse": 3,
+            "text": "velâ entüm `âbidûne mâ a`büd"
+        },
+        {
+            "chapter": 109,
+            "verse": 4,
+            "text": "velâ ene `âbidüm mâ `abettüm"
+        },
+        {
+            "chapter": 109,
+            "verse": 5,
+            "text": "velâ entüm `âbidûne mâ a`büd"
+        },
+        {
+            "chapter": 109,
+            "verse": 6,
+            "text": "leküm dînüküm veliye dîn"
+        },
+        {
+            "chapter": 110,
+            "verse": 1,
+            "text": "iẕâ câe naṣru-llâhi velfetḥ"
+        },
+        {
+            "chapter": 110,
+            "verse": 2,
+            "text": "veraeyte-nnâse yedḫulûne fî dîni-llâhi efvâcâ"
+        },
+        {
+            "chapter": 110,
+            "verse": 3,
+            "text": "fesebbiḥ biḥamdi rabbike vestagfirh. innehû kâne tevvâbâ"
+        },
+        {
+            "chapter": 111,
+            "verse": 1,
+            "text": "tebbet yedâ ebî lehebiv vetebb"
+        },
+        {
+            "chapter": 111,
+            "verse": 2,
+            "text": "mâ agnâ `anhü mâlühû vemâ keseb"
+        },
+        {
+            "chapter": 111,
+            "verse": 3,
+            "text": "seyaṣlâ nâran ẕâte leheb"
+        },
+        {
+            "chapter": 111,
+            "verse": 4,
+            "text": "vemraetüh. ḥammâlete-lḥaṭab"
+        },
+        {
+            "chapter": 111,
+            "verse": 5,
+            "text": "fî cîdihâ ḥablüm mim mesed"
+        },
+        {
+            "chapter": 112,
+            "verse": 1,
+            "text": "ḳul hüve-llâhü eḥad"
+        },
+        {
+            "chapter": 112,
+            "verse": 2,
+            "text": "allâhu-ṣṣamed"
+        },
+        {
+            "chapter": 112,
+            "verse": 3,
+            "text": "lem yelid velem yûled"
+        },
+        {
+            "chapter": 112,
+            "verse": 4,
+            "text": "velem yekül lehû küfüven eḥad"
+        },
+        {
+            "chapter": 113,
+            "verse": 1,
+            "text": "ḳul e`ûẕü birabbi-lfeleḳ"
+        },
+        {
+            "chapter": 113,
+            "verse": 2,
+            "text": "min şerri mâ ḫaleḳ"
+        },
+        {
+            "chapter": 113,
+            "verse": 3,
+            "text": "vemin şerri gâsiḳin iẕâ veḳab"
+        },
+        {
+            "chapter": 113,
+            "verse": 4,
+            "text": "vemin şerri-nneffâŝâti fi-l`uḳad"
+        },
+        {
+            "chapter": 113,
+            "verse": 5,
+            "text": "vemin şerri ḥâsidin iẕâ ḥased"
+        },
+        {
+            "chapter": 114,
+            "verse": 1,
+            "text": "ḳul e`ûẕü birabbi-nnâs"
+        },
+        {
+            "chapter": 114,
+            "verse": 2,
+            "text": "meliki-nnâs"
+        },
+        {
+            "chapter": 114,
+            "verse": 3,
+            "text": "ilâhi-nnâs"
+        },
+        {
+            "chapter": 114,
+            "verse": 4,
+            "text": "min şerri-lvesvâsi-lḫannâs"
+        },
+        {
+            "chapter": 114,
+            "verse": 5,
+            "text": "elleẕî yüvesvisü fî ṣudûri-nnâs"
+        },
+        {
+            "chapter": 114,
+            "verse": 6,
+            "text": "mine-lcinneti vennâs"
+        }
+    ]
+}
