@@ -659,6 +659,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-raulgonzalezbor.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-raulgonzalezbor.min.json"
     },
+    "sqi_hasanefendinahi_la": {
+        "name": "sqi-hasanefendinahi-la",
+        "author": "Hasan Efendi Nahi",
+        "language": "Albanian",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hasanefendinahi-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hasanefendinahi-la.min.json"
+    },
+    "sqi_hasanefendinahi": {
+        "name": "sqi-hasanefendinahi",
+        "author": "Hasan Efendi Nahi",
+        "language": "Albanian",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hasanefendinahi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hasanefendinahi.min.json"
+    },
     "urd_abulaalamaududi_la": {
         "name": "urd-abulaalamaududi-la",
         "author": "Abul Ala Maududi",
