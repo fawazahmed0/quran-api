@@ -7,8 +7,17 @@
 
  - You can also fork this repo as a backup for future
 
-### Method 1:
-- Just [Download](https://github.com/fawazahmed0/quran-api/archive/1.zip) or clone this huge repo to get those files
+
+### Method 1(Using Git, Recommended):
+1. Install [Git](https://git-scm.com/downloads)
+
+2. Run the following commands:
+```bash
+git clone --filter=blob:none --no-checkout --depth 1  --sparse https://github.com/fawazahmed0/quran-api.git
+cd quran-api
+git sparse-checkout add database/linebyline/* database/chapterverse/* fonts/*
+git checkout
+```
 
 
 ### Method 2(Using SVN):
@@ -19,16 +28,9 @@ https://github.com/fawazahmed0/quran-api/trunk/database/chapterverse <br>
 https://github.com/fawazahmed0/quran-api/trunk/database/linebyline <br>
 https://github.com/fawazahmed0/quran-api/trunk/fonts <br>
 
-### Method 3(Using Git):
-1. Install [Git](https://git-scm.com/downloads)
 
-2. Run the following commands:
-```bash
-git clone --filter=blob:none --no-checkout --depth 1  --sparse https://github.com/fawazahmed0/quran-api.git
-cd quran-api
-git sparse-checkout add database/linebyline/* database/chapterverse/* fonts/*
-git checkout
-```
+### Method 3(Not Recommended):
+- Just [Download](https://github.com/fawazahmed0/quran-api/archive/1.zip) or clone this huge repo to get those files
 
 
 Facing any issue? [Ask me](https://github.com/fawazahmed0/quran-api/issues/new "Ask me ")
