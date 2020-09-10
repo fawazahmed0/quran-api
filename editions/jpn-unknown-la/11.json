@@ -1,0 +1,619 @@
+{
+    "chapter": [
+        {
+            "chapter": 11,
+            "verse": 1,
+            "text": "Arifu ramu ra (kono) Keisuke wa,(eichi ni yotte) shugo sa rete ori, mata Hideaki ni shite tsugyo sa reru okata kara no kaimeidearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 2,
+            "text": "(Sore de iuga i. ) `Arra no soto darenimo tsukaete wa naranai. Hontoni watashi wa keikoku-sha, mata kippo no dentatsu-sha to shite, kare kara anata gata ni (tsukawasa reta).'"
+        },
+        {
+            "chapter": 11,
+            "verse": 3,
+            "text": "Anata gata no omo no o yurushi o koi negae. Soshite anata gata wa, kaigo shite kare no moto ni kaere,(-so sureba arra wa) sadame rareta jiki made iroirona yoi mono o kyoju sa seru. Mata koseki no oi mono ni wa, sorezore hofu ni megumi o atae rareru.Daga moshi, somuki sarunaraba, watashi wa anata gata no tame ni idaina-bi no chobatsu o osoreru."
+        },
+        {
+            "chapter": 11,
+            "verse": 4,
+            "text": "`Anata gata wa arra no moto ni kaeru nodearu. Kare wa subete no koto ni zen'no de ara reru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 5,
+            "text": "Mi nasai. Kare-ra wa (sono tekii o) kare ni kakusou to shite, jibun-tachi no mune o tatami konde iru. A, jibun-tachi no i o (ikue ni) ki konde mo, kare hakare-ra no kakusu koto arawa wasu koto o shitte ora reru. Hontoni kare wa, mune no naka no himitsu o yoku shitte ora reru."
+        },
+        {
+            "chapter": 11,
+            "verse": 6,
+            "text": "Chijo no subete no ikimono de, sono o megumi o arra kara itadaite inai mono wanai. Kare wa sorera no kyoju-sho to kiryu-sho o shitte ora reru. Subete hakkiri to shomotsu ni (shirusa rete) aru."
+        },
+        {
+            "chapter": 11,
+            "verse": 7,
+            "text": "Kare koso wa gyokuza ga mizunokami ni atta toki, 6-nichi no ma ni ten to ji o sozo sa reta okata. Sore wa kare ga, anata gata no naka dare ga, okonai ni mottomo sugurete iru ka, meiryo ni sa reru tamedearu. Daga anata ga moshi,`anata gata wa, shigo kanarazu yomigae sa rerudearou.' Toieba, fushinjin-sha-tachi wa kitto,`sore wa akiraka ni majutsu nisuginai.' To iudearou."
+        },
+        {
+            "chapter": 11,
+            "verse": 8,
+            "text": "Moshi ware ga sadame no jiki made, kare-ra ni taisuru chobatsu o nobaseba, kare-ra wa kitto iudearou. `Nani ga (chobatsu o) okurasete iru no ka.' A, sore ga torai suru hi, nanimono mo, sore o yoke rarezu, kare-ra wa jibun-tachi ga chosho shite ita mono de, torikakoma rerudearou."
+        },
+        {
+            "chapter": 11,
+            "verse": 9,
+            "text": "Moshi ware ga, ningen ni Tadashi shiku jihi o hodokoshite aji washi-me, sonogo sore o kare-ra kara toriagereba, kitto zetsubo shite fushinjin ni naru."
+        },
+        {
+            "chapter": 11,
+            "verse": 10,
+            "text": "Daga wazawai ni mimawa reta nochi ware ga moshi onkei o aji wa shimeru to, kare wa,`fuko wa watashi kara satte shimatta.' To itte kanarazu kyoki shite jiman suru."
+        },
+        {
+            "chapter": 11,
+            "verse": 11,
+            "text": "Taeshinonde, zenko o nasu mono dake wa sode wanai. Korera no mono ni wa,(-zai no) yurushi to idaina hosho ga aru."
+        },
+        {
+            "chapter": 11,
+            "verse": 12,
+            "text": "Anata wa osoraku, keiji sa retamonono ichibu o hoki shitai (kimochi ni naru)dearou. Sonotame ni anata no mune wa sebame rarete wa inai ka. Sore wa kare-ra ga ko iu tamedearu. `Doshite kare ni zaiho ga kudasa renai nodarou. Mata naze 1-ri no tenshi mo, kare to issho ni konakatta nodearou ka.' Hontoni anata wa 1-ri no keikoku-sha ni suginai. Arra wa subete no koto o kanri sa reru kata de ara reru."
+        },
+        {
+            "chapter": 11,
+            "verse": 13,
+            "text": "Mata kare-ra wa,`kare ga sore (kuruan) o tsukutta nodesu.' To iu. Itte yaru ga i. `Moshi anata gata no kotoba ga shinjitsunaraba, sore ni ruisuru 10-sho o tsukutte, motte ki nasai. Mata dekirunara anata gata (o tasukeru koto no dekiru) arra igai no mono o yobi nasai.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 14,
+            "text": "Mo shikare-ra (kamigami) ga anata gata (no yobikake) ni kotaenainaraba, anata gata wa sore ga arra no o chishiki kara dake kudasa reta monodearu koto, mata kare no soto ni kami wanai koto o shiri nasai. Sorede anata gata wa, kokoro kara fukuju, kie suru no ka."
+        },
+        {
+            "chapter": 11,
+            "verse": 15,
+            "text": "Gense no seikatsu to sono eiga o nozomu mono ni wa, ware wa gense no kare-ra no okonai ni taishi jubun ni mukuirudearou. Kare-ra wa sukoshi mo herasa reru koto wa nai nodearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 16,
+            "text": "Korera no mono wa, yonese no hi goku no soto ni nanimonai-sha-tachidearu. Gense de kare-ra no nashitogeta koto wa mi o musubazu, sono itte ita koto wa, munashi mono ni naru."
+        },
+        {
+            "chapter": 11,
+            "verse": 17,
+            "text": "Nushi kara no meihakuna shirushi o uketa shonin (yogen-sha) ni yomi kikasa reta mono (shinja-tachi). Soshite sore izen ni doshideari jihidearu musa no Keisuke (rippo) o itadaite iru hitobito. Korera (keiji no kudatta min) koso wa sore (kuruan) o shinjiru. Daga sore o shinjinai ippa no mono-tachi wa, hi goku ga kare-ra no yakusoku sa reta bashodearu. Dakara anata (muhanmado) wa, sore ni tsuite utagatte wa naranai. Hontoni sore wa anata no nushi kara no shinridearu. Daga hitobito no oku wa shinjinai."
+        },
+        {
+            "chapter": 11,
+            "verse": 18,
+            "text": "Arra ni tsuite kyogi o tsukuru mono yori, hanahadashi fugina mono ga arou ka. Kare-ra wa omo no omoto ni hikidasa re, sono shonin-tachi wa,`korera no mono wa,-nushi ni kanshite itsuwatta monodesu' to iudearou. Mi nasai. Arra no ikari ga fugimono ni kudaru."
+        },
+        {
+            "chapter": 11,
+            "verse": 19,
+            "text": "Korera no mono wa, arra no michi (isuramu no oshie) kara (hitobito o) samatage,(sonomichi jitai o) mageyou to suru mono, mata raise o hiteisurumonodearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 20,
+            "text": "Korera no mono wa, chijo ni oite batsu o nogareru koto mo dekizu, mata arra no soto ni gadian mo nai nodearu. Kare-ra ni taisuru chobatsu wa baika sa rerudearou. Kare-ra wa kiku koto mo dekizu, mata (meikaku ni) miru koto mo dekinakatta."
+        },
+        {
+            "chapter": 11,
+            "verse": 21,
+            "text": "Korera no mono wa, jibun jishin o horoboshita mono de, kare-ra ga netsuzo shite ita mono wa, kare-ra kara hagure satta."
+        },
+        {
+            "chapter": 11,
+            "verse": 22,
+            "text": "Utagau koto naku korera no mono wa, raise no saidai no shippai-shadearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 23,
+            "text": "Hontoni shinko shite zenko ni hagemi, mata omo no gozen de kenkyona-sha, korera no mono wa rakuen no junin de, eien ni soko ni sumudearou."
+        },
+        {
+            "chapter": 11,
+            "verse": 24,
+            "text": "Kono ryosha o tatoereba, hitori wa mojin de mimi no toi mono no yodeari,-gai wa me mo miereba mimi mo kikoeru monodearu. Kurabete mite ryosha wa onajidearou ka. Soredemo anata gata wa chui shinai no ka."
+        },
+        {
+            "chapter": 11,
+            "verse": 25,
+            "text": "Mata ware wa nufu o, kare no min ni tsukawashita. (Kare wa itta. ) `Watashi wa anata gata e no, komeina keikoku-shadearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 26,
+            "text": "Anata gata wa arra no soto ni tsukaete wa naranai. Watashi wa anata gata no tame ni, kunan no hi no chobatsu o hontoni osoreru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 27,
+            "text": "Daga kare no min no naka fushinjin'na shucho-tachi wa itta. `Anata o miru to, watashi-tachi to onaji ningen ni sugimasen. Mata watashi-tachi no naka demo anata shitagau mono wa, shiryo no mijukuna mottomo iyashi mono ni sugimasen. Mata anata ni wa, watashi-tachi ni masaru chosho mo mitome raremasen. Iya, watashi-tachi wa, jissai anata gata o uso-tsukidearu to kangaemasu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 28,
+            "text": "Kare wa itta. `Watashi no hitobito yo, anata gata wa kangaete mi nasai. Moshi watashi ga omo kara no meisho no ue ni tachi, kare ga omoto kara watashi ni jihi o atae rarete mo, sore ga anata gata no me ni fumeiryoda to iunaraba, sorehodo iya tte iru no ni, anata gata ni sore o shiiru koto ga dekiyou ka."
+        },
+        {
+            "chapter": 11,
+            "verse": 29,
+            "text": "Hitobito yo, watashi wa kore (dendo) ni taishite, anata gata ni zaika o motomenai. Watashi wa, tada arra kara hosho o itadaku dakedearu. Mata watashi wa, shinko-sha-tachi o (anadotte) oikaesou to wa shinai. Hontoni kare-ra wa omoni au midearu. Mushiro anata gata wa, muchi no mindearu to watashi wa kangaeru."
+        },
+        {
+            "chapter": 11,
+            "verse": 30,
+            "text": "Hitobito yo, watashi ga moshi kare-ra o oikaeshitanaraba, arra ni taishi dare ga watashi o tasukerudearou. Soredemo anata gata wa chui shinai no ka."
+        },
+        {
+            "chapter": 11,
+            "verse": 31,
+            "text": "Watashi wa anata gata ni mukatte, watashi ga arra no takaramono o motte irutomo, yugen-kai o shitte irutomo, mata watashi wa tenshidearu to mo iwanai. Nao mata watashi wa anata gataga keishi suru mono ni mukatte, arra wa kare-ra ni (don'na) zensei mo, o sazuke ni naranaidarou to iwanai. Arra wa, kare-ra no kokoronouchi o, mottomo yoku shitte ora reru. Moshi sodeattanaraba, watashi wa fugi no todearu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 32,
+            "text": "Kare-ra wa itta. `Nufu yo, anata wa watashi-tachi to rongi shite watashi-tachi to no ronso o nagabika semashita. Moshi anata no kotoba ga shinjitsunaraba, anata ga yakusoku shita koto (chobatsu) o watashi-tachi ni (o ? ) Shi nasai.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 33,
+            "text": "Kare wa itta. `Arra no okokoro ga areba, kare dake ga anata gata ni sore o genshutsu sa rerudearou. Anata gata wa (sore o) yoke rarenai nodearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 34,
+            "text": "Tatoe watashi ga (yoi) chukoku o, anata gata ni ataeyou to nozon demo, moshi arra ga anata gata o, mayou ni makaseru o nozominaraba, watashi no jogen wa anata gata ni muekidearou. Kare koso anata gata no omode ara reru. Anata gata wa kare no omoto ni kisa reru nodearu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 35,
+            "text": "Mata, kare-ra (makka no fushinjin-sha-tachi) wa kare ga sore (kuruan) o tsukuridashita' to itte iru. Itte yaru ga i. `Moshi watashi ga sore o tsukuridashitanaraba,-zai wa watashi ni aru. Daga watashi wa, anata gata ga okashita tsumi ni haka ka wa Ri ga nai.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 36,
+            "text": "Nufu wa kono yo ni keiji sa reta. `Sudeni shinko shita mono no soto wa, mo anata no min wa shinko shinaidearou.Dakara kare-ra no okonai ni tsuite nayande wa naranai."
+        },
+        {
+            "chapter": 11,
+            "verse": 37,
+            "text": "Soshite ware no menomaede, keiji ni shitagatte hakobune o tsukure. Mata fugi o okonau mono no tame ni (kono Jo) ware ni negaidete wa naranai. Kare-ra wa oborejinudearou.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 38,
+            "text": "Sokode kare wa hakobune o tsukuri hajimeta. Kare no min no shucho-tachi wa, sono-gawa o sugiru tabi ni kare o Akira Emi shita. Kare wa itta. `Tatoe anata gataga (ima) watashi-tachi o chosho shite mo, izure anata gataga chosho suru yo ni, kitto watashi-tachi ga anata gata o chosho suru yo ni naro.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 39,
+            "text": "`Anata gata wa yagate haji-ba no chobatsu ga dare ni kuru ka shirudearou. Towa no chobatsu ga dare no ue ni furikakaru ka o.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 40,
+            "text": "Tsuini waga meirei wa kudatte, daichi no sho mizu ga seki o kitte hotobashiri deta toki, ware wa itta. `Subete no ikimono no hitotsu ga ito, shinko-sha-tachi to, anata no kazoku de senkoku ga sudeni kudasa reta mono igai o sono naka ni nose nasai.'Daga kare to tomoni shinko shita mono wa sukunakatta."
+        },
+        {
+            "chapter": 11,
+            "verse": 41,
+            "text": "Kare (nufu) wa itta. `Arra no gyomei ni yotte, kore ni nore. Koko ni mo teihaku ni mo sore ni yore. Hontoni watashi no omo wa, kan'yo ni shite jihibukaku ara reru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 42,
+            "text": "Hakobune wa kare-ra o nosete yama no yona nami no ue ni ugokidashita. Sonotoki nufu wa (mina kara) hanare teitakare no musuko ni sakende itta. `Musuko yo, watashi to issho ni nore. Fushin-sha-tachi to issho ni ite wa naranai.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 43,
+            "text": "Musuko wa (kotaete) itta. `Watashi wa yama ni hinan shiyou. Sore wa (Hiroshi) mizu kara sukuudearou.' Kare (nu − fu) wa itta. `Kyo wa arra no o meirei ni yotte kare no jihi ni yokusuru mono no soto wa, nanimono mo sukuwarenai.' Sonotoki 2-ri no ma ni nami ga kite, musuko wa oboreru mono no 1-ri to natta."
+        },
+        {
+            "chapter": 11,
+            "verse": 44,
+            "text": "O kotoba ga atta. `Daichiyo, mizu o nomikome. Ten yo,(ame o) furasu koto o tome nasai.' Mizu wa hiite, jitai wa osamari,(fune wa) judi sanjo ni noriageta. Mata ose rareta. `Fugi o okonau min o oiharae.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 45,
+            "text": "Nufu wa kare no omo o yonde moshiageta. `Omo yo, watashi no musuko wa (waga)-ka no ichiindesu. Anata no yakusoku wa hontoni shinjitsu de, anata wa saiketsu ni mottomo sugureta okata de ara remasu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 46,
+            "text": "Kare wa ose rareta. `Nufu yo, kare wa hontoni anata no kazokude wanai. Kare no okonai wa tadashikunai. Anata no shiranai koto ni tsuite, ware ni motomete wa naranai. Ware wa anata ga muchinamono to naranai yo imashimeru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 47,
+            "text": "Kare wa moshiageta. `Omo yo, hontoni watashi ka shiri mo shinai koto ni tsuite, anata ni koi motomenai yo, o yurushi o negaimasu. Anata ga watashi o o yurushi ni nari, jihi o atae rarenakereba, watashi wa kitto, shippai-sha no nakama ni narudeshou.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 48,
+            "text": "(Kare ni) o kotoba ga atta. `Nufu yo, ware kara no heian ni yotte,(fune o) ori nasai. Anata ni shukufuku are, mata anata to tomoni iru oku no hitobito no ue ni mo. (Soto ni) ware ga (sukoshinoaida no seikatsu o) kyoju sa seru hitobito moaruga, kekkyoku kare-ra wa ware kara itamashi chobatsu o ukerudearou."
+        },
+        {
+            "chapter": 11,
+            "verse": 49,
+            "text": "Kore wa ware ga anata ni keiji shita, yugen-kai ni tsuite no shosokudearu. Anata mo anata no hitobito mo izen wa sore o shiranakatta. Dakara taeshino be. (Yoshi) hate wa,-nushi o osoreru mono ni ki suru nodearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 50,
+            "text": "(Ware wa) ado no min ni, sono doho no fudo o (tsukawashita). Kare wa itta. `Watashi no hitobito yo, arra ni tsukae nasai. Anata gata ni wa, kare no soto ni kami wa nai nodearu. Anata gata wa (kamigami o) netsuzo shite iru nisuginai."
+        },
+        {
+            "chapter": 11,
+            "verse": 51,
+            "text": "Hitobito yo, watashi wa kore (shosoku) ni taishite, nani no hoshu mo anata gata ni motomenai. Watashi no hoshu wa, watashi o tsukura reta kare no omoto ni dake aru nodearu. Anata gata wa sore demo satoranai no ka."
+        },
+        {
+            "chapter": 11,
+            "verse": 52,
+            "text": "Watashi no hitobito yo, anata gata no omo no o yurushi o koi motome, kaigo shite kare ni kaere. Kare wa anata gata no ue ni ten (kara kumo) o okuri, yutaka ni ame o furase, anata gata no chikara ni sarani chikara o soe rareru. Dakara anata gata wa somuki satte, tsumi o okashite wa naranai.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 53,
+            "text": "Kare-ra wa itta. `Fudo yo, anata wa watashi-tachi ni tatta hitotsu no meisho sura,(chu? ) Sanai. Watashi-tachi wa (tan'naru) anata no kotoba no tame ni, watashi-tachi no kamigami o sutenai. Mata anata no shinja ni mo naranai."
+        },
+        {
+            "chapter": 11,
+            "verse": 54,
+            "text": "Watashi-tachi no kamigami no aru mono ga, jaakuna gendo de anata o miwaku shita noda to iu dakedearu.' Kare wa (kotaete) itta. `Watashi wa, rissho o arra ― ni o negai suru. Anata gata mo, watashi ga (kamigami o) haisuru koto ni, Sekiri nai koto o shogen shite kudasai."
+        },
+        {
+            "chapter": 11,
+            "verse": 55,
+            "text": "Kare igai (no kamigami o nakama to shi)te, mina de watashi ni taishi sakubo shi nasai. Nani mo yuyo wa iranai."
+        },
+        {
+            "chapter": 11,
+            "verse": 56,
+            "text": "Watashi no omodeari, anata gata no omode ara reru arra o, watashi wa shinrai suru. Subete no ikimono no hitotsu demo, arra ga, sono maegami o ( 担 ? ) Mare nai mono wanai. Hontoni watashi no omo wa, tadashi michi no ue ni ora reru."
+        },
+        {
+            "chapter": 11,
+            "verse": 57,
+            "text": "Tatoe anata gata ga somuki satte mo, watashi wa anata gata no tame ni, atae rareta mono o sudeni tsutaeta. Omo wa anata gata no kawari ni, hoka no min o tsuga se rareta. Anata gata wa sukoshi mo, kare o gaisuru koto ga dekinai nodearu. Hontoni watashi no omo wa, subete o mimamora reru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 58,
+            "text": "Waga meirei ga kudatta toki, ware no jihi ni yotte fudo to kare to tomoni shinko suru mono-tachi wa sukuwa reta. Ware wa 酪 I chobatsu kara, kare-ra o sukutta nodearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 59,
+            "text": "Kore wa, ado (no min no koto)deatta. Kare-ra wa omo no shirushi o kyohi shi, kare no shito-tachi ni somuki, sorezore no seiryoku-sha, ganmeina hangyaku-sha no meirei ni shitagatta."
+        },
+        {
+            "chapter": 11,
+            "verse": 60,
+            "text": "Sore de kare-ra wa, gense demo fukkatsu no hi demo, noroi ni tsukimatowa reta. A miyo, hontoni ado wa, kare-ra no omo o shinko shinakatta. A miyo, fudo no min (no shikai kara) ado wa kesa reta."
+        },
+        {
+            "chapter": 11,
+            "verse": 61,
+            "text": "(Ware wa) samudo no min ni, sono doho sarifu o (noko wa shita). Kare wa itta. `Watashi no hitobito yo, arra ni tsukae nasai. Kare no soto ni, anata gata ni kami wa nai nodearu. Kare wa daichi kara anata gata o zo-ka sa re, soko ni sumawase rareta. Sore de kare no yurushi o koi negai, kaigo shite kare ni kaere. Hontoni watashi no omo wa, sugu chikaku ni ora re,(inori ni) kotae rareru okatadearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 62,
+            "text": "Kare-ra wa itta. `Sarifu yo, anata wa watashi-tachi no naka de, izen nozomi o kaketa jinbutsudeatta. (Ima) anata wa, watashi-tachi no sosen ga tsukaeta mono ni tsukaeru koto o kinjiru no ka. Daga anata ga susumeru oshie ni tsuite, watashi-tachi wa makotoni utagai o motte iru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 63,
+            "text": "Kare wa itta. `Watashi no hitobito yo, kangaete mita no ka, watashi ga omo kara no akashi no ue ni tachi, kare wa watashi ni, shitashiku jihi o atae rareru no ni, moshi watashi ga kare ni shitagawanainaraba, dare ga arra (no ikari) kara watashi o kyujo suru koto ga dekiyou ka. Anata gata wa watashi o motto hametsu shite shimau dakedearu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 64,
+            "text": "Watashi no hitobito yo, koreha arra no mesu rakuda de, anata gata ni taisuru hitotsu no shirushidearu. Arra no daichi de hoboku shi, kore ni gai o kuwaete wa naranai. Midjika ka na chobatsu ni osowa renai yo ni shi nasai."
+        },
+        {
+            "chapter": 11,
+            "verse": 65,
+            "text": "Daga kare-ra wa, sono hiza no ken o kitta. Sore de kare (sarifu) wa itta. `3-Nichi no ma anata gata no ie de (nama o) tanoshime. Sore wa itsuwari no nai yakusokudearu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 66,
+            "text": "Waga meirei ga kudatta toki, jihi ni yotte ware wa sarifu narabini kare to tomoni shinko shita-sha-tachi o sukui, mata sonohi no chijoku kara mo sukutta. Hontoni anata no omo wa, kyodai ni shite iryoku narabinaki okatadearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 67,
+            "text": "Hitokoe (chobatsu) ga, fugi no mono o osotta. Kare-ra wa yokuasa sono uchinonaka de fushite ita."
+        },
+        {
+            "chapter": 11,
+            "verse": 68,
+            "text": "Soko wa marude, darehitori sunde inakatta ka no yodeatta. Samudo no hitobito wa,-nushi o shinjinakatta. Samudo yo (arra no jihi kara) tsuiho sa re yo."
+        },
+        {
+            "chapter": 11,
+            "verse": 69,
+            "text": "Waga shito-tachi ga, iburahimu no moto ni kite, kippo o (koe? ) Shita. Kare-ra wa,`heian'are.' To ii, kare mo,`heian'are.' To kotae,-ji o utsusazu, yaita koushi de motenashita."
+        },
+        {
+            "chapter": 11,
+            "verse": 70,
+            "text": "Daga kare-ra no te ga sore ni nobinai no o mite, kare wa fuan ni kanji, kare-ra ni osore o daita. Kare-ra wa itta. `Osorete wa naranai, jitsuwa watashi-tachi wa, ruto no min ni tsukawasa reta monodearu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 71,
+            "text": "Sonotoki, kare (iburahimu) no tsuma ga tatte ite, warattanode, ware wa kano on'na ni isuhaku no koto, isuhaku no ato, yaakobu no (san reru) kippo o tsutaeta."
+        },
+        {
+            "chapter": 11,
+            "verse": 72,
+            "text": "Ka no on'na wa itta. `A , nasakenai, watashi wa ro fujindeari, kono otto mo rojin'nanoni (ko ga) umemashou ka. Hontoni kore wa fushigina kotodesu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 73,
+            "text": "Kare-ra wa itta. `O , kono-ka no hitobito yo, anata gata wa, arra no meirei ni odoroku no ka. Arra no jihi to shukufuku ga anata gata no ue ni aru yo ni. Hontoni kare wa sanbi subeki ho, eiko ni michita kata de ara reru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 74,
+            "text": "Sorede iburahimu no osore ga kie, kippo ga kare ni tsutae rareta toki, kare wa ruto no min no tame ni ware ni tangan shi hajimeta."
+        },
+        {
+            "chapter": 11,
+            "verse": 75,
+            "text": "Hontoni iburahimu wa, shinbodzuyoku, kokoro no yasashi, Ume Satoru shite (omoni) kaetta monodearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 76,
+            "text": "(Omo wa ose rareta. ) Iburahimu yo, kono koto o dan'nen shi nasai. Sudeni omo no o meirei wa kudatte iru. Sakerarenai chobatsu ga, kare-ra ni kudaru nodearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 77,
+            "text": "Ware no shito-tachi ga ruto no moto ni kita toki, kare wa (ru boku no kyakujin to shite no) shito no tame ni totemo kokoro o nayamashi, kare jishin (hitobito no danshoku no fushu kara) kare-ra o mamorenai koto o kanashinde,`koreha kunan no hidearu.' To itta o"
+        },
+        {
+            "chapter": 11,
+            "verse": 78,
+            "text": "hitobito (ruto no min) wa isoide kare no moto ni kita. Kore made kare-ra wa, kegarawashi okonai (danshoku koi) o shite itanode, kare wa itta. `Watashi no hitobito yo, koko ni watashi no musume-tachi ga iru. Anata gata ni totte wa (musume-tachi to kekkon suru koto ga) mottomo seijodearu. Arra o osore nasai. Watashi no hinkyaku ni kanshite, watashi ni haji o kaka senaide kure. Anata gata no naka ni, tadashi kokoro no mono ga hitori mo inai no ka.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 79,
+            "text": "Kare-ra wa itta. `Watashi-tachi ga anata no musume-tachi ni, motomeru ki no nai koto o, anata wa yoku shitte iru hazudearu. Mata watashi-tachi ga nozomu mono mo anata ni wakatte iru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 80,
+            "text": "Kare wa (inotte) itta. `Watashi ni, anata gata o osaeru chikara ga arimasu yo. Moshikuwa chikaradzuyoi shiji ni azukaru koto ga dekimasu yo ni.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 81,
+            "text": "Kare-ra (shito-tachi) wa itta. `Ruto yo hontoni watashi-tachi wa, anata no omo no shitodearu. Kare-ra wa kesshite anata ni te o fureru koto wa dekinai. Sorede yoru no ma ni anata no kazoku o tsurete dete iki nasai. Soshite anata gata no naka, ichi-ri demo ushiro o furimuite wa naranai. Anata no tsuma wa betsudearu. Ka no on'na wa, kare-ra (sodomu no jumin) no sogu shita koto ni sogu surudearou. Kare-ra ni sadame rareta toki wa, sochodearu. Asa wa chikaide wanai ka.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 82,
+            "text": "Sorede waga meirei ga kudatta toki, ware wa sore (machi) o tenpuku shi, sono-jo ni ware wa ikuenimo yaita doro no ishi o ame to fura seta."
+        },
+        {
+            "chapter": 11,
+            "verse": 83,
+            "text": "(Sono ishi ni wa) arra no omoto de,(chobatsu no) kigo ga tsuke rarete ita. Sorera wa, fugi o okonau mono no ue ni mo furikakaru nodearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 84,
+            "text": "(Ware wa) mata madoyan no min ni sono doho no shuaibu o (tsukawashita). Kare wa itta. `Watashi no hitobito yo, arra ni tsukae nasai. Anata gata ni wa, kare no soto ni kami wa nai nodearu. Mata sunpo ya ryome o sukunaku shite wa naranai. Mita tokoro anata gata wa han'ei shite iruga, watashi wa anata gata ni,(issai o) torimaku hi no chobatsu ga kudaru no o osoreru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 85,
+            "text": "`Hitobito yo, sunpo ya ryome o seikaku ni hakare, hito no mono o azamuki totte wa naranai. Mata chijo de akuji o okonatte taihai o (nishi? ) Shite wa naranai."
+        },
+        {
+            "chapter": 11,
+            "verse": 86,
+            "text": "Moshi anata gataga shinjanaraba, arra no (tamamono de temoto ni) nokosa reta mono koso, anata gata no tame ni mottomo yoi monodearu. Watashi wa anata gata no mihari hitode wanai.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 87,
+            "text": "Kare-ra wa itta. `Shuaibu yo, anata no inoru tokoro no mono wa, watashi-tachi no sosen ga suhai shita mono o suteru yo ni anata ni meijita no ka. Mata jibun no zaisan ni kanshi, nozomi-dori ni shori shite wa naranai no ka. Hontoni anata wa, shinsetsu ni tadashi michi ni michibiku monona no ka.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 88,
+            "text": "Kare wa (kotaete) itta. `Hitobito yo, kangaete mi nasai. Watashi ga omo kara no akashi no ue ni tachi, mata kare kara yoi o megumi o atae rarete iru (no ni,-nushi no keiji o tsutaeru koto o watashi ga okotarou ka). Mata anata gata ni kin shita koto o, in de okonau koto o nozomanai. Watashi no koi negau tokoro wa, tada-ryoku o tsukushite (yononaka o) kyosei suru kotodeari, arra ni yoru igai ni wa watashi no seiko 〔taufiku〕 wa nai nodearu. Watashi wa kare ni shinrai shi, kare ni Ume Satoru shite kaeru."
+        },
+        {
+            "chapter": 11,
+            "verse": 89,
+            "text": "Hitobito yo, watashi ni igi o tonaete tsumi o okashi nufu no min ya fudo no min, mata sarifu no min ga ochitta no to onaji (unmei) ni ochitte wa naranai. Ruto no min ni itatte wa, anata ga tato amari endoku wanai."
+        },
+        {
+            "chapter": 11,
+            "verse": 90,
+            "text": "Sorede anata gata no omo no o yurushi o koi, kaigo shite kare ni kaere. Hontoni watashi no omo wa jihibukaku onjo ni atsui okatadearu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 91,
+            "text": "Kare-ra wa itta. `Shuaibu yo, anata no iu koto o marude rikai dekinai. Mata watashi-tachi wa, hontoni anata wa tayori ni naranai to omou. Anata no dozoku (no koto) o kangaenakattanaraba, watashi-tachi wa kitto anata o ishi-uchi ni shitadearou. Anata wa watashi-tachi no made wa muryokuna nodearu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 92,
+            "text": "Kare (shuaibu) wa itta. `Hitobito yo, anata gata wa arra yori mo, watashi no dozoku no kata o jushi suru no ka. Kare o mushi shite, anata gata no haigo ni suteru no ka. Hontoni watashi no omo wa, anata gata no okonau koto o torikakoma reru."
+        },
+        {
+            "chapter": 11,
+            "verse": 93,
+            "text": "Hitobito yo, anata gata wa jibun no yarikata de okonauga yoi. Watashi mo mata (watashi no tsutome o) okonaudearou. Yagate anata gata wa shirou. Dare ni hazubeki chobatsu ga kudaru no ka, mata dare ga itsuwatta no ka o. Anata gata wa mate, watashi mo mata anata gata to tomoni matsu monodearu.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 94,
+            "text": "Waga meirei ga kudatta toki, ware no jihi ni yotte shuaibu to kare to tomoni shinko shita-sha-tachi wa sukuwa reta. Daga fugi o itta-sha-tachi ni wa hitokoe (chobatsu) ga osoi, yokuasa kare-ra wa sono uchinonaka ni, fushite ita,"
+        },
+        {
+            "chapter": 11,
+            "verse": 95,
+            "text": "kare-ra wa, marude soko ni sunde inakatta ka no yodeatta. Chodo samudo ga horobita yo ni madoyan wa horobita."
+        },
+        {
+            "chapter": 11,
+            "verse": 96,
+            "text": "Mata ware wa, shirushi to meiryona ken'i to o sazukete, musa ichi o noko wa shita."
+        },
+        {
+            "chapter": 11,
+            "verse": 97,
+            "text": "Firuaun to sono shucho-tachi ni. Daga, kare-ra wa firuaun no meirei ni shitagatta. Shikashi firu~aun no meirei wa, tadashi michi ni michibiku monode wa nakatta."
+        },
+        {
+            "chapter": 11,
+            "verse": 98,
+            "text": "Fukkatsu no hi ni kare (firuaun) wa, hitobito o hikiite hi goku ni michibiki kudarudearou. Nanto osore shi mizubadearu koto yo."
+        },
+        {
+            "chapter": 11,
+            "verse": 99,
+            "text": "Kare-ra wa gense ni oite mo Fuku Tsutomu no hi ni mo noroi ni tsukimatowa reta. Nanto osore shi tamamonodearu koto yo."
+        },
+        {
+            "chapter": 11,
+            "verse": 100,
+            "text": "Korera wa ware ga anata (muhanmado) ni kataru, mukashi no muramura no shosoku no ichibudearu. Sono aru mono wa nao sonzai suruga, aru mono wa shometsu shita."
+        },
+        {
+            "chapter": 11,
+            "verse": 101,
+            "text": "Ware ga kare-ra o son tta node wanai. Kare-ra ga jibun jishin o son tta nodearu. Arra igai ni kare-ra ga inotte ita kamigami wa, anata no omo no meirei ga kudatta toki, kare-ra ni nani mo yakudatsu koto wa nakatta. Tada hametsu o jocho suru dakedeatta."
+        },
+        {
+            "chapter": 11,
+            "verse": 102,
+            "text": "Kono yo ni kare-ra ga aku o okonatte iru toki, muramura o fui ni osou koto ga, anata no omo no torae-katadearu. Kare no torae-kata wa, hontoni tsuretsudeari kakokudearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 103,
+            "text": "Hontoni kono nakaniha raise no chobatsu o osoreru mono e no shirushi ga aru. Sore wa ningen ga isseini shoshu sa reru hideari, rissho sa rerubeki hidearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 104,
+            "text": "Sore wa sadame rareta ikki no tame ni sugizu, ware wa sore o chien sa senai."
+        },
+        {
+            "chapter": 11,
+            "verse": 105,
+            "text": "Sonohi ga kureba, dare mo kare no yurushi ga nakereba hatsugen suru koto wa dekinai. Kare-ra no naka no (aru mono wa) mugodeari, mata (aru mono wa) kofukudearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 106,
+            "text": "Sonotoki mugo na-sha-tachi wa, hi goku no naka ni iyou. Sono Chu de kare-ra wa, tameiki to susurinaki (ni aegu dakedearu)."
+        },
+        {
+            "chapter": 11,
+            "verse": 107,
+            "text": "Anata no omo no o konomi ni naranai ijo, ten to ji no tsudzuku kagiri, sono naka ni eien ni sumudearou. Hontoni anata no omo wa, o nozomi no koto o (kanarazu) nashitoge rareru."
+        },
+        {
+            "chapter": 11,
+            "verse": 108,
+            "text": "(Sonohi) kofukuna-sha-tachi wa rakuen ni hairi, anata no omo no o konomi ni yoru igai, ten to ji no tsudzuku kagiri, sono naka ni eien ni sumudearou. Kagirinai tamamonodearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 109,
+            "text": "Dakara korera no hitobito ga suhai suru mono ni tsuite, anata wa omoiwazurau koto wanai. Kare-ra wa sosen ga izen ni tsukaeta mono ni tsukaeru nisuginai. Hontoni ware wa, kare-ra no tokubun o (sukoshi mo) herasu koto naku shikyu suru."
+        },
+        {
+            "chapter": 11,
+            "verse": 110,
+            "text": "Ware wa musa ni keiten o sazuketaga, sore ni tsuite (yudayahito no ma ni) iron ga atta. Anata no nushi kara maemotte, okotoba ga kudasa rete inakattanaraba, sono koto wa kare-ra no ma de kitto kaiketsu sa retadearou. Daga-sue ni kare-ra wa sore ni tsuite fuan'na utagai o daite iru."
+        },
+        {
+            "chapter": 11,
+            "verse": 111,
+            "text": "Anata no omo wa kare-ra no subete no gendo ni taishite, jubun ni mukuwa reru. Hontoni kare wa, kare-ra no okonai o jukuchi nasa reru."
+        },
+        {
+            "chapter": 11,
+            "verse": 112,
+            "text": "Sorede anata to, mata anata to tomoni Ume Satoru shita mono ga meiji rareta yo ni,(tadashi michi o) kataku mamore.-Ho o koete wa naranai. Kare wa anata gata no okonai o gozonji de ara reru."
+        },
+        {
+            "chapter": 11,
+            "verse": 113,
+            "text": "Anata gata wa aku o okonau mono o tayori ni shite wa naranai.-Sa mo nai to goka ga anata o toraerudearou. Anata gata ni wa, arra no soto ni gadian wa naku, tasuke rareru koto mo nai."
+        },
+        {
+            "chapter": 11,
+            "verse": 114,
+            "text": "Reihai wa hiruma no ryotan ni oite, mata yoru no hajime no toki ni, tsutome o mamore. Hontoni zenko wa, akugyo o shometsu sa seru. Kore wa (omo o) nenjiru mono ni taisuru kunkaidearu."
+        },
+        {
+            "chapter": 11,
+            "verse": 115,
+            "text": "Taeshinobe. Hontoni arra wa, zenkosha e no hosho o munashiku sa renai."
+        },
+        {
+            "chapter": 11,
+            "verse": 116,
+            "text": "Anata ga tayori izen no sedai no mono no ma ni wa, naze kare-ra no naka ware ga sukutta shosu no mono o nozoite wa, chijo no taihai o osaeru yutokuna-sha-tachi ga inakatta nodearou ka. Fugi o okonau mono-tachi wa, kyoraku o musabori-zai o okashite ita."
+        },
+        {
+            "chapter": 11,
+            "verse": 117,
+            "text": "Anata gata no omo wa, soko no kyoju-min ga kyosei (ni ryui) suru ma wa,(tan'naru) akugyo no tame ni toshi o horobosa renai."
+        },
+        {
+            "chapter": 11,
+            "verse": 118,
+            "text": "Mata anata no omo no okokoronaraba, kare wa hitobito o hitotsu no unma ni nasa retadearou. Daga kare-ra wa hanmoku shi atte iru."
+        },
+        {
+            "chapter": 11,
+            "verse": 119,
+            "text": "Anata no omo ga jihi o tare rareru mono wa betsudearu. Kare wa so naru yo ni, kare-ra o tsukura reta. Soshite,`ware wa kanarazu Jin to ningen o issho ni shite, jigoku o mitasu.' To no omo no o kotoba wa mattou sa reta."
+        },
+        {
+            "chapter": 11,
+            "verse": 120,
+            "text": "Oyoso ware ga, shito-tachi no shosoku ni tsuite anata ni katatta koto wa subete, anata no kokoro o sore de kengo ni suru tame no monodearu. Sono nakaniha shinri to kankoku, to shinko suru mono e no kunkai ga aru."
+        },
+        {
+            "chapter": 11,
+            "verse": 121,
+            "text": "Sore de fu shinko-sha ni itteyaroga i. `Anata gata wa jibun no yarikata de okonauga i. Watashi-tachi mo (jibun no tsutome o) okonau."
+        },
+        {
+            "chapter": 11,
+            "verse": 122,
+            "text": "Anata gata wa machi nasai. Watashi-tachi mo matte iru.'"
+        },
+        {
+            "chapter": 11,
+            "verse": 123,
+            "text": "Ten to ji no yugen-kai wa, arra no yudeari, mata subete no koto (mono no kettei) wa kare ni kizoku suru.Dakara kare ni tsukae, kare o shinrai shi nasai. Omo wa anata gata no okonau koto o, orosoka ni nasa renai."
+        }
+    ]
+}

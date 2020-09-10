@@ -1,0 +1,914 @@
+{
+    "chapter": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "Seizento retsu o nasu-sha-tachi ni oi te."
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "Karitate ou mono ni oi te."
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "Mata kunkai (no guruān) o yomi kika seru mono ni oite, chikau."
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "Hontōni anata gata no kami wa, yuiitsu no omodearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "Ten to ji, soshite sonoaida ni aru subete no mono no shu, mata hinode o tsukasa doru omodearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "Hontōni ware wa, shinshin de kasō no ten o kazari,"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "(arrā no meirei ni) sakarau akuma ni taisuru mori to shita."
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "Kare-ra wa happō kara uta re, saikō no kaigi o nusumi kiku koto wa dekinai."
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "Gekitai sa rete, kare-ra wa towa no chōbatsu o ukeru."
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "Tōchō shi eta mono ga atte mo, hakunetsu no honō ga tsuiseki suru."
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "Kare-ra (makka no tashinkyō to) ni toe. `Kare-ra to ware no tsukutta mono (tenshi) no dochira ga tsuyoku tsukura rete iru ka.' Ware wa motomoto, nebari no aru doro de kare-ra o tsukutta nodearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "Anata wa kantan shite iru to iu no ni, kare-ra wa chōshō suru."
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "Keikoku sa rete mo, kare-ra wa keikoku o ukeirenai."
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "Mata kare-ra wa, shirushi o mite mo chōshō suru bakari."
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "Soshite kare-ra wa iu. `Kore wa akiraka ni majutsu ni chigai arimasen."
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "Watashi-tachi ga shinde tsuchi to hone ni natte kara,(mata) yobiokosa re ma shiyou ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "Tōi sosen-tachi mo (issho nidesu ka) to iu."
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "Gen tte yaru ga ī. `Sonotōri. Anata gata wa iyashime rareru nodearu.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "Sore wa tada hitokoe no sakebidearu. Sonotoki kare-ra wa (osoroshī kōkei o) manoatari ni mite,"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "`ā nasakenai, kore ga shinpan no hidesu ka.' To iu."
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "`Kore wa anata gata ga shinjinakatta kubun no hidearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "Fugi o okonatte ita-sha-tachi, sono tsuma-tachi, mata kare-ra ga arrā o sashioite hai shite ita mono-tachi o atsume nasai."
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "Kare-ra o hi goku e no michi ni tsurete ike."
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "Iya, kare-ra o mata sete oke. Kare-ra ni tazuneru koto ga aru."
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "Anata gata ga tasukeawanai no wa dō shita koto ka.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "Iya, kyō bakari wa, kare-ra mo (shinpan ni) fuku suru."
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "Kare-ra wa tagaini chikadzuki tazune au."
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "Ippō wa iu. `Hontōni anata gata wa, migi kara kimashita.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "Suruto tahō wa iu. `Iya, anata gata wa,(motomoto) shinjade wa arimasendeshita."
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "Mata, watashi-tachi wa anata gata ni oshitsukeru ken'i mo arimasendeshita. Soreni anata gata wa hangyaku no todeshita."
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "Sore de omo no o kotoba ga, watashi-tachi ni jisshō sa reta ima, watashi-tachi wa,(chōbatsu o) ajiwawaneba naranai."
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "Watashi-tachi wa anata gata o mayowa setaga, watashi-tachi jishin mo mayotte ita nodesu.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "Kōshite sonohi, kare-ra wa,(subete) tomoni chōbatsu o ukeru."
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "Hontōni ware wa kono yō ni tsumi o okashita mono o jobunsuru."
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "Kare-ra wa,`arrā no soto ni kami wa arimasen.' To tsuge rareru to, itsumo kōman ni natta."
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "Soshite,`kichigai shijin no tame ni, watashi-tachi no kamigami o sutete naru monodesu ka.' To itte ita."
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "Iya, kare wa shinri o (o ? ) Shite,(kare izen no) yogen-sha-tachi (no Keisuke) o kakushō suru monodearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "Anata gata wa, kanarazu itamashī chōbatsu o ajiwaudearou."
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "Dōse mina anata gataga okonatta koto no mukuidearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "Daga arrā no chūseina shimo be-tachi wa,-betsudearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "Sorera no mono ni wa, sadame no onkei ga ari,"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "(yorokobashī) kajitsu, soshite eiyo ga (sadzuke rare),"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "Shifuku no rakuen no naka de,"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "nedoko no ue de mukaiau."
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "Kiyoi izumi kara kunda hai wa, kare-ra ni yukiwatari,"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "mashiro (na bishu wa), nomu mono ni kokochiyoi ama-sa."
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "Kore wa, zutsū o moyōsazu, yowa se mo shinai."
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "Mata kare-ra no soba ni wa, fushime-gachina ōkī me (no otome) ga iru."
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "Ka no on'na-ra wa, chūibukaku mamora rete iru tamago no yō."
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "Yagate kare-ra wa, tagaini chikadzuki tazune au."
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "Kare-ra no hitori ga, kuchi o kitte iu. `Watashi ni hitori no shitashī tomo ga imashita."
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "Kare wa itte ita. “Anata made (fukkatsu no hi o) shinjite iru nodesu ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "Watashi-tachi ga shinde tsuchi to hone ni natte kara, hontōni shinpan sa reru nodeshou ka.”'"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "Mata itta. `Mā minasan mioroshite mi nasai.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "Sokode kare ga miorosu to, hi goku no tadanaka ni kare no sugata ga mieta."
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "Kare wa itta. `Arrā ni kakete, anata wa mōsukoshi de watashi o hametsu sa seru tokorodeshita."
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "Moshi omo no onmegumi ga nakattanaraba, watashi wa kanarazu hikitate rareru mono no naka ni itadeshou.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "`Watashi-tachi (rakuen no nakama) wa, saisho no shi dakede mata,"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "shinu koto wa nai nodesu ka. Mata, watashi-tachi ga, chōbatsu o ukeru koto wa nai nodeshou ka.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "`-Sōdearunara kore wa, shijō no kōfuku no jōjudesu."
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "Kono yōna koto no tame ni, kōdō shi doryoku subekidesu.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "Sore wa kekkōna kantaide wanai ka. Soretomo zakkūmu no ki (o toru no) ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "Ware wa kono ki o fugi o okonau mono e no kokoromi to shite, yōi shita nodearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "Sore wa jigoku no soko ni haeru ki de,"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "sono jitsuwa, akuma no atama no yōdearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "Kare-ra wa kore o tabete, hara wa sore de ibbai."
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "Sore kara ue ni futtō suru yu o sosogi tasa re,"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "sorekara hi goku ni kaeri tsuku nodearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "Kare-ra wa sosen no mayotte ita no o mitomenagara mo,"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "sono ashiato o isoide (aruite) ita nodearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "Mukashi no ōku no sosen-tachi mo, tashika ni mayotte ita."
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "Daga ware wa kare-ra ni, kanarazu keikoku-sha o noko wa shita."
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "Miruga ī. Keikoku sa rete mo mushi shita mono no saigo ga, dōdeatta ka o."
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "(Daga) arrā no chūseina shimo be-tachi wa,-betsudearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "Katsute nūfu wa ware ni aigan shita. Ware wa mottomo sugureta ōtō-shadearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "Ware wa, kare to sono kazoku o dainan kara sukutta."
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "Soshite kare no shison o ikinokora seta."
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "Mata ato no iku sedai ni watari, kare no tame ni (shukufuku no kotoba o) tometa."
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "`Banbutsu (ningen, tenshi, Jin) no naka de tokuni nūfu no ue ni heian'are.' To (ware kara no arigatai o kotoba o)."
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "Ware wa kono yō ni, tadashī okonai no mono ni mukuiru."
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "Hontōni kare wa, shinjinbukai waga shimo bedeatta."
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "Sorekara ware wa sono soto no mono o, obore saseta."
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "Mata kare no kōkei-sha no nakaniha iburāhīmu ga ita."
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "Kare ga junseina kokoro o motte kare no omo no moto ni yattekita ori ni,"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "jibun no chichi ya sono ichizoku ni mukatte itta. `Anata gata no sūhai suru mono wa nanidesu ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "Arrā o sashioite 瞞 Shi no kamigami o o nozomina nodesu ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "Ittai, ban'yū no omo ni tsuite, anata gata wa dono yō ni kangaete oidena nodesu ka.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "Sonotoki kare wa Moroboshi o hitome mite,"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "itta. `Watashi wa, hontōni (kokoro ga) itamu.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "Hitobito wa kare ni se o mukete satta."
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "Sonotoki kare (iburāhīmu) wa, kare-ra no kamigami ni mukatte itta. `Anata gata wa tabenai nodesu ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "Anata gata wa, dōshitemo no o iwanai nodesu ka.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "Sokode kare wa, kare-ra (gūzō) o migite de utta."
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "Sonotoki hitobito wa, awatete kare no sho e yattekita."
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "Suruto kare wa itta. `Anata gata wa,(jibun de) kizanda mono o sūhai suru nodesu ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "Hontōni arrā wa, anata gata o tsukuri, mata anata gataga, tsukuru mono o mo (tsukura reru).'"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "Hitobito wa itta. `Kare (iburāhīmu) no tame ni ro o kizuki, moesakaru hi no naka ni nagekomi nasai.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "Kono yō ni kare ni sakubō o meguraseyou to shitaga, ware wa kare-ra o sanzan'na me ni awa seta."
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "Kare wa itta. `Watashi wa omo no omoto ni ikou. Kanarazu watashi o michibika rerudearou."
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "Omo yo, tadashī jinbutsu ni naru yōna (musuko) o, watashi ni o sazuke kudasai.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "Sorede ware wa, yasashī omoiyari no aru danji o (sazukeru to iu) mukashi-hō o tsutaeta."
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "(Kono-ko ga) kare to tomoni hataraku toshigoro ni natta toki, kare wa itta. `Musuko yo, watashi wa anata o gisei ni sasageru yume o mimashita. Sā, anata wa dō kangaeru nodesu ka.' Kare wa (kotaete) itta. `Chichiyo, anata ga meiji rareta yō ni shite kudasai. Moshi arrā ga o nozominaraba, watashi ga taeshinobu koto ga o wakarideshou.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "Sokode kare-ra ryōnin wa (meirei ni) fuku shite, kare (kodomo) ga gaku o (ji ni tsuke) utsubuse ni natta toki,"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "ware wa tsugeta. `Iburāhīmu yo."
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "Anata wa tashika ni ano yume o jissen shita. Hontōni ware wa, kono yō ni tadashī okonai o suru mono ni mukuiru."
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "Kore wa akiraka ni kokoromideatta.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "Ware wa ōkina gisei de kare o aganai,"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "suenagaku kare no tame ni (kono shukufuku o) tometa."
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "`Iburāhīmu ni heian'are.'(To itte)."
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "Kono yō ni ware wa, tadashī okonai o suru mono ni mukuiru."
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "Hontōni kare wa, waga shinjinbukai shimo bedeatta."
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "Mata ware wa tadashī jinbutsu, yogen-sha isuhāku no (tanjō no) kippō o kare ni tsutaeta."
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "Soshite ware wa, kare to isuhāku o shukufuku shita. Daga kare-ra no shison no nakaniha tadashī okonai o suru mono mo ari, mata akiraka ni mizukara o sokonau mono mo atta."
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "Ware wa, mūsā to hārūn ni onkei o hodokoshita."
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "Mata kare-ra ryōnin, soshite sono min o ōkina sainan kara sukuidashi,"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "ware ga tasuketa tame ni kare-ra wa (sono kon'nan o) kokufuku suru koto ga dekita."
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "Nao ware wa, ryōnin ni (jiri o) meiryō ni sa seru keiten o sazuke,"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "kare-ra o tadashī michi ni michibiita."
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "Ware wa ato no iku sedai ni watari, kare-ra no tame ni (kono shukufuku o) tometa."
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "`Mūsā to hārūn ni heian'are.'(To itte)."
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "Kono yō ni ware wa, tadashī okonai o suru mono ni mukuiru."
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "Hontōni kare-ra ryōnin wa shinjinbukai waga shimo bedeatta."
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "Hontōni iruyāsu mo, shitodeatta."
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "Kare ga sono min ni kō itta toki o omoe. `Anata gata wa omo o osorenai nodesu ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "Anata gata wa bāru ni inotte, saikō no sōzōnushi (arrā) o misuteru nodesu ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "Arrā koso anata gata no shu, mukashi no fuso-tachi no omode wa nai nodesu ka.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "Daga kare-ra wa kare (iruyāsu) o uso-tsukidearu to shita. Dakara kanarazu (shobatsu ni) nozomudearou."
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "(Kare-ra no naka) keiken'na, arrā no shimo be wa betsudearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "Ware wa ato no iku sedai ni watari, kare no tame ni (kono shukufuku o) tometa."
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "`Iruyāsu ni heian'are.'(To itte)."
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "Kono yō ni ware wa, tadashī okonai o suru mono ni mukuiru."
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "Hontōni kare wa shinjinbukai waga shimo bedeatta."
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "Rūto mo (ware ga) tsukawashita monodeatta."
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "Miyo, ware wa kare to sono kazoku no subete o sukutta."
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "Ato ni nokoru mono no naka ni ita, rōba no soto wa."
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "Sōshite ware wa,-gai no mono o horoboshite shimatta."
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "Anata gata wa kare-ra no (iseki no) katawara o, hiru"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "yoru kayotte iru. Anata gata wa sore demo satoranai no ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "Hontōni yūnusu mo, shitodeatta."
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "Kare ga (ni o) mansai shita fune ni (notte) nogareta toki,"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "kare wa kuji o hiite, makete shimatta."
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "(Soshite umi ni nagekoma reruto) taigyo ni marunomi ni sa re, kare wa jiseki no nen ni kara reta."
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "Kare ga (Ume Satoru shite omo o) tataenakattanaraba,"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "kare-ra (hitobito) ga (fukkatsu shite) okosa reru hi made, kanarazu kare wa sakana no haranouchi ni tomattadearou"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "daga ware wa, arehateta (kishibe) ni kare o uchiageta. Kare wa yande ita."
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "Ware wa kare no ue ni, 1-pon no Hisago ki o shigera se (kage o tsukutta)."
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "Soshite 10 man-ri, matawa sore ijō (no min) ni kare o tsukawashita."
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "Kare-ra ga shinkō ni haittanode, ware wa shibashi gense no kyōraku o yurushita."
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "Sate kare-ra ni toe. `Anata gata no omo wa musume o mochi, kare-ra (makka no tashinkyō to) wa musuko o motsu to iu no ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "Soretomo kare-ra wa, ware ga tenshi-tachi o on'na ni tsukutta to shōgen suru no ka.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "Miyo, kare-ra no iu koto wa tsukurigotodearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "Arrā ga ko o umareru to wa, kare-ra mo uso-tsuki no todearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "Kare wa musuko yori mo, musume o erabareru to suru no ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "Dō shita no ka. Anata gata wa dō handan suru no ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "Anata gata wa nao kunkai o ukeirenai no ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "Soretomo anata gata ni meiryōna ken'nō ga aru no ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "Anata gata no iu koto ga shinjitsunaraba, anata gata no keiten o dashite mi nasai."
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "Kare-ra wa, kare to Jin wa shinruidearu to itte iru. Daga Jin wa jibun-tachi ga (chōbatsu ni) nozomu koto o yoku shitte iru."
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "Arrā ni tatae are. (Kare wa) kare-ra ga haisuru mono kara (chōzetsu nasa reru)."
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "Daga kenkyo ni hōshi suru arrā no shimo be-tachi wa,-betsudearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "Daga anata gata ni shite mo, anata gataga sūhai suru monode mo,"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "kare ni hankō shite (shinja-tachi o) yūwaku suru koto ga dekiyou ka."
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "Moesakaru hi de, yaka reru mono wa betsuni shite."
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "(Seiretsu shite iru-sha-tachi ga iu. ) `Watashi-tachi wa onōno sadame no busho o motte imasu."
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "Watashi-tachi wa (hōshi no tame) seiretsu shite,"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "tsutsushinde (arrā o) tatae 唱念 Shimasu.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "Mata, kare-ra wa itsumo itte ita."
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "`Moshi watashi-tachi ga, mukashikara kunkai o motte itanara,"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "watashi-tachi mo, tashika ni arrā no kenkyona shimo bedeattadeshou.'"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "Tokoroga (jissai ni kuruān ga atae rarereba) sore o kyohi suru.Daga mamonaku kare-ra wa shirudearou."
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "Tashikani ware no kotoba wa, waga tsukawashita shimo be-tachi ni sudeni kudasa rete iru."
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "Kare-ra wa, kanarazu tasuke rareyou."
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "Hontōni ware no gunzei wa, kanarazu shōri o eru nodearu."
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "Anata (muhanmado) wa kare-ra kara shibarakunoaida tōzakatte,"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "kare-ra o kanshi shi nasai. Yagate, kare-ra wa mezamerudearou."
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "Daga kare-ra wa, waga chōbatsu o isogi motomete iru."
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "Daga sore ga jissai ni kare-ra ni kudaru to, sore made keikoku o ukete iru dake ni nezame no warui asa to narou."
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "Sorede anata wa kare-ra kara shibarakunoaida tōzakatte,"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "kare-ra o kanshi shi nasai. Yagate, kare-ra mo mezamerudearou."
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "Anata no shu, itoku no shu, kare-ra ga haisuru mono kara (chōzetsu nasa reru) omo ni tatae are."
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "Shito-tachi ni heian'are."
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "Ban'yū no shu, arrā ni tatae are."
+        }
+    ]
+}
