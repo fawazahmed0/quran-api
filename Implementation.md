@@ -64,6 +64,7 @@ Then the sparse checkout arguments are [dynamically generated](https://github.co
 Then the [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js") command is [executed](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L121), the [command.txt](https://github.com/fawazahmed0/quran-api/blob/1/command.txt) gets [emptied](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L125) and [logs saved](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L130)  and the changes are [commited and pushed](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L137) to this repository.
 
 
+<br>
 In case you still have questions refer [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js"), [translate.py](https://github.com/fawazahmed0/quran-api/blob/1/translate.p "translate.py"), [run.yml](https://github.com/fawazahmed0/quran-api/blob/1/.github/workflows/run.yml)
 and also you can [ask me](https://github.com/fawazahmed0/quran-api/issues/new "ask me ")
 
