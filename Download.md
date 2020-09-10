@@ -8,7 +8,7 @@
  - You can also fork this repo as a backup for future
 
 ### Method 1:
-- Just [download](https://github.com/fawazahmed0/quran-api/archive/1.zip) or clone this huge repo to get those files
+- Just [Download](https://github.com/fawazahmed0/quran-api/archive/1.zip) or clone this huge repo to get those files
 
 
 ### Method 2(Using SVN):
