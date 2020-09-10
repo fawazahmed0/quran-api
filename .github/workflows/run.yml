@@ -42,6 +42,7 @@ jobs:
         run: |
           REPO="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git clone --filter=blob:none --no-checkout --depth 1  --sparse $REPO .
+          git sparse-checkout add start/*
           git checkout
 
 
@@ -71,13 +72,13 @@ jobs:
       - name: Add folders to sparse-checkout
         if: ${{ contains(env.mycmd, 'create') || contains(env.mycmd, 'search') }}
         shell: bash
-        run: git sparse-checkout add database/linebyline/* isocodes/* start/*
+        run: git sparse-checkout add database/linebyline/* isocodes/*
 
       # Add folders to sparse-checkout
       - name: Add folders to sparse-checkout
         if: ${{ contains(env.mycmd, 'fontsgen') }}
         shell: bash
-        run: git sparse-checkout add fonts/* start/*
+        run: git sparse-checkout add fonts/*
 
       # Add folders to sparse-checkout
       - name: Add folders to sparse-checkout
@@ -89,7 +90,7 @@ jobs:
         run: |
           delargs=`echo ${{ env.myargs }} | sed -E 's/^\s+//g' | sed -E 's/$/ /g' | sed -E 's/\s+/* /g' | sed -E 's/^\* $//'`
           updateargs=`ls -1 start | sed -e 's/\.txt$/*/' | tr '\n' ' '`
-          git sparse-checkout add isocodes/* start/* $delargs $updateargs
+          git sparse-checkout add isocodes/* $delargs $updateargs
           echo $delargs
           echo $updateargs
 
