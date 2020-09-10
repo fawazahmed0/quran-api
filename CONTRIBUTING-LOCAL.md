@@ -1,19 +1,19 @@
 ## Contribute:
 
+**Note:** This is an old documentation but still valid, incase you want to contribute without downlading this huge repo, Please refer [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute")
+
 ### Prerequisites:
 
-- [Git](https://git-scm.com/downloads)
+- [Python 3](https://www.python.org/downloads/ "Python 3")
+- [Node.js](https://nodejs.org/en/ "Node.js")
 
+`pip3 install googletrans`
 
-### Prerequisite Steps:
-1.  Fork [quran-api](https://github.com/fawazahmed0/quran-api "quran-api") repo
-1.  clone the forked repo:
-```bash
-git clone --filter=blob:none --no-checkout --depth 1  --sparse <YourFork.git>
-cd quran-api
-git sparse-checkout add start/* command.txt
-git checkout
-```
+`npm install -g -D playwright extract-zip opentype.js`
+
+To Create/Update/Delete/Search the editions, we will use [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js").
+
+Never modify/add the files manually, for everything we will use [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js")
 
 ### Add new translations:
 1. The translation should either be in 6236 lines(ignoring empty lines) or if it has more lines then it should at least have verse number at the beginning of each verse, It doesn't matter whether the chapter number is there or not.
@@ -43,57 +43,54 @@ When specifying the language, please use proper [iso name of language](https://g
 
 3. Copy and paste the translations to the [start](https://github.com/fawazahmed0/quran-api/tree/1/start "start") directory, you can paste any number of translations.
 
-4. And then, enter the following command:
-`echo create > command.txt`
+4. Run the following command:<br>
+`node apiscript.js create`
 
-5. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
 
+
+
+If everything goes well, then the start directory will be empty and all your translations will move into [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals")<br>
+now push the changes to this repo
 
 If you got stuck somewhere, Let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
 
 ### Update translations:
 
-Let say there is a spelling mistake in the edition and you would like to correct:
-
-1. Run the following commad:
-`git sparse-checkout add database/chapterverse/<editionNametoUpdate>.txt`
-For example if you want to update [eng-talalitani](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/eng-talalitani.txt) and  [ces-arnykl](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/ces-arnykl.txt)
-`git sparse-checkout add database/chapterverse/eng-talalitani.txt database/chapterverse/ces-arnykl.txt`
+Let say there is a spelling mistakes you want to correct in the translations:
 
 1. Copy the translations to be updated from [database/chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "database/chapterverse") and paste it into start directory
 
 2. Update the translation text, Please do not modify the JSON values which are stored at the end of file,specifically the name and language json values
 
-3. And then, run the following command:
+3. And then, enter the following command:
 
-    `echo update > command.txt`
+    `node apiscript.js update`
 
-4. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
 
 ### Searching Translation:
 
 Lets say you what to know whether a translation exists in the database or not, or you want to find the edition which have a specific verse
 
-1. First Run the following command:
-`echo search > command.txt`
-And Now If you want to search single verse
-`echo "verse to be search" >> command.txt`
-If you want to search multiple verses in different editions
-`echo "verse to be searched1" "verse to be searched2" >> command.txt`
+1. Run the following command:
 
-2. Now [Push the changes and Create PR](pushing-and-creating-pull-request) ,and I will share the result with you
+    `node apiscript.js search "String To be Searched"`
+
+    It can take multiple arguments example:
+
+    `node apiscript.js search "String To be Searched" "String2 To be Searched"`
+
 
 
 
 ### Deleting Translation:
 1. Translations should not be deleted, otherwise it will break the api, but if there is a need, it can be done using:
-`echo delete > command.txt`
-And Now If you want to delete single edition
-`echo editionNameToDelete >> command.txt`
-And If you want to delete multiple editions
-`echo editionNameToDelete editionName2ToDelete >> command.txt`
 
-2. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
+    `node apiscript.js delete editionNameToDelete`
+
+    It can take multiple arguments at single time example:
+
+    `node apiscript.js delete editionNameToDelete editionName2ToDelete`
+
 
 
 
@@ -102,10 +99,12 @@ And If you want to delete multiple editions
 
 2. Run the following command:
 
-    `echo fontsgen > command.txt`
+    `node apiscript.js fontsgen`
 
-3. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
-
+### Updating a font:
+1. Updating a font is a two step process,
+2. First you have to [delete the font](#deleting-a-font) which needs to be updated
+3. Then you have to [add the newly updated font](#adding-new-font)
 
 
 ###  Deleting a font:
@@ -113,22 +112,12 @@ And If you want to delete multiple editions
 
 2. Run the following command:
 
-    `echo fontsgen > command.txt`
-
-3. Now [Push the changes and Create PR](pushing-and-creating-pull-request)
-
-
-###  Pushing and Creating Pull Request:
-1. After you are done with your changes
-Run the following command:
-`git add -A && git commit -m "Your commit message"`
-`git push`
-
-2. Go to your forked repo and click on pull request
+    `node apiscript.js fontsgen`<br>
+<br>
 
 Facing any issue? [Let me Know](https://github.com/fawazahmed0/quran-api/issues/new "Let me Know ")
 
-The above given details are enough to contribute to this repo, incase you want to know how the underlying things works or want to add new features to the repo then see [Implementation details](https://github.com/fawazahmed0/quran-api/blob/1/Implementation.md "Implementation details")
+The above given details are enough to contribute to this repo, incase you want to know how the script works or want to add new features to the apiscript.js then see [Implementation details](https://github.com/fawazahmed0/quran-api/blob/1/Implementation.md "Implementation details")
 
 <br>
 <br>
