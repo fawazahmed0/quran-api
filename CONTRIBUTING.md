@@ -80,7 +80,7 @@ And Now If you want to search single verse<br>
 If you want to search multiple verses in different editions<br>
 `echo "verse to be searched1" "verse to be searched2" >> command.txt`
 
-2. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request) ,and I will share the results with you
+2. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request) ,and the result will be available at [Actions tab](https://github.com/fawazahmed0/quran-api/actions) in form of log file, after merging the changes
 
 
 
