@@ -65,6 +65,7 @@ Then the [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscrip
 
 
 <br>
+
 In case you still have questions refer [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js"), [translate.py](https://github.com/fawazahmed0/quran-api/blob/1/translate.p "translate.py"), [run.yml](https://github.com/fawazahmed0/quran-api/blob/1/.github/workflows/run.yml)
 and also you can [ask me](https://github.com/fawazahmed0/quran-api/issues/new "ask me ")
 
