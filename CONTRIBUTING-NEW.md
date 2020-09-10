@@ -46,7 +46,7 @@ When specifying the language, please use proper [iso name of language](https://g
 4. And then, enter the following command:<br>
 `echo create > command.txt`
 
-5. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
+5. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request)
 
 
 If you got stuck somewhere, Let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
@@ -67,7 +67,7 @@ For example if you want to update [eng-talalitani](https://github.com/fawazahmed
 4. And then, run the following command:<br>
  `echo update > command.txt`
 
-5. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
+5. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request)
 
 ### Searching Translation:
 
@@ -80,7 +80,7 @@ And Now If you want to search single verse<br>
 If you want to search multiple verses in different editions<br>
 `echo "verse to be searched1" "verse to be searched2" >> command.txt`
 
-2. Now [Push the Changes and Create PR](pushing-and-creating-pull-request) ,and I will share the results with you
+2. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request) ,and I will share the results with you
 
 
 
@@ -92,7 +92,7 @@ And Now If you want to delete single edition<br>
 And If you want to delete multiple editions<br>
 `echo editionNameToDelete editionName2ToDelete >> command.txt`
 
-2. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
+2. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request)
 
 
 
@@ -102,7 +102,7 @@ And If you want to delete multiple editions<br>
 2. Run the following command:<br>
 `echo fontsgen > command.txt`
 
-3. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
+3. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request)
 
 
 
@@ -112,7 +112,7 @@ And If you want to delete multiple editions<br>
 2. Run the following command:<br>
 `echo fontsgen > command.txt`
 
-3. Now [Push the Changes and Create PR](pushing-and-creating-pull-request)
+3. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request)
 
 
 ###  Pushing and Creating Pull Request:
