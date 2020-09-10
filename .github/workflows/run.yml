@@ -59,6 +59,10 @@ jobs:
           echo "::set-env name=mycmd::${{ github.event.inputs.cmdval }}"
           echo "::set-env name=myargs::${{ github.event.inputs.argval }}"
 
+      - name: Print command with args for debug
+        shell: bash
+        run: echo ${{ env.mycmd }} ${{ env.myargs }}
+
       - name: Add folders to sparse-checkout only if the command is search or create
         if: ${{ contains(env.mycmd, 'create') || contains(env.mycmd, 'search') }}
         shell: bash
