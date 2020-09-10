@@ -11,9 +11,9 @@ The purpose of this repo is to spread the word of God everywhere in the world
 - Latin/roman translation for many languages
 
 
-**URL Structure:** 
+**URL Structure:**
 
-`https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@{apiVersion}/{endpoint}` 
+`https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@{apiVersion}/{endpoint}`
 
 **Formats:**
 
@@ -80,10 +80,8 @@ or
 
 
 ### Download:
-- All the files are in [database](https://github.com/fawazahmed0/quran-api/tree/1/database "database") folder of this repo, there are two folders available, one is [linebyline](https://github.com/fawazahmed0/quran-api/tree/1/database/linebyline "linebyline") and other is [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "chapterverse").
- [linebyline](https://github.com/fawazahmed0/quran-api/tree/1/database/linebyline "linebyline") contains files having verses in 6236 lines and [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "chapterverse") contains files having each verse prepended with chapter and verse no. Just download or clone this repo to get those files
 
-- You can also fork this repo as a backup for future
+[Here](https://github.com/fawazahmed0/quran-api/blob/1/Download.md)
 
 ### Authenticity:
 I have taken great care to not include any controversial authors, for example: 'Rashad Khalifa' , because there are chances that the translation may contain opinions of the author and not the meaning of the verse.
@@ -112,4 +110,3 @@ Please see [Editions](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editio
 <br>
 
 [:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/README.md)
-
