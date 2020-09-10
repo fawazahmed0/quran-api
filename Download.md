@@ -32,6 +32,7 @@ https://github.com/fawazahmed0/quran-api/trunk/fonts <br>
 ### Method 3(Not Recommended):
 - Just [Download](https://github.com/fawazahmed0/quran-api/archive/1.zip) or clone this huge repo to get those files
 
+<br>
 
 Facing any issue? [Ask me](https://github.com/fawazahmed0/quran-api/issues/new "Ask me ")
 
@@ -39,4 +40,4 @@ Facing any issue? [Ask me](https://github.com/fawazahmed0/quran-api/issues/new "
 <br>
 <br>
 
-[:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/Download.md)
+[:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/download.md)
