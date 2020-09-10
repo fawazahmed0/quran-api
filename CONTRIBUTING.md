@@ -60,7 +60,7 @@ Let say there is a spelling mistake in the edition and you would like to correct
 For example if you want to update [eng-talalitani](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/eng-talalitani.txt) and  [ces-arnykl](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/ces-arnykl.txt)<br>
 `git sparse-checkout add database/chapterverse/eng-talalitani.txt database/chapterverse/ces-arnykl.txt`
 
-2. Copy the translations to be updated from [database/chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "database/chapterverse") and paste it into start directory
+2. Copy the translations to be updated, from [database/chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "database/chapterverse") and paste it into start directory
 
 3. Update the translation text, Please do not modify the JSON values which are stored at the end of file,specifically the name and language json values
 

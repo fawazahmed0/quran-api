@@ -1,6 +1,6 @@
 ## Contribute:
 
-**Note:** This documentation requires you to clone this huge repo locally, incase you want to contribute by following simple and easy steps, Please refer [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute")
+**Note:**<br> This documentation requires you to clone this huge repo locally, incase you want to contribute by following simple and easy steps, Please refer [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute")
 
 ### Prerequisites:
 
@@ -58,7 +58,7 @@ If you got stuck somewhere, Let me  [Know](https://github.com/fawazahmed0/quran-
 
 Let say there is a spelling mistakes you want to correct in the translations:
 
-1. Copy the translations to be updated from [database/chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "database/chapterverse") and paste it into start directory
+1. Copy the translations to be updated, from [database/chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "database/chapterverse") and paste it into start directory
 
 2. Update the translation text, Please do not modify the JSON values which are stored at the end of file,specifically the name and language json values
 
