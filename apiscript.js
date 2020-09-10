@@ -194,7 +194,7 @@ async function create(update) {
       var latinPath = path.join(linebylineDir, filename.replace(/(\.[^\.]*$)/i, "-la$1"))
       // stores the index as key and text as value , it will stores lines having edited changes
       var uniqueobj = {}
-      var fulllatinarr;
+      var fulllatinarr = [];
       if (fs.existsSync(latinDPath))
         [, fulllatinarr] = readDBTxt(latinDPath)
       else if (fs.existsSync(latinPath))
@@ -243,7 +243,7 @@ async function create(update) {
     // who studied in english, but have a different mother tongue and are not well versed in reading the mother tongue script, for example me
     else if (!isLatin(cleanarr) && generateLatin) {
       logmsg("\nPlease wait trying to generate latin script for this translation, it will take 5-10mins to complete")
-      var genLatinarr
+      var genLatinarr = []
       // if this is create operation or if the latin script forr the edition doesn't exist, we will try building one
       if (!update || !fulllatinarr) {
         genLatinarr = await genLatin(cleanarr, genJSON['name'])
@@ -292,7 +292,7 @@ async function create(update) {
 
 // This function is a wrapper to generate json and generate the files in the database
 async function generateEdition(arr, jsondata, editionName) {
-  var genJSON
+  var genJSON = {}
   // use the editionName to generateJSON if it's defined
   if (editionName)
     genJSON = await generateJSON(arr, jsondata, editionName)
@@ -1204,11 +1204,11 @@ async function genLatin(arr, edName) {
   if (latinarr.length == arr.length && arr.length * 0.8 < filteredlatinarr.length) {
     logmsg("\nlatin script generated for this language")
     return latinarr
-  } else {
+  }else{
     logmsg("\n latin script generated but the number of lines are " + latinarr.length + ', so not considering it altogether')
     // It will generated incase the latinarr after empty line filtering i.e filteredlatinarr is 6236 lines
     return filteredlatinarr
-  }
+}
 
 
 }
