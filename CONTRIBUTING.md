@@ -55,12 +55,12 @@ If you got stuck somewhere, Let me  [Know](https://github.com/fawazahmed0/quran-
 
 Let say there is a spelling mistake in the edition and you would like to correct:
 
-1. Run the following commad:<br>
+1. Run the following command:<br>
 `git sparse-checkout add database/chapterverse/<editionNametoUpdate>.txt`<br>
-For example if you want to update [eng-talalitani](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/eng-talalitani.txt) and  [ces-arnykl](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/ces-arnykl.txt)<br>
+For example if you want to update [eng-talalitani](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/eng-talalitani.txt) and  [ces-arnykl](https://github.com/fawazahmed0/quran-api/blob/1/database/chapterverse/ces-arnykl.txt) then run:<br>
 `git sparse-checkout add database/chapterverse/eng-talalitani.txt database/chapterverse/ces-arnykl.txt`
 
-2. Copy the translations to be updated, from [database/chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "database/chapterverse") and paste it into start directory
+2. Copy the translations to be updated, from [database/chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse "database/chapterverse") directory and paste it into start directory
 
 3. Update the translation text, Please do not modify the JSON values which are stored at the end of file,specifically the name and language json values
 
@@ -80,7 +80,7 @@ And Now If you want to search single verse<br>
 If you want to search multiple verses in different editions<br>
 `echo "verse to be searched1" "verse to be searched2" >> command.txt`
 
-2. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request) ,and the result will be available at [Actions tab](https://github.com/fawazahmed0/quran-api/actions) in form of log file, after merging the changes
+2. Now [Push the Changes and Create PR](#pushing-and-creating-pull-request) ,and the result will be available at [Actions tab](https://github.com/fawazahmed0/quran-api/actions) in form of log file, after the PR is merged
 
 
 
