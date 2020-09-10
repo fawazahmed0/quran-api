@@ -116,7 +116,7 @@ And If you want to delete multiple editions<br>
 
 
 ###  Pushing and Creating Pull Request:
-1. After you are done with your changes
+1. After you are done with your changes<br>
 Run the following command:<br>
 ```bash
 git add -A && git commit -m "Your commit message"
