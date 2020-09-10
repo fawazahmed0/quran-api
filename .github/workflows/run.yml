@@ -12,10 +12,10 @@ on:
   workflow_dispatch:
     inputs:
       cmdval:
-        description: 'command'
+        description: 'Command'
         required: true
       argval:
-        description: 'arguments'
+        description: 'Arguments'
         required: false
 
 
