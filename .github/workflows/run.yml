@@ -140,10 +140,16 @@ jobs:
           > command.txt
 
 
+      - uses: actions/upload-artifact@v2
+        with:
+          name: log
+          path: log.txt
+
+
 
       # commiting and pushing changes
       - name: commit and push
-        if: ${{ ! contains(env.mycmd, 'search') && env.mycmd }}
+        if: ${{ ! contains(env.mycmd, 'search') }}
         shell: bash
         run: |
           git config --global user.email github-actions@github.com
@@ -151,9 +157,3 @@ jobs:
           git add -A
           git commit -m ${{ env.mycmd }}
           git push
-
-
-      - uses: actions/upload-artifact@v2
-        with:
-          name: log
-          path: log.txt
