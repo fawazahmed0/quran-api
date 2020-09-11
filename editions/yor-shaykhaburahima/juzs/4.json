@@ -1,0 +1,659 @@
+{
+    "juzs": [
+        {
+            "chapter": 3,
+            "verse": 93,
+            "text": "Gbogbo oúnjẹ ló jẹ́ ẹ̀tọ́ fún àwọn ọmọ ’Isrọ̄’īl àyàfi èyí tí ’Isrọ̄’īl bá ṣe ní èèwọ̀ fún ẹ̀mí ara rẹ̀ ṣíwájú kí A tó sọ at-Taorāh kalẹ̀. Sọ pé: “Nítorí náà, ẹ mú at-Taorāh wá, kí ẹ sì kà á síta tí ẹ̀yin bá jẹ́ olódodo.”"
+        },
+        {
+            "chapter": 3,
+            "verse": 94,
+            "text": "Nítorí náà, ẹnikẹ́ni tí ó bá dá àdápa irọ́ mọ́ Allāhu lẹ́yìn ìyẹn, àwọn wọ̀nyẹn ni alábòsí"
+        },
+        {
+            "chapter": 3,
+            "verse": 95,
+            "text": "Sọ pé: \"Allāhu sọ òdodo. Nítorí náà, ẹ tẹ̀lé ẹ̀sìn (Ànábì) ’Ibrọ̄hīm, olùdúró-déédé-nínú-’Islām. Kò sì sí nínú àwọn ọ̀ṣẹbọ"
+        },
+        {
+            "chapter": 3,
+            "verse": 96,
+            "text": "Dájúdájú ilé àkọ́kọ́ tí A fi lélẹ̀ fún àwọn ènìyàn ni èyí tí ó wà ní Bakkah . (Ó jẹ́ ilé) ìbùkún àti ìmọ̀nà fún gbogbo ẹ̀dá"
+        },
+        {
+            "chapter": 3,
+            "verse": 97,
+            "text": "Àwọn àmì t’ó yanjú wà nínú rẹ̀; ibùdúró (Ànábì) ’Ibrọ̄hīm. Ẹnikẹ́ni tí ó bá wọ inú rẹ̀ ti di ẹni ìfàyàbalẹ̀. Allāhu ṣe àbẹ̀wò sí Ilé náà ní dandan fún àwọn ènìyàn, t’ó lágbára ọ̀nà tí ó máa gbà débẹ̀. Ẹnikẹ́ni tí ó bá sì ṣàì gbàgbọ́,dájúdájú Allāhu ni Ọlọ́rọ̀ tí kò bùkátà sí gbogbo ẹ̀dá"
+        },
+        {
+            "chapter": 3,
+            "verse": 98,
+            "text": "Sọ pé: \"Ẹ̀yin ahlul-kitāb, nítorí kí ni ẹ óò fi ṣàì gbàgbọ́ nínú àwọn āyah Allāhu? Allāhu sì ni Arínú-róde ohun tí ẹ̀ ń ṣe níṣẹ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 99,
+            "text": "Sọ pé: \"Ẹ̀yin ahlul-kitāb, nítorí kí ni ẹ fi ń ṣẹ́rí ẹni t’ó gbàgbọ́ lódodo kúrò lójú ọ̀nà (ẹ̀sìn) Allāhu, ẹ sì ń fẹ́ kó wọ́, ẹ sì jẹ́rìí (sí òdodo ’Islām)? Allāhu kì í ṣe Onígbàgbé nípa ohun tí ẹ̀ ń ṣe níṣẹ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 100,
+            "text": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, tí ẹ bá tẹ̀lé apá kan nínú àwọn tí A fún ní tírà, wọ́n máa da yín padà lẹ́yìn ìgbàgbọ́ òdodo yín sí ipò aláìgbàgbọ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 101,
+            "text": "Báwo ni ẹ̀yin ṣe lè ṣàì gbàgbọ́, ẹ̀yin mà ni wọ́n ń ké àwọn āyah Allāhu fún, Òjíṣẹ́ Rẹ̀ sì wà láààrin yín! Ẹnikẹ́ni tí ó bá dúró ṣinṣin ti Allāhu, A ti tọ́ ọ sí ọ̀nà tààrà"
+        },
+        {
+            "chapter": 3,
+            "verse": 102,
+            "text": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ bẹ̀rù Allāhu bí ó ṣe tọ́ láti bẹ̀rù Rẹ̀. Ẹ̀yin kò sì gbọdọ̀ kú àyàfi kí ẹ wà ní ipò mùsùlùmí"
+        },
+        {
+            "chapter": 3,
+            "verse": 103,
+            "text": "Ẹ dúró ṣinṣin ti okùn Allāhu (’Islām) ní àpapọ̀, ẹ má ṣe pín sí ìjọ ọ̀tọ̀ọ̀tọ̀. Kí ẹ sì rántí ìkẹ́ Allāhu tí ń bẹ lórí yín (pé) nígbà tí ẹ jẹ́ ọ̀tá (ara yín nígbà àìmọ̀kan), Ó pa ọkàn yín pọ̀ mọ́ra wọn (pẹ̀lú ’Islām), ẹ sì di ọmọ ìyá pẹ̀lú ìkẹ́ Rẹ̀; àti (nígbà tí) ẹ wà létí ọ̀gbun Iná, Ó gbà yín là kúrò nínú rẹ̀. Báyẹn ni Allāhu ṣe ń ṣe àlàyé àwọn āyah Rẹ̀ fun yín nítorí kí ẹ lè mọ̀nà (’Islām)"
+        },
+        {
+            "chapter": 3,
+            "verse": 104,
+            "text": "Kí ó máa bẹ nínú yín, ìjọ kan tí yóò máa pèpè síbi ohun t’ó lóore jùlọ, wọn yóò máa pàṣẹ ohun rere, wọn yó sì máa kọ ohun burúkú. Àwọn wọ̀nyẹn, àwọn sì ni olùjèrè"
+        },
+        {
+            "chapter": 3,
+            "verse": 105,
+            "text": "Ẹ má ṣe dà bí àwọn t’ó sọra wọn di ìjọ ọ̀tọ̀ọ̀tọ̀, tí wọ́n sì yapa ẹnu (sí ’Islām) lẹ́yìn tí àwọn àlàyé t’ó yanjú ti dé bá wọn. Àwọn wọ̀nyẹn sì ni ìyà ńlá ń bẹ fún"
+        },
+        {
+            "chapter": 3,
+            "verse": 106,
+            "text": "Ní ọjọ́ tí àwọn ojú kan yóò funfun (ìmọ́lẹ̀). Àwọn ojú kan yó sì dúdú. Ní ti àwọn tí ojú wọn dúdú, (A ó bi wọ́n pé:) \"Ṣé ẹ ṣàì gbàgbọ́ lẹ́yìn ìgbàgbọ́ yín ni?\" Nítorí náà, ẹ tọ́ ìyà wò nítorí pé ẹ ṣàì gbàgbọ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 107,
+            "text": "Ní ti àwọn tí ojú wọn funfun (ìmọ́lẹ̀), nínú ìkẹ́ Allāhu ni wọn yóò wà. Olùṣegbére ni wọ́n nínú rẹ̀"
+        },
+        {
+            "chapter": 3,
+            "verse": 108,
+            "text": "Ìwọ̀nyí ni àwọn āyah Allāhu, tí À ń ké e fún ọ pẹ̀lú òdodo. Allāhu kò sì gbèrò àbòsí kan sí gbogbo ẹ̀dá"
+        },
+        {
+            "chapter": 3,
+            "verse": 109,
+            "text": "Ti Allāhu ni ohunkóhun t’ó wà nínú àwọn sánmọ̀ àti ohunkóhun t’ó wà nínú ilẹ̀. Ọ̀dọ̀ Allāhu sì ni wọ́n máa ṣẹ́rí àwọn ọ̀rọ̀ ẹ̀dá padà sí"
+        },
+        {
+            "chapter": 3,
+            "verse": 110,
+            "text": "Ẹ jẹ́ ìjọ t’ó lóore jùlọ, tí A gbé dìde fún àwọn ènìyàn; ẹ̀ ń pàṣẹ ohun rere, ẹ̀ ń kọ ohun burúkú, ẹ sì gbàgbọ́ nínú Allāhu. Tí ó bá jẹ́ pé àwọn ahlul-kitāb gbàgbọ́ lódodo ni, ìbá lóore jùlọ fún wọn. Onígbàgbọ́ òdodo wà nínú wọn , ọ̀pọ̀lọ́pọ̀ wọn sì ni òbìlẹ̀jẹ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 111,
+            "text": "Wọn kò níí kó ìnira ba yín àyàfi ìpalára díẹ̀. Tí wọ́n bá sì ba yín jà, wọ́n á sá fun yín. Lẹ́yìn náà, A ò níí ràn wọ́n lọ́wọ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 112,
+            "text": "Àbùkù yóò máa bá wọn níbikíbi tí ọwọ́ àwọn (mùsùlùmí) bá ti bá wọn àfi (tí wọ́n bá ń bẹ) pẹ̀lú ààbò láti ọ̀dọ̀ Allāhu (ìyẹn ni pé, kí wọ́n gba ’Islām) àti ààbò láti ọ̀dọ̀ àwọn ènìyàn (ìyẹn ni pé, kí wọ́n gbà láti máa san owó ìsákọ́lẹ̀ fún ìjọba ’Islām). Wọ́n ṣẹ́rí padà pẹ̀lú ìbínú láti ọ̀dọ̀ Allāhu. Wọ́n sì kó òṣì bá wọn. Ìyẹn nítorí pé, dájúdájú wọ́n ṣàì gbàgbọ́ nínú àwọn āyah Allāhu, wọ́n tún ń pa àwọn Ànábì láì lẹ́tọ̀ọ́. Ìyẹn nítorí pé, wọ́n yapa (àṣẹ Allāhu), wọ́n sì ń tayọ ẹnu àlà"
+        },
+        {
+            "chapter": 3,
+            "verse": 113,
+            "text": "(Àwọn ahlul-kitāb) kò rí bákan náà. Ìjọ kan t’ó dúró déédé wà nínú àwọn ahlul-kitāb, tí ń ké àwọn āyah Allāhu ní àkókò òru, tí wọ́n sì ń forí kanlẹ̀ (lórí ìrun)"
+        },
+        {
+            "chapter": 3,
+            "verse": 114,
+            "text": "Wọ́n gbàgbọ́ nínú Allāhu àti Ọjọ́ Ìkẹ́yìn. Wọ́n ń pàṣẹ ohun rere, wọ́n ń kọ ohun burúkú, wọ́n sì ń yara níbi àwọn iṣẹ́ olóoore. Àwọn wọ̀nyẹn wà nínú àwọn ẹni rere"
+        },
+        {
+            "chapter": 3,
+            "verse": 115,
+            "text": "Ohunkóhun tí wọ́n bá ṣe ní iṣẹ́ rere, A ò níí jẹ́ kí wọ́n pàdánù ẹ̀san rẹ̀. Allāhu sì ni Onímọ̀ nípa àwọn olùbẹ̀rù (Rẹ̀)"
+        },
+        {
+            "chapter": 3,
+            "verse": 116,
+            "text": "Dájúdájú àwọn t’ó ṣàì gbàgbọ́, àwọn dúkìá wọn àti àwọn ọmọ wọn kò níí rọ̀ wọ́n lọ́rọ̀ kiní kan níbi ìyà lọ́dọ̀ Allāhu. Àwọn wọ̀nyẹn sì ni èrò inú Iná. Olùṣegbére ni wọ́n nínú rẹ̀"
+        },
+        {
+            "chapter": 3,
+            "verse": 117,
+            "text": "Àpèjúwe ohun tí wọ́n ń ná nínú ìṣẹ̀mí ayé yìí dà bí àpèjúwe afẹ́fẹ́ tí atẹ́gùn òtútù líle wà nínú rẹ̀. Ó fẹ́ lu oko àwọn ènìyàn t’ó ṣe àbòsí s’órí ara wọn. Ó sì pa á run. Allāhu kò sì ṣe àbòsí sí wọn, ṣùgbọ́n ẹ̀mí ara wọn ni wọ́n ń ṣàbòsí sí"
+        },
+        {
+            "chapter": 3,
+            "verse": 118,
+            "text": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ má ṣe mú aláfinúhàn kan yàtọ̀ sí ara yín. Wọn kò níí géwọ́ aburú kúrú fun yín. Wọ́n sì nífẹ̀ẹ́ sí ohun tí ó máa kó ìnira ba yín. Ìkórira kúkú ti fojú hàn láti ẹnu wọn. Ohun tí ó sì pamọ́ sínú ọkàn wọn tóbi jùlọ. A ti ṣàlàyé àwọn āyah fun yín, tí ẹ̀yin bá jẹ́ onílàákàyè"
+        },
+        {
+            "chapter": 3,
+            "verse": 119,
+            "text": "Kíyè sí i, ẹ̀yin wọ̀nyí nífẹ̀ẹ́ wọn, àwọn kò sì nífẹ̀ẹ́ yín. Ẹ̀yin gbàgbọ́ nínú àwọn tírà, gbogbo rẹ̀ (pátápátá). Nígbà tí wọ́n bá sì pàdé yín, wọ́n á wí pé: “Àwa gbàgbọ́.” Nígbà tí ó bá sì ku àwọn nìkan, wọn yóò máa deyín mọ́ ìka lórí yín ní ti ìbínú. Sọ pé: “Ẹ kú pẹ̀lú ìbínú yín.” Dájúdájú Allāhu ni Onímọ̀ nípa ohun tí ń bẹ nínú àwọn igbá-àyà ẹ̀dá"
+        },
+        {
+            "chapter": 3,
+            "verse": 120,
+            "text": "Tí dáadáa kan bá kàn yín, ó máa kó ìbànújẹ́ bà wọn. Tí aburú kan bá sì ṣẹlẹ̀ si yín, wọ́n máa dunnú sí i. Tí ẹ̀yin bá ṣe sùúrù, tí ẹ sì ṣọ́ra (fún wọn), ète wọn kò níí kó ìnira kan kan ba yín. Dájúdájú Allāhu ni Alámọ̀tán nípa ohun tí wọ́n ń ṣe níṣẹ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 121,
+            "text": "(Rántí) nígbà tí o jí kúrò lọ́dọ̀ àwọn ara ilé rẹ ní ìdájí kùtùkùtù, tí ò sì ń fi àyè ibùjagun han àwọn onígbàgbọ́ òdodo, Allāhu ni Olùgbọ́, Onímọ̀"
+        },
+        {
+            "chapter": 3,
+            "verse": 122,
+            "text": "(Rántí) nígbà tí ìjọ méjì nínú yín fẹ́ ṣojo. Allāhu sì ni Aláfẹ̀yìntì àwọn méjèèjì. Allāhu sì ni kí àwọn onígbàgbọ́ òdodo gbáralé"
+        },
+        {
+            "chapter": 3,
+            "verse": 123,
+            "text": "Allāhu kúkú fun yín ní ìṣẹ́gun ní ogun Badr, nígbà tí ẹ̀yin jẹ́ aláìlágbára. Nítorí náà, ẹ bẹ̀rù Allāhu kí ẹ lè dúpẹ́ (fún Un)"
+        },
+        {
+            "chapter": 3,
+            "verse": 124,
+            "text": "Rántí nígbà tí ò ń sọ fún àwọn onígbàgbọ́ òdodo pé: “Ṣé kò níí to yín tí Olúwa yín bá ṣe ìrànlọ́wọ́ fun yín pẹ̀lú ẹgbẹ̀rún mẹ́ta nínú àwọn mọlāika, tí Wọ́n máa sọ̀kalẹ̀?”"
+        },
+        {
+            "chapter": 3,
+            "verse": 125,
+            "text": "Rárá (ó máa tó wa.). Tí ẹ̀yin bá ṣe sùúrú, tí ẹ sì bẹ̀rù Allāhu, tí àwọn (ọ̀tá) bá dé ba yín lójijì, Olúwa yín yóò ràn yín lọ́wọ́ pẹ̀lú ẹgbẹ̀rún máàrún nínú àwọn mọlāika pẹ̀lú àmì ìdánimọ̀ lára wọn"
+        },
+        {
+            "chapter": 3,
+            "verse": 126,
+            "text": "Allāhu kò ṣe é lásán bí kò ṣe kí ó lè jẹ́ ìró ìdùnnú fun yín àtí nítorí kí ọkàn yín lè balẹ̀ pẹ̀lú rẹ̀. Kò sí àrànṣe lórí ọ̀tá (láti ibì kan kan) bí kò ṣe láti ọ̀dọ̀ Allāhu, Alágbára, Ọlọ́gbọ́n"
+        },
+        {
+            "chapter": 3,
+            "verse": 127,
+            "text": "(Allāhu ṣe àrànṣe náà fun yín) nítorí kí Ó lè gé apá kan dànù nínú àwọn t’ó ṣàì gbàgbọ́, tàbí nítorí kí Ó lè dójú tì wọ́n, tí wọ́n sì máa padà wálé lófo"
+        },
+        {
+            "chapter": 3,
+            "verse": 128,
+            "text": "Kò sí ohun t’ó kàn ọ́ nínú ọ̀rọ̀ náà. Yálà (Allāhu) máa gba ìronúpìwàdà wọn tàbí Ó máa jẹ wọ́n níyà; dájúdájú alábòsí ni wọ́n"
+        },
+        {
+            "chapter": 3,
+            "verse": 129,
+            "text": "Ti Allāhu ni ohunkóhun t’ó wà nínú àwọn sánmọ̀ àti ohunkóhun t’ó wà nínú ilẹ̀. Ó ń foríjin ẹni tí Ó bá fẹ́, Ó sì ń jẹ ẹni tí Ó bá fẹ́ níyà. Allāhu sì ni Aláforíjìn, Àṣàkẹ́-ọ̀run"
+        },
+        {
+            "chapter": 3,
+            "verse": 130,
+            "text": "Ẹ̀yin onígbàgbọ́ òdodo, ẹ má ṣe jẹ èlé, àdìpèlé lórí àdìpèlé. Kí ẹ sì bẹ̀rù Allāhu nítorí kí ẹ lè jèrè"
+        },
+        {
+            "chapter": 3,
+            "verse": 131,
+            "text": "Kí ẹ sì ṣọ́ra fún Iná tí Wọ́n ti pa lésè sílẹ̀ de àwọn aláìgbàgbọ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 132,
+            "text": "Kí ẹ tẹ̀lé ti Allāhu àti Òjíṣẹ́ nítorí kí A lè kẹ yín"
+        },
+        {
+            "chapter": 3,
+            "verse": 133,
+            "text": "Ẹ yára wá àforíjìn lọ́dọ̀ Olúwa yín àti Ọgbà Ìdẹ̀ra kan, èyí tí ìbú rẹ̀ tó àwọn sánmọ̀ àti ilẹ̀, tí Wọ́n pa lésè sílẹ̀ fún àwọn olùbẹ̀rù (Allāhu)"
+        },
+        {
+            "chapter": 3,
+            "verse": 134,
+            "text": "Àwọn t’ó ń ná owó wọn nígbà ìdẹ̀ra àti nígbà ìnira, àwọn tí ń gbé ìbínú mì, àwọn alámòjúúkúrò fún àwọn ènìyàn níbi àṣìṣe; Allāhu nífẹ̀ẹ́ àwọn olùṣe-rere"
+        },
+        {
+            "chapter": 3,
+            "verse": 135,
+            "text": "Àwọn tí (ó jẹ́ pé) nígbà tí wọ́n bá ṣe ìbàjẹ́ kan tàbí tí wọ́n bá ṣàbòsí sí ẹ̀mí ara wọn, wọ́n á rántí Allāhu, wọ́n á sì tọrọ àforíjìn fún ẹ̀ṣẹ̀ wọn, - Ta sì ni Ó ń forí àwọn ẹ̀ṣẹ̀ jin (ẹ̀dá) bí kò ṣe Allāhu. Wọn kò sì takú sórí ohun tí wọ́n ṣe nígbà tí wọ́n mọ̀ (pé ẹ̀ṣẹ̀ ni)"
+        },
+        {
+            "chapter": 3,
+            "verse": 136,
+            "text": "Àwọn wọ̀nyẹn, ẹ̀san wọn lọ́dọ̀ Olúwa wọn ni àforíjìn àti àwọn Ọgbà Ìdẹ̀ra kan tí àwọn odò ń ṣàn ní ìsàlẹ̀ rẹ̀. Olùṣegbére ni wọ́n nínú rẹ̀. Ẹ̀san olùṣe-iṣẹ́ rere sì dára"
+        },
+        {
+            "chapter": 3,
+            "verse": 137,
+            "text": "Àwọn orípa kan kúkú ti lọ ṣíwájú yín. Nítorí náà, ẹ rin ilẹ̀ lọ, kí ẹ wòye sí bí ìgbẹ̀yìn àwọn t’ó pe òdodo nírọ́ ṣe rí"
+        },
+        {
+            "chapter": 3,
+            "verse": 138,
+            "text": "Èyí ni àlàyé fún àwọn ènìyàn. Ìmọ̀nà àti wáàsí sì ni fún àwọn olùbẹ̀rù (Allāhu)"
+        },
+        {
+            "chapter": 3,
+            "verse": 139,
+            "text": "Ẹ má ṣe kọ́lẹ, ẹ sì má ṣe banújẹ́; ẹ̀yin l’ẹ máa lékè tí ẹ bá jẹ́ onígbàgbọ́ òdodo"
+        },
+        {
+            "chapter": 3,
+            "verse": 140,
+            "text": "Tí ìpalára kan bá kàn yín, irú ìpalára bẹ́ẹ̀ kúkú ti kan ìjọ kèfèrí. Àwọn ọjọ́ wọ̀nyí, À ń yí i po láààrin àwọn ènìyàn ni. Àti pé nítorí kí Allāhu lè ṣe àfihàn àwọn t’ó gbàgbọ́ ní òdodo àti nítorí kí Ó lè (tẹ́wọ́) gba àwọn t’ó máa kú fún Un nínú yín. Allāhu kò sì nífẹ̀ẹ́ àwọn alábòsí"
+        },
+        {
+            "chapter": 3,
+            "verse": 141,
+            "text": "Àti pé (ó tún rí bẹ́ẹ̀) nítorí kí Allāhu lè ṣàfọ̀mọ́ àwọn t’ó gbàgbọ́ ní òdodo àti nítorí kí Ó lè run àwọn aláìgbàgbọ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 142,
+            "text": "Tàbí ẹ lérò pé ẹ máa wọ inú Ọgbà Ìdẹ̀ra nígbà tí Allāhu kò tí ì ṣàfi hàn àwọn t’ó máa jagun (ẹ̀sìn) nínú yín, tí kò sì tí ì ṣàfi hàn àwọn onísùúrù"
+        },
+        {
+            "chapter": 3,
+            "verse": 143,
+            "text": "Dájúdájú ẹ ti ń fẹ́ ikú (ogun ẹ̀sìn) ṣíwájú kí ẹ tó pàdé rẹ̀. Ẹ kúkú ti rí i (báyìí), ẹ sì ń wòran"
+        },
+        {
+            "chapter": 3,
+            "verse": 144,
+            "text": "Kí ni (Ànábì) Muhammad bí kò ṣe Òjíṣẹ́, tí àwọn Òjíṣẹ́ kan ti lọ ṣíwájú rẹ̀. Ṣé tí ó bá kú tàbí tí wọ́n bá pa á, ẹ máa pẹ̀yìn dà (sẹ́sìn)? Ẹnikẹ́ni tí ó bá pẹ̀yìn dà (sẹ́sìn) kò lè kó ìnira kan kan bá Allāhu. Allāhu yó sì san àwọn olùdúpẹ́ ní ẹ̀san rere. awọ ẹran òkúǹbete tí wọ́n pa lósè kì í ṣe èèwọ̀ fún lílò fún ọ̀ṣọ́ ilé tàbí ọ̀ṣọ́ ara. Irú awọ ẹran òkúǹbete tí wọ́n pa lósè bẹ́ẹ̀ sì di ẹ̀tọ́ láti fi ṣe bàtà bẹ́lítì"
+        },
+        {
+            "chapter": 3,
+            "verse": 145,
+            "text": "Kò lẹ́tọ̀ọ́ fún ẹ̀mí kan láti kú àfi pẹ̀lú ìyọ̀ǹda Allāhu. (Ikú jẹ́) àkọsílẹ̀ onígbèdéke. Ẹnikẹ́ni tí ó bá ń fẹ́ ẹ̀san (ní) ayé, A máa fún un ní ayé. Ẹnikẹ́ni tí ó bá sì ń fẹ́ ẹ̀san (ní) ọ̀run, A máa fún un ní ọ̀run. A ó sì san àwọn olùdúpẹ́ ní ẹ̀san rere"
+        },
+        {
+            "chapter": 3,
+            "verse": 146,
+            "text": "Mélòó mélòó nínú àwọn Ànábì tí wọ́n ti jagun ẹ̀sìn pẹ̀lú ọ̀pọ̀lọ́pọ̀ ọmọ-ẹ̀yìn (wọn). Wọn kò ní ìrẹ̀wẹ̀sì ọkàn nípa ohun tí ó ṣẹlẹ̀ sí wọn ní ojú ogun ẹ̀sìn Allāhu. Wọn kò kọ́lẹ, wọn kò sì jura wọn sílẹ̀ fún ọ̀tá ẹ̀sìn. Allāhu sì nífẹ̀ẹ́ àwọn onísùúrù"
+        },
+        {
+            "chapter": 3,
+            "verse": 147,
+            "text": "Kò sì sí ohun kan tí wọ́n sọ tayọ pé wọ́n sọ pé: \"Olúwa wa forí àwọn ẹ̀ṣẹ̀ wa àti àṣejù wa nínú ọ̀rọ̀ wa jìn wá, mú ẹsẹ̀ wa dúró ṣinṣin, kí O sì ṣe àrànṣe fún wa lórí ìjọ aláìgbàgbọ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 148,
+            "text": "Nítorí náà, Allāhu fún wọn ní ẹ̀san ayé àti dáadáa ẹ̀san ọ̀run. Allāhu sì nífẹ̀ẹ́ àwọn olùṣe rere"
+        },
+        {
+            "chapter": 3,
+            "verse": 149,
+            "text": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, tí ẹ bá tẹ̀lé àwọn t’ó ṣàì gbàgbọ́, wọ́n máa yi yín lẹ́sẹ̀ padà kúrò nínú ẹ̀sìn. Nígbà náà, ẹ máa padà di ẹni òfò (sínú àìgbàgbọ́)"
+        },
+        {
+            "chapter": 3,
+            "verse": 150,
+            "text": "Allāhu sì ni Alárànṣe yín. Ó sì lóore jùlọ nínú àwọn alárànṣe"
+        },
+        {
+            "chapter": 3,
+            "verse": 151,
+            "text": "A máa fi ẹ̀rù jẹ̀jẹ̀ sínú ọkàn àwọn t’ó ṣàì gbàgbọ́ nítorí pé wọ́n bá Allāhu wá akẹgbẹ́, èyí tí kò sọ ẹ̀rí kan kalẹ̀ fún. Iná sì ni ibùgbé wọn; ilé àwọn alábòsí sì burú"
+        },
+        {
+            "chapter": 3,
+            "verse": 152,
+            "text": "Dájúdájú Allāhu ti mú àdéhùn Rẹ̀ ṣẹ fun yín nígbà tí ẹ̀ ń pa wọ́n pẹ̀lú ìyọ̀ǹda Rẹ̀, títí di ìgbà tí ẹ fi ṣojo, tí ẹ sì ń jiyàn sí ọ̀rọ̀. Ẹ sì yapa (àṣẹ Ànábì) lẹ́yìn tí Allāhu fi ohun tí ẹ nífẹ̀ẹ́ sí hàn yín. - Ó wà nínú yín ẹni tí ń fẹ́ ayé, ó sì ń bẹ nínú yín ẹni tí ń fẹ́ ọ̀run. - Lẹ́yìn náà, (Allāhu) yí ojú yín kúrò ní ọ̀dọ̀ wọn, kí Ó lè dan yín wò. Ó sì ti ṣàmójú kúrò fun yín; Allāhu ni Olóore àjùlọ lórí àwọn onígbàgbọ́ òdodo"
+        },
+        {
+            "chapter": 3,
+            "verse": 153,
+            "text": "(Ẹ rántí) nígbà tí ẹ̀ ń gùnkè sá lọ, tí ẹ̀yin kò sì bojú wo ẹnì kan kan mọ́ lẹ́yìn, Òjíṣẹ́ sì ń pè yín láti ẹ̀yìn yín. Nítorí náà, (Allāhu) fi ìbànújẹ́ (pípa tí àwọn ọ̀ṣẹbọ pa àwọn kan láààrin yín) san yín ní ẹ̀san ìbànújẹ́ (tí ẹ fi kan Ànábì nípasẹ̀ àìtẹ̀lé àṣẹ rẹ̀ lójú ogun ’Uhd. (Ó rí bẹ́ẹ̀) nítorí kí ẹ má baà banújẹ́ lórí ohun tí ó bọ́ fun yín àti ohun tí ó ṣẹlẹ̀ si yín. Allāhu ni Alámọ̀tán nípa ohun tí ẹ̀ ń ṣe níṣẹ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 154,
+            "text": "Lẹ́yìn náà, Ó sọ ìfàyàbalẹ̀ kalẹ̀ fun yín lẹ́yìn ìbànújẹ́; òògbé ta igun kan lọ nínú yín. Igun kan tí ẹ̀mí ara wọn sì ti kó ìrònú bá, tí wọ́n sì ń ní èròkérò sí Allāhu lọ́nà àìtọ́, èròkérò ìgbà àìmọ̀kan, wọ́n sì ń wí pé: “Ǹjẹ́ a ní àṣẹ kan (tí a lè mú wá) lórí ọ̀rọ̀ náà bí!” Sọ pé: “Dájúdájú gbogbo àṣẹ ń jẹ́ ti Allāhu.” Wọ́n ń fi pamọ́ sínú ọkàn wọn ohun tí wọn kò lè ṣàfi hàn rẹ̀ fún ọ. Wọ́n ń wí pé: \"Tí ó bá jẹ́ pé a ní àṣẹ kan lórí ọ̀rọ̀ náà ni, wọn ìbá tí pa wá síbí.\" Sọ pé: “Tí ó bá jẹ́ pé ẹ wà nínú ilé yín, àwọn tí A ti kọ àkọọ́lè pípa sí ibùjàgun wọn mọ ìbá kúkú jáde lọ síbẹ̀.” (Ogun yìí rí bẹ́ẹ̀) nítorí kí Allāhu lè gbìdánwò ohun tí ń bẹ nínú igbá-àyà yín àti nítorí kí Ó lè ṣàfọ̀mọ́ ohun tí ń bẹ nínú ọkàn yín. Allāhu sì ni Onímọ̀ nípa ohun tí ń bẹ nínú igbá-àyà ẹ̀dá"
+        },
+        {
+            "chapter": 3,
+            "verse": 155,
+            "text": "Dájúdájú àwọn t’ó pẹ̀yìn dà nínú yín ní ọjọ́ tí ìjọ méjì pàdé, dájúdájú Èṣù l’ó yẹ̀ wọ́n lẹ́sẹ̀ nítorí apá kan ohun tí wọ́n ṣe níṣẹ́. Allāhu sì kúkú ti ṣàmójú kúrò fún wọn. Dájúdájú Allāhu ni Aláforíjìn, Aláfaradà"
+        },
+        {
+            "chapter": 3,
+            "verse": 156,
+            "text": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ má ṣe dà bí àwọn t’ó ṣàì gbàgbọ́, tí wọ́n sọ fún àwọn ọmọ ìyá wọn, nígbà tí wọ́n ń rìn kiri ní orí ilẹ̀ tàbí (nígbà) tí wọ́n ń jagun, pé: “Tí ó bá jẹ́ pé wọ́n ń bẹ ní ọ̀dọ̀ wa ni, wọn ìbá tí kú, àti pé wọn ìbá tí pa wọ́n.” (Wọ́n wí bẹ́ẹ̀) nítorí kí Allāhu lè fi ìyẹn ṣe àbámọ̀ sínú ọkàn wọn. Allāhu l’Ó ń sọ ẹ̀dá di alààyè. Ó sì ń sọ ẹ̀dá di òkú. Allāhu sì ni Olùríran nípa ohun tí ẹ̀ ń ṣe níṣẹ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 157,
+            "text": "Dájúdájú tí wọ́n bá pa yín s’ójú ogun ẹ̀sìn Allāhu tàbí ẹ kú (sínú ilé), dájúdájú àforíjìn àti àánú láti ọ̀dọ̀ Allāhu lóore ju ohun tí ẹ̀ ń kójọ (nílé ayé)"
+        },
+        {
+            "chapter": 3,
+            "verse": 158,
+            "text": "Dájúdájú tí ẹ bá kú (sínú ilé) tàbí wọ́n pa yín (s’ójú ogun ẹ̀sìn), dájúdájú ọ̀dọ̀ Allāhu ni wọn máa ko yín jọ sí"
+        },
+        {
+            "chapter": 3,
+            "verse": 159,
+            "text": "Ìkẹ́ kan láti ọ̀dọ̀ Allāhu l’ó kúkú rọ̀ ọ́ fún wọn; tí ó bá jẹ́ pé o jẹ́ ẹni burúkú, ọlọ́kàn líle, wọn ìbá ti túká kúrò lọ́dọ̀ rẹ. Ṣàmójú kúrò fún wọn, bá wọn tọrọ àforíjìn, kí o sì bá wọn jíròrò lórí ọ̀rọ̀. Tí o bá sì pinnu (ọ̀rọ̀ kan), kí o gbáralé Allāhu. Dájúdájú Allāhu nífẹ̀ẹ́ àwọn olùgbáralé E"
+        },
+        {
+            "chapter": 3,
+            "verse": 160,
+            "text": "Tí Allāhu bá ṣe àrànṣe fun yín, kò sí ẹni tí ó máa borí yín. Tí Ó bá sì yẹpẹrẹ yín, ta sì ni ẹni tí ó máa ṣe àrànṣe fun yín lẹ́yìn Rẹ̀? Allāhu ni kí àwọn onígbàgbọ́ òdodo gbáralé"
+        },
+        {
+            "chapter": 3,
+            "verse": 161,
+            "text": "Kò lẹ́tọ̀ọ́ fún Ànábì kan láti jí mú nínú ọrọ̀ ogun ṣíwájú kí wọ́n tó pín in. Ẹnikẹ́ní tí ó bá jí ọrọ̀ ogun mú ṣíwájú kí wọ́n tó pín in, ó máa dá ohun tí ó jí mú nínú ọrọ̀ ogun náà padà ní Ọjọ́ Àjíǹde. Lẹ́yìn náà, A óò san ẹ̀mí kọ̀ọ̀kan ní ẹ̀san ohun tí ó ṣe níṣẹ́. A ò sì níí ṣe àbòsí sí wọn"
+        },
+        {
+            "chapter": 3,
+            "verse": 162,
+            "text": "Ṣé ẹni tí ó (ṣiṣẹ́) tọ ìyọ́nú Allāhu dà bí ẹni tí ó padà wálé pẹ̀lú ìbínú láti ọ̀dọ̀ Allāhu, ibùgbé rẹ̀ sì ni iná Jahanamọ? Ìkángun náà sì burú"
+        },
+        {
+            "chapter": 3,
+            "verse": 163,
+            "text": "(Èkínní kejì èrò inú Ọgbà Ìdẹ̀ra àti èrò inú Iná ni) wọ́n ní ipò (ọ̀tọ̀ọ̀tọ̀) ní ọ̀dọ̀ Allāhu. Allāhu sì ni Olùríran nípa ohun tí wọ́n ń ṣe níṣẹ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 164,
+            "text": "Allāhu kúkú ti ṣe oore fún àwọn onígbàgbọ́ òdodo nígbà tí Ó fi lè gbé Òjíṣẹ́ kan dìde sí wọn láààrin ara wọn. (Òjíṣẹ́ náà) ń ké àwọn āyah Rẹ̀ fún wọn. Ó ń fọ̀ wọ́n mọ́ (nínú ẹ̀ṣẹ̀). Ó sì ń kọ́ wọn ní Tírà (al-Ƙur’ān) àti ìjìnlẹ̀ òye (sunnah), bí ó tilẹ̀ jẹ́ pé tẹ́lẹ̀tẹ́lẹ̀ wọ́n wà nínú ìṣìnà pọ́nńbélé"
+        },
+        {
+            "chapter": 3,
+            "verse": 165,
+            "text": "Ṣé gbogbo ìgbà tí àdánwò kan bá kàn yín, tí ẹ sì ti fi méjì irú rẹ̀ (kan àwọn kèfèrí), ni ẹ̀yin yóò máa sọ pé: “Ọ̀nà wo ni èyí gbà ṣẹlẹ̀ sí wa?” Sọ pé: “Ó wá láti ọ̀dọ̀ ara yín.” Dájúdájú Allāhu ni Alágbára lórí gbogbo n̄ǹkan"
+        },
+        {
+            "chapter": 3,
+            "verse": 166,
+            "text": "Ohun tí ó ṣẹlẹ̀ si yín ní ọjọ́ tí ikọ̀ ogun méjèèjì pàdé (ṣẹlẹ̀) pẹ̀lú ìyọ̀ǹda Allāhu. Àti pé nítorí kí Ó lè ṣàfi hàn àwọn onígbàgbọ́ òdodo ni"
+        },
+        {
+            "chapter": 3,
+            "verse": 167,
+            "text": "(Ó tún rí bẹ́ẹ̀) nítorí kí Ó lè ṣàfi hàn àwọn t’ó ṣọ̀bẹ-ṣèlu (nínú àwọn mùsùlùmí). (Àwọn onígbàgbọ́ òdodo) sì sọ fún wọn pé: “Ẹ máa bọ̀, kí á lọ jagun fún ẹ̀sìn Allāhu tàbí ẹ wá dáàbò bo ẹ̀mí ara yín.” Wọ́n wí pé: “Àwa ìbá mọ ogun-ún jà àwa ìbá tẹ̀lé yín.” Wọ́n súnmọ́ àìgbàgbọ́ ní ọjọ́ yẹn ju ìgbàgbọ́ lọ. Wọ́n ń fi ẹnu wọn sọ ohun tí kò sí nínú ọkàn wọn. Allāhu sì nímọ̀ jùlọ nípa ohun tí wọ́n ń fi pamọ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 168,
+            "text": "Àwọn t’ó sọ nípa àwọn ọmọ ìyá wọn (t’ó kú s’ójú ogun ẹ̀sìn) pé – tí àwọn sì jòkóò kalẹ̀ sílé (ní tiwọn), \"Tí ó bá jẹ́ pé wọ́n tẹ̀lé tiwa ni, wọn ìbá tí pa wọ́n.\" Sọ pé: “Ẹ yẹkú dànù fún ẹ̀mí yín tí ẹ bá jẹ́ olódodo.”"
+        },
+        {
+            "chapter": 3,
+            "verse": 169,
+            "text": "Ẹ má ṣe lérò pé òkú (ìyà) ni àwọn tí wọ́n pa s’ójú ogun ẹ̀sìn Allāhu, àmọ́ alààyè (ẹni ìkẹ́) ni wọ́n. Wọ́n sì ń pèsè ìjẹ-ìmu fún wọn lọ́dọ̀ Olúwa wọn"
+        },
+        {
+            "chapter": 3,
+            "verse": 170,
+            "text": "Wọ́n ń dunnú nítorí ohun tí Allāhu fún wọn nínú oore-àjùlọ Rẹ̀. Wọ́n sì ń yọ̀ fún àwọn tí kò tí ì pàdé wọn nínú àwọn tí wọ́n fi sílẹ̀ pé: “Kò sí ìpáyà fún wọn. Wọn kò sì níí banújẹ́.”"
+        },
+        {
+            "chapter": 3,
+            "verse": 171,
+            "text": "Wọ́n ń bá wọn yọ̀ fún ìkẹ́ àti oore-àjùlọ (tí ń dúró dè wọ́n) lọ́dọ̀ Allāhu. Àti pé dájúdájú Allāhu kò níí fi ẹ̀san àwọn onígbàgbọ́ òdodo ráre"
+        },
+        {
+            "chapter": 3,
+            "verse": 172,
+            "text": "(Àwọn ni) àwọn t’ó jẹ́pè Allāhu àti Òjíṣẹ́ lẹ́yìn ìgbà tí wọ́n ti f’ara gbọgbẹ́. Ẹ̀san ńlá wà fún àwọn t’ó ṣe rere, tí wọ́n sì bẹ̀rù (Allāhu) nínú wọn"
+        },
+        {
+            "chapter": 3,
+            "verse": 173,
+            "text": "(Àwọn ni) àwọn tí àwọn ènìyàn wí fún pé: “Wọ́n mà ti kóra jọ dè yín, nítorí náà ẹ bẹ̀rù wọn.” (Èyí) lékún ìgbàgbọ́ òdodo wọn. Wọ́n sì sọ pé: “Allāhu tó fún wa. Ó sì dára ni Alámòójútó.”"
+        },
+        {
+            "chapter": 3,
+            "verse": 174,
+            "text": "Nítorí náà, wọ́n padà délé pẹ̀lú ìkẹ́ àti oore-àjùlọ láti ọ̀dọ̀ Allāhu. Aburú kan kò sì kàn wọ́n. Àti pé wọ́n (ṣiṣẹ́) tọ ìyọ́nú Allāhu. Allāhu sì ni Olóore ńlá"
+        },
+        {
+            "chapter": 3,
+            "verse": 175,
+            "text": "Dájúdájú ìyẹn ni Èṣù, tí ń fi àwọn ọ̀rẹ́ rẹ̀ dẹ́rù bà yín. Nítorí náà, ẹ má ṣe bẹ̀rù wọn. Kí ẹ sì bẹ̀rù Mi tí ẹ bá jẹ́ onígbàgbọ́ òdodo"
+        },
+        {
+            "chapter": 3,
+            "verse": 176,
+            "text": "Má ṣe jẹ́ kí àwọn tí ń sáré kó sínú àìgbàgbọ́ kó ìbànújẹ́ bá ọ. Dájúdájú wọn kò lè kó ìnira kan bá Allāhu. Allāhu kò fẹ́ kí ìpín kan nínú oore wà fún wọn ní ọ̀run (ni); ìyà ńlá sì ń bẹ fún wọn"
+        },
+        {
+            "chapter": 3,
+            "verse": 177,
+            "text": "Dájúdájú àwọn t’ó fi ìgbàgbọ́ òdodo ra àìgbàgbọ́, wọn kò lè kó ìnira kan bá Allāhu. Ìyà ẹlẹ́ta-eléro sì wà fún wọn"
+        },
+        {
+            "chapter": 3,
+            "verse": 178,
+            "text": "Kí àwọn t’ó ṣàì gbàgbọ́ má ṣe lérò pé bí A ṣe ń lọ́ra fún wọn jẹ́ oore fún wọn. A kàn ń lọ́ra fún wọn nítorí kí wọ́n lè lékún nínú ẹ̀ṣẹ̀ ni. Ìyà tí í yẹpẹrẹ ẹ̀dá sì wà fún wọn"
+        },
+        {
+            "chapter": 3,
+            "verse": 179,
+            "text": "Allāhu kò níí gbé àwọn onígbàgbọ́ òdodo jù sílẹ̀ lórí ohun tí ẹ wà lórí rẹ̀ (níbi àìmọ onígbàgbọ́ òdodo lọ́tọ̀ yàtọ̀ sí ṣọ̀bẹ-ṣèlu) títí Ó máa fi ya ẹni burúkú sọ́tọ̀ kúrò lára ẹni dáadáa. Allāhu kò sì níí fi ìmọ̀ ìkọ̀kọ̀ mọ̀ yín, ṣùgbọ́n Allāhu yóò ṣẹ̀ṣà ẹni tí Ó bá fẹ́ nínú àwọn Òjíṣẹ́ Rẹ̀. Nítorí náà, ẹ gbàgbọ́ nínú Allāhu àti àwọn Òjíṣẹ́ Rẹ̀. Tí ẹ bá gbàgbọ́ ní òdodo, tí ẹ sì bẹ̀rù (Allāhu), ẹ̀san ńlá yó sì wà fun yín"
+        },
+        {
+            "chapter": 3,
+            "verse": 180,
+            "text": "Kí àwọn t’ó ń ṣahun pẹ̀lú ohun tí Allāhu fún wọn nínú oore-àjùlọ Rẹ̀ má ṣe lérò pé oore ni fún wọn. Rárá, aburú ni fún wọn. A ó fí ohun tí wọ́n fi ṣahun dì wọ́n lọ́rùn ní Ọjọ́ Àjíǹde. Ti Allāhu sì ni ogún àwọn sánmọ̀ àti ilẹ̀. Allāhu sì ni Alámọ̀tán nípa ohun tí ẹ̀ ń ṣe níṣẹ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 181,
+            "text": "Allāhu kúkú ti gbọ́ ọ̀rọ̀ àwọn t’ó wí pé: “Dájúdájú aláìní ni Allāhu, àwa sì ni ọlọ́rọ̀.” A máa ṣàkọsílẹ̀ ohun tí wọ́n wí àti pípa tí wọ́n pa àwọn Ànábì láì lẹ́tọ̀ọ́. A sì máa sọ pé: “Ẹ tọ́ ìyà Iná jónijóni wò.”"
+        },
+        {
+            "chapter": 3,
+            "verse": 182,
+            "text": "Ìyẹn (rí bẹ́ẹ̀) nítorí ohun tí ọwọ́ yín tì síwájú. Àti pé dájúdájú Allāhu kò níí ṣe àbòsí fún àwọn ẹrú (Rẹ̀)"
+        },
+        {
+            "chapter": 3,
+            "verse": 183,
+            "text": "Àwọn t’ó wí pé: \"Dájúdájú Allāhu ṣàdéhùn fún wa pé a ò gbọdọ̀ gba Òjíṣẹ́ kan gbọ́ títí ó máa fí mú sàráà kan wá fún wa tí iná (àtọ̀runwá) yóò fi lánu.\" Sọ pé: \"Dájúdájú àwọn Òjíṣẹ́ kan ti wá ba yín ṣíwájú mi pẹ̀lú àwọn ẹ̀rí to yanjú àti èyí tí ẹ wí (yìí), nítorí kí ni ẹ fi pa wọ́n tí ẹ bá jẹ́ olódodo"
+        },
+        {
+            "chapter": 3,
+            "verse": 184,
+            "text": "Tí wọ́n bá pè ọ́ ní òpùrọ́, wọ́n kúkú ti pe àwọn Òjíṣẹ́ t’ó ṣíwájú rẹ ní òpùrọ́. Wọ́n wá pẹ̀lú àwọn ẹ̀rí t’ó yanjú, ìpín-ìpín Tírà àti Tírà t’ó ń tànmọ́lẹ̀ sí ọ̀rọ̀ ẹ̀sìn"
+        },
+        {
+            "chapter": 3,
+            "verse": 185,
+            "text": "Ẹ̀mí kọ̀ọ̀kan ló máa tọ́ ikú wò. A ó sì san yín ní ẹ̀san yín ní ẹ̀kúnrẹ́rẹ́ ní Ọjọ́ Àjíǹde. Nítorí náà, ẹnikẹ́ni tí A bá mú jìnnà tefé sí Iná, tí A sì mú wọ inú Ọgbà Ìdẹ̀ra, ó kúkú ti jèrè. Kí sì ni ìgbésí ayé bí kò ṣe ìgbádùn ẹ̀tàn"
+        },
+        {
+            "chapter": 3,
+            "verse": 186,
+            "text": "Dájúdájú A ó máa dan yín wò nínú dúkìá yín àti ẹ̀mí yín. Dájúdájú ẹ̀yin yóò máa gbọ́ ọ̀pọ̀lọ́pọ̀ ọ̀rọ̀ ìpalára láti ọ̀dọ̀ àwọn tí A fún ní tírà ṣíwájú yín àti àwọn ọ̀ṣẹbọ. Tí ẹ̀yin bá ṣe sùúrù, tí ẹ sì bẹ̀rù (Allāhu), dájúdájú ìyẹn wà nínú àwọn ìpinnu ọ̀rọ̀ t’ó pọn dandan"
+        },
+        {
+            "chapter": 3,
+            "verse": 187,
+            "text": "(Ẹ rántí) nígbà tí Allāhu gba àdéhùn àwọn tí A fún ní tírà pé ẹ gbọ́dọ̀ ṣe àlàyé rẹ̀ fún àwọn ènìyàn, ẹ ò sì gbọdọ̀ fi pamọ́. Wọ́n sì jù ú sẹ́yìn lẹ́yìn wọn. Wọ́n sì tà á ní owó kékeré. Nítorí náà, ohun tí wọ́n ń tà mà sì burú (níyà)"
+        },
+        {
+            "chapter": 3,
+            "verse": 188,
+            "text": "Ẹ má ṣe lérò pé àwọn t’ó ń dunnú sí ohun tí wọ́n ṣe (ní àìdáa máa là nínú ìyà). Wọ́n sì nífẹ̀ẹ́ sí kí àwọn (ènìyàn) máa yìn wọ́n fún ohun tí wọn kò ṣe (níṣẹ́ rere). Nítorí náà, ẹ má ṣe rò wọ́n ro ìgbàlà níbi Ìyà. Ìyà ẹlẹ́ta eléro sì wà fún wọn"
+        },
+        {
+            "chapter": 3,
+            "verse": 189,
+            "text": "Ti Allāhu ni ìjọba àwọn sánmọ̀ àti ilẹ̀. Allāhu sì ni Alágbára lórí gbogbo n̄ǹkan"
+        },
+        {
+            "chapter": 3,
+            "verse": 190,
+            "text": "Dájúdájú àwọn àmì wà nínú ìṣẹ̀dá àwọn sánmọ̀ àti ilẹ̀, ìtẹ̀léǹtẹ̀lé àti ìyàtọ̀ òru àti ọ̀sán; (àmì wà nínú wọn) fún àwọn onílàákàyè"
+        },
+        {
+            "chapter": 3,
+            "verse": 191,
+            "text": "Àwọn t’ó ń rántí Allāhu ní ìnàró, ìjókòó àti ní ìdùbúlẹ̀; tí wọ́n ń ronú sí ìṣẹ̀dá àwọn sánmọ̀ àti ilẹ̀, (wọ́n sì ń sọ pé:) \"Olúwa wa, Ìwọ kò ṣẹ̀dàá èyí pẹ̀lú irọ́. Mímọ́ ni fún Ọ. Nítorí náà, ṣọ́ wa níbi ìyà Iná"
+        },
+        {
+            "chapter": 3,
+            "verse": 192,
+            "text": "Olúwa wa, dájúdájú ẹnikẹ́ni tí O bá mú wọ inú Iná, O ti dójú tì í. Kò sì níí sí àwọn olùrànlọ́wọ́ fún àwọn alábòsí"
+        },
+        {
+            "chapter": 3,
+            "verse": 193,
+            "text": "Olúwa wa, dájúdájú àwa gbọ́ olùpèpè kan t’ó ń pe (ìpè) sí ibi ìgbàgbọ́ pé: \"Ẹ gba Olúwa yín gbọ́.” A sì gbàgbọ́ ní òdodo. Olúwa wa, nítorí náà, forí àwọn ẹ̀ṣẹ̀ wa jìn wá, kí O sì pa àwọn àṣìṣe wa rẹ́, kí O sì pa wá pẹ̀lú àwọn ẹni rere"
+        },
+        {
+            "chapter": 3,
+            "verse": 194,
+            "text": "Olúwa wa, fún wa ní ohun tí O ṣàdéhùn rẹ̀ fún wa lórí (ahọ́n) àwọn Òjíṣẹ́ Rẹ. Má sì ṣe dójú tì wá ní Ọjọ́ Àjíǹde. Dájúdájú Ìwọ kì í yapa àdéhùn"
+        },
+        {
+            "chapter": 3,
+            "verse": 195,
+            "text": "Olúwa wọn sì jẹ́pè wọn pé: “Dájúdájú Èmi kò níí fi iṣẹ́ oníṣẹ́ kan nínú yín ráre; ọkùnrin ni tàbí obìnrin, ara kan náà ni yín (níbi ẹ̀san). Nítorí náà, àwọn t’ó gbé (ìlú wọn) jù sílẹ̀, tí wọ́n lé jáde kúrò nínú ìlú wọn, tí wọ́n sì fi ìnira kàn wọ́n nítorí ẹ̀sìn Mi, wọ́n jagun ẹ̀sìn, wọ́n sì pa wọ́n. Dájúdájú Èmi yóò bá wọn pa àwọn àṣìṣe wọn rẹ́. Èmi yó sì mú wọn wọ inú àwọn Ọgbà Ìdẹ̀ra tí àwọn odò ń ṣàn ní ìsàlẹ̀ rẹ̀. (Ó jẹ́) ẹ̀san láti ọ̀dọ̀ Allāhu. Ní ọ̀dọ̀ Allāhu sì ni ẹ̀san dáadáa wà"
+        },
+        {
+            "chapter": 3,
+            "verse": 196,
+            "text": "Má ṣe gba ẹ̀tàn pẹ̀lú ìgbòkè-gbodò àwọn t’ó ṣàì gbàgbọ́ nínú ìlú"
+        },
+        {
+            "chapter": 3,
+            "verse": 197,
+            "text": "Ìgbádùn díẹ̀ (lè wà fún wọn), lẹ́yìn náà iná Jahanamọ ni ibùgbé wọn. Ibùgbé náà sì burú"
+        },
+        {
+            "chapter": 3,
+            "verse": 198,
+            "text": "Ṣùgbọ́n àwọn t’ó bẹ̀rù Olúwa wọn, àwọn Ọgbà Ìdẹ̀ra tí àwọn odò ń ṣàn ní ìsàlẹ̀ rẹ̀ ń bẹ fún wọn. Olùṣegbére ni wọ́n nínú rẹ̀. Ibùdésí kan ni láti ọ̀dọ̀ Allāhu. Ohun tí ń bẹ lọ́dọ̀ Allāhu sì lóore jùlọ fún àwọn ẹni rere"
+        },
+        {
+            "chapter": 3,
+            "verse": 199,
+            "text": "Dájúdájú ó ń bẹ nínú àwọn ahlul-kitāb ẹni t’ó gbàgbọ́ nínú Allāhu, àti ohun tí A sọ̀kalẹ̀ fun yín àti ohun tí A sọ̀kalẹ̀ fún wọn; wọ́n ń páyà Allāhu, wọn kì í ta àwọn ọ̀rọ̀ Allāhu ní owó kékeré. Àwọn wọ̀nyẹn ní ẹ̀san lọ́dọ̀ Olúwa wọn. Dájúdájú Allāhu ni Olùyára níbi ìṣírò-iṣẹ́"
+        },
+        {
+            "chapter": 3,
+            "verse": 200,
+            "text": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ ṣe sùúrù, ẹ pàrọwà sùúrù, ẹ ṣọ́ bodè ìlú yín (láti lè dènà àwọn ọmọ-ogun ọ̀tá ẹ̀sìn). Kí ẹ sì bẹ̀rù Allāhu nítorí kí ẹ lè jèrè"
+        },
+        {
+            "chapter": 4,
+            "verse": 1,
+            "text": "Ẹ̀yin ènìyàn, ẹ bẹ̀rù Olúwa yín, Ẹni tí Ó ṣẹ̀dá yín láti ara ẹ̀mí ẹyọ kan (ìyẹn, Ànábì Ādam). Ó sì ṣẹ̀dá aya rẹ̀ (Hawā’) láti ara rẹ̀. Ó fọ́n ọ̀pọ̀lọ́pọ̀ ọkùnrin àti obìnrin jáde láti ara àwọn méjèèjì. Kí ẹ sì bẹ̀rù Allāhu, Ẹni tí ẹ̀ ń fi bẹ ara yín. (Ẹ ṣọ́) okùn-ìbí. Dájúdájú Allāhu ń jẹ́ Olùṣọ́ lórí yín"
+        },
+        {
+            "chapter": 4,
+            "verse": 2,
+            "text": "Ẹ fún àwọn ọmọ òrukàn ní dúkìá wọn. Ẹ má ṣe fi n̄ǹkan burúkú pààrọ̀ n̄ǹkan dáadáa. Ẹ sì má ṣe jẹ dúkìá wọn mọ́ dúkìá yín; dájúdájú ó jẹ́ ẹ̀ṣẹ̀ ńlá"
+        },
+        {
+            "chapter": 4,
+            "verse": 3,
+            "text": "Tí ẹ bá páyà pé ẹ ò níí ṣe déédé nípa (fífẹ́) ọmọ òrukàn, ẹ fẹ́ ẹni t’ó lẹ́tọ̀ọ́ si yín nínú àwọn obìnrin; méjì tàbí mẹ́ta tàbí mẹ́rin. Ṣùgbọ́n tí ẹ bá páyà pé ẹ ò níí ṣe déédé, (ẹ fẹ́) ẹyọ kan tàbí ẹrúbìnrin yín. Ìyẹn súnmọ́ jùlọ pé ẹ ò níí ṣàbòsí"
+        },
+        {
+            "chapter": 4,
+            "verse": 4,
+            "text": "Ẹ fún àwọn obìnrin ní sọ̀daàkí wọn ní tọkàn-tọkàn. Tí wọ́n bá sì fi inú dídùn yọ̀ǹda kiní kan fun yín nínú rẹ̀, ẹ jẹ ẹ́ pẹ̀lú ìrọ̀rùn àti ìgbádùn"
+        },
+        {
+            "chapter": 4,
+            "verse": 5,
+            "text": "Ẹ má ṣe kó dúkìá yín tí Allāhu fí ṣe gbẹ́mìíró fun yín lé àwọn aláìlóye lọ́wọ́. Ẹ pèsè ìjẹ-ìmu fún wọn nínú rẹ̀, kí ẹ sì raṣọ fún wọn. Kí ẹ sì máa sọ̀rọ̀ dáadáa fún wọn"
+        },
+        {
+            "chapter": 4,
+            "verse": 6,
+            "text": "Ẹ máa ṣàgbéyẹ̀wò (òye) àwọn ọmọ òrukàn títí wọn yóò fi tó ìgbéyàwó ṣe. Tí ẹ bá sì ti rí òye lára wọn, kí ẹ dá dúkìá wọn padà fún wọn. Ẹ ò gbọdọ̀ jẹ dúkìá wọn ní ìjẹ àpà àti ìjẹkújẹ kí wọ́n tó dàgbà. Ẹni tí ó bá jẹ́ ọlọ́rọ̀, kí ó mójú kúrò (níbẹ̀). Ẹni tí ó bá jẹ́ aláìní, kí ó jẹ nínú rẹ̀ ní ọ̀nà t’ó dára. Nítorí náà, tí ẹ bá fẹ́ dá dúkìá wọn padà fún wọn, ẹ pe àwọn ẹlẹ́rìí sí wọn. Allāhu sì tó ní Olùṣírò"
+        },
+        {
+            "chapter": 4,
+            "verse": 7,
+            "text": "Àwọn ọkùnrin ní ìpín nínú ohun tí òbí méjèèjì àti ẹbí fi sílẹ̀. Àti pé àwọn obìnrin náà ní ìpín nínú ohun tí òbí méjéèjì àti ẹbí fi sílẹ̀. Nínú ohun t’ó kéré nínú rẹ̀ tàbí t’ó pọ̀; (ó jẹ́) ìpín tí wọ́n ti pín (fún wọn)"
+        },
+        {
+            "chapter": 4,
+            "verse": 8,
+            "text": "Nígbà tí àwọn ẹbí, àwọn ọmọ òrukàn àti àwọn mẹ̀kúnnù bá wà ní (ìjókòó) ogún pípín, ẹ fún wọn nínú rẹ̀ (ṣíwájú kí ẹ tó pín ogún), kí ẹ sì sọ̀rọ̀ dáadáa fún wọn"
+        },
+        {
+            "chapter": 4,
+            "verse": 9,
+            "text": "Àwọn (olùpíngún àti alágbàwò ọmọ òrukàn) tí ó bá jẹ́ pé àwọn náà máa fi ọmọ wẹ́wẹ́ sílẹ̀, tí wọ́n sì ń páyà lórí wọn, kí wọ́n yáa bẹ̀rù Allāhu. Kí wọ́n sì máa sọ̀rọ̀ dáadáa (fún ọmọ òrukàn)"
+        },
+        {
+            "chapter": 4,
+            "verse": 10,
+            "text": "Dájúdájú àwọn t’ó ń jẹ dúkìá ọmọ òrukàn pẹ̀lú àbòsí, Iná kúkú ni wọ́n ń jẹ sínú ikùn wọn. Wọ́n sì máa wọ inú Iná t’ó ń jò"
+        },
+        {
+            "chapter": 4,
+            "verse": 11,
+            "text": "Allāhu ń pàṣẹ fun yín nípa (ogún tí ẹ máa pín fún) àwọn ọmọ yín; ti ọkùnrin ni irú ìpín ti obìnrin méjì. Tí wọ́n bá sì jẹ́ obìnrin (nìkan) méjì sókè, tiwọn ni ìdá méjì nínú ìdá mẹ́ta ohun tí (òkú) fi sílẹ̀. Tí ó bá jẹ́ obìnrin kan ṣoṣo, ìdajì ni tirẹ̀. Ti òbí rẹ̀ méjèèjì, ìdá kan nínú ìdá mẹ́fà ni ti ìkọ̀ọ̀kan àwọn méjèèjì nínú ohun tí òkú fi sílẹ̀, tí ó bá ní ọmọ láyé. Tí kò bá sì ní ọmọ láyé, tí ó sì jẹ́ pé àwọn òbí rẹ̀ méjèèjì l’ó máa jogún rẹ̀, ìdá kan nínú ìdá mẹ́ta ni ti ìyá rẹ̀. Tí ó bá ní arákùnrin (tàbí arábìnrin), ìdá kan nínú ìdá mẹ́fà ni ti ìyá rẹ̀, (gbogbo rẹ̀) lẹ́yìn àsọọ́lẹ̀ tí ó sọ tàbí gbèsè. Àwọn bàbá yín àti àwọn ọmọkùnrin yín; ẹ̀yin kò mọ èwo nínú wọn ló máa mú àǹfààní ba yín jùlọ. (Ìpín) ọ̀ran-anyàn ni láti ọ̀dọ̀ Allāhu. Dájúdájú Allāhu ń jẹ́ Onímọ̀, Ọlọ́gbọ́n"
+        },
+        {
+            "chapter": 4,
+            "verse": 12,
+            "text": "Tiyín ni ìlàjì ohun tí àwọn ìyàwó yín fi sílẹ̀, tí wọn kò bá ní ọmọ. Tí wọ́n bá sì ní ọmọ, tiyín ni ìdá kan nínú ìdá mẹ́rin ohun tí wọ́n fi sílẹ̀, lẹ́yìn àsọọ́lẹ̀ tí wọ́n sọ tàbí gbèsè. Tiwọn sì ni ìdá kan nínú ìdá mẹ́rin ohun tí ẹ fi sílẹ̀, tí ẹ̀yin kò bá ní ọmọ láyé. Tí ẹ bá ní ọmọ láyé, ìdá kan nínú ìdá mẹ́jọ ni tiwọn nínú ohun tí ẹ fi sílẹ̀ lẹ́yìn àsọọ́lẹ̀ tí ẹ sọ tàbí gbèsè. Tí ọkùnrin kan tàbí obìnrin kan tí wọ́n fẹ́ jogún rẹ̀ kò bá ní òbí àti ọmọ, tí ó sì ní arákùnrin kan tàbí arábìnrin kan, ìdá kan nínú ìdá mẹ́fà ni ti ìkọ̀ọ̀kan àwọn méjèèjì. Tí wọ́n bá sì pọ̀ ju bẹ́ẹ̀ lọ, wọn yóò dìjọ pín ìdá kan nínú ìdá mẹ́ta, lẹ́yìn àsọọ́lẹ̀ tí wọ́n sọ tàbí gbèsè, tí kò níí jẹ́ ìpalára. Òfin kan ni láti ọ̀dọ̀ Allāhu. Allāhu sì ni Onímọ̀, Aláfaradà"
+        },
+        {
+            "chapter": 4,
+            "verse": 13,
+            "text": "Ìyẹn ni àwọn ẹnu-àlà (tí) Allāhu (gbékalẹ̀ fún ogún pípín). Ẹnikẹ́ni tí ó bá sì tẹ̀lé ti Allāhu àti Òjíṣẹ́ Rẹ̀, (Allāhu) yóò mú un wọ inú àwọn Ọgbà Ìdẹ̀ra kan tí àwọn odò ń ṣàn ní ìsàlẹ̀ rẹ̀. Olùṣegbére ni wọ́n nínú rẹ̀. Ìyẹn sì ni èrèǹjẹ ńlá"
+        },
+        {
+            "chapter": 4,
+            "verse": 14,
+            "text": "Ẹnikẹ́ni tí ó bá sì yapa (àṣẹ) Allāhu àti Òjíṣẹ́ Rẹ̀, tí ó sì ń tayọ àwọn ẹnu-àlà tí Allāhu gbékalẹ̀, (Allāhu) yóò mú un wọ inú Iná kan. Olùṣegbére ni nínú rẹ̀. Ìyà tí í yẹpẹrẹ ẹ̀dá sì ń bẹ fún un"
+        },
+        {
+            "chapter": 4,
+            "verse": 15,
+            "text": "Àwọn t’ó ń ṣe sìná nínú àwọn obìnrin yín, ẹ wá ẹlẹ́rìí mẹ́rin nínú yín tí ó máa jẹ́rìí lé wọn lórí. Tí wọ́n bá jẹ́rìí lé wọn lórí, kí ẹ dè wọ́n mọ́ inú ilé títí ikú yóò fi pa wọ́n tàbí (títí) Allāhu yóò fi fún wọn ní ọ̀nà (mìíràn)"
+        },
+        {
+            "chapter": 4,
+            "verse": 16,
+            "text": "Àwọn méjì tí wọ́n ṣe (sìná) nínú yín, kí ẹ (fẹnu) bá wọn wí. Tí wọ́n bá sì ronú pìwàdà, tí wọ́n ṣàtúnṣe, kí ẹ mójú kúrò lára wọn. Dájúdájú Allāhu ń jẹ́ Olùgba-ìronúpìwàdà, Àṣàkẹ́-ọ̀run"
+        },
+        {
+            "chapter": 4,
+            "verse": 17,
+            "text": "Ìronúpìwàdà tí Allāhu yóò gbà ni ti àwọn t’ó ń ṣe iṣẹ́ aburú pẹ̀lú àìmọ̀kan. Lẹ́yìn náà, wọ́n ronú pìwàdà láìpẹ́. Àwọn wọ̀nyí ni Allāhu yóò gba ìronúpìwàdà wọn. Allāhu sì ń jẹ́ Onímọ̀, Ọlọ́gbọ́n"
+        },
+        {
+            "chapter": 4,
+            "verse": 18,
+            "text": "Kò sí ìronúpìwàdà fún àwọn t’ó ń ṣe aburú títí ikú fi dé bá ọ̀kan nínú wọn, kí ó wá wí pé: “Dájúdájú èmi ronú pìwàdà nísinsìn yìí.” (Kò tún sí ìronúpìwàdà) fún àwọn t’ó kú sípò aláìgbàgbọ́. Àwọn wọ̀nyẹn, A ti pèsè ìyà ẹlẹ́ta eléro sílẹ̀ dè wọ́n"
+        },
+        {
+            "chapter": 4,
+            "verse": 19,
+            "text": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, kò lẹ́tọ̀ọ́ fun yín láti jẹ àwọn obìnrin mógún pẹ̀lú ipá (bíi ṣíṣú obìnrin lópó.) Ẹ má sì dí wọn lọ́wọ́ láti kó apá kan n̄ǹkan tí ẹ fún wọn lọ àyàfi tí wọ́n bá hùwà ìbàjẹ́ pọ́nńbélé. Ẹ bá wọn lòpọ̀ pẹ̀lú dáadáa. Tí ẹ bá kórira wọn, ó lè jẹ́ pé ẹ kórira kiní kan, kí Allāhu sì ti fi ọ̀pọ̀lọ́pọ̀ oore sínú rẹ̀"
+        },
+        {
+            "chapter": 4,
+            "verse": 20,
+            "text": "Tí ẹ bá sì fẹ́ fi ìyàwó kan pààrọ̀ àyè ìyàwó kan, tí ẹ sì ti fún ọ̀kan nínú wọn ní ọ̀pọ̀lọ́pọ̀ dúkìá, ẹ ò gbọdọ̀ gba n̄ǹkan kan nínú rẹ̀ mọ́. Ṣé ẹ̀yin yóò gbà á ní ti àdápa irọ́ (tí ẹ̀ ń pa mọ́ wọn) àti ẹ̀ṣẹ̀ tó fojú hàn (tí ẹ̀ ń dá nípa wọn)"
+        },
+        {
+            "chapter": 4,
+            "verse": 21,
+            "text": "Báwo ni ẹ̀yin ṣe lè gbà á padà nígbà tí ó jẹ́ pé ẹ ti wọlé tọ’ra yín, tí wọ́n sì ti gba àdéhùn t’ó nípọn lọ́wọ́ yín"
+        },
+        {
+            "chapter": 4,
+            "verse": 22,
+            "text": "Ẹ má ṣe fẹ́ ẹni tí àwọn bàbá yín ti fẹ́ nínú àwọn obìnrin àyàfi èyí tí ó ti ré kọjá. Dájúdájú ó jẹ́ ìwà ìbàjẹ́ àti ohun ìkórira. Ó sì burú ní ọ̀nà"
+        },
+        {
+            "chapter": 4,
+            "verse": 23,
+            "text": "A ṣe é ní èèwọ̀ fun yín (láti fẹ́) àwọn ìyá yín àti àwọn ọmọbìnrin yín àti àwọn arábìnrin yín àti àwọn arábìnrin bàbá yín àti àwọn arábìnrin ìyá yín àti àwọn ọmọbìnrin arákùnrin yín àti àwọn ọmọbìnrin arábìnrin yín àti àwọn ìyá yín tí ó fun yín ní ọyàn mu àti arábìnrin yín nípasẹ̀ ọyàn àti àwọn ìyá ìyàwó yín àti àwọn ọmọbìnrin ìyàwó yín tí ẹ gbà tọ́, èyí t’ó wà nínú ilé yín, tí ẹ sì ti wọlé tọ àwọn ìyá wọn, - tí ẹ̀yin kò bá sì tí ì wọlé tọ̀ wọ́n, kò sí ẹ̀ṣẹ̀ fun yín (láti fẹ́ ọmọbìnrin wọn), - àti àwọn ìyàwó ọmọ yín, èyí tí ó ti ìbàdí yín jáde. (Ó tún jẹ́ èèwọ̀) láti fẹ́ tẹ̀gbọ́n tàbúrò papọ̀ àyàfi èyí tí ó ti ré kọjá. Dájúdájú Allāhu, Ó ń jẹ́ Aláforíjìn Àṣàkẹ́-ọ̀run"
+        }
+    ]
+}

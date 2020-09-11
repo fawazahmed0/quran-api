@@ -579,6 +579,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/div-officeofthepres.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/div-officeofthepres.min.json"
     },
+    "eng_abdelhaleem": {
+        "name": "eng-abdelhaleem",
+        "author": "Abdel Haleem",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-abdelhaleem.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-abdelhaleem.min.json"
+    },
+    "eng_abdulhye": {
+        "name": "eng-abdulhye",
+        "author": "Abdul Hye",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-abdulhye.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-abdulhye.min.json"
+    },
     "eng_abdullahyusufal": {
         "name": "eng-abdullahyusufal",
         "author": "Abdullah Yusuf Ali",
@@ -619,6 +639,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ahmedali.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ahmedali.min.json"
     },
+    "eng_aishabewley": {
+        "name": "eng-aishabewley",
+        "author": "Aisha Bewley",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-aishabewley.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-aishabewley.min.json"
+    },
     "eng_ajarberry": {
         "name": "eng-ajarberry",
         "author": "A. J. Arberry",
@@ -628,6 +658,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ajarberry.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ajarberry.min.json"
+    },
+    "eng_albilalmuhammad": {
+        "name": "eng-albilalmuhammad",
+        "author": "Al Bilal Muhammad Et Al",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-albilalmuhammad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-albilalmuhammad.min.json"
+    },
+    "eng_alibakhtiarinej": {
+        "name": "eng-alibakhtiarinej",
+        "author": "Ali Bakhtiari Nejad",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-alibakhtiarinej.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-alibakhtiarinej.min.json"
     },
     "eng_aliquliqarai": {
         "name": "eng-aliquliqarai",
@@ -639,6 +689,106 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-aliquliqarai.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-aliquliqarai.min.json"
     },
+    "eng_aliquliqarai1": {
+        "name": "eng-aliquliqarai1",
+        "author": "Ali Quli Qarai",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-aliquliqarai1.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-aliquliqarai1.min.json"
+    },
+    "eng_aliunal": {
+        "name": "eng-aliunal",
+        "author": "Ali Unal",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-aliunal.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-aliunal.min.json"
+    },
+    "eng_almuntakhabfita": {
+        "name": "eng-almuntakhabfita",
+        "author": "Almuntakhab Fi Tafsir Alquran Alkarim",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-almuntakhabfita.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-almuntakhabfita.min.json"
+    },
+    "eng_drkamalomar": {
+        "name": "eng-drkamalomar",
+        "author": "Dr Kamal Omar",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-drkamalomar.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-drkamalomar.min.json"
+    },
+    "eng_drlalehbakhtiar": {
+        "name": "eng-drlalehbakhtiar",
+        "author": "Dr Laleh Bakhtiar",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-drlalehbakhtiar.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-drlalehbakhtiar.min.json"
+    },
+    "eng_drmunirmunshey": {
+        "name": "eng-drmunirmunshey",
+        "author": "Dr Munir Munshey",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-drmunirmunshey.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-drmunirmunshey.min.json"
+    },
+    "eng_edwardhenrypalm": {
+        "name": "eng-edwardhenrypalm",
+        "author": "Edward Henry Palmer",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-edwardhenrypalm.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-edwardhenrypalm.min.json"
+    },
+    "eng_farookmalik": {
+        "name": "eng-farookmalik",
+        "author": "Farook Malik",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-farookmalik.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-farookmalik.min.json"
+    },
+    "eng_georgesale": {
+        "name": "eng-georgesale",
+        "author": "George Sale",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-georgesale.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-georgesale.min.json"
+    },
+    "eng_hamidsaziz": {
+        "name": "eng-hamidsaziz",
+        "author": "Hamid S Aziz",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-hamidsaziz.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-hamidsaziz.min.json"
+    },
     "eng_hasanalfatihqar": {
         "name": "eng-hasanalfatihqar",
         "author": "Hasan Al Fatih Qaribullah And Ahmad Darwish",
@@ -648,6 +798,36 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-hasanalfatihqar.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-hasanalfatihqar.min.json"
+    },
+    "eng_johnmedowsrodwe": {
+        "name": "eng-johnmedowsrodwe",
+        "author": "John Medows Rodwell",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-johnmedowsrodwe.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-johnmedowsrodwe.min.json"
+    },
+    "eng_maududi": {
+        "name": "eng-maududi",
+        "author": "Maududi",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-maududi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-maududi.min.json"
+    },
+    "eng_miraneesuddin": {
+        "name": "eng-miraneesuddin",
+        "author": "Mir Aneesuddin",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-miraneesuddin.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-miraneesuddin.min.json"
     },
     "eng_mohammadhabibsh": {
         "name": "eng-mohammadhabibsh",
@@ -659,6 +839,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mohammadhabibsh.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mohammadhabibsh.min.json"
     },
+    "eng_mohammadshafi": {
+        "name": "eng-mohammadshafi",
+        "author": "Mohammad Shafi",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mohammadshafi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mohammadshafi.min.json"
+    },
     "eng_mohammedmarmadu": {
         "name": "eng-mohammedmarmadu",
         "author": "Mohammed Marmaduke William Pickthall",
@@ -668,6 +858,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mohammedmarmadu.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mohammedmarmadu.min.json"
+    },
+    "eng_muhammadasad": {
+        "name": "eng-muhammadasad",
+        "author": "Muhammad Asad",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadasad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadasad.min.json"
+    },
+    "eng_muhammadmahmoud": {
+        "name": "eng-muhammadmahmoud",
+        "author": "Muhammad Mahmoud Ghali",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadmahmoud.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadmahmoud.min.json"
     },
     "eng_muhammadsarwar": {
         "name": "eng-muhammadsarwar",
@@ -689,6 +899,36 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadtaqiudd.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadtaqiudd.min.json"
     },
+    "eng_muhammadtaqiusm": {
+        "name": "eng-muhammadtaqiusm",
+        "author": "Muhammad Taqi Usmani",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadtaqiusm.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadtaqiusm.min.json"
+    },
+    "eng_njdawood": {
+        "name": "eng-njdawood",
+        "author": "N J Dawood",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-njdawood.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-njdawood.min.json"
+    },
+    "eng_safikaskas": {
+        "name": "eng-safikaskas",
+        "author": "Safi Kaskas",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-safikaskas.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-safikaskas.min.json"
+    },
     "eng_safiurrahmanalm": {
         "name": "eng-safiurrahmanalm",
         "author": "Safi Ur Rahman Al Mubarakpuri",
@@ -699,6 +939,36 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-safiurrahmanalm.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-safiurrahmanalm.min.json"
     },
+    "eng_shabbirahmed": {
+        "name": "eng-shabbirahmed",
+        "author": "Shabbir Ahmed",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-shabbirahmed.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-shabbirahmed.min.json"
+    },
+    "eng_syedvickarahame": {
+        "name": "eng-syedvickarahame",
+        "author": "Syed Vickar Ahamed",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-syedvickarahame.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-syedvickarahame.min.json"
+    },
+    "eng_talalaitaninewt": {
+        "name": "eng-talalaitaninewt",
+        "author": "Talal A Itani New Translation",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-talalaitaninewt.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-talalaitaninewt.min.json"
+    },
     "eng_talalitani": {
         "name": "eng-talalitani",
         "author": "Talal Itani",
@@ -708,6 +978,46 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-talalitani.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-talalitani.min.json"
+    },
+    "eng_tbirving": {
+        "name": "eng-tbirving",
+        "author": "Tbirving",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-tbirving.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-tbirving.min.json"
+    },
+    "eng_themonotheistgr": {
+        "name": "eng-themonotheistgr",
+        "author": "The Monotheist Group Edition",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-themonotheistgr.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-themonotheistgr.min.json"
+    },
+    "eng_themonotheistgr1": {
+        "name": "eng-themonotheistgr1",
+        "author": "The Monotheist Group Edition",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-themonotheistgr1.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-themonotheistgr1.min.json"
+    },
+    "eng_thestudyquran": {
+        "name": "eng-thestudyquran",
+        "author": "The Study Quran",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-thestudyquran.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-thestudyquran.min.json"
     },
     "eng_ummmuhammad": {
         "name": "eng-ummmuhammad",
@@ -728,6 +1038,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-wahiduddinkhan.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-wahiduddinkhan.min.json"
+    },
+    "eng_yusufaliorig": {
+        "name": "eng-yusufaliorig",
+        "author": "Yusuf Ali Orig",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-yusufaliorig.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-yusufaliorig.min.json"
     },
     "fas_abdolmohammaday": {
         "name": "fas-abdolmohammaday",
@@ -2189,6 +2509,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uig-muhammadsaleh.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uig-muhammadsaleh.min.json"
     },
+    "uig_shaykhmuhammads": {
+        "name": "uig-shaykhmuhammads",
+        "author": "Shaykh Muhammad Saleh",
+        "language": "Uighur",
+        "direction": "rtl",
+        "source": "https://quranenc.com/check/uyghur_saleh/v1.0.0-csv.1 , https://quranenc.com/en/browse/uyghur_saleh , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uig-shaykhmuhammads.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uig-shaykhmuhammads.min.json"
+    },
     "urd_abulaalamaududi_la": {
         "name": "urd-abulaalamaududi-la",
         "author": "Abul Ala Maududi",
@@ -2298,6 +2628,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uzb-muhammadsodikmu.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uzb-muhammadsodikmu.min.json"
+    },
+    "yor_shaykhaburahima_la": {
+        "name": "yor-shaykhaburahima-la",
+        "author": "Shaykh Abu Rahimah Mikael Aykyuni",
+        "language": "Yoruba",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/yoruba_mikail/v1.0.0-csv.1 , https://quranenc.com/en/browse/yoruba_mikail , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/yor-shaykhaburahima-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/yor-shaykhaburahima-la.min.json"
+    },
+    "yor_shaykhaburahima": {
+        "name": "yor-shaykhaburahima",
+        "author": "Shaykh Abu Rahimah Mikael Aykyuni",
+        "language": "Yoruba",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/yoruba_mikail/v1.0.0-csv.1 , https://quranenc.com/en/browse/yoruba_mikail , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/yor-shaykhaburahima.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/yor-shaykhaburahima.min.json"
     },
     "zho_majian_la": {
         "name": "zho-majian-la",
