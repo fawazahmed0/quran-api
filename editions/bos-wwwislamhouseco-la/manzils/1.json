@@ -1,0 +1,3349 @@
+{
+    "manzils": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "U ime Allaha, Milostivog, Samilosnog"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Sva hvala pripada Allahu, Gospodaru svih svjetova"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Milostivom, Samilosnom"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Vladaru Sudnjega dana"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Samo Tebe obozavamo i samo od Tebe pomoc trazimo"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Uputi nas na Pravi put"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Na put onih kojima si blagodati Svoje darovao, a ne na put onih na koje si se rasrdio, niti onih koji su zalutali"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Elif-Lam-Mim"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "Ova Knjiga – u koju nema sumnje – uputa je bogobojaznima"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "onima koji u svijet nevidljivi vjeruju i koji namaz obavljaju i dijele od onoga cime smo ih Mi opskrbili"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "i onima koji vjeruju u ono sto je objavljeno tebi i sto je objavljeno prije tebe, i koji u ahiret cvrsto vjeruju"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Njima je Gospodar njihov na Pravi put ukazao i to su oni koji su uspjeli"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Onima koji ne vjeruju doista je svejedno upozoravao ti njih ili ne upozoravao, oni ne vjeruju"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Allah je zapecatio srca njihova i usi njihove, a pred ocima njihovim je koprena; njih ceka patnja golema"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "Ima ljudi koji govore: \"Vjerujemo u Allaha i Posljednji dan\", a oni nisu vjernici"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "Oni misle da varaju Allaha i one koji vjeruju, a nikog osim sebe oni ne varaju, ali ne osjecaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "U srcima njihovim je bolest i Allah im povecava bolest. Njih ceka patnja bolna zbog toga sto su lagali"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Kada im se kaze: \"Ne pravite nered na Zemlji!\", odgovaraju: \"Mi samo red uspostavljamo"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "Naprotiv! Oni su uistinu pravi smutljivci, ali to ne opazaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Kada im se kaze: \"Vjerujte kao sto ovi ljudi vjeruju!\", oni odgovaraju: \"Zar da vjerujemo kao sto maloumnici vjeruju!?\" A doista su oni maloumnici, ali to oni ne znaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Kada susretnu one koji vjeruju, oni govore: \"Vjerujemo!\", a cim ostanu nasamo, sa sejtanima svojim, govore: \"Mi smo s vama. Mi se samo izrugujemo"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Allah se njima izruguje i ostavlja ih da u svojoj osionosti lutaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "To su oni koji su zabludu uzeli umjesto Upute, ali im njihova trgovina nece donijeti dobiti, jer oni Uputu nisu slijedili"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Oni su slicni onome koji potpali vatru, a kada ona osvijetli ono sto oko njega je, Allah im oduzme svjetlo i ostavi ih u tminama, pa nista ne vide"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "Gluhi, nijemi i slijepi su oni, pa ne mogu da se povrate"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Ili su oni slicni onima koji za vrijeme silnog pljuska s neba, uz tmine, grmljavinu i munje, zbog gromova stavljaju prste u usi bojeci se smrti. A Allah obuhvata nevjernike"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "Munja samo sto ih ne zaslijepi: kad god im osvijetli – oni krenu, a cim ih tami prepusti – zastanu! A da Allah hoce, On bi im oduzeo i sluh i vid. Allah, uistinu, sve moze"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "O ljudi, ibadet cinite Gospodaru svome, Koji je stvorio vas i one prije vas, da biste se uscuvali"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "Koji vam je Zemlju posteljom, a nebo zdanjem ucinio; Koji s neba spusta vodu i s njom izvodi plodove, opskrbu vasu. Zato ne pripisujte Allahu ortake, a vi znate"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "A ako sumnjate u ono sto smo Mi objavili robu Svome, sacinite vi jednu suru slicnu tome i pozovite i svjedoke vase, mimo Allaha, ako istinu govorite"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "Pa ako to ne ucinite, a sigurno necete uciniti, onda se cuvajte vatre cije ce gorivo biti ljudi i kamenje; pripremljena je ona za nevjernike"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "A obraduj one koji vjeruju i dobra djela cine da njima pripadaju dzennetske basce kroz koje rijeke teku! Kad god budu opskrbljeni kakvim plodom, reci ce: \"Ovim smo i prije bili opskrbljeni!\" A bit ce im davani samo njima slicni! U njima ce oni supruge ociscene imati i oni ce u njima vjecno boraviti"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "a oni koji ne vjeruju govore: \"\"Sta to Allah hoce ovim primjerom?\"\" Time On da da mnogi u zabludu skrenu, a mnoge na Pravi put upucuje, a time na stranputicu skrece samo razvratnike"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "One koji krse obavezu prema Allahu nakon sto je prihvacena i prekidaju ono sto je Allah naredio da se odrzava i nered na Zemlji prave; to su pravi gubitnici"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Kako ne vjerujete u Allaha, vi koji ste bili mrtvi pa vas je On ozivio, zatim ce vas usmrtiti, zatim ponovo oziviti, potom cete Njemu biti vraceni"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "On je za vas sve na Zemlji stvorio, zatim se na nebo usmjerio, i kao sedam nebesa ga uredio; On sve dobro zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "A kada Gospodar tvoj rece melekima: \"Ja cu na Zemlji namjesnika –halifu postaviti!\", oni upitase: \"Zar ces na Zemlji postaviti onoga koji ce na njoj nered siriti i krv prolijevati?! A mi Tebe velicamo hvalom i kako Tebi dolikuje stujemo.\" On rece: \"Ja, doista, znam ono sto vi ne znate"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "I pouci On Adema svim imenima, a onda ih predoci melekima i rece: \"Kazite Mi imena njihova, ako istinu govorite"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Uzvisen si!\", rekose oni, \"mi znamo samo ono cemu si nas Ti poucio! Zasigurno si Ti Sveznajuci i Mudri"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "O Ademe\", rece On, \"saopci im njihova imena!\" I kada im on saopci imena njihova, Allah rece: \"Zar vam nisam rekao da samo Ja znam tajne nebesa i Zemlje i da samo Ja znam ono sto pokazujete i sto krijete"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "A kad rekosmo melecima: \"Sedzdu ucinite Ademu!\", oni sedzdu ucinise svi izuzev Iblisa.\" On ne htjede i uzoholi se, a nevjernik bio je"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "I Mi rekosmo: \"O Ademe, nastanite se ti i supruga tvoja u dzennetu i jedite u njemu gdje god zelite, ali se ovome drvetu ne priblizujte da ne budete među zulumcarima"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Ali, sejtan ih navede na grijeh zbog tog drveta i izvede ih iz onoga u cemu su bili. \"Siđite!\",\" rekosmo Mi. \"Jedni drugima bit cete neprijatelji. Do određenog vremena na Zemlji je vase boraviste i neko vrijeme uzivanje"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "I Adem primi neke rijeci od Gospodara svoga, pa mu On oprosti; On je, doista, mnogo pokajanje prima i milostiv je"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Mi rekosmo: \"Silazite iz njega svi! Od Mene ce vam Uputa dolaziti, a oni koj Uputu Moju budu slijedili, nicega se nece bojati, niti ce za bilo cim tugovati"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "A oni koji ne budu vjerovali i dokaze i ajete Nase budu poricali bit ce stanovnici Vatre; u njoj ce vjecno ostati"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "O sinovi Israilovi, sjetite se blagodati Mojih koje sam vam podario, i ispunite zavjet koji ste Mi dali, pa cu i Ja ispuniti Svoj zavjet koji sam vam dao! I samo od Mene strahujte"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Vjerujte u ono sto sam objavio potvrđujuci da je istinito ono sto vi imate i ne budite prvi koji u to ne vjeruju! Ne prodajite rijeci Moje za nesto sto sasvim malo vrijedi i samo se Mene bojte"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "I ne mijesajte Istinu s neistinom, a i ne tajite Istinu, a vi je znate"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Namaz obavljajte, zekat dajite i idite na ruku zajedno s onima koji na ruku idu"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "Zar od drugih trazite da dobro cine dok pri tome sebe zaboravljate, a vi Knjigu citate? Zar se opametiti necete"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Trazite sebi pomoc u strpljenju i namazu. To je doista tesko, osim poniznima"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "onima koji su uvjereni da ce se sresti sa Gospodarom svojim i da ce se Njemu vratiti"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "O sinovi Israilovi! Sjetite se blagodati Mojih koje sam vam podario i sto sam vas nad drugim svjetovima bio odlikovao"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "I bojte se Dana kada niko ni za koga nista nece moci uciniti, kada se niciji zagovor nece prihvacati, kada se ni od koga otkup nece primati i kada nikome niko nece u pomoc priteci"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "I kada smo vas izbavili od faraonovih ljudi koji su vas najgorim mukama mucili: musku vam djecu klali, a zensku u zivotu ostavljali – to vam je bilo veliko iskusenje od Gospodara vaseg"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "I kada smo vam more rastavili i vas izbavili, a faraonove ljude – vi ste to gledali – potopili"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "I kada s Musaom, cetrdeset noci, susret odredismo, vi ste, nakon sto on ode, zulum cineci, tele za obozavanje prihvatili"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Potom smo vam, i poslije toga, oprostili, da biste zahvalni bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "I kada smo dali Musau Knjigu i ono sto razdvaja Istinu od neistine, da biste se Pravim putem uputili"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "I kada je Musa rekao narodu svome: \"Narode moj, vi ste doista sebi zulum ucinili prihvativsi tele; zato se Stvoritelju svome pokajte i poubijajte se!\" To vam je kod vaseg Stvoritelja bolje, pa ce vam pokajanje prihvatiti. Zaista je On stalni Primatelj pokajanja, Milostivi"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "I kada ste vi rekli: \"Musa, mi ti necemo vjerovati dok Allaha jasno ne vidimo!\", pa vas je strasna kazna obuzela, a vi ste gledali"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Zatim smo vas poslije smrti vase ozivili, da biste zahvalni bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "I od oblaka smo vam hladovinu nacinili i manu i prepelice vam slali. \"Jedite lijepa jela, kojima vas opskrbljujemo!\" Oni Nama nisu zulum nanijeli, nego su sami sebi zulum nanosili"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "I kada smo rekli: \"Uđite u ovaj grad i jedite sto god hocete! Na kapiju uđite klanjajuci se i kazite: 'Oprost!', pa cemo vam oprostiti grijehe vase, a onima koji cine dobra djela dat cemo i vise"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Onda su oni koji su zulum ucinili zamijenili rijeci drugim koje im nisu recene, pa smo Mi na one koji su zulum ucinili s neba kaznu spustili, zato sto su gresnici bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "I kada je Musa za narod svoj vodu molio, Mi smo rekli: \"Udari stapom svojim po kamenu!\" Iz njega je dvanaest vrela provrelo, i svi ljudi su znali iz kojeg ce vrela piti. \"Jedite i pijte Allahovu opskrbu i ne cinite zlo po Zemlji nered praveci"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "I kada ste rekli: “Musa, mi ne mozemo vise jednu te istu hranu jesti. Zato, moli za nas Gospodara svoga da nam podari od onoga sto zemlja rađa: povrca i krastavaca, psenice, lece i luka crvenog!” On je rekao: “Zar da ono sto je bolje zamijenite onim sto je losije?! Idite u bilo koji grad, imat cete ono sto trazite!” I ponizenje i bijeda na njih padose i Allahovu srdzbu oni na sebe navukose, zato sto u Allahove dokaze vjerovali nisu i sto su vjerovjesnike bespravno ubijali, zato sto su neposlusni bili i sve granice zla prelazili"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "One koji vjeruju, te one koji su bili zidovi, krscani i sabijci, a koji su vjerovali u Allaha i Posljednji dan i dobra djela cinili – doista ceka nagrada od Gospodara njihova; za njih nema straha i oni nece tugovati"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "I kada smo od vas zavjet uzeli i brdo Tur iznad vas podigli: \"Snazno prihvatite ono sto smo vam dali i neka vam je na umu ono sto je u Knjizi, da biste se sacuvali"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Zatim ste odustali, i da nije bilo Allahove darezljivosti prema vama i milosti Njegove, vi biste, uistinu, među gubitnicima bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Vama je poznato sta se dogodilo onima od vas koji su subotu oskrnavili, pa smo im Mi rekli: \"Budite majmuni prezreni"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "To naselje smo ucinili opomenom obliznjim naseljima, a poukom za bogobojazne"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "I kada Musa rece narodu svome: \"Allah vam, doista, naređuje da kravu zakoljete\", oni upitase: \"Zbijas li to ti s nama salu?\", a on rece: \"Allahu se utjecem od toga da neznalica budem"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Oni rekose: \"Moli za nas Gospodara svoga da nam objasni koje dobi ona treba biti!\" \"On kaze\", odgovori on, \"da krava ne smije biti ni stara, ni mlada, nego između toga, srednje dobi, pa ucinite to sto se od vas trazi"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Zamoli za nas Gospodara svoga\", rekose oni, \"da nam objasni kakve boje treba biti!\" \"On kaze\", rece on, \"da treba biti zute boje, da se svidi onima koji je vide"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "Moli za nas Gospodara svoga\", rekose oni, \"da nam objasni kakva jos treba biti, jer nama krave izgledaju slicne, a mi cemo nju, ako Allah htjedne, sigurno pronaci"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "On kaze\", rece on, \"da krava ne smije biti iscrpljena oranjem zemlje i natapanjem usjeva; treba biti bez ikakve mahane i biljega.\" \"E, sad si kazao istinu!\", rekose oni, pa je zaklase, i jedva to ucinise"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "I kada ste jednog covjeka ubili, pa se o njemu prepirati poceli, Allah je dao da izađe na vidjelo ono sto ste bili sakrili"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "Pa smo Mi rekli: \"Udarite ga jednim njezinim dijelom!\" I eto, tako Allah mrtve vraca u zivot i pruza vam dokaze Svoje, da biste shvatili"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "Ali su srca vasa, poslije toga, postala tvrda kao kamen ili jos tvrđa. A ima kamenja iz kojega rijeke izbijaju; ima ga koje puca i iz kojeg izlazi voda; a ima, doista, i onoga koje se iz straha od Allaha rusi. A Allah ne zanemaruje ono sto vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "Zar vi zudite da vam oni vjeruju, a neki od njih su Allahov govor slusali, a zatim bi ga, nakon sto su ga shvatili, svjesno iskrivljavali"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "Kada sretnu one koji vjeruju, oni govore: \"Mi vjerujemo!\", a cim se osame jedni s drugima, kazu: \"Zar cete im kazivati ono sto je Allah vama objavio, pa da im to bude dokaz protiv vas pred Gospodarom vasim? Zar se necete opametiti"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "A zar oni ne znaju da Allah zna i ono sto kriju i ono sto pokazuju"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Neki od njih su nepismeni i ne poznaju Knjigu, nego samo gatke. Oni samo izmisljaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "A tesko onima koji svojim rukama pisu knjigu, a zatim govore: \"Ovo je od Allaha\", da bi to za malu vrijednost prodali. I tesko njima zbog onoga sto ruke njihove pisu, i tesko njima sto na taj nacin zarađuju"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "Oni govore: \"Vatra nas nece doticati vise od nekoliko dana.\"Reci: \"Da li ste za to od Allaha dobili obecanje, jer Allah nece prekrsiti Svoje obecanje, ili na Allaha iznosite ono sto ne znate"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "A nije tako! Jer oni koji budu zlo cinili i grijesi ih njihovi budu sa svih strana stizali, stanovnici Vatre oni bit ce i u njoj ce vjecno ostati"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "A oni koji budu vjerovali i dobra djela cinili, oni ce stanovnici dzenneta biti; u njemu ce vjecno boraviti"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "I kada smo od potomaka Israilovih zavjet uzeli da cete jedino Allahu u ibadetu biti, i roditeljima, i bliznjima, i sirocadi, i siromasima dobrocinstvo ciniti, a ljudima lijepe rijeci govoriti; i namaz obavljati i zekat davati, vi ste se poslije, izuzev nekolicine, okrecuci se od toga udaljili"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "I kada smo od vas zavjet uzeli da krv jedni drugima necete prolijevati i da jedni druge iz domova vasih necete izgoniti, vi ste to onda, prihvatili i tome svjedoci bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Nakon toga, vi ipak jedni druge ubijate, a pojedine od vas i iz zavicaja njihovog istjerujete, pomazuci se protiv njih, uz grijeh i nasilje, pa ako vam kao suznji dođu, vi ih otkupljujete. A zabranjeno vam je da ih izgonite! Zar vi u jedan dio Knjige vjerujete, a drugi negirate?! Nikakve kazne za one od vas koji tako cine, sem ponizenja na ovome svijetu, nece biti, a na Kijametskom danu bit ce stavljeni na muke najteze! Allah, doista, nije nemaran prema onome sto vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "To su oni koji su zivot na ovome svijetu uzeli u zamjenu za ahiret; zato im patnja olaksana nece biti, niti ce im se u pomoc priteci"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "I Mi smo Musau Knjigu dali i, poslije njega, jednog za drugim, poslanike smo slali. I Isau, sinu Merjeminom, jasne smo dokaze dali i Duhom Blagoslovljenim ga pomogli. I kad god vam je koji poslanik donio ono sto nije godilo dusama vasim, vi ste se uzoholili, pa ste neke u laz ugonili, a neke ubijali"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "Oni govore: \"Nasa srca okorjela!\" A nije tako, nego je Allah njih prokleo zbog nevjerovanja njihova, a malo je njih koji vjeruju"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "A kada im od Allaha dođe Knjiga koja potvrđuje istinitost onoga sto oni imaju – a jos otprije su pomoc protiv nevjernika molili – kada im dođe ono sto im je poznato, oni to negirase. Pa neka Allahovo prokletstvo stigne nevjernike"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Jadno je to za sto su se prodali: da negiraju ono sto Allah objavljuje, zbog zlobe sto Allah spusta Svoju darezljivost kome On hoce od Svojih robova; pa su na sebe gnjev za gnjevom navlacili! A nevjernicima pripada patnja ponizavajuca"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "A kada im se kaze: \"Vjerujte u ono sto Allah objavljuje!\", oni odgovaraju: \"Mi vjerujemo samo u ono sto je nama objavljeno\", i nece da vjeruju u ono sto se objavljuje poslije, a to je Istina, koja potvrđuje da je istinito i ono sto oni imaju. Reci: \"Pa zasto ste jos ranije Allahove vjerovjesnike ubijali, ako ste vjernici bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "I Musa vam je jasne dokaze bio donio, pa ste, ipak, nakon sto on ode, zulum cineci, tele za obozavanje prihvatili"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "I kada smo od vas vas zavjet primili i brdo Tur iznad vas podigli: \"Cvrsto prihvatite ono sto vam dajemo i slusajte!\", oni su odgovorili: \"Cujemo, ali poslusati necemo!\", jer srca su njihova, zbog nevjerovanja, nadojena teletom bila. Reci: \"Ruzno je to na sto vas vase vjerovanje navodi, ako ste vi uopce vjernici"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "Reci: \"Ako je kod Allaha dzennet osiguran samo za vas, mimo ostalog svijeta, onda vi smrt pozelite, ako istinu govorite"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "A oni je nece nikada pozeljeti zbog onoga sto cine, a Allah dobro zna zulumcare"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "I vidjet ces sigurno da vise zude za zivotom od drugih ljudi, pa cak i od onih koji Allahu druge u obozavanju pridruzuju; svaki od njih volio bi pozivjeti hiljadu godina, mada ga to, i kada bi toliko dugo zivio, ne bi od kazne udaljilo. A Allah dobro vidi ono sto oni rade"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "Reci: \"Ko je neprijatelj Dzibrilu, neka zna da on Allahovom dozvolom tebi na srce stavlja Kur'an potvrdujuci istinitost onoga otprije, kao putokaz i radosnu vijest vjernicima"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Ko je neprijatelj Allahu, melekima Njegovim i poslanicima Njegovim i Dzibrilu i Mikalu\" – pa, Allah je, doista, neprijatelj onima koji ne vjeruju"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "A Mi tebi ajete – jasne dokaze objavljujemo, u koje jedino gresnici nece vjerovati"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "Zar svaki put kada neku obavezu preuzmu, neka njihova skupina je odbaci?! Stavise, vecina ih ne vjeruje"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "A kada im je od Allaha Poslanik dosao, potvrđujuci da je istinito ono sto vec imaju, dio onih kojima je Knjiga data za leđa svoja Allahovu knjigu su odbacili, kao da oni ne znaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "I povedose se za onim sto su sejtani o Sulejmanovoj vladavini lazno kazivali. A Sulejman nije bio nevjernik, nego sejtani, Harut i Marut, nisu vjerovali, poducavajuci vradzbini ljude u Babilonu. A to nije objavljeno dvojici meleka. Njih dvojica nikoga nisu ucili dok mu ne bi rekli: \"\"Mi samo iskusavamo, a ti nemoj biti nevjernik!\"\" I ljudi su od njih dvojice ucili kako ce muza od zene rastaviti, ali oni nisu mogli nikome bez Allahove dozvole nauditi. Ucili su ono sto ce im nauditi i od cega koristi nece imati, iako su znali da onaj ko to sebi u zamjenu za vjerovanje"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "A da su oni vjerovali i cuvali se, pa sigurno nagrada od Allaha bolja je – samo da su to oni znali"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "O vi koji vjerujete, ne govorite: \"Ra'ina!\", nego recite \"Unzurna (Pogledaj nas, obrati paznju na nas)!\" i slusajte. A nevjernicima bolna patnja pripada"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Oni kojima je data Knjiga koji ne vjeruju, a ni oni koji Allahu druge u obozavanju pridruzuju, ne vole da se vama od Gospodara vaseg bilo kakvo dobro objavi. Allah Svojom miloscu odlikuje koga hoce, i Allah je posjednik obilja velikog"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Koji god ajet promijenimo, ili ga zaboravu prepustimo, Mi bolji od njega ili slican njemu donesemo. Zar ti ne znas da Allah nad svime ima moc"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "Zar ti ne znas da Allahu pripada vlast i na nebesima i na Zemlji i da, osim Allaha, ni zastitnika ni pomagaca nemate"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Zar da trazite od svog poslanika, kao sto su prije od Musaa trazili?! A ko vjerovanje zamijeni nevjerovanjem, taj je s Pravog puta zalutao"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Mnogi sljedbenici Knjige voljeli bi, iz licne zlobe svoje, da vas, nakon vaseg vjerovanja, vrate u nevjernike, nakon sto im je Istina jasnom postala. Ali, vi oprostite i preko toga pređite, dok Allah Svoju odluku ne donese. Allah, doista, nad svime ima moc"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "I namaz obavljajte i zekat dajite, a dobro koje za sebe date, naci cete kod Allaha. Allah, doista, dobro vidi sta vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Oni govore: \"U dzennet nece uci niko osim onoga ko bude zidov ili krscanin!\" To su puste zelje njihove. Reci: \"Dajte svoj dokaz, ako istinu govorite"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "A nije tako! Onome ko se bude Allahu predao i usto dobra djela cinio, pripada nagrada kod Gospodara njegova; takvi se nece nicega bojati, niti ce za bilo cim tugovati"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Zidovi govore: \"Krscani nisu ni na cemu!\", a krscani kazu: \"Zidovi nisu ni na cemu!\", a oni Knjigu citaju. Tako gotovo istim rijecima govore oni koji ne znaju. Allah ce im na Kijametskom danu presuditi u onome o cemu su se razilazili"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Ima li veceg zulumcara od onoga koji brani da se u Allahovim mesdzidima ime Njegovo spominje i koji radi na tome da se oni opustose?! Takvi bi trebalo da u njih samo sa strahom ulaze. Oni ce na ovome svijetu ponizenje dozivjeti, a na drugom ih ceka kazna velika"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Allahu pripadaju i istok i zapad; kuda god se okrenete, tamo je Allahovo lice. Allah je, doista, neizmjerno darezljiv i Sveznajuci"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Nevjernici govore: \"Allah je sebi dijete uzeo.\" Uzvisen neka je On! Naprotiv, Njemu pripada sve sto je na nebesima i na Zemlji i Njemu se sve pokorava"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "On je Stvoritelj nebesa i Zemlje, a kada nesto odredi, On samo kaze: \"Budi!\" – i to biva"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "A oni koji ne znaju, govore: \"Trebalo bi da Allah s nama razgovara, ili da nam kakav dokaz dođe!\" Tako su gotovo istim rijecima govorili i oni prije njih; srca su im slicna! A Mi dokaze objasnjavamo ljudima koji cvrsto vjeruju"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "Mi smo te, zaista, poslali s Istinom, kao onoga ko radosne vijesti donosi i upozorava, a ti neces biti pitan za one koji ce u dzehennemu biti"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Ni zidovi, ni krscani nece biti tobom zadovoljni sve dok ne budes slijedio vjeru njihovu. Reci: \"Allahova Uputa jest Prava uputa!\" A ako bi se ti poveo za zeljama njihovim, nakon znanja koje si dobio, od Allaha te niko ne bi mogao zastititi, niti pomoci ti"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Oni kojima smo objavili Knjigu, pa je citaju onako kako treba, to su oni koji u nju vjeruju. A oni koji u nju ne budu vjerovali, to su sigurni gubitnici"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "O sinovi Israilovi! Sjetite se blagodati Mojih koje sam vam podario i sto sam vas nad drugim svjetovima bio odlikovao"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "I bojte se Dana kada niko ni za koga nista nece moci uciniti, kada se ni od koga otkup nece primati, kada se niciji zagovor nece koristiti, i kada nikome niko nece u pomoc priteci"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "I kada je Ibrahima Gospodar njegov s nekoliko rijeci na iskusenje stavio, pa ih je on potpuno izvrsio, Allah je rekao: \"Ucinit cu da ti budes ljudima vođa.\" On je upitao: \"A i neki iz mog potomstva?\" Odgovorio mu je: \"Obecanje Moje ne obuhvata zulumcare"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "I kada Mi Kabu ucinismo utocistem i sigurnim mjestom za ljude: \"Neka vam mjesto na kojem je Ibrahim stajao bude prostor gdje cete namaz obavljati!\" I Ibrahimu i Ismailu stavili smo u obavezu: \"Kabu Moju vas dvojica ocistite, za one koji je budu obilazili, za one koji u njoj budu boravili, i za one koji ruku i sedzdu budu cinili"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "A kada je Ibrahim zamolio: \"Gospodaru moj, ucini ovo mjesto sigurnim boravistem i snabdij plodovima stanovnike njegove, one između njih koji budu u Allaha i Posljednji dan vjerovali!\", On je rekao: \"Onome koji ne bude vjerovao, dat cu da neko vrijeme uziva, a onda cu ga prisiliti da u patnju vatrenu uđe. A uzasno je to konacno odrediste"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "I dok su Ibrahim i Ismail temelje Kabe podizali, molili su: \"Gospodaru nas, primi to od nas, Ti si, uistinu, Svecujuci i Sveznajuci"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Gospodaru nas, ucini nas dvojicu muslimanima – Tebi predanim, a i u potomstvu nasem neka bude zajednica Tebi predana, pokazi nam obrede nase i oprosti nam! Ti si, doista, stalni Primatelj pokajanja, Milostivi"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Gospodaru nas, posalji među njih poslanika, jednoga od njih, koji ce im ajete Tvoje kazivati, Knjizi i mudrosti ih pouciti i ocistiti ih! Ti si, doista, Silni i Mudri"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Ko drugi vjeru Ibrahimovu izbjegava do onaj koji ne drzi do sebe!? Mi smo njega na ovome svijetu odabrali, pa ce on i na drugom svijetu biti među dobrima"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "Kada je njemu Gospodar njegov rekao: \"Predan budi!\", on je odgovorio: \"Ja sam predan Gospodaru svjetova"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "I Ibrahim je, kao i Jakub, to zapovjedio sinovima svojim: \"Sinovi moji, Allah je vama vjeru odabrao, i niposto nemojte umrijeti nego kao muslimani"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Da niste mozda prisutni bili kada je Jakubu smrtni cas dosao?! Kad je on sinove svoje upitao: \"Kome cete poslije mene ibadet ciniti?\" Odgovorili su: \"Ibadet cemo ciniti Bogu tvome, Bogu tvojih predaka Ibrahima, Ismaila i Ishaka, Bogu Jedinome! I mi se samo Njemu predajemo"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Taj je narod nestao; njemu pripada ono sto je zasluzio, a vama sto ste zasluzili, i vi necete biti pitani za ono sto su oni radili"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Oni govore: \"Budite zidovi, odnosno krscani, bit cete na Pravom putu!\" Ti reci: \"Ne, mi smo sljedbenici Ibrahima pravovjernika. On nije u visebosce spadao"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "Recite: \"Mi vjerujemo u Allaha i u ono sto se objavljuje nama, i u ono sto je objavljeno Ibrahimu, i Ismailu, i Ishaku, i Jakubu, i potomcima,\" i u ono sto je dato Musau i Isau, i u ono sto je dato vjerovjesnicima od Gospodara njihova; mi ne pravimo nikakve razlike među njima i mi smo Njemu predani"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "Pa, ako oni budu vjerovali u ono u sto vi vjerujete, na Pravom su putu; a ako se okrenu, oni su onda raskol pocinili. Allah ce te sigurno od njih zastititi. On je Svecujuci i Sveznajuci"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "Allahove vjere se drzite! Zar ima ljepse vjere od Allahove?! Mi se"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "Reci: \"Zar s nama o Allahu raspravljate, a On je i nas i vas Gospodar! Nama pripadaju nasa djela, a vama vasa djela! A mi smo prema Njemu iskreni"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Kako mozete govoriti da su Ibrahim, Ismail, Ishak, Jakub i potomci njegovi bili zidovi ili krscani? Reci: \"Znate li bolje vi ili Allah?\" Zar je iko veci zulumcar od onoga koji skriva svjedocanstvo Istine dobivene od Allaha! A Allah nije nemaran prema onome sto vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Taj je narod nestao; njemu pripada ono sto je zasluzio, a vama sto ste zasluzili, i vi necete biti pitani za ono sto su oni radili"
+        },
+        {
+            "chapter": 2,
+            "verse": 142,
+            "text": "Reci ce neki ljudi kratke pameti: \"Sta ih je odvratilo od kible njihove, prema kojoj su se okretali?\" Reci: \"Allahu pripadaju i istok i zapad; On upucuje na Pravi put onoga koga On hoce"
+        },
+        {
+            "chapter": 2,
+            "verse": 143,
+            "text": "Tako smo vas ucinili najboljom – zajednicom sredine, kako biste svjedocili o drugim ljudima, i kako bi Poslanik o vama svjedocio. I Mi smo promijenili kiblu prema kojoj si se okretao samo da bismo znali one koji slijede Poslanika naspram onih koji ne vjeruju, jer to je doista tesko bilo svima, izuzev onim koje je Allah uputio na Pravi put. Allah nece dozvoliti da propadne vjerovanje vase – a doista je Allah prema ljudima milosrdan i milostiv"
+        },
+        {
+            "chapter": 2,
+            "verse": 144,
+            "text": "Mi vidimo kako okreces lice svoje prema nebu i Mi cemo te sigurno okrenuti prema kibli koju ti zelis; pa, okreni lice svoje prema Casnoj dzamiji! I gdje god bili, lice svoje okrenite prema njoj. Doista, oni kojima je data Knjiga znaju da je to istina od Gospodara njihova. A Allah nije nemaran prema onome sta oni rade"
+        },
+        {
+            "chapter": 2,
+            "verse": 145,
+            "text": "I kada bi ti onima kojima je data Knjiga sve dokaze donio, oni opet nece prihvatiti tvoju kiblu, kao sto ni ti neces prihvatiti njihovu kiblu, niti ce iko od njih prihvatiti kiblu drugoga. A ako bi se ti za njihovim zeljama poveo nakon sto ti je doslo znanje, tada bi sigurno među zulumcarima bio"
+        },
+        {
+            "chapter": 2,
+            "verse": 146,
+            "text": "Oni kojima smo dali Knjigu poznaju njega – Poslanika, kao sto sinove svoje znaju, ali neki od njih doista svjesno istinu prikrivaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 147,
+            "text": "Istina je od Gospodara tvoga, pa zato nikako ne budi od onih koji sumnjaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 148,
+            "text": "Svako ima svoj pravac prema kojem se okrece, pa se natjecite u dobru! Ma gdje bili, Allah ce vas sve sabrati. Allah, doista, nad svime ima moc"
+        },
+        {
+            "chapter": 2,
+            "verse": 149,
+            "text": "I iz svakoga mjesta u koje dođes, ti lice svoje u pravcu Casne dzamije okreni; to je, doista, Istina od Gospodara tvoga; Allah nije nemaran prema onome sto vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 150,
+            "text": "I iz svakog mjesta u koje dođes, ti lice svoje prema Casnoj dzamiji okreni; i gdje god se nalazili, vi lica svoja prema njoj okrecite, da vam ljudi ne bi imali sta prigovoriti, izuzev onih između njih koji zulum cine. Njih se ne bojte, nego se Mene bojte, da bih blagodat Svoju prema vama upotpunio i da biste na Pravom putu bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 151,
+            "text": "Kao sto vam Mi jednoga od vas kao poslanika poslasmo da vam ajete Nase kazuje, da vas ocisti, da vas Knjizi i mudrosti pouci, i da vas ono sto niste znali nauci"
+        },
+        {
+            "chapter": 2,
+            "verse": 152,
+            "text": "pa, sjecajte se vi Mene, i Ja cu se vas sjecati! I zahvaljujte Mi, a nemojte Mi nezahvalni biti"
+        },
+        {
+            "chapter": 2,
+            "verse": 153,
+            "text": "O vi koji vjerujete, trazite sebi pomoci u strpljivosti i namazu! Allah je, doista, uz strpljive"
+        },
+        {
+            "chapter": 2,
+            "verse": 154,
+            "text": "I ne kazite za one koji su na Allahovom putu poginuli: \"Mrtvi su!\" Ne, oni su zivi, ali vi to ne opazate"
+        },
+        {
+            "chapter": 2,
+            "verse": 155,
+            "text": "Mi cemo vas u iskusenje dovoditi, malo strahom i gladovanjem, te gubljenjem imetka, zivota i ljetine. A ti obraduj strpljive"
+        },
+        {
+            "chapter": 2,
+            "verse": 156,
+            "text": "one koji, kada ih kakva nevolja zadesi, samo kazu: \"Mi smo, doista, Allahovi i Njemu cemo se, sigurno, vratiti"
+        },
+        {
+            "chapter": 2,
+            "verse": 157,
+            "text": "To su oni kojima pripadaju blagoslovi od Gospodara njihova i milost; oni su na Pravom putu"
+        },
+        {
+            "chapter": 2,
+            "verse": 158,
+            "text": "Safa i Merva su, doista, Allahova casna mjesta. Zato onaj koji Kucu Allahovu hodocasti ili umru obavi, ne cini nikakav prijestup ako obiđe oko njih. A onaj koji drage volje ucini kakvo dobro djelo, pa Allah je doista blagodaran i sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 159,
+            "text": "One koji budu tajili jasne dokaze koje smo Mi objavili, i Pravi put nakon sto smo ga u Knjizi ljudima oznacili, Allah ce prokleti, a proklet ce ih i oni koji proklinju"
+        },
+        {
+            "chapter": 2,
+            "verse": 160,
+            "text": "Izuzeti ce biti samo oni koji se pokaju i poprave, i to javno ispolje; takvima cu Ja oprostiti, a Ja sam stalni Primatelj pokajanja, Milostivi"
+        },
+        {
+            "chapter": 2,
+            "verse": 161,
+            "text": "Doista, onima koji ne vjeruju i koji kao nevjernici umru, slijedi prokletstvo Allahovo, prokletstvo meleka i svih ljudi"
+        },
+        {
+            "chapter": 2,
+            "verse": 162,
+            "text": "U njemu ce vjecno ostati, a patnja njihova nece se smanjivati, niti ce im se sta odlagati"
+        },
+        {
+            "chapter": 2,
+            "verse": 163,
+            "text": "A vas Bog – jedan je Bog; nema boga osim Njega, Svemilosnog, Milostivog"
+        },
+        {
+            "chapter": 2,
+            "verse": 164,
+            "text": "U stvaranju nebesa i Zemlje, u smjeni noci i dana, u lađi koja morem plovi s korisnim tovarom za ljude i u vodi koju Allah pusta s neba, pa tako u zivot vraca zemlju nakon zamrlosti njene, po kojoj je rasijao svakojaka ziva bica, u usmjeravanju vjetrova i oblacima koji između neba i Zemlje lebde – ima, doista, znakova za one koji razumiju"
+        },
+        {
+            "chapter": 2,
+            "verse": 165,
+            "text": "Ima ljudi koji pored Allaha druge, kao takmace Njemu, prihvacaju; vole ih kao sto se Allah voli! Ali, oni koji vjeruju, jos vise Allaha vole! A da znaju oni koji su zulum cinili – kada kaznu dozive, da ce vidjeti da moc sva Allahu pripada i da Allah strahovito kaznjava"
+        },
+        {
+            "chapter": 2,
+            "verse": 166,
+            "text": "Kada se oni za kojim su se drugi povodili odreknu onih koji su ih slijedili i kaznu budu iskusili, i kada im se svi putevi spasa pokidaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 167,
+            "text": "tada ce sljedbenici njihovi reci: \"Da nam je samo da se za trenutak vratimo, pa da se i mi njih odreknemo kao sto su se oni nas odrekli!\" Eto, tako ce Allah njima pokazati pogubnim djela njihova i oni iz Vatre nece izlaziti"
+        },
+        {
+            "chapter": 2,
+            "verse": 168,
+            "text": "O ljudi, jedite od onoga sto ima na Zemlji, sto je dozvoljeno i lijepo, i ne slijedite sejtanove stope! On vam je, zaista, neprijatelj ocevidni"
+        },
+        {
+            "chapter": 2,
+            "verse": 169,
+            "text": "On vas navraca na grijeh i razvrat, i da o Allahu govorite ono sto ne znate"
+        },
+        {
+            "chapter": 2,
+            "verse": 170,
+            "text": "A kada im se kaze: \"Slijedite ono sto je Allah objavio!\" – oni odgovaraju: \"Ne, nego cemo slijediti ono na cemu smo nase pretke zatekli.\" Zar i onda kada im preci nisu nista shvacali, niti su na Pravom putu bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 171,
+            "text": "Oni koji ne vjeruju slicni su onome koji vice, ali sam ne cuje nista osim zov i zapomaganje; oni su gluhi, nijemi i slijepi i oni nista ne shvacaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 172,
+            "text": "O vi koji vjerujete, jedite dobra kojim smo vas opskrbili i Allahu zahvaljujte, ako, doista, samo Njemu ibadet cinite"
+        },
+        {
+            "chapter": 2,
+            "verse": 173,
+            "text": "On vam, doista, zabranjuje: strv, krv, svinjsko meso i ono sto je prineseno kao zrtva u necije drugo ime, a ne u Allahovo. A onome koji bude primoran, ne svojom voljom i ne pretjerujuci, nije mu grijeh. Allah je, doista, Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 2,
+            "verse": 174,
+            "text": "Doista, oni koji taje ono sto je Allah u Knjizi objavio i to prodaju za nesto sto malo vrijedi – oni u trbuhe svoje samo vatru trpaju; na Kijametskom danu Allah ih nece ni osloviti, niti ih ocistiti; njima pripada patnja bolna"
+        },
+        {
+            "chapter": 2,
+            "verse": 175,
+            "text": "To su oni koji umjesto Upute uzimaju zabludu, a umjesto oprosta patnju; kako li samo oni mogu da trpe Vatru"
+        },
+        {
+            "chapter": 2,
+            "verse": 176,
+            "text": "To je tako, jer Allah je objavio Knjigu s istinom, a oni koji se o Knjizi razilaze doista su u raskolu velikom"
+        },
+        {
+            "chapter": 2,
+            "verse": 177,
+            "text": "Nije dobrocinstvo u tome da okrecete lica svoja prema istoku i zapadu, nego je pravo dobrocinstvo dobrocinstvo onih koji vjeruju u Allaha, u ahiret, i u meleke, i u knjige, i u vjerovjesnike, te onih koji od imetka, iako im je drag, daju rođacima i sirocadi, siromasima i putnicima namjernicima, prosjacima, i za otkup iz ropstva, i onih koji namaz obavljaju i zekat daju, i koji obavezu svoju, kada je preuzmu, ispunjavaju, te onih koji su strpljivi u neimastini i u bolesti, i za vrijeme borbe. To su oni koji su iskreni i oni su, uistinu, bogobojazni"
+        },
+        {
+            "chapter": 2,
+            "verse": 178,
+            "text": "O vi koji vjerujete! Propisuje vam se odmazda za ubijene: slobodan za slobodnog, rob za roba, i zensko za zensko. A prema onome kome od njegovog brata bude nesto oprosteno, neka onaj ko prihvati otkup postupi pravedno, a i on neka njemu isplati lijepo i po propisu. To je olaksanje od Gospodara vaseg i milost. A ko nasilje i poslije toga izvrsi, njemu slijedi bolna patnja"
+        },
+        {
+            "chapter": 2,
+            "verse": 179,
+            "text": "U odmazdi vam je zivot, o razumom obdareni, da biste se sacuvali"
+        },
+        {
+            "chapter": 2,
+            "verse": 180,
+            "text": "Kada neko od vas na samrti bude, pa ostavlja kakvo dobro, propisano vam je da, na lijep i pravedan nacin, roditeljima i bliznjima oporuku ucinite, sto je obaveza bogobojaznih"
+        },
+        {
+            "chapter": 2,
+            "verse": 181,
+            "text": "Ko god to zamijeni nakon sto je cuo kako glasi, grijeh za to pada na one koji to mijenjaju. A Allah je, doista, Onaj Koji sve cuje i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 182,
+            "text": "Pa ko se boji pogreske ili grijesnog postupka oporucioca, pa to valjano između onih kojih se oporuka tice popravi, nije zgrijesio! Allah je, doista, Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 2,
+            "verse": 183,
+            "text": "O vi koji vjerujete! Propisuje vam se post, kao sto je propisan onima prije vas, da biste se grijeha sacuvali"
+        },
+        {
+            "chapter": 2,
+            "verse": 184,
+            "text": "određen broj dana; a onome od vas koji je bolestan ili na putu bude, toliko drugih dana. Onima koji ga tesko podnose, otkup je da siromaha nahrane. A ko drage volje da vise, za njega je bolje. A bolje vam je da postite, neka znate"
+        },
+        {
+            "chapter": 2,
+            "verse": 185,
+            "text": "U ramazanu je pocelo objavljivanje Kur'ana, koji je putokaz ljudima, jasan dokaz Pravog puta i razlikovanja dobra od zla. Ko od vas u tom mjesecu bude kod kuce, neka posti, a ko bolestan bude ili se na putu zadesi, neka isti broj dana naposti. Allah hoce da vam olaksa, a ne da teskoce imate, da određeni broj dana ispunite i da Allaha velicate jer vas je uputio, te da zahvalni budete"
+        },
+        {
+            "chapter": 2,
+            "verse": 186,
+            "text": "A kada te robovi Moji za Mene upitaju, Ja sam, sigurno, blizu: odazivam se molbi molitelja kada Me zamoli. Zato, neka se i oni Meni odazovu i neka vjeruju u Mene, kako bi ispravnim putem krenuli"
+        },
+        {
+            "chapter": 2,
+            "verse": 187,
+            "text": "Dozvoljava vam se da u nocima posta imate odnos sa zenama vasim; one su odjeca vasa, a vi ste odjeca njihova; Allah zna da ste sami sebe varali, pa je prihvatio pokajanje vase i oprostio vam; zato se sada sastajte s njima i zudite za onim sto vam je Allah odredio; jedite i pijte sve dok budete mogli razlikovati bijelu nit od crne niti zore, a potom upotpunite post, do noci; sa zenama ne opcite dok ste u itikafu u dzamijama; to su Allahove granice i ne priblizujte im se; tako Allah u ajetima Svojim obznanjuje propise ljudima, kako bi se bogobojazni bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 188,
+            "text": "Ne jedite imovinu jedni drugih na neposten nacin i ne sporite se zbog nje pred sudijama kako biste s grijehom, i znajuci to, dio imovine drugih ljudi pojeli"
+        },
+        {
+            "chapter": 2,
+            "verse": 189,
+            "text": "Pitaju te o mlađacima. Reci: \"Oni su ljudima oznake za vrijeme i hadz.\" I nije dobrocinstvo u tome da sa straznje strane u kuce ulazite, nego je pravo dobrocinstvo ono sto cini onaj koji se Allaha boji. U kuce ulazite na vrata njihova i Allaha se bojte da biste uspjeli"
+        },
+        {
+            "chapter": 2,
+            "verse": 190,
+            "text": "I borite se na Allahovu putu protiv onih koji se bore protiv vas, ali ne prelazite granice. Zaista Allah ne voli one koji prekoracaju granice"
+        },
+        {
+            "chapter": 2,
+            "verse": 191,
+            "text": "I ubijajte ih gdje god ih stignete, i progonite ih odakle su oni vas prognali! A smutnja je teza od ubijanja! I ne borite se protiv njih kod Casne dzamije dok vas oni tu ne napadnu. Ako vas tu napadnu, onda ih ubijajte! Takva je kazna za nevjernike"
+        },
+        {
+            "chapter": 2,
+            "verse": 192,
+            "text": "Ako se prođu, pa Allah je, doista, Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 2,
+            "verse": 193,
+            "text": "I borite se protiv njih dok smutnje ne nestane i dok vjera ne bude samo Allahu iskazivana. Pa, ako se okane, onda neprijateljstvo prestaje, a jedino protiv zulumcara ostaje"
+        },
+        {
+            "chapter": 2,
+            "verse": 194,
+            "text": "Sveti mjesec je za sveti mjesec, a i u svetinjama vrijedi odmazda: onima koji vas napadnu, uzvratite istom mjerom i Allaha se bojte; znajte da je Allah uz bogobojazne"
+        },
+        {
+            "chapter": 2,
+            "verse": 195,
+            "text": "I trosite imetak na Allahovom putu, i svojim rukama se u propast ne bacajte, i dobro cinite; Allah, doista, voli dobrocinitelje"
+        },
+        {
+            "chapter": 2,
+            "verse": 196,
+            "text": "Hadz i umru radi Allaha upotpunite! A ako budete sprijeceni, onda kurbane sto vam se nađu pri ruci zakoljite, a glave svoje, dok kurbani ne stignu do mjesta svoga, ne brijte! A onaj od vas koji se razboli ili ima nesto na glavi sto ga muci, neka se postom ili sadakom ili kurbanom iskupi! Kada budete sigurni, ko bude obavljao umru s hadzom, kurban do kojeg moze doci, neka zakolje! A onaj ko ga ne nađe, neka tri dana posti u danima hadza i sedam dana po povratku, to je punih deset dana. To vazi za onoga cija porodica ne zivi u granicama Casne dzamije. Bojte se Allaha i znajte da On zestoko kaznjava"
+        },
+        {
+            "chapter": 2,
+            "verse": 197,
+            "text": "Hadz je u poznatim mjesecima, pa onaj ko se obaveze u toku njih obaviti hadz ne moze imati intimni odnos, nikakve grijehe ciniti, niti se prepirati u toku hadza. A za dobro koje ucinite Allah zna. Za put se opskrbite, a najbolja je opskrba bogobojaznost! I Mene se bojte – vi, razumom obdareni"
+        },
+        {
+            "chapter": 2,
+            "verse": 198,
+            "text": "Nije vam grijeh da od Gospodara svoga trazite neko dobro. A kada pođete s Arefata, Allaha spominjite kod Mes'ari-harama; spominjite Ga buduci da vas je On uputio, a zaista ste prije toga u zabludi bili"
+        },
+        {
+            "chapter": 2,
+            "verse": 199,
+            "text": "Zatim pohrlite odakle hrle ostali ljudi i od Allaha oprost molite. Allah je, doista, Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 2,
+            "verse": 200,
+            "text": "A kada zavrsite obrede vase, Allaha spominjite kao sto spominjete pretke vase, pa i vise od toga! Ima ljudi koji govore: \"Gospodaru nas, daj Ti nama na ovome svijetu!\", a na drugom svijetu nece imati nikakvog udjela"
+        },
+        {
+            "chapter": 2,
+            "verse": 201,
+            "text": "A ima i onih koji govore: \"Gospodaru nas, daj nam dobro i na dunjaluku i na ahiretu i sacuvaj nas patnje paklene"
+        },
+        {
+            "chapter": 2,
+            "verse": 202,
+            "text": "Njima pripada udio koji su zasluzili! Allah doista brzo sviđa racune"
+        },
+        {
+            "chapter": 2,
+            "verse": 203,
+            "text": "I Allaha spominjite u danima određenim! A onome ko pozuri, pa to ucini u dva dana, nije grijeh, kao sto nije grijeh ni onome koji jos ostane, ako je bogobojazan. Bojte se Allaha, i znajte da cete svi pred Njim biti sakupljeni"
+        },
+        {
+            "chapter": 2,
+            "verse": 204,
+            "text": "Ima ljudi cije te rijeci o zivotu na ovome svijetu odusevljavaju i koji se pozivaju na Allaha kao svjedoka za ono sto je u srcima njihovim, a najljuci su protivnici"
+        },
+        {
+            "chapter": 2,
+            "verse": 205,
+            "text": "Cim se neki od njih okrene od tebe, krene nered po Zemlji praviti, nistiti usjeve i stoku. A Allah ne voli nered"
+        },
+        {
+            "chapter": 2,
+            "verse": 206,
+            "text": "A kada mu se kaze: \"Allaha se boj!\", on se onda ponosi grijesima. Pa dosta mu je dzehennem, a to je, doista, grozno boraviste"
+        },
+        {
+            "chapter": 2,
+            "verse": 207,
+            "text": "Ima ljudi koji se zrtvuju u teznji za zadovoljstvom Allahovim. A Allah je milosrdan prema robovima Svojim"
+        },
+        {
+            "chapter": 2,
+            "verse": 208,
+            "text": "O vi koji vjerujete, uđite u islam potpuno i ne idite stopama sejtanovim; on vam je, doista, neprijatelj otvoreni"
+        },
+        {
+            "chapter": 2,
+            "verse": 209,
+            "text": "A ako posrnete, nakon sto su vam dosli jasni dokazi, onda znajte da je Allah, zaista, silan i mudar"
+        },
+        {
+            "chapter": 2,
+            "verse": 210,
+            "text": "Cekaju li oni da im Allah dođe u tminama oblaka, i meleki, i da bude svemu kraj?! A Allahu se sve vraca"
+        },
+        {
+            "chapter": 2,
+            "verse": 211,
+            "text": "Upitaj sinove Israilove koliko smo im jasnih dokaza dali! A oni koji zamjenjuju blagodat Allahovu koja im je dosla, pa Allah, doista, strahovito kaznjava"
+        },
+        {
+            "chapter": 2,
+            "verse": 212,
+            "text": "Nevjernicima se zivot na ovome svijetu cini lijepim i oni se rugaju onima koji vjeruju. A na Sudnjem danu bice iznad njih oni koji su se Allaha bojali i grijeha klonili. – A Allah daje u obilju onome kome On hoce, bez racuna"
+        },
+        {
+            "chapter": 2,
+            "verse": 213,
+            "text": "Svi ljudi su sacinjavali jednu zajednicu, pa je Allah slao vjerovjesnike da donose radosne vijesti i opomenu, i po njima je slao Knjigu sa Istinom, da po njoj sudi ljudima u onome u cemu se oni razilazise. A o njoj su se, iz međusobne zavisti, razisli samo oni kojima je ona data, i to nakon sto su im dosli jasni dokazi. Zatim je Allah, Svojom dozvolom uputio ka Istini, o kojoj su se oni razisli, one koji vjeruju. A Allah upucuje na Pravi put onoga koga On hoce"
+        },
+        {
+            "chapter": 2,
+            "verse": 214,
+            "text": "Zar mislite da cete uci u dzennet, a jos niste iskusili ono sto su iskusili oni koji prije vas minuse?! Njih je pogađala neimastina i bolest, i toliko su bivali potresani da bi i poslanik i oni koji su s njim vjerovali, govorili: \"Kada ce doci Allahova pomoc!?\" Eto, Allahova pomoc je, doista, blizu"
+        },
+        {
+            "chapter": 2,
+            "verse": 215,
+            "text": "Pitaju te, sta ce dijeliti? Reci: \"Imetak koji cete udjeljivati neka pripadne roditeljima i rođacima, i sirocadi, i siromasima, i putnicima namjernicima; a za dobro koje cinite Allah sigurno dobro zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 216,
+            "text": "Propisana vam je borba, a to vam je mrsko! Mozda nesto ne volite, a to je dobro po vas; mozda nesto volite, a to je zlo po vas! Allah zna, a vi ne znate"
+        },
+        {
+            "chapter": 2,
+            "verse": 217,
+            "text": "Pitaju te o svetom mjesecu, o ratovanju u njemu! Reci: \"Ratovanje u njemu veliki je grijeh; ali, odvracanje od Allahova puta i nevjerovanje u Njega, te odvracanje od Casne dzamije i izgonjenje stanovnika njenih, jos je veci grijeh kod Allaha. A smutnja je gora od ubijanja! Oni ce se neprestano boriti protiv vas dok vas ne odvrate od vjere vase, ako budu mogli! A oni među vama koji od vjere svoje otpadnu i kao nevjernici umru – njihova djela bit ce ponistena na dunjaluku, a i na ahiretu. Oni ce stanovnici Vatre biti i tamo ce vjecno ostati"
+        },
+        {
+            "chapter": 2,
+            "verse": 218,
+            "text": "Zaista, oni koji vjeruju, i koji se isele i na Allahovom putu bore, oni zele milost Allahovu. A Allah je Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 2,
+            "verse": 219,
+            "text": "Pitaju te o opojnim picima i kocki! Reci: \"U njima je veliki grijeh, a i ima i nekih koristi ljudima; samo je grijeh od njih veci od koristi njihove!\" Pitaju te, sta da udjeljuju! Reci: \"Visak!\" Eto, tako vama Allah propise objasnjava da biste razmislili"
+        },
+        {
+            "chapter": 2,
+            "verse": 220,
+            "text": "i o dunjaluku i o ahiretu. I pitaju te o sirocadi! Reci: \"Unaprijediti njihova imanja je bolje!\" A ako budete s njima zajedno zivjeli, pa to su braca vasa! Allah zna razliku između pokvarenjaka i dobrocinitelja! Da je Allah htio, mogao je propisati ono sto vam je tesko! On je, doista, silan i mudar"
+        },
+        {
+            "chapter": 2,
+            "verse": 221,
+            "text": "Ne zenite se viseboskinjama dok vjernice ne postanu; uistinu je robinja-vjernica bolja od viseboskinje, makar vam se ona i sviđala! Ne udajite vjernice za visebosce dok ne postanu vjernici; jer uistinu je rob-vjernik bolji od visebosca, makar vam se i dopadao. Oni zovu u Vatru, a Allah poziva dzennetu i oprostu, dozvolom Svojom, te objasnjava ljudima ajete i dokaze Svoje, da bi se prisjecali i pouku primili"
+        },
+        {
+            "chapter": 2,
+            "verse": 222,
+            "text": "I pitaju te o mjesecnom pranju! Reci: \"To je neprijatnost!\" Zato, ne opcite sa zenama za vrijeme mjesecnog pranja, i ne prilazite im dok se ne ociste! A kada se ociste, onda im prilazite onako kako vam je Allah naredio! Allah, doista, voli one koji se kaju i voli one koji se ciste"
+        },
+        {
+            "chapter": 2,
+            "verse": 223,
+            "text": "Zene vase su njive vase, i vi njivama svojim prilazite kako hocete! A pripremite nesto i za duse svoje! I bojte se Allaha i znajte da cete se s Njim susresti! A ti obraduj vjernike"
+        },
+        {
+            "chapter": 2,
+            "verse": 224,
+            "text": "I neka vam zakletva Allahom ne bude prepreka da dobro cinite, da se Allaha bojite i ljude mirite. A Allah je Onaj Koji sve cuje i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 225,
+            "text": "Allah vas nece kazniti ako se neoprezno zakunete, ali ce vas kazniti za ono sto s predumisljajem srca vasih uradite. Allah je Onaj Koji oprasta grijehe i Onaj Koji ne zuri s kaznom"
+        },
+        {
+            "chapter": 2,
+            "verse": 226,
+            "text": "Oni koji se zakunu da se nece priblizavati zenama svojim, sacekat ce cetiri mjeseca! Pa ako im se vrate, Allah je, doista, Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 2,
+            "verse": 227,
+            "text": "A ako odluce da se rastave, pa Allah je, doista, Onaj Koji sve cuje i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 228,
+            "text": "Pustene zene neka cekaju tri mjesecna pranja; i nije im dopusteno da kriju ono sto je Allah stvorio u matericama njihovim, ako u Allaha i u ahiret vjeruju! Muzevi njihovi su preci da ih vrate dok su u tome, ako zele pomirenje. One imaju onoliko prava koliko i obaveza; treba da ih izvrse lijepo i po propisu. A muskarci su nad njima za jedan stepen! Allah je, doista, silan i mudar"
+        },
+        {
+            "chapter": 2,
+            "verse": 229,
+            "text": "Pustanje supruge moze biti dva puta, nakon cega se ona, ili lijepo i pravedno zadrzava, ili joj se uz dobrocinstvo razvod daje! A vama nije dopusteno uzimati bilo sta od onoga sto ste im darovali, osim ako se njih dvoje plase da Allahove propise nece izvrsavati. A ako se bojite da njih dvoje Allahove propise nece izvrsavati, onda im nije grijeh da se ona otkupi. To su Allahove granice, pa ih ne prekoracujte! A oni koji Allahove granice prekoracuju, to su pravi zulumcari"
+        },
+        {
+            "chapter": 2,
+            "verse": 230,
+            "text": "A ako je opet pusti, ona mu nije nakon toga dopustena sve dok se ne uda za drugog muza. Pa ako je i on pusti, onda njima dvoma nije grijeh da se jedno drugom vrate, ako misle da ce Allahove propise izvrsavati. To su Allahove granice koje On objasnjava ljudima koji znaju"
+        },
+        {
+            "chapter": 2,
+            "verse": 231,
+            "text": "Kada pustite supruge, pa one ispune svoj razvodni rok, tada ih, ili lijepo i pravedno zadrzite, ili uz dobrocinstvo otpremite! I ne zadrzavajte ih nanoseci im stetu, a onaj ko tako postupi, ucinio je sebi zulum! Ne poigravajte se Allahovim propisima i sjetite se blagodati Allahove prema vama i sto vam je objavio Knjigu i mudrost kojom vas savjetuje! Allaha se bojte i znajte da Allah sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 232,
+            "text": "A kada pustite supruge, pa ispune svoj razvodni rok, ne ometajte ih da se udaju za muzeve svoje, kada se sloze da lijepo zive! Ovim se savjetuju oni među vama koji vjeruju u Allaha i Posljednji dan. Tako vam je cednije i cestitije. A Allah zna, a vi ne znate"
+        },
+        {
+            "chapter": 2,
+            "verse": 233,
+            "text": "Majke neka doje djecu svoju pune dvije godine, ako zele da dojenje bude potpuno! Ocevi su duzni hraniti ih i odijevati na lijep i uobicajen nacin. Niko se ne zaduzuje iznad mogucnosti svojih: majka ne smije nastetiti ocu djeteta zbog djeteta svoga, a ni otac majci djeteta zbog svoga djeteta! Nasljednik ima iste obaveze. Zato, ako njih dvoje na lijep nacin i po dogovoru odluce dijete odbiti, nisu gresni! A ako zazelite svojoj djeci dojilje naci, nije vam grijeh ako im, kako je uobicajeno, date ono sto hocete dati. Bojte se Allaha i znajte da Allah dobro vidi sta vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 234,
+            "text": "Oni od vas koji umru ostavljajuci supruge svoje, njihove supruge duzne"
+        },
+        {
+            "chapter": 2,
+            "verse": 235,
+            "text": "I nije vam grijeh ako tim zenama na znanje date da cete ih vi zaprositi ili pa Ga se pricuvajte i znajte da je Allah"
+        },
+        {
+            "chapter": 2,
+            "verse": 236,
+            "text": "Nije vam grijeh ako zene pustite prije nego u intimni odnos s njima stupite ili prije nego sto im vjencani dar odredite. I na lijep i uobicajen nacin ih darujte, imucan prema svom stanju, a siromah prema svom; to je duznost onima koji zele dobro ciniti"
+        },
+        {
+            "chapter": 2,
+            "verse": 237,
+            "text": "A ako ih pustite prije nego sto ste u intimni odnos s njima stupili, a vec ste im vjencani dar odredili, one ce zadrzati polovinu onoga sto ste odredili, osim ako se odreknu ili se odrekne onaj koji odlucuje o sklapanju braka; a ako se vi odreknete – to je blize bogobojaznosti! I ne zaboravite da jedni prema drugima dobri budete! Allah, doista, dobro vidi sta vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 238,
+            "text": "Cuvajte namaz, narocito srednji namaz, i pred Allahom ponizno stojte"
+        },
+        {
+            "chapter": 2,
+            "verse": 239,
+            "text": "Ako se budete bojali, onda klanjajte hodeci ili jasuci! A kada budete sigurni, spominjite Allaha onako kako vas je On naucio onome sta niste znali"
+        },
+        {
+            "chapter": 2,
+            "verse": 240,
+            "text": "Oni među vama kojima se primice smrt, a koji iza sebe ostavljaju supruge, treba da im oporukom, unaprijed za godinu dana, odrede izdrzavanje i da se one ne udaljuju iz kuce. A ako je same napuste, vi ne snosite grijeh za ono sto one lijepo i po propisu sa sobom ucine. A Allah je silan i mudar"
+        },
+        {
+            "chapter": 2,
+            "verse": 241,
+            "text": "Razvedenim zenama pripada otpremnina u skladu s propisom i na lijep nacin, i to je obaveza bogobojaznih"
+        },
+        {
+            "chapter": 2,
+            "verse": 242,
+            "text": "Allah vam tako objasnjava propise Svoje, da biste razmislili"
+        },
+        {
+            "chapter": 2,
+            "verse": 243,
+            "text": "Zar ne znas za one koji su iz straha od smrti iz zemlje svoje pobjegli, a bijase ih na hiljade, pa im je Allah rekao: \"Pomrite!\", a poslije ih je ozivio. Allah je, doista, darezljiv prema ljudima, ali vecina ljudi ne zahvaljuje"
+        },
+        {
+            "chapter": 2,
+            "verse": 244,
+            "text": "I borite se na Allahovu putu i znajte da je Allah Onaj Koji sve cuje i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 245,
+            "text": "Ko je taj koji ce Allahu lijep zajam dati, pa da mu ga On mnogostruko vrati, Allah uskracuje i obilno daje, i Njemu cete se vratiti"
+        },
+        {
+            "chapter": 2,
+            "verse": 246,
+            "text": "Zar ne znas kada su prvaci sinova Israilovih poslije Musaa svome vjerovjesniku rekli: \"Posalji nam kralja da se na Allahovom putu borimo!\" \"Mozda se vi necete boriti, ako vam borba bude propisana?'', rece on. \"Zasto da se ne borimo na Allahovom putu?'', rekose. \"A mi smo iz zemlje nase prognani i od sinova nasih odvojeni!\" A kada im borba bi propisana, oni, osim nekolicine, okrenuse se. A Allah dobro zna zulumcare"
+        },
+        {
+            "chapter": 2,
+            "verse": 247,
+            "text": "Allah vam je Taluta za vladara poslao\", rece im vjerovjesnik njihov. \"Odakle da nam on bude vladar kada smo mi prilicniji od njega da vladamo? Njemu ni veliko bogatstvo nije dato!\", rekose oni. \"Doista je Allah njega da vam vlada izabrao\", rece on, \"i velikim znanjem i snagom tjelesnom ga obdario. Allah daje vlast kome On hoce. Allah je neizmjerno darezljiv i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 248,
+            "text": "Zaista, znak njegove vlasti\", rece im vjerovjesnik njihov, \"bit ce kovceg koji ce vam stici. U njemu ce biti smirenje za vas od Gospodara vasega i ostatak onoga sto su Musa i Harun ostavili, nosit ce ga meleci! U tome je, doista, znak za vas, ako ste vjernici"
+        },
+        {
+            "chapter": 2,
+            "verse": 249,
+            "text": "I kad Talut izađe s vojskom, rece: \"Allah ce vas sigurno staviti na kusnju jednom rijekom, pa ko se napije iz nje, nije moj, a ko se ne napije, on je moj, izuzev ako sakom zahvati gutljaj!\" I oni se, osim nekolicine, napise, a kad je oni koji su s njim vjerovali prijeđose, neki rekose: \"Mi danas ne mozemo izaci nakraj s Dzalutom i vojskom njegovom.\" Oni koji su cvrsto vjerovali da ce susresti Allaha, rekose: \"Koliko su puta malobrojne grupe savladale grupe mnogobrojne Allahovom dozvolom.\" A Allah je sa strpljivima"
+        },
+        {
+            "chapter": 2,
+            "verse": 250,
+            "text": "I kada iziđose pred Dzaluta i vojsku njegovu, oni rekose: \"Gospodaru nas, nadahni nas izdrzljivoscu i ucvrsti noge nase i pomozi nam protiv naroda koji ne vjeruje"
+        },
+        {
+            "chapter": 2,
+            "verse": 251,
+            "text": "I oni ih, Allahovom dozvolom, porazise, i Davud ubi Dzaluta, i Allah mu dade vlast i mudrost, i nauci ga onome cemu je On htio. A da Allah ljude ne suzbija jedne drugima, na Zemlji bi doista nered nastao! Ali, Allah je darezljiv svim svjetovima"
+        },
+        {
+            "chapter": 2,
+            "verse": 252,
+            "text": "To su Allahovi ajeti, koje Mi tebi istinito kazujemo. A ti si, doista, jedan od poslanika"
+        },
+        {
+            "chapter": 2,
+            "verse": 253,
+            "text": "Te poslanike Mi smo odlikovali jedne nad drugim. S nekima od njih je i Allah govorio, a neke je za vise stepeni uzdigao. A Isau, sinu Merjeminu, jasne smo dokaze dali i Duhom Blagoslovljenim ga podrzali. Da je Allah htio, oni se ne bi međusobno poslije njih ubijali, kada su im jasni dokazi vec dosli, ali oni su se razisli: neki su od njih vjerovali, a neki su poricali. A da je Allah htio, oni se ne bi međusobno ubijali! Ali, Allah radi ono sto On hoce"
+        },
+        {
+            "chapter": 2,
+            "verse": 254,
+            "text": "O vi koji vjerujete, podijelite dio onoga cime vas Mi opskrbljujemo, prije nego sto dođe Dan kada nece biti ni otkupa, ni prijateljstva, ni posrednistva! A nevjernici su pravi zulumcari"
+        },
+        {
+            "chapter": 2,
+            "verse": 255,
+            "text": "Allah je, nema boga osim Njega, Zivi i Samoopstojeci Odrzavatelj! Ne obuzima Ga ni drijemez ni san! Njegovo je ono sto je na nebesima i na Zemlji! Ko se moze pred Njim zauzimati bez Njegovog dopustenja?! On zna sta je bilo prije i sta ce biti poslije njih i oni ne mogu obuhvatiti od Njegovoga znanja osim koliko On zeli. Njegov Kursi obuhvata i nebesa i Zemlju i Njemu nije tesko odrzavati ih! On je Svevisnji i Velicanstveni"
+        },
+        {
+            "chapter": 2,
+            "verse": 256,
+            "text": "Nema prisile u vjeru, Pravi put se jasno razlikuje od zablude! Onaj ko ne vjeruje u tagute, a vjeruje u Allaha, drzi se za najcvrscu vezu, koja se nece prekinuti. A Allah je Onaj Koji sve cuje i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 257,
+            "text": "Allah je zastitnik onih koji vjeruju, izvodi ih iz tmina na svjetlo, a onima koji ne vjeruju zastitnici su taguti, odvode ih sa svjetla u tmine! To su stanovnici Vatre i u njoj ce vjecno ostati"
+        },
+        {
+            "chapter": 2,
+            "verse": 258,
+            "text": "Zar ne znas za onoga koji se s Ibrahimom o Gospodaru njegovom prepirao, kada mu je Allah carstvo dao?! Kad Ibrahim rece: \"Gospodar moj je Onaj Koji zivot i smrt daje!\", on odgovori: \"Ja zivot i smrt dajem!\" Ibrahim rece: \"Allah cini da Sunce izlazi s istoka, pa ucini ti da izađe sa zapada!\" I nevjernik se zbuni. Allah, doista, zulumcare ne upucuje na Pravi put"
+        },
+        {
+            "chapter": 2,
+            "verse": 259,
+            "text": "Ili za onoga koji je, prolazeci pored jednoga naselja koje je bilo do temelja poruseno i pusto, povikao: \"Kako ce Allah oziviti ove sto su pomrli!\" I Allah ga mrtvim ucini stotinu godina, a zatim ga ozivi i upita: \"Koliko si ostao?\" On rece: \"Ostao sam dan ili dio dana!\" Tada mu rece: \"Ne, ostao si stotinu godina! Pogledaj jelo svoje i pice svoje, nije se pokvarilo! A pogledaj i magarca svoga, to smo uradili da te ucinimo znakom za ljude, a pogledaj i kosti, kako ih sastavljamo, a onda mesom oblazemo!\" I kada njemu bi jasno, povika: \"Ja znam da Allah, doista, nad svime ima moc"
+        },
+        {
+            "chapter": 2,
+            "verse": 260,
+            "text": "A kada Ibrahim rece: \"Gospodaru moj, pokazi mi kako ozivljujes umrle?\", On rece: \"Zar ne vjerujes?!\" \"Dakako, vjerujem\", odgovori on, \"ali da mi se srce smiri!\" Zatim mu rece: \"Pa, onda, uzmi cetiri ptice, isijeci ih, pa po jedan dio njihov stavi na svaki brezuljak. Zatim ih pozovi, doci ce ti zureci! Znaj da je Allah, zaista, silan i mudar"
+        },
+        {
+            "chapter": 2,
+            "verse": 261,
+            "text": "Primjer onih koji imovinu svoju trose na Allahovom putu slican je zrnu iz kojega nikne sedam klasova, a u svakom klasu po stotinu zrna. A Allah povecava kome On hoce. Allah je neizmjerno darezljiv i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 262,
+            "text": "Onima koji trose imetke svoje na Allahovom putu, a onda ono sto potrose ne poprate prigovorima i uvredama, pripada nagrada Gospodara njihova. Njima nema straha niti ce oni tugovati"
+        },
+        {
+            "chapter": 2,
+            "verse": 263,
+            "text": "Lijepa rijec i oprost vredniji su od sadake popracene vrijeđanjem. A Allah je neovisan i Onaj Koji ne zuri s kaznom"
+        },
+        {
+            "chapter": 2,
+            "verse": 264,
+            "text": "O vi koji vjerujete, ne kvarite sadake svoje prigovorima i uvredama, kao sto to cini onaj koji imetak svoj trosi da bi se ljudima pokazao, a ne vjeruje u Allaha i ahiret. Primjer njegov je kao primjer glatke stijene – na kojoj ima zemlje, pa je pogodi veliki pljusak i ogoli je. Oni nemaju nikakve koristi od onoga sto su stjecali. A Allah ne upucuje na Pravi put ljude koji ne vjeruju"
+        },
+        {
+            "chapter": 2,
+            "verse": 265,
+            "text": "Oni koji trose svoj imetak u zelji za zadovoljstvom Allahovim i sigurni su u nagradu za to, slicni su basci na uzvisici na koju se izlila obilna kisa, pa daje dvostruki urod! A ako se na nju ne izlije obilna kisa, opet bude rose! Allah dobro vidi sta vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 266,
+            "text": "Da li bi iko od vas volio da posjeduje bascu punu palmi i grozđa, kroz koju rijeke teku i u kojoj ima svakojakih plodova, a da je ostario i da ima nejaku djecu, a da je onda vatrena oluja zadesi i ona izgori?! Tako vam Allah objasnjava ajete i znakove Svoje, da biste razmislili"
+        },
+        {
+            "chapter": 2,
+            "verse": 267,
+            "text": "O vi koji vjerujete, dijelite od lijepih imetaka koje ste stekli, i od onoga sto smo vam Mi iz Zemlje izveli! Ne izdvajajte ono sto ne vrijedi da biste to udijelili, kada ni sami to ne biste primili, osim zatvorenih ociju! I znajte da je Allah, zaista, Neovisni i Hvaljeni"
+        },
+        {
+            "chapter": 2,
+            "verse": 268,
+            "text": "Sejtan vam obecava siromastvo i naređuje vam zlo, a Allah vam obecava oprost i dobro. Allah je neizmjerno darezljiv i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 269,
+            "text": "On daje mudrost kome hoce, a onome kome je mudrost data, dato je veliko dobro! A samo razumom obdareni prisjecaju se i pouku prihvataju"
+        },
+        {
+            "chapter": 2,
+            "verse": 270,
+            "text": "Za sve sto potrosite ili se zavjetujete Allah sigurno zna! A zulumcarima nema pomagaca"
+        },
+        {
+            "chapter": 2,
+            "verse": 271,
+            "text": "Ako javno dajete sadake to je lijepo, ali je za vas bolje ako to prikrijete i date siromasima, i On ce pokriti neka vasa losa djela. A Allah dobro zna ono sto vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 272,
+            "text": "Sto se upute njihove tice, ne ovisi to o tebi, jer Allah izvodi na Pravi put koga On hoce. Dobro koje podijelite vase je, a ono sto dijelite, dijelite samo u zelji za licem Allahovim. A ono sto od dobara udijelite, to ce vam biti nadoknađeno i nece vam zulum biti ucinjen"
+        },
+        {
+            "chapter": 2,
+            "verse": 273,
+            "text": "To pripada siromasima koji su iznureni na Allahovom putu, pa ne mogu hoditi po Zemlji; onaj ko ne zna misli da su imucni zbog sustezljivosti njihove. Poznat ces ih po izgledu njihovu, jer oni ne dodijavaju ljudima proseci. A za ono sto od dobara podijelite, Allah, doista, dobro zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 274,
+            "text": "Onima koji dijele imovinu svoju nocu i danju, tajno i javno, pripada nagrada kod Gospodara njihova. I za njih nema straha, niti ce se oni zalostiti"
+        },
+        {
+            "chapter": 2,
+            "verse": 275,
+            "text": "Oni koji se kamatom hrane dici ce se iz grobova svojih bas kao oni koje je sejtan dodirom izbezumio. To je zato sto su govorili: \"Trgovina je, doista, isto sto i kamata!\" A Allah je dozvolio trgovinu, a zabranio kamatu. Onome do koga dopre pouka Gospodara njegova, pa se toga okani, pripada ono sto je prije stekao a njegov je slucaj Allahu prepusten. Oni, pak, koji opet to ucine, bit ce stanovnici Vatre u kojoj ce vjecno ostati"
+        },
+        {
+            "chapter": 2,
+            "verse": 276,
+            "text": "Allah unistava kamatu, a umnozava sadake. Allah ne voli ni jednog nevjernika, gresnika"
+        },
+        {
+            "chapter": 2,
+            "verse": 277,
+            "text": "Doista ce oni koji vjeruju, i dobra djela cine, i namaz obavljaju, i zekat daju, imati nagradu u Gospodara svoga. Za njih nema straha i oni ne treba da se zaloste"
+        },
+        {
+            "chapter": 2,
+            "verse": 278,
+            "text": "O vi koji vjerujete, bojte se Allaha i ostavite sto je preostalo od kamate, ako ste vjernici"
+        },
+        {
+            "chapter": 2,
+            "verse": 279,
+            "text": "Ako to ne ucinite, navjescuje vam se rat od Allaha i Poslanika Njegova! A ako se pokajete, pripadaju vam glavnice imetaka vasih; necete nepravdu uciniti, niti ce vama zulum biti ucinjen"
+        },
+        {
+            "chapter": 2,
+            "verse": 280,
+            "text": "A ako je duznik u nevolji, onda pricekajte dok mu bude lakse; a da to date kao sadaku bolje vam je, ako znate"
+        },
+        {
+            "chapter": 2,
+            "verse": 281,
+            "text": "I bojte se Dana u kome cete Allahu vraceni biti, zatim ce svakome sto je zasluzio isplaceno biti. I nikome zulum nece biti ucinjen"
+        },
+        {
+            "chapter": 2,
+            "verse": 282,
+            "text": "O vi koji vjerujete, kada jedan od drugoga pozajmljujete do određenoga roka, zapisite to. Neka jedan pisar između vas to pravedno napise i neka se pisar ne susteze napisati onako kako ga je Allah poucio. Neka on pise, a neka mu kazuje duznik! Neka se boji Allaha, Gospodara svoga, i nista od toga neka ne izostavi. A ako je duznik umno ogranicen ili slab, ili ako nije u stanju kazivati, onda neka kazuje njegov staratelj i to pravedno. I uzmite dva svjedoka između vas, pa ako ne nađete dva muskarca, onda jednog muskarca i dvije zene sa kojima ste kao svjedocima zadovoljni. Ako jedna od njih dvije pogresno sta kaze, neka je druga podsjeti. I neka se svjedoci ne ustezu, ako budu pozvani, da dođu. Neka vam ne bude mrsko da to zapisete s rokom vracanja, bio dug mali ili veliki! To vam je kod Allaha ispravnije i za svjedocenje jace, i da ne sumnjate bolje, izuzev ako je rijec o svakodnevnoj trgovini koju obavljate među vama, jer onda vam nije grijeh da to ne zapisete. Uzmite svjedoke i kada kupoprodaju zakljucujete, i neka ne bude ostecen ni pisar ni svjedok. A ako to ucinite - ostetite ih, onda je to vas grijeh. I bojte se Allaha i Allah ce vas pouciti! Allah sve dobro zna"
+        },
+        {
+            "chapter": 2,
+            "verse": 283,
+            "text": "Ako ste na putu i ne nađete pisara, onda neka se uzme zalog. A ako jedan drugome nesto povjerite, neka onaj kome je povjereno, to povjerenje ispuni i neka se boji Allaha, Gospodara svoga! I ne skrivajte svjedocenje, jer ko ga uskrati, srce njegovo je, doista, gresno. A Allah dobro zna ono sto vi radite"
+        },
+        {
+            "chapter": 2,
+            "verse": 284,
+            "text": "Allahu pripada sve sto je na nebesima i sto je na Zemlji. Pokazivali vi sta je u dusama vasim ili skrivali, Allah ce vas za to pitati, pa ce oprostiti kome hoce, a kazniti koga hoce. A Allah nad svime ima moc"
+        },
+        {
+            "chapter": 2,
+            "verse": 285,
+            "text": "Poslanik vjeruje u ono sto mu se objavljuje od Gospodara njegova, a i vjernici, svaki od njih vjeruje u Allaha, i meleke Njegove, i Knjige Njegove, i poslanike Njegove: \"Mi među poslanicima Njegovim ne pravimo razliku!\" I govore: \"Cujemo i pokoravamo se! Molimo Te za oprost, Gospodaru nas, a kod Tebe je konacno odrediste"
+        },
+        {
+            "chapter": 2,
+            "verse": 286,
+            "text": "Allah svaku osobu obavezuje samo onoliko kolike su njene mogucnosti; njoj u korist je ono dobro koje zaradi, a na njenu stetu je ono zlo koje sebi privrijedi. Gospodaru nas, nemoj nas kazniti ako zaboravimo ili nehotice pogrijesimo! Gospodaru nas, ne tovari na nas breme kao sto si ga natovario na one prije nas! Gospodaru nas, ne opterecuj nas onim za sto nemamo snage! Preko grijeha nasih prijeđi, oprosti nam i smiluj nam se! Ti si Gospodar nas, pa nas pomozi protiv naroda koji ne vjeruje"
+        },
+        {
+            "chapter": 3,
+            "verse": 1,
+            "text": "Elif Lam Mim"
+        },
+        {
+            "chapter": 3,
+            "verse": 2,
+            "text": "Allah, osim Koga drugog Boga nema, Zivi je i Samoopstojeci Odrzavatelj"
+        },
+        {
+            "chapter": 3,
+            "verse": 3,
+            "text": "On tebi objavljuje Knjigu s Istinom, koja potvrđuje prethodne, a i Tevrat i Indzil je objavio"
+        },
+        {
+            "chapter": 3,
+            "verse": 4,
+            "text": "jos prije kao putokaz ljudima, a spustio je i Furkan! – ono sto rastavlja istinu od zablude. Onima koji u Allahove ajete i znakove ne vjeruju, pripada teska patnja, a Allah je silan i zestoko kaznjava"
+        },
+        {
+            "chapter": 3,
+            "verse": 5,
+            "text": "Allahu, doista, nista nije skriveno, ni na Zemlji, ni na nebu"
+        },
+        {
+            "chapter": 3,
+            "verse": 6,
+            "text": "On je Onaj Koji vas oblikuje u matericama kako On hoce; nema drugog boga osim Njega, Silnog i Mudrog"
+        },
+        {
+            "chapter": 3,
+            "verse": 7,
+            "text": "On je Onaj Koji ti objavljuje Knjigu u kojoj su ajeti jasni; oni su matica Knjige; drugi nisu sasvim jasni. Oni u cijim je srcima zastranjenost slijede one sto nisu sasvim jasni u teznji za smutnjom i svojevoljnim tumacenjem. A tumacenje njihovo zna samo Allah. Oni, pak, koji su u znanje duboko pronikli, kazu: \"Mi u to vjerujemo; sve je to od nasega Gospodara.\" A prisjecaju se samo oni koji razum imaju"
+        },
+        {
+            "chapter": 3,
+            "verse": 8,
+            "text": "Gospodaru nas, ne dopusti srcima nasim da skrenu, kada si nam vec na Pravi put ukazao, i daruj nam Svoju milost; Ti si, uistinu, Onaj Koji mnogo daruje"
+        },
+        {
+            "chapter": 3,
+            "verse": 9,
+            "text": "Gospodaru nas, Ti ces, doista, sakupiti ljude na Dan u koji nema sumnje! Allah, doista, ne krsi obecanje Svoje"
+        },
+        {
+            "chapter": 3,
+            "verse": 10,
+            "text": "Onima koji ne vjeruju, kod Allaha sigurno nece koristiti imeci njihovi, a ni djeca njihova, i oni su gorivo za Vatru"
+        },
+        {
+            "chapter": 3,
+            "verse": 11,
+            "text": "Kao sto su to i faraonovi ljudi, te oni prije njih koji su znakove nase laznim smatrali, pa ih je Allah zbog grijeha njihovih kaznio. A Allah zestoko kaznjava"
+        },
+        {
+            "chapter": 3,
+            "verse": 12,
+            "text": "Reci onima koji ne vjeruju: \"Bit cete pobijeđeni i u dzehennemu okupljeni, a uzasno je to boraviste"
+        },
+        {
+            "chapter": 3,
+            "verse": 13,
+            "text": "Vi ste imali znak u dvjema grupama koje su se sukobile: jednoj koja se borila na Allahovom putu, i drugoj, nevjernickoj. Oni su ih vidjeli dvostruko brojnijim od sebe. A Allah Svojom pomoci podrzava koga On hoce! To je, doista, pouka za one koji su razboriti"
+        },
+        {
+            "chapter": 3,
+            "verse": 14,
+            "text": "Ljudima je uljepsana ljubav prema strastima; zenama, sinovima, gomilama zlata i srebra, rasnim konjima, stoci i zemlji za obrađivanje. To su uzici ovosvjetskoga zivota, a najljepse je mjesto povratka kod Allaha"
+        },
+        {
+            "chapter": 3,
+            "verse": 15,
+            "text": "Reci: \"Hocete li da vas obavijestim sta je bolje od toga?\" Oni koji se budu uscuvali, kod Gospodara svoga imat ce dzennetske basce kroz koje rijeke teku, u kojima ce vjecno boraviti, i supruge ociscene i zadovoljstvo od Allaha. Allah dobro vidi robove Svoje"
+        },
+        {
+            "chapter": 3,
+            "verse": 16,
+            "text": "To su oni koji govore: \"Gospodaru nas, mi doista vjerujemo, pa oprosti nam grijehe nase i sacuvaj nas od patnje u Vatri"
+        },
+        {
+            "chapter": 3,
+            "verse": 17,
+            "text": "Strpljivi, i iskreni, i Allahu poslusni, i koji od imetka dijele, i koji u osvit zore za oprost mole"
+        },
+        {
+            "chapter": 3,
+            "verse": 18,
+            "text": "Allah svjedoci da nema boga osim Njega, a i meleki i uceni, postupajuci pravedno. Nema boga osim Njega, Silnog i Mudrog"
+        },
+        {
+            "chapter": 3,
+            "verse": 19,
+            "text": "Vjera je kod Allaha, doista, islam! A oni kojima je data Knjiga podvojili su se bas onda kada im je doslo znanje, i to iz međusobne zlobe. A onaj ko ne vjeruje u ajete i znakove Allahove – pa, Allah, zaista, brzo sviđa racune"
+        },
+        {
+            "chapter": 3,
+            "verse": 20,
+            "text": "Ako se oni budu prepirali s tobom, reci: \"Ja se samo Allahu predajem, kao i oni koji me slijede!\" I reci onima kojima je data Knjiga i nepismenima: \"Da li ste islam primili?\" Pa ako prime islam, onda su oni na Pravom putu, a ako odbiju, tvoje je jedino da obznanis. A Allah dobro vidi robove Svoje"
+        },
+        {
+            "chapter": 3,
+            "verse": 21,
+            "text": "Onima koji ne vjeruju u znakove Allahove i koji vjerovjesnike ubijaju neopravdano, i ubijaju one koji traze da se po pravdi postupa prema ljudima, navijesti bolnu patnju"
+        },
+        {
+            "chapter": 3,
+            "verse": 22,
+            "text": "To su oni cija djela su ponistena i na dunjaluku i na ahiretu, i kojima niko nece u pomoc priteci"
+        },
+        {
+            "chapter": 3,
+            "verse": 23,
+            "text": "Zar ne vidis one kojima je dat udio u Knjizi?! Pozivaju se Allahovoj Knjizi da im se po njoj sudi, a zatim se neki od njih, okrecuci se od toga, udaljavaju"
+        },
+        {
+            "chapter": 3,
+            "verse": 24,
+            "text": "To je zato sto oni govore: \"Vatra nas nece ni dodirnuti vise od nekoliko dana!\", i u njihovoj vjeri ih zavarava to sto su izmisljali"
+        },
+        {
+            "chapter": 3,
+            "verse": 25,
+            "text": "A sta ce biti kada ih sakupimo onoga Dana u koji nema sumnje, i kada svako dobije ono sto je zasluzio? A njima zulum nece biti ucinjen"
+        },
+        {
+            "chapter": 3,
+            "verse": 26,
+            "text": "Reci: \"Allahu moj! Koji svu vlast imas! Ti vlast dajes kome hoces, a oduzimas od koga Ti hoces! Ti uzvisujes koga hoces, a unizujes koga hoces! U Tvojoj ruci je dobro! Ti, doista, nad svime imas moc"
+        },
+        {
+            "chapter": 3,
+            "verse": 27,
+            "text": "Ti uvodis noc u dan i uvodis dan u noc! Zivo izvodis iz mrtvog i mrtvo izvodis iz zivog! Ti opskrbljujes koga hoces, bez ikakva racuna"
+        },
+        {
+            "chapter": 3,
+            "verse": 28,
+            "text": "Neka vjernici za prisne prijatelje i zastitnike ne uzimaju nevjernike mimo vjernika, a ko to cini, s Allahom nema nista! Ucinite to samo ako se time od njih stitite! Allah vas na Sebe upozorava, a kod Allaha je konacno odrediste"
+        },
+        {
+            "chapter": 3,
+            "verse": 29,
+            "text": "Reci: \"Skrivali vi ono sto je u prsima vasim ili pokazivali, Allah to zna. On zna sve sto je na nebesima i sto je na Zemlji. Allah nad svime ima moc"
+        },
+        {
+            "chapter": 3,
+            "verse": 30,
+            "text": "Onoga dana kada svako ugleda pred sobom dobro koje je uradio, a i zlo isto tako, pozeljet ce da je između njih i njega udaljenost velika. A Allah vas na Sebe upozorava i Allah je milosrdan prema robovima Svojim"
+        },
+        {
+            "chapter": 3,
+            "verse": 31,
+            "text": "Reci: \"Ako vi Allaha volite, onda mene slijedite, i vas ce Allah voljeti i grijehe vam oprostiti! A Allah je Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 3,
+            "verse": 32,
+            "text": "Reci: \"Pokoravajte se Allahu i Poslaniku!\" A ako se oni okrenu, Allah, doista, ne voli nevjernike"
+        },
+        {
+            "chapter": 3,
+            "verse": 33,
+            "text": "Doista je Allah odabrao Adema, i Nuha, i porodicu Ibrahimovu, i porodicu Imranovu nad drugim svjetovima"
+        },
+        {
+            "chapter": 3,
+            "verse": 34,
+            "text": "kao potomstvo, jedne od drugih. Allah je Onaj Koji sve cuje i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 3,
+            "verse": 35,
+            "text": "Kada Imranova zena rece: \"Gospodaru moj, ovo sto je u trbuhu mome ja zaista zavjetujem Tebi na sluzbu, pa primi to od mene, zbilja si Ti Svecujuci i Sveznajuci"
+        },
+        {
+            "chapter": 3,
+            "verse": 36,
+            "text": "A nakon sto je rodila, ona rece: “Gospodaru moj, rodila sam zensko!” – a Allah najbolje zna sta je ona rodila, a musko nije kao zensko. “Dala"
+        },
+        {
+            "chapter": 3,
+            "verse": 37,
+            "text": "Pa je Gospodar njezin lijepo primi, i ucini da lijepo izraste i da se o njoj Zekerijja brine. Kad god bi joj Zekerijja u mihrab usao, kod nje bi hrane nasao. \"Odakle ti ovo, Merjema?\", pitao bi on, a ona bi odgovorila: \"To je od Allaha! Allah, doista, opskrbljuje koga hoce, bez ikakva racuna"
+        },
+        {
+            "chapter": 3,
+            "verse": 38,
+            "text": "Tu Zekerijja zamoli Gospodara svoga: \"Gospodaru moj, podari mi od Sebe cestita potomka, Ti doista molbu cujes"
+        },
+        {
+            "chapter": 3,
+            "verse": 39,
+            "text": "I dok se on, stojeci u odaji, molio, meleci ga pozvase i rekose: “Allah te prvakom cednim covjekom i vjerovjesnikom"
+        },
+        {
+            "chapter": 3,
+            "verse": 40,
+            "text": "Gospodaru moj\", rece on, \"odakle cu ja imati sina kada me starost ophrvala, a i zena mi je nerotkinja?\" \"Eto tako\", rece On, \"Allah cini sto On hoce"
+        },
+        {
+            "chapter": 3,
+            "verse": 41,
+            "text": "Gospodaru moj\", zamoli Zekerijja, \"daj mi neki znak!\" \"Znak ce biti\", rece On, \"sto tri dana s ljudima neces govoriti, osim isaretorn! I mnogo spominji Gospodara svoga i hvali Ga krajem dana i rano ujutro"
+        },
+        {
+            "chapter": 3,
+            "verse": 42,
+            "text": "I kada meleci kazase: \"O Merjem, tebe je, doista, Allah odabrao i cistom ucinio! On te je nad zenama svih svjetova odabrao"
+        },
+        {
+            "chapter": 3,
+            "verse": 43,
+            "text": "Merjema, budi skrusena i pokorna Gospodaru svome, i sedzdu i ruku cini s onima koji u namazu ruku cine"
+        },
+        {
+            "chapter": 3,
+            "verse": 44,
+            "text": "To su neke od vijesti o onome sto culima nije dokucivo, a koje ti objavljujemo. Ti nisi bio među njima kada su pera svoja pobacali da bi vidjeli koji ce se o Merjemi brinuti, a nisi bio među njima ni kada su se prepirali"
+        },
+        {
+            "chapter": 3,
+            "verse": 45,
+            "text": "I kada meleci rekose: \"Merjema, Allah te obveseljava onim koji je Rijec Njegova, cije je ime Mesih, Isa, sin Merjemin, ugledan i na dunjaluku i na ahiretu i jedan od Allahu bliskih"
+        },
+        {
+            "chapter": 3,
+            "verse": 46,
+            "text": "On ce govoriti ljudima i u kolijevci, i kao odrastao, i on je jedan od dobrih"
+        },
+        {
+            "chapter": 3,
+            "verse": 47,
+            "text": "Ona rece: \"Gospodaru moj, kako cu ja imati dijete kada me muskarac nije dodirnuo?!\" \"Eto, tako\", rece, \"Allah stvara sta On hoce. Kada nesto odredi, On samo kaze: 'Budi!' i to biva"
+        },
+        {
+            "chapter": 3,
+            "verse": 48,
+            "text": "On ce ga pouciti Knjizi i mudrosti, i Tevratu i Indzilu"
+        },
+        {
+            "chapter": 3,
+            "verse": 49,
+            "text": "I poslat ce ga kao poslanika sinovima Israilovim: \"Donio sam vam znak od Gospodara vasega: oblikovat cu vam od ilovace nesto poput ptice, i u nju puhnuti, pa ce, Allahovom dozvolom, ptica biti; iscijelit cu slijepa od rođenja i gubava, i ozivljavat cu mrtve dozvolom Allahovom; i kazivat cu vam sta jedete i sta u domovima vasim pohranjujete. U svemu tome ima dokaza za vas, ako vjernici budete"
+        },
+        {
+            "chapter": 3,
+            "verse": 50,
+            "text": "Potvrđujuci tako istinitost Tevrata, objavljenog prije mene, i dopustajuci nesto sto vam je bilo zabranjeno, ja vam donosim dokaz od Gospodara vasega. Pa Allaha se bojte, a meni pokorni budite"
+        },
+        {
+            "chapter": 3,
+            "verse": 51,
+            "text": "Allah je doista i moj i vas Gospodar i Njemu ibadet cinite. To je Pravi put"
+        },
+        {
+            "chapter": 3,
+            "verse": 52,
+            "text": "I kada je Isa osjetio da oni ne vjeruju, rekao je: \"Ko su pomagaci moji na putu prema Allahu?\" \"Mi smo pomagaci Allahovi\", rekose ucenici, \"mi u Allaha vjerujemo, a ti budi svjedok da smo mi muslimani – predani"
+        },
+        {
+            "chapter": 3,
+            "verse": 53,
+            "text": "Gospodaru nas, mi vjerujemo u ono sto si Ti objavio, mi Poslanika slijedimo, pa upisi nas među svjedoke"
+        },
+        {
+            "chapter": 3,
+            "verse": 54,
+            "text": "A oni su lukavstvo smisljali, pa je i Allah njima lukavstvo priredio. A Allah najbolje lukavstvo priređuje"
+        },
+        {
+            "chapter": 3,
+            "verse": 55,
+            "text": "I kada Allah rece: \"Isa, Ja cu te uzeti i k Sebi te uzdignuti! Ocistiti te od nevjernika, i ucinit cu da oni koji te slijede budu iznad onih koji ne vjeruju do Kijametskog dana. Zatim cete se Meni vratiti, pa cu Ja presuditi o onome u cemu ste se razilazili"
+        },
+        {
+            "chapter": 3,
+            "verse": 56,
+            "text": "Sto se tice onih koji ne vjeruju, njih cu na strasne muke staviti na dunjaluku i na ahiretu, i oni nece imati pomagaca"
+        },
+        {
+            "chapter": 3,
+            "verse": 57,
+            "text": "A onima koji budu vjerovali i dobra djela cinili, On ce punu nagradu dati. A, Allah ne voli zulumcare"
+        },
+        {
+            "chapter": 3,
+            "verse": 58,
+            "text": "Ovo sto ti kazujemo jesu ajeti i Opomena usavrsena"
+        },
+        {
+            "chapter": 3,
+            "verse": 59,
+            "text": "Primjer Isaov doista je kod Allaha isti kao i primjer Ademov: od prasine ga je stvorio, a zatim mu rekao: \"Budi!\" i on bi"
+        },
+        {
+            "chapter": 3,
+            "verse": 60,
+            "text": "Istina je od Gospodara tvoga, pa zato nikako ne budi od onih koji sumnjaju"
+        },
+        {
+            "chapter": 3,
+            "verse": 61,
+            "text": "A onima koji s tobom o njemu budu raspravljali, nakon sto ti je doslo znanje, reci: \"Dođite, pozvat cemo sinove nase i sinove vase, i zene nase i zene vase, a doci cemo i mi i vi, pa cemo se proklinjati i Allahovo prokletstvo na one koji lazu prizvati"
+        },
+        {
+            "chapter": 3,
+            "verse": 62,
+            "text": "Ovo je, doista, istinito kazivanje, i nema boga osim Allaha! A Allah je doista Silni i Mudri"
+        },
+        {
+            "chapter": 3,
+            "verse": 63,
+            "text": "A ako se oni okrenu, pa Allah, doista, dobro zna smutljivce"
+        },
+        {
+            "chapter": 3,
+            "verse": 64,
+            "text": "Reci: \"O vi kojima je Knjiga data, dođite da se okupimo uz rijeci koje mi i vi podjednako dijelimo: da nikoga osim Allaha ne obozavamo, da Mu nista ne pridruzujemo, i da jedni druge, pored Allaha, bogovima ne smatramo!\" Pa, ako se oni okrenu, vi recite: \"Budite svjedoci da smo mi muslimani"
+        },
+        {
+            "chapter": 3,
+            "verse": 65,
+            "text": "O vi kojima je Knjiga data, zasto se o Ibrahimu prepirete kada su Tevrat i Indzil poslije njega objavljeni!? Zar vi ne razumijete"
+        },
+        {
+            "chapter": 3,
+            "verse": 66,
+            "text": "Eto, vi raspravljate o onome o cemu imate neko znanje, ali zasto raspravljate o onome o cemu nemate nikakvoga znanja? A Allah zna, a vi ne znate"
+        },
+        {
+            "chapter": 3,
+            "verse": 67,
+            "text": "Ibrahim nije bio ni zidov ni krscanin, vec pravi vjernik, musliman. On visebozac nije bio"
+        },
+        {
+            "chapter": 3,
+            "verse": 68,
+            "text": "Doista su najblizi ljudi Ibrahimu oni koji su ga slijedili, i ovaj Vjerovjesnik i oni koji vjeruju. A Allah je zastitnik vjernika"
+        },
+        {
+            "chapter": 3,
+            "verse": 69,
+            "text": "Neki kojima je Knjiga data voljeli bi da vas na stranputicu odvedu. Ali oni ne odvode u zabludu nikoga drugoga do sebe, a da to i ne osjecaju"
+        },
+        {
+            "chapter": 3,
+            "verse": 70,
+            "text": "O vi kojima je data Knjiga, zasto u Allahove ajete ne vjerujete, a svjedoci ste da su Istina"
+        },
+        {
+            "chapter": 3,
+            "verse": 71,
+            "text": "O vi kojima je data Knjiga, zasto Istinu neistinom zaogrcete, i krijete Istinu, a vi je znate"
+        },
+        {
+            "chapter": 3,
+            "verse": 72,
+            "text": "Neki kojima je Knjiga data govore: \"Vjerujte u ono sto je objavljeno onima koji vjeruju, u pocetku dana, a porecite to na kraju dana, ne bi li i oni svoju vjeru napustili"
+        },
+        {
+            "chapter": 3,
+            "verse": 73,
+            "text": "I vjerujte i povjeravajte se samo onome ko slijedi vasu vjeru!\" Ti reci: \"Doista je prava uputa Allahova uputa!\" I govore: \"Ne vjerujte i ne povjeravajte se ikome, pa da nekome bude dato kao sto je dato vama ili da ima dokaz pred Gospodarom vasim!\" Reci: \"Zaista je sve dobro u ruci Allahovoj i On ga daje kome On hoce!\" A Allah je neizmjerno darezljiv i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 3,
+            "verse": 74,
+            "text": "On Svoju milost daje kome hoce. Allah je posjednik velikog dobra"
+        },
+        {
+            "chapter": 3,
+            "verse": 75,
+            "text": "Ima onih kojima je data Knjiga koji ce ti vratiti ako im povjeris tovar blaga, a ima ih koji ti nece vratiti ako im povjeris i samo jedan dinar, osim ako ga od njih ne budes stalno potrazivao. To je zato jer oni govore: \"Nama nije grijeh sto ucinimo nepismenima\", i o Allahu govore lazi, a znaju istinu"
+        },
+        {
+            "chapter": 3,
+            "verse": 76,
+            "text": "Međutim, ko obavezu svoju ispunjava i grijeha se kloni, pa Allah, doista, voli bogobojazne"
+        },
+        {
+            "chapter": 3,
+            "verse": 77,
+            "text": "Doista, oni koji za obavezu svoju prema Allahu i zakletve svoje kupuju nesto sto malo vrijedi, na ahiretu nikakva udjela nece imati. Allah s njima nece govoriti, niti ce na njih pogledati na Kijametskom danu, niti ce ih ocistiti. Njima pripada patnja bolna"
+        },
+        {
+            "chapter": 3,
+            "verse": 78,
+            "text": "Jedna skupina njihova uvija jezike svoje!\" Knjigu citajuci, da biste vi pomislili da je to iz Knjige, a to nije iz Knjige. I govore: 'To je od Allaha!\", a to nije od Allaha. I govore na Allaha lazi, a to znaju"
+        },
+        {
+            "chapter": 3,
+            "verse": 79,
+            "text": "Nije primjereno covjeku da mu Allah da Knjigu, i mudrost, i vjerovjesnistvo, a zatim da govori ljudima: \"Budite robovi moji, a ne Allahovi!\", nego: \"Budite uceni i pobozni, time sto Knjizi poucavate i sto je i sami proucavate"
+        },
+        {
+            "chapter": 3,
+            "verse": 80,
+            "text": "On vam ne naređuje da meleke i vjerovjesnike gospodarima smatrate. Zar da vam naređuje nevjerovanje, nakon sto ste postali muslimani"
+        },
+        {
+            "chapter": 3,
+            "verse": 81,
+            "text": "I kada je Allah od vjerovjesnika cvrsto obecanje uzeo: \"Kad god da vam podarim Knjigu i mudrost, zatim vam dođe poslanik koji potvrđuje da je istina ono sto vi imate, da li biste sigurno u njega vjerovali i njega pomogli?!\" Da li potvrđujete i prihvacate obavezu prema Meni?\", rece. \"Potvrđujemo!\", odgovorise. \"Budite onda svjedoci!\", rece On, \"a i Ja s vama svjedocim"
+        },
+        {
+            "chapter": 3,
+            "verse": 82,
+            "text": "A oni koji se i poslije toga okrenu, doista su to nevjernici"
+        },
+        {
+            "chapter": 3,
+            "verse": 83,
+            "text": "Zar pored Allahove vjere zele neku drugu, kada se Njemu predaju, milom ili silom, i oni na nebesima i na Zemlji, i Njemu ce vraceni biti"
+        },
+        {
+            "chapter": 3,
+            "verse": 84,
+            "text": "Reci: \"Mi vjerujemo u Allaha i u ono sto je objavljeno nama, i sto je objavljeno Ibrahimu, i Ismailu, i Ishaku, i Jakubu i potomcima, i u ono sto je dato Musau i Isau i vjerovjesnicima od Gospodara njihovoga; mi nikakvu razliku između njih ne pravimo, i mi smo Njemu predani"
+        },
+        {
+            "chapter": 3,
+            "verse": 85,
+            "text": "A onaj ko zeli neku drugu vjeru osim islama, nece mu biti primljena, i on ce na drugom svijetu biti među gubitnicima"
+        },
+        {
+            "chapter": 3,
+            "verse": 86,
+            "text": "Kako Allah da uputi na Pravi put narod koji ne vjeruje nakon sto je vjerovao i svjedocio da je Poslanik istina, i Jasni dokazi su mu dosli!? Allah nece uputiti na Pravi put narod koji zulum cini"
+        },
+        {
+            "chapter": 3,
+            "verse": 87,
+            "text": "A to su oni cija je kazna prokletstvo od Allaha i meleka i svih ljudi"
+        },
+        {
+            "chapter": 3,
+            "verse": 88,
+            "text": "U njemu ce vjecno ostati i patnja im olaksana biti nece, niti ce im se vremena dati"
+        },
+        {
+            "chapter": 3,
+            "verse": 89,
+            "text": "Izuzetak su oni koji se pokaju poslije toga i poprave, a Allah je, doista, Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 3,
+            "verse": 90,
+            "text": "Doista, onima koji postanu nevjernici, nakon sto su vjerovali, zatim postanu jos veci nevjernici, pokajanje nece biti primljeno i oni su sigurno zalutali"
+        },
+        {
+            "chapter": 3,
+            "verse": 91,
+            "text": "Zaista, nijednom od onih koji nisu vjerovali, a koji i umru kao nevjernici, nece biti prihvaceno da se otkupe pa makar to bilo sve blago na Zemlji. Njima pripada patnja bolna i oni nece imati nikakvog pomagaca"
+        },
+        {
+            "chapter": 3,
+            "verse": 92,
+            "text": "Necete postici dobro sve dok ne budete dijelili od onoga sto vam je drago. A sta god da dijelite, Allah to dobro zna"
+        },
+        {
+            "chapter": 3,
+            "verse": 93,
+            "text": "Svaka hrana bila je dozvoljena sinovima Israilovim, osim one koju je Israil sam sebi zabranio prije nego je Tevrat objavljen bio. Reci: \"Donesite Tevrat i citajte ga, ako istinu govorite"
+        },
+        {
+            "chapter": 3,
+            "verse": 94,
+            "text": "A oni koji o Allahu iznose lazi i poslije toga, oni su, doista, zulumcari"
+        },
+        {
+            "chapter": 3,
+            "verse": 95,
+            "text": "Reci: \"Allah istinu govori!\" – da slijedite vjeru Ibrahimovu, koji je pravi vjernik bio. On u visebosce nije spadao"
+        },
+        {
+            "chapter": 3,
+            "verse": 96,
+            "text": "Prva bogomolja podignuta za ljude jest ona u Bekki, blagoslovljena i putokaz svjetovima"
+        },
+        {
+            "chapter": 3,
+            "verse": 97,
+            "text": "U njoj su znamenja ocevidna, mjesto na kojem je stajao Ibrahim. I onaj ko u nju uđe, bit ce siguran. Hodocastiti Kabu, radi Allaha, duzan je svako ko bude u mogucnosti do nje doci. A ko ne vjeruje – pa, Allah je, doista, neovisan o svjetovima"
+        },
+        {
+            "chapter": 3,
+            "verse": 98,
+            "text": "Reci: \"O sljedbenici Knjige, zasto u Allahova ajete i znakove ne vjerujete. Allah je svjedok svega sto radite"
+        },
+        {
+            "chapter": 3,
+            "verse": 99,
+            "text": "Reci: \"O vi kojima je Knjiga data, zasto onoga koji vjeruje od Allahove vjere odvracate, zeleci da je iskrivite, a svjedoci ste da je istina!? A Allah ne zanemaruje ono sto vi radite"
+        },
+        {
+            "chapter": 3,
+            "verse": 100,
+            "text": "O vi koji vjerujete, ako se budete pokoravali jednoj skupini onih kojima je data Knjiga, oni ce vas, nakon sto ste prihvatili pravu vjeru, ponovo vratiti u nevjernike"
+        },
+        {
+            "chapter": 3,
+            "verse": 101,
+            "text": "A kako da ne vjerujete kada vam se kazuju Allahovi ajeti i kad je među vama Poslanik Njegov?! A ko se cvrsto drzi Allaha, on je na Pravi put upucen"
+        },
+        {
+            "chapter": 3,
+            "verse": 102,
+            "text": "O vi koji vjerujete, bojte se Allaha istinskom bogobojaznoscu i niposto ne umirite osim kao muslimani"
+        },
+        {
+            "chapter": 3,
+            "verse": 103,
+            "text": "Svi se cvrsto drzite za Allahovo uze i ne razjedinjujte se! I sjetite se blagodati Allahove prema vama, kada ste bili neprijatelji, pa je On sjedinio srca vasa i postali ste, Njegovom miloscu, braca! I bili ste na ivici vatrene jame, pa vas je On od nje spasio. Tako vam Allah objasnjava ajete i znakove Svoje da biste se ispravnim putem uputili"
+        },
+        {
+            "chapter": 3,
+            "verse": 104,
+            "text": "I neka među vama bude grupa ljudi koja na dobro poziva i naređuje dobro i odvraca od zla. To su oni koji su uspjeli"
+        },
+        {
+            "chapter": 3,
+            "verse": 105,
+            "text": "I ne budite kao oni koji su se razjedinili i razisli, nakon sto su im jasni dokazi vec dosli! Njima pripada patnja velika"
+        },
+        {
+            "chapter": 3,
+            "verse": 106,
+            "text": "Na Dan kada ce neka lica pobijeljeti, a neka pocrnjeti. Onima cija lica budu pocrnjela bit ce receno: \"Zar ste postali nevjernici nakon vaseg vjerovanja?! Pa iskusite patnju zato sto niste vjerovali"
+        },
+        {
+            "chapter": 3,
+            "verse": 107,
+            "text": "A oni cija lica pobijele, pa u milosti Allahovoj su, oni ce u njoj vjecno ostati"
+        },
+        {
+            "chapter": 3,
+            "verse": 108,
+            "text": "To su Allahovi ajeti koje tebi istinito kazujemo. A Allah ne zeli da bilo kome zulum ucini"
+        },
+        {
+            "chapter": 3,
+            "verse": 109,
+            "text": "Allahu pripada sve sto je na nebesima i sto je na Zemlji, i Allahu se sve vraca"
+        },
+        {
+            "chapter": 3,
+            "verse": 110,
+            "text": "Vi ste najbolji narod koji se ikada pojavio: trazite da se cini dobro, a odvracate od zla, i vjerujete u Allaha! A kada bi sljedbenici Knjige vjerovali, bilo bi bolje za njih; među njima ima vjernika, ali – vecina njih su buntovnici"
+        },
+        {
+            "chapter": 3,
+            "verse": 111,
+            "text": "Oni vam ne mogu nauditi, nego vas mogu samo uznemiriti. Ako vas napadnu, dat ce se u bijeg, i poslije im pomoci biti nece"
+        },
+        {
+            "chapter": 3,
+            "verse": 112,
+            "text": "Ma gdje se nasli, oni su ponizeni, osim ako su pod zastitom Allahovom i zastitom drugih ljudi. Oni su zasluzili srdzbu Allahovu i bijeda je pala na njih, zato sto u ajete i dokaze Allahove nisu vjerovali i sto su vjerovjesnike bespravno ubijali, zato sto su Allahu bili nepokorni, i sto su presli svaku granicu u grijesenju"
+        },
+        {
+            "chapter": 3,
+            "verse": 113,
+            "text": "Nisu svi oni isti! Među onima kojima je Knjiga data ima ispravnih, koji po cijelu noc ajete Allahove uce i sedzdu Mu cine"
+        },
+        {
+            "chapter": 3,
+            "verse": 114,
+            "text": "Oni u Allaha i ahiret vjeruju, naređuju da se cine dobra djela, a odvracaju od zlih, i zure ciniti dobro. Oni su među dobrima"
+        },
+        {
+            "chapter": 3,
+            "verse": 115,
+            "text": "Kakvo god dobro da urade, nece im biti negirano, a Allah dobro zna one koji se Njega boje"
+        },
+        {
+            "chapter": 3,
+            "verse": 116,
+            "text": "Doista, one koji ne vjeruju nece odbraniti imeci njihovi, niti djeca njihova; oni ce stanovnici Vatre biti, u kojoj ce vjecno ostati"
+        },
+        {
+            "chapter": 3,
+            "verse": 117,
+            "text": "Primjer onoga sto oni u ovosvjetskom zivotu udijele slican je ledenom vjetru koji pogodi usjeve ljudi koji su sami sebi zulum ucinili, pa ih unisti. Njima Allah nije zulum ucinio, nego ga oni sami sebi cine"
+        },
+        {
+            "chapter": 3,
+            "verse": 118,
+            "text": "O vi koji vjerujete, ne uzimajte za bliske prijatelje i zastitnike druge mimo vas, jer drugi vam propast zele, jedva cekaju da muka dopadnete! Mrznja izbija iz usta njihovih, dok je ono sto kriju grudi njihove jos gore. Mi vam dokaze iznosimo, ako razumijete"
+        },
+        {
+            "chapter": 3,
+            "verse": 119,
+            "text": "Eto, vi njih volite, a oni vas ne vole, a vi vjerujete u sve Knjige. Kada vas sretnu, oni govore: \"Vjerujemo!\", a cim se nasamo nađu, od zlobe prema vama vrhove prstiju grizu. Reci: \"Umrite od muke!\" Allah, doista, dobro zna sta je u grudima"
+        },
+        {
+            "chapter": 3,
+            "verse": 120,
+            "text": "Ako vas zadesi kakvo dobro, to ih ozlojedi; a zadesi li vas kakva nevolja, obraduju joj se. Ako se budete strpjeli i bogobojazni bili, njihovo lukavstvo vam nimalo nece nauditi. A Allah, doista, sve sto oni rade obuhvata"
+        },
+        {
+            "chapter": 3,
+            "verse": 121,
+            "text": "I sjeti se kada si poranio, porodicu svoju ostavio, da vjernicima odredis mjesta za borbu. A Allah je Onaj Koji sve cuje i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 3,
+            "verse": 122,
+            "text": "Kada dvije skupine vase gotovo ne uzmakose, a Allah je njihov zastitnik. I samo na Allaha neka se vjernici oslone"
+        },
+        {
+            "chapter": 3,
+            "verse": 123,
+            "text": "Allah vas je i na Bedru pomogao, kada ste bili malobrojni! Zato se Allaha bojte, da biste bili zahvalni"
+        },
+        {
+            "chapter": 3,
+            "verse": 124,
+            "text": "Kada ti rece vjernicima: \"Zar vam nije dovoljno da vas Gospodar vas pomogne sa tri hiljade poslanih meleka"
+        },
+        {
+            "chapter": 3,
+            "verse": 125,
+            "text": "Dakako! Ako strpljivi i bogobojazni budete; i ako vas oni napadnu naglo, Gospodar vas ce vam poslati pomoc od pet hiljada meleka obiljezenih"
+        },
+        {
+            "chapter": 3,
+            "verse": 126,
+            "text": "To je Allah ucinio samo da vas obraduje i da se time srca vasa smire. A pomoci nema osim od Allaha, Silnog i Mudrog"
+        },
+        {
+            "chapter": 3,
+            "verse": 127,
+            "text": "I da jedan dio nevjernika unisti, ili da ih osramoti, te da se vrate razocarani"
+        },
+        {
+            "chapter": 3,
+            "verse": 128,
+            "text": "Nista ne zavisi od tebe: bilo da im On pokajanje primi, ili da ih kazni, jer oni su, doista, zulumcari"
+        },
+        {
+            "chapter": 3,
+            "verse": 129,
+            "text": "Allahu pripada sve sto je na nebesima i sto je na Zemlji! On prasta kome On hoce, a na muke stavlja koga On hoce. Jer, Allah je Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 3,
+            "verse": 130,
+            "text": "O vi koji vjerujete, ne jedite kamatu vise puta udvostrucenu, i Allaha se bojte da biste spaseni bili"
+        },
+        {
+            "chapter": 3,
+            "verse": 131,
+            "text": "I cuvajte se Vatre koja je za nevjernike pripremljena"
+        },
+        {
+            "chapter": 3,
+            "verse": 132,
+            "text": "I pokoravajte se Allahu i Poslaniku kako bi vam milost ukazana bila"
+        },
+        {
+            "chapter": 3,
+            "verse": 133,
+            "text": "I pozurite oprostu Gospodara vasega, i dzennetu sirokom kao nebesa i Zemlja – pripremljenom za bogobojazne –"
+        },
+        {
+            "chapter": 3,
+            "verse": 134,
+            "text": "za one koji udjeljuju, i kada su u obilju i kada su u oskudici, koji srdzbu savlađuju i ljudima oprastaju. A Allah voli dobrocinitelje"
+        },
+        {
+            "chapter": 3,
+            "verse": 135,
+            "text": "I za one koji, kada ucine nesto lose, ili sebi zulum ucine, Allaha se sjete i oprost za grijehe svoje mole. A ko oprasta grijehe, ako ne Allah?! I za one koji u grijehu svjesno ne ustraju"
+        },
+        {
+            "chapter": 3,
+            "verse": 136,
+            "text": "To su oni cija je nagrada oprost Gospodara njihova, i basce kroz koje rijeke teku, gdje ce vjecno ostati. Divne li nagrade za one koji tako postupaju"
+        },
+        {
+            "chapter": 3,
+            "verse": 137,
+            "text": "Prije vas su mnogi narodi bili i nestali. Zato, putujte po Zemlji i gledajte kako su zavrsili oni koji su istinu poricali"
+        },
+        {
+            "chapter": 3,
+            "verse": 138,
+            "text": "To je objasnjenje ljudima, i uputa i pouka za one koji se Allaha boje"
+        },
+        {
+            "chapter": 3,
+            "verse": 139,
+            "text": "Ne klonite duhom, i ne zalostite se! Vi cete pobijediti, ako vjernici budete"
+        },
+        {
+            "chapter": 3,
+            "verse": 140,
+            "text": "Ako vas rane spopadnu – pa sigurno su takve rane i druge spopale – i te dane pobjede Mi naizmjenice dajemo ljudima, da bi Allah znao one koji vjeruju, i odabrao neke od vas za sehide. A Allah ne voli zulumcare"
+        },
+        {
+            "chapter": 3,
+            "verse": 141,
+            "text": "I da bi vjernike ocistio, a nevjernike unistio"
+        },
+        {
+            "chapter": 3,
+            "verse": 142,
+            "text": "Zar mislite da cete uci u dzennet, a da Allah ne zna one od vas koji se bore, i da ne zna one koji su strpljivi"
+        },
+        {
+            "chapter": 3,
+            "verse": 143,
+            "text": "Vi ste prizeljkivali smrt prije nego sto ste se s njom suocili, pa ste je, eto, vidjeli i u nju ste gledali"
+        },
+        {
+            "chapter": 3,
+            "verse": 144,
+            "text": "Muhammed je samo poslanik, a i prije njega je bilo poslanika. Ako bi on umro, ili ubijen bio, zar biste se vi nazad vratili?! Onaj ko se nazad vrati, Allahu nece nista nauditi, a Allah ce zahvalne nagraditi"
+        },
+        {
+            "chapter": 3,
+            "verse": 145,
+            "text": "Nijedna osoba nece umrijeti bez određenja Allahovog, casa suđenog. Ko zeli nagradu na ovome svijetu, dat cemo mu dio nagrade koji zasluzuje, a ko zeli nagradu na ahiretu, dat cemo mu dio nagrade koji zasluzuje. I zahvalne cemo nagraditi"
+        },
+        {
+            "chapter": 3,
+            "verse": 146,
+            "text": "A koliko je bilo vjerovjesnika uz koje su se brojni pobozni ljudi borili, pa nisu klonuli zbog onoga sto bi ih zadesilo na putu Allahovom, niti su posustajali, niti se predavali?! A Allah voli strpljive"
+        },
+        {
+            "chapter": 3,
+            "verse": 147,
+            "text": "Oni nisu govorili nista drugo nego: \"Gospodaru nas, oprosti nam grijehe nase i pretjerivanje u postupcima nasim, ucvrsti korake nase i pomozi nam protiv naroda nevjernickog"
+        },
+        {
+            "chapter": 3,
+            "verse": 148,
+            "text": "Pa im je Allah dao nagradu na dunjaluku i ljepotu nagrade na ahiretu, a Allah voli dobrocinitelje"
+        },
+        {
+            "chapter": 3,
+            "verse": 149,
+            "text": "O vi koji vjerujete, ako se budete pokoravali onima koji ne vjeruju, vratit ce vas unazad pa cete postati gubitnici"
+        },
+        {
+            "chapter": 3,
+            "verse": 150,
+            "text": "Međutim, samo je Allah zastitnik vas i On je najbolji pomagac"
+        },
+        {
+            "chapter": 3,
+            "verse": 151,
+            "text": "Mi cemo uliti strah u srca onih koji ne vjeruju, zato sto Allahu pridruzuju ono o cemu Allah nije spustio nikakav dokaz; Vatra je njihovo boraviste, a grozno je stjeciste zulumcara"
+        },
+        {
+            "chapter": 3,
+            "verse": 152,
+            "text": "Allah je vec potvrdio obecanje Svoje, kada ste ih vi unistavali, dozvolom Njegovom, dok niste neuspjeh dozivjeli i o naredbi se razisli, i nepokorni bili, nakon sto vam je pokazao sta volite: neki od vas zele dunjaluk, a drugi ahiret! Onda vas je On odvojio od njih, kako bi vas iskusao! I oprostio vam je; a Allah je prema vjernicima neizmjerno dobar"
+        },
+        {
+            "chapter": 3,
+            "verse": 153,
+            "text": "Kada ste uzmicali penjuci se i ne obaziruci se ni na koga, dok vas je Poslanik zvao iza leđa vasih, Allah vas je kaznio nedacom na nedacu, kako ne biste tugovali za onim sto vam je izmaklo niti zbog onoga sto vas je zadesilo. A Allah u potpunosti zna ono sto radite"
+        },
+        {
+            "chapter": 3,
+            "verse": 154,
+            "text": "Zatim vam je, poslije nevolje, spokojstvo spustio, san koji je neke od vas obuzeo, dok su se drugi brinuli samo o sebi, misleci o Allahu ono sto nije istina, mislima paganskim. Govorili su: \"Imamo li mi ista u svemu ovom?\"!\" Reci: \"Odredba u cjelosti pripada samo Allahu!\" Oni u sebi kriju ono sto tebi ne pokazuju. I govorili su: \"Da smo ista u ovome imali, ne bismo ovdje izginuli!\" Reci: \"I da ste u kucama svojim bili, opet bi oni kojima je propisano da poginu izisli na mjesta pogibije svoje, da Allah iskusa sta je u grudima vasim i da ispita sta je u srcima vasim! A Allah dobro zna sta je u grudima"
+        },
+        {
+            "chapter": 3,
+            "verse": 155,
+            "text": "One od vas koji su uzmakli na dan kada su se dvije skupine sukobile, doista je sejtan naveo da posrnu zbog neceg od onoga sto su prije zaradili. A Allah im je vec oprostio, Allah je, zaista, Onaj Koji oprasta grijehe i Onaj Koji ne zuri s kaznom"
+        },
+        {
+            "chapter": 3,
+            "verse": 156,
+            "text": "O vi koji vjerujete, ne budite kao oni koji ne vjeruju i koji govore za bracu svoju, kada se na put po svijetu otisnu ili se budu borili: \"Da su bili s nama, ne bi umrli, niti bi poginuli!\" Jer, Allah time cini tugu u srcima njihovim, a Allah daje i zivot, i smrt. On dobro vidi ono sto vi radite"
+        },
+        {
+            "chapter": 3,
+            "verse": 157,
+            "text": "A ako vi na Allahovom putu poginete ili umrete, pa Allahov oprost i milost bolji su od onoga sto oni gomilaju"
+        },
+        {
+            "chapter": 3,
+            "verse": 158,
+            "text": "I bilo da umrete ili poginete, vi cete pred Allaha sigurno sakupljeni biti"
+        },
+        {
+            "chapter": 3,
+            "verse": 159,
+            "text": "S Allahovom miloscu ti si blag prema njima; a da si grub i tvrda srca bio, sigurno bi pobjegli na sve strane od tebe. Zato im prastaj i moli da im bude oprosteno, i dogovaraj se s njima. A kada se odlucis, na Allaha se osloni; Allah, doista voli one koji se na Njega oslanjaju"
+        },
+        {
+            "chapter": 3,
+            "verse": 160,
+            "text": "Ako vas Allah pomogne, niko vas pobijediti nece; a ako vas napusti, pa ko je taj koji vam, osim Njega, moze pomoci?! Pa, na Allaha neka se zato oslanjaju vjernici"
+        },
+        {
+            "chapter": 3,
+            "verse": 161,
+            "text": "Nije moguce da Vjerovjesnik sta utaji! A onaj ko sta utaji, doci ce na Kijametski dan s tim sto je utajio. Zatim ce svakome u potpunosti biti dato ono sto je zasluzio, i nikome nece zulum biti ucinjen"
+        },
+        {
+            "chapter": 3,
+            "verse": 162,
+            "text": "Zar je onaj koji je Allahovo zadovoljstvo slijedio isti kao onaj koji je Allahovu srdzbu navukao i cije prebivaliste je dzehennem?! A uzasno je to konacno odrediste"
+        },
+        {
+            "chapter": 3,
+            "verse": 163,
+            "text": "Oni su kod Allaha na razlicitim stepenima i Allah dobro vidi sta oni rade"
+        },
+        {
+            "chapter": 3,
+            "verse": 164,
+            "text": "Allah je vjernike miloscu Svojom darovao kada im je poslanika između njih poslao, da im ajete Njegove kazuje, da ih ocisti, i da ih Knjizi i mudrosti pouci, iako su prije u ocitoj zabludi bili"
+        },
+        {
+            "chapter": 3,
+            "verse": 165,
+            "text": "Zar niste rekli, kada vas je snasla nevolja koju ste vi njima dvostruko nanijeli: \"Odakle sada ovo?\" Reci: \"To je od vas samih!\" Allah, doista, nad svime ima moc"
+        },
+        {
+            "chapter": 3,
+            "verse": 166,
+            "text": "Ono sto vas je zadesilo kada su se dvije skupine sukobile, bilo je Allahovom dozvolom i da bi znao ko su vjernici"
+        },
+        {
+            "chapter": 3,
+            "verse": 167,
+            "text": "I da bi ukazao na licemjere. Njima je receno: \"Dođite, borite se na Allahovom putu, ili se branite!\", a oni su kazali: \"Da znamo da ce biti borbe, mi bismo vas slijedili.\" Toga dana oni su bili blizi nevjerovanju nego vjerovanju. Svojim su ustima govorili ono sto nije bilo u srcima njihovim! A Allah najbolje zna sto oni kriju"
+        },
+        {
+            "chapter": 3,
+            "verse": 168,
+            "text": "Onima koji se nisu borili, a o braci svojoj su govorili: \"Da su nas poslusali, ne bi izginuli!\", reci: \"Od sebe smrt odagnajte, ako istinu govorite"
+        },
+        {
+            "chapter": 3,
+            "verse": 169,
+            "text": "Nikako ne smatraj mrtvima one koji su na Allahovom putu poginuli. Ne, oni su zivi i opskrbljeni su kod Gospodara svoga"
+        },
+        {
+            "chapter": 3,
+            "verse": 170,
+            "text": "Radosni su zbog onoga sto im je Allah iz obilja Svoga dao, i veseli zbog onih koji im se jos nisu pridruzili, za koje nikakva straha nece biti i koji ni za cim tugovati nece"
+        },
+        {
+            "chapter": 3,
+            "verse": 171,
+            "text": "Oni se raduju Allahovoj blagodati i dobroti, te tome sto Allah nece dopustiti da propadne nagrada koja pripada vjernicima"
+        },
+        {
+            "chapter": 3,
+            "verse": 172,
+            "text": "Onima koji su se Allahu i Poslaniku odazvali i nakon zadobijenih rana, onima između njih koji su dobro cinili i bogobojazni bili – pripada nagrada velika"
+        },
+        {
+            "chapter": 3,
+            "verse": 173,
+            "text": "Onima kojima se – kada su im ljudi rekli: \"Neprijatelji se okupljaju zbog vas, pa pazite ih se!\" – vjerovanje povecalo, pa su kazali: \"Nama je Allah dovoljan, a divan je On Zastitnik"
+        },
+        {
+            "chapter": 3,
+            "verse": 174,
+            "text": "Pa su se vratili s Allahovim blagodatima i obiljem; nikakvo ih zlo nije zadesilo. Slijedili su zadovoljstvo Allahovo, a Allah je posjednik velikog dobra"
+        },
+        {
+            "chapter": 3,
+            "verse": 175,
+            "text": "To vas samo sejtan plasi pristalicama svojim, pa ih se ne bojte, nego se Mene bojte, ako ste vjernici"
+        },
+        {
+            "chapter": 3,
+            "verse": 176,
+            "text": "Neka te ne zaloste oni koji srljaju u nevjerovanje. Oni nimalo nece Allahu nauditi. Allah nece da im ucini bilo kakvo dobro na ahiretu i njima pripada patnja velika"
+        },
+        {
+            "chapter": 3,
+            "verse": 177,
+            "text": "Oni koji su vjerovanje za nevjerovanje prodali, Allahu nece nista nauditi. Njima pripada patnja bolna"
+        },
+        {
+            "chapter": 3,
+            "verse": 178,
+            "text": "Neka nevjernici nikako ne misle da je dobro za njih to sto im dajemo dug zivot. Mi im dug zivot dajemo samo zbog toga kako bi ogrezli u grijehu i njima pripada patnja ponizavajuca"
+        },
+        {
+            "chapter": 3,
+            "verse": 179,
+            "text": "I ne moze biti da Allah vjernike ostavi u stanju u kojem ste vi, dok lose od dobrih ne odvoji. I ne moze biti da vam Allah otkrije ono sto je culima nedokucivo, nego On odabire koga hoce od poslanika Svojih. Zato, vjerujte u Allaha i poslanike Njegove, a ako vjerovali budete i Allaha se bojali i grijeha se cuvali, vama pripada velika nagrada"
+        },
+        {
+            "chapter": 3,
+            "verse": 180,
+            "text": "Neka oni koji skrtare u onome sto im Allah iz obilja Svoga daje, nikako ne misle da je to dobro za njih. Naprotiv, to je zlo za njih. Na Kijametskom danu bit ce im oko vrata omotano ono cime su skrtarili. A Allahu pripada nasljedstvo nebesa i Zemlje i Allah dobro zna ono sto vi radite"
+        },
+        {
+            "chapter": 3,
+            "verse": 181,
+            "text": "Allah je cuo rijeci onih koji su govorili: \"Allah je siromasan, a mi smo bogati!\" Mi cemo zabiljeziti ono sto su oni govorili kao i to sto su bez opravdanja vjerovjesnike ubijali. I reci cemo: \"Iskusite kaznu u Ognju"
+        },
+        {
+            "chapter": 3,
+            "verse": 182,
+            "text": "To je zbog djela vasih ruku, a Allah, zaista, ne cini zulum robovima Svojim"
+        },
+        {
+            "chapter": 3,
+            "verse": 183,
+            "text": "Onima koji govore: \"Allah je od nas obavezu uzeo da ne vjerujemo nijednom poslaniku dok ne prinese zrtvu koju ce vatra progutati!\", reci: \"I prije mene su vam poslanici s jasnim dokazima dolazili, a i s tim o cemu govorite. Pa zasto ste ih, onda, ubijali – ako istinu govorite"
+        },
+        {
+            "chapter": 3,
+            "verse": 184,
+            "text": "A ako te budu lascem smatrali, pa i prije tebe su lascima smatrani poslanici koji su Jasne dokaze i spise i Knjigu svjetilju donosili"
+        },
+        {
+            "chapter": 3,
+            "verse": 185,
+            "text": "Svaka osoba smrt ce okusiti, a samo cete na Kijametskom danu u potpunosti dobiti place vase. Pa ko bude od Vatre udaljen i u dzennet uveden, uspio je. A zivot na dunjaluku samo je varljivo naslađivanje"
+        },
+        {
+            "chapter": 3,
+            "verse": 186,
+            "text": "Vi cete sigurno biti iskusavani u imecima vasim, i zivotima vasim, a slusat cete od onih kojima je prije vas data Knjiga i od visebozaca mnoge neugodnosti. Ako budete strpljivi i Allaha se bojali, to, doista, u istinske postupke spada"
+        },
+        {
+            "chapter": 3,
+            "verse": 187,
+            "text": "A kada Allah uze obavezu od onih kojima je data Knjiga da ce to sigurno ljudima objasnjavati i nista iz nje nece kriti, oni su je za leđa svoja bacili, prodajuci je za bagatelnu cijenu. A ruzno li je ono sto za to kupuju"
+        },
+        {
+            "chapter": 3,
+            "verse": 188,
+            "text": "Nikako ne misli za one koje raduje to sto su uradili i koji vole biti pohvaljeni i za ono sto nisu ucinili – nikako ne misli da ce se patnje sacuvati. Njima pripada patnja bolna"
+        },
+        {
+            "chapter": 3,
+            "verse": 189,
+            "text": "Allahu pripada vlast na nebesima i na Zemlji i Allah nad svime ima moc"
+        },
+        {
+            "chapter": 3,
+            "verse": 190,
+            "text": "U stvaranju nebesa i Zemlje, i u izmjeni noci i dana, doista su znakovi za razumom obdarene"
+        },
+        {
+            "chapter": 3,
+            "verse": 191,
+            "text": "koji Allaha spominju stojeci, sjedeci i lezeci na svojim bokovima, i o stvaranju nebesa i Zemlje razmisljaju. \"Gospodaru nas, Ti ovo nisi uzalud stvorio! Uzvisen si Ti i sacuvaj nas od patnje u Vatri"
+        },
+        {
+            "chapter": 3,
+            "verse": 192,
+            "text": "Gospodaru nas, onoga koga Ti budes u Vatru bacio, vec si ga ponizio, a zulumcarima nece biti pomagaca"
+        },
+        {
+            "chapter": 3,
+            "verse": 193,
+            "text": "Gospodaru nas, mi smo culi glasnika koji poziva vjeri: 'Da vjerujete u Gospodara vasega!', pa smo povjerovali! Gospodaru nas, oprosti nam grijehe, i pokrij lose postupke nase, i usmrti nas s cestitima"
+        },
+        {
+            "chapter": 3,
+            "verse": 194,
+            "text": "Gospodaru nas, daj nam ono sto si nam obecao preko Svojih poslanika i ne ponizi nas na Kijametskom danu! Ti, doista, ne krsis obecanje Svoje"
+        },
+        {
+            "chapter": 3,
+            "verse": 195,
+            "text": "I Gospodar im se njihov odazva: \"Nijednom između vas koji dobro cini, bio muskarac ili zena, djela necu ponistiti; vi ste jedni od drugih. Onima koji se isele i koji budu iz domova svojih prognani, i koji budu na putu Mome muceni, i koji se budu borili i poginuli, sigurno cu losa djela pokriti i sigurno cu ih u dzennetske basce, kroz koje rijeke teku, uvesti. Nagrada je to Allahova, a u Allaha nagrada je najljepsa"
+        },
+        {
+            "chapter": 3,
+            "verse": 196,
+            "text": "Neka te nikako ne obmanjuje to sto oni koji ne vjeruju svuda po svijetu obijesno bogatstvom raspolazu"
+        },
+        {
+            "chapter": 3,
+            "verse": 197,
+            "text": "Kratko uzivanje, a potom – dzehennem boraviste je njihovo; a uzasno je to prebivaliste"
+        },
+        {
+            "chapter": 3,
+            "verse": 198,
+            "text": "Ali, onima koji se Gospodara svoga boje pripadaju dzennetske basce kroz koje rijeke teku; u njima ce vjecno ostati, Allah ce ih ugostiti. A ono sto je u Allaha, bolje je za cestite"
+        },
+        {
+            "chapter": 3,
+            "verse": 199,
+            "text": "Ima i onih kojima je data Knjiga koji vjeruju u Allaha i u ono sto je objavljeno vama, i u ono sto je objavljeno njima, koji su ponizni Allahu i ne prodaju ajete Allahove za bagatelnu cijenu. Njima pripada nagrada Gospodara njihova, a Allah ce, doista, brzo svidjeti racun"
+        },
+        {
+            "chapter": 3,
+            "verse": 200,
+            "text": "O vi koji vjerujete, budite strpljivi i izdrzljivi, postojano bdijte i Allaha se bojte, da biste uspjeli"
+        },
+        {
+            "chapter": 4,
+            "verse": 1,
+            "text": "O ljudi, bojte se Gospodara svoga, Koji vas je stvorio od jedne osobe, od koje je njen par stvorio, a od njih dvoje mnoge muskarce i zene rasijao. Bojte se Allaha, Cijim imenom jedni druge molite, i cuvajte rodbinske veze. Allah vas, doista, nadzire"
+        },
+        {
+            "chapter": 4,
+            "verse": 2,
+            "text": "I sirocadima imetke njihove dajte, ono sto je lose i zabranjeno ne mijenjajte za ono sto je lijepo i dopusteno, i imetke njihove s imecima vasim ne trosite. To je, doista, prestup veliki"
+        },
+        {
+            "chapter": 4,
+            "verse": 3,
+            "text": "Ako se bojite da prema sirotama necete biti pravedni, onda se zenite onim zenama koje su vam drage i dopustene, sa po dvije, sa po tri ili sa po cetiri. A ako strahujete da necete pravedni biti, onda samo jednom, ili onim koje posjedujete. Tako cete se najlakse nepravde sacuvati"
+        },
+        {
+            "chapter": 4,
+            "verse": 4,
+            "text": "I draga srca zenama darove njihove dajte; pa ako vam one draga srca stogod od toga poklone, to s prijatnoscu i ugodnoscu trosite"
+        },
+        {
+            "chapter": 4,
+            "verse": 5,
+            "text": "I maloumnicima ne dajite imetke koje vam je Allah za izdrzavanje ucinio, nego ih njima opskrbite i obucite. I lijepe rijeci im govorite"
+        },
+        {
+            "chapter": 4,
+            "verse": 6,
+            "text": "I iskusavajte sirocad dok ne stasaju za brak, pa ako se uvjerite da su zreli, urucite im imetke njihove. I ne trosite ih rasipnicki i u zurbi, prije nego odrastu. Ko je imucan neka se suzdrzi, a ko je siromasan, neka trosi onoliko koliko je neophodno. A kada im imetke urucujete, to ucinite u prisustvu svjedoka; a dosta je sto ce se pred Allahom racun polagati"
+        },
+        {
+            "chapter": 4,
+            "verse": 7,
+            "text": "Muskarcima pripada dio onoga sto ostave roditelji i rodbina, a i zenama pripada dio od onoga sto ostave roditelji i rodbina. Bilo toga malo ili mnogo, dio je obavezan"
+        },
+        {
+            "chapter": 4,
+            "verse": 8,
+            "text": "A kada diobi prisustvuju rođaci, sirocad i siromasi, opskrbite ih dijelom toga, i lijepe rijeci im recite"
+        },
+        {
+            "chapter": 4,
+            "verse": 9,
+            "text": "I neka se plase oni, koji bi strahovali za svoju nejaku djecu ako ih ostave iza sebe. Neka se Allaha boje i neka govore samo pravo"
+        },
+        {
+            "chapter": 4,
+            "verse": 10,
+            "text": "Doista, oni koji nepravedno trose imetke sirocadi, u svoje stomake stavljaju vatru i oni ce u Ognju gorjeti"
+        },
+        {
+            "chapter": 4,
+            "verse": 11,
+            "text": "Allah vam nalaze, u vezi s djecom vasom, da muskom pripadne dio jednak dijelu dvoje zenske djece zajedno. A ako bude vise od dvoje zenske djece, njima pripadaju dvije trecine onoga sto je umrli ostavio, a ako je samo jedno zensko, pripada joj polovina. A roditeljima, svakome posebno, pripada sestina od onoga sto je ostavio ako ima djece. A ako ne bude imao djece, i naslijede ga roditelji, onda njegovoj majci pripada trecina. A ako ima brace, onda njegovoj majci pripada sestina, posto se izvrsi oporuka koju je ostavio ili podmiri dug. Vi ne znate ko vam je blizi po koristi, roditelji vasi ili sinovi vasi. To je Allahova zapovijed, a Allah je, doista, Onaj Koji sve zna i mudar je"
+        },
+        {
+            "chapter": 4,
+            "verse": 12,
+            "text": "Vama pripada polovina onoga sto ostave supruge vase, ako ne budu imale djece; a ako budu imale djece, vama pripada cetvrtina onoga sto one ostave, posto se izvrsi oporuka koju ostave, ili podmiri dug; njima pripada cetvrtina onoga sto vi ostavite, ukoliko ne budete imali djece, a ako budete imali djece, njima pripada osmina onoga sto vi ostavite nakon sto se izvrsi oporuka koju ostavite, ili podmiri dug. A ako se muskarac ili zena, koji nemaju ni djece ni roditelja, budu nasljeđivali i budu imali brata ili sestru, onda ce svako od njih dvoje dobiti sestinu; ako ih bude vise, oni onda zajednicki ucestvuju u trecini, posto se izvrsi oporuka koja je ostavljena, ili podmiri dug, ne ostecujuci time bilo koga. To je zapovijed Allahova, a Allah je Onaj Koji sve zna i Onaj Koji ne zuri s kaznom"
+        },
+        {
+            "chapter": 4,
+            "verse": 13,
+            "text": "To su Allahovi propisi, a onoga ko se pokorava Allahu i Poslaniku Njegovu On ce uvesti u dzennetske basce kroz koje teku rijeke i u kojima ce vjecno ostati. To je uspjeh veliki"
+        },
+        {
+            "chapter": 4,
+            "verse": 14,
+            "text": "A onoga ko bude nepokoran Allahu i Poslaniku Njegovom, te preko granica Njegovih bude prelazio, On ce uvesti u Vatru u kojoj ce vjecno ostati; njemu pripada patnja ponizavajuca"
+        },
+        {
+            "chapter": 4,
+            "verse": 15,
+            "text": "Za one zene iz vase porodice koje preljubu pocine, trazite da posvjedoce cetverica između vas, pa ako posvjedoce protiv njih, drzite ih u kucama sve dok ih smrt ne umori ili dok im Allah neki put ne nađe"
+        },
+        {
+            "chapter": 4,
+            "verse": 16,
+            "text": "A ono dvoje koji to ucine, izgrdite, pa ako se pokaju i poprave, onda ih na miru ostavite. Allah je, doista, Onaj Koji stalno prima pokajanja i milostiv je"
+        },
+        {
+            "chapter": 4,
+            "verse": 17,
+            "text": "Allah prima samo pokajanje onih koji ucine kakvo lose djelo iz neznanja, a potom se ubrzo pokaju. Njima ce Allah oprostiti, a Allah je Onaj Koji sve zna i mudar je"
+        },
+        {
+            "chapter": 4,
+            "verse": 18,
+            "text": "Nema pokajanja onima koji cine losa djela sve dok im se ne priblizi smrt, pa onda govore: \"Sad se, doista, kajem!\", niti za one koji umru kao nevjernici. Njima smo bolnu patnju pripremili"
+        },
+        {
+            "chapter": 4,
+            "verse": 19,
+            "text": "O vi koji vjerujete, ne dozvoljava vam se da zene preko volje njihove u naslijeđe uzimate i da im poteskoce pricinjavate s namjerom da nesto od onoga sto ste im dali prisvojite, osim ako budu ucinile ociti razvrat. Prema njima se lijepo ophodite. A ako prema njima ne osjetite zelju, pa moguce je da ne volite nesto u cemu je Allah veliko dobro dao"
+        },
+        {
+            "chapter": 4,
+            "verse": 20,
+            "text": "Ako hocete jednu suprugu zamijeniti drugom, i jednoj od njih dali ste blaga, ne uzimajte od toga nista. Zar da to uzimate cineci potvoru i grijeh ociti"
+        },
+        {
+            "chapter": 4,
+            "verse": 21,
+            "text": "Kako biste mogli to i uzeti, kada ste jedno s drugim intimni bili i kad su one od vas cvrstu obavezu uzele"
+        },
+        {
+            "chapter": 4,
+            "verse": 22,
+            "text": "I ne zenite se onima koje su ozenili ocevi vasi nakon onoga sto je bilo – to su bili razvrat, mrznja i ruzan put"
+        },
+        {
+            "chapter": 4,
+            "verse": 23,
+            "text": "Zabranjuju vam se majke vase, i kceri vase, i sestre vase, i sestre oceva vasih, i sestre majki vasih, i braticne vase i sestricne vase, i pomajke vase, koje su vas dojile, i sestre vase po mlijeku, i majke supruga vasih, i pastorke vase koje se nalaze pod vasim skrbnistvom od supruga vasih s kojim ste imali intimne odnose; ako s njima niste imali intimne odnose, onda vam nije grijeh; i supruge vasih rođenih sinova, i da dvije sestre sastavite, osim sto je ranije bilo! Allah je, doista, Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 4,
+            "verse": 24,
+            "text": "I zabranjuju vam se udate zene, osim onih koje su u vlasnistvu vasem. To vam je propis Allahov! A ostalo vam je dozvoljeno da zelite, svojom imovinom da se njima ozenite, a ne da blud cinite! A suprugama vasim s kojima imate bracne odnose dajte vjencane darove kao sto je propisano. I nije vam grijeh ako se, poslije određenog vjencanog dara, s njima nagodite. Allah je, doista, Onaj Koji sve zna i mudar je"
+        },
+        {
+            "chapter": 4,
+            "verse": 25,
+            "text": "A onaj među vama koji nije dovoljno imucan da se ozeni slobodnom vjernicom – eto mu one vjernice koje su u vasem vlasnistvu – a Allah najbolje zna vjerovanje vase – jedni ste od drugih. I zenite se njima uz odobrenje vlasnika njihovih, i dajte im vjencane darove kako je lijepo i uobicajeno, ako su cedne, a nisu preljubnice, niti tajne ljubavnice. A ako one budu udate, pa pocine razvrat, neka budu kaznjene polovinom kazne propisane za slobodne zene. To je za onoga od vas koji se boji razvrata, a bolje vam je da se uzdrzite, a Allah je Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 4,
+            "verse": 26,
+            "text": "Allah vam zeli objasniti i uputiti vas putevima kojima su isli oni prije vas i oprostiti vam. Allah je Onaj Koji sve zna i mudar je"
+        },
+        {
+            "chapter": 4,
+            "verse": 27,
+            "text": "Allah vam zeli oprostiti, a oni koji se za strastima svojim povode zele da daleko skrenete"
+        },
+        {
+            "chapter": 4,
+            "verse": 28,
+            "text": "Allah vam zeli olaksati, a covjek je stvoren slab"
+        },
+        {
+            "chapter": 4,
+            "verse": 29,
+            "text": "O vi koji vjerujete, jedni od drugih na nedozvoljen nacin imanja ne prisvajajte, osim trgovinom uz obostrani pristanak, i sami sebe ne ubijajte. Allah je, doista, prema vama milostiv"
+        },
+        {
+            "chapter": 4,
+            "verse": 30,
+            "text": "Onoga koji to nepravicno i nasilno ucini, Mi cemo u Vatri prziti, a to je Allahu lahko"
+        },
+        {
+            "chapter": 4,
+            "verse": 31,
+            "text": "Ako se budete klonili velikih grijeha koji su vam zabranjeni, Mi cemo pokriti vasa losa djela i u divno mjesto vas uvesti"
+        },
+        {
+            "chapter": 4,
+            "verse": 32,
+            "text": "I ne pozelite ono cime je Allah neke od vas odlikovao nad drugima: muskarcima pripada udio za ono sto zarade, a zenama udio za ono sto one zarade. I molite Allaha za obilje Njegovo. Allah, doista, sve dobro zna"
+        },
+        {
+            "chapter": 4,
+            "verse": 33,
+            "text": "Za sve smo odredili nasljednike u onome sto ostave roditelji i rođaci, a onima s kojima ste vezani ugovorom dajte njihov dio! Allah je, doista, svemu svjedok"
+        },
+        {
+            "chapter": 4,
+            "verse": 34,
+            "text": "Muskarci su nadređeni i staraju se o zenama zato sto je Allah odlikovao jedne nad drugima i zato sto oni trose imetke svoje. Zbog toga su cestite zene poslusne i za vrijeme muzevljeva odsustva cuvaju ono sto je Allah odredio da se cuva. One cije neposlusnosti se pribojavate vi posavjetujte, a onda napustite postelje njihove, pa ih i udarite. Ako vam postanu poslusne, protiv njih nista ne cinite. Allah je, doista, uzvisen i velik"
+        },
+        {
+            "chapter": 4,
+            "verse": 35,
+            "text": "A ako se bojite razdora između njih dvoje, onda posaljite jednog suca iz njegove, a jednog iz njene porodice. Ako oni zele izmirenje, Allah ce ih pomiriti; Allah je, zaista, sveznajuci i Onaj Koji sve, i u potpunosti, zna"
+        },
+        {
+            "chapter": 4,
+            "verse": 36,
+            "text": "I Allahu ibadet cinite i nista Mu ne pridruzujte, a roditeljima cinite dobro, i rođacima, i sirocadima, i siromasima, i komsiji bliznjem, i komsiji daljnjem, i drugu pored sebe, i putniku, i onome koji je u vasem posjedu. Allah, doista, ne voli one koji se ohole i hvalisu"
+        },
+        {
+            "chapter": 4,
+            "verse": 37,
+            "text": "To su oni koji skrtare i zapovijedaju drugima da budu skrti, i koji kriju ono sto im je Allah iz obilja Svoga darovao, a Mi smo nevjernicima pripremili patnju ponizavajucu"
+        },
+        {
+            "chapter": 4,
+            "verse": 38,
+            "text": "I oni koji trose imetke svoje pretvarajuci se pred ljudima, a u Allaha i ahiret ne vjeruju. A kome je sejtan drug, to mu je zao drug"
+        },
+        {
+            "chapter": 4,
+            "verse": 39,
+            "text": "A sta bi im bilo da u Allaha i Posljednji dan vjeruju i da od onoga sto im je Allah dao udjeljuju?! A Allah o njima sve zna"
+        },
+        {
+            "chapter": 4,
+            "verse": 40,
+            "text": "Zaista Allah ni trunku nepravde ne cini, pa ako to bude dobro djelo, On ce ga umnogostruciti i od Sebe nagradu veliku dati"
+        },
+        {
+            "chapter": 4,
+            "verse": 41,
+            "text": "A sta ce tek biti kada iz svakoga naroda dovedemo svjedoka, a i tebe dovedemo da o ovima svjedocis"
+        },
+        {
+            "chapter": 4,
+            "verse": 42,
+            "text": "Taj dan ce pozeljeti oni koji nisu vjerovali i koji su se protiv Poslanika dizali da zemlja nad njima bude poravnana, a od Allaha nijednu rijec nece moci sakriti"
+        },
+        {
+            "chapter": 4,
+            "verse": 43,
+            "text": "O vi koji vjerujete, ne pristupajte namazu pijani, dok ne budete znali sta govorite, niti kada ste dzunubi, osim kao prolaznici, sve dok se ne okupate. A ako ste bolesni, ili na putu, ili ako je neko od vas dosao iz nuznika, ili ako ste imali odnos sa suprugama, a ne nađete vode, onda dlanovima cistu zemlju dotaknite i lica svoja i ruke svoje potarite. Allah je, doista, Onaj Koji stalno grijehe ponistava i oprasta"
+        },
+        {
+            "chapter": 4,
+            "verse": 44,
+            "text": "Zar ne vidis kako oni kojima je dat udio u Knjizi kupuju zabludu i zele da vi s Pravog puta skrenete"
+        },
+        {
+            "chapter": 4,
+            "verse": 45,
+            "text": "Allah najbolje poznaje neprijatelje vase; Allah je dovoljan zastitnik i Allah je dovoljan pomagac"
+        },
+        {
+            "chapter": 4,
+            "verse": 46,
+            "text": "Onima koji su judejstvo prihvatili, koji izvrcu smisao rijeci govoreci: \"Cujemo, ali se ne pokoravamo!\" i: \"Slusaj, dabogda ne cuo!\" i: \"Cuvaj nas!\", prevrcuci jezicima svojim i huleci vjeru, bolje bi bilo i ispravnije da kazu: \"Slusamo i pokoravamo se!\" i: \"Slusaj!\" i: \"Pogledaj na nas!\" Ali, Allah je njih zbog nevjerovanja njihova prokleo i malo ko od njih vjeruje"
+        },
+        {
+            "chapter": 4,
+            "verse": 47,
+            "text": "O vi kojima je Knjiga data, povjerujte u ovo sto objavljujemo potvrđujuci ono sto vec imate, prije nego sto crte lica izbrisemo i vratimo ih nazad ili ih prokunemo kao sto smo prokleli one koji nisu subotu postivali, a zapovijest Allahova biva izvrsena"
+        },
+        {
+            "chapter": 4,
+            "verse": 48,
+            "text": "Allah, doista, nece oprostiti da se Njemu ista u obozavanju pridruzuje, a oprostit ce sve mimo toga, kome On hoce! A onaj ko drugog Allahu u obozavanju pridruzuje, taj cini potvoru i grijeh veliki"
+        },
+        {
+            "chapter": 4,
+            "verse": 49,
+            "text": "Zar ne vidis one koji sebe smatraju od grijeha cistim?! Međutim, Allah cisti od grijeha koga hoce i nikome se nece, ni koliko nit na hurminoj kospici, zulum uciniti"
+        },
+        {
+            "chapter": 4,
+            "verse": 50,
+            "text": "Pogledaj kako izmisljaju laz o Allahu! To je Allahu dovoljno kao jasan grijeh"
+        },
+        {
+            "chapter": 4,
+            "verse": 51,
+            "text": "Zar ne vidis one kojima je dat udio u Knjizi kako u sihr i taguta – sejtana vjeruju, a onima koji ne vjeruju govore: \"Ovi su na ispravnijem putu od onih koji vjeruju"
+        },
+        {
+            "chapter": 4,
+            "verse": 52,
+            "text": "To su oni koje je Allah prokleo, a ti neces naci da ce pomagaca imati onaj koga je Allah prokleo"
+        },
+        {
+            "chapter": 4,
+            "verse": 53,
+            "text": "Da mozda oni nemaju kakav udio u vlasti?! A da imaju, oni ljudima nista – ni koliko udubljenje na hurminoj kospici – ne bi dali"
+        },
+        {
+            "chapter": 4,
+            "verse": 54,
+            "text": "I zar ljudima zavide na onome sto im je Allah dao iz obilja svoga?! A Mi smo potomcima Ibrahimovim Knjigu i mudrost dali, i dali smo im veliku vlast"
+        },
+        {
+            "chapter": 4,
+            "verse": 55,
+            "text": "Pa, bilo ih je koji su vjerovali, a bilo je i onih koji su od toga odvracali. A dzehennem je dovoljan kao oganj uzareni"
+        },
+        {
+            "chapter": 4,
+            "verse": 56,
+            "text": "Doista, one koji ne vjeruju u ajete i znakove Nase Mi cemo u Vatru baciti, pa kada god im se koze ispeku, zamijenit cemo ih drugim kozama, kako bi patnju osjetili. Allah je, doista, silan i mudar"
+        },
+        {
+            "chapter": 4,
+            "verse": 57,
+            "text": "A one koji vjeruju i dobra djela cine Mi cemo uvesti u dzennetske basce kroz koje rijeke teku. Tamo ce zauvijek ostati i supruge ociscene u njima imati; i u debelu hladovinu cemo ih uvesti"
+        },
+        {
+            "chapter": 4,
+            "verse": 58,
+            "text": "Allah vam, doista, naređuje da emanete date onima kojima pripadaju, a kada ljudima sudite – da pravedno sudite. Savjet Allahov je, uistinu, divan i Allah je, doista, Onaj Koji sve cuje i Onaj Koji sve vidi"
+        },
+        {
+            "chapter": 4,
+            "verse": 59,
+            "text": "O vi koji vjerujete, pokoravajte se Allahu i pokoravajte se Poslaniku i nadleznim između vas. A ako se u necemu ne slazete, obratite se Allahu i Poslaniku, ako vjerujete u Allaha i Posljednji dan. To je bolje i posljedice su ljepse"
+        },
+        {
+            "chapter": 4,
+            "verse": 60,
+            "text": "Zar ne vidis one koji tvrde da vjeruju u ono sto je objavljeno tebi i u ono sto je objavljeno prije tebe kako zele da im se pred tagutom – laznim sudijom sudi, iako im je naređeno da u njega ne vjeruju?! A sejtan samo zeli da ih u veliku zabludu navede"
+        },
+        {
+            "chapter": 4,
+            "verse": 61,
+            "text": "I kada im se kaze: \"Pristupite ovome sto je Allah objavio i pristupite Poslaniku\", vidis licemjere kako se od tebe sasvim okrecu"
+        },
+        {
+            "chapter": 4,
+            "verse": 62,
+            "text": "A sta ce tek biti kada ih pogodi nevolja zbog djela ruku njihovih, pa ti dođu zaklinjuci se Allahom: \"Mi smo samo htjeli da dobro i pravo ucinimo"
+        },
+        {
+            "chapter": 4,
+            "verse": 63,
+            "text": "To su oni za koje Allah zna sta je u srcima njihovim, pa okreni se od njih i savjetuj ih, i reci im ono sto ce ih dirnuti"
+        },
+        {
+            "chapter": 4,
+            "verse": 64,
+            "text": "A mi nismo nijednog poslanika poslali, osim da bi mu se pokoravalo uz Allahovo odobrenje. A da ti oni dođu kada sami sebi zulum ucine i zamole Allaha da im oprosti, pa da i Poslanik zamoli da im se oprosti, oni bi vidjeli da Allah, doista, prima pokajanje i da je milostiv"
+        },
+        {
+            "chapter": 4,
+            "verse": 65,
+            "text": "I, tako Mi Gospodara tvoga, oni nece vjerovati dok za sudiju u sporovima međusobnim tebe ne prihvate, a potom u dusama svojim tegobe ne osjete za ono sto si odredio i sasvim se ne predaju"
+        },
+        {
+            "chapter": 4,
+            "verse": 66,
+            "text": "I da smo Mi njima propisali \"da sami sebe poubijate!\" ili \"da se iselite iz svoga zavicaja!\", malo ko od njih bi to ucinio! A kada bi onako kako im se savjetuje postupili, bilo bi im bolje i u vjeri cvrsce"
+        },
+        {
+            "chapter": 4,
+            "verse": 67,
+            "text": "I tada bismo im Mi, od Nas, veliku nagradu dali"
+        },
+        {
+            "chapter": 4,
+            "verse": 68,
+            "text": "I na Pravi put bismo ih uputili"
+        },
+        {
+            "chapter": 4,
+            "verse": 69,
+            "text": "Oni koji su pokorni Allahu i Poslaniku bit ce u drustvu onih koje je Allah blagodario: vjerovjesnika, onih koji srcem iskreno i u potpunosti vjeruju i sehida i cestitih ljudi, a divno li je to drustvo"
+        },
+        {
+            "chapter": 4,
+            "verse": 70,
+            "text": "To obilje je od Allaha i dovoljno je da Allah sve to dobro zna"
+        },
+        {
+            "chapter": 4,
+            "verse": 71,
+            "text": "O vi koji vjerujete, budite oprezni i idite u borbu u grupama, ili odjednom svi"
+        },
+        {
+            "chapter": 4,
+            "verse": 72,
+            "text": "Među vama ima, doista, onih koji ce oklijevati, pa ce, ako vas pogodi nevolja, takav reci: \"Sam Allah me blagodario sto s njima nisam bio"
+        },
+        {
+            "chapter": 4,
+            "verse": 73,
+            "text": "A ako vas od Allaha dobro zadesi, on ce, kao da između vas i njega nije bilo prijateljstva, sigurno reci: \"Kamo srece da sam s njima bio, veliki plijen bih dobio"
+        },
+        {
+            "chapter": 4,
+            "verse": 74,
+            "text": "I neka se zato na Allahovu putu vjernici bore protiv onih koji zivot na dunjaluku kupuju za ahiret, a onoga ko se na Allahovu putu bori, pa pogine ili pobijedi, Mi cemo, sigurno, velikom nagradom nagraditi"
+        },
+        {
+            "chapter": 4,
+            "verse": 75,
+            "text": "Sta je s vama pa se ne borite na Allahovom putu za nemocne; za muskarce, zene i djecu koji govore: \"Gospodaru nas, izbavi nas iz ovoga grada ciji su stanovnici nasilnici, odredi nam zastitnika i daj nam pomagaca"
+        },
+        {
+            "chapter": 4,
+            "verse": 76,
+            "text": "Oni koji vjeruju bore se na Allahovom putu, a oni koji ne vjeruju bore se na putu taguta – sejtana. Zato se borite protiv sticenika sejtanovih, a sejtanovo lukavstvo, doista, je slabo"
+        },
+        {
+            "chapter": 4,
+            "verse": 77,
+            "text": "Zar nisi vidio one kojima je receno: \"K sebi ruke svoje, vec namaz obavljajte i zekat dajite.\" A kada im bi propisana borba, odjednom se grupa njih poboja ljudi, kao sto se Allaha boji, ili jos vise, i rekose: \"Gospodaru nas, zasto si nam borbu propisao? Da si nam to do određenog vremena odgodio?\" Reci: \"Uzivanje na dunjaluku je kratko, a ahiret je bolji za bogobojazne.\" A vama, ni koliko nit na hurminoj kospici, zulum nece biti ucinjen"
+        },
+        {
+            "chapter": 4,
+            "verse": 78,
+            "text": "Gdje god bili, stici ce vas smrt, pa makar bili i u kulama visokim! Ako ih zadesi kakvo dobro, oni kazu: \"To je od Allaha!\", a ako ih zadesi kakvo zlo, oni govore: \"To je od tebe!\" Reci: \"Sve je od Allaha!\" Pa sta je s ovim ljudima?! Oni kao da ne razumiju sta im se govori"
+        },
+        {
+            "chapter": 4,
+            "verse": 79,
+            "text": "Dobro koje te zadesi, to je od Allaha, a zlo koje te zadesi, to je od tebe. Mi smo te kao poslanika ljudima poslali, a Allah je dovoljan svjedok"
+        },
+        {
+            "chapter": 4,
+            "verse": 80,
+            "text": "Ko se pokori Poslaniku, pokorio se i Allahu, a ko se okrene, pa Mi te nismo poslali da im cuvar budes"
+        },
+        {
+            "chapter": 4,
+            "verse": 81,
+            "text": "Oni govore: \"Pokoravamo se!\", a kada od tebe odu, neki od njih nocu smisljaju drugacije nego sto ti govoris. Allah zapisuje ono sto oni nocu smisljaju. Zato se okreni od njih i u Allaha se pouzdaj, a dovoljan je zastitnik Allah"
+        },
+        {
+            "chapter": 4,
+            "verse": 82,
+            "text": "A zasto oni ne promisljaju o Kur'anu? Jer, da je on od nekoga drugog, a ne od Allaha, oni bi u njemu nasli mnoge protivrjecnosti"
+        },
+        {
+            "chapter": 4,
+            "verse": 83,
+            "text": "A kada im dođe nesto sto se odnosi na sigurnost ili strah, oni to razglase. A da to prepuste Poslaniku ili pretpostavljenim svojima, to bi sigurno od njih saznali oni koji to ispituju. A da nije dobrote Allahove prema vama i milosti Njegove, vi biste, osim nekolicine, sejtana slijedili"
+        },
+        {
+            "chapter": 4,
+            "verse": 84,
+            "text": "Zato se bori na Allahovom putu, ne obavezujuci osim sebe, a vjernike podstici. Allah ce zaustaviti silu onih koji ne vjeruju, a Allah je od njih silniji i kazne Njegove su strozije"
+        },
+        {
+            "chapter": 4,
+            "verse": 85,
+            "text": "Ko se bude za dobro zalagao, i on ce imati udio u tome, a ko se bude za zlo zalagao, i on ce imati udio u tome. A Allah nad svim bdije"
+        },
+        {
+            "chapter": 4,
+            "verse": 86,
+            "text": "Kada pozdravljeni budete, na ljepsi nacin uzvratite, ili isto otpozdravite, a Allah, doista, sve obracunava"
+        },
+        {
+            "chapter": 4,
+            "verse": 87,
+            "text": "Allah, osim Koga drugoga boga nema, sigurno ce vas sakupiti na Sudnjem danu, u sto nema nimalo sumnje, a ciji je govor istinitiji od Allahovog"
+        },
+        {
+            "chapter": 4,
+            "verse": 88,
+            "text": "Zasto se podvajate kada su u pitanju licemjeri koje je Allah vratio u nevjerstvo zbog onoga sto su sami zasluzili? Zar zelite na Pravi put uputiti one kojima je Allah dao da su u zabludi? A kome Allah da da je u zabludi, ti mu neces Put naci"
+        },
+        {
+            "chapter": 4,
+            "verse": 89,
+            "text": "Oni bi voljeli da i vi ne vjerujete kao sto oni ne vjeruju, pa da budete jednaki. Zato, između njih ne uzimajte prijatelje dok se na Allahovom Putu ne isele. A ako se okrenu, onda ih zarobljavajte i ubijajte gdje god ih nađete i od njih prijatelje ni pomagace ne uzimajte"
+        },
+        {
+            "chapter": 4,
+            "verse": 90,
+            "text": "osim onih koji se sklone kod naroda s kojim vi imate ugovor, ili dođu kod vas, jer im je tesko boriti se protiv vas ili svoga roda. A da Allah hoce, on bi ih okrenuo protiv vas, pa bi se oni borili protiv vas! Ako vas oni ostave na miru i ne bore se protiv vas, nego vam ponude mir, onda vam Allah ne daje pravo da ih napadate"
+        },
+        {
+            "chapter": 4,
+            "verse": 91,
+            "text": "Vi cete nalaziti druge koji zele biti sigurni od vas i naroda svog, pa kada god budu vraceni na smutnju – sirk, oni mu se jos vise predaju. Ako se oni ne okane vas, i ne ponude vam mir, i ako vas se ne klone, onda ih hvatajte i ubijajte gdje god stignete, a Mi smo vam za borbu protiv njih jasan dokaz dali"
+        },
+        {
+            "chapter": 4,
+            "verse": 92,
+            "text": "Vjernik ne moze ubiti vjernika osim greskom, a ko ubije vjernika greskom, on mora osloboditi roba vjernika, i predati krvarinu porodici njegovoj, izuzev ako oni to oproste. Ako on pripada narodu koji vam je neprijatelj, a vjernik je, on mora osloboditi jednog roba vjernika! Ako, pak, pripada narodu s kojim imate sporazum, tada mora dati krvarinu porodici njegovoj i osloboditi roba vjernika! Ko to ne nađe, obavezan je postiti dva mjeseca uzastopno, kajuci se Allahu. A Allah je Onaj Koji sve zna i mudar je"
+        },
+        {
+            "chapter": 4,
+            "verse": 93,
+            "text": "A ko hotimicno ubije vjernika, kazna mu je dzehennem u kojem ce vjecno ostati. Na njega se Allah rasrdi i proklete ga, a jos mu je i patnju veliku pripremio"
+        },
+        {
+            "chapter": 4,
+            "verse": 94,
+            "text": "O vi koji vjerujete, kada u boj na Allahovom putu krenete, sve dobro provjerite i onome ko vam nazove selam nemojte reci: \"Ti nisi vjernik!\", u zelji za prolaznim dobrima dunjaluckog zivota, jer kod Allaha su mnoga dobra. Takvi ste ranije i vi bili, pa vam je Allah darovao milost Svoju. Zato, sve dobro provjerite, a Allah, doista, dobro zna ono sto vi radite"
+        },
+        {
+            "chapter": 4,
+            "verse": 95,
+            "text": "Vjernici koji se ne bore, osim onih koji su nesposobni, ne mogu se izjednaciti s onima koji se na Allahovu putu bore imecima svojim i zivotima svojim. One koji se bore imecima svojim i zivotima svojim Allah je odlikovao za stepen nad onima koji se ne bore, i svima Allah obecava lijepu nagradu. A Allah je borce, u odnosu na one koji se ne bore, odlikovao velikom nagradom"
+        },
+        {
+            "chapter": 4,
+            "verse": 96,
+            "text": "polozajima kod Njega, oprostom i miloscu, a Allah je Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 4,
+            "verse": 97,
+            "text": "Doista ce meleki, kada budu uzimali duse onima koji su prema sebi zulum ucinili, pitati: \"Sta je bilo s vama?'', a oni ce odgovoriti: \"Bili smo nemocni na Zemlji.\" \"Zar Allahova Zemlja nije prostrana i zar se niste mogli nekuda iseliti?'', reci ce im oni. Zato ce njihovo prebivaliste biti dzehennem, a lose je to konacno odrediste"
+        },
+        {
+            "chapter": 4,
+            "verse": 98,
+            "text": "Izuzetak su nemocni muskarci, i zene, i djeca, koji se snaci ne mogu i koji ne nađu puta"
+        },
+        {
+            "chapter": 4,
+            "verse": 99,
+            "text": "Allah ce njima oprostiti; Allah je Onaj Koji stalno ponistava grijehe i oprasta"
+        },
+        {
+            "chapter": 4,
+            "verse": 100,
+            "text": "Ko se iseli na putu Allahovom, na Zemlji ce naci mnogo mjesta i obilja! A onaj ko napusti svoj dom, iseljavajuci se radi Allaha i Njegovoga Poslanika, pa ga stigne smrt, od Allaha ce dobiti nagradu. Allah je Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 4,
+            "verse": 101,
+            "text": "Kada idete po Zemlji, nije vam grijeh namaz skratiti ako se bojite da ce vam smutnju nevjernici uciniti, jer nevjernici su vam, doista, otvoreni neprijatelji"
+        },
+        {
+            "chapter": 4,
+            "verse": 102,
+            "text": "Kada ti budes među njima i budes ih u namazu predvodio, neka jedna grupa s tobom klanja i neka svoje oruzje uzmu; i dok budu na sedzdi, neka drugi budu iza vas, a onda neka dođe druga grupa koja nije klanjala i neka s tobom klanjaju, ali neka drze oruzje svoje i oprezni budu. Nevjernici jedva cekaju da vi zanemarite oruzje svoje i opremu svoju, pa da na vas svi odjednom navale. A ako vam bude smetala kisa ili budete bolesni, nije vam grijeh oruzje svoje odloziti, ali, oprezni budite.Allah je, doista, nevjernicima ponizavajucu patnju pripremio"
+        },
+        {
+            "chapter": 4,
+            "verse": 103,
+            "text": "A kada namaz zavrsite, Allaha spominjite, i stojeci, i sjedeci, i lezeci na bokovima. A kada budete sigurni, namaz obavljajte u potpunosti; namaz je, uistinu, propisan vjernicima u određenim vremenskim razmacima"
+        },
+        {
+            "chapter": 4,
+            "verse": 104,
+            "text": "I nemojte malaksati tragajuci za neprijateljem; ako vi trpite bol, trpe i oni bol kao i vi, a vi se jos od Allaha nadate onome cemu se oni ne nadaju. Allah je Onaj Koji sve zna i mudar je"
+        },
+        {
+            "chapter": 4,
+            "verse": 105,
+            "text": "Mi tebi objavljujemo Knjigu s istinom, da ljudima sudis onako kako ti Allah pokazuje i ne budi branilac izdajicama"
+        },
+        {
+            "chapter": 4,
+            "verse": 106,
+            "text": "I Allaha moli za oprost; Allah je, uistinu, Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 4,
+            "verse": 107,
+            "text": "I ne zauzimaj se za one koji sami sebe iznevjeravaju, Allah, doista, ne voli onoga koji je pronevjeritelj i gresnik"
+        },
+        {
+            "chapter": 4,
+            "verse": 108,
+            "text": "Oni se kriju od ljudi, a ne kriju se od Allaha, a On je s njima i kada nocu smisljaju rijeci kojima On nije zadovoljan. A Allah sve sto oni rade, obuhvata"
+        },
+        {
+            "chapter": 4,
+            "verse": 109,
+            "text": "Eto, vi se zauzimate za njih u zivotu na dunjaluku, a ko ce se pred Allahom za njih zauzimati na Kijametskom danu, ili ko ce im zastupnik biti"
+        },
+        {
+            "chapter": 4,
+            "verse": 110,
+            "text": "Ko ucini kakvo zlo, ili prema sebi zulum ucini, a zatim Allaha moli da mu oprosti, naci ce da Allah je Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 4,
+            "verse": 111,
+            "text": "Ko grijeh uradi, na svoju stetu ga je uradio, a Allah je Onaj Koji sve zna i mudar je"
+        },
+        {
+            "chapter": 4,
+            "verse": 112,
+            "text": "Ko pocini prestup ili grijeh, a potom zato optuzi neduzna covjeka, natovario je na sebe i kletvu i grijeh ociti"
+        },
+        {
+            "chapter": 4,
+            "verse": 113,
+            "text": "Da nije Allahove dobrote i milosti Njegove prema tebi, jedna skupina njih bi nastojala da te zavede, ali oni samo sebe zavode, a tebi ne mogu nista nauditi. Allah tebi objavljuje Knjigu i mudrost i poucava te onome sto nisi znao a Allahovo dobro prema tebi je veliko"
+        },
+        {
+            "chapter": 4,
+            "verse": 114,
+            "text": "Nema dobra u mnogim njihovim potajnim govorima, osim u govoru onog ko trazi da se sadaka udjeljuje, ili dobro cini, ili uspostavlja mir među ljudima. Onome ko to cini iz zelje za Allahovim zadovoljstvom, Mi cemo veliku nagradu dati"
+        },
+        {
+            "chapter": 4,
+            "verse": 115,
+            "text": "A onoga ko se suprotstavi Poslaniku, nakon sto mu jasno bude pokazan Pravi put, i slijedi put koji nije put vjernika, pustit cemo da cini sto je naumio, i bacit cemo ga u dzehennem, a lose je to konacno odrediste"
+        },
+        {
+            "chapter": 4,
+            "verse": 116,
+            "text": "Allah, doista, nece oprostiti da se Njemu ista u obozavanju pridruzuje, a kome hoce oprostit ce sve osim toga; onaj ko Allahu ista u obozavanju pridruzuje – doista je daleko zalutao"
+        },
+        {
+            "chapter": 4,
+            "verse": 117,
+            "text": "Oni mimo Allaha samo zenske kumire prizivaju i ne prizivaju drugog do sejtana prkosnika"
+        },
+        {
+            "chapter": 4,
+            "verse": 118,
+            "text": "Allah ga je prokleo, a on je rekao: \"Ja cu sigurno preuzeti za sebe određeni dio Tvojih robova"
+        },
+        {
+            "chapter": 4,
+            "verse": 119,
+            "text": "I sigurno cu ih navoditi u zabludu, i sigurno ih laznim nadama mamiti, i zapovjedit cu im sigurno da usi stoci rezu, i sigurno cu im narediti da Allahovo stvaranje preinacavaju!\" A ko sejtana, umjesto Allaha, za zastitnika prihvati, on je na gubitku ocitom"
+        },
+        {
+            "chapter": 4,
+            "verse": 120,
+            "text": "On im obecanja daje i laznim nadama ih mami. A ono sto im sejtan obecava samo je obmana"
+        },
+        {
+            "chapter": 4,
+            "verse": 121,
+            "text": "To su oni cije je prebivaliste dzehennem, i oni iz njega nece spasa naci"
+        },
+        {
+            "chapter": 4,
+            "verse": 122,
+            "text": "A one koji vjeruju i dobra djela cine Mi cemo uvesti u basce dzennetske kroz koje rijeke teku, i u kojima ce vjecno ostati. Obecanje Allahovo je istinito, a cije su rijeci od Allahovih istinitije"
+        },
+        {
+            "chapter": 4,
+            "verse": 123,
+            "text": "To nece biti ni po vasim zeljama, ni po zeljama sljedbenika Knjige; onaj koji radi zlo, bit ce kaznjen za to i nece naci, mimo Allaha, ni zastitnika ni pomagaca"
+        },
+        {
+            "chapter": 4,
+            "verse": 124,
+            "text": "a onaj koji cini dobro, bio muskarac ili zena, a vjernik je, uci ce u dzennet i nikome, ni koliko udubljenje na hurminoj kospici, zulum nece biti nanesen"
+        },
+        {
+            "chapter": 4,
+            "verse": 125,
+            "text": "Ko je bolje vjere od onoga ko je predao svoje lice Allahu, a dobrocinitelj je i slijedi vjeru Ibrahimovu, koji je bio vjere ciste?! A Allah je uzeo Ibrahima za prijatelja"
+        },
+        {
+            "chapter": 4,
+            "verse": 126,
+            "text": "Allahovo je sve sto je na nebesima i sto je na Zemlji. Allah sve obuhvata"
+        },
+        {
+            "chapter": 4,
+            "verse": 127,
+            "text": "Oni traze od tebe propise o zenama. Reci: \"Allah ce vam objasniti propise o njima i o onome sto vam se cita u Knjizi o zenama –siroticama, kojima ne dajete ono sto im je propisano, a ne zelite da se njima ozenite, i o nejakoj djeci, i o tome da prema sirocadi pravedno postupate. A Allah sigurno zna za dobro koje ucinite"
+        },
+        {
+            "chapter": 4,
+            "verse": 128,
+            "text": "Ako se neka zena plasi muzeve mrznje ili izbjegavanja, onda se oni nece ogrijesiti ako se međusobno nagode, a nagodba je bolja. Ljudske duse sklone su pohlepi. I ako vi budete lijepo postupali i Allaha se bojali – pa Allah u potpunosti zna ono sto radite"
+        },
+        {
+            "chapter": 4,
+            "verse": 129,
+            "text": "Vi necete moci potpuno jednako postupati prema suprugama svojim ma koliko to zeljeli. I nemojte prema nekoj sasvim naginjati pa da neku ucinite kao da je bez muza, a nerazvedena. A ako se popravite i Allaha bojite, pa Allah je, uistinu, Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 4,
+            "verse": 130,
+            "text": "A ako se njih dvoje ipak rastave, Allah ce ih, iz obilja Svoga, neovisnim uciniti. Allah je neizmjerno darezljiv i mudar"
+        },
+        {
+            "chapter": 4,
+            "verse": 131,
+            "text": "Allahovo je ono sto je na nebesima i ono sto je na Zemlji. Mi smo onima kojima je data Knjiga prije vas, a i vama, vec zapovjedili da se bojite Allaha. A ako ne budete vjerovali, pa, uistinu, Allahovo je ono sto je na nebesima i ono sto je na Zemlji, Allah je neovisan i hvaljen"
+        },
+        {
+            "chapter": 4,
+            "verse": 132,
+            "text": "Allahovo je ono sto je na nebesima i sto je na Zemlji, i Allah je kao zastitnik dovoljan"
+        },
+        {
+            "chapter": 4,
+            "verse": 133,
+            "text": "Ako On hoce, vas ce ukloniti, o ljudi, a druge ce dovesti! On je kadar to uciniti"
+        },
+        {
+            "chapter": 4,
+            "verse": 134,
+            "text": "Onaj koji zeli nagradu na dunjaluku, pa u Allaha je nagrada i ovoga i onoga svijeta; Allah je Onaj Koji sve cuje i Onaj Koji sve vidi"
+        },
+        {
+            "chapter": 4,
+            "verse": 135,
+            "text": "O vi koji vjerujete, budite uvijek pravedni, svjedocite radi Allaha, pa makar to bilo protiv vas samih, ili roditelja i rodbine. Bude li onaj o kome svjedocite bogat ili siromah, pa Allah je preci njima! I ne slijedite strasti, kako ne biste bili nepravedni. A ako budete krivo svjedocili ili svjedocenje izbjegavati, pa Allah, zaista, u potpunosti zna ono sto radite"
+        },
+        {
+            "chapter": 4,
+            "verse": 136,
+            "text": "O vi koji vjerujete, vjerujte u Allaha i Poslanika Njegova, i u Knjigu koju On Svome Poslaniku objavljuje i u knjige koje je objavio prije. A onaj koji ne bude vjerovao u Allaha, i u meleke Njegove, i u knjige Njegove, i u poslanike Njegove, i u Posljednji dan – daleko je zalutao"
+        },
+        {
+            "chapter": 4,
+            "verse": 137,
+            "text": "Onima koji su bili vjernici, a zatim postali nevjernici, pa opet postali vjernici i ponovo postali nevjernici, i pojacali nevjerovanje, Allah, doista, nece oprostiti i nece ih na Pravi put izvesti"
+        },
+        {
+            "chapter": 4,
+            "verse": 138,
+            "text": "Bolnu patnju navijesti licemjerima"
+        },
+        {
+            "chapter": 4,
+            "verse": 139,
+            "text": "koji prisno prijateljuju s nevjernicima, mimo vjernika! Zar od njih traze moc, a sva moc pripada samo Allahu"
+        },
+        {
+            "chapter": 4,
+            "verse": 140,
+            "text": "On vam je vec u Knjizi objavio: \"Kada cujete da su Allahove rijeci predmet poricanja i izrugivanja, ne sjedite s onima koji to cine dok ne stupe u drugi razgovor, inace, bit cete kao oni.\" Allah ce, sigurno, sastaviti u dzehennemu sve licemjere i nevjernike"
+        },
+        {
+            "chapter": 4,
+            "verse": 141,
+            "text": "one koji iscekuju sta ce biti s vama. Pa ako vam Allah daruje pobjedu, oni reknu: \"Zar nismo bili uz vas\", a ako sreca posluzi nevjernike, onda govore njima: \"Zar vas nismo mogli pobijediti, i zar vas nismo odbranili od vjernika?!\" Na Kijametskom danu Allah ce vam svima presuditi! A Allah nece dati priliku nevjernicima da uniste vjernike"
+        },
+        {
+            "chapter": 4,
+            "verse": 142,
+            "text": "Licemjeri, zaista, nastoje prevariti Allaha, a On ce njih nadmudriti. Kada ustaju da namaz obavljaju, lijeno se dizu i prikazuju se svijetu, a Allaha samo malo spominju"
+        },
+        {
+            "chapter": 4,
+            "verse": 143,
+            "text": "Kolebaju se između ovoga i toga – vjerovanja i nevjerovanja, niti su sa ovima niti sa onima. A onome kome Allah da da je u zabludi neces naci puta ka Uputi"
+        },
+        {
+            "chapter": 4,
+            "verse": 144,
+            "text": "O vi koji vjerujete, ne uzimajte za zastitnike i prijatelje nevjernike umjesto vjernika! Zar hocete da pruzite Allahu ocigledan dokaz protiv sebe"
+        },
+        {
+            "chapter": 4,
+            "verse": 145,
+            "text": "Licemjeri ce, doista, na samom dnu dzehennema biti i ti im neces pomagaca naci"
+        },
+        {
+            "chapter": 4,
+            "verse": 146,
+            "text": "Osim onih koji se pokaju i poprave i koji cvrsto Allaha prihvate i vjeru svoju u Allaha iskreno ispolje, oni ce biti s vjernicima, a Allah ce, sigurno, vjernicima veliku nagradu dati"
+        },
+        {
+            "chapter": 4,
+            "verse": 147,
+            "text": "Zasto bi vas Allah kaznjavao ako budete zahvaljivali i vjerovali!? Allah je zahvalan i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 4,
+            "verse": 148,
+            "text": "Allah ne voli da se o zlu glasno govori, to moze samo onaj kome je zulum ucinjen. A Allah je Onaj Koji sve cuje i Onaj Koji sve zna"
+        },
+        {
+            "chapter": 4,
+            "verse": 149,
+            "text": "Bilo da vi dobro djelo javno ucinite, ili ga sakrijete, ili nepravdu oprostite – pa Allah je Onaj Koji stalno ponistava grijehe i svemocan je"
+        },
+        {
+            "chapter": 4,
+            "verse": 150,
+            "text": "Oni koji u Allaha i poslanike Njegove ne vjeruju i zele između Allaha i poslanika Njegovih u vjerovanju napraviti razliku, te govore: \"U neke vjerujemo, a u neke ne vjerujemo\", i zele između to dvoje iznaci put neki"
+        },
+        {
+            "chapter": 4,
+            "verse": 151,
+            "text": "oni su zbilja pravi nevjernici, a Mi smo nevjernicima pripremili ponizavajucu patnju"
+        },
+        {
+            "chapter": 4,
+            "verse": 152,
+            "text": "A one koji u Allaha i poslanike Njegove vjeruju i ni jednoga od njih ne izdvajaju – On ce, sigurno, nagraditi. A Allah je Onaj Koji oprasta grijehe i milostiv je"
+        },
+        {
+            "chapter": 4,
+            "verse": 153,
+            "text": "Oni kojima je data Knjiga traze od tebe da im s neba spustis Knjigu. Pa od Musaa su trazili i vise od toga, kad su rekli: \"Pokazi nam Allaha!\" Pa ih je, zbog zuluma njihova, munja osinula. Poslije su, kada su im ocigledni dokazi pokazani, tele za bozanstvo prihvatili, ali smo i to oprostili, a Musau smo protiv njih ociti dokaz dali"
+        },
+        {
+            "chapter": 4,
+            "verse": 154,
+            "text": "I iznad njih smo brdo digli, zbog zavjeta koji su dali, i rekli smo im: \"Na kapiju pognutih glava uđite!\" I jos smo rekli: \"Subotu ne oskrnavite!\" I od njih smo cvrsto obecanje uzeli"
+        },
+        {
+            "chapter": 4,
+            "verse": 155,
+            "text": "Zato sto su zavjet prekrsili i sto u Allahove ajete i znakove nisu povjerovali, sto su bez razloga vjerovjesnike ubijali i sto su govorili: \"Nasa srca su u omotu\", Allah je, zbog nevjerovanja, njihova srca zapecatio, pa ih samo malo vjeruje"
+        },
+        {
+            "chapter": 4,
+            "verse": 156,
+            "text": "I zbog nevjerovanja njihovoga i zbog iznosenja teske klevete protiv Merjeme"
+        },
+        {
+            "chapter": 4,
+            "verse": 157,
+            "text": "I zbog rijeci njihovih: \"Mi smo ubili Mesiha, Isaa, sina Merjemina, Allahova poslanika.\" A nisu ga ubili, ni razapeli, vec im se pricinilo. Oni koji su se o njemu u misljenju razisli, zaista su u sumnji u pogledu njega; o tome nista pouzdano ne znaju, samo se za nagađanjem povode; a sigurno je da ga nisu ubili"
+        },
+        {
+            "chapter": 4,
+            "verse": 158,
+            "text": "vec ga je Allah uzdigao Sebi. A Allah je silan i mudar"
+        },
+        {
+            "chapter": 4,
+            "verse": 159,
+            "text": "I nema nijednog sljedbenika Knjige koji, prije njegove smrti, nece u njega kako treba povjerovati, a na Kijametskom danu on ce protiv njih svjedociti"
+        },
+        {
+            "chapter": 4,
+            "verse": 160,
+            "text": "I zbog zuluma jevreja Mi smo im neka lijepa jela zabranili, koja su im bila dozvoljena, i zbog toga sto su mnoge od Allahova puta odvracali"
+        },
+        {
+            "chapter": 4,
+            "verse": 161,
+            "text": "I zato sto su kamatu uzimali, a bilo im je zabranjeno, i zato sto su tuđe imetke na nedozvoljen nacin jeli. A za nevjernike među njima Mi smo patnju bolnu pripremili"
+        },
+        {
+            "chapter": 4,
+            "verse": 162,
+            "text": "Ali oni među njima koji su u znanje duboko pronikli, i vjernici koji vjeruju u ono sto se objavljuje tebi i u ono sto je objavljeno prije tebe, narocito oni koji namaz obavljaju i oni koji zekat daju i u Allaha i Posljednji dan vjeruju – njima cemo sigurno veliku nagradu dati"
+        },
+        {
+            "chapter": 4,
+            "verse": 163,
+            "text": "Mi objavljujemo tebi kao sto smo objavljivali Nuhu i vjerovjesnicima poslije njega, objavljivali smo Ibrahimu, i Ismailu i Ishaku i Jakubu i potomcima, i Isau, i Ejjubu, i Junusu, i Harunu, i Sulejmanu, a Davudu smo dali Zebur"
+        },
+        {
+            "chapter": 4,
+            "verse": 164,
+            "text": "i poslali smo poslanike o kojima smo ti prije kazivali i poslanike o kojima ti nismo kazivali. A Allah je sigurno s Musaom razgovarao"
+        },
+        {
+            "chapter": 4,
+            "verse": 165,
+            "text": "Poslali smo poslanike koji su radosne vijesti i opomene donosili, da ljudi poslije poslanika ne bi nikakvog opravdanja pred Allahom imali. A Allah je silan i mudar"
+        },
+        {
+            "chapter": 4,
+            "verse": 166,
+            "text": "Allah svjedoci da je istina ono sto ti objavljuje, objavljuje ga Svojim znanjem, a i meleki svjedoce. A dovoljan je Allah kao svjedok"
+        },
+        {
+            "chapter": 4,
+            "verse": 167,
+            "text": "Doista, oni koji ne vjeruju i koji druge od Allahova puta odvracaju, daleko su zalutali"
+        },
+        {
+            "chapter": 4,
+            "verse": 168,
+            "text": "Onima koji ne vjeruju i koji zulum cine, Allah, doista, nece oprostiti i nece ih na put uputiti"
+        },
+        {
+            "chapter": 4,
+            "verse": 169,
+            "text": "osim puta u dzehennem, u kojem ce vjecno i zauvijek ostati; to je Allahu lahko"
+        },
+        {
+            "chapter": 4,
+            "verse": 170,
+            "text": "O ljudi, Poslanik vam je vec donio istinu od Gospodara vaseg; zato, vjerujte – bolje vam je! A ako ne budete vjerovali – pa zaista je Allahovo sve sto je na nebesima i na Zemlji. Allah je Onaj Koji sve zna i mudar je"
+        },
+        {
+            "chapter": 4,
+            "verse": 171,
+            "text": "O vi kojima je data Knjiga, ne zastranjujte u svom vjerovanju i o Allahu govorite samo istinu! Mesih, Isa, sin Merjemin, samo je Allahov poslanik, i Njegova Rijec, koju je Merjemi dostavio, i duh Njegov; zato vjerujte u Allaha i Njegove poslanike i ne govorite: \"Trojica su!\" Prestanite, bolje vam je! Allah je samo jedan bog, uzvisen neka je On, zar da ima dijete?! Njegovo je ono sto je na nebesima i ono sto je na Zemlji, i Allah je dovoljan kao zastitnik"
+        },
+        {
+            "chapter": 4,
+            "verse": 172,
+            "text": "Mesih se nece sustezati da bude Allahov rob, pa ni meleki, Njemu bliski. A one koji se budu sustezali da Njemu ibadet cine, i one koji se budu oholili, Allah ce pred Sobom sakupiti"
+        },
+        {
+            "chapter": 4,
+            "verse": 173,
+            "text": "Vjernike koji su dobra djela cinili On ce prema zasluzi nagraditi i jos ce im, iz obilja Svoga, vise dati; a one koji su zazorni bili i oholili se – na bolne ce muke staviti i oni nece naci sebi, mimo Allaha, ni zastitnika ni pomagaca"
+        },
+        {
+            "chapter": 4,
+            "verse": 174,
+            "text": "O ljudi, dokaz vam je vec stigao od Gospodara vaseg i Mi smo vam objavili jasnu Svjetlost"
+        },
+        {
+            "chapter": 4,
+            "verse": 175,
+            "text": "One koji budu u Allaha vjerovali i cvrsto Ga se drzali On ce sigurno u milost Svoju i blagodat uvesti i Pravim putem Sebi uputiti"
+        },
+        {
+            "chapter": 4,
+            "verse": 176,
+            "text": "Oni traze od tebe tumacenje. Reci: \"Allah ce vam kazati propis o onome ko nema ni roditelja ni djece: ako neko umre i ne bude imao djeteta, a ima sestru, njoj polovina njegove ostavstine pripada, a on ce naslijediti nju ako ona ne bude imala dijete; a ako su dvije sestre, njima pripadaju dvije trecine njegove ostavstine. A ako su oni braca i sestre, onda ce muski dio nasljedstva biti jednak iznosu dva dijela zenskog. To vam Allah objasnjava, da ne zalutate. A Allah sve dobro zna"
+        }
+    ]
+}
