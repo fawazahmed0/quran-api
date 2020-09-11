@@ -189,6 +189,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqs.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqs.min.json"
     },
+    "ara_quranuthmanienc": {
+        "name": "ara-quranuthmanienc",
+        "author": "Quran Uthmani Enc",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://quranenc.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanienc.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanienc.min.json"
+    },
     "ara_quranuthmanihaf": {
         "name": "ara-quranuthmanihaf",
         "author": "Quran Uthmani Hafs",
@@ -789,6 +799,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhamidul.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhamidul.min.json"
     },
+    "hau_abubakarmahmoud_la": {
+        "name": "hau-abubakarmahmoud-la",
+        "author": "Abubakar Mahmoud Gumi",
+        "language": "Hausa",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmoud-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmoud-la.min.json"
+    },
+    "hau_abubakarmahmoud": {
+        "name": "hau-abubakarmahmoud",
+        "author": "Abubakar Mahmoud Gumi",
+        "language": "Hausa",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmoud.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmoud.min.json"
+    },
     "hin_muhammadfarooqk_la": {
         "name": "hin-muhammadfarooqk-la",
         "author": "Muhammad Farooq Khan And Muhammad Ahmed",
@@ -949,6 +979,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kor-unknown.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kor-unknown.min.json"
     },
+    "kur_burhanmuhammada": {
+        "name": "kur-burhanmuhammada",
+        "author": "Burhan Muhammad Amin",
+        "language": "Kurdish",
+        "direction": "rtl",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-burhanmuhammada.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-burhanmuhammada.min.json"
+    },
     "mal_cheriyamundamab_la": {
         "name": "mal-cheriyamundamab-la",
         "author": "Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor",
@@ -1088,6 +1128,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pol-jozefabielawski.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pol-jozefabielawski.min.json"
+    },
+    "por_samirelhayek_la": {
+        "name": "por-samirelhayek-la",
+        "author": "Samir El Hayek",
+        "language": "Portuguese",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/por-samirelhayek-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/por-samirelhayek-la.min.json"
+    },
+    "por_samirelhayek": {
+        "name": "por-samirelhayek",
+        "author": "Samir El Hayek",
+        "language": "Portuguese",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/por-samirelhayek.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/por-samirelhayek.min.json"
     },
     "pus_abdulwalikhan": {
         "name": "pus-abdulwalikhan",
@@ -1808,6 +1868,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.min.json"
+    },
+    "urd_muhammadjunagar1": {
+        "name": "urd-muhammadjunagar1",
+        "author": "Muhammad Junagarhi",
+        "language": "Urdu",
+        "direction": "ltr",
+        "source": "http://www.quranraj.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.min.json"
     },
     "urd_syedzeeshanhaid": {
         "name": "urd-syedzeeshanhaid",
