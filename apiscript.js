@@ -159,6 +159,32 @@ async function create(update) {
       }
 
     }
+    // if it exists, then we will clean that json and store the language with isocode
+    else {
+      // Cleaning and lowercasing the json
+      jsondata = cleanifyObject(jsondata)
+      // This will store the language name and isocode
+      var temp = []
+      // Cleaning or defining the language
+      if (!jsondata['language']) {
+        // detect langauge if it's not already defined
+        temp = isoLangMap(detectLang(arr))
+      } else {
+        // mapping the langauge name to iso language name
+        temp = isoLangMap([jsondata['language']])
+        // if the above fails, then we will have to detect the language
+        if (!Array.isArray(temp))
+          temp = isoLangMap(detectLang(arr))
+      }
+      // If the language is still not detected, we will skip this translation
+      if (!Array.isArray(temp)) {
+        logmsg("\nPlease specify the proper iso name of the language in json, Skipping this translation " + filename)
+        continue;
+      }
+      // Assigning isoname of the language and it's isocode
+      jsondata['language'] = temp[0]
+      jsondata['iso'] = temp[1]
+    }
     // validates the translation for mistakes such as extra newline etc and corrects it and clean the translation from any number patterns ,etc
     var cleanarr = validateCleanTrans(filterarr, filename, orgarr)
 
@@ -654,8 +680,8 @@ async function fontsGen() {
       })
     }
     // closing the browser incase, if it was launched
-    if(fullPathArr.length>0)
-    await browser.close()
+    if (fullPathArr.length > 0)
+      await browser.close()
   } // End of if
 
   // Now have to generate fonts.json listings
@@ -915,37 +941,12 @@ function checkduplicateTrans(arr) {
   }
 }
 
-// cleans the json from file and generates with standard naming conventions
-async function generateJSON(arr, jsondata, editionName) {
-  // lowercase for all json , trimming white spaces and also removing empty json and also cleaning the keys and values
-  //https://stackoverflow.com/a/54985484/2437224
-  var newjson = Object.fromEntries(
-    Object.entries(jsondata).map(([k, v]) => {
-      if (v != undefined && v)
-        return ["" + k.replace(/[^A-Za-z]+/gi, "").trim().toLowerCase(), "" + v.replace(/\s\s+/gi, " ").trim()]
-      return ["", ""]
-    })
-  );
-  // removing empty keys
-  delete newjson[""]
+// Generates the json with standard naming conventions
+async function generateJSON(arr, newjson, editionName) {
 
-  // Cleaning or defining the language
-  if (!newjson['language']) {
-    // detect langauge if it's not already defined
-    temp = isoLangMap(detectLang(arr))
-  } else {
-    // mapping the langauge name to iso langauge name
-    temp = isoLangMap([newjson['language']])
-    // if the above fails, then we will have to detect the language
-    if (!Array.isArray(temp))
-      temp = isoLangMap(detectLang(arr))
-  }
-
-  if (!Array.isArray(temp))
-    logmsg("\n\nplease specify the language in json ")
-  // The script will stop execution if translate.py wasn't able to detect the language and temp is not an array
-  newjson['language'] = temp[0]
-  var isocode = temp[1]
+  var isocode = newjson['iso']
+  // Deleting iso key, as it might create a bug in the future, as this key was added later to solve an issue in actions enviroment
+  delete newjson['iso']
   // capitalize first letters
   newjson['language'] = capitalize(newjson['language'])
   // If values are undefined we will assign it as empty string
@@ -1073,7 +1074,12 @@ function detectLang(arr) {
   // No of lines to take of the translation to detect the langauge
   var linesToTake = 7
   var result = runPyScript(path.join(__dirname, 'translate.py'), ['detect', arr.slice(0, linesToTake).join('\n')])
-  result = JSON.parse(result).lang
+  try {
+    result = JSON.parse(result).lang
+  } catch (e) {
+    logmsg("\n Language detection failed, Unknown language")
+    return "unknown"
+  }
 
   for (var [code, lang] of Object.entries(gLangCodes)) {
     if (code.toLowerCase() == result.toLowerCase())
@@ -1204,11 +1210,11 @@ async function genLatin(arr, edName) {
   if (latinarr.length == arr.length && arr.length * 0.8 < filteredlatinarr.length) {
     logmsg("\nlatin script generated for this language")
     return latinarr
-  }else{
+  } else {
     logmsg("\n latin script generated but the number of lines are " + latinarr.length + ', so not considering it altogether')
     // It will generated incase the latinarr after empty line filtering i.e filteredlatinarr is 6236 lines
     return filteredlatinarr
-}
+  }
 
 
 }
@@ -1275,6 +1281,23 @@ function isValidJSON(str) {
     return false;
   }
 }
+
+// cleans the json
+function cleanifyObject(jsondata) {
+  // lowercase for all json , trimming white spaces and also removing empty json and also cleaning the keys and values
+  //https://stackoverflow.com/a/54985484/2437224
+  var newjson = Object.fromEntries(
+    Object.entries(jsondata).map(([k, v]) => {
+      if (v != undefined && v)
+        return ["" + k.replace(/[^A-Za-z]+/gi, "").trim().toLowerCase(), "" + v.replace(/\s\s+/gi, " ").trim()]
+      return ["", ""]
+    })
+  );
+  // removing empty keys
+  delete newjson[""]
+  return newjson
+}
+
 
 // Stores all the log, to help in reviewing PR and checking for any mistake by the user
 function logmsg(str, skipconsole) {
