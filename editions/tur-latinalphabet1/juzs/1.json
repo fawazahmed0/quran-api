@@ -1,0 +1,744 @@
+{
+    "juzs": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Bismillâhir rahmânir rahîm"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "El hamdu lillâhi rabbil âlemîn(âlemîne)"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Er rahmânir rahîm(rahîmi)"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Mâliki yevmid dîn(dîne)"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "İyyâke na’budu ve iyyâke nestaîn(nestaînu)"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "İhdinas sırâtel mustakîm(mustakîme)"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Sırâtallezîne en’amte aleyhim gayril magdûbi aleyhim ve lâd dâllîn(dâllîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Elif, lâm, mim"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "Zâlikel kitâbu lâ reybe fîh(fîhi), huden lil muttekîn(muttekîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "Ellezîne yu’minûne bil gaybi ve yukîmûnes salâte ve mimmâ razaknâhum yunfikûn(yunfikûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "Vellezîne yu’minûne bi mâ unzile ileyke ve mâ unzile min kablik(kablike) ve bil âhireti hum yûkınûn(yûkınûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Ulâike alâ huden min rabbihim ve ulâike humul muflihûn(muflihûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "İnnellezîne keferû sevâun aleyhim e enzertehum em lem tunzirhum lâ yu’minûn(yu’minûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Hatemallâhu alâ kulûbihim ve alâ sem’ıhim, ve alâ ebsârihim gışâveh(gışâvetun), ve lehum azâbun azîm(azîmun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "Ve minen nâsi men yekûlu âmennâ billâhi ve bil yevmil âhıri ve mâ hum bi mu’minîn(mu’minîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "Yuhâdiûnallâhe vellezîne âmenû, ve mâ yahdeûne illâ enfusehum ve mâ yeş’urûn(yeş’urûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "Fî kulûbihim maradun, fe zâdehumullâhu maradâ(maradan) ve lehum azâbun elîmun bi mâ kânû yekzibûn(yekzibûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Ve izâ kîle lehum lâ tufsidû fîl ardı, kâlû innemâ nahnu muslihûn(muslihûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "E lâ innehum humul mufsidûne ve lâkin lâ yeş’urûn(yeş’urûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Ve izâ kîle lehum âminû kemâ âmenen nâsu kâlû e nu’minu kemâ âmenes sufehâu, e lâ innehum humus sufehâu ve lâkin lâ ya’lemûn(ya’lemûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Ve izâ lekûllezîne âmenû kâlû âmennâ, ve izâ halev ilâ şeyâtînihim, kâlû innâ meakum, innemâ nahnu mustehziûn(mustehziûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Allâhu yestehziu bihim ve yemudduhum fî tugyânihim ya’mehûn(ya’mehûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "Ulâikellezîneşterevûd dalâlete bil hudâ, fe mâ rabihat ticâretuhum ve mâ kânû muhtedîn(muhtedîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Meseluhum ke meselillezistevkade nârâ(nâren), fe lemmâ edâet mâ havlehu zeheballâhu bi nûrihim ve terekehum fî zulumâtin lâ yubsirûn(yubsirûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "Summun bukmun umyun fe hum lâ yerciûn(yerciûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Ev ke sayyibin mines semâi fîhi zulumâtun ve ra’dun ve berk(berkun), yec’alûne esâbiahum fî âzânihim mines savâiki hazaral mevt(mevti), vallâhu muhîtun bil kâfirîn(kâfirîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "Yekâdul berku yahtafu ebsârehum kullemâ edâe lehum meşev fîhi, ve izâ azleme aleyhim kâmû ve lev şâellâhu le zehebe bi sem’ihim ve ebsârihim innallâhe alâ kulli şey’in kadîr(kadîrun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Yâ eyyuhen nâsu’budû rabbekumullezî halakakum vellezîne min kablikum leallekum tettekûn(tettekûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "Ellezî ceale lekumul arda firâşen ves semâe binââ(binâen), ve enzele mines semâi mâen fe ahrece bihî mines semarâti rızkan lekum, fe lâ tec’alû lillâhi endâden ve entum ta’lemûn(tâ’lemune)"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "Ve in kuntum fî reybin mimmâ nezzelnâ alâ abdinâ fe’tû bi sûretin min mislihî, ved’û şuhedâekum min dûnillâhi in kuntum sâdıkîn(sâdıkîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "Fe in lem tef’alû ve len tef’alû fettekûn nârelletî vakûduhân nâsu vel hicâratu, uiddet lil kâfirîn(kâfirîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "Ve beşşirillezîne âmenû ve amilûs sâlihâti enne lehum cennâtin tecrî min tahtihel enhâr(enhâru), kullemâ ruzikû minhâ min semeretin rızkan kâlû hâzellezî ruzıknâ min kabl(kablu) ve utû bihî muteşâbihâ(muteşâbihan), ve lehum fîhâ ezvâcun mutahharatun ve hum fîhâ hâlidûn(hâlidûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "İnnallâhe lâ yestahyî en yadribe meselen mâ beûdaten fe mâ fevkahâ fe emmellezîne âmenû fe ya’lemûne ennehul hakku min rabbihim, ve emmellezîne keferû fe yekûlûne mâzâ erâdallâhu bi hâzâ meselâ(meselen), yudıllu bihî kesîran ve yehdî bihî kesîrâ(kesîran) ve mâ yudıllu bihî illel fâsıkîn(fâsıkîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "Ellezîne yenkudûne ahdallâhi min ba’di mîsâkıh(mîsâkıhî), ve yaktaûne mâ emerallâhu bihî en yûsale ve yufsidûne fîl ard(ardı) ulâike humul hâsirûn(hâsirûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Keyfe tekfurûne billâhi ve kuntum emvâten fe ahyâkum, summe yumîtukum summe yuhyîkum summe ileyhi turceûn(turceûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "Huvellezî halaka lekum mâ fîl ardı cemîan summestevâ iles semâi fe sevvâhunne seb’a semâvât(semâvâtin), ve huve bi kulli şey’in alîm(alîmun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Ve iz kâle rabbuke lil melâiketi innî câilun fîl ardı halîfeh(halîfeten), kâlû e tec’alu fîhâ men yufsidu fîhâ ve yesfikud dimâ(dimâe), ve nahnu nusebbihu bi hamdike ve nukaddisu lek(leke), kâle innî a’lemu mâ lâ tâ’lemûn(tâ’lemûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "Ve alleme âdemel esmâe kullehâ summe aradahum alel melâiketi fe kâle enbiûnî bi esmâi hâulâi in kuntum sadikîn(sadikîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Kâlû subhâneke lâ ilme lenâ illâ mâ allemtenâ inneke entel alîmul hakîm(hakîmu)"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "Kâle yâ âdemu enbi’hum bi esmâihim, fe lemmâ enbeehum bi esmâihim, kâle e lem ekul lekum innî a’lemu gaybes semâvâti vel ardı ve a’lemu mâ tubdûne ve mâ kuntum tektumûn(tektumûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Ve iz kulnâ lil melâiketiscudû li âdeme fe secedû illâ iblîs(iblîse), ebâ vestekbere ve kâne minel kâfirîn(kâfirîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Ve kulnâ yâ âdemuskun ente ve zevcukel cennete ve kulâ minhâ ragaden haysu şi’tumâ ve lâ takrabâ hâzihiş şecerete fe tekûnâ minez zâlimîn(zâlimîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Fe ezellehumâş şeytânu anhâ fe ahrecehumâ mimmâ kânâ fîh(fîhi), ve kulnâhbitû ba’dukum li ba’din aduvv(aduvvun), ve lekum fîl ardı mustekarrun ve metâun ilâ hîn(hînin)"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Fe telekkâ âdemu min rabbihî kelimâtin fe tâbe aleyh(aleyhi), innehu huvet tevvâbur rahîm(rahîmu)"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Kulnâhbitû minhâ cemîa(cemîan), fe immâ ye’tiyennekum minnî hudenfe men tebia hudâye fe lâ havfun aleyhim ve lâ hum yahzenûn(yahzenûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "Vellezîne keferû ve kezzebû bi âyâtinâ ulâike ashâbun nâr(nârı), hum fîhâ hâlidûn(hâlidûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Yâ benî isrâîlezkurû ni’metiyelletî en’amtu aleykum ve evfû bi ahdî ûfi bi ahdikum ve iyyâye ferhebûn(ferhebûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Ve âminû bi mâ enzeltu musaddikan li mâ meakum ve lâ tekûnû evvele kâfirin bih(bîhî), ve lâ teşterû bi âyâtî semenen kalîlen ve iyyâye fettekûni"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Ve lâ telbisûl hakka bil bâtılı ve tektumûl hakka ve entum ta’lemûn(ta’lemûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Ve ekîmûs salâte ve âtûz zekâte verkeû mear râkiîn(râkiîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "E te’murûnen nâse bil birri ve tensevne enfusekum ve entum tetlûnel kitâb(kitâbe) e fe lâ ta’kılûn(ta’kılûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Vesteînû bis sabri ves salât(sâlâti), ve innehâ le kebîretun illâ alel hâşiîn(hâşiîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "Ellezîne yezunnûne ennehum mulâkû rabbihim ve ennehum ileyhi râciûn(râciûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "Yâ benî isrâîlezkurû ni’metiyelletî en’amtu aleykum ve ennî faddaltukum alel âlemîn(âlemîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Vettekû yevmen lâ teczî nefsun an nefsin şey’en ve lâ yukbelu minhâ şefâatun ve lâ yu’hazu minhâ adlun ve lâ hum yunsarûn(yunsarûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "Ve iz necceynâkum min âli fir’avne yesûmûnekum sûel azâbi yuzebbihûne ebnâekum ve yestahyûne nisâekum ve fî zâlikum belâun min rabbikum azîm(azîmun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "Ve iz faraknâ bikumul bahre fe enceynâkum ve agraknâ âle fir’avne ve entum tenzurûn(tenzurûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "Ve iz vâadnâ mûsâ erbaîne leyleten summettehaztumul icle min ba’dihî ve entum zâlimûn(zâlimûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Summe afevnâ ankum min ba’di zâlike leallekum teşkurûn(teşkurûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "Ve iz âteynâ mûsâl kitâbe vel furkâne leallekum tehtedûn(tehtedûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "Ve iz kâle mûsâ li kavmihî yâ kavmi innekum zalemtum enfusekum bittihâzikumul icle fe tûbû ilâ bâriikum faktulû enfusekum zâlikum hayrun lekum inde bâriikum fe tâbe aleykum innehu huvet tevvâbur rahîm(rahîmu)"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "Ve iz kultum yâ mûsâ len nu’mine leke hattâ nerallâhe cehreten fe ehazetkumus sâikatu ve entum tenzurûn(tenzurûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Summe beasnâkum min ba’di mevtikum leallekum teşkurûn(teşkurûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Ve zallelnâ aleykumul gamâme ve enzelnâ aleykumul menne ves selvâ kulû min tayyibâti mâ razaknâkum ve mâ zalemûnâ ve lâkin kânû enfusehum yazlimûn(yazlimûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "Ve iz kulnâdhulû hâzihil karyete fe kulû minhâ haysu şi’tum ragaden vedhulûl bâbe succeden ve kûlû hıttatun nagfir lekum hatâyâkum ve senezîdul muhsinîn(muhsinîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Fe beddelellezîne zalemû kavlen gayrellezî kîle lehum fe enzelnâ alellezîne zalemû riczen mines semâi bimâ kânû yefsukûn(yefsukûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "Ve izisteskâ mûsâ li kavmihî fe kulnâdrib bi asâkel hacer(hacere) fenfeceret minhusnetâ aşrete aynâ(aynen), kad alime kullu unâsin meşrebehum kulû veşrebû min rızkıllâhi ve lâ ta’sev fîl ardı mufsidîn(mufsidîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Ve iz kultum yâ mûsâ len nasbira alâ taâmin vâhidin fed’u lenâ rabbeke yuhric lenâ mimmâ tunbitulardu min baklihâ ve kıssâiha ve fûmihâ ve adesihâ ve basalihâ, kâle e testebdilûnellezî huve ednâ billezî huve hayr(hayrun), ihbitû mısran fe inne lekum mâ seeltum ve duribet aleyhimuz zilletu vel meskenetu ve bâu bi gadabin minallâh(minallâhi), zâlike bi ennehum kânû yekfurûne bi âyâtillâhi ve yaktulûnen nebiyyîne bi gayril hak(hakkı), zâlike bi mâ asav ve kânû ya’tedûn(ya’tedûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "İnnellezîne âmenû vellezîne hâdû ven nasârâ ves sâbiîne men âmene billâhi vel yevmil âhiri ve amile sâlihan fe lehum ecruhum inde rabbihim, ve lâ havfun aleyhim ve lâ hum yahzenûn(yahzenûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Ve iz ehaznâ mîsâkakum ve refa’nâ fevkakumut tûr(tûra) huzû mâ ateynâkum bi kuvvetin vezkurû mâ fîhi leallekum tettekûn(tettekûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Summe tevelleytum min ba’di zâlik(zâlike), fe lev lâ fadlullâhi aleykum ve rahmetuhu le kuntum minel hâsirîn(hâsirîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Ve lekad alimtumullezîne’tedev minkum fîs sebti fe kulnâ lehum kûnû kıradeten hâsiîn(hasiîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "Fe cealnâhâ nekâlen li mâ beyne yedeyhâ ve mâ halfehâ ve mev’ızaten lil muttakîn(muttakîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Ve iz kâle mûsâ li kavmihî innallâhe ye’murukum en tezbehû bakarah(bakaraten), kâlû e tettehızunâ huzuvâ(huzuven), kâle eûzu billâhi en ekûne minel câhilîn(câhilîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Kâlûd’u lenâ rabbeke yubeyyin lenâ mâ hiy(hiye), kâle innehu yekûlu innehâ bakaratun lâ fâridun ve lâ bikr(bikrun), avânun beyne zâlik(zalike) fef’alû mâ tu’merûn(tu’merune)"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Kâlûd’u lenâ rabbeke yubeyyin lenâ mâ levnuhâ, kâle innehu yekûlu innehâ bakaratun safrâu, fâkiun levnuhâ tesurrun nâzırîn(nâzirîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "Kâlûd’u lenâ rabbeke yubeyyin lenâ mâ hiye, innel bakara teşâbehe aleynâ, ve innâ in şâallâhu le muhtedûn(muhtedûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "Kâle innehu yekûlu innehâ bakaratun lâ zelûlun tusîrul arda ve lâ teskıl hars(harse), musellemetun lâ şiyete fîhâ kâlûl’âne ci’te bil hakk(hakkı), fe zebehûhâ ve mâ kâdû yef’alûn(yef’alûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "Ve iz kateltum nefsen feddâre’tum fîhâ vallâhu muhricun mâ kuntum tektumûn(tektumûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "Fe kulnâdribûhu bi ba’dıhâ kezâlike yuhyîllâhul mevtâ ve yurîkum âyâtihî leallekum ta’kılûn(ta’kılûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "Summe kaset kulûbukum min ba’di zâlike fe hiye kel hıcâreti ev eşeddu kasveh(kasveten), ve inne minel hıcâreti lemâ yetefecceru minhul enhâr(enhâru), ve inne minhâ lemâ yeşşakkaku fe yahrucu minhul mâu, ve inne minhâ lemâyehbitu min haşyetillâh(haşyetillâhi), ve mâllâhu bi gâfilin ammâ ta’melûn(ta’melûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "E fe tatmeûne en yu’minû lekum ve kad kâne ferîkun minhum yesmeûne kelâmallâhi summe yuharrifûnehu min ba’di mâ akalûhu ve hum ya’lemûn(ya’lemûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "Ve izâ lekûllezîne âmenû kâlû âmennâ, ve izâ halâ ba’duhum ilâ ba’din kâlû e tuhaddisûnehum bi mâ fetehallâhu aleykum li yuhâccûkum bihî inde rabbikum e fe lâ ta’kılûn(ta’kılûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "E ve lâ ya’lemûne ennallâhe ya’lemu mâ yusirrûne ve mâ yu’linûn(yu’linûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Ve minhum ummiyyûne lâ ya’lemûnel kitâbe illâ emâniyye ve in hum illâ yezunnûn(yezunnûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "Fe veylun lillezîne yektubûnel kitâbe bi eydîhim summe yekûlûne hâzâ min indillâhi li yeşterû bihî semenen kalîlâ(kalîlen), fe veylun lehum mimmâ ketebet eydîhim ve veylun lehum mimmâ yeksibûn(yeksibûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "Ve kâlû len temessenen nâru illâ eyyâmen ma’dûdeh(ma’dûdete), kul ettehaztum indallâhi ahden fe len yuhlifallâhu ahdehu(ahdehû) em tekûlûne alâllâhi mâ lâ ta’lemûn(ta’lemûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Belâ men kesebe seyyieten ve ehâtat bihî hatîetuhu fe ulâike ashâbun nâr(nâri), hum fîhâ hâlidûn(hâlidûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "Vellezîne âmenû ve amilûs sâlihâti ulâike ashâbul cenneh(cenneti), hum fîhâ hâlidûn(hâlidûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Ve iz ehaznâ mîsâka benî isrâîle lâ ta’budûne illâllâhe ve bil vâlideyni ihsânen ve zil kurbâvel yetâmâ vel mesâkîni ve kûlû lin nâsi husnen ve ekîmûs salâte ve âtûz zekât(zekâte), summe tevelleytum illâ kalîlen minkum ve entum mu’ridûn(mu’ridûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "Ve iz ehaznâ mîsâkakum lâ tesfikûne dimâekum ve lâ tuhricûne enfusekum min diyârikum summe ekrartum ve entum teşhedûn(teşhedûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Summe entum hâulâi taktulûne enfusekum ve tuhricûne ferîkan minkummin diyârihim, tezâharûne aleyhim bil ismi vel udvân(udvâni), ve in ye’tûkum usârâ tufâdûhum ve huve muharremun aleykum ihrâcuhum e fe tu’minûne bi ba’dil kitâbive tekfurûne bi ba’d(ba’dın), fe mâ cezâu men yef’alu zâlike minkum illâ hızyun fîl hayâtid dunyâ, ve yevmel kıyâmeti yureddûne ilâ eşeddil azâb(azâbi), ve mâllâhu bi gâfilin ammâ ta’melûn(ta’melûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "Ulâikellezîneşteravul hayâted dunyâ bil âhireti, fe lâ yuhaffefu anhumul azâbu ve lâ hum yunsarûn(yunsarûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Ve lekad âteynâ mûsâl kitâbe ve kaffeynâ min ba’dihî bir rusuli ve âteynâ îsâbne meryemel beyyinâti ve eyyednâhu bi rûhil kudus(kudusi), e fe kullemâ câekum resûlun bimâ lâ tehvâ enfusukumustekbertum, fe ferîkan kezzebtum ve ferîkan taktulûn(taktulûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "Ve kâlû kulûbunâ gulf(gulfun), bel leanehumullâhu bi kufrihim fe kalîlen mâ yu’minun(yu’minûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Ve lemmâ câehum kitâbun min indillâhi musaddikun limâ meahum, ve kânû min kablu yesteftihûne alellezîne keferû, fe lemmâ câehum mâ arafû keferû bihî, fe la’netullâhi alel kâfirîn(kâfirîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Bi’semeşterav bihî enfusehum en yekfurû bi mâ enzelallâhu bagyen en yunezzilallâhu min fadlihî alâ men yeşâu min ibâdih(ibâdihî), fe bâû bi gadabin alâ gadab(gadabin), ve lil kâfirîne azâbun muhîn(muhînun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Ve izâ kîle lehum âminû bi mâ enzelallâhu kâlû nu’minu bi mâ unzile aleynâ ve yekfurûne bi mâ verâehu ve huvel hakku musaddikan limâ meahum kul fe lime taktulûne enbiyâallâhi min kablu in kuntum mu’minîn(mu’minîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Ve lekad câekum mûsâ bil beyyinâti summettehaztumul icle min ba’dihî ve entum zâlimûn(zâlimûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "Ve iz ehaznâ mîsâkakum ve refa’nâ fevkakumut tûr(tûra), huzû mâ âteynâkum bi kuvvetin vesmeû kâlû semi’nâ ve aseynâ ve uşribû fî kulûbihimul icle bi kufrihim kul bi’se mâ ye’murukum bihî îmânukum in kuntum mu’minîn(mu’minîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "Kul in kânet lekumud dârul âhiretu indallâhi hâlisaten min dûnin nâsi fe temennevûl mevte in kuntum sâdikîn(sâdikîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Ve len yetemennevhu ebeden bimâ kaddemet eydîhim vallâhu alîmun biz zâlimîn(zâlimîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "Ve le tecidennehum ahrasan nâsi alâ hayâtin, ve minellezîne eşrakû yeveddu ehaduhum lev yuammeru elfe seneh(senetin), ve mâ huve bi muzahzihıhî minel azâbi en yuammer(yuammere), vallâhu basîrun bimâ ya’melûn(ya’melûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "Kul men kâne aduvven li cibrîle fe innehu nezzelehu alâ kalbike bi iznillâhi musaddikan limâ beyne yedeyhi ve huden ve buşrâ lil mu’minîn(mu’minîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Men kâne aduvven lillâhi ve melâiketihî ve rusulihî ve cibrîle ve mîkâle fe innallâhe aduvvun lil kâfirîn(kâfirîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Ve lekad enzelnâ ileyke âyâtin beyyinât(beyyinâtin), ve mâ yekfuru bihâ illel fâsikûn(fâsikûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "E ve kullemâ âhedû ahden nebezehu ferîkun minhum bel ekseruhum lâ yu’minûn(yu’minûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Ve lemmâ câehum resûlun min indillâhi musaddikun limâ meahum nebeze ferîkun minellezîne ûtûl kitâb(kitâbe), kitâballâhi verâe zuhûrihim ke ennehum lâ ya’lemûn(ya’lemûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "Vettebeû mâ tetlûş şeyâtînu alâ mulki suleymân(suleymâne) ve mâ kefere suleymânu ve lâkinneş şeyâtîne keferû yuallimûnen nâses sihrâ, ve mâ unzile alel melekeyni bi bâbile hârûte ve mârût(mârûte), ve mâ yuallimâni min ehadin hattâ yekûlâ innemâ nahnu fitnetun fe lâ tekfur fe yeteallemûne minhumâ mâ yuferrikûne bihî beynel mer’i ve zevcih(zevcihî), ve mâ hum bi dârrîne bihî min ehadin illâ bi iznillâh(iznillâhi), ve yeteallemûne mâ yadurruhum ve lâ yenfeuhum ve lekad alimû le menişterâhu mâ lehu fîl âhireti min halâkın, ve le bi’se mâ şerev bihî enfusehum lev kânû ya’lemûn(ya’lemûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Ve lev ennehum âmenû vettekav le mesûbetun min indillâhi hayr(hayrun), lev kânû ya’lemûn(ya’lemûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Yâ eyyuhellezîne âmenû lâ tekûlû râinâ ve kûlûnzurnâ vesmeû ve lil kâfirîne azâbun elîm(elîmun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Mâ yeveddullezîne keferû min ehlil kitâbi ve lel muşrikîne en yunezzele aleykum min hayrin min rabbikum vallâhu yahtassu bi rahmetihî men yeşâu, vallâhu zul fadlil azîm(azîmi)"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Mâ nensah min âyetin ev nunsihâ ne’ti bi hayrin minhâ ev mislihâ e lem ta’lem ennallâhe alâ kulli şey’in kadîr(kadîrun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "E lem ta’lem ennellâhe lehu mulkus semâvâti vel ard(ardı), ve mâ lekum min dûnillâhi min veliyyin ve lâ nasîr(nasîrin)"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Em turîdûne en tes’elû resûlekum kemâ suile mûsâ min kabl(kablu), ve men yetebeddelil kufra bil îmâni fe kad dalle sevâes sebîl(sebîli)"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Vedde kesîrun min ehlil kitâbi lev yeruddûnekum min ba’di îmânikum kuffârâ(kuffâran), haseden min indi enfusihim min ba’di mâ tebeyyene lehumul hakk(hakku), fa’fû vasfehû hattâ ye’tiyallâhu bi emrih(emrihî), innallâhe alâ kulli şey’in kadîr(kadîrun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Ve ekîmus salâte ve âtûz zekât(zekâte), ve mâ tukaddimû li enfusikum min hayrin tecidûhu indallâh(indallâhi) innallâhe bi mâ ta’melûne basîr(basîrun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Ve kâlû len yedhulel cennete illâ men kâne hûden ev nasâr(nasârâ), tilke emâniyyuhum kul hâtû burhânekum in kuntum sâdikîn(sâdikîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Belâ men esleme vechehu lillâhi ve huve muhsinun fe lehû ecruhu inde rabbihî, ve lâ havfun aleyhim ve lâ hum yahzenûn(yahzenûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Ve kâletil yahûdu leysetin nasârâ alâ şey’(şey’in) ve kâletin nasârâ leysetil yahûdu alâ şey’in ve hum yetlûnel kitâb(kitâbe), kezâlike kâlellezine lâ ya’lemûne misle kavlihim, fallâhu yahkumu beynehum yevmel kıyâmeti fîmâ kânû fîhi yahtelifûn(yahtelifûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Ve men azlemu mimmen menea mesâcidallâhi en yuzkere fîhesmuhu ve seâ fî harâbihâ ulâike mâ kâne lehum en yedhulûhâ illâ hâifîn(hâifîne) lehum fîd dunyâ hızyun ve lehum fîl âhireti azâbun azîm(azîmun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Ve lillâhil meşriku vel magribu fe eynemâ tuvellû fe semme vechullâh(vechullâhi) innallâhe vâsiun alîm(alîmun)"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Ve kâlûttehazellâhu veleden, subhâneh(subhânehu), bel lehu mâ fîs semâvâti vel ard(ardı), kullun lehu kânitûn(kânitûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "Bedîus semâvâti vel ard(ardı), ve izâ kadâ emren fe innemâ yekûlu lehu kun fe yekûn(yekûnu)"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Ve kâlellezîne lâ ya’lemûne lev lâ yukellimunâllâhu ev te’tînâ âyeh(âyetun), kezâlike kâlellezîne min kablihim misle kavlihim, teşâbehet kulûbuhum, kad beyyennal âyâti li kavmin yûkınûn(yûkınûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "İnnâ erselnâke bil hakkı beşîren ve nezîren, ve lâ tus’elu an ashâbil cahîm(cahîmi)"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Ve len terdâ ankel yahûdu ve len nasârâ hattâ tettebia milletehum kul inne hudâllâhi huvel hudâ ve leinitteba’te ehvâehum ba’dellezî câeke minel ilmi, mâ leke minallâhi min veliyyin ve lâ nasîr(nasîrin)"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Ellezîne âteynâhumul kitâbe yetlûnehu hakka tilâvetih(tilâvetihî) ulâike yu’minûne bih(bihî), ve men yekfur bihî fe ulâike humul hâsirûn(hâsirûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Yâ benî isrâîlezkurû ni’metiyelletî en’amtu aleykum ve ennî faddaltukum alel âlemîn(âlemîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Vettekû yevmen lâ teczî nefsun an nefsin şey’en ve lâ yukbelu minhâ adlun ve lâ tenfeuhâ şefâatun ve lâ hum yunsarûn(yunsarûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Ve izibtelâ ibrâhîme rabbuhu bi kelimâtin fe etemmehun(etemmehunne), kâle innî câiluke lin nâsi imâmâ(imâmen), kâle ve min zurriyyetî kâle lâ yenâlu ahdiz zâlimîn(zâlimîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Ve iz cealnâl beyte mesâbeten lin nâsi ve emnâ(emnen), vettehizû min makâmı ibrâhîme musallâ(musallen) ve ahidnâ ilâ ibrâhîme ve ismâîle en tahhirâ beytiye lit tâifîne vel âkifîne ver rukkais sucûd(sucûdi)"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "Ve iz kâle ibrâhîmu rabbic’al hâzâ beleden âminen verzuk ehlehu mines semerâti men âmene minhum billâhi vel yevmil âhir(âhiri), kâle ve men kefere fe umettiuhu kalîlen summe adtarruhu ilâ azâbin nâr(nâri), ve bi’sel masîr(masîru)"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "Ve iz yerfeu ibrâhîmul kavâide minel beyti veismâîl(ismâîlu) rabbenâ tekabbel minnâ inneke entes semîul alîm(alîmu)"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Rabbenâ vec’alnâ muslimeyni leke ve min zurriyyetinâ ummeten muslimeten leke ve erinâ menâsikenâ ve tub aleynâ, inneke entet tevvâbur rahîm(rahîmu)"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Rabbenâ veb’as fîhim resûlen minhum yetlû aleyhim âyâtike ve yuallimuhumul kitâbe vel hikmete ve yuzekkîhim inneke entel azîzul hakîm(hakîmu)"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Ve men yergabu an milleti ibrâhîme illâ men sefihe nefseh(nefsehu), ve lekadistafeynâhufîd dunyâ, ve innehu fîlâhireti le mines sâlihîn(sâlihîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "İz kâle lehû rabbuhû eslim kâle eslemtu li rabbil âlemîn(âlemîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "Ve vassâ bihâ ibrâhîmu benîhi ve ya’kûb(ya’kûbu), yâ beniyye innallâhestafâ lekumud dîne fe lâ temûtunne illâ ve entum muslimûn(muslimûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Em kuntum şuhedâe iz hadara ya’kûbel mevtu, iz kâle li benîhi mâ ta’budûne min ba’dî kâlû na’budu ilâheke ve ilâhe âbâike ibrâhîme ve ismâîle ve ishâka ilâhen vâhidâ(vahiden) ve nahnu lehu muslimûn(muslimûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Tilke ummetun kad halet, lehâ mâ kesebet ve lekum mâ kesebtum, ve lâ tus’elûne ammâ kânû ya’melûn(ya’melûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Ve kâlû kûnû hûden ev nasârâ tehtedû kul bel millete ibrâhîme hanîfâ(hanîfen), ve mâ kâne minel muşrikîn(muşrikîne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "Kûlû âmennâ billâhi ve mâ unzile ileynâ ve mâ unzile ilâ ibrâhîme ve ismâîle ve ishâka ve ya’kûbe vel esbâtı ve mâ ûtiye mûsâ ve îsâ ve mâ ûtiyen nebiyyûne min rabbihim, lâ nuferriku beyne ehadin minhum ve nahnu lehu muslimûn(muslimûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "Fe in âmenû bi misli mâ âmentum bihî fe kadihtedev ve in tevellev fe innemâ hum fî şikâk(şikâkın) fe se yekfîke humullâh(humullâhu), ve huves semîul alîm(alîmu)"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "Sıbgatallâh(sıbgatallâhi) ve men ahsenu minallâhi sıbgaten, ve nahnu lehu âbidûn(âbidûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "Kul e tuhâccûnenâ fîllâhi ve huve rabbunâ ve rabbukum, ve lenâ â’mâlunâ ve lekum a’mâlukum ve nahnu lehu muhlisûn(muhlisûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Em tekûlûne inne ibrâhîme ve ismâîle ve ishâka ve ya’kûbe vel esbâta kânû hûden ev nasârâ kul e entum a’lemu emillâh(emillâhu), ve men azlemu mimmen keteme şehâdeten indehu minallâh(minallâhi), ve mâllâhu bi gâfilin ammâ ta’melûn(ta’melûne)"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Tilke ummetun kad halet lehâ mâ kesebet ve lekum mâ kesebtum ve lâ tus’elûne ammâ kânû ya’melûn(ya’melûne)"
+        }
+    ]
+}

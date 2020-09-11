@@ -1,0 +1,624 @@
+{
+    "juzs": [
+        {
+            "chapter": 4,
+            "verse": 24,
+            "text": "WEL-MUHSENATU MINE EN-NISA’ ‘ILLA MA MELEKET ‘EJMANUKUM KITABEL-LAHI ‘ALEJKUM WE ‘UHILLE LEKUM MA WERA’E DHALIKUM ‘EN TEBTEGU BI’EMWALIKUM MUHSININE GAJRE MUSAFIHINE FEMA ESTEMTA’TUM BIHI MINHUNNE FE’ATUHUNNE ‘UXHUREHUNNE FERIDETEN WE LA XHUNAHE ‘ALEJKUM"
+        },
+        {
+            "chapter": 4,
+            "verse": 25,
+            "text": "WE MEN LEM JESTETI’ MINKUM TEWLÆN ‘EN JENKIHEL-MUHSENATIL-MU’UMINATI FEMIN MA MELEKET ‘EJMANUKUM MIN FETEJATIKUMUL-MU’UMINATI WEL-LAHU ‘A’LEMU BI’IMANIKUM BA’DUKUM MIN BA’DIN FANKIHUHUNNE BI’IDHNI ‘EHLIHINNE WE ‘ATUHUNNE ‘UXHUREHUNNE BIL-MA’RUFI MUHSENATI"
+        },
+        {
+            "chapter": 4,
+            "verse": 26,
+            "text": "JURIDU ELLAHU LIJUBEJJINE LEKUM WE JEHDIJEKUM SUNENEL-LEDHINE MIN KABLIKUM WE JETUBE ‘ALEJKUM WEL-LAHU ‘ALIMUN HEKIMUN"
+        },
+        {
+            "chapter": 4,
+            "verse": 27,
+            "text": "WEL-LAHU JURIDU ‘EN JETUBE ‘ALEJKUM WE JURIDUL-LEDHINE JETTEBI’UNE ESH-SHEHEWATI ‘EN TEMILU MEJLÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 28,
+            "text": "JURIDU ELLAHU ‘EN JUHAFFIFE ‘ANKUM WE HULIKAL-’INSANU DA’IFÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 29,
+            "text": "JA ‘EJJUHAL-LEDHINE ‘AMENU LA TE’KULU ‘EMWALEKUM BEJNEKUM BIL-BATILI ‘ILLA ‘EN TEKUNE TIXHARETEN ‘AN TERADIN MINKUM WE LA TEKTULU ‘ENFUSEKUM ‘INNALL-LLAHE KANE BIKUM REHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 30,
+            "text": "WE MEN JEF’AL DHALIKE ‘UDWANÆN WE DHULMÆN FESEWFE NUSLIHI NARÆN WE KANE DHALIKE ‘ALA ELLAHI JESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 31,
+            "text": "‘IN TEXHTENIBU KEBA’IRE MA TUNHEWNE ‘ANHU NUKEFFIR ‘ANKUM SEJJI’ATIKUM WE NUDHILKUM MUDHALÆN KERIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 32,
+            "text": "WE LA TETEMENNEW MA FEDDELEL-LAHU BIHI BA’DEKUM ‘ALA BA’DIN LILRRIXHALI NESIBUN MIMMA EKTESEBU WE LILNNISA’I NESIBUN MIMMA EKTESEBNE WE ES’ELU ELLAHE MIN FEDLIHI ‘INNALL-LLAHE KANE BIKULLI SHEJ’IN ‘ALIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 33,
+            "text": "WE LIKULLIN XHE’ALNA MEWALIJE MIMMA TEREKEL-WALIDANI WEL-’EKREBUNE WEL-LEDHINE ‘AKADET ‘EJMANUKUM FE’ATUHUM NESIBEHUM ‘INNALL-LLAHE KANE ‘ALA KULLI SHEJ’IN SHEHIDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 34,
+            "text": "ER-RIXHALU KAWWAMUNE ‘ALA EN-NISA’ BIMA FEDDELEL-LAHU BA’DEHUM ‘ALA BA’DIN WE BIMA ‘ENFEKU MIN ‘EMWALIHIM FALSSALIHATU KANITATUN HAFIDHATUN LILGAJBI BIMA HEFIDHEL-LAHU WEL-LATI TEHAFUNE NUSHUZEHUNNE FA’IDHUHUNNE WE EHXHURUHUNNE FIL-MEDAXHI’I WE EDRIBUHUNN"
+        },
+        {
+            "chapter": 4,
+            "verse": 35,
+            "text": "WE ‘IN HIFTUM SHIKAKA BEJNIHIMA FAB’ATHU HEKEMÆN MIN ‘EHLIHI WE HEKEMÆN MIN ‘EHLIHA ‘IN JURIDA ‘ISLAHÆN JUWEFFIKI ELLAHU BEJNEHUMA ‘INNALL-LLAHE KANE ‘ALIMÆN HABIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 36,
+            "text": "WE A’BUDU ELLAHE WE LA TUSHRIKU BIHI SHEJ’ÆN WE BIL-WALIDEJNI ‘IHSANÆN WE BIDHIL-KURBA WEL-JETAMA WEL-MESAKINI WEL-XHARI DHIL-KURBA WEL-XHARIL-XHUNUBI WE ES-SAHIBI BIL-XHENBI WE EBNI ES-SEBILI WE MA MELEKET ‘EJMANUKUM ‘INNALL-LLAHE LA JUHIBBU MEN KANE MUH"
+        },
+        {
+            "chapter": 4,
+            "verse": 37,
+            "text": "EL-LEDHINE JEBHALUNE WE JE’MURUNE EN-NASE BIL-BUHLI WE JEKTUMUNE MA ‘ATAHUMU ELLAHU MIN FEDLIHI WE ‘A’TEDNA LILKAFIRINE ‘ADHABÆN MUHINÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 38,
+            "text": "WEL-LEDHINE JUNFIKUNE ‘EMWALEHUM RI’A’E EN-NASI WE LA JU’UMINUNE BILLAHI WE LA BIL-JEWMIL-’AHIRI WE MEN JEKUNI ESH-SHEJTANU LEHU KARINÆN FESA’E KARINÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 39,
+            "text": "WE MADHA ‘ALEJHIM LEW ‘AMENU BILLAHI WEL-JEWMIL-’AHIRI WE ‘ENFEKU MIMMA REZEKAHUMU ELLAHU WE KANEL-LAHU BIHIM ‘ALIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 40,
+            "text": "‘INNALL-LLAHE LA JEDHLIMU MITHKALE DHERRETIN WE ‘IN TEKU HESENETEN JUDA’IFHA WE JU’UTI MIN LEDUNHU ‘EXHRÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 41,
+            "text": "FEKEJFE ‘IDHA XHI’NA MIN KULLI ‘UMMETIN BISHEHIDIN WE XHI’NA BIKE ‘ALA HA’UULA’ SHEHIDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 42,
+            "text": "JEWME’IDHIN JEWEDDUL-LEDHINE KEFERU WE ‘ASEW ER-RESULE LEW TUSEWWA BIHIMUL-’ERDU WE LA JEKTUMUNEL-LAHE HEDITHÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 43,
+            "text": "JA ‘EJJUHAL-LEDHINE ‘AMENU LA TEKREBU ES-SELÆTE WE ‘ENTUM SUKARA HETTA TA’LEMU MA TEKULUNE WE LA XHUNUBÆN ‘ILLA ‘ABIRI SEBILIN HETTA TEGTESILU WE ‘IN KUNTUM MERDA ‘EW ‘ALA SEFERIN ‘EW XHA’E ‘EHEDUN MINKUM MINEL-GA’ITI ‘EW LAMESTUMU EN-NISA’ FELEM TEXHIDU"
+        },
+        {
+            "chapter": 4,
+            "verse": 44,
+            "text": "‘ELEM TERE ‘ILAL-LEDHINE ‘UTU NESIBÆN MINEL-KITABI JESHTERUNE ED-DELALETE WE JURIDUNE ‘EN TEDILLU ES-SEBILE"
+        },
+        {
+            "chapter": 4,
+            "verse": 45,
+            "text": "WEL-LAHU ‘A’LEMU BI’A’DA’IKUM WE KEFA BILLAHI WELIJÆN WE KEFA BILLAHI NESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 46,
+            "text": "MINEL-LEDHINE HADU JUHERRIFUNEL-KELIME ‘AN MEWADI’IHI WE JEKULUNE SEMI’NA WE ‘ASEJNA WE ESMA’ GAJRE MUSMA’IN WE RA’INA LEJJÆN BI’ELSINETIHIM WE TA’NÆN FI ED-DINI WE LEW ‘ENNEHUM KALU SEMI’NA WE ‘ETA’NA WE ESMA’ WE ENDHURNA LEKANE HAJRÆN LEHUM WE ‘EKWEME W"
+        },
+        {
+            "chapter": 4,
+            "verse": 47,
+            "text": "JA ‘EJJUHAL-LEDHINE ‘UTUL-KITABE ‘AMINU BIMA NEZZELNA MUSEDDIKÆN LIMA ME’AKUM MIN KABLI ‘EN NETMISE WUXHUHÆN FENERUDDEHA ‘ALA ‘EDBARIHA ‘EW NEL’ANEHUM KEMA LE’ANNA ‘ESHABE ES-SEBTI WE KANE ‘EMRU ELLAHI MEF’ULÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 48,
+            "text": "‘INNALL-LLAHE LA JEGFIRU ‘EN JUSHREKE BIHI WE JEGFIRU MA DUNE DHALIKE LIMEN JESHA’U WE MEN JUSHRIK BILLAHI FEKADI EFTERA ‘ITHMÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 49,
+            "text": "‘ELEM TERE ‘ILAL-LEDHINE JUZEKKUNE ‘ENFUSEHUM BELI ELLAHU JUZEKKI MEN JESHA’U WE LA JUDHLEMUNE FETILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 50,
+            "text": "ENDHUR KEJFE JEFTERUNE ‘ALA ELLAHIL-KEDHIBE WE KEFA BIHI ‘ITHMÆN MUBINÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 51,
+            "text": "‘ELEM TERE ‘ILAL-LEDHINE ‘UTU NESIBÆN MINEL-KITABI JU’UMINUNE BIL-XHIBTI WET-TAGUTI WE JEKULUNE LILLEDHINE KEFERU HA’UULA’ ‘EHDA MINEL-LEDHINE ‘AMENU SEBILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 52,
+            "text": "‘ULA’IKEL-LEDHINE LE’ANEHUMU ELLAHU WE MEN JEL’ANI ELLAHU FELEN TEXHIDE LEHU NESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 53,
+            "text": "‘EM LEHUM NESIBUN MINEL-MULKI FE’IDHÆN LA JU’UTUNE EN-NASE NEKIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 54,
+            "text": "‘EM JEHSUDUNE EN-NASE ‘ALA MA ‘ATAHUMU ELLAHU MIN FEDLIHI FEKAD ‘ATEJNA ‘ALE ‘IBRAHIMEL-KITABE WEL-HIKMETE WE ‘ATEJNAHUM MULKÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 55,
+            "text": "FEMINHUM MEN ‘AMENE BIHI WE MINHUM MEN SEDDE ‘ANHU WE KEFA BIXHEHENNEME SA’IRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 56,
+            "text": "‘INNEL-LEDHINE KEFERU BI’AJATINA SEWFE NUSLIHIM NARÆN KULLEMA NEDIXHET XHULUDUHUM BEDDELNAHUM XHULUDÆN GAJREHA LIJEDHUKUL-’ADHABE ‘INNALL-LLAHE KANE ‘AZIZÆN HEKIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 57,
+            "text": "WEL-LEDHINE ‘AMENU WE ‘AMILU ES-SALIHATI SENUDHILUHUM XHENNATIN TEXHRI MIN TEHTIHAL-’ENHARU HALIDINE FIHA ‘EBEDÆN LEHUM FIHA ‘EZWAXHUN MUTEHHERETUN WE NUDHILUHUM DHILLA DHELILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 58,
+            "text": "‘INNALL-LLAHE JE’MURUKUM ‘EN TU’UEDDUL-’EMANATI ‘ILA ‘EHLIHA WE ‘IDHA HEKEMTUM BEJNE EN-NASI ‘EN TEHKUMU BIL-’ADLI ‘INNALL-LLAHE NI’IMMA JA’IDHUKUM BIHI ‘INNALL-LLAHE KANE SEMI’ÆN BESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 59,
+            "text": "JA ‘EJJUHAL-LEDHINE ‘AMENU ‘ETI’U ELLAHE WE ‘ETI’U ER-RESULE WE ‘ULIL-’EMRI MINKUM FE’IN TENAZA’TUM FI SHEJ’IN FERUDDUHU ‘ILA ELLAHI WE ER-RESULI ‘IN KUNTUM TU’UMINUNE BILLAHI WEL-JEWMIL-’AHIRI DHALIKE HAJRUN WE ‘EHSENU TE’WILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 60,
+            "text": "‘ELEM TERE ‘ILAL-LEDHINE JEZ’UMUNE ‘ENNEHUM ‘AMENU BIMA ‘UNZILE ‘ILEJKE WE MA ‘UNZILE MIN KABLIKE JURIDUNE ‘EN JETEHAKEMU ‘ILAT-TAGUTI WE KAD ‘UMIRU ‘EN JEKFURU BIHI WE JURIDU ESH-SHEJTANU ‘EN JUDILLEHUM DELALÆN BA’IDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 61,
+            "text": "WE ‘IDHA KILE LEHUM TA’ALEW ‘ILA MA ‘ENZELEL-LAHU WE ‘ILA ER-RESULI RE’EJTEL-MUNAFIKINE JESUDDUNE ‘ANKE SUDUDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 62,
+            "text": "FEKEJFE ‘IDHA ‘ESABET/HUM MUSIBETUN BIMA KADDEMET ‘EJDIHIM THUMME XHA’UKE JEHLIFUNE BILLAHI ‘IN ‘EREDNA ‘ILLA ‘IHSANÆN WE TEWFIKÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 63,
+            "text": "‘ULA’IKEL-LEDHINE JA’LEMU ELLAHU MA FI KULUBIHIM FE’A’RID ‘ANHUM WE ‘IDHHUM WE KUL LEHUM FI ‘ENFUSIHIM KAWLÆN BELIGÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 64,
+            "text": "WE MA ‘ERSELNA MIN RESULIN ‘ILLA LIJUTA’A BI’IDHNI ELLAHI WE LEW ‘ENNEHUM ‘IDH DHELEMU ‘ENFUSEHUM XHA’UKE FASTEGFERU ELLAHE WE ESTEGFERE LEHUMU ER-RESULU LEWEXHEDU ELLAHE TEWWABÆN REHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 65,
+            "text": "FELA WE RABBIKE LA JU’UMINUNE HETTA JUHEKKIMUKE FIMA SHEXHERE BEJNEHUM THUMME LA JEXHIDU FI ‘ENFUSIHIM HEREXHÆN MIMMA KADEJTE WE JUSELLIMU TESLIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 66,
+            "text": "WE LEW ‘ENNA KETEBNA ‘ALEJHIM ‘ENI EKTULU ‘ENFUSEKUM ‘EW EHRUXHU MIN DIJARIKUM MA FE’ALUHU ‘ILLA KALILUN MINHUM WE LEW ‘ENNEHUM FE’ALU MA JU’ADHUNE BIHI LEKANE HAJRÆN LEHUM WE ‘ESHEDDE TETHBITÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 67,
+            "text": "WE ‘IDHÆN LE’ATEJNAHUM MIN LEDUNNA ‘EXHRÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 68,
+            "text": "WE LEHEDEJNAHUM SIRATÆN MUSTEKIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 69,
+            "text": "WE MEN JUTI’I ELLAHE WE ER-RESULE FE’ULA’IKE ME’AL-LEDHINE ‘EN’AMEL-LAHU ‘ALEJHIM MINE EN-NEBIJINE WE ES-SIDDIKINE WE ESH-SHUHEDA’I WE ES-SALIHINE WE HESUNE ‘ULA’IKE REFIKÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 70,
+            "text": "DHALIKEL-FEDLU MINEL-LAHI WE KEFA BILLAHI ‘ALIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 71,
+            "text": "JA ‘EJJUHAL-LEDHINE ‘AMENU HUDHU HIDHREKUM FANFIRU THUBATIN ‘EW ENFIRU XHEMI’ÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 72,
+            "text": "WE ‘INNE MINKUM LEMEN LEJUBETTI’ENNE FE’IN ‘ESABETKUM MUSIBETUN KALE KAD ‘EN’AMEL-LAHU ‘ALEJJE ‘IDH LEM ‘EKUN ME’AHUM SHEHIDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 73,
+            "text": "WE LE’IN ‘ESABEKUM FEDLUN MINEL-LAHI LEJEKULENNE KE’EN LEM TEKUN BEJNEKUM WE BEJNEHU MEWEDDETUN JA LEJTENI KUNTU ME’AHUM FE’EFUZE FEWZÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 74,
+            "text": "FELJUKATIL FI SEBILI ELLAHIL-LEDHINE JESHRUNEL-HEJÆTE ED-DUNJA BIL-’AHIRETI WE MEN JUKATIL FI SEBILI ELLAHI FEJUKTEL ‘EW JEGLIB FESEWFE NU’UTIHI ‘EXHRÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 75,
+            "text": "WE MA LEKUM LA TUKATILUNE FI SEBILI ELLAHI WEL-MUSTED’AFINE MINE ER-RIXHALI WE EN-NISA’ WEL-WILDANIL-LEDHINE JEKULUNE REBBENA ‘EHRIXHNA MIN HEDHIHIL-KARJETI EDH-DHALIMI ‘EHLUHA WE EXH’AL LENA MIN LEDUNKE WELIJÆN WE EXH’AL LENA MIN LEDUNKE NESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 76,
+            "text": "EL-LEDHINE ‘AMENU JUKATILUNE FI SEBILI ELLAHI WEL-LEDHINE KEFERU JUKATILUNE FI SEBILIT-TAGUTI FEKATILU ‘EWLIJA’E ESH-SHEJTANI ‘INNE KEJDE ESH-SHEJTANI KANE DA’IFÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 77,
+            "text": "‘ELEM TERE ‘ILAL-LEDHINE KILE LEHUM KUFFU ‘EJDIJEKUM WE ‘EKIMU ES-SELÆTE WE ‘ATU EZ-ZEKÆTE FELEMMA KUTIBE ‘ALEJHIMUL-KITALU ‘IDHA FERIKUN MINHUM JEHSHEWNE EN-NASE KEHASHJETI ELLAHI ‘EW ‘ESHEDDE HASHJETEN WE KALU REBBENA LIME KETEBTE ‘ALEJNAL-KITALE LEWLA"
+        },
+        {
+            "chapter": 4,
+            "verse": 78,
+            "text": "‘EJNEMA TEKUNU JUDRIKKUMUL-MEWTU WE LEW KUNTUM FI BURUXHIN MUSHEJJEDETIN WE ‘IN TUSIBHUM HESENETUN JEKULU HEDHIHI MIN ‘INDI ELLAHI WE ‘IN TUSIBHUM SEJJI’ETUN JEKULU HEDHIHI MIN ‘INDIKE KUL KULLUN MIN ‘INDI ELLAHI FEMALI HA’UULA’L-KAWMI LA JEKADUNE JEFKAHU"
+        },
+        {
+            "chapter": 4,
+            "verse": 79,
+            "text": "MA ‘ESABEKE MIN HESENETIN FEMINEL-LAHI WE MA ‘ESABEKE MIN SEJJI’ETIN FEMIN NEFSIKE WE ‘ERSELNAKE LILNNASI RESULÆN WE KEFA BILLAHI SHEHIDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 80,
+            "text": "MEN JUTI’I ER-RESULE FEKAD ‘ETA’A ELLAHE WE MEN TEWELLA FEMA ‘ERSELNAKE ‘ALEJHIM HEFIDHÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 81,
+            "text": "WE JEKULUNE TA’ATUN FE’IDHA BEREZU MIN ‘INDIKE BEJJETE TA’IFETUN MINHUM GAJREL-LEDHI TEKULU WEL-LAHU JEKTUBU MA JUBEJJITUNE FE’A’RID ‘ANHUM WE TEWEKKEL ‘ALA ELLAHI WE KEFA BILLAHI WE KILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 82,
+            "text": "‘EFELA JETEDEBBERUNEL-KUR’ANE WE LEW KANE MIN ‘INDI GAJRI ELLAHI LEWEXHEDU FIHI EHTILAFÆN KETHIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 83,
+            "text": "WE ‘IDHA XHA’EHUM ‘EMRUN MINEL-’EMNI ‘EWIL-HAWFI ‘EDHA’U BIHI WE LEW REDDUHU ‘ILA ER-RESULI WE ‘ILA ‘ULIL-’EMRI MINHUM LE’ALIMEHUL-LEDHINE JESTENBITUNEHU MINHUM WE LEWLA FEDLU ELLAHI ‘ALEJKUM WE REHMETUHU LATTEBA’TUMU ESH-SHEJTANE ‘ILLA KALILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 84,
+            "text": "FEKATIL FI SEBILI ELLAHI LA TUKELLEFU ‘ILLA NEFSEKE WE HERRIDIL-MU’UMININE ‘ASALLAHU ‘EN JEKUFFE BE’SEL-LEDHINE KEFERU WEL-LAHU ‘ESHEDDU BE’SÆN WE ‘ESHEDDU TENKILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 85,
+            "text": "MEN JESHFA’ SHEFA’ATEN HESENETEN JEKUN LEHU NESIBUN MINHA WE MEN JESHFA’ SHEFA’ATEN SEJJI’ETEN JEKUN LEHU KIFLUN MINHA WE KANEL-LAHU ‘ALA KULLI SHEJ’IN MUKITÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 86,
+            "text": "WE ‘IDHA HUJJITUM BITEHIJETIN FEHEJJU BI’EHSENE MINHA ‘EW RUDDUHA ‘INNALL-LLAHE KANE ‘ALA KULLI SHEJ’IN HESIBÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 87,
+            "text": "ELLAHU LA ‘ILAHE ‘ILLA HUWE LEJEXHME’ANNEKUM ‘ILA JEWMIL-KIJAMETI LA REJBE FIHI WE MEN ‘ESDEKU MINEL-LAHI HEDITHÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 88,
+            "text": "FEMA LEKUM FIL-MUNAFIKINE FI’ETEJNI WEL-LAHU ‘ERKESEHUM BIMA KESEBU ‘ETURIDUNE ‘EN TEHDU MEN ‘EDELLEL-LAHU WE MEN JUDLILI ELLAHU FELEN TEXHIDE LEHU SEBILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 89,
+            "text": "WE DDU LEW TEKFURUNE KEMA KEFERU FETEKUNUNE SEWA’EN FELA TETTEHIDHU MINHUM ‘EWLIJA’E HETTA JUHAXHIRU FI SEBILI ELLAHI FE’IN TEWELLEW FEHUDHUHUM WAKTULUHUM HEJTHU WEXHEDTUMUHUM WE LA TETTEHIDHU MINHUM WELIJÆN WE LA NESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 90,
+            "text": "‘ILLAL-LEDHINE JESILUNE ‘ILA KAWMIN BEJNEKUM WE BEJNEHUM MITHAKUN ‘EW XHA’UKUM HESIRET SUDURUHUM ‘EN JUKATILUKUM ‘EW JUKATILU KAWMEHUM WE LEW SHA’EL-LAHU LESELLETEHUM ‘ALEJKUM FELEKATELUKUM FE’INI A’TEZELUKUM FELEM JUKATILUKUM WE ‘ELKAW ‘ILEJKUMU ES-SELEM"
+        },
+        {
+            "chapter": 4,
+            "verse": 91,
+            "text": "SETEXHIDUNE ‘AHARINE JURIDUNE ‘EN JE’MENUKUM WE JE’MENU KAWMEHUM KULLE MA RUDDU ‘ILAL-FITNETI ‘URKISU FIHA FE’IN LEM JA’TEZILUKUM WE JULKU ‘ILEJKUMU ES-SELEME WE JEKUFFU ‘EJDIJEHUM FEHUDHUHUM WAKTULUHUM HEJTHU THEKIFTUMUHUM WE ‘ULE’IKUM XHE’ALNA LEKUM ‘AL"
+        },
+        {
+            "chapter": 4,
+            "verse": 92,
+            "text": "WE MA KANE LIMU’UMININ ‘EN JEKTULE MU’UMINÆN ‘ILLA HATE’EN WE MEN KATELE MU’UMINÆN HATE’EN FETEHRIRU REKABETIN MU’UMINETIN WE DIJETUN MUSELLEMETUN ‘ILA ‘EHLIHI ‘ILLA ‘EN JESSEDDEKU FE’IN KANE MIN KAWMIN ‘ADUWIN LEKUM WE HUWE MU’UMINUN FETEHRIRU REKABETIN"
+        },
+        {
+            "chapter": 4,
+            "verse": 93,
+            "text": "WE MEN JEKTUL MU’UMINÆN MUTE’AMMIDÆN FEXHEZA’UUHU XHEHENNEMU HALIDÆN FIHA WE GADIBEL-LAHU ‘ALEJHI WE LE’ANEHU WE ‘E’ADDE LEHU ‘ADHABÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 94,
+            "text": "JA ‘EJJUHAL-LEDHINE ‘AMENU ‘IDHA DEREBTUM FI SEBILI ELLAHI FETEBEJJENU WE LA TEKULU LIMEN ‘ELKA ‘ILEJKUMU ES-SELAME LESTE MU’UMINÆN TEBTEGUNE ‘AREDEL-HEJÆTI ED-DUNJA FA’INDEL-LAHI MEGANIMU KETHIRETUN KEDHALIKE KUNTUM MIN KABLU FEMENNEL-LAHU ‘ALEJKUM FETEB"
+        },
+        {
+            "chapter": 4,
+            "verse": 95,
+            "text": "LA JESTEWIL-KA’IDUNE MINEL-MU’UMININE GAJRU ‘ULI ED-DERERI WEL-MUXHAHIDUNE FI SEBILI ELLAHI BI’EMWALIHIM WE ‘ENFUSIHIM FEDDELEL-LAHUL-MUXHAHIDINE BI’EMWALIHIM WE ‘ENFUSIHIM ‘ALEL-KA’IDINE DEREXHETEN WE KULLÆN WE’ADEL-LAHUL-HUSNA WE FEDDELEL-LAHUL-MUXHAHID"
+        },
+        {
+            "chapter": 4,
+            "verse": 96,
+            "text": "DEREXHATIN MINHU WE MEGFIRETEN WE REHMETEN WE KANEL-LAHU GAFURÆN REHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 97,
+            "text": "‘INNEL-LEDHINE TEWEFFAHUMUL-MELA’IKETU DHALIMI ‘ENFUSIHIM KALU FIME KUNTUM KALU KUNNA MUSTED’AFINE FIL-’ERDI KALU ‘ELEM TEKUN ‘ERDU ELLAHI WASI’ATEN FETUHAXHIRU FIHA FE’ULA’IKE ME’WAHUM XHEHENNEMU WE SA’ET MESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 98,
+            "text": "‘ILLAL-MUSTED’AFINE MINE ER-RIXHALI WE EN-NISA’ WEL-WILDANI LA JESTETI’UNE HILETEN WE LA JEHTEDUNE SEBILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 99,
+            "text": "FE’ULA’IKE ‘ASALLAHU ‘EN JA’FUWE ‘ANHUM WE KANEL-LAHU ‘AFUWÆN GAFURÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 100,
+            "text": "WE MEN JUHAXHIR FI SEBILI ELLAHI JEXHID FIL-’ERDI MURAGAMÆN KETHIRÆN WE SE’ATEN WE MEN JEHRUXH MIN BEJTIHI MUHAXHIRÆN ‘ILA ELLAHI WE RESULIHI THUMME JUDRIK/HUL-MEWTU FEKAD WEKA’A ‘EXHRUHU ‘ALA ELLAHI WE KANEL-LAHU GAFURÆN REHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 101,
+            "text": "WE ‘IDHA DEREBTUM FIL-’ERDI FELEJSE ‘ALEJKUM XHUNAHUN ‘EN TEKSURU MINE ES-SELÆTI ‘IN HIFTUM ‘EN JEFTINEKUMUL-LEDHINE KEFERU ‘INNEL-KAFIRINE KANU LEKUM ‘ADUWÆN MUBINÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 102,
+            "text": "WE ‘IDHA KUNTE FIHIM FE’EKAMTE LEHUMU ES-SELÆTE FELTEKUM TA’IFETUN MINHUM ME’AKE WE LIE’HUDHU ‘ESLIHETEHUM FE’IDHA SEXHEDU FELJEKUNU MIN WERA’IKUM WE LTE’TI TA’IFETUN ‘UHRA LEM JUSELLU FELJUSELLU ME’AKE WE LIE’HUDHU HIDHREHUM WE ‘ESLIHETEHUM WEDDEL-LEDHIN"
+        },
+        {
+            "chapter": 4,
+            "verse": 103,
+            "text": "FE’IDHA KADEJTUMU ES-SELÆTE FADHKURU ELLAHE KIJAMÆN WE KU’UDÆN WE ‘ALA XHUNUBIKUM FE’IDHA ETME’NENTUM FE’EKIMU ES-SELÆTE ‘INNE ES-SELÆTE KANET ‘ALEL-MU’UMININE KITABÆN MEWKUTÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 104,
+            "text": "WE LA TEHINU FI EBTIGA’IL-KAWMI ‘IN TEKUNU TE’LEMUNE FE’INNEHUM JE’LEMUNE KEMA TE’LEMUNE WE TERXHUNE MINEL-LAHI MA LA JERXHUNE WE KANEL-LAHU ‘ALIMÆN HEKIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 105,
+            "text": "‘INNA ‘ENZELNA ‘ILEJKEL-KITABE BIL-HEKKI LITEHKUME BEJNE EN-NASI BIMA ‘ERAKEL-LAHU WE LA TEKUN LILHA’ININE HASIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 106,
+            "text": "WE ESTEGFIRI ELLAHE ‘INNALL-LLAHE KANE GAFURÆN REHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 107,
+            "text": "WE LA TUXHADIL ‘ANIL-LEDHINE JEHTANUNE ‘ENFUSEHUM ‘INNALL-LLAHE LA JUHIBBU MEN KANE HAWWANÆN ‘ETHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 108,
+            "text": "JESTEHFUNE MINE EN-NASI WE LA JESTEHFUNE MINEL-LAHI WE HUWE ME’AHUM ‘IDH JUBEJJITUNE MA LA JERDA MINEL-KAWLI WE KANEL-LAHU BIMA JA’MELUNE MUHITÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 109,
+            "text": "HA’ENTUM HA’UULA’ XHADELTUM ‘ANHUM FIL-HEJÆTI ED-DUNJA FEMEN JUXHADILU ELLAHE ‘ANHUM JEWMEL-KIJAMETI ‘EM MEN JEKUNU ‘ALEJHIM WE KILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 110,
+            "text": "WE MEN JA’MEL SU’ÆN ‘EW JEDHLIM NEFSEHU THUMME JESTEGFIRI ELLAHE JEXHIDI ELLAHE GAFURÆN REHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 111,
+            "text": "WE MEN JEKSIB ‘ITHMÆN FE’INNEMA JEKSIBUHU ‘ALA NEFSIHI WE KANEL-LAHU ‘ALIMÆN HEKIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 112,
+            "text": "WE MEN JEKSIB HATI’ETEN ‘EW ‘ITHMÆN THUMME JERMI BIHI BERI’ÆN FEKADI EHTEMELE BUHTANÆN WE ‘ITHMÆN MUBINÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 113,
+            "text": "WE LEWLA FEDLU ELLAHI ‘ALEJKE WE REHMETUHU LEHEMMET TA’IFETUN MINHUM ‘EN JUDILLUKE WE MA JUDILLUNE ‘ILLA ‘ENFUSEHUM WE MA JEDURRUNEKE MIN SHEJ’IN WE ‘ENZELEL-LAHU ‘ALEJKEL-KITABE WEL-HIKMETE WE ‘ALLEMEKE MA LEM TEKUN TA’LEMU WE KANE FEDLU ELLAHI ‘ALEJKE ‘"
+        },
+        {
+            "chapter": 4,
+            "verse": 114,
+            "text": "LA HAJRE FI KETHIRIN MIN NEXHWAHUM ‘ILLA MEN ‘EMERE BISEDEKATIN ‘EW MA’RUFIN ‘EW ‘ISLAHIN BEJNE EN-NASI WE MEN JEF’AL DHALIKE EBTIGA’E MERDÆTI ELLAHI FESEWFE NU’UTIHI ‘EXHRÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 115,
+            "text": "WE MEN JUSHAKIKI ER-RESULE MIN BA’DI MA TEBEJJENE LEHUL-HUDA WE JETTEBI’ GAJRE SEBILIL-MU’UMININE NUWELLIHI MA TEWELLA WE NUSLIHI XHEHENNEME WE SA’ET MESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 116,
+            "text": "‘INNALL-LLAHE LA JEGFIRU ‘EN JUSHREKE BIHI WE JEGFIRU MA DUNE DHALIKE LIMEN JESHA’U WE MEN JUSHRIK BILLAHI FEKAD DELLE DELALÆN BA’IDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 117,
+            "text": "‘IN JED’UNE MIN DUNIHI ‘ILLA ‘INATHÆN WE ‘IN JED’UNE ‘ILLA SHEJTANÆN MERIDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 118,
+            "text": "LE’ANEHU ELLAHU WE KALE LE’ETTEHIDHENNE MIN ‘IBADIKE NESIBÆN MEFRUDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 119,
+            "text": "WE LE’UDILLENNEHUM WE LE’UMENNIJENNEHUM WE LE’AMURENNEHUM FELEJUBETTIKUNNE ‘ADHANEL-’EN’AM WE LE’AMURENNEHUM FELEJUGAJJIRUNNE HALKAL-LAHI WE MEN JETTEHIDHI ESH-SHEJTANE WELIJÆN MIN DUNI ELLAHI FEKAD HASIRE HUSRANÆN MUBINÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 120,
+            "text": "JA’IDUHUM WE JUMENNIHIM WE MA JA’IDUHUMU ESH-SHEJTANU ‘ILLA GURURÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 121,
+            "text": "‘ULA’IKE ME’WAHUM XHEHENNEMU WE LA JEXHIDUNE ‘ANHA MEHISÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 122,
+            "text": "WEL-LEDHINE ‘AMENU WE ‘AMILU ES-SALIHATI SENUDHILUHUM XHENNATIN TEXHRI MIN TEHTIHAL-’ENHARU HALIDINE FIHA ‘EBEDÆN WA’DEL-LAHI HEKKÆN WE MEN ‘ESDEKU MINEL-LAHI KILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 123,
+            "text": "LEJSE BI’EMANIJIKUM WE LA ‘EMANIJI ‘EHLIL-KITABI MEN JA’MEL SU’ÆN JUXHZE BIHI WE LA JEXHID LEHU MIN DUNI ELLAHI WELIJÆN WE LA NESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 124,
+            "text": "WE MEN JA’MEL MINE ES-SALIHATI MIN DHEKERIN ‘EW ‘UNTHA WE HUWE MU’UMINUN FE’ULA’IKE JEDHULUNEL-XHENNETE WE LA JUDHLEMUNE NEKIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 125,
+            "text": "WE MEN ‘EHSENU DINÆN MIMMEN ‘ESLEME WEXHHEHU LILLAHI WE HUWE MUHSINUN WE ETTEBE’A MILLETE ‘IBRAHIME HENIFÆN WE ETTEHADHEL-LAHU ‘IBRAHIME HALILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 126,
+            "text": "WE LILLEHI MA FI ES-SEMAWATI WE MA FIL-’ERDI WE KANEL-LAHU BIKULLI SHEJ’IN MUHITÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 127,
+            "text": "WE JESTEFTUNEKE FI EN-NISA’ KULI ELLAHU JUFTIKUM FIHINNE WE MA JUTLA ‘ALEJKUM FIL-KITABI FI JETAMA EN-NISA’L-LATI LA TU’UTUNEHUNNE MA KUTIBE LEHUNNE WE TERGABUNE ‘EN TENKIHUHUNNE WEL-MUSTED’AFINE MINEL-WILDANI WE ‘EN TEKUMU LILJETAMA BIL-KISTI WE MA TEF’A"
+        },
+        {
+            "chapter": 4,
+            "verse": 128,
+            "text": "WE ‘INI EMRE’ETUN HAFET MIN BA’LIHA NUSHUZÆN ‘EW ‘I’RADÆN FELA XHUNAHE ‘ALEJHIMA ‘EN JUSLIHA BEJNEHUMA SULHÆN WE ES-SULHU HAJRUN WE ‘UHDIRETIL-’ENFUSU ESH-SHUHHE WE ‘IN TUHSINU WE TETTEKU FE’INNALL-LLAHE KANE BIMA TA’MELUNE HABIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 129,
+            "text": "WE LEN TESTETI’U ‘EN TA’DILU BEJNE EN-NISA’ WE LEW HERESTUM FELA TEMILU KULLEL-MEJLI FETEDHERUHA KALMU’ALLEKATI WE ‘IN TUSLIHU WE TETTEKU FE’INNALL-LLAHE KANE GAFURÆN REHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 130,
+            "text": "WE ‘IN JETEFERREKA JUGNI ELLAHU KULLA MIN SE’ATIHI WE KANEL-LAHU WASI’ÆN HEKIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 131,
+            "text": "WE LILLEHI MA FI ES-SEMAWATI WE MA FIL-’ERDI WE LEKAD WESSEJNAL-LEDHINE ‘UTUL-KITABE MIN KABLIKUM WE ‘IJAKUM ‘ENI ETTEKU ELLAHE WE ‘IN TEKFURU FE’INNE LILLAHI MA FI ES-SEMAWATI WE MA FIL-’ERDI WE KANEL-LAHU GANIJÆN HEMIDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 132,
+            "text": "WE LILLEHI MA FI ES-SEMAWATI WE MA FIL-’ERDI WE KEFA BILLAHI WE KILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 133,
+            "text": "‘IN JESHE’ JUDH/HIBKUM ‘EJJUHA EN-NASU WE JE’TI BI’AHARINE WE KANEL-LAHU ‘ALA DHALIKE KADIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 134,
+            "text": "MEN KANE JURIDU THEWABE ED-DUNJA FA’INDEL-LAHI THEWABU ED-DUNJA WEL-’AHIRETI WE KANEL-LAHU SEMI’ÆN BESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 135,
+            "text": "JA ‘EJJUHAL-LEDHINE ‘AMENU KUNU KAWWAMINE BIL-KISTI SHUHEDA’E LILLAHI WE LEW ‘ALA ‘ENFUSIKUM ‘EWIL-WALIDEJNI WEL-’EKREBINE ‘IN JEKUN GANIJÆN ‘EW FEKIRÆN FE-ELLAHU ‘EWLA BIHIMA FELA TETTEBI’UL-HEWA ‘EN TA’DILU WE ‘IN TELWU ‘EW TU’RIDU FE’INNALL-LLAHE KANE"
+        },
+        {
+            "chapter": 4,
+            "verse": 136,
+            "text": "JA ‘EJJUHAL-LEDHINE ‘AMENU ‘AMINU BILLAHI WE RESULIHI WEL-KITABIL-LEDHI NEZZELE ‘ALA RESULIHI WEL-KITABIL-LEDHI ‘ENZELE MIN KABLU WE MEN JEKFUR BILLAHI WE MELA’IKETIHI WE KUTUBIHI WE RUSULIHI WEL-JEWMIL-’AHIRI FEKAD DELLE DELALÆN BA’IDÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 137,
+            "text": "‘INNEL-LEDHINE ‘AMENU THUMME KEFERU THUMME ‘AMENU THUMME KEFERU THUMME EZDADU KUFRÆN LEM JEKUNI ELLAHU LIJEGFIRE LEHUM WE LA LIJEHDIJEHUM SEBILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 138,
+            "text": "BESHSHIRIL-MUNAFIKINE BI’ENNE LEHUM ‘ADHABÆN ‘ELIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 139,
+            "text": "EL-LEDHINE JETTEHIDHUNEL-KAFIRINE ‘EWLIJA’E MIN DUNIL-MU’UMININE ‘EJEBTEGUNE ‘INDEHUMUL-’IZZETE FE’INNEL-’IZZETE LILLAHI XHEMI’ÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 140,
+            "text": "WE KAD NEZZELE ‘ALEJKUM FIL-KITABI ‘EN ‘IDHA SEMI’TUM ‘AJATI ELLAHI JUKFERU BIHA WE JUSTEHZE’U BIHA FELA TEK’UDU ME’AHUM HETTA JEHUDU FI HEDITHIN GAJRIHI ‘INNEKUM ‘IDHÆN MITHLUHUM ‘INNALL-LLAHE XHAMI’UL-MUNAFIKINE WEL-KAFIRINE FI XHEHENNEME XHEMI’ÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 141,
+            "text": "EL-LEDHINE JETEREBBESUNE BIKUM FE’IN KANE LEKUM FETHUN MINEL-LAHI KALU ‘ELEM NEKUN ME’AKUM WE ‘IN KANE LILKAFIRINE NESIBUN KALU ‘ELEM NESTEHWIDH ‘ALEJKUM WE NEMNA’KUM MINEL-MU’UMININE FE-ELLAHU JEHKUMU BEJNEKUM JEWMEL-KIJAMETI WE LEN JEXH’ALEL-LAHU LILKAF"
+        },
+        {
+            "chapter": 4,
+            "verse": 142,
+            "text": "‘INNEL-MUNAFIKINE JUHADI’UNEL-LAHE WE HUWE HADI’UHUM WE ‘IDHA KAMU ‘ILA ES-SELÆTI KAMU KUSALA JURA’UNE EN-NASE WE LA JEDHKURUNEL-LAHE ‘ILLA KALILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 143,
+            "text": "MUDHEBDHEBINE BEJNE DHALIKE LA ‘ILA HA’UULA’ WE LA ‘ILA HA’UULA’ WE MEN JUDLILI ELLAHU FELEN TEXHIDE LEHU SEBILÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 144,
+            "text": "JA ‘EJJUHAL-LEDHINE ‘AMENU LA TETTEHIDHUL-KAFIRINE ‘EWLIJA’E MIN DUNIL-MU’UMININE ‘ETURIDUNE ‘EN TEXH’ALU LILLAHI ‘ALEJKUM SULTANÆN MUBINÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 145,
+            "text": "‘INNEL-MUNAFIKINE FI ED-DERKIL-’ESFELI MINE EN-NARI WE LEN TEXHIDE LEHUM NESIRÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 146,
+            "text": "‘ILLAL-LEDHINE TABU WE ‘ESLEHU WE A’TESEMU BILLAHI WE ‘EHLESU DINEHUM LILLAHI FE’ULA’IKE ME’AL-MU’UMININE WE SEWFE JU’UTI ELLAHUL-MU’UMININE ‘EXHRÆN ‘ADHIMÆN"
+        },
+        {
+            "chapter": 4,
+            "verse": 147,
+            "text": "MA JEF’ALU ELLAHU BI’ADHABIKUM ‘IN SHEKERTUM WE ‘AMENTUM WE KANEL-LAHU SHAKIRÆN ‘ALIMÆN"
+        }
+    ]
+}

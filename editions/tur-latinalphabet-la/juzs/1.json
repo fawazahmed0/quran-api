@@ -1,0 +1,744 @@
+{
+    "juzs": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Bismillahirrahmanirrahim"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "El hamdu lillahi rabbil alemin"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Er rahmanir rahıym"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Maliki yevmid din"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Iyyake na´budu ve iyyake nesteıyn"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Ihdinas sıratal mustekıym"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Sıratallezine en´amte aleyhim gayril magdubi aleyhim ve lad dallin"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Elif lam mim"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "Zalikel kitabu la raybe fıh* hudel lil muttekıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "Ellezıne yu´minune bil gaybi ve yukıymunas salate ve mimma razaknahum yunfikun"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "Vellezine yu´minune bi ma unzile ileyke ve ma unzile min kablik* ve bil ahırati hum yukınun"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Ulaike ala hudem mir rabbihim ve ulaike humul muflihun"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Innellezıne keferu sevaun aleyhim e enzertehum em lem tunzirhum la yu´minun"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Hatemallahu ala kulubihim ve ala sem´ıhim* ve ala ebsarihim gasaveh* ve lehum azabun azıym"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "Ve minen nasi mey yekulu amenna billahi ve bil yevmil ahıri ve ma hum bi mu´minın"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "Yuhadiunellahe vellezıne amenu* ve ma yahdeune illa enfusehum ve ma yes´urun"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "Fı kulubihim meradun fe zadehumullahu merada* ve lehum azabun elımum bi ma kanu yekzibun"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Ve iza kıyle lehum la tufsidu fil erdı kalu innema nahnu muslihun"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "Ela innehum humul mufsidune ve lakil la les´urun"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Ve iza kıyle lehum aminu kema amenen nasu kalu e nu´minu kema amenes sufeha´* ela innehum humus sufehau ve lakil la ya´lemun"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Ve iza lekullezıne amenu kalu amenna* ve iza halev ila seyatıynihim kalu inna meakum innema nahnu mustehziun"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Allahu yestehziu bihim ve yemudduhum fı tugyanihim ya´mehun"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "Ulaikellezınesteravud dalalete bil huda* fe ma rabihat ticaratuhum ve ma kanu muhtedın"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Meseluhum ke meselillezistevkade nara* fe lemma edaet ma havlehu zehebellahu bi nurihim ve terakehum fı zulumatil la yubsırun"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "Summum bukmun umyun fe hum la yarciun"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Ev ke seyyibim mines semai fıhi zulumatuv ve ra´duv ve bark* yec´alune esabiahum fı azanihim mines savaıkı hazeral mevt* vallahu muhıytum bil kafirın"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "Yekadul berku yahtafu ebsarahum* kullema edae lehum mesev fıhi ve iza azleme aleyhim kamu* ve lev saellahu le zehebe bi sem´ıhim ve ebsarihim* innellahe ala kulli sey´in kadiyr"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Ya eyyuhen nasu´budu rabbekumullezı halekakum vellezıne min kablikum leallekum tettekun"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "Ellezı ceale lekumul erda firasev ves semae binaa* ve enzele mines semai maen fe ahrece bihı mines semerati rizkal lekum* fe la tec´alu lillahi endadev ve entum ta´lemun"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "Ve in kuntum fı raybim mimma nezzelna ala abdina fe´tu bi suratim mim mislih* ved´u suhedaekum min dunillahi in kuntum sadikıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "Fe illem tef´alu ve len tef´alu fettekun naralletı vekuduhen nasu vel hıcarah* uıddet lil kafirın"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "Ve bessirillezıne amenu ve amilus salihati enne lehum cennatin tecrı min tahtihel enhar* kullema ruziku minha min semeratir rizkan kalu hazellezı ruzıkna min kablu ve utu bihı mutesabiha* ve lehum fıha ezvacum mutahheratuv ve hum fıha halidun"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "Innellahe la yestahyı ey yadribe meselem ma beudaten fe ma fevkaha* fe emmellezıne amenu fe ya´lemune ennehul hakku mir rabbihim* ve emmellezıne keferu fe yekulune maza eradellahu bi haza mesela* yudıllu bihı kesırav ve yehdı bihı kesıra* ve ma yudıllu bihı illel fasikıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "Ellezıne yenkudune ahdellahi mim ba´di mısakıh* ve yaktaune ma emerallahu bihı ey yusale ve yufsidune fil ard* ulaike humul hasirun"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Keyfe tekfurune billahi ve kuntum emvaten fe ahyakum* summe yumıtukum summe yuhyıkum summe ileyhi turceun"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "Huvellezı haleka lekum ma fil erdı cemıan summesteva iles semai fe sevvahunne seb´a semavat* ve huve bi kulli sey´in alım"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Ve iz kale rabbuke lil melaiketi innı caılun fil erdı halıfeh* kalu e tec´alu fıha mey yufsidu fıha ve yesfikud dima´* ve nahnu nusebbihu bi hamdike ve nukaddisu lek* kale innı a´lemu ma la ta´lemun"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "Ve alleme ademel esmae kulleha summe aradahum alel melaiketi fe kale embiunı bi esmai haulai in kuntum sadikıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Kalu subhaneke la ılme lena illa ma alemtena* inneke entel alımul hakım"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "Kale ya ademu embi´hum bi esmaihim* felemma embeehum bi esmaihim kale e lem ekul lekum innı a´lemu gaybes semavati vel erdı ve a´lemu ma tubdune ve ma kuntum tektumun"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Ve iz kulna lil melaiketiscudu li ademe fe secedu illa iblıs* eba vestekbera ve kane minel kafirın"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Ve kulna ya ademuskun ente ve zevcukel cennete ve kula minha ragaden haysu si´tuma* ve la takraba hazihis secerate fe tekuna minez zalimın"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Fe ezellehumes seytanu anha fe ahracehuma mimma kana fıh* ve kulnehbitu ba´dukum li ba´dın aduvv* ve lekum fil erdı mustekarruv ve metaun ila hıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Fe telekka ademu mir rabbihı kelimatin fe tabe aleyh* innehu huvet tevvabur rahıym"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Kulnehbitu minha cemıa* fe imma ye´tiyennekum minnı huden fe men tebia hudaye fe la havfun aleyhim ve la hum yahzenun"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "Vellezıne keferu ve kezzebu bi ayatina ulaike ashabun nar* hum fıha halidun"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Ya benı israılezkuru nı´metiyelletı en´amtu aleykum ve evfu bi ahdı ufi biahdikum ve iyyaye ferhebun"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Ve aminu bi ma enzeltu musaddikal li ma meakum ve la tekunu evvele kafirim bih* ve la testeru bi ayatı semenen kalilev ve iyaye fettekun"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Ve la telbisul hakka bil batılı ve tektumul hakka ve entum ta´lemun"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Ve ekıymus salate ve atuz zekate verkeu mear rakiıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "E te´murunen nase bil birri ve tensevne enfusekum ve entum tetlunel kitab* e fe la ta´kılun"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Vesteıynu bis sabri ves salah* ve inneha le keıratun illa alel hasiıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "Ellezıne yezunnune ennehum mulaku rabbihim ve ennehum ileyhi raciun"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "Ya benı israılezkuru nı´metiyelletı en´amtu aleykum ve ennı faddaltukum alel alemın"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Vetteku yevmel la teczı nefsun an nefsin sey´ev ve la yukbelu minha sefaatuv ve la yu´hazu minha adluv ve la hum yunsarun"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "Ve iz necceynakum min ali fir´avneyesumunekum suel azabi yuzebbihune ebnaekum ve yestahyune nisaekum* ve fı zalikum belaum mir rabbikum azıym"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "Ve iz ferakna bikumul bahra fe enceynakum ve agrakna ale fir´avne ve entum tenzurun"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "Veiz vaadna musa erbeıyne leyleten summettehaztumul ıcle mim ba´dihı ve entum zalimun"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Summe afevna ankum mim ba´di zalike leallekum teskurun"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "Ve iz ateyna musel kitabe vel furkane leallekum teehtedun"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "Ve iz kale musa li kavmihı ya kavmi innekum zalemtum enfusekum bittihazikumul ıcle fe tubu ila bariikum faktulu enfusekum* zalikum hayrul lekum ınde bariikum* fe tabe aleykum* innehu huvet tevvabur rahıym"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "Ve iz kultum ya musa len nu´mine leke hatta nerallahe cehraten fe ehazetkumus saıkatu ve entum tenzurun"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Summe beasnakum mim ba´di mevtikum leallekum teskurun"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Ve zallelna aleykumul gamame ve enzelna aleykumul menne ves selva* kulu min tayyibati ma razaknakum* ve ma zalemuna ve lakin kanu enfusehum yazlimun"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "Ve iz kulnedhulu hazihil karyete fe kulu minha haysu si´tum ragadev vedhulul babe succedev ve kulu hıttatun nagfirlekum hatayakum* ve senezıdul muhsinın"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Fe beddellezıne zalemu kavlen gayrallezı kıyle lehum fe enzelna alellezıne zalemu riczem mines semai bi ma kanu yefsukun"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "Ve izisteska musa li kavmihı fe kulnadrib bi asakel hacer* fenfecerat minhusneta asrate ayna* kad alime kullu unasim mesrabehum* kulu vesrabu mir rizkıllahi ve la ta´sev fil erdı mufsidın"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Ve iz kultum ya musa len nasbira ala taamiv vahıdin fed´u lena rabbeke yuhric lena mimma tumbitul erdu mim bakliha ve kıssaiha ve fumiha ve adesiha ve besaliha* kale e testebdilunellezı huv edna billezı huve hayr* ihbitu mısran fe inne lekum ma seeltum* ve duribet aleyhimuz zilletu vel meskenetu ve bau bi gadabim minellah* zalike bi ennehum kanu yekfurune bi ayatillahi ve yaktulunen nebiyyıne bi gayril hakk* zalike bi ma asav ve kanu ya´tedun"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "Innellezıne amenu vellezıne hadu ven nesara ves sabiıne min amene billahi vel yevmil ahıri ve amile salihan fe lehum ecruhum ınde rabbihim *ve la havfun aleyhim ve la hum yahzenun"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Ve iz ehazna mısakakum ve rafa´na fevkakumut tur * huzu ma ateynakum bi kuvvetiv vezkuru ma fıhi leallekum tettekun"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Summe tevelleytum mim ba´di zalik *fe lev la fadlullahi aleykum ve rahmetuhu lekuntum minel hasirın"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Ve le kad alimtumullezına´tedev minkum fis sebti fe kulna lehum kunu kıradeten hasiın"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "Fe cealnaha nekalel li ma beyne yedeyha ve ma halfeha ve mev´ızatel lil muttekıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Ve iz kale musa li kavmihı innellahe ye´murukum en tezbehu bekarah *kalu etettehızuna huzuva *kale euzu billahi en ekune minel cahilın"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Kalud´u lena rabbeke yubeyyil lena ma hı *kale innehu yekulu inneha bekarutl la fariduv ve la bikr * avanum beyne zalik * fef´alu ma tu´merun"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Kaludu lena rabbeke yubeyyil lena ma levnuha *kale innehu yekulu inneha bekaratun safrau fakıul levnuha tesurrun nazırın"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "Kalud´u lena rabbeke yubeyyil lena ma hiye innel bekara tesabehe aleyna* ve inna in saellahu le muhtedun"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "Kale innehu yekulu inneha bekaratul la zelulun tusırul erda ve la teskıl hars* musellemetul lasiyete fıha* kalul ane ci´te bil hakk* fe zebehuha ve ma kadu yef´alun"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "Ve iz kateltum nefsen feddara´tum fıha* vallahu muhricum ma kuntum tektumun"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "Fe kulnadribuhu bi ba´dıha* kezalike yuhyillahul mevta ve yurıkum ayatihı leallekum ta´kılun"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "Summe kaset kulubukum mim ba´di zalike fe hiye kel hıcarati ev eseddu kasveh* ve inne minel hıcarati lema yetefecceru minhul enhar* ve inne minha lema yessekkaku fe yahrucu minhul ma´* ve inne minha lema yehbitu min hasyetillah* vemallahu bi gafilin amma ta´melun"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "E fetatmeune ey yu´minu lekum ve kad kane ferıkum minhum yesmeune kelamellahi summe yuharrifunehu mim ba´di ma akaluhu ve hum ya´lemun"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "Ve iza lekullezıne amenu kalu amenna* ve iza hala ba´duhum ila ba´din kalu etuhaddisunehum bi ma fetehallahu aleykum li yuhaccukum bihı ınde rabbikum* e fe la ta´kılun"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "E ve la ya´lemune ennellahe ya´lemu ma yusirrune ve ma yu´linun"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Ve minhum ummiyyune la ya´lemunel kitabe illa emaniyye ve in hum illa yezunnun"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "Fe veylul lillezıne yektubunel kitabe bi eydıhim summe yekulunel kitabe bi eydıhim summe yekulune haza min ındillahi li yesteru bihı semenen kalıla* fe veylul lehum mimma ketebet eydıhim ve veylul lehum mimma yeksibun"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "Ve kalu len temessenen naru illa eyyamem ma´dudeh* kul ettehaztum ındellahi ahden fe ley yuhlifellahu ahdehu em tekulune alellahi ma la ta´lemun"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Bela men kesebe seyyietev ve ehatat bihı hatıy´etuhu fe ulaike ashabun nar* hum fıha halidun"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "Vellezıne amenu ve amilus salihati ulaike ashabul cenneh* hum fıha halidun"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Ve iz ehazna mısaka benı israıle la ta´budune illellahe ve bil valideyni ıhsanev ve izl kurba vel yetam vel mesakıni ve kulu lin nasi husnev ve ekıymus salate ve atuz zekah* summe tevelleytum ila kalılem minkum ve entum mu´ridun"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "Ve iz ehazna mısakakum la tesfikune dimaekum ve la tuhricune enfusekum min diyarikum summe akrartum ve entum teshedun"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Summe entum haulai taktulune enfusekum ve tuhricune ferıkam minkum min diyarihim tezaherune aleyhim bil ismi vel udvan* ve iy ye´tukum usara tufaduhum ve huve muharramun aleykum ıhracuhum* e fe tu´minune bi ba7dıl kitabi ve tekfurune bi ba´d* fe ma cezau mey yef´alu zalike minkum illa hızyun fil hayatid dunya* ve yevmel kıyameti yuraddune ila eseddil azab* vemallahu bi gafilin amma ta´melun"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "Ulaikellezınesteravul hayated dunya bil ahırati fe la yuhaffefu anhumul azabu ve la hum yunsarun"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Ve le kad ateyna musel kitabe ve kaffeyna mim ba´dihı bir rusuli ve ateyna ıysebne meryemel beyyinati ve eyyednahu bi ruhıl kudus* e fe kullema caekum rasulum bima la tehva enfusukumustekbartum* fe ferıkan kezzebtum ve ferıkan taktulun"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "Ve kalu kulubuna gulf* bel leanehumullahu bi kufrihim fe kalılem ma yu´minun"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Ve lemma caehum kitabum min ındillahi musaddikul lima mealhum ve kanu min kablu yesteftihune alellezıne keferu* fe lemma caehum ma arafu keferu bihı fe la´netullahi alel kafirın"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Bi´semesterav bihı enfusehum ey yekfuru bi ma enzelellahu bagyen ey yunezzilellahu min fadlihı ala mey yesau min ıbadih* fe bau bi gadabin ala gadab* ve lil kafirıne azabum muhın"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Ve iza kıyle lehum aminu bi ma enzelellahu kalu nu´minu bima unzile aleyna ve yekfurune bi ma veraehu ve huvel hakku musaddikal lima meahum* kul fe lime taktulune embiyaellahi min kablu in kuntum mu´minın"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Ve le kad caekum musa bil beyyinati summettehaztumul ıcle mim ba´dihı ve entum zalimun"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "Ve iz ehazna mısakakum ve rafa´na fevkakumut tur* huzu ma ateynakum bi kuvvetiv vesmeu* kalu semı´na ve asayna ve usribu fı kulubihimul ıcle bi kufrihımv kul bi´sema ye´murukum bihı ımanukum in kuntum mu´minın"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "Kul in kanet lekumud darul ahıratu indellahi halisatem min dunin nasi fe temennevul mevte in kuntum sadikıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Ve ley yetemennevhu ebedem bima kaddemet eydıhim* vallahu alımum biz zalimın"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "Ve le tecidennehum ahrasan nasi ala hayah* ve minellezıne esraku yeveddu ehaduhum lev yuammeru elfe seneh* ve ma huve bi muzahzihıhı minel azabi ey yuammer* vallahu besıyrum bima ya´melun"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "Kul men kane aduvvel licibrıle fe innehu nezzelehu ala kalbike bi iznillahi musaddikal lima beyne yedeyhi ve hudev ve busra lil mu´minın"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Men kane aduvvel lillahi ve melaiketihı ve rusulihı ve cibrıle ve mıkale fe innellahe aduvvul lil kafirın"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Ve le kad enzelna ileyke ayatim beyyinat* ve ma yekfuru biha illel fasikun"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "E ve kullema ahedu ahden nebezehu ferıkum minhum* bel ekseruhum la yu´minun"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Ve lemma caehum rasulum min ındillahi musaddikul lima mealhum nebeze ferıkum minellezıne utul kitab* kitabellahi verae zuhurihim ke ennehum la ya´lemun"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "Vettebeu ma tetlus seyatıynu ala mulki suleyman* ve ma kefera suleymanu ve lakinnes seyatıyne keferu yuallimunen nasas sıhra ve ma unzile alel melekeyni bi babile harute ve marut* ve ma yuallimani min ehadin hatta yekula innema nahnu fitnetun fe la tekfur* fe yeteallemune minhuma ma yuferrikune bihı beynel mer´i ve zevcih* ve ma hum bi darrıne bihı min ehadin illa bi iznillah* ve yeteallemune ma yedurruhum ve la yenfeuhum* ve le kad alimu le menisterahu ma lehu fil ahırati min halakıv ve le bi´se ma serav bihı enfusehum* lev kanu la´lemun"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Ve lev ennehum amenu vettekav le mesubetum min ındillahi hayr* lev kanu ya´lemun"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Ya eyyuhellezıne amenu la tekulu raına ve kulunzurna vesmeu* ve lil kafirıne azabun elım"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Ma yeveddullezıne keferu min ehlil kitabi ve lel musrikıne ey yunezzele aleykum min hayrim mir rabbikum* vallahu yehtessu bi rahmetihı mey yesa´* vallahu zul fadlil azıym"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Ma nensah min ayetin ev nunsiha ne´ti bi hayrim minha ev misliha* e lem ta´lem ennellahe ala kulli sey´in kadır"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "E lem ta´lem ennellahe lehu mulkus semavati vel ard* ve ma lekum min dunillahi miv veliyyiv ve la nasıyr"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Em turıdune en tes´elu rasulekum kema suile musa min kabl* ve mey yetebeddelil kufra bil ımani fe kad dalle sevaes sbil"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Vedde kesırum min ehlil kitabi lev yeruddunekum mim ba´di ımanikum kuffara* hasedem min ındi enfusihim mim ba´di ma tebeyyene lehumul hakk* fa´fu vasfehu hatta ye´tiyellahu bi emrih* innellahe ala kulli sey´in kadır"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Ve ekıymus salate ve atuz zekah* ve ma tukaddimu li enfusikum min hayrin teciduhu ındellah* innellahe bi ma ta´melune besıyr"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Ve kalu ley yedhulel cennete illa men kane huden ev nesar* tilke emaniyyuhum* kul hatu burhanekum in kuntum sadikıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Bela men esleme vechehu lillahi ve huve muhsinun fe lehu ecruhu ınde rabbihı ve la havvfun aleyhim ve la hum yahzenun"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Ve kaletil yehudu leysetin nesar ala sey´iv ve kaletin nesara leysetil yehudu ala sey´iv ve hum yetlunel kitab* kezalike kalellezıne la ya´lemune misle kavlihim* fallahu yahkumu beynehum yevmel kıyameti fıma kanu fıhi yahtelifun"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Ve men azlemu mimmem menea mesacidellahi ey yuzkera fıhesmuhu ve sea fı harabiha* ulaike ma kane lehum ey yedhuluha illa haifın* lehum fid dunya hızyuv ve lehum fil ahırati azabun azıym"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Ve lillahil mesriku vel magribu fe eynema tuvellu fe semme vechullah* innallahe vasiun alım"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Ve kaluttehazellahu veleden subhaneh* bel lehu ma fis semavati vel ard* kullul lehu kanitun"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "Bedıus semavati vel ard* ve iza kada emran fe innema yekulu lehu kun fe yekun"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Ve kalellezıne la ya´lemune lev la yukellimunellahu ev te´tına ayeh* kezalike kalellezıne min kablihim misle kavlihim* tesabehet kulubuhum* kad beyyennel ayati li kavmiy yukınun"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "Inna erselnake bil hakkı besırav ve nezirav ve la tus´elu an ashabil cehıym"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Ve len terda ankel yehudu ve len nesara hatta tettebia milletehum* kul inne hudellahi huvel huda* ve leinitteba´te ehvaehum ba´dellezı caeke minel ılmi ma leke minallahi miv veliyyiv ve la nasıyr"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Ellezıne ateynahumul kitabe yetlunehu hakka tilavetih* ulaike yu´minune bih* ve mey yekfur bihı fe ulaike humul hasirun"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Ya benı israılezkuru nı´metiyelletı en´amtu aleykum ve ennı faddaltukum alel alemın"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Vetteku yevmel la teczı nefsun an nefsin sey´ev ve la yukbelu minha adluv ve la tenfeuha sefatuv ve la hum yunsarun"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Ve izibtela ibrahıme rabbuhu bi kelimatin fe etemmehunn* kale innı caıluke lin nasi imama* kale ve min zurriyyetı* kale la yenalu ahdiz zalimın"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Ve iz cealnel beyte mesabetel lin nasi ve emna* vettehızu mim mekami ibrahıme musalla* ve ahidna ila ibrahıme ve ismaıyle en tahhira veytiye lit taifıne vel akifıne ver rukkeıs sucud"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "Ve iz kale ibrahımu rabbic´al haza beleden aminev verzuk ehlehu mines semerati min amene minhum billahi vel yevmil ahır* kale ve men kefera fe umettiuhu kalılen summe adtarruhu ila azabin nar* ve bi´sel mesıyr"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "Ve iz yerfeu ibrahımul kavaıde minel beyti ve ismaıyl* rabbena tekabbel minna* inneke entes semıul alım"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Rabbena vec´alna muslimeyni leke ve min zurriyyetina ummetem muslimetel leke ve erina menasikena ve tub aleyna* inneke entet tevvabur rahıym"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Rabbena veb´as fıhim rasulem minhum yetlu aleyhim ayatike ve yuallimuhumul kitabe vel hıkmete ve yuzekkıhim* inneke entel azızul hakım"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Ve mey yergabu ammileti ibrahıme illa men sefihe nefseh* ve le kadıstafeynahu fid dunya* ve innehu fil ahırati le minas salihıyn"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "Iz kale lehu rabbuhu eslim kale eslemtu li rabbil alemın"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "Ve vassa biha ibrahımu benıhi ve ya´kub* ya beniyye innellahestafa lekumud dıne fe la temutunne illa ve entum muslimun"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Em kuntum suhedae iz hadara ya´kubel mevtu iz kale li benıhi ma ta´budune mim ba´dı * kalu na´budu ilaheke ve ilahe abaike ibrahıme ve ismaıyle ve ishaka ilahev vahıda* ve nahnu lehu muslimun"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Tilke ummetun kad halet* leha ma kesebet ve lekum ma kesebtum* ve la tus´elune amma kanu ya´melun"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Ve kalu kunu huden ev nesara tehtedu* kul bel millete ibrahıme hanıfa* ve ma kane minel musrikın"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "Kulu amenna billahi ve ma unzile ileyna ve ma unzile ila ibrahıme ve ismaıyle ve ishaka ve ya´kube vel esbatı ve ma utiye musa ve ıysa ve ma utiyen nebiyyune mir rabbihim* la nuferriku beyne ehadim minhum ve nahnu lehu muslimun"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "Fe in amenu bi misli ma amentum bihı fe kadihtedev* ve in tevellev fe innema hum fı sikak* fe seyekfıkehumullah* ve huves semıul alım"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "Sıbgatellah* ve men ahsenu minellahi sıbgatev ve nahnu lehu abidun"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "Kul etuhaccunena fillahi ve huve rabbuna ve rabbukum* ve lena amaluna ve lekum a´malukum* ve nahnu lehu muhlisun"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Em tekulune inne ibrahıme ve ismaıyle ve ıshaka ve ya´kube vel esbata kanu huden ev nesara* kul e entum a´lemu emillah* ve men azlemu mimmen keteme sehadeten ındehu minellah* ve mallahu bi gafilin amma ta´melun"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Tilke ummetun kad halet* leha ma kesebet ve lekum ma kesebtum* ve la tus´elune amma kanu ya´melun"
+        }
+    ]
+}

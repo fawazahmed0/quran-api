@@ -1,0 +1,394 @@
+{
+    "maqras": [
+        {
+            "chapter": 55,
+            "verse": 1,
+            "text": "ER-REHMANU"
+        },
+        {
+            "chapter": 55,
+            "verse": 2,
+            "text": "‘ALLEMEL-KUR’ANE"
+        },
+        {
+            "chapter": 55,
+            "verse": 3,
+            "text": "HALEKAL-’INSANE"
+        },
+        {
+            "chapter": 55,
+            "verse": 4,
+            "text": "‘ALLEMEHUL-BEJANE"
+        },
+        {
+            "chapter": 55,
+            "verse": 5,
+            "text": "ESH-SHEMSU WEL-KAMERU BIHUSBANIN"
+        },
+        {
+            "chapter": 55,
+            "verse": 6,
+            "text": "WE EN-NEXHMU WE ESH-SHEXHERU JESXHUDANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 7,
+            "text": "WE ES-SEMA’E REFE’AHA WE WEDE’AL-MIZANE"
+        },
+        {
+            "chapter": 55,
+            "verse": 8,
+            "text": "‘ELLA TETGAW FIL-MIZANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 9,
+            "text": "WE ‘EKIMUL-WEZNE BIL-KISTI WE LA TUHSIRUL-MIZANE"
+        },
+        {
+            "chapter": 55,
+            "verse": 10,
+            "text": "WEL-’ERDE WEDE’AHA LIL’ENAMI"
+        },
+        {
+            "chapter": 55,
+            "verse": 11,
+            "text": "FIHA FAKIHETUN WE EN-NEHLU DHATUL-’EKMAMI"
+        },
+        {
+            "chapter": 55,
+            "verse": 12,
+            "text": "WEL-HEBBU DHUL-’ASFI WE ER-REJHANU"
+        },
+        {
+            "chapter": 55,
+            "verse": 13,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 14,
+            "text": "HALEKAL-’INSANE MIN SELSALIN KALFEHHARI"
+        },
+        {
+            "chapter": 55,
+            "verse": 15,
+            "text": "WE HALEKAL-XHANNE MIN MARIXHIN MIN NARIN"
+        },
+        {
+            "chapter": 55,
+            "verse": 16,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 17,
+            "text": "REBBUL-MESHRIKAJNI WE REBBUL-MEGRIBEJNI"
+        },
+        {
+            "chapter": 55,
+            "verse": 18,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 19,
+            "text": "MEREXHEL-BEHREJNI JELTEKIJANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 20,
+            "text": "BEJNEHUMA BERZEHUN LA JEBGIJANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 21,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 22,
+            "text": "JEHRUXHU MINHUMAL-LU’ULU’UU WEL-MERXHANU"
+        },
+        {
+            "chapter": 55,
+            "verse": 23,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 24,
+            "text": "WE LEHUL-XHEWARIL-MUNSHE’ATU FIL-BEHRI KAL’A’LAMI"
+        },
+        {
+            "chapter": 55,
+            "verse": 25,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 26,
+            "text": "KULLU MEN ‘ALEJHA FANIN"
+        },
+        {
+            "chapter": 55,
+            "verse": 27,
+            "text": "WE JEBKA WEXHHU RABBIKE DHUL-XHELALI WEL-’IKRAMI"
+        },
+        {
+            "chapter": 55,
+            "verse": 28,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 29,
+            "text": "JES’ELUHU MEN FI ES-SEMAWATI WEL-’ERDI KULLE JEWMIN HUWE FI SHE’NIN"
+        },
+        {
+            "chapter": 55,
+            "verse": 30,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 31,
+            "text": "SENEFRUGU LEKUM ‘EJJUHA ETH-THEKALANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 32,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 33,
+            "text": "JA MA’SHEREL-XHINNI WEL-’INSI ‘INI ESTETA’TUM ‘EN TENFUDHU MIN ‘EKTARI ES-SEMAWATI WEL-’ERDI FANFUDHU LA TENFUDHUNE ‘ILLA BISULTANIN"
+        },
+        {
+            "chapter": 55,
+            "verse": 34,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 35,
+            "text": "JURSELU ‘ALEJKUMA SHUWADHUN MIN NARIN WE NUHASUN FELA TENTESIRANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 36,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 37,
+            "text": "FE’IDHA ENSHEKKATI ES-SEMA’U FEKANET WERDETEN KALDDIHANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 38,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 39,
+            "text": "FEJEWME’IDHIN LA JUS’ELU ‘AN DHENBIHI ‘INSUN WE LA XHANNUN"
+        },
+        {
+            "chapter": 55,
+            "verse": 40,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 41,
+            "text": "JU’REFUL-MUXHRIMUNE BISIMAHUM FEJU’UHADHU BIN-NEWASI WEL-’EKDAMI"
+        },
+        {
+            "chapter": 55,
+            "verse": 42,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 43,
+            "text": "HEDHIHI XHEHENNEMU ELLETI JUKEDHDHIBU BIHAL-MUXHRIMUNE"
+        },
+        {
+            "chapter": 55,
+            "verse": 44,
+            "text": "JETUFUNE BEJNEHA WE BEJNE HEMIMIN ‘ANIN"
+        },
+        {
+            "chapter": 55,
+            "verse": 45,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 46,
+            "text": "WE LIMEN HAFE MEKAME RABBIHI XHENNETANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 47,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 48,
+            "text": "DHEWATA ‘EFNANIN"
+        },
+        {
+            "chapter": 55,
+            "verse": 49,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 50,
+            "text": "FIHIMA ‘AJNANI TEXHRIJANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 51,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 52,
+            "text": "FIHIMA MIN KULLI FAKIHETIN ZEWXHANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 53,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 54,
+            "text": "MUTTEKI’INE ‘ALA FURUSHIN BETA’INUHA MIN ‘ISTEBREKIN WE XHENAL-XHENNETEJNI DANIN"
+        },
+        {
+            "chapter": 55,
+            "verse": 55,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 56,
+            "text": "FIHINNE KASIRATUT-TERFI LEM JETMITHHUNNE ‘INSUN KABLEHUM WE LA XHANNUN"
+        },
+        {
+            "chapter": 55,
+            "verse": 57,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 58,
+            "text": "KE’ENNEHUNNEL-JAKUTU WEL-MERXHANU"
+        },
+        {
+            "chapter": 55,
+            "verse": 59,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 60,
+            "text": "HEL XHEZA’UL-’IHSANI ‘ILLAL-’IHSANU"
+        },
+        {
+            "chapter": 55,
+            "verse": 61,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 62,
+            "text": "WE MIN DUNIHIMA XHENNETANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 63,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 64,
+            "text": "MUD/HAMMETANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 65,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 66,
+            "text": "FIHIMA ‘AJNANI NEDDAHATANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 67,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 68,
+            "text": "FIHIMA FAKIHETUN WE NEHLUN WE RUMMANUN"
+        },
+        {
+            "chapter": 55,
+            "verse": 69,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 70,
+            "text": "FIHINNE HAJRATUN HISANUN"
+        },
+        {
+            "chapter": 55,
+            "verse": 71,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 72,
+            "text": "HURUN MEKSURATUN FIL-HIJAMI"
+        },
+        {
+            "chapter": 55,
+            "verse": 73,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 74,
+            "text": "LEM JETMITHHUNNE ‘INSUN KABLEHUM WE LA XHANNUN"
+        },
+        {
+            "chapter": 55,
+            "verse": 75,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 76,
+            "text": "MUTTEKI’INE ‘ALA REFREFIN HUDRIN WE ‘ABKARIJIN HISANIN"
+        },
+        {
+            "chapter": 55,
+            "verse": 77,
+            "text": "FEBI’EJJI ‘ALA’I RABBIKUMA TUKEDHDHIBANI"
+        },
+        {
+            "chapter": 55,
+            "verse": 78,
+            "text": "TEBAREKE ESMU RABBIKE DHIL-XHELALI WEL-’IKRAMI"
+        }
+    ]
+}

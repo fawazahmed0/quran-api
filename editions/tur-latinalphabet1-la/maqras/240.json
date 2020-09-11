@@ -1,0 +1,414 @@
+{
+    "maqras": [
+        {
+            "chapter": 100,
+            "verse": 9,
+            "text": "E fe la ya’lemu iza bu’sirama fil kubur(kuburi)"
+        },
+        {
+            "chapter": 100,
+            "verse": 10,
+            "text": "Ve hussıle ma fis sudur(suduri)"
+        },
+        {
+            "chapter": 100,
+            "verse": 11,
+            "text": "Inne rabbehum bihim yevme izin le habir(habirun)"
+        },
+        {
+            "chapter": 101,
+            "verse": 1,
+            "text": "El kariah(kariatu)"
+        },
+        {
+            "chapter": 101,
+            "verse": 2,
+            "text": "Mel kariah(kariatu)"
+        },
+        {
+            "chapter": 101,
+            "verse": 3,
+            "text": "Ve ma edrake mel kariah(kariatu)"
+        },
+        {
+            "chapter": 101,
+            "verse": 4,
+            "text": "Yevme yekunun nasu kel ferasil mebsus(mebsusi)"
+        },
+        {
+            "chapter": 101,
+            "verse": 5,
+            "text": "Ve tekunul cibalu kel ıhnil menfus(menfusi)"
+        },
+        {
+            "chapter": 101,
+            "verse": 6,
+            "text": "Fe emma men sekulet mevazinuh(mevazinuhu)"
+        },
+        {
+            "chapter": 101,
+            "verse": 7,
+            "text": "Fe huve fi isetin radiyeh(radiyetin)"
+        },
+        {
+            "chapter": 101,
+            "verse": 8,
+            "text": "Ve emma men haffet mevazinuh(mevazinuhu)"
+        },
+        {
+            "chapter": 101,
+            "verse": 9,
+            "text": "Fe ummuhu haviyeh(haviyetun)"
+        },
+        {
+            "chapter": 101,
+            "verse": 10,
+            "text": "Ve ma edrake mahiyeh(mahiyeh)"
+        },
+        {
+            "chapter": 101,
+            "verse": 11,
+            "text": "Narun hamiyeh(hamiyetun)"
+        },
+        {
+            "chapter": 102,
+            "verse": 1,
+            "text": "Elhakumut tekasur(tekasuru)"
+        },
+        {
+            "chapter": 102,
+            "verse": 2,
+            "text": "Hatta zurtumul mekabir(mekabire)"
+        },
+        {
+            "chapter": 102,
+            "verse": 3,
+            "text": "Kella sevfe ta’lemun(ta’lemune)"
+        },
+        {
+            "chapter": 102,
+            "verse": 4,
+            "text": "Summe kella sevfe ta’lemun(ta’lemune)"
+        },
+        {
+            "chapter": 102,
+            "verse": 5,
+            "text": "Kella lev ta’lemune ilmel yakin(yakini)"
+        },
+        {
+            "chapter": 102,
+            "verse": 6,
+            "text": "Le terevunnel cahim(cahime)"
+        },
+        {
+            "chapter": 102,
+            "verse": 7,
+            "text": "Summe le terevunneha aynel yakin(yakini)"
+        },
+        {
+            "chapter": 102,
+            "verse": 8,
+            "text": "Summe le tus’elunne yevmeizin anin naim(naimi)"
+        },
+        {
+            "chapter": 103,
+            "verse": 1,
+            "text": "Vel asr(asri)"
+        },
+        {
+            "chapter": 103,
+            "verse": 2,
+            "text": "Innel insane le fi husr(husrin)"
+        },
+        {
+            "chapter": 103,
+            "verse": 3,
+            "text": "Illellezine amenu ve amilus salihati ve tevasav bil hakkı ve tevasav bis sabr(sabrı)"
+        },
+        {
+            "chapter": 104,
+            "verse": 1,
+            "text": "Veylun li kulli humezetin lumezeh(lumezetin)"
+        },
+        {
+            "chapter": 104,
+            "verse": 2,
+            "text": "Ellezi cemea malen ve addedeh(addedehu)"
+        },
+        {
+            "chapter": 104,
+            "verse": 3,
+            "text": "Yahsebu enne malehu ahledeh(ahledehu)"
+        },
+        {
+            "chapter": 104,
+            "verse": 4,
+            "text": "Kella le yunbezenne fil hutameh(hutameti)"
+        },
+        {
+            "chapter": 104,
+            "verse": 5,
+            "text": "Ve ma edrake mel hutameh(hutametu)"
+        },
+        {
+            "chapter": 104,
+            "verse": 6,
+            "text": "Narullahil mukadeh(mukadetu)"
+        },
+        {
+            "chapter": 104,
+            "verse": 7,
+            "text": "Elleti tettaliu alel ef’ideh(ef’ideti)"
+        },
+        {
+            "chapter": 104,
+            "verse": 8,
+            "text": "Inneha aleyhim mu’sadeh(mu’sadetun)"
+        },
+        {
+            "chapter": 104,
+            "verse": 9,
+            "text": "Fi amedin mumeddedeh(mumeddedetin)"
+        },
+        {
+            "chapter": 105,
+            "verse": 1,
+            "text": "E lem tere keyfe feale rabbuke bi ashabil fil(fili)"
+        },
+        {
+            "chapter": 105,
+            "verse": 2,
+            "text": "E lem yec’al keydehum fi tadlil(tadlilin)"
+        },
+        {
+            "chapter": 105,
+            "verse": 3,
+            "text": "Ve ersele aleyhim tayren ebabil(ebabile)"
+        },
+        {
+            "chapter": 105,
+            "verse": 4,
+            "text": "Termihim bi hicaretin min siccil(siccilin)"
+        },
+        {
+            "chapter": 105,
+            "verse": 5,
+            "text": "Fe cealehum keasfin me’kul(me’kulin)"
+        },
+        {
+            "chapter": 106,
+            "verse": 1,
+            "text": "Li ilafi kureys(kureysin)"
+        },
+        {
+            "chapter": 106,
+            "verse": 2,
+            "text": "Ilafihim rıhletes sitai ves sayf(sayfi)"
+        },
+        {
+            "chapter": 106,
+            "verse": 3,
+            "text": "Fel ya’budu rabbe hazel beyt(beyti)"
+        },
+        {
+            "chapter": 106,
+            "verse": 4,
+            "text": "Ellezi at’amehum min cuın ve amenehum min havf(havfin)"
+        },
+        {
+            "chapter": 107,
+            "verse": 1,
+            "text": "E raeytellezi yukezzibu bid din(dine)"
+        },
+        {
+            "chapter": 107,
+            "verse": 2,
+            "text": "Fe zalikellezi yedu’ul yetim(yetime)"
+        },
+        {
+            "chapter": 107,
+            "verse": 3,
+            "text": "Ve la yahuddu ala taamil miskin(miskini)"
+        },
+        {
+            "chapter": 107,
+            "verse": 4,
+            "text": "Fe veylun lil musallin(musalline)"
+        },
+        {
+            "chapter": 107,
+            "verse": 5,
+            "text": "Ellezine hum an salatihim sahun(sahune)"
+        },
+        {
+            "chapter": 107,
+            "verse": 6,
+            "text": "Ellezine hum yuraun(yuraune)"
+        },
+        {
+            "chapter": 107,
+            "verse": 7,
+            "text": "Ve yemneunel maun(maune)"
+        },
+        {
+            "chapter": 108,
+            "verse": 1,
+            "text": "Inna a’taynakel kevser(kevsere)"
+        },
+        {
+            "chapter": 108,
+            "verse": 2,
+            "text": "Fe salli li rabbike venhar"
+        },
+        {
+            "chapter": 108,
+            "verse": 3,
+            "text": "Inne sanieke huvel ebter(ebteru)"
+        },
+        {
+            "chapter": 109,
+            "verse": 1,
+            "text": "Kul ya eyyuhel kafirun(kafirune)"
+        },
+        {
+            "chapter": 109,
+            "verse": 2,
+            "text": "La a’budu ma ta’budun(ta’budune)"
+        },
+        {
+            "chapter": 109,
+            "verse": 3,
+            "text": "Ve la entum abidune ma a’bud(a’budu)"
+        },
+        {
+            "chapter": 109,
+            "verse": 4,
+            "text": "Ve la ene abidun ma abedtum"
+        },
+        {
+            "chapter": 109,
+            "verse": 5,
+            "text": "Ve la entum abidune ma a’bud(a’budu)"
+        },
+        {
+            "chapter": 109,
+            "verse": 6,
+            "text": "Lekum dinukum ve liye din(dini)"
+        },
+        {
+            "chapter": 110,
+            "verse": 1,
+            "text": "Iza cae nasrullahi vel feth(fethu)"
+        },
+        {
+            "chapter": 110,
+            "verse": 2,
+            "text": "Ve reeyten nase yedhulune fi dinillahi efvaca(efvacen)"
+        },
+        {
+            "chapter": 110,
+            "verse": 3,
+            "text": "Fe sebbih bi hamdi rabbike vestagfirh(vestagfirhu), innehu kane tevvaba(tevvaben)"
+        },
+        {
+            "chapter": 111,
+            "verse": 1,
+            "text": "Tebbet yeda ebi lehebin ve tebb(tebbe)"
+        },
+        {
+            "chapter": 111,
+            "verse": 2,
+            "text": "Ma agna anhu maluhu ve ma keseb(kesebe)"
+        },
+        {
+            "chapter": 111,
+            "verse": 3,
+            "text": "Se yasla naren zate leheb(lehebin)"
+        },
+        {
+            "chapter": 111,
+            "verse": 4,
+            "text": "Vemreetuh(vemreetuhu), hammaletel hatab(hatabi)"
+        },
+        {
+            "chapter": 111,
+            "verse": 5,
+            "text": "Fi cidiha hablun min mesed(mesedin)"
+        },
+        {
+            "chapter": 112,
+            "verse": 1,
+            "text": "Kul huvallahu ehad(ehadun)"
+        },
+        {
+            "chapter": 112,
+            "verse": 2,
+            "text": "Allahus samed(samedu)"
+        },
+        {
+            "chapter": 112,
+            "verse": 3,
+            "text": "Lem yelid ve lem yuled"
+        },
+        {
+            "chapter": 112,
+            "verse": 4,
+            "text": "Ve lem yekun lehu kufuven ehad(ehadun)"
+        },
+        {
+            "chapter": 113,
+            "verse": 1,
+            "text": "Kul euzu bi rabbil felak(felakı)"
+        },
+        {
+            "chapter": 113,
+            "verse": 2,
+            "text": "Min serri ma halak(halaka)"
+        },
+        {
+            "chapter": 113,
+            "verse": 3,
+            "text": "Ve min serri gasikın iza vekab(vekabe)"
+        },
+        {
+            "chapter": 113,
+            "verse": 4,
+            "text": "Ve min serrin neffasati fil ukad(ukadi)"
+        },
+        {
+            "chapter": 113,
+            "verse": 5,
+            "text": "Ve min serri hasidin iza hased(hasede)"
+        },
+        {
+            "chapter": 114,
+            "verse": 1,
+            "text": "Kul euzu bi rabbin nas(nasi)"
+        },
+        {
+            "chapter": 114,
+            "verse": 2,
+            "text": "Melikin nas(nasi)"
+        },
+        {
+            "chapter": 114,
+            "verse": 3,
+            "text": "Ilahin nas(nasi)"
+        },
+        {
+            "chapter": 114,
+            "verse": 4,
+            "text": "Min serril vesvasil hannas(hannasi)"
+        },
+        {
+            "chapter": 114,
+            "verse": 5,
+            "text": "Ellezi yuvesvisu fi sudurin nas(nasi)"
+        },
+        {
+            "chapter": 114,
+            "verse": 6,
+            "text": "Minel cinneti ven nas(nasi)"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "pages": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "BISMI ELLAHI ER-REHMANI ER-REHIMI"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "EL-HEMDU LILLAHI RABBIL-’ALEMINE"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "ER-REHMANI ER-REHIMI"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "MALIKI JEWMI ED-DINI"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "‘IJAKE NA’BUDU WE ‘IJAKE NESTA’INU"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "EHDINA ES-SIRATEL-MUSTEKIME"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "SIRATEL-LEDHINE ‘EN’AMTE ‘ALEJHIM GAJRIL-MEGDUBI ‘ALEJHIM WE LA ED-DALLINE"
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+{
+    "maqras": [
+        {
+            "chapter": 100,
+            "verse": 9,
+            "text": "Ha y khong biet, khi moi vat nam duoi mo đeu bi quat len"
+        },
+        {
+            "chapter": 100,
+            "verse": 10,
+            "text": "Va moi đieu (bi mat) trong long se đuoc phoi bay"
+        },
+        {
+            "chapter": 100,
+            "verse": 11,
+            "text": "Qua that, vao Ngay đo, Thuong Đe cua ho se rat muc Am Tuong"
+        },
+        {
+            "chapter": 101,
+            "verse": 1,
+            "text": "Al-Qari'ah"
+        },
+        {
+            "chapter": 101,
+            "verse": 2,
+            "text": "Al-Qari'ah la gi"
+        },
+        {
+            "chapter": 101,
+            "verse": 3,
+            "text": "Va đieu gi cho Nguoi (Muhammad) biet Al-Qari'ah la gi"
+        },
+        {
+            "chapter": 101,
+            "verse": 4,
+            "text": "Đo la Ngay ma nhan loai se nhu buom buom bay tan loan"
+        },
+        {
+            "chapter": 101,
+            "verse": 5,
+            "text": "Va nhung qua nui se (ban tung) nhu cum long cuu đuoc chai ra"
+        },
+        {
+            "chapter": 101,
+            "verse": 6,
+            "text": "Boi the, đoi voi ai ma ban can (chua viec thien tot va ngoan đao) nang"
+        },
+        {
+            "chapter": 101,
+            "verse": 7,
+            "text": "Thi se huong mot đoi song hai long va thoa nguyen"
+        },
+        {
+            "chapter": 101,
+            "verse": 8,
+            "text": "Va đoi voi ai ma ban can (chua viec thien tot va ngoan đao) nhe"
+        },
+        {
+            "chapter": 101,
+            "verse": 9,
+            "text": "Thi nha o cua y se la Hawiyah"
+        },
+        {
+            "chapter": 101,
+            "verse": 10,
+            "text": "Va đieu gi cho Nguoi biet Hawiyah la gi"
+        },
+        {
+            "chapter": 101,
+            "verse": 11,
+            "text": "(Đo la) Lua ngon chay du doi"
+        },
+        {
+            "chapter": 102,
+            "verse": 1,
+            "text": "Viec tom gop cua cai (lam giau) lam cho cac nguoi ban tam"
+        },
+        {
+            "chapter": 102,
+            "verse": 2,
+            "text": "Cho đen khi cac nguoi đi tham mo"
+        },
+        {
+            "chapter": 102,
+            "verse": 3,
+            "text": "Nhat đinh khong! Cac nguoi se som biet"
+        },
+        {
+            "chapter": 102,
+            "verse": 4,
+            "text": "Roi nhat đinh khong! Cac nguoi se som biet"
+        },
+        {
+            "chapter": 102,
+            "verse": 5,
+            "text": "Nhat đinh khong! Neu cac nguoi biet voi mot su hieu biet chac chan"
+        },
+        {
+            "chapter": 102,
+            "verse": 6,
+            "text": "Thi chac chan se thay hoa nguc"
+        },
+        {
+            "chapter": 102,
+            "verse": 7,
+            "text": "Roi chac chan cac nguoi se thay no voi cap mat kien đinh"
+        },
+        {
+            "chapter": 102,
+            "verse": 8,
+            "text": "Roi chac chan vao Ngay đo cac nguoi se bi tra hoi ve lac thu"
+        },
+        {
+            "chapter": 103,
+            "verse": 1,
+            "text": "The boi thoi gian"
+        },
+        {
+            "chapter": 103,
+            "verse": 2,
+            "text": "Qua that, con nguoi se đi vao thua thiet"
+        },
+        {
+            "chapter": 103,
+            "verse": 3,
+            "text": "Ngoai tru nhung ai co đuc tin va lam viec thien va khuyen bao nhau ton trong su that va khuyen bao nhau kien nhan"
+        },
+        {
+            "chapter": 104,
+            "verse": 1,
+            "text": "Thiet than cho tung ke vu cao va noi xau nguoi khac"
+        },
+        {
+            "chapter": 104,
+            "verse": 2,
+            "text": "Nhung ai vo vet tien bac va luon tay đem no"
+        },
+        {
+            "chapter": 104,
+            "verse": 3,
+            "text": "Nghi rang cua cai se lam cho y song đoi đoi"
+        },
+        {
+            "chapter": 104,
+            "verse": 4,
+            "text": "Nhat đinh khong! Chac chan, y se bi quang vao Hutamah"
+        },
+        {
+            "chapter": 104,
+            "verse": 5,
+            "text": "Va đieu gi cho Nguoi (Nabi) biet Hutamah la gi"
+        },
+        {
+            "chapter": 104,
+            "verse": 6,
+            "text": "Đo la Lua cua Allah, đuoc nhum len (thanh ngon)"
+        },
+        {
+            "chapter": 104,
+            "verse": 7,
+            "text": "Se boc cao len tan qua tim"
+        },
+        {
+            "chapter": 104,
+            "verse": 8,
+            "text": "Qua that, no (Lua) se vay kin chung lai"
+        },
+        {
+            "chapter": 104,
+            "verse": 9,
+            "text": "Ben trong cac cot lua chay toa rong"
+        },
+        {
+            "chapter": 105,
+            "verse": 1,
+            "text": "Ha Nguoi khong thay Thuong Đe cua Nguoi đa đoi pho voi đoan quan cuoi voi (cua Abrahah Al-Ashram đinh tieu diet ngoi đen Ka'bah) nhu the nao u"
+        },
+        {
+            "chapter": 105,
+            "verse": 2,
+            "text": "Ha Ngai đa khong pha hong ke hoach cua bon chung hay sao"
+        },
+        {
+            "chapter": 105,
+            "verse": 3,
+            "text": "Va Ngai đa phai chim bay tung đan đen tieu diet chung"
+        },
+        {
+            "chapter": 105,
+            "verse": 4,
+            "text": "Đanh chung bang đa Sijjil (đat set nung)"
+        },
+        {
+            "chapter": 105,
+            "verse": 5,
+            "text": "Boi the, lam cho chung (chet) nhu cong ra kho (sau mua gat)"
+        },
+        {
+            "chapter": 106,
+            "verse": 1,
+            "text": "Nham bao ve bo toc Quraish"
+        },
+        {
+            "chapter": 106,
+            "verse": 2,
+            "text": "Bao ve ho đi buon xa (ve phia Nam) vao mua đong va (ve phia Bac) vao mua ha"
+        },
+        {
+            "chapter": 106,
+            "verse": 3,
+            "text": "Boi vay, ho phai tho phung Thuong Đe cua Ngoi Đen (Ka'bah) nay (tai Makkah)"
+        },
+        {
+            "chapter": 106,
+            "verse": 4,
+            "text": "Đang đa nuoi ho khoi đoi va cho ho đuoc an toan khoi so"
+        },
+        {
+            "chapter": 107,
+            "verse": 1,
+            "text": "Ha Nguoi co thay ke phu nhan viec Phan Xu (đe thuong va phat)"
+        },
+        {
+            "chapter": 107,
+            "verse": 2,
+            "text": "Boi le ke ay đa xua đuoi tre mo coi"
+        },
+        {
+            "chapter": 107,
+            "verse": 3,
+            "text": "Va khong khuyen khich viec nuoi an nhung nguoi thieu thon"
+        },
+        {
+            "chapter": 107,
+            "verse": 4,
+            "text": "Boi the, thiet than cho nhung nguoi dang le nguyen Salah"
+        },
+        {
+            "chapter": 107,
+            "verse": 5,
+            "text": "Nhung ai lo la trong viec dang le nguyen Salah cua ho"
+        },
+        {
+            "chapter": 107,
+            "verse": 6,
+            "text": "Nhung ai chi muon pho truong cho (nguoi khac) thay"
+        },
+        {
+            "chapter": 107,
+            "verse": 7,
+            "text": "Va tu choi giup đo (lang gieng) ve nhung vat dung can thiet"
+        },
+        {
+            "chapter": 108,
+            "verse": 1,
+            "text": "Qua that, TA đa ban cho Nguoi (Muhammad) Al-Kauthar (mot con song noi thien đang)"
+        },
+        {
+            "chapter": 108,
+            "verse": 2,
+            "text": "Boi the, hay dang le nguyen Salah va te le (dang len Allah)"
+        },
+        {
+            "chapter": 108,
+            "verse": 3,
+            "text": "Qua that, ke xuc pham Nguoi moi thuc su bi cat đut (moi hy vong)"
+        },
+        {
+            "chapter": 109,
+            "verse": 1,
+            "text": "Hay bao (chung): “Nay hoi nhung ke phu nhan Allah"
+        },
+        {
+            "chapter": 109,
+            "verse": 2,
+            "text": "Ta khong ton tho nhung ke (than linh) ma cac nguoi ton tho"
+        },
+        {
+            "chapter": 109,
+            "verse": 3,
+            "text": "“Cac nguoi cung se khong ton tho Đang (Allah) ma Ta tho phung"
+        },
+        {
+            "chapter": 109,
+            "verse": 4,
+            "text": "“Va Ta se khong la mot tin đo cua ke ma cac nguoi đang ton tho"
+        },
+        {
+            "chapter": 109,
+            "verse": 5,
+            "text": "“Va cac nguoi cung se khong ton tho Đang ma Ta đang tho phung"
+        },
+        {
+            "chapter": 109,
+            "verse": 6,
+            "text": "“Cac nguoi co ton giao cua cac nguoi va Ta co ton giao cua Ta.”"
+        },
+        {
+            "chapter": 110,
+            "verse": 1,
+            "text": "Khi su giup đo cua Allah đen (voi Nguoi Muhammad) va su thang loi (khi chinh phuc Makkah)"
+        },
+        {
+            "chapter": 110,
+            "verse": 2,
+            "text": "Va Nguoi thay nhan loai gia nhap ton giao cua Allah (Islam) tung đoan"
+        },
+        {
+            "chapter": 110,
+            "verse": 3,
+            "text": "Boi the, hay tan duong loi ca tung Thuong Đe (Allah) cua Nguoi va cau xin Ngai tha thu. Qua that, Ngai Hang quay lai tha thu"
+        },
+        {
+            "chapter": 111,
+            "verse": 1,
+            "text": "Hai tay cua Abu Lahab bi huy diet va y bi huy diet"
+        },
+        {
+            "chapter": 111,
+            "verse": 2,
+            "text": "Cua cai va tat ca nhung gi ma y tau tac se chang giup y đuoc gi"
+        },
+        {
+            "chapter": 111,
+            "verse": 3,
+            "text": "Y se bi đot trong Lua ngun ngut chay"
+        },
+        {
+            "chapter": 111,
+            "verse": 4,
+            "text": "Va vo cua y, nguoi đa tung vac cui kho (cung se bi nhu the)"
+        },
+        {
+            "chapter": 111,
+            "verse": 5,
+            "text": "Co cua a ta se bi that boi mot soi day thot not"
+        },
+        {
+            "chapter": 112,
+            "verse": 1,
+            "text": "Hay noi: “Ngai, Allah, la Mot (Duy nhat)"
+        },
+        {
+            "chapter": 112,
+            "verse": 2,
+            "text": "“Allah la Đang Tu Huu, Đoc Lap ma tat ca phai nho va"
+        },
+        {
+            "chapter": 112,
+            "verse": 3,
+            "text": "“Ngai khong sinh (đe) ai, cung khong do ai sinh ra"
+        },
+        {
+            "chapter": 112,
+            "verse": 4,
+            "text": "“Va khong mot ai (cai gi) co the so sanh voi Ngai đang.”"
+        },
+        {
+            "chapter": 113,
+            "verse": 1,
+            "text": "Hay noi: “Be toi cau xin Thuong Đe cua buoi rang đong che cho"
+        },
+        {
+            "chapter": 113,
+            "verse": 2,
+            "text": "Tranh khoi su tac hai cua nhung vat ma Ngai đa tao"
+        },
+        {
+            "chapter": 113,
+            "verse": 3,
+            "text": "“Va khoi su tac hai cua man đem khi no bao phu"
+        },
+        {
+            "chapter": 113,
+            "verse": 4,
+            "text": "“Va khoi su tac hai cua nhung ke thoi (phu phep) vao nhung chiec gut that"
+        },
+        {
+            "chapter": 113,
+            "verse": 5,
+            "text": "“Va khoi su ham hai cua nhung ke đo ky khi ho ganh ti.”"
+        },
+        {
+            "chapter": 114,
+            "verse": 1,
+            "text": "Hay noi: \"Be toi cau xin Thuong Đe cua nhan loai"
+        },
+        {
+            "chapter": 114,
+            "verse": 2,
+            "text": "“Đuc Vua cua nhan loai"
+        },
+        {
+            "chapter": 114,
+            "verse": 3,
+            "text": "“Đang Thuong Đe cua nhan loai"
+        },
+        {
+            "chapter": 114,
+            "verse": 4,
+            "text": "“(Che cho) tranh khoi su ham hai cua ke thi thao (loi xui giuc, bua phep) roi lan mat"
+        },
+        {
+            "chapter": 114,
+            "verse": 5,
+            "text": "“Ke đa thi thao (nhung đieu tac hai) vao long nguoi"
+        },
+        {
+            "chapter": 114,
+            "verse": 6,
+            "text": "“Tu loai Jinn va loai nguoi.”"
+        }
+    ]
+}
