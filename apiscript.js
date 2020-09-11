@@ -272,8 +272,8 @@ async function create(update) {
     else if (!isLatin(cleanarr) && generateLatin) {
       logmsg("\nPlease wait trying to generate latin script for this translation, it will take 5-10mins to complete")
       var genLatinarr = []
-      // if this is create operation or if the latin script forr the edition doesn't exist, we will try building one
-      if (!update || !fulllatinarr) {
+      // if this is create operation or if the latin script for the edition doesn't exist, we will try building one
+      if (!update || fulllatinarr.length == 0) {
         genLatinarr = await genLatin(cleanarr, genJSON['name'])
         logmsg("\ninside new gen", true)
       } else if (Object.keys(uniqueobj).length == 0) {
