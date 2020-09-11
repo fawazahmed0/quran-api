@@ -1,0 +1,22 @@
+For failed latin gens in repo:
+
+1. Run 'move failed latingen to start.js' from root of repo, to get files in startDir
+
+2. Copy the root files from repo to a folder and use that repo to perform the latingen
+
+run
+node apiscript.js
+
+3. cut files from start(repo) to startdir and linebyline in new folder
+
+run
+node apiscript.js update
+
+4. After generation, Copy all files from chapterverse folder(new folder) to linebyline and startDir of repo
+
+5. run "delete la lad editions.js" from startDir.
+
+6.
+echo update > command.txt
+
+7.push the changes for actions to generate
