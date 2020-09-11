@@ -1859,6 +1859,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadhussain.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadhussain.min.json"
     },
+    "urd_muhammadjunagar_la": {
+        "name": "urd-muhammadjunagar-la",
+        "author": "Muhammad Junagarhi",
+        "language": "Urdu",
+        "direction": "ltr",
+        "source": "http://www.quranraj.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar-la.min.json"
+    },
     "urd_muhammadjunagar": {
         "name": "urd-muhammadjunagar",
         "author": "Muhammad Junagarhi",
@@ -1868,16 +1878,6 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.min.json"
-    },
-    "urd_muhammadjunagar1": {
-        "name": "urd-muhammadjunagar1",
-        "author": "Muhammad Junagarhi",
-        "language": "Urdu",
-        "direction": "ltr",
-        "source": "http://www.quranraj.com",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.min.json"
     },
     "urd_syedzeeshanhaid": {
         "name": "urd-syedzeeshanhaid",
