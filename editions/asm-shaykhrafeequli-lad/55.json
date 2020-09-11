@@ -1,0 +1,394 @@
+{
+    "chapter": [
+        {
+            "chapter": 55,
+            "verse": 1,
+            "text": "55|1|Āra-raāhamāna, (daẏāmaẏa āllāha)"
+        },
+        {
+            "chapter": 55,
+            "verse": 2,
+            "text": "55|2|tēraēm̐i śikṣā dichē kōra'āna"
+        },
+        {
+            "chapter": 55,
+            "verse": 3,
+            "text": "55|3|tēraēm̐i sr̥ṣṭi karaichē mānuha"
+        },
+        {
+            "chapter": 55,
+            "verse": 4,
+            "text": "55|4|tēraēm̐i tāka bhāṣā śikā'ichē"
+        },
+        {
+            "chapter": 55,
+            "verse": 5,
+            "text": "55|5|Sūrya ārau candra nirdhāraita hicāpa anuyāẏī ārartana karaē"
+        },
+        {
+            "chapter": 55,
+            "verse": 6,
+            "text": "55|6|ārau tr̥ṇalatā ārau br̥kṣādiẏē chājadā karaē"
+        },
+        {
+            "chapter": 55,
+            "verse": 7,
+            "text": "55|7|ārau tēraēm̐i ākāśakhanaka samunnata karaichē ārau sthāpana karaichē tulācanī"
+        },
+        {
+            "chapter": 55,
+            "verse": 8,
+            "text": "55|8|yātē tōmālōkē jōkha-mākhata sīmālaṅghana nakaraā."
+        },
+        {
+            "chapter": 55,
+            "verse": 9,
+            "text": "55|9|Ārau tōmālōkē n'yāẏasaṅgatabhāraē ōjana pratiṣṭhā karaā ārau ōjanakr̥ta bastu kama nidibā."
+        },
+        {
+            "chapter": 55,
+            "verse": 10,
+            "text": "55|10|Ārau pr̥thiraīkhanaka tē'ōm̐ sr̥ṣṭi jīrara bābē sthāpana karaichē"
+        },
+        {
+            "chapter": 55,
+            "verse": 11,
+            "text": "55|11|ya’ta āchē phala-mūla ārau khējura gacha, yāra phala āraraṇamūkta"
+        },
+        {
+            "chapter": 55,
+            "verse": 12,
+            "text": "55|12|ārau āchē bākaliyukta dānā ārau sugandhiyukta phula."
+        },
+        {
+            "chapter": 55,
+            "verse": 13,
+            "text": "55|13|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 14,
+            "text": "55|14|tēraēm̐i mānuhaka sr̥ṣṭi karaichē pānī miśraita śukāna māṭira paraā yiṭō pōraā māṭira daraē"
+        },
+        {
+            "chapter": 55,
+            "verse": 15,
+            "text": "55|15|ārau tēraēm̐i jinaka sr̥ṣṭi karaichē dhōm̐raābihīna agniśikhāra paraā."
+        },
+        {
+            "chapter": 55,
+            "verse": 16,
+            "text": "55|16|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 17,
+            "text": "55|17|tēraēm̐i du'i udaẏācala ārau du'i astācalara pratipālaka."
+        },
+        {
+            "chapter": 55,
+            "verse": 18,
+            "text": "55|18|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 19,
+            "text": "55|19|tēraēm̐ du'i sāgaraka prabāhita karaē, ubhaẏē paraspara milita haẏa"
+        },
+        {
+            "chapter": 55,
+            "verse": 20,
+            "text": "55|20|kintu siham̐ta ubhaẏara mājata āchē ēṭā antaraāla, yiṭō siham̐tē atikrama karaiba nōraāraē."
+        },
+        {
+            "chapter": 55,
+            "verse": 21,
+            "text": "55|21|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 22,
+            "text": "55|22|ubhaẏa sāgarara paraā uṯpanna haẏa mukutā ārau pōraāla."
+        },
+        {
+            "chapter": 55,
+            "verse": 23,
+            "text": "55|23|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 24,
+            "text": "55|24|ārau sāgarata bicaraṇaśīla parbata sadr̥śa nauyānasamūha tē'ōm̐raē'i (niẏantraṇādhīna)"
+        },
+        {
+            "chapter": 55,
+            "verse": 25,
+            "text": "55|25|ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 26,
+            "text": "55|26|bhūpr̥ṣṭhata yi āchē sakalō dhbansaśīla"
+        },
+        {
+            "chapter": 55,
+            "verse": 27,
+            "text": "55|27|ārau abinaśbara kērala tōmāra pratipālakara cēhāraā, yijana mahimāmaẏa, mahānubhara"
+        },
+        {
+            "chapter": 55,
+            "verse": 28,
+            "text": "55|28|ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 29,
+            "text": "55|29|ākāśamaṇḍala ārau pr̥thiraīta yisakala āchē, sakalōraē tē'ōm̐ra ōcarata praārthī, tē'ōm̐ pratiṭō muhūrttatē gurautbapūrṇa kāmata niẏōjita."
+        },
+        {
+            "chapter": 55,
+            "verse": 30,
+            "text": "55|30|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 31,
+            "text": "55|31|hē mānara ārau jina! Āmi anatipalamē tōmālōkara (hicāpa-nikāca grahaṇara) prati manōnibēśa karaima."
+        },
+        {
+            "chapter": 55,
+            "verse": 32,
+            "text": "55|32|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 33,
+            "text": "55|33|hē jina ārau mānara sampradāẏa! Ākāśamaṇḍala ārau pr̥thiraīra sīmā yadi tōmālōkē atikrama karaiba pāraā tēntē atikrama karaā, kintu tōmālōkē (āllāhara) śaktibihīna atikrama karaiba nōraāraibā."
+        },
+        {
+            "chapter": 55,
+            "verse": 34,
+            "text": "55|34|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 35,
+            "text": "55|35|tōmālōka ubhaẏara prati praēraṇa karaā ha’ba agniśikhā ārau dhumrapuñja, tētiẏā tōmālōkē pratiraōdha karaiba nōraāraibā."
+        },
+        {
+            "chapter": 55,
+            "verse": 36,
+            "text": "55|36|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 37,
+            "text": "55|37|yidinā ākāśa bidīrṇa ha’ba sē'idinā i tējabarṇa gōlāpara daraē raṅā chālara raūpa dhāraṇa karaiba"
+        },
+        {
+            "chapter": 55,
+            "verse": 38,
+            "text": "55|38|ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 39,
+            "text": "55|39|gatikē sē'idinā mānuhakō tāra aparaādha samparkē sōdhā naha’ba ārau jinakō nahaẏa."
+        },
+        {
+            "chapter": 55,
+            "verse": 40,
+            "text": "55|40|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 41,
+            "text": "55|41|aparaādhīsakalara paraicaẏa pōraā yāba siham̐tara lakṣaṇara dbāraā, tāra pichata siham̐tara āgaculi ārau bharaita dharai ṭāni niẏā ha’ba."
+        },
+        {
+            "chapter": 55,
+            "verse": 42,
+            "text": "55|42|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 43,
+            "text": "55|43|ē'iṭōraē'i sē'i jāhānnāma, yāka aparaādhīsakalē asbīkāra karaichila."
+        },
+        {
+            "chapter": 55,
+            "verse": 44,
+            "text": "55|44|Siham̐ta jāhānnāmara ju'i ārau utalā pānīra mājata ghurai thākiba."
+        },
+        {
+            "chapter": 55,
+            "verse": 45,
+            "text": "55|45|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 46,
+            "text": "55|46|ārau yiẏē tāra pratipālakara sanmukhata upasthita hōraāra bhaẏa pōṣaṇa karaē, tāra bābē āchē duṭā jānnāta."
+        },
+        {
+            "chapter": 55,
+            "verse": 47,
+            "text": "55|47|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 48,
+            "text": "55|48|ubhaẏē'i bahu phala śākhābiśiṣṭa."
+        },
+        {
+            "chapter": 55,
+            "verse": 49,
+            "text": "55|49|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 50,
+            "text": "55|50|Ubhaẏa jānnātata āchē prabāhamāna duṭā nijaraā"
+        },
+        {
+            "chapter": 55,
+            "verse": 51,
+            "text": "55|51|ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 52,
+            "text": "55|52|ubhaẏara mājata āchē pratyēka phala du'i du'i prakāra."
+        },
+        {
+            "chapter": 55,
+            "verse": 53,
+            "text": "55|53|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 54,
+            "text": "55|54|tāta siham̐tē ā'uji bahiba ēnēkuraā bichanāta yāra abhyantarabhāga ha'ba siṅkhāpēraē tairaī sukōmala; ārau ubhaẏa jānnātara phala-mūla thākiba nikaṭarartī."
+        },
+        {
+            "chapter": 55,
+            "verse": 55,
+            "text": "55|55|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 56,
+            "text": "55|56|tāta thākiba sbāmīra prati dr̥ṣṭi sīmitakāraī raūpahīsakala, yisakalaka itipūrbē kōnō mānuhē athabā kōnō jinē sparśa karaā nā'i."
+        },
+        {
+            "chapter": 55,
+            "verse": 57,
+            "text": "55|57|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 58,
+            "text": "55|58|siham̐ta yēnibā hīraā ārau mukutā."
+        },
+        {
+            "chapter": 55,
+            "verse": 59,
+            "text": "55|59|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 60,
+            "text": "55|60|uttama kāmara pratidāna uttamara bāhiraē ārau ki ha’ba pāraē"
+        },
+        {
+            "chapter": 55,
+            "verse": 61,
+            "text": "55|61|ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 62,
+            "text": "55|62|ārau sē'i duṭā jānnātara bāhiraē'ō ārau duṭā jānnāta āchē."
+        },
+        {
+            "chapter": 55,
+            "verse": 63,
+            "text": "55|63|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 64,
+            "text": "55|64|jānnāta duṭā haichē ghana sē'i'ujīẏā."
+        },
+        {
+            "chapter": 55,
+            "verse": 65,
+            "text": "55|65|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 66,
+            "text": "55|66|ē'i duṭā jānnātata āchē ucchalita duṭā nijaraā."
+        },
+        {
+            "chapter": 55,
+            "verse": 67,
+            "text": "55|67|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 68,
+            "text": "55|68|tāta āchē phala-mūla, khējura ārau ḍālima."
+        },
+        {
+            "chapter": 55,
+            "verse": 69,
+            "text": "55|69|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 70,
+            "text": "55|70|sē'i jānnātasamūhara mājata āchē caraitrarartī, raūpahī ramaṇī."
+        },
+        {
+            "chapter": 55,
+            "verse": 71,
+            "text": "55|71|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 72,
+            "text": "55|72|cāmiẏānābōrata surakṣitā hai thākiba hurasakala."
+        },
+        {
+            "chapter": 55,
+            "verse": 73,
+            "text": "55|73|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 74,
+            "text": "55|74|Yisakalaka itipūrbē kōnō mānuhē athabā kōnō jinē sparśa karaā nā'i."
+        },
+        {
+            "chapter": 55,
+            "verse": 75,
+            "text": "55|75|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 76,
+            "text": "55|76|siham̐tē ā'uji bahiba sē'i'ujīẏā dalichā ārau dhunīẏā siṅkhāpara gādīyukta āsanata."
+        },
+        {
+            "chapter": 55,
+            "verse": 77,
+            "text": "55|77|Ētēkē tōmālōka ubhaẏē tōmālōkara pratipālakara kōnaṭō anugraha asbīkāra karaibā"
+        },
+        {
+            "chapter": 55,
+            "verse": 78,
+            "text": "55|78|barakatamaẏa tōmāra pratipālakara nāma, yijana mahāmahima ārau mahānubhara."
+        }
+    ]
+}
