@@ -1,0 +1,744 @@
+{
+    "juzs": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Bismillâhirrahmânirrahîm"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Hamd (övme ve övülme) Âlemlerin Rabbi Allah'a mahsustur"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "O, Rahmân'dır ve Rahîm'dir"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Din (hesap) gününün mâlikidir"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "(Rabbimiz!) Ancak sana ibadet (kulluk) eder ve ancak senden yardım isteriz"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Bize doğru yolu göster"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Kendilerine nimet verdiğin kimselerin yolunu; gazaba uğramışların ve sapmışların yolunu değil"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Elif. Lâm. Mîm"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "İşte bu kitap (Kur'an); onda asla şüphe yoktur. O, müttakîler (sakınanlar ve arınmak isteyenler) için bir yol göstericidir"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "Onlar gayba inanırlar, namazı dosdoğru kılarlar, kendilerine verdiğimiz rızıktan infak ederler"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "Yine onlar, sana indirilene ve senden önce indirilene iman ederler; âhiret gününe de kesinkes inanırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "İşte onlar, Rablerinden gelen bir hidayet üzeredirler ve kurtuluşa erenler de ancak onlardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Gerçek şu ki, kâfir olanları (azap ile) korkutsan da korkutmasan da onlar için birdir; iman etmezler"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Allah onların kalplerini ve kulaklarını mühürlemiştir. Onların gözlerine de bir çeşit perde gerilmiştir ve onlar için (dünya ve ahirette) büyük bir azap vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "İnsanlardan bazıları da vardır ki, (inanmadıkları halde) «Allah’a ve ahiret gününe inandık» derler. Halbuki onlar mü'min değillerdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "Onlar (kendi akıllarınca) güya Allah’ı ve müminleri aldatırlar. Halbuki onlar ancak kendilerini aldatırlar ve bunun farkında değillerdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "Onların kalplerinde bir hastalık vardır. Allah da onların hastalığını artırmıştır. Söylemekte oldukları yalanlar sebebiyle de onlar için elîm bir azap vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Onlara: Yeryüzünde fesat çıkarmayın, denildiği zaman, «Biz ancak ıslah edicileriz» derler"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "Şunu bilin ki, onlar bozguncuların ta kendileridir, lâkin anlamazlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Onlara; İnsanların iman ettiği gibi siz de iman edin, denildiği vakit «Biz hiç, sefihlerin (akılsız ve ahmak kişilerin) iman ettikleri gibi iman eder miyiz!» derler. Biliniz ki, sefihler ancak kendileridir, fakat bunu bilmezler (veya bilmezlikten gelirler)"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "(Bu münafıklar) müminlerle karşılaştıkları vakit «(Biz de) iman ettik» derler. (Kendilerini saptıran) şeytanları ile başbaşa kaldıklarında ise: «Biz sizinle beraberiz, biz onlarla (müminlerle) sadece alay ediyoruz» derler"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Gerçekte, Allah onlarla istihza (alay) eder de azgınlıklarında onlara fırsat verir, bu yüzden onlar bir müddet başıboş dolaşırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "İşte, hidâyete karşılık sapıklığı satın alanlar onlardır. Fakat onların bu ticareti kazançlı olmamış ve kendileri doğru yolu da bulamamışlardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Onların (münafıkların) durumu, ateş yakan bir kimsenin misali gibidir. O ateş yanıp da etrafını aydınlattığında Allah, hemen onların aydınlığını giderir ve onları görmez bir halde karanlıklar içinde bırakıverir"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "Onlar sağırdırlar, dilsizdirler ve kördürler. Bu sebeple onlar (hakka) geri dönemezler"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Yahut (onların durumu), gökten sağanak halinde boşanan, içinde yoğun karanlıklar, gürültü ve yıldırımlar bulunan yağmur (a tutulmuş kimselerin durumu) gibidir. O münafıklar yıldımlardan gelecek ölüm korkusuyla parmaklarını kulaklarına tıkarlar. Halbuki Allah, kâfirleri çepeçevre kuşatmıştır"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "(O esnada) şimşek sanki gözlerini çıkaracakmış gibi çakar, onlar için etrafı her aydınlattığında orada birazcık yürürler, karanlık üzerlerine çökünce de oldukları yerde kalırlar. Allah dileseydi elbette onların kulaklarını sağır, gözlerini kör ederdi. Allah şüphesiz her şeye kadirdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Ey insanlar! Sizi ve sizden öncekileri yaratan Rabbinize kulluk (ibâdet) edin. Umulur ki, böylece korunmuş (Allah'ın azabından kendinizi kurtarmış) olursunuz"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "O Rab ki, yeri sizin için bir döşek, göğü de (kubbemsi) bir tavan yaptı. Gökten su indirdi, o su ile size besin olsun diye (yerden) çeşitli ürünler çıkardı. Artık bunu bile bile Allah'a ortaklar koşmayın"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "Eğer kulumuza (Muhammmed'e) indirdiğimizden (Kur'ân'dan) herhangi bir şüpheye düşüyorsanız, haydi onun benzeri bir sûre getirin, eğer iddianızda doğru iseniz Allah’ın dışındaki şahitlerinizi de (yardımcılarınızı da) çağırın"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "Bunu yapamazsanız ki elbette yapamayacaksınız. O halde yakıtı, insanlar ve taşlar olan cehennem ateşinden sakının. Çünkü o ateş kâfirler için hazırlanmıştır"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "İman edip salih ameller işleyenlere, onlar için içinden ırmaklar akan cennetler olduğunu müjdele! Oradan kendilerine rızık olarak her defasında bir meyve verildikçe: \"Bu daha önce rızıklandığımız (meyve) dandır\", diyecekler. Onlara birbirinin benzeri (rızıklar) verilecek. Onlar için cennette tertemiz eşler de vardır. Ve onlar orada ebedî kalıcıdırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "Şüphesiz Allah (hakkı açıklamak için) sivrisinek ve onun da ötesinde bir varlığı misal getirmekten çekinmez. İman etmişlere gelince, onlar böyle misallerin Rablerinden gelen hak ve gerçek olduğunu bilirler. Kâfir olanlara gelince: Allah böyle misal vermekle ne murat eder? derler. Allah onunla birçok kimseyi saptırır, birçoklarını da doğru yola yöneltir. Verdiği misallerle Allah ancak fâsıkları saptırır (çünkü bunlar birer imtihandır)"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "Onlar öyle (fasıklar) ki, kesin söz verdikten sonra Allah'ın ahdini bozarlar (sözlerinden dönerler). Allah'ın, birleştirilmesini emrettiğin (sıla-i rahim) i keserler ve yeryüzünde fitne ve fesat çıkarırlar. İşte onlar gerçekten zarara uğrayanlardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Ey kâfirler! Siz ölü iken sizi dirilten (dünyaya getirip hayat veren) Allah'ı nasıl inkâr ediyorsunuz? Sonra sizi öldürecek, tekrar sizi diriltecek ve sonunda O'na döndürüleceksiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "O, yerde ne varsa hepsini sizin için yarattı. Sonra (kendine has bir şekilde) semaya yöneldi, onu yedi kat olarak yaratıp düzenledi (tanzim etti). O , her şeyi hakkıyla bilendir"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Hatırla ki Rabbin meleklere: Ben yeryüzünde bir halife yaratacağım, dedi. Onlar: Bizler hamdinle seni tesbih ve seni takdis edip dururken, yeryüzünde fesat çıkaracak ve kanlar dökecek kimseler mi yaratacaksın? Dediler. Allah da onlara: Sizin bilemeyeceğiniz şeyleri ben bilirim, dedi"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "Allah Âdem’e bütün isimleri, öğretti. Sonra onları önce meleklere arzedip: Eğer siz sözünüzde sadık iseniz, şunların isimlerini bana bildirin, dedi"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Melekler: (Rabbimiz) Seni (noksan sıfatlardan) tenzih ederiz, senin bize öğrettiklerinden başka bizim bilgimiz yoktur. Şüphesiz alîm (herşeyi bilen) ve hakîm olan ancak sensin, dediler"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "(Bunun üzerine:) Ey Âdem! Eşyanın isimlerini meleklere bildir, dedi. Âdem onların isimlerini onlara bildirince: (Allah: ) Ben size, muhakkak semâvat ve arzda görülmeyenleri (oralardaki sırları) bilirim. Bundan da öte, gizli ve açık yapmakta olduklarınızı da bilirim, dememiş miydim? dedi"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Hani biz meleklere (ve cinlere): Âdem'e secde edin, demiştik. İblis hariç hepsi secde ettiler. O yüz çevirdi ve büyüklük tasladı, böylece kâfirlerden oldu"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Biz:«Ey Âdem! Sen ve eşin (Havva) beraberce cennete yerleşin ve dilediğiniz yerde O'nun nimetlerinden bol bol yiyin. (Ancak) şu ağaca yaklaşmayın; yoksa ikiniz de zalimlerden olursunuz» dedik"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Ne var ki Şeytan onları oradan uzaklaştırmış ve içinde bulundukları (o rahat durumdan, cennetten) çıkarmıştı. Bunun üzerine; «Biz de bir kısmınız diğerine düşman olarak ininiz, sizin için yeryüzünde barınak ve belli bir zamana dek nimet vardır» dedik"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Bu durum devam ederken Adem, Rabbinden bir takım kelimeler aldı ve tevbe etti. Çünkü O (Allah), tevbeleri çokça kabul eden ve merhameti bol olandır"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Dedik ki: Hepiniz oradan inin! Eğer benden size bir hidâyet gelir de her kim hidâyetime tâbi olursa onlar için herhangi bir korku yoktur ve onlar üzüntü çekmezler"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "İnkâr edip âyetlerimizi yalanlayanlara gelince, onlar cehennemliktir, onlar orada ebedî kalırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Ey İsrâiloğulları! Size verdiğim nimetlerimi hatırlayın, bana verdiğiniz sözü yerine getirin ki, ben de size olan sözümü yerine getireyim. Ve yalnızca benden korkun"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Elinizdekini (Tevrât'ın aslını) tasdik edici olarak indirdiğime (Kur'ân'a) iman edin. Sakın onu inkâr edenlerin ilki olmayın! Âyetlerimi az bir karşılık pahasına satmayın, yalnız benden (benim azabımdan) sakının"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Bilerek hakkı bâtıl ile karıştırmayın, hakkı gizlemeyin"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Namazı dosdoğru kılın, zekâtı (hakkıyla) verin ve rükû edenlerle beraber rükû edin"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "(Ey bilginler!) Sizler Kitab’ı (Tevrât'ı) okuduğunuz (gerçekleri bildiğiniz) halde, insanlara iyiliği emredip kendinizi unutuyor musunuz? Aklınızı kullanmıyor musunuz"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Sabır ve namaz ile Allah'tan yardım isteyin. Şüphesiz bu, huşu duyan (Allah’a saygıdan kalbi ürperen) ların dışındakilere zor (bir görev) dur"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "Onlar (huşu duyanlar), kesinlikle Rablerine kavuşacaklarını ve O'na döneceklerini düşünen ve bunu kabullenen kimselerdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "Ey İsrailoğulları! Size verdiğim nimetimi ve sizi (bir zamanlar) cümle âleme üstün kıldığımı hatırlayın"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Öyle bir günden korkun ki, o günde hiç kimse başkası için herhangi bir ödemede bulunamaz; hiç kimseden (Allah izin vermedikçe) şefâat kabul olunmaz, fidye alınmaz; onlara asla yardım da yapılmaz"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "Hatırlayın ki, sizi, Firavun taraftarlarından kurtardık. Çünkü onlar size azabın en kötüsünü reva görüyorlar, yeni doğan erkek çocuklarınızı kesiyorlar, (fenalık için) kızlarınızı hayatta bırakıyorlardı. Aslında o size reva görülenlerde Rabbinizden büyük bir imtihan vardı"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "Bir zamanlar biz sizin için denizi yardık, sizi kurtardık, Firavun'un taraftarlarını da, siz bakıp dururken denizde boğduk"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "Musâ ile kırk gece (vahyetmek üzere) sözleşmiştik. Sonra haksızlık ederek buzağıyı ( ilâh ) edindiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "O davranışlarınızdan sonra (akıllanıp) şükredersiniz diye sizi affetmiştik"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "Doğru yolu bulasınız diye Musâ'ya Kitab'ı ve furkân (hak ile bâtılı ayıran hükümler) ı verdik"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "Musâ kavmine: Ey kavmim! Şüphesiz siz, buzağıyı (ilâh) edinmekle kendinize zulmettiniz. Onun için yaradanınıza tevbe edin de nefislerinizi öldürün. Öyle yapmanız yaradanınızın katında sizin için daha hayırlıdır, demiş ve böylece Allah tevbenizi kabul etmişti. Çünkü acıyıp tevbeleri çokça kabul eden ve merhameti bol olan ancak O'dur"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "(Bir zamanlar:) Siz Ey Musâ! Biz Allah'ı açıkça görmedikçe asla sana inanmayız, demiştiniz de bakıp durur olduğunuz halde hemen sizi yıldırım çarpmıştı"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Sonra ölümünüzün ardından sizi dirilttik ki şükredesiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Ve sizi bulutla gölgeledik, size kudret helvası ve bıldırcın indirdik ve «Verdiğimiz güzel nimetlerden yiyiniz» (dedik). (Hakikatte) Onlar bize değil sadece kendilerine zulmediyorlardı"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "(İsrâiloğullarına:) Bu kasabaya girin, orada bulunanlardan dilediğiniz şekilde bol bol yiyin, kapısından secde ederek (eğilerek) girin, (girerken) «Hıtta!» (Yâ Rabbi bizi affet) deyin ki, sizin hatalarınızı bağışlayalım; zira biz, iyi davrananlara (karşılığını) fazlasıyla vereceğiz, demiştik"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Fakat (onların içlerinden ) zulmedenler, kendilerine söylenenleri başka sözlerle değiştirdiler. Bunun üzerine biz, zalimlerin üzerine fâsıklık yapmalarından dolayı gökten acı bir azap indirdik"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "Musâ kavmi için su istemişti de biz ona: \"Âsân ile taşa vur!\" demiştik. Derhal (taştan) on iki göz (pınar) fışkırmıştı. Her insan (topluluğu), içeceği kaynağı bilmişti. (Onlara:) Allah’ın rızkından yiyin, için, sakın yeryüzünde bozgunculuk etmeyin, dedik"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Hani siz (verilen nimetlere karşılık): Ey Musa! Bir tek yemekle yetinemeyiz; bizim için Rabbine dua et de yerin bitirdiği şeylerden; sebzesinden, hıyarından, sarımsağından, mercimeğinden, soğanından bize çıkarsın, dediniz. Musa ise: Daha iyiyi daha kötü ile değiştirmek mi istiyorsunuz? O halde şehre inin. Zira istedikleriniz sizin için orada var, dedi. İşte (bu hadiseden sonra) üzerlerine aşağılık ve yoksulluk damgası vuruldu. Allah'ın gazabına uğradılar. Bu musibetler (onların başına), Allah'ın âyetlerini inkâra devam etmeleri, haksız olarak peygamberleri öldürmeleri sebebiyle geldi. Bunların hepsi, sadece isyanları ve taşkınlıkları sebebiyledir"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "Şüphesiz iman edenler, yahûdîler, hıristiyanlar ve sâbiîler; bunlardan Allah’a ve âhiret gününe hakkıyla inanıp sâlih amel işleyenler için Rableri katında mükâfatlar vardır. Onlar için herhangi bir korku yoktur. Onlar üzüntü çekmeyeceklerdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Sizden sağlam bir söz almış, Tûr'u da üzerinize kaldırıp, size verdiğimizi sıkıca/kuvvetle tutun, onda bulunanları daima hatırlayın, umulur ki, böylece korunursunuz (demiştik de)"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "bundan sonra sözünüzden (yine) dönmüştünüz. Eğer sizin üzerinizde Allah'ın ihsanı ve rahmeti olmasaydı, muhakkak zarara uğrayanlardan olurdunuz"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "İçinizden cumartesi günü azgınlık edip de, bu yüzden kendilerine: \"Aşağılık maymunlar olun!\" dediklerimizi elbette bilmektesiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "Biz bu (maymunlaşmış insanları) hadiseyi bizzat görenler ve sonradan gelenler için bir ibret dersi, müttakîler için de bir öğüt vesilesi kıldık"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Musâ, kavmine: Allah size bir sığır kesmenizi emrediyor, demişti de: (Onlar,) Bizimle alay mı ediyorsun? demişlerdi. O da: Cahillerden olmaktan Allah'a sığınırım, demişti"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "(Musâ'ya:) «Bizim adımıza Rabbine dua et, bize onun ne olduğunu açıklasın» dediler. Musâ: Allah diyor ki: «O, ne yaşlı ne de genç (sadece birkez doğurmuş) tir; bu ikisinin arasında (dinç) bir inektir.»Emrolunduğunuz şeyi (hemen) yapın, dedi"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "(Bu defa da;) Bizim için Rabbine dua et de, bize onun rengini açıklasın, dediler. (Musâ da: ) «O diyor ki: Sarı renkli, parlak tüylü, bakanların içini açan bir inektir» dedi"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "«(Ey Musâ!) Bizim için, Rabbine dua et de onun nasıl bir sığır olduğunu bize açıklasın, zira nasıl bir inek keseceğimizi anlayamadık. Fakat Allah dilerse bizler herhalde (nasıl bir inek keseceğimizi) buluruz» dediler"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "(Musâ) dedi ki: Allah şöyle buyuruyor: O, henüz boyunduruk altına alınmayan, yer sürmeyen, ekin sulamayan, serbest dolaşan (salma), renginde hiç alacası bulunmayan bir inektir. «İşte şimdi gerçeği anlattın» dediler ve bunun üzerine sığırı (bulup) kestiler, az kalsın (bunu) kesmeyeceklerdi"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "Hani siz bir adam öldürmüştünüz de o hususta ayrılığa düşmüş ve suçu birbirinizin üzerine atmıştınız. Halbuki Allah gizlemekte olduğunuzu ortaya çıkaracaktır"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "«Haydi, şimdi (öldürülen) adama, (kesilen ineğin) bir parçasıyla vurun» dedik. Böylece belki akıllarınızı başlarınıza alırsınız diye Allah ölüleri böyle diriltir ve düşünesiniz diye size âyetlerini böyle gösterir"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "(Ne var ki) bunlardan sonra yine kalpleriniz taş gibi yahut daha sert bir şekilde katılaşmıştı. Halbuki içinden nehirler kaynayan, yarılıp (içlerinden) sular çıkan ve Allah korkusundan yuvarlanan nice taşlar vardır! Allah yapmakta olduklarınızdan gafil değildir"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "Şimdi (ey müminler!) onların size inanacaklarını mı umuyorsunuz? Oysa ki, onlardan bir grup, Allah'ın kelâmını işitirler de iyice anladıktan sonra, bile bile onu tahrif ederlerdi"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "(Münafıklar) inananlarla karşılaştıklarında «İman ettik» derler. Birbirleriyle baş başa kaldıkları vakit ise: «Allah'ın size açtıklarını (Tevrat'taki bilgileri), Rabbiniz katında sizin aleyhinize hüccet getirmeleri için mi onlara anlatıyorsunuz; bunları düşünemiyor musunuz?» derler"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "Oysa onlar, gizlediklerini de açığa vurduklarını da Allah'ın bildiğini bilmezler mi"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "İçlerinde bir takım ümmîler vardır ki, Kitab’ı (Tevrât’ı) bilmezler. Bütün bildikleri bir takım kuruntu (ve yalan) lardır. Onlar sadece zanda bulunuyorlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "Kitabı elleriyle yazıp da sonra onu az bir bedel karşılığında satmak için «Bu Allah katındandır» diyenlere yazıklar olsun! Yazıklar olsun elleriyle yazdıklarından ötürü onlara ve yazıklar olsun kazandıklarından ötürü onlara"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "(İsrâiloğulları: )Sayılı birkaç gün dışında, bize asla ateş dokunmayacaktır, dediler. (Onlara) De ki : Siz Allah katından bir söz mü aldınız, zira Allah sözünden caymaz, yoksa Allah'a karşı bilemeyeceğiniz şeyleri mi söylüyorsunuz"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Hayır! Kim bir kötülük eder de kötülüğü kendisini çepeçevre kuşatırsa, işte o kimseler Cehennem ehlidirler. Onlar orada ebedi kalırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "İman edip salih amel işleyenler ise onlar da cennet ehlidirler. Onlar orada ebedi kalırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Vaktiyle biz, İsrâiloğullarından: Yalnızca Allah'a kulluk edeceksiniz, ana-babaya, yakın akrabaya, yetimlere, yoksullara iyilik edeceksiniz diye söz almış ve «İnsanlara güzel söz söyleyin, namazı kılın, zekâtı verin» demiştik. Sonra içinizden çok azınız hariç (bu sözden) döndünüz. Hala da yüz çevirip duruyorsunuz"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "(Ey İsrâiloğulları!) Birbirinizin kanını dökmeyeceğinize, birbirinizi yurtlarınızdan çıkarmayacağınıza dair sizden kesin bir söz almıştık. Her şeyi görerek sonunda bunları kabul etmiştiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Bu misakı kabul eden sizler, (verdiğiniz sözün tersine) birbirinizi öldürüyor, aranızdan bir zümreyi yurtlarından çıkarıyor, kötülük ve düşmanlıkta onlara karşı yardımlaşıyorsunuz. Onları yurtlarından çıkarmak size haram olduğu halde (hem çıkarıyor hem de) size esirler olarak geldiklerinde fidye verip onları kurtarıyorsunuz. Yoksa siz Kitab'ın bir kısmına inanıp bir kısmını inkâr mı ediyorsunuz? Sizden öyle davrananların cezası dünya hayatında ancak zillettir. Kıyâmet gününde ise en şiddetli azaba uğratılacaklardır. Allah sizin yapmakta olduklarınızdan asla gafil değildir"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "İşte onlar, âhirete karşılık dünya hayatını satın alan kimselerdir. Bu yüzden ne azapları hafifletilecek, ne de kendilerine yardım edilecektir"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Andolsun biz Musâ'ya Kitab'ı verdik. Ondan sonra ardarda peygamberler gönderdik. Meryem Oğlu İsâ’ya da apaçık deliller verdik. Ve onu, Rûhu'l Kudüs (Cebrâil) ile destekledik. (Ne var ki) gönlünüzün arzulamadığı şeyleri söyleyen bir peygamber geldikçe, ona karşı büyüklük taslayıp, (size gelen peygamberlerden) bir kısmını yalanladınız, bir kısmını da öldürdünüz"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "(Yahudiler peygamberlerle alay ederek) «Kalplerimiz perdelidir» dediler. Hayır; küfürleri sebebiyle Allah onlara lânet etmiştir. O yüzden çok az inanırlar"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Onlara, Allah katından ellerindeki (Tevrât'ı) doğrulayan bir kitap geldiğinde önceden kâfirlere karşı (kendilerine böyle yardım edici bir kitabın gelmesini) bekleyip duruyorlardı. İşte önceden geleceğini bildikleri bu kitap gelince onu inkâr ettiler. İşte Allah'ın lâneti böyle inkarcılaradır"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Onların, Allah'ın kullarından dilediğine (Kitap) indirmesini kıskandıkları için Allah'ın indirdiğini (Kur'ân'ı) inkâr ederek kendilerini çok kötü bir şey karşılığında satmaları ne kadar kötü bir şeydir! Böylece onlar, gazap üstüne gazaba uğradılar. Ayrıca kâfirler için alçaltıcı bir azap vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Kendilerine: Allah'ın indirdiğine iman edin, denilince: Biz sadece bize indirilene (Tevrât'a) inanırız, derler ve ondan başkasını inkâr ederler. Halbuki o Kur'an, kendi ellerinde bulunan Tevrât'ı doğrulayıcı olarak gelmiş hak kitaptır. (Ey Muhammed:) Onlara deki: Şayet siz gerçekten (kendinize indirilene) inanıyorsanız daha önce Allah'ın peygamberlerini neden öldürüyordunuz"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Andolsun Musâ size apaçık mucizeler getirmişti. Sonra onun ardından, zalimler olarak buzağıyı (ilah ) edindiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "Hatırlayın ki, sizden kesin bir söz almış veTûr'u da üzerinize kaldırarak size verdiğimize kuvvetlice tutunun ve (emirlerini) dinleyin, demiştik. Onlar: İşittik ve isyan ettik, dediler. İnkârları sebebiyle kalplerine buzağı sevgisi dolduruldu. De ki: Eğer inanıyorsanız, imanınız size ne kötü şeyler emrediyor"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "(Ey Muhammed! Onlara:) Şayet (iddia ettiğiniz gibi) âhiret yurdu Allah katında diğer insanlara değil de yalnızca size aitse ve bu iddianızda doğru iseniz haydi ölümü temenni edin (bakalım), de"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Onlar, kendi elleriyle önceden yaptıkları işler (günah ve isyanları) sebebiyle hiç bir zaman ölümü temenni etmeyeceklerdir. Allah zalimleri en iyi bilir"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "Yemin olsun ki, sen onların hayat (yaşamay)a başkalarından ve hattâ her biri bin sene yaşamayı temenni eden müşriklerden bile daha düşkün olduklarını görürsün. Oysa uzun yaşamak, onları azaptan kurtarmayacaktır Allah, elbette, yaptıklarını hakkıyla görendir"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "De ki: Cebrâil'e kim düşman ise ( iyi bilsin ki) Allah'ın izniyle önceki kitapları doğrulayan, müminler için hidâyet rehberi ve müjde olan Kur'ân'ı senin kalbine indiren odur"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Kim, Allah’a, meleklerine, peygamberlerine, Cebrâil'e ve Mikâil’e düşman olursa (bilsin ki) Allah da inkârcı kâfirlerin düşmanıdır"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Andolsun ki sana apaçık âyetler indirdik. (Ey Muhammed) onları fâsıklardan başkası inkâr etmez"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "Ne zaman onlar bir antlaşma yaptılarsa, yine kendilerinden bir grup onu bozmadı mı? Zaten onların çoğu iman etmez"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Allah tarafından kendilerine, yanlarında bulunanı tasdik edici bir elçi gelince ehli kitaptan bir grup, sanki Allah'ın kitabını bilmiyormuş gibi onu arkalarına atıp terkettiler"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "Süleymân'ın hükümranlığı hakkında onlar, şeytanların uydurup söylediklerine tâbi oldular. Halbuki Süleymân (büyü yapıp) kâfir olmadı. Lâkin şeytanlar, sihri ve Bâbil'deki Hârût ve Mârût adlı iki meleğe indirilen şeyleri insanlara öğreterek kâfir oldular. Halbuki o iki melek, herkese: «Biz ancak imtihan için gönderildik, sakın yanlış inanıp da kâfir olmayasınız», demeden hiç kimseye (sihir ilmini) öğretmezlerdi. Onlar, o iki melekten, kişi ile karısının arasını açacak şeyleri öğreniyorlardı. Oysa onlar, Allah’ın izni olmadan hiç kimseye zarar veremezler. Onlar, kendilerine fayda vereni değil de zarar vereni öğrenirler. onlar sihri satın alanların âhirette nasibi olmadığını çok iyi bilmektedirler. Karşılığında kendilerini sattıkları şey ne kötüdür! Keşke bunu anlasalardı"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Eğer iman edip kendilerini kötülükten korusalardı, şüphesiz Allah tarafından verilecek sevap daha hayırlı olacaktı. Keşke bunları anlasalardı"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Ey iman edenler! «Râinâ» demeyin, «unzurnâ» deyin. (Söylenenleri) dinleyin. Kâfirler için elem verici bir azap vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "(Ey müminler!) Ehli kitaptan ve müşriklerden olan kâfirler, Rabbinizden size bir hayır indirilmesini istemezler. Halbuki Allah rahmetini dilediği kimseye tahsis eder. Allah büyük lütuf sahibidir"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Biz, bir âyet (in hükmün)i nesheder (kaldırır)sek veya onu unutturursak mutlaka ondan daha hayırlısını veya onun bir dengini getiririz. Allah'ın her şeye kâdir olduğunu bilmez misin"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "(Yine) bilmez misin, göklerin ve yerin mülkiyet ve hükümranlığı yalnızca Allah'ındır? Sizin için Allah'tan başka ne bir dost ne de bir yardımcı vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Yoksa siz de (ey müslümanlar), daha önce Musâ'dan istenildiği gibi, kendi peygamberinizden de (bir takım mucizeler) talep etmek mi istiyorsunuz? Her kim, îmanı küfürle değişirse, dümdüz yoldan sapmış olur"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Ehli kitaptan çoğu, hakikat kendilerine apaçık belli olduktan sonra, sırf içlerindeki kıskançlıktan ötürü, sizi imanınızdan vazgeçirip küfre döndürmek istediler. Yine de siz, Allah onlar hakkındaki emrini getirinceye kadar affedip bağışlayın. Şüphesiz Allah her şeye kadîrdir"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Namazı dosdoğru kılın, zekâtı verin, önceden kendiniz için yaptığınız her iyiliği Allah'ın katında bulacaksınız. Şüphesiz Allah, yapmakta olduklarınızı hakkıyla görendir"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "(Ehli kitap:) Yahudiler yahut hıristiyanlar hariç hiç kimse cennete giremeyecek, dediler. Bu onların kuruntusudur. Sen de onlara: Eğer sahiden doğru söylüyorsanız delilinizi getirin, de"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Bilâkis, kim muhsin olarak yüzünü Allah'a döndürürse (Allah'a hakkıyla kulluk ederse) onun ecri Rabbi katındadır. Onlara hiç bir korku yoktur, üzülecek olanlar da onlar değildir"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Hepsi de kitabı (Tevrât ve İncîl'i) okumakta oldukları halde Yahûdiler: Hristiyanlar doğru yolda değillerdir, dediler. Hristiyanlar da: Yahûdiler doğru yolda değillerdir, dediler. Kitabı bilmeyenler de birbirleri hakkında tıpkı onların söylediklerini söylediler. Allah, ihtilâfa düştükleri hususlarda kıyâmet günü onlar hakkında hükmünü verecektir"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Allah’ın mescidlerinde O'nun adının anılmasına engel olan ve onların harap olmasına çalışandan daha zalim kim vardır! Aslında bunların oralara ancak korkarak girmeleri gerekir. (Başka türlü girmeye hakları yoktur.) Bunlar için dünyada rezillik, âhirette de büyük azap vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Doğu da Allah'ındır batı da. Nereye dönerseniz Allah’ın vechi oradadır. Şüphesiz Allah ( ın kullarına rahmeti ve nimeti) geniştir, O her şeyi hakkıyla bilendir"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "«Allah çocuk edindi» dediler. Hâşâ! O, bundan münezzehtir. Oysa göklerde ve yerde olanların hepsi O’nundur, hepsi O'na boyun eğmiştir"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "göklerin ve yerin yoktan varedicisidir. Bir şeyi dilediğinde ona sadece «Ol!» der, o da hemen oluverir"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Bilmeyenler dediler ki: Allah bizimle konuşmalı ya da bize bir âyet (mucize) gelmeli değil miydi? Onlardan öncekiler de işte tıpkı onların dediklerini demişlerdi. Kalpleri (akılları) nasıl da birbirine benzedi? Gerçekleri iyice (yakînen) bilmek isteyenlere âyetleri apaçık gösterdik"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "Doğrusu biz seni Hak (Kur'ân) ile müjdeleyici ve uyarıcı olarak gönderdik. Sen Cehennem ashâbından sorumlu değilsin"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Ne yahûdiler ne de hristiyanlar sen onların dinlerine uymadıkça senden asla razı olmayacaklar. De ki: Doğru yol, ancak Allah'ın yoludur. Sana gelen ilimden sonra onların arzularına uyacak olursan, andolsun ki, Allah'tan sana ne bir dost ne de bir yardımcı vardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Kendilerine verdiğimiz kitabı hakkıyla okuyan kimseler, işte bunlar ona iman ederler. Onu inkâr edenlere gelince, işte gerçekten hüsrana uğrayanlar onlardır"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Ey İsrâiloğulları! Size verdiğim nimetimi ve sizi (bir zamanlar) âlemlere üstün kılmış olduğumu hatırlayın"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Ve bir günden sakının ki, o günde hiç kimse başkası namına bir şey ödeyemez, kimseden fidye kabul edilmez, hiç kimseye şefaat fayda vermez. Onlar hiçbir yardım da görmezler"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Bir zamanlar Rabbi İbrâhim'i bir takım kelimelerle sınamış, onları tam olarak yerine getirince: Ben seni insanlara imam (önder) yapacağım, demişti. «Soyumdan da (önderler yap, yâ Rabbi!) » deyince Allah: Ahdim zâlimlere ulaşmaz (onlar için söz vermem) buyurdu"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Biz, Beyt’i (Ka'be'yi) insanlara toplanma mahalli ve güvenli bir yer kıldık ve siz de İbrâhim'in makamından bir namaz yeri edinin (dedik). İbrâhim ve İsmâil'e: Tavaf edenler, ibadete kapananlar, rükû ve secde edenler için Evim'i temiz tutun, diye emretmiştik"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "İbrâhim de demişti ki: Ey Rabbim! Burayı emin bir şehir yap, halkından Allah'a ve âhiret gününe inananları çeşitli meyve (ürün) lerle besle. Allah buyurdu ki: Kim inkâr ederse onu az bir süre faydalandırır, sonra onu cehennem azâbına mecbur kılarım . Ne kötü varılacak yerdir orası"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "Bir zamanlar İbrâhim, İsmâil ile beraber Beytullah'ın temellerini yükseltiyor, (şöyle dua ediyorlardı:) Ey Rabbimiz! Bizden bunu kabul buyur, şüphesiz sen hakkıyla işiten ve hakkıyla bilensin"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Ey Rabbimiz! Bizi sana teslim olan iki kul, neslimizden de sana teslim olan bir ümmet eyle, bize ibadet usullerimizi göster, tevbemizi kabul et; zira, tevbeleri çokça kabul eden, çok merhametli olan ancak sensin"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Ey Rabbimiz! Onlara, içlerinden senin âyetlerini kendilerine okuyacak, onlara kitap ve hikmeti öğretecek, onları temizleyecek bir peygamber gönder. Çünkü üstün gelen, her şeyi yerli yerince yapan yalnız sensin"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "İbrâhim'in dininden kendini bilmezlerden başka kim yüz çevirir? Andolsun ki, biz dünyada onu (elçi) seçtik, şüphesiz o âhirette de sâlih kullardandır"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "Çünkü Rabbi ona: \"Teslim ol,\" demiş, o da: Âlemlerin Rabbine teslim oldum, demişti"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "Bunu İbrâhim de kendi oğullarına vasiyet etmiş, Ya'kûb da: (aynı şeyi yapmış ve): Oğullarım! Allah sizin için bu dini (İslâm'ı) seçti. O halde sadece müslümanlar olarak ölünüz (dedi)"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Yoksa Ya'kûb'a ölüm geldiği zaman siz orada mı idiniz? O zaman (Ya'kûb) oğullarına: Benden sonra kime ibâdet (kulluk) edeceksiniz? demişti. Onlar: Senin ve ataların İbrâhim, İsmâil ve İshâk'ın bir tek ilâhına (Allah'a) kulluk edeceğiz; biz ancak O’na teslim olmuşuzdur, dediler"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Onlar bir ümmetti, gelip geçti. Onların kazandıkları kendilerinin, sizin kazandıklarınız sizindir. Siz onların yaptıklarından sorguya çekilmezsiniz"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "(Yahûdiler ve hristiyanlar müslümanlara:) Yahûdi ya da hristiyan olun ki, doğru yolu bulasınız, dediler. De ki: Hayır! Biz, hanîf olan İbrâhim'in (dosdoğru) dinine uyarız. O, müşriklerden değildi"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "«Biz, Allah'a iman ettik ve (yine) bize indirilene; İbrâhim, İsmâil, İshâk, Ya'kûb ve Esbât (Ya'kûb'un torunların)a indirilene, Musâ ve İsâ'ya verilenlerle Rableri tarafından diğer peygamberlere verilenlere, onlardan hiçbiri arasında fark gözetmeksizin inandık ve biz sadece Allah'a teslim olduk» deyin"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "Eğer onlar (Yahûdi ve hristiyanlar) da sizin inandığınız gibi inanırlarsa doğru yolu bulur (hidâyete erer) lar; yok eğer yüz çevirirlerse mutlaka anlaşmazlık (ve ayrılık) içine düşmüş olurlar. Onlara karşı Allah sana yeter. O hakkıyla işitendir, hakkıyla bilendir"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "İşte Allah'ın boyası (İslâm Dini)… Allah’tan daha güzel boyası olan kim vardır? Biz ancak O'na kulluk ederiz"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "De ki ( Ey Yahûdi ve hristiyanlar): Siz, Allah hakkında bizimle delilli tartışmaya mı girişiyorsunuz? Halbuki O, bizim de Rabbimiz, sizin de Rabbinizdir. Bizim yaptıklarımız bize, sizin yaptıklarınız da size aittir. Biz O'na (ibâdet ve taatlerimizde) ihlâs ile bağlananlarız"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Yoksa siz, İbrâhim, İsmâil, İshâk, Ya'kûb ve Esbât (Ya'kûb'un torunların)ın yahûdi, yahut hristiyan olduklarını mı söylüyorsunuz? De ki: Siz mi daha iyi bilirsiniz, yoksa Allah mı? Allah tarafından gelen bir şâhitliği gizleyenden daha zâlim kim olabilir? Allah yaptıklarınızdan gâfil değildir"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Onlar bir ümmetti; gelip geçti. Onların kazandıkları kendilerine, sizin kazandıklarınız da size aittir. Siz onların yaptıklarından sorguya çekilmezsiniz"
+        }
+    ]
+}

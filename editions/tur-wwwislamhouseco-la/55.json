@@ -1,0 +1,394 @@
+{
+    "chapter": [
+        {
+            "chapter": 55,
+            "verse": 1,
+            "text": "Rahman"
+        },
+        {
+            "chapter": 55,
+            "verse": 2,
+            "text": "Kur’an'ı ogretti"
+        },
+        {
+            "chapter": 55,
+            "verse": 3,
+            "text": "Insanı yarattı"
+        },
+        {
+            "chapter": 55,
+            "verse": 4,
+            "text": "Ona beyanı ogretti"
+        },
+        {
+            "chapter": 55,
+            "verse": 5,
+            "text": "Gunes ve ay belli bir hesapladır"
+        },
+        {
+            "chapter": 55,
+            "verse": 6,
+            "text": "Bitkiler ve agaclar (Allah'a) secde etmektedirler"
+        },
+        {
+            "chapter": 55,
+            "verse": 7,
+            "text": "Gogu yukseltti ve mizanı (adaleti) koydu"
+        },
+        {
+            "chapter": 55,
+            "verse": 8,
+            "text": "O halde olcude haddi asmayın"
+        },
+        {
+            "chapter": 55,
+            "verse": 9,
+            "text": "Tartıyı adaletle tutup dogrultun ve tartıyı noksan tutmayın"
+        },
+        {
+            "chapter": 55,
+            "verse": 10,
+            "text": "Allah, yeri canlılar icin dosedi"
+        },
+        {
+            "chapter": 55,
+            "verse": 11,
+            "text": "Orada meyveler ve tomurcuklu hurmalar vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 12,
+            "text": "Yapraklı taneler, hos kokulu bitkiler vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 13,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 14,
+            "text": "O, insanı pismis camur gibi kuru balcıktan yaratmıstır"
+        },
+        {
+            "chapter": 55,
+            "verse": 15,
+            "text": "Cinleri de yalın bir atesten yarattı"
+        },
+        {
+            "chapter": 55,
+            "verse": 16,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 17,
+            "text": "O, iki dogunun Rabbidir, iki batının Rabbidir"
+        },
+        {
+            "chapter": 55,
+            "verse": 18,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 19,
+            "text": "Iki denizi birbiriyle kavussun diye salıvermistir"
+        },
+        {
+            "chapter": 55,
+            "verse": 20,
+            "text": "Aralarında bir engel vardır, birbirine gecip karısmazlar"
+        },
+        {
+            "chapter": 55,
+            "verse": 21,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 22,
+            "text": "O iki denizden inci ve mercan cıkar"
+        },
+        {
+            "chapter": 55,
+            "verse": 23,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 24,
+            "text": "Denizde yuce daglar gibi yukselen gemiler de O'nundur"
+        },
+        {
+            "chapter": 55,
+            "verse": 25,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 26,
+            "text": "Onun uzerinde bulunan her sey yok olacaktır"
+        },
+        {
+            "chapter": 55,
+            "verse": 27,
+            "text": "Azamet ve ikram sahibi olan Rabbinizin vechi/yuzu bakidir"
+        },
+        {
+            "chapter": 55,
+            "verse": 28,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 29,
+            "text": "Goklerde ve yerde kim varsa hepsi O’ndan ister. O, her gun bir istedir"
+        },
+        {
+            "chapter": 55,
+            "verse": 30,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 31,
+            "text": "Ey insanlar ve cinler! Sizin de hesabınızı gorecegiz"
+        },
+        {
+            "chapter": 55,
+            "verse": 32,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 33,
+            "text": "Ey cin ve insan toplulukları! Goklerin ve yerin cercevesinden cıkıp gitmeye gucunuz yetiyorsa gecin. Ancak buyuk bir gucle cıkıp gidebilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 34,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 35,
+            "text": "Ey insanlar ve cinler! Uzerinize dumansız bir alev ve atessiz bir duman gonderilir de kurtulamazsınız"
+        },
+        {
+            "chapter": 55,
+            "verse": 36,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 37,
+            "text": "Gok yarılıp da kızarmıs yag renginde gul gibi oldugu zaman"
+        },
+        {
+            "chapter": 55,
+            "verse": 38,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 39,
+            "text": "O gun hicbir insana ve cine gunahı sorulmaz"
+        },
+        {
+            "chapter": 55,
+            "verse": 40,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 41,
+            "text": "Gunahkarlar simalarından tanınır, sonra da percemlerinden ve ayaklarından yakalanır"
+        },
+        {
+            "chapter": 55,
+            "verse": 42,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 43,
+            "text": "Iste bu o gunahkarların yalan saydıgı cehennemdir"
+        },
+        {
+            "chapter": 55,
+            "verse": 44,
+            "text": "Onlar, Cehennem atesi ile kaynar su arasında gider gelirler"
+        },
+        {
+            "chapter": 55,
+            "verse": 45,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 46,
+            "text": "Rabbinin makamından korkanlara iki Cennet vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 47,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 48,
+            "text": "Her ikisi de cesit cesit dallı agaclara sahiptir"
+        },
+        {
+            "chapter": 55,
+            "verse": 49,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 50,
+            "text": "Onların ikisinde de akan iki pınar vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 51,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 52,
+            "text": "Ikisinde de her turlu meyveden cift cift vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 53,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 54,
+            "text": "(Orada) astarları kalın atlastan yataklara yaslanırlar. Her iki cennetten devsirilen meyveler de (oradakilere) yakındır"
+        },
+        {
+            "chapter": 55,
+            "verse": 55,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 56,
+            "text": "Oralarda bakıslarını sadece eslerine cevirmis dilberler vardır. Onlara eslerinden once ne bir insan, ne de bir cin dokunmustur"
+        },
+        {
+            "chapter": 55,
+            "verse": 57,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 58,
+            "text": "Sanki onlar yakut ve mercan gibidir"
+        },
+        {
+            "chapter": 55,
+            "verse": 59,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 60,
+            "text": "Iyiligin karsılıgı iyilikten baskası olabilir mi"
+        },
+        {
+            "chapter": 55,
+            "verse": 61,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 62,
+            "text": "Bu ikisinden baska iki Cennet daha vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 63,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 64,
+            "text": "Ikisi de yemyesildirler"
+        },
+        {
+            "chapter": 55,
+            "verse": 65,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 66,
+            "text": "Ikisinde de suları durmaksızın cosan iki pınar vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 67,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 68,
+            "text": "Her ikisinde de meyve, hurma ve nar vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 69,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 70,
+            "text": "Orada iyi huylu guzel yuzlu kadınlar vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 71,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 72,
+            "text": "Otaglar icerisinde sahiplerine tahsis edilmis huriler vardır"
+        },
+        {
+            "chapter": 55,
+            "verse": 73,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 74,
+            "text": "Onlara eslerinden once ne bir insan, ne de bir cin dokunmustur"
+        },
+        {
+            "chapter": 55,
+            "verse": 75,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 76,
+            "text": "Yesil yastıklara ve harikulade guzel dosemelere yaslanırlar"
+        },
+        {
+            "chapter": 55,
+            "verse": 77,
+            "text": "Oyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz"
+        },
+        {
+            "chapter": 55,
+            "verse": 78,
+            "text": "Azamet ve ikram sahibi Rabbinin adı ne yucedir"
+        }
+    ]
+}

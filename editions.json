@@ -209,6 +209,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.min.json"
     },
+    "asm_shaykhrafeequli": {
+        "name": "asm-shaykhrafeequli",
+        "author": "Shaykh Rafeequl Islam Habibur Rahman",
+        "language": "Assamese",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/assamese_rafeeq/v1.0.0-csv.1 , https://quranenc.com/en/browse/assamese_rafeeq , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/asm-shaykhrafeequli.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/asm-shaykhrafeequli.min.json"
+    },
     "aze_alikhanmusayev_la": {
         "name": "aze-alikhanmusayev-la",
         "author": "Alikhan Musayev",
@@ -499,6 +509,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/deu-asfbubenheimand.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/deu-asfbubenheimand.min.json"
     },
+    "deu_frankbubenheima_la": {
+        "name": "deu-frankbubenheima-la",
+        "author": "Frank Bubenheim And Nadeem Elyas",
+        "language": "German",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/german_bubenheim/v1.1.0-csv.1 , https://quranenc.com/en/browse/german_bubenheim , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/deu-frankbubenheima-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/deu-frankbubenheima-la.min.json"
+    },
+    "deu_frankbubenheima": {
+        "name": "deu-frankbubenheima",
+        "author": "Frank Bubenheim And Nadeem Elyas",
+        "language": "German",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/german_bubenheim/v1.1.0-csv.1 , https://quranenc.com/en/browse/german_bubenheim , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/deu-frankbubenheima.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/deu-frankbubenheima.min.json"
+    },
     "div_officeofthepres": {
         "name": "div-officeofthepres",
         "author": "Office Of The President Of Maldives",
@@ -689,6 +719,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-bahaoddinkhorra.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-bahaoddinkhorra.min.json"
     },
+    "fas_drhussientagi": {
+        "name": "fas-drhussientagi",
+        "author": "Dr. Hussien Tagi",
+        "language": "Persian",
+        "direction": "rtl",
+        "source": "https://quranenc.com/check/persian_tagi/v1.0.0-csv.1 , https://quranenc.com/en/browse/persian_tagi , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-drhussientagi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-drhussientagi.min.json"
+    },
     "fas_hussainansarian": {
         "name": "fas-hussainansarian",
         "author": "Hussain Ansarian",
@@ -698,6 +738,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-hussainansarian.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-hussainansarian.min.json"
+    },
+    "fas_islamhousecompe": {
+        "name": "fas-islamhousecompe",
+        "author": "Islamhouse.com Persian Team",
+        "language": "Persian",
+        "direction": "rtl",
+        "source": "https://quranenc.com/check/persian_ih/v1.1.0-csv.1 , https://quranenc.com/en/browse/persian_ih , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-islamhousecompe.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-islamhousecompe.min.json"
     },
     "fas_mahdielahighoms": {
         "name": "fas-mahdielahighoms",
@@ -779,6 +829,46 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-sayyedjalaloddi.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-sayyedjalaloddi.min.json"
     },
+    "fra_islamicfoundati_la": {
+        "name": "fra-islamicfoundati-la",
+        "author": "Islamic Foundation",
+        "language": "French",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/french_montada/v1.0.0-csv.1 , https://quranenc.com/en/browse/french_montada , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-islamicfoundati-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-islamicfoundati-la.min.json"
+    },
+    "fra_islamicfoundati": {
+        "name": "fra-islamicfoundati",
+        "author": "Islamic Foundation",
+        "language": "French",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/french_montada/v1.0.0-csv.1 , https://quranenc.com/en/browse/french_montada , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-islamicfoundati.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-islamicfoundati.min.json"
+    },
+    "fra_muhammadhameedu_la": {
+        "name": "fra-muhammadhameedu-la",
+        "author": "Muhammad Hameedullah",
+        "language": "French",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/french_hameedullah/v1.0.0-csv.1 , https://quranenc.com/en/browse/french_hameedullah , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhameedu-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhameedu-la.min.json"
+    },
+    "fra_muhammadhameedu": {
+        "name": "fra-muhammadhameedu",
+        "author": "Muhammad Hameedullah",
+        "language": "French",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/french_hameedullah/v1.0.0-csv.1 , https://quranenc.com/en/browse/french_hameedullah , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhameedu.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhameedu.min.json"
+    },
     "fra_muhammadhamidul_la": {
         "name": "fra-muhammadhamidul-la",
         "author": "Muhammad Hamidullah",
@@ -799,6 +889,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhamidul.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhamidul.min.json"
     },
+    "hau_abubakarmahmood_la": {
+        "name": "hau-abubakarmahmood-la",
+        "author": "Abubakar Mahmood Jummi",
+        "language": "Hausa",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/hausa_gummi/v1.2.0-csv.1 , https://quranenc.com/en/browse/hausa_gummi , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmood-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmood-la.min.json"
+    },
+    "hau_abubakarmahmood": {
+        "name": "hau-abubakarmahmood",
+        "author": "Abubakar Mahmood Jummi",
+        "language": "Hausa",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/hausa_gummi/v1.2.0-csv.1 , https://quranenc.com/en/browse/hausa_gummi , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmood.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmood.min.json"
+    },
     "hau_abubakarmahmoud_la": {
         "name": "hau-abubakarmahmoud-la",
         "author": "Abubakar Mahmoud Gumi",
@@ -818,6 +928,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmoud.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmoud.min.json"
+    },
+    "hin_maulanaazizulha": {
+        "name": "hin-maulanaazizulha",
+        "author": "Maulana Azizul Haque Al Umari",
+        "language": "Hindi",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/hindi_omari/v1.1.0-csv.1 , https://quranenc.com/en/browse/hindi_omari , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hin-maulanaazizulha.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hin-maulanaazizulha.min.json"
     },
     "hin_muhammadfarooqk_la": {
         "name": "hin-muhammadfarooqk-la",
@@ -879,6 +999,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ibo-ramdaneatmansou.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ibo-ramdaneatmansou.min.json"
     },
+    "ind_indonesianislam": {
+        "name": "ind-indonesianislam",
+        "author": "Indonesian Islamic Affairs Ministry",
+        "language": "Indonesian",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/indonesian_affairs/v1.0.0-csv.1 , https://quranenc.com/en/browse/indonesian_affairs , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-indonesianislam.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-indonesianislam.min.json"
+    },
     "ind_indonesianminis": {
         "name": "ind-indonesianminis",
         "author": "Indonesian Ministry Of Religious Affairs",
@@ -899,6 +1029,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-jalaladdinalmah.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-jalaladdinalmah.min.json"
     },
+    "ind_kingfahdcomplex": {
+        "name": "ind-kingfahdcomplex",
+        "author": "King Fahd Complex",
+        "language": "Indonesian",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/indonesian_complex/v1.0.0-csv.1 , https://quranenc.com/en/browse/indonesian_complex , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-kingfahdcomplex.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-kingfahdcomplex.min.json"
+    },
     "ind_muhammadquraish": {
         "name": "ind-muhammadquraish",
         "author": "Muhammad Quraish Shihab Et Al.",
@@ -908,6 +1048,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-muhammadquraish.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-muhammadquraish.min.json"
+    },
+    "ind_thesabiqcompany": {
+        "name": "ind-thesabiqcompany",
+        "author": "The Sabiq Company",
+        "language": "Indonesian",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/indonesian_sabiq/v1.1.0-csv.1 , https://quranenc.com/en/browse/indonesian_sabiq , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-thesabiqcompany.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-thesabiqcompany.min.json"
     },
     "ita_hamzarobertopic_la": {
         "name": "ita-hamzarobertopic-la",
@@ -928,6 +1078,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ita-hamzarobertopic.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ita-hamzarobertopic.min.json"
+    },
+    "jpn_ryoichimita": {
+        "name": "jpn-ryoichimita",
+        "author": "Ryoichi Mita",
+        "language": "Japanese",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/japanese_meta/v1.0.0-csv.1 , https://quranenc.com/en/browse/japanese_meta , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-ryoichimita.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-ryoichimita.min.json"
     },
     "jpn_unknown_la": {
         "name": "jpn-unknown-la",
@@ -959,6 +1119,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown.min.json"
     },
+    "khm_cambodianmuslim": {
+        "name": "khm-cambodianmuslim",
+        "author": "Cambodian Muslim Community Development",
+        "language": "Khmer",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/khmer_cambodia/v1.0.0-csv.1 , https://quranenc.com/en/browse/khmer_cambodia , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.min.json"
+    },
     "kor_unknown_la": {
         "name": "kor-unknown-la",
         "author": "Unknown",
@@ -988,6 +1158,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-burhanmuhammada.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-burhanmuhammada.min.json"
+    },
+    "kur_muhammadsalehba": {
+        "name": "kur-muhammadsalehba",
+        "author": "Muhammad Saleh Bamoki",
+        "language": "Kurdish",
+        "direction": "rtl",
+        "source": "https://quranenc.com/check/kurdish_bamoki/v1.1.0-csv.1 , https://quranenc.com/en/browse/kurdish_bamoki , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-muhammadsalehba.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-muhammadsalehba.min.json"
     },
     "mal_cheriyamundamab_la": {
         "name": "mal-cheriyamundamab-la",
@@ -1109,6 +1289,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nor-einarberg.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nor-einarberg.min.json"
     },
+    "orm_ghaliapapurapag": {
+        "name": "orm-ghaliapapurapag",
+        "author": "Ghali Apapur Apaghuna",
+        "language": "Oromo",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/oromo_ababor/v1.0.0-csv.1 , https://quranenc.com/en/browse/oromo_ababor , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/orm-ghaliapapurapag.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/orm-ghaliapapurapag.min.json"
+    },
     "pol_jozefabielawski_la": {
         "name": "pol-jozefabielawski-la",
         "author": "Jozefa Bielawskiego",
@@ -1128,6 +1318,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pol-jozefabielawski.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pol-jozefabielawski.min.json"
+    },
+    "por_helminasr_la": {
+        "name": "por-helminasr-la",
+        "author": "Helmi Nasr",
+        "language": "Portuguese",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/portuguese_nasr/v1.3.0-csv.1 , https://quranenc.com/en/browse/portuguese_nasr , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/por-helminasr-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/por-helminasr-la.min.json"
+    },
+    "por_helminasr": {
+        "name": "por-helminasr",
+        "author": "Helmi Nasr",
+        "language": "Portuguese",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/portuguese_nasr/v1.3.0-csv.1 , https://quranenc.com/en/browse/portuguese_nasr , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/por-helminasr.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/por-helminasr.min.json"
     },
     "por_samirelhayek_la": {
         "name": "por-samirelhayek-la",
@@ -1439,6 +1649,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hasanefendinahi.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hasanefendinahi.min.json"
     },
+    "sqi_hassannahi_la": {
+        "name": "sqi-hassannahi-la",
+        "author": "Hassan Nahi",
+        "language": "Albanian",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/albanian_nahi/v1.1.0-csv.1 , https://quranenc.com/en/browse/albanian_nahi , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hassannahi-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hassannahi-la.min.json"
+    },
+    "sqi_hassannahi": {
+        "name": "sqi-hassannahi",
+        "author": "Hassan Nahi",
+        "language": "Albanian",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/albanian_nahi/v1.1.0-csv.1 , https://quranenc.com/en/browse/albanian_nahi , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hassannahi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sqi-hassannahi.min.json"
+    },
     "sqi_sherifahmeti_la": {
         "name": "sqi-sherifahmeti-la",
         "author": "Sherif Ahmeti",
@@ -1488,6 +1718,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/swe-knutbernstrom.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/swe-knutbernstrom.min.json"
+    },
+    "tam_abdulhameedbaqa": {
+        "name": "tam-abdulhameedbaqa",
+        "author": "Abdulhameed Baqavi",
+        "language": "Tamil",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/tamil_baqavi/v1.0.0-csv.1 , https://quranenc.com/en/browse/tamil_baqavi , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tam-abdulhameedbaqa.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tam-abdulhameedbaqa.min.json"
     },
     "tam_janturstfoundat_la": {
         "name": "tam-janturstfoundat-la",
@@ -1558,6 +1798,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-abdolmohammaday.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-abdolmohammaday.min.json"
+    },
+    "tgk_wwwislamhouseco": {
+        "name": "tgk-wwwislamhouseco",
+        "author": "Www.islamhouse.com",
+        "language": "Tajik",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/tajik_arifi/v1.0.0-csv.1 , https://quranenc.com/en/browse/tajik_arifi , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-wwwislamhouseco.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-wwwislamhouseco.min.json"
     },
     "tha_kingfahadquranc_la": {
         "name": "tha-kingfahadquranc-la",
@@ -1729,6 +1979,46 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-muhammetabay.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-muhammetabay.min.json"
     },
+    "tur_muslimshahin_la": {
+        "name": "tur-muslimshahin-la",
+        "author": "Muslim Shahin",
+        "language": "Turkish",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/turkish_shahin/v1.0.0-csv.1 , https://quranenc.com/en/browse/turkish_shahin , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-muslimshahin-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-muslimshahin-la.min.json"
+    },
+    "tur_muslimshahin": {
+        "name": "tur-muslimshahin",
+        "author": "Muslim Shahin",
+        "language": "Turkish",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/turkish_shahin/v1.0.0-csv.1 , https://quranenc.com/en/browse/turkish_shahin , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-muslimshahin.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-muslimshahin.min.json"
+    },
+    "tur_shabanbritch_la": {
+        "name": "tur-shabanbritch-la",
+        "author": "Shaban Britch",
+        "language": "Turkish",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/turkish_shaban/v1.1.0-csv.1 , https://quranenc.com/en/browse/turkish_shaban , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-shabanbritch-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-shabanbritch-la.min.json"
+    },
+    "tur_shabanbritch": {
+        "name": "tur-shabanbritch",
+        "author": "Shaban Britch",
+        "language": "Turkish",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/turkish_shaban/v1.1.0-csv.1 , https://quranenc.com/en/browse/turkish_shaban , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-shabanbritch.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-shabanbritch.min.json"
+    },
     "tur_suatyildirim_la": {
         "name": "tur-suatyildirim-la",
         "author": "Suat Yildirim",
@@ -1768,6 +2058,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-suleymanates.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-suleymanates.min.json"
+    },
+    "tur_wwwislamhouseco_la": {
+        "name": "tur-wwwislamhouseco-la",
+        "author": "Www.islamhouse.com",
+        "language": "Turkish",
+        "direction": "ltr",
+        "source": "www.islamhouse.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-wwwislamhouseco-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-wwwislamhouseco-la.min.json"
+    },
+    "tur_wwwislamhouseco": {
+        "name": "tur-wwwislamhouseco",
+        "author": "Www.islamhouse.com",
+        "language": "Turkish",
+        "direction": "ltr",
+        "source": "www.islamhouse.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-wwwislamhouseco.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tur-wwwislamhouseco.min.json"
     },
     "tur_yasarnuriozturk_la": {
         "name": "tur-yasarnuriozturk-la",
@@ -1859,6 +2169,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadhussain.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadhussain.min.json"
     },
+    "urd_muhammadibrahim": {
+        "name": "urd-muhammadibrahim",
+        "author": "Muhammad Ibrahim Junakri",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "https://quranenc.com/check/urdu_junagarhi/v1.1.0-csv.1 , https://quranenc.com/en/browse/urdu_junagarhi , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadibrahim.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadibrahim.min.json"
+    },
     "urd_muhammadjunagar_la": {
         "name": "urd-muhammadjunagar-la",
         "author": "Muhammad Junagarhi",
@@ -1888,6 +2208,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-syedzeeshanhaid.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-syedzeeshanhaid.min.json"
+    },
+    "uzb_alauddinmansour": {
+        "name": "uzb-alauddinmansour",
+        "author": "Alauddin Mansour",
+        "language": "Uzbek",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/uzbek_mansour/v1.0.0-csv.1 , https://quranenc.com/en/browse/uzbek_mansour , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uzb-alauddinmansour.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uzb-alauddinmansour.min.json"
     },
     "uzb_muhammadsodikmu": {
         "name": "uzb-muhammadsodikmu",
@@ -1958,5 +2288,15 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-majian1.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-majian1.min.json"
+    },
+    "zho_muhammadmakin": {
+        "name": "zho-muhammadmakin",
+        "author": "Muhammad Makin",
+        "language": "Chinese(simplified)",
+        "direction": "ltr",
+        "source": "https://quranenc.com/check/chinese_makin/v1.0.0-csv.1 , https://quranenc.com/en/browse/chinese_makin , https://quranenc.com ,",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-muhammadmakin.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-muhammadmakin.min.json"
     }
 }

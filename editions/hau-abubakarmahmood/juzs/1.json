@@ -1,0 +1,744 @@
+{
+    "juzs": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Da sũnan Allah, Mai rahama, Mai jin ƙai"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Godiya ta tabbata ga Allah, Ubangijin halittu"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Mai rahama, Mai jin ƙai"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Mai nuna Mulkin Rãnar Sakamako"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Kai muke bautawa, kuma Kai kadai muke neman taimakonKa"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Ka shiryar da mu ga hanya madaidaiciya"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Hanyar waɗanda Ka yi wa ni'ima, ba waɗanda aka yi wa fushi ba, kuma ba ɓatattu ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "L̃. M̃"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "Wãncan ne Littãfi, bãbu shakka a cikinsa, shiriya ne ga mãsu taƙawa"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "Waɗanda suke yin ĩmãni game da gaibi, kuma suna tsayar da salla, kuma daga abin da Muka azurta su suna ciyarwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "Kuma waɗanda suke yin ĩmãni da abin da aka saukar zuwa gare ka, da abin da aka saukar daga gabãninka, kuma game da Lãhira suna yin yaƙĩni"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Waɗancan suna kan shiriya, daga Ubangjinsu, kuma waɗannan su ne mãsu cin nasara"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Lalle ne waɗanda suka kãfirta* daidai ne a kansu, shin kã yi musu gargaɗi kõ ba ka yi musu gargaɗi ba, ba zã su yi ĩmãni ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Allah Ya sa hãtimi a kan zukãtansu, da a kan jinsu, kuma a Kan ganin su akwai wata yãna; kuma suna da wata azãba mai girma"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "Kuma akwai daga cikin mutãne wanda* yake cewa: \"Mun yi imani da Allah kuma da Yinin Lãhira.\" Alhãli kuwa su ba muminai ba ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "Suna yaudarayya da Allah da waɗanda suka yi ĩmãni, alhãli bã su yaudarar kõwa fãce kansu, kuma bã su sakankancẽwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "A cikin zukãtansu akwai wata cũta. Sai Allah Ya ƙãramusu wata cũta, kuma suna da azãba mai raɗaɗi sabõda ãbin da suka kasance suna yi na ƙarya"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Kuma idan aka ce musu: \"Kada ku yi ɓarna a cikin ƙasa,\" sukan ce: \"Mũ mãsu kyautatawa kawai ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "To, lalle ne su, sũne mãsu ɓarna, kuma amma bã su san hakan ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Kuma idan aka ce musu: \"ku yi ĩmãni kamar yadda mutãne suka yi ĩmãni,\" sukan ce: \"Zã mu yi ĩmãni ne kamar yadda wãwãye suka yi ĩmãni?\" To, lalle ne su, sũ ne wãwãye, kuma amma bã su sani"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Kuma idan sun haɗu da waɗanda suka yi ĩmãni, sukan ce: \"Mun yi ĩmãni. \"Kuma idan sun wõfinta zuwa ga shaiɗãnunsu,* sukan ce: \"Lalle ne muna tãre da ku: Mu mãsu izgili, kawai ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Allah Yana yin izgili* gare su kuma Yana taimakon su a cikin ɓatarsu, suna ɗimuwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "Waɗan can su ne waɗanda suka sayi ɓata da shiriya, sai fataucinsu bai yi rĩba ba, kuma ba su kasance masu shiryuwa ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Misãlinsu shĩ ne kamar misãlin wanda ya hũra wuta, to, a lõkacin da ta haskake abin da yake gẽfensa (na abin tsõro), Allah Ya tafi da haskensu, kuma Ya bar su a cikin duffai, bã su gani"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "Kurãme, bẽbãye, makãfi, sabõda haka bã su dawowa"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Ko kuwa kamar girgije mai zuba daga sama, a cikinsa akwai duffai da tsãwa da walƙiya: suna sanyãwar yãtsunsu a cikin kunnuwansu dãga tsãwarwakin, dõmin tsõron mutuwa. Kuma Allah Mai kẽwayewane gã kãfirai"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "Walƙiyar tana yin kusa ta fizge gannansu, ko da yaushe ta haskakã musu, sai su yi tafiya a cikinta, kuma idan ta yi duhu a kansu, sai su yi tsaye. Kuma dã Allah Yã so, sai Ya tafi da jinsu da gannansu. Lalle ne Allah a kan dukan kõme Mai ĩkon yi ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Yã ku mutãne! Ku bauta wa Ubangjinku, Wanda Ya halicce ku, kũ da waɗanda suke daga gabãninku, tsammãninku ku kãre kanku"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "Wanda Ya sanya muku ƙasa shimfiɗa, kuma sama gini, kuma Ya saukar da ruwa daga sama, sa'an nan Ya fitar da abinci daga 'ya'yan itãce game da shi, sabõda ku. Sabõda haka kada ku sanya wa Allah wasu kĩshiyõyi, alhãli kuwa kuna sane"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "To idan baku iya yi ba to kuwa bazaku taba iya yin ba to kuji tsoron wutar da makamahinta Mutane ne da Duwatsu kuma an tanadeta ne ga Kafirai"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "To, idan ba ku aikata (kãwo sura) ba, to, bã zã ku aikataba, sabõda haka, ku ji tsoron wuta, wadda makãmashinta mutãne da duwãtsu ne, an yi tattalinta dõmin kãfurai"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "Kuma ka bãyar da bishãra ga waɗanda suka yi ĩmãni. kuma suka aikata ayyuka na ƙwarai, cẽwa lallene, suna da gidãjen Aljanna, ƙõramu na gudãna daga ƙarƙashinsu. Ko da yaushe aka azurta su da abinci daga wasu 'ya'yan itãce daga gare su,* sai su ce: \"Wannan shi ne aka azurta mu da shi daga gabãnin haka,\" Kuma a je musu da shi yana mai kama da juna, Kuma sunã da, a cikin su, mãtan aure mãsu tsarki, kuma su, cikin su madawwama ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "Lalle ne, Allah bã Ya jin kunyar Ya bayyana wani misãli, kõwane iri ne, sauro da abin da yake bisa gare shi. To, amma waɗanda suka yi ĩmãni, sai su san cewa lalle shi ne gaskiya daga Ubangijin su, kuma amma waɗanda suka kãfirta, sai su ce: \"Mẽne ne Allah Ya yi nufi da wannan* ya zama misãli?\" na ɓatar da wasu mãsu yawa da shi, kuma Yana shiryar da wasu mãsu yawada shi, kuma bã Ya ɓatarwa da shi fãce fasiƙai"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "Waɗanda suke warware alƙawarin Allah daga bãyan ƙulla shi, kuma su yanke abin da Allah Ya yi umurni da shi a sãdar, kuma suna ɓarna a cikin ƙasa, waɗannan sũ ne mãsu hasãra"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Yaya kuke kãficewa da Allah, alhãli kuwa kun kasance matattu sa'an nan Ya rãyar da ku, sa'nnan kuma Ya matar da ku, sa'an nan kuma Ya rãya ku, sa'an nan zuwa gare Shi ake mayar da ku"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "Shi ne Wanda Ya halitta muku abin da ke a cikin ƙasa gaba ɗaya, sa'an nan kuma Ya daidaita* zuwa sama, sa'an nan Y a aikata su sammai bakwai. Kuma Shi ga dukan kõmai Masani ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Kuma a lõkacin da Ubangijinka Ya ce ga malã'iku: \"Lalle ne, Ni Mai sanya wani halĩfa ne a cikin ƙasa,\" suka ce: \"Ashe, zã Ka sanya a cikinta, wanda zai yi ɓarna a cikinta, kuma mu, muna yi maka tasbihi tare da gõde maka, kuma* muna tsarkakewa gareka\" Ya ce: \"Lalle ne, Ni Na san abin da ba ku sani ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "Kuma Ya sanar da Ãdam sũnãye dukansu, sa'an nan kuma ya gitta su a kan malã'iku, sa'n nan Ya ce: \"Ku gaya mini sũnayen waɗannan, idan kun nasance mãsu gaskiya"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Suka ce: \"Tsarki ya tabbata a gare Ka! Bãbu sani a gare mu, lalle ne Kai, Kai ne Masani, Mai hikima"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "Ya ce: \"Yã Ãdam! Ka gaya musu sũnãyensu.\" To, a lokacin da ya gaya musu sũnãyensu, (Allah) Ya ce: \"Ashe, ban ce muku *ba, lalle Ni, Inã sane da gaibin sammai da ƙasa, kuma (Inã sane da) abin da kuke bayyanawa da abin da kuka kasance kuna ɓõyewa"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Kuma a lõkacin da Muka ce ga malã'iku: \"Ku yi sujada ga Ãdam,\" Sai suka yi sujada, fãce Ibilĩsa ya ƙi, kuma ya yi girman kai, kuma ya kasance daga kãfirai"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Kuma muka ce: \"Ya Ãdam! Ka zauna kai da matarka a gidan Aljanna, kuma ku ci daga gare ta, bisa wadãta, inda kuke so, kuma kada ku kusanci wannan itãciyar, har ku kasance daga azzãlumai"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Sai Shaiɗan ya talãlãɓantar da su ga barinta, sai ya fitar da su daga abin da suka kasance a cikinsa. Kuma muka ce: \"Sãshenku nã maƙiyi ga sãshe, kuma kuna da a cikin ƙasa matabbata da jin dãɗi zuwa ga wani lõkaci"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Sai Ãdam ya karɓi wasu kalmõmi daga Ubangjjinsa, sabõda haka ya karɓi tũba a kansa. Lalle ne Shi, Shĩ ne Mai karɓar tũba, Mai jin ƙai"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Muka ce: \"Ku ku sauka daga gare ta gabã ɗaya. To, imma lalle shiriya ta je muku daga gare Ni, to, wanda ya bi shiriya ta to, bãbu tsõro a kansu, kuma bã su yin baƙin ciki"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "Kuma waɗan da suka kãfirta, kuma suka ƙaryata game da ãyõyinMu, waɗannan sũ ne abõkan Wuta; sũ a cikinta madawwama ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Yã Banĩ Isrã'Ĩla*! Ku tuna ni'imãTa a kanku, kuma ku cika alƙawariNa, In cika muku da alƙawarinku. kuma Ni, ku ji tsõro Na"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Kuma, ku yi ĩmãni da abin da na saukar, mai gaskatãwa ga abin da yake tãre da ku, kuma kada ku kasance farkon kãfiri game da shi, Kuma kada ku sayi 'yan kuɗi kaɗan da ãyõyiNa. Kuma ku ji tsõrõNa, Nĩ kaɗai"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Kuma kada ku lulluɓe gaskiya da ƙarya, kuma ku ɓõye gaskiya, alhãli kuwa kuna sane"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Kuma ku tsayar da salla; kuma ku bãyar da zakka; kuma ku yi rukũ'i tãre da mãsu yin rukũ'i"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "Shin, kuna umurnin mutãne da alhẽri, kuma ku manta da kanku alhãli kuwa kuna karatun littãfi? Shin, bãzã ku hankalta ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Kuma ku nẽmi taimako da yin haƙuri, da salla. Kuma lalle ne ita, haƙĩƙa, mai girma ce fãce fa a kan mãsu tsõron Allah"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "Waɗanda suka tabbata cẽwa lalle ne su mãsu haɗuwa da Ubangijinsu, kuma lalle ne sũ a gareshi mãsu kõmãwa ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "ku Banĩ Isrã'Ĩla! Ku tuna ni'imãTa a kanku, kuma kuma ni na fifita ku akan sauran Talikai"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Kuma ku ji tsron wani yini, (a cikinsa) rai bã ya Wadãtar da wani rai da kõme, kuma bã a karɓar cetõ daga gareshi, kuma ba a karɓar fansa daga gare shi, kuma bã su zama ana taimakon su ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "Kuma a lõkacin da muka tsĩrar da ku daga mutãnen Fir'auna, su na taya muku muguntar azãba, su na yayyanke ɗiyanku maza su na rãyar da mãtanku. Kuma a cikin wancan akwai jarabawa mai girma daga Ubangijinku"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "Kuma a lõkacin da Muka raba tẽku sabõda ku, sai Muka tsĩrar da ku kuma Muka nutsar da mutãnen Fir'auna, alhãli kuwa kũ kuna kallo"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "Kuma a lõkacin da muka yi wa'adi ga Mũsa, dare arba'in, sa'an nan kuma kuka riƙi maraƙi daga bãyansa, alhãli kũ, kuna mãsu zãlunci (da bauta masa)"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Sa'an nan kuma muka yãfe muku daga bãyan wancan, tsammãninku, kuna gõdẽwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "Kuma a lõkacin da Muka baiwa Mũsa Littãfi da rarrabẽwa, tsammãninku, kuna shiryuwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "Kuma a lõkacin da Mũsa ya ce ga mutãnensa: \"Ya mutãnena! Lalle ne ku, kun zãlunci kanku game da riƙonku maraƙin, sai ku tũba zuwa ga Mahaliccinku, sai ku kashe kãwunanku. Wancan ne mafii alheri a wajen mahaliccinku. Sa'an nan Ya karɓi tuba a kanku. lalle ne Shi, Shi ne Mai karɓar tũba, Mai jin ƙai"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "Kuma a lõkacin da kuka ce: \"Ya Musa! Bã zã mu yi ĩmãni ba dõminka, sai munga Allah bayyane,\" sabada haka tsãwar nan ta kamaku, alhãli kuwa kuna kallo"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Sa'an nan kuma Muka tãyar da ku daga bãyan mutuwarku, tsammãninku, kuna gõdẽwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Kuma Muka sanya girgije ya yi inuwa a kanku, kuma Muka saukar da darɓa da tantabaru a kanku; \"Ku ci daga mãsu dãɗin abin da Muka azurta ku.\" kuma ba su zãlunce Mu ba, kuma amma kansu suka kasance suna zãlunta"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "Kuma a lokacin da Muka ce: \"Ku shiga wannan alƙarya. San nan ku ci daga gareta, idan kuka so, bisa wadata, kuma ku shiga ƙofa kuna masu tawalu'i, kuma ku ce; \"kãyar da zunubai\" Mu gãfarta muku laifukanku, kuma zã mu ƙãra wa mãsu kyautatawa"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Sai waɗan da suka yi zalunci suka sake magana watar wannan da aka ce musu, saboda haka muka saukar a kan waɗanda suka yi zãlunci da azãba daga sama sabõda abin da suka kasance suna yi na fãsiƙanci"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "Kuma a lokacin da Mũsa ya nemi shãyarwa domin mutãnensa, Muka ce; \"Ka dõki dũtsen da sandarka.\" Sai marmaro gõma sha biyu suka ɓuɓɓugo, haƙĩƙa, kõwaɗanne mutãne sun san wurin shansu. \"Ku ci kuma ku sha daga arziƙin Ubangijinku, kuma kada ku yi fasadi, a cikin ƙasa, kuna mãsu ɓarna"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Kuma a lõkacin da kuka ce: \"Yã Mũsã! Bã zã mu yi haƙuri ba a kan abinci guda. Sai ka rõƙa mana Ubangijinka Ya fitar mana daga abin da ƙasa take tsirarwa daga ganyenta, dumanta, da alkamarta da albasarta. Ya ce: \"Kuna nẽman musanya abin da yake mafi ƙasƙanci da wanda yake mafi alhẽri? Ku sauka wani birni (daga cikin birane), lalle ne, kuna da abin da kuka rõƙa. \"Kuma Muka dõka musu walãƙanci da talauci. Kuma suka kõma da wani fushi daga Allah. Wancan sabõda lalle su, sun kasance suna kãfirta da ãyõyin Allah, kuma suna kashe Aannabãwa, bãda hakki ba. Wancan, sabõda sãɓawarsu ne, kuma sun kasance suna ƙẽtarewar haddi"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "Lalle ne waɗanda suka yi ĩmãni, da waɗanda suka tũba*, da Nasãra da Makarkata, wana ya yi ĩmani da Allah da Yinin Lãhira, kuma ya aikata aikin ƙwarai, to, suna da ijãrarsu a wurin Ubangijinsu, kuma bãbu tsõro a kansu, kuma ba su zama suna yin baƙin ciki ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Kuma a lõkacin da Muka riƙi alƙawarinku, kuma Muka ɗaukaka dũtse a bisa gareku: \"Ku kãma abin da Muka baku da ƙarfi. Kuma ku ambaci abin da yake a cikin sa, tsammãninku ku kãrekanku"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Sa'an nan kuma kuka jũya daga bayan wancan, to, bã dõmin falalar Allah ba da rahamarSa a kanku, haƙĩƙa, dã kun kasance daga mãsu hasãra"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Kuma lalle ne, haƙĩƙa, kun san waɗanda suka ƙẽtare haddi daga gare ku a cikin Asabar, sai muka ce musu: \"ku kasance birai ƙasƙantattu"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "Muka sanya ta (mas'alar) azãba, dõmin abin da yake gaba gareta, da yake a bãyanta, kuma wa'azi ga mãsu taƙawa"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Kuma a lõkacin da Musa yace ga mutanensa: \"Lalle ne, Allah Yana umurtar ku da ku yanka wata sãniya.\" Suka ce: \"Shin kana riƙon mu ne da izgili?\" Ya ce: \"Ina nẽman tsari daga Allah da in kasance daga jãhilai"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Suka ce: \"Ka rõƙa mana Ubangijinka, Ya bayyana mana, mecẽ ce ita?\" Ya ce: \"Lalle ne, Shi, Yana cewa: \"Lalle ne ita sãniya ce; bã tsõfuwa ba, bã kuma budurwa ba, tsakãtsaki ce a tsakãnin wancan,' sai ku aikata abin da ake umurninku"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Suka ce: \"Ka rõƙa mana Ubangijinka Ya bayyana mana abin da yake launinta.\" Ya ce: \"Lalle ne, Shi Yana cewa: \"Ita wata saniya ce fatsa-fatsa, mai tsan-tsan launi, tana faranta ran mausu kallonta"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "Suka ce: \"Ka rõƙa mana Ubangijinka, Ya bayyana mana abin da yake ita, lalle ne shãnu suna yi mana kamã da jũna, kuma mu, idan Allah Yã so, haƙĩƙa, shiryuwa ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "Ya ce: \"Lalle ne Shi, Yana cẽwa: \"Ita wata sãniya ce; ba horarra bã tana noman ƙasa, kuma ba ta shayar da shuka, lãfiyayya ce: bãbu wani sõfane a cikinta.\" Suka ce: \"Yanzu kã zo da gaskiya. Sai suka yanka ta, kamar ba zã su aikata ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "Kuma a lõkacin da kuka yi kisan kai, kuka dinga tunkuɗa wa jũna laifĩ a cikinsa,* kuma Allah Mai fitar da abin da kuka kasance kuna ɓõyẽwa ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "Sai Muka ce: \"Ku dõke shi da wani sãshenta.\" Kamar wancan ne Allah Yake rãyar da matattu, kuma Ya nũna muku ayõyinSa, tsammãninku kuna hankalta"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "San nan kuma zukãtanku, suka ƙẽƙashe daga bãyan wancan. Sabõda haka suka zamanto kamar duwatsu. Ko mafi tsananin ƙeƙashewa. kuma lalle ne daga duwãtsu, haƙĩka, akwai abin da maremari suke ɓuɓɓuga daga gare shi, kuma lalle ne daga gare su, haƙĩƙa, akwai abin da yake tsatstsagewa har ruwa ya fita daga gare shi, kuma lalle ne, haƙĩƙa, daga gare su, haƙĩƙa, akwai da yake fãɗõwa dõmin tsõron Allah, kuma Allah bai zama gãfili ba daga barin abin da kuke aikatãwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "Shin kuna tsammãnin zã su yi imãni sabõda ku, alhãli kuwa, haƙĩƙa, wata ƙungiya daga gare su sun kasance suna jin maganar Allah, sa'an nan kuma su karkatar da ita daga bãyan sun gãne ta, alhãli sũ, suna sane"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "Kuma idan sun haɗu da waɗanda suka yi ĩmãni sukan ce: \"Mun yi ĩmãni,\" kuma idan sãshensu ya wõfinta zuwa ga sãshe, sukan ce: \"Shin, kuna yi musu magana da abin da Allah Ya buɗa muku ne dõmin su yi muku hujja da shi a wurin Ubangijinku?\" Shin fa, bã ku hankalta"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "Shin, kuma bã su sanin cẽwa lalle ne Allah Yana sanin abin da suke ɓõyẽwa da abin da suke bayyanãwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Kuma daga cikin su akwai ummiyyai, bã su da sanin Littãfi, fãce tãtsuniyoyi, kuma sũ bã kõme suke yi ba fãce suna yin zato"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "To, bone ya tabbata ga waɗanda suke rubũta littãfi da hannuwansu sa'an nan kuma su ce wannan daga wurin Allah yake, dõmin su sayi kuɗi kaɗan da shi, san nan bone ya tabbata a gare su daga abin da hannayensu ke rubũtãwa, kuma bone ya tabbata a gare su daga abin da suke sanã'antãwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "Kuma suka ce: \"Wuta bã zã ta shãfe mu ba, fãce, 'yan kwãnuka ƙidãyayyu.\"Ka ce: \"Ashe kun riƙi wani alkawari a wurin Allah, sa'an nan Allah ba zai sãɓa wa alkawarinSa ba ko kuwa kuna faɗin abin da ba ku sani ba bisa ga Allah"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Na'am! Wanda ya yi tsiwur-wurin mũgun abu, kuma laifinsa ya kẽwaye shi, to, waɗannan su ne 'yan Wuta, sũ a cikinta madawwama ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "Kuma waɗanda suka yi ĩmãni kuma suka aikata ayyukan ƙwarai, waɗannan, 'yan Aljanna ne, sũ a cikinta madawwama ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Kuma a lõkacin da Muka karɓi alkawarin Bani-Isrã'ĩla*: \"Kada ku bauta wa kõwa fãce Allah, kuma ga mahaifa ku kyautata, da mai zumunta da marãyu da matalauta, kuma ku faɗi magana mai kyau zuwa ga mutãne, kuma ku tsayar da salla, kuma ku bãyar da zakka, sa'an nan kuka jũya bãya, fãce kaɗan daga gare ku, alhãli kuwa kuna mãsu bijirẽwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "Lõkacin da Muka riƙi alkawarinku; bã zã ku zubar da jininku ba, kuma bã zã ku fitar da kanku daga gidãjenku ba; sa'an nan kuka tabbatar alhãli kuwa kuna bãyar da shaida (a kanku)"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Sa'an nan kuma, gã ku, yã waɗannan! Kuna kashe kanku, kuma kuna fitar da wani ɓangare daga gare ku daga gidãjensu, kuna taimakon jũna a kansu da zunubi da zãlunci kuma idan kãmammu suka je muku kuna fansarsu alhãli kuwa shĩ fitar da su abin da aka haramta muku ne. Shin fa, kuna ĩmãni da sãshen Littãfin ne, kuma ku kãfirta da sãshe? To, mẽne ne sakamakon wanda ke aikata wancan daga gare ku fãce wulãkanci* a cikin rãyuwar dũniya? Kuma a Rãnar ¡iyãma ana mayar da su zuwa ga mafi tsananin azãba. Kuma Allah bai zama Mai gafala ba daga barin abin da kuke aikatãwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "Waɗan nan su ne waɗan da suka sayi rãyuwar dũniya da Lãhira, dõmin haka bã zã a sauƙaƙa azãba ba daga kansu, kuma sũ, bã ataimakonsu"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Kuma lalle ne, haƙĩƙa, Munbai wa Mũsã Littãfi, kuma Mun biyar daga bãyansa da wasu Manzanni, kuma Muka bai wa Ĩsã ɗan Maryama hujjõji bayyanannu, kuma Muka ƙarfafa shi da Rũhi mai tsarki*. Shinfa, kõ da yaushe wani manzo ya je muku tãre da abin da rãyukanku bã su so, sai ku kangara, wani ɓangare kun ƙaryata, kuma wani ɓangare kuna kashẽwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "Kuma suka ce: \"Zukatanmu suna cikin rufi.\" A'a, Allah Yã la'ane su, dõmin kafircinsu kadan kwarai suke yin ĩmãni"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Kuma a lõkacin da wani Littãfi daga wurin Allah ya je musu, mai gaskatãwa ga abin da yake tãre da su, alhãli kuwa sun kasance daga gabãnin haka suna fãtar taimako* da shi a kan waɗanda suka kãfirta. To, a lõkacin da abin da suka sani ya je musu, sai suka kãfirta da shi. Sabõda haka la'anar Allah ta tabbata a kan kãfirai"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Tir, da abin da suka sayi rãyukansu da shi; watau su kãfirta da abin da Allah Ya saukar sabõda zãlunci;* kada Allah Ya saukar da falalarsa a kan wanda Yake so daga bãyinsa. Sai suka kõmo da fushi game da wani fushi. Kuma ga kãfirai akwai azãba mai wulãƙantarwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Kuma idan aka ce musu: \"Ku yi ĩmãni da abin da Allah Ya saukar.\" Sai su ce: \"Muna ĩmãni da abin da aka saukar a gare mu,\" kuma suna kãfircẽwa da abin da ke bãyansa, alhãli kuwa, shi ne gaskiyar (da suka sani) mai gaskatawa ga abin da yake tãre da su (na Attaura) Ka ce: \"To, don me kuke kashe annabãwan Allah gabãnin wannan, idan kun kasance mãsu bãyar da gaskiya"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Kuma lalle ne haƙĩƙa Mũsã ya zo muku da hujjõji bayyanannu, sa'an nan kuka riƙi maraƙi* (daga bãyansa, alhãli kuwa kuna mãsu zãlunci)"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "Kuma a lõkacin da Muka riƙi* alkawarinku kuma Muka ɗaukaka dutse a bisa gare ku, (Muka ce:) \"Ku riƙi abin da Muka kãwo muku da ƙarfi kuma ku ji\" Suka ce: \"Mun ji kuma mun ƙi.\" Kuma aka zuba son maraƙin a cikin zukatansu sabõda kãfircinsu. Ka ce: \"Tir da abin da ĩmãninku yake umurnin ku da shi, har idan kun kasance mãsu ĩmãni"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "Ka ce: \"Idan Gidan Lãhira ya kasance sabõda ku ku ne kadai, a wurin Allah babu sauran mutãne, to, ku yi bũrin mutuwa, idan kun kasance mãsu gaskiya"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Kuma bã zã su yi gũrinta ba har abada sabõda abin da hannayensu, suka gabãtar. Kuma Allah Masani ne ga azzãlumai"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "Kuma lalle ne, zã ka sãme su mafiya kwaɗayin mutãne a kan rãyuwa, kuma sũ ne mafiya kwaɗayin rãyuwa daga waɗanda suka yi shirka. ¦ayansu yana son dã zã a rãyar da shi shekara dubu, kuma bã ya zama mai nĩsantar da shi daga azãba dõmin an rãyar da shi. Kuma Allah, Mai gani ne ga abin da suke aikatãwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "Ka ce: Wanda ya* kasance maƙiyi ga Jibirilu, to, lalle ne shi ya saukar da shi a kan zũciyarka da izinin Allah, yana mai gaskatãwa ga abin da yake gaba gare shi, kuma da shiriya da bishãra ga mũminai"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Wanda ya kasance maƙiyi ga Allah da malã'ikunSa da manzanninSa da Jibirĩla da Mĩkã'ĩla to, lalle ne, Allah Maƙiyi ne ga kãfirai"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Kuma lalle ne haƙĩƙa Mun saukar, zuwa gare ka, ãyõyi bayyanannu, kuma ba wanda yake kãfirta da su fãce fãsikai"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "Shin, kuma a kõ da yaushe suka ƙulla wani alkawari sai wani ɓangare daga gare su ya, yi jĩfa da shi? Ã'a, mafi yawansu bã su yin ĩmãni"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Kuma a lõkacin da wani manzo (Muhammadu) daga wurin Allah ya je musu, mai gaskatãwa ga abin da yake tãre da su, sai wani ɓangare daga waɗanda aka bai wa Littãfi, suka yar da Littãfin (Alƙur'ãnin) Allah a bãyan bãyansu, kamar dai sũ ba su sani ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "Kuma suka bi abin da shaiɗãnu* ke karantawa a kan mulkin Sulaimãnu, kuma Sulaimãnu bai yi kãfirci ba, kuma Shaidãnun, sũ ne suka yi kãfirci, suna karantar da mutãne sihiri. Kuma ba a saukar da shi ba a kan malã'iku biyu a Bãbila, Harũta da Mãrũta. Kuma ba su sanar da kõwa ba balle su ce: \"Mũ fitina kawai ne, sabõda haka kada ka kãfirta,\" balle har su yi ta nẽman ilmin abin da suke rarrabẽwa tsakãnin mutum da mãtarsa da shi daga gare su. Kuma su (mãsu yin sihirin) ba su zama mãsu cũtar da kõwa da shi ba, fãce da iznin Allah. Kuma suna nẽman ilmin abin da yake cũtar da su, kuma bã ya amfaninsu. Kuma lalle ne, haƙiƙa, sun sani, tabbas, wanda ya saye shi, bã ya da wani rabo a cikin Lãhira. Kuma tir da abin da suka sayar da rãyukansu da shi, dã sun kasance suna sani"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Kuma dã lalle ne sũ, sun yi ĩmani, kuma sun yi taƙawa, haƙiƙa, da sakamako daga wurin Allah shi ne mafi alhẽri, dã sun kasance suna sani"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Yã kũ waɗanda suka yi ĩmani! Kada ku ce: 'Rã'inã'* kuma ku ce: 'Jinkirtã manã', kuma ku saurara. Kuma kãfirai suna da azãba mai raɗaɗi"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Waɗanda suka kãfirta daga Ma'abuta Littãfi, bã su son a saukar da wani alhẽri a kanku daga Ubangijinku, kuma mushirikai mã bã su so. Kuma Allah Yana keɓance da wanda Yake so da rahamarSa. Kuma Allah Ma'abũcin falala mai girma ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Abin da Muka shãfe* daga ãya, ko kuwa Muka jinkirtar da ita, zã Mu zo da mafi Alhẽri daga gare ta ko kuwa misãlinta. Ashe, ba ka sani ba, cẽwa lalle ne, Allah a kan dukkan kõme Mai ĩkon yi ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "Shin ba ka sani ba, cẽwa lalle ne Allah, Shĩ ne da mulkin sammai da ƙasa kuma bã ku da, baicin Allah, wani majiɓinci, kuma bã ku da wani mataimaki"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Kõ kuna nufin ku tambayi Manzonku, kamar yadda aka tambayi Mũsã a gabãnin haka? Kuma wanda ya musanya kãfirci da ĩmãni, to, lalle ne yã ɓace tsakar hanya"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Mãsu yawa daga Ma'abuta Littãfi sunã gũrin dã sun mayar da ku, daga bãyan ĩmãninku, kãfirai, sabõda hãsada daga wurin rãyukansu, daga bayãn gaskiya tã bayyana a gare su. To, ku yãfe, kuma ku kau da kai, sai Allah Yã zo da umurninSa. Lalle ne Allah a kan dukkan kõme Mai ĩkon yi ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Kuma ku tsayar da salla, kuma ku bãyar da zakka. Kuma abin da kuka gabãtar dõmin kanku daga alhẽri, zã ku sãme shi a wurin Allah. Lalle ne Allah, ga abin da kuke aikatãwa Mai gani ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Kuma suka ce: \"Bãbu mai shiga Aljanna fãce waɗanda suka zama Yahũdu ko Nasãra.\" Waɗancan tãtsũniyõyinsu ne. Ka ce: \"Ku kãwo dalilinku idan kun kasance mãsu gaskiya"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Na'am! Wanda ya sallama fuskarsa ga Allah, alhãli kuwa yana mai kyautatãwa, to, yana da ijãrarsa, a wurin Ubangijinsa, kuma bãbu tsõro a kansu, kuma ba su zama suna baƙin ciki ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Kuma Yahũdãwa suka ce: \"Nasãra ba su zamana a kan kõme ba,\"* kuma Nasãra suka ce: \"Yahũdãwa ba su zamana a kan kõmeba,\" alhãli kuwa su, suna karãtun Littãfi. Kamar wancan ne waɗanda ba su sani ba suka faɗa, kamar maganarsu sabõda haka Allah ne ke yin hukunci a tsakãninsu a Rãnar ¡iyãma, a cikin abin da suka kasance suna sãɓawa jũna a cikinsa"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Kuma wãne ne mafi zãlunci* daga wanda ya hana masallãtan Allah, dõmin kada a ambaci sunanSa a cikinsu, sai kuma ya yi aiki ga rushe su? Waɗannan bã ya kasancẽwa a gare su su shigẽ su fãce suna mãsu tsõro. Suna da, a cikin duniya wani wulãkanci, kuma suna da, a cikin Lãhira, Azãba mai girma"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Kuma Allah ɗai yake da gabas da yamma sabõda haka, inda duk aka jũyar da ku, to, a can fuskar Allah take. Lalle ne, Allah Mawadãci ne, Mai ilmi"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Kuma suka ce: \"Allah Yã riƙi* ɗã.\" Tsarki yã tabbata a gare Shi! A'a, Shi ne da abin da yake a cikin sammai da ƙasa, dukansu, a gare Shi, mãsu ƙanƙan da kai ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "Mai kyautata halittar sammai da ƙasa, kuma idan Ya hukunta wani al'amari, sai kawai Ya ce masa: \"Kasance.\" Sai ya yi ta kasancewa"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Kuma waɗanda bã su da sani suka ce: \"Don me Allah bã Ya yi mana magana, ko wata ãyã ta zo mana?\"* Kamar wancan ne waɗanda suke a gabãninsu suka faɗa, kamar maganarsu. zukãtansu sun yi kamã da jũna. Lalle ne, Mun bayyana ãyõyi ga mutãne masu sakankancewa"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "Lalle ne Mun aike ka da gaskiya, kana mai bãyar da bishãra, kuma mai gargaɗi, kuma bã zã a tambaye ka ba, game da abõkan Wuta"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Kuma Yahũdu bã zã su yarda da kõme daga gare ka ba, kuma Nasãra bã zã su yarda ba, sai kã bi irin aƙidarsu. Ka ce: \"Lalle ne, shiriyar Allah ita ce shiriya.\" Kuma lalle ne idan ka bi son zũciyõyinsu a bãyan abin da ya zo maka na ilmi, bã ka da, daga Allah, wani majiɓinci, kuma bãbu wani mataimaki"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Waɗanda Muka bai wa Littãfi suna karãtunsa a kan haƙƙin karãtunsa, waɗannan suna ĩmani da shi (Alƙur'ãni). Kuma wanda ya kãfirta da shi, to, waɗannan sũ ne mãsu hasãra"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Yã Banĩ Isrã'ĩla! Ku* tuna ni'imaTa wadda Na ni'imtar da ita a kanku, kuma lalle ne Nĩ, Nã fĩfĩtã ku a kan tãlikai"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Ku ji tsõron wani yini, (a cikinsa) wani rai bã ya tunkuɗe wa wani rai kõme kuma bã a karɓar fansa daga gare shi, kuma wani cẽto bã ya amfanin sa, kuma ba su zama ana taimakon su ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Kuma a lõkacin da Ubangijin Ibrãhim Ya jarrabẽ shi da wasu kalmõmi, sai ya cika su. Ya ce: \"Lalle ne Nĩ, Mai sanya ka shugaba dõmin mutãne ne.\" Ya ce: \"Kuma daga zũriyata.\" Ya ce: \"AlkawarĩNa bã zai sãmu azzãlumai ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Kuma a lõkacin da Muka sanya ¦ãkin ya zama makõma ga mutãne, da aminci, kuma ku riƙi wurin salla daga Maƙãmi Ibrãhĩm, kuma Muka yi alƙawari zuwa ga Ibrãhĩm, da Ismã'ila da cẽwa: \"Ku tsarkake ¦ãkiNa dõmin mãsu ɗawãfi da mãsu lizimta da mãsu rukũ'i, mãsu sujada"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "Kuma a lõkacin da lbrãhĩm ya ce: \"Yã Ubangijĩna! Ka sanya wannan gari amintacce, Ka azurta mutãnensa, daga 'ya'yan itãcen, wanda ya yi ĩmãni, daga gare su, da Allah da Ranar Lãhira.\" Allah Ya ce: \"Wanda ya kãfirta ma Ina jiyar da shi dãɗi kaɗan, sa'an nan kuma Ina tĩlastã shi zuwa ga azãbar Wuta. Kuma makõmar, ta munana"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "Kuma a lõkacin da Ibrãhĩm yake ɗaukaka harsãshin gini ga ¦ãkin, da Ismã'ĩla (suna cẽwa:) \"Yã Ubangijnmu! Ka karɓa daga gare mu, lalle ne Kai, Kai ne Mai ji, Mai sani"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Ya Ubangijnmu! Ka sanyã mu, mu biyu, waɗanda suka sallama (al'amari) gare Ka, kuma daga zuriyarmu (Ka sanya) al'umma mai sallamãwa zuwa gare Ka, Kuma Ka nũna mana wurãren ibãdar hajjinmu, kuma Ka karɓi tũba a kanmu. Lalle ne Kai, Kai ne Mai karɓar tũba, Mai rahama"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Ya Ubangijinmu! Ka aiko, a cikinsu, wani manzo* daga gare su, yana karanta musu ãyõyinKa, kuma yana karantar da su Littãfin** da hikimar, kuma yana tsarkake su. Lalle ne Kai, Kai ne Mabuwãyi Mai hikima"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Kuma wãne ne yake gudu daga aƙĩdar Ibrãhĩm, fãce wanda ya jãhilta ga ransa? Kuma lalle ne, haƙĩƙa, Mun zãɓe shi, a cikin dũniya, kuma lalle ne shi, a cikin Lãhira, haƙĩƙa, yana daga sãlihai"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "lokacin da Ubangijisa ya ce da shi ka mika wuya sai ya ce na mika wuya ga Ubangijin Talikai"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "Kuma lbrãhĩm ya yi wasiyya da ita ga ɗiyansa, kuma Ya'aƙũbu (ya yi wasiyya, suka ce:) \"Yã ɗiyãna! Lalle ne, Allah Ya zãɓã muku addini don haka kada ku mutu, lalle, fãce kuna Musulmi"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Ko kun* kasance halarce a lõkacin da mutuwa ta halarci Ya'aƙũbu, a lõkacin da ya ce wa ɗiyansa: \"Mẽne ne zã ku bauta wa daga bãyãna?\" Suka ce: \"Muna bauta wa Abin bautawarka kuma Abin bautawar ubanninka lbrãhĩm da lsmã'ĩla da Is'hãƙa, Ubangiji Guda, kuma mu a gare Shi mãsu miƙa wuya ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Waccan, wata al'umma ce, ta riga ta shige, tana da abin da ta sanã'anta kuma kuna da abin da kuka sanã'anta, Kuma bã zã a tambaye ku ba daga abin da suka kasance suna aikatãwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Kuma suka ce: \"Ku kasance* Yahũdãwa ko Nasãra, kwã shiryu.\"Ka ce: \"A'a aƙidar Ibrãhĩm dai, maikarkata, zuwa ga gaskiya, kuma bai kasance daga mãsu shirki ba"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "Ku* ce: \"Mun yi ĩmãni da Allah, da abin da aka saukar zuwa gare mu, da abin da aka saukar zuwa ga Ibrãhĩm da Ismã'ĩla da Is'hãka da Ya'aƙũbu da jĩkõki, da abin da aka bai wa Mũsã da Ĩsã, da abin da aka bai wa annabãwa daga Ubangijinsu, bã mu rarrabẽwa a tsakãnin kõwa daga gare su, kuma mu, a gare Shi, mãsu miƙa wuya ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "To, idan sun yi ĩmãni* da misãlin abin da kuka yi ĩmãni da shi, to, lalle ne sun shiryu, kuma idan sun jũya bãya, to, suna a cikin sãɓãni kawai sabõda haka Allah zai isar maka a gare su, kuma Shi ne Mai ji, Masani"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "Rinin Allah! Kuma wãne ne mafi kyau ga rini daga Allah? Kuma mu, a gare Shi, mãsu bautãwa ne"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "Ka ce: Shin kuna jãyayyar hujia ne da mu a cikin al'amarin Allah, alhãli kuwa Shi ne Ubangijinmu kuma Ubangijinku, kuma muna da ayyukanmu, kuma kuna da ayyukanku, kuma mũ, a gare Shi, mãsu tsarkakẽwane"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Ko kuna cẽwa: Lalle ne, Ibrãhĩm da Ismã'ĩla da Is'hãƙa da Ya'aƙũbu da Jĩkõki, sun kasance Yahũdãwa kõ kuwa Nasãra? Ka ce: Shin kũ ne kuke mafi sani kõAllah? Kuma wãne ne ya zama mafi zãlunci daga wanda ya bõye shaida a wurinsa daga Allah? Kuma Allah bai zama Mai gafala ba daga abin da kuke aikatãwa"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Waccan, wata al'umma ce, tã riga ta shige, suna da abin da suka sana'anta kuma kuna da abin da kuka sana'anta kuma bã a tambayar ku daga abin da suka kasance suna aikatãwa"
+        }
+    ]
+}

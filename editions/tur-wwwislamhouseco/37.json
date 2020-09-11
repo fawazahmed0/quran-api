@@ -1,0 +1,914 @@
+{
+    "chapter": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "Andolsun saf saf dizilenlere"
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "Sürüp sevk edenlere"
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "Zikri okuyanlara"
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "Sizin ilahınız tek bir ilahtır"
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "O, göklerin, yerin ve bu ikisi arasında bulunanların Rabbidir. O, doğuların da Rabbidir"
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "Biz, en yakın göğü yıldızlarla süsledik"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "Ve onu (göğü) kovulmuş Şeytanlar'dan koruduk"
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "Onlar, artık mele-i a'la'ya (yüce topluluğa) kulak veremezler. Her taraftan taşlanırlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "Kovularak uzaklaştırılmış (olurlar) ve onlar için elem dolu bir azap vardır"
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "Ancak bir (söz) çalıp kapan olursa onu da parlak bir ateş izler"
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "Şimdi onlara sor: “Yaratılış bakımından onlar mı daha zorlu, yoksa bizim yarattıklarımız mı?” Doğrusu biz onları, yapışkan bir çamurdan yarattık"
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "Hayır, sen şaşırdın kaldın; onlar ise alay edip duruyorlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "Kendilerine öğüt verildiğinde öğüt almazlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "Bir ayet (mucize) gördüklerinde alaya alırlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "Bu, ancak apaçık bir büyüdür.\" derler"
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "Öldüğümüz, toprak ve kemik haline geldiğimiz zaman mı gerçekten biz mi diriltileceğiz"
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "“Önceden gelip geçmiş atalarımız da mı?”"
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "De ki: “Evet! Hem de siz aşağılanmış kimseler olarak (diriltileceksiniz).”"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "Çünkü o, korkunç bir sesten ibarettir. O zaman etrafa bakıp dururlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "Eyvah bize! İşte bu, hesap günüdür.\" derler"
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "“İşte bu, yalanlamakta olduğunuz hüküm ve ayırım günüdür.” denilir"
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "Zalimleri, onların eşlerini ve tapmakta olduklarını toplayın"
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "Allah'tan başka (ibadet etmiş olduklarını) Cehennem yoluna iletin"
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "Durdurun onları; çünkü onlar sorguya çekileceklerdir"
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "Size ne oldu da birbirinize yardım etmiyorsunuz"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "Hayır! Onlar, bugün tamamen teslim olmuşlardır"
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "Birbirlerine dönüp sorarlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "Siz, bize sağdan geliyordunuz.\" derler"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "Diğerleri de derler ki: \"Hayır! Siz iman eden kimseler değildiniz"
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "Bizim sizin üzerinizde zorlayıcı bir gücümüz yoktu. Fakat siz, zaten azgın bir toplum idiniz"
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "Artık Rabbimizin hakkımızdaki sözü gerçekleşti. Kesinlikle biz onu (azabı) tadacağız"
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "Evet! Sizi saptırdık. Çünkü biz de sapkın kimseler idik"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "Hiç şüphe yok ki, o gün onlar azapta ortaktırlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "Biz, günahkârlara işte böyle yaparız"
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "Çünkü onlar, kendilerine; \"Allah’tan başka (hak) ilah yoktur.\" denildiği zaman büyüklenirlerdi"
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "Bir mecnun şair için ilahlarımızı terk mi edeceğiz?\" derlerdi"
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "Hayır! O, hakkı getirdi ve peygamberleri doğruladı"
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "Kuşkusuz siz acı azabı tadacaksınız"
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "Siz ancak işlediklerinizin karşılığı ile cezalandırılırsınız"
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "Ancak, Allah’ın ihlaslı kulları müstesna"
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "Onlar için bilinen rızıklar vardır"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "Çeşitli meyveler. Onlar ikram edilenlerdir"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "Onlar, Nimet Cennetleri'ndedir"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "Tahtlar üzerinde karşılıklı otururlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "Etraflarında pınardan (doldurulmuş) kadehler dolaştırılır"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "Bembeyazdır, içenlere lezzet verir"
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "Onda ne baş dönmesi vardır, ne de ondan dolayı sarhoş olurlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "Yanlarında bakışlarını yalnız kendilerine çevirmiş iri gözlü eşler vardır"
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "Sanki onlar örtülü yumurtalar gibi bembeyazdır"
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "Birbirlerine dönüp sorarlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "İçlerinden biri; \"Benim bir arkadaşım vardı.\" der"
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "Bana derdi ki: \"Sen gerçekten tasdik edenlerden misin"
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "Ölüp toprak ve kemik haline geldiğimiz zaman yeniden mi diriltileceğiz"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "(Cennet'e giren) Ona; \"Ne olduğunu görüyor musunuz?\" der"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "Bakar ve onu cehennemin ortasında görür"
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "Allah’a yemin ederim ki, sen neredeyse beni de helâk edecektin!\" der"
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "Eğer Rabbimin nimeti olmasaydı, şimdi ben de (Cehennem'e) getirilenlerden olurdum"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "Şimdi, artık biz ölmeyeceğiz değil mi"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "Nasıl, ilk ölümümüzden başka ölmeyecek miymişiz?Bize azap edilmeyecek miymiş"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "İşte bu, en büyük kurtuluştur"
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "Çalışıp amel edenler, böylesi için çalışsınlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "(Nimet olarak) Bu mu daha hayırlı, yoksa zakkum ağacı mı"
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "Biz onu zalimler için bir fitne kıldık"
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "O, Cehennem'in dibinden çıkan bir ağaçtır"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "Tomurcukları (ürünleri) sanki Şeytanlar'ın başları gibidir"
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "İşte onlar, bundan yerler ve karınlarını onunla doldururlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "Sonra, onlar için üzerine kaynar su katılmış içki vardır"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "Sonra da onların dönüşü yine Cehennem'edir"
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "Onlar; babalarını, atalarını sapık kimseler olarak bulmuşlardı"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "Kendileri de onların izlerinden koşturuluyorlardı"
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "Andolsun ki, onlardan önce eski milletlerin çoğu dalâlete düştü"
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "Andolsun ki, onlar arasında uyarıp, korkutanlar göndermiştik"
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "Uyarılanların sonlarının nasıl olduğuna bir bak"
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "Allah’ın ihlaslı kulları müstesna"
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "Andolsun, Nuh bize seslenmişti de ne güzel icâbet etmiştik"
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "Onu ve ailesini o büyük sıkıntıdan kurtarmıştık"
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "Yalnız onun soyunu sürekli kıldık"
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "Sonradan gelenler arasında onun için (güzel bir) nam bıraktık"
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "Alemler içinde Nuh’a selam olsun"
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "Biz, iyilik yapan ihsan sahiplerini işte böyle ödüllendiririz"
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "Çünkü o, Mü’min kullarımızdan idi"
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "Sonra ötekilerini suda boğduk"
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "Şüphesiz İbrahim de onun yolunda olanlardan idi"
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "Hani O, Rabbine (şirkten) selamette olan bir kalp ile gelmişti"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "Hani o, babasına ve kavmine; “Neye ibadet ediyorsunuz?” demişti"
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "Allah’tan başka uydurma ilahlar mı istiyorsunuz"
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "“Âlemlerin Rabbi hakkında zannınız nedir?”"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "Derken yıldızlara bir göz attı"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "“Ben hastayım.” dedi"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "Arkalarını dönüp gittiler"
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "Bunun üzerine gizlice onların ilahlarına varıp; “Yemek yemiyor musunuz?” dedi"
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "Size ne oldu da konuşmuyorsunuz"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "Sonra üzerlerine gelip sağ eliyle (kuvvetle) vurdu"
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "Bunun üzerine hemen koşarak kendisine geldiler"
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "İbrahim onlara: \"Ellerinizle yonttuğunuz şeylere mi ibadet ediyorsunuz?\" dedi"
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "Oysa sizi de, yapmakta olduklarınızı da Allah yaratmıştır"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "Onun için bir bina yapın, onu alevli ateşin içine atın!\" dediler"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "Böylece ona bir tuzak kurmak istediler. Biz de onları en aşağılık kimseler kıldık"
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "Dedi ki: \"Ben Rabbime gideceğim. O, beni doğru yola iletecektir"
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "Rabbim, bana salihlerden bir evlat bağışla"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "Biz de ona yumuşak huylu bir erkek çocuk müjdeledik"
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "Ne zaman ki o babasının yanı sıra yürümeye başlayınca dedi ki: “Oğulcağızım, gerçekten ben rüyamda seni boğazladığımı görüyorum. Bak, artık sen ne düşünürsün?” Dedi ki: “Babacığım, emrolunduğun şeyi yap. İnşallah beni sabredenlerden bulacaksın.”"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "Böylece her ikisi de (Allah’ın emrine) boyun eğip, İbrahim de onu (boğazlamak için) alnı üstü yere yatırdı"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "Biz ona: “Ey İbrahim!” diye seslendik"
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "Sen rüyanı gerçekten tasdik ettin. Biz, iyileri böyle mükâfatlandırırız"
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "Doğrusu bu, apaçık bir imtihandı"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "Biz ona fidye olarak büyük bir kurbanlık verdik"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "Sonradan gelenler arasında onun için (güzel bir) nam bıraktık"
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "İbrahim’e selam olsun"
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "Biz, iyilik yapan ihsan sahiplerini işte böyle ödüllendiririz"
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "Çünkü o, Mü’min kullarımızdan idi"
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "Biz ona, salihlerden bir peygamber olarak İshak'ı müjdeledik"
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "Onu ve İshak’ı mübarek kıldık. İkisinin soyundan iyi davranan da var, açıkça kendi nefsine zulmetmekte olan da"
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "Andolsun ki, biz Musa'ya ve Harun'a da lütufta bulunduk"
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "Onları ve kavimlerini, o büyük sıkıntıdan kurtardık"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "Onlara yardım ettik. Böylece üstün gelenler onlar oldular"
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "O ikisine apaçık olan kitabı verdik"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "Her ikisini de doğru yola ilettik"
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "Sonradan gelenler arasında o ikisi için (güzel bir) nam bıraktık"
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "Musa ve Harun’a selam olsun"
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "Biz, iyilik yapanları işte böyle ödüllendiririz"
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "Çünkü o ikisi, Mü’min kullarımızdan idi"
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "Muhakkak İlyas da gönderilmiş rasullerdendi"
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "Halkına şöyle demişti: “Siz korkup sakınmaz mısınız?”"
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "Yaratıcıların en iyisini bırakıp Ba’l (adlı puta) mi ibadet ediyorsunuz"
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "Sizin Rabbiniz de, geçmiş atalarınızın da Rabbi Allah'tır"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "Onu yalanladılar, bundan dolayı gerçekten onlar, (azap için getirilip) hazır bulundurulacak olanlardır"
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "Allah’ın ihlaslı kulları müstesna"
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "Sonradan gelenler arasında (güzel bir) nam bıraktık"
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "İlyas’a selam olsun"
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "Biz, iyilik yapanları işte böyle ödüllendiririz"
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "Çünkü o, Mü’min kullarımızdan idi"
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "Şüphesiz Lut da gönderilmiş rasullerdendir"
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "Hani biz onu ve aile halkını birlikte kurtarmıştık"
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "Ancak bir kocakarı müstesna. O, geride kalanlardan oldu"
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "Sonra diğerlerini helâk ettik"
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "Siz, sabah vakti onların (diyarından) muhakkak geçip gidiyorsunuz"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "Ve geceleyin (de onlara uğruyorsunuz). Yine de akıllanmayacak mısınız"
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "Muhakkak Yunus da gönderilmiş rasullerdendi"
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "Hani o, kaçıp yüklü bir gemiye binmişti"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "Kura çekmişler ve kaybedenlerden olmuştu"
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "Derken onu balık yutmuştu, o kınanır bir davranışta bulunmuştu"
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "Eğer o gerçekten tesbih edenlerden olmasaydı"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "İnsanların tekrar diriltilecekleri güne kadar onun karnında kalırdı"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "Biz de onu, hasta bir halde boş bir alana/sahile attık"
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "Üzerine kabak türünden (gölge yapması için) bir ağaç bitirdik"
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "Sonra da onu, yüz bin kişiye hatta daha fazlasına gönderdik"
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "Sonunda ona iman ettiler. Biz de onları bir süreye kadar yararlandırdık"
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "Şimdi onlara sor: “Kız çocukları Rabbinin, erkek çocukları da kendilerinin midir?”"
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "Yoksa biz melekleri dişi olarak yarattık da onlar buna şahit mi oldular"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "İyi bilin ki onlar iftiralarından dolayı derler ki"
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "“Allah doğurdu.” (diyorlar) Şüphesiz onlar elbette yalancıdırlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "Allah kızları, oğullara tercih mi etmiş"
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "Size ne oluyor? Nasıl hüküm veriyorsunuz"
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "Düşünüp öğüt almaz mısınız"
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "Yoksa sizin çok açık bir deliliniz mi var"
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "Eğer doğru söylüyorsanız, haydi kitabınızı getirin"
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "Onlar, kendisiyle (Allah ile) cinler arasında bir soy-bağı kurdular. Andolsun ki, melekler de (bunu söyleyenlerin) hesap yerine götürüleceklerini bilirler"
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "Allah; onların yakıştırdıkları şeylerden münezzehtir"
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "Allah’ın ihlaslı kulları müstesna"
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "Artık ne siz ne de ibadet ettikleriniz"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "O'na karşı hiç kimseyi fitneye düşüremezsiniz"
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "Ancak Cehennem'e girecek olanlar müstesna"
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "(Melekler der ki:) “Bizden her birimiz için belli bir makam vardır.”"
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "Muhakkak biz saf saf duranlarız"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "Ve şüphesiz biz tesbih edenleriz"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "Muhakkak onlar şöyle diyorlardı"
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "“Eğer yanımızda öncekilerden bir zikir (kitap) bulunmuş olsaydı.”"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "“Gerçekten bizler de, Allah'ın muhlis olan kullarından olurduk.”"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "Fakat ona (iman etmeyip) kâfir oldular, ileride (küfürlerinin akıbetini) bilecekler"
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "Andolsun, peygamber olarak gönderilen kullarımız hakkında şu sözümüz geçmişti"
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "“Onlara mutlaka yardım edilecektir.”"
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "Ve galip gelecek olanlar, mutlaka bizim ordumuzdur"
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "Öyleyse sen, bir süreye kadar onlardan yüz çevir"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "(Başlarına geleceğini) gözetle. Nitekim onlar da yakında görecekler"
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "Yoksa azabımızın çabuk gelmesini mi istiyorlar"
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "Fakat (azap) onların sahasına indiği zaman, uyarılıp korkutulanların sabahı pek de kötü olacak"
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "Bir süreye kadar onlardan yüz çevir"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "Ve (başlarına geleceği) gözetle. Nitekim onlar da yakında görecekler"
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "Üstünlük (izzet) sahibi Rabbin onların nitelemelerinden münezzehtir"
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "Gönderilmiş resûllere selam olsun"
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "Hamd, alemlerin Rabbi olan Allah'a mahsustur"
+        }
+    ]
+}
