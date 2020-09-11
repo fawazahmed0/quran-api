@@ -159,32 +159,7 @@ async function create(update) {
       }
 
     }
-    // if it exists, then we will clean that json and store the language with isocode
-    else {
-      // Cleaning and lowercasing the json
-      jsondata = cleanifyObject(jsondata)
-      // This will store the language name and isocode
-      var temp = []
-      // Cleaning or defining the language
-      if (!jsondata['language']) {
-        // detect langauge if it's not already defined
-        temp = isoLangMap(detectLang(arr))
-      } else {
-        // mapping the langauge name to iso language name
-        temp = isoLangMap([jsondata['language']])
-        // if the above fails, then we will have to detect the language
-        if (!Array.isArray(temp))
-          temp = isoLangMap(detectLang(arr))
-      }
-      // If the language is still not detected, we will skip this translation
-      if (!Array.isArray(temp)) {
-        logmsg("\nPlease specify the proper iso name of the language in json, Skipping this translation " + filename)
-        continue;
-      }
-      // Assigning isoname of the language and it's isocode
-      jsondata['language'] = temp[0]
-      jsondata['iso'] = temp[1]
-    }
+
     // validates the translation for mistakes such as extra newline etc and corrects it and clean the translation from any number patterns ,etc
     var cleanarr = validateCleanTrans(filterarr, filename, orgarr)
 
@@ -202,6 +177,33 @@ async function create(update) {
       else
         logmsg("\ncheckduplicate is set to false, so a duplicate copy of this translation will be created in the database")
     }
+
+
+      // Cleaning and lowercasing the json
+      jsondata = cleanifyObject(jsondata)
+      // This will store the language name and isocode
+      var temp = []
+      // Cleaning or defining the language
+      if (!jsondata['language']) {
+        // detect langauge if it's not already defined
+        temp = isoLangMap(detectLang(cleanarr))
+      } else {
+        // mapping the langauge name to iso language name
+        temp = isoLangMap([jsondata['language']])
+        // if the above fails, then we will have to detect the language
+        if (!Array.isArray(temp))
+          temp = isoLangMap(detectLang(cleanarr))
+      }
+      // If the language is still not detected, we will skip this translation
+      if (!Array.isArray(temp)) {
+        logmsg("\nPlease specify the proper iso name of the language in json, Skipping this translation " + filename)
+        continue;
+      }
+      // Assigning isoname of the language and it's isocode
+      jsondata['language'] = temp[0]
+      jsondata['iso'] = temp[1]
+
+
     // if this is update operation
     if (update) {
 
