@@ -1212,12 +1212,14 @@ async function genLatin(arr, edName) {
   if (latinarr.length == arr.length && arr.length * 0.8 < filteredlatinarr.length) {
     logmsg("\nlatin script generated for this language")
     return latinarr
-  } else {
-    logmsg("\n latin script generated but the number of lines are " + latinarr.length + ', so not considering it altogether')
+  } else if(filteredlatinarr.length == 6236){
     // It will generated incase the latinarr after empty line filtering i.e filteredlatinarr is 6236 lines
-    return filteredlatinarr
+    logmsg("\nlatin script generated for this language")
+    logmsg("\n Returned latin arr length " + latinarr.length + ', filterarr length'+filteredlatinarr.length, true)
+  }else{
+    logmsg("\nlatin script not generated")
   }
-
+return filteredlatinarr
 
 }
 

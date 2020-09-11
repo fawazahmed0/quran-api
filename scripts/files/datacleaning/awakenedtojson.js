@@ -17,7 +17,7 @@ var mystr = fs.readFileSync(path.join(tanzilDir,filename)).toString()
 
 myjson['author'] = filename
 
-
+myjson['language'] = 'English'
 
 fs.writeFileSync(path.join(newtanzilDir,filename), mystr+'\n'+JSON.stringify(myjson,null,4))
 
