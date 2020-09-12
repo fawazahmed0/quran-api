@@ -47,6 +47,8 @@ var prettyindent = 4
 var chaplength = [7, 286, 200, 176, 120, 165, 206, 75, 129, 109, 123, 111, 43, 52, 99, 128, 111, 110, 98, 135, 112, 78, 118, 64, 77, 227, 93, 88, 69, 60, 34, 30, 73, 54, 45, 83, 182, 88, 75, 85, 54, 53, 89, 59, 37, 35, 38, 29, 18, 45, 60, 49, 62, 55, 78, 96, 29, 22, 24, 13, 14, 11, 11, 18, 12, 12, 30, 52, 52, 44, 28, 28, 20, 56, 40, 31, 50, 40, 46, 42, 29, 19, 36, 25, 22, 17, 19, 26, 30, 20, 15, 21, 11, 8, 8, 19, 5, 8, 8, 11, 11, 8, 3, 9, 5, 4, 7, 3, 6, 3, 5, 4, 5, 6]
 // contains chapter verse mappings for each line
 var mappings = []
+// Number of verses in quran
+const VERSE_LENGTH = 6236
 
 for (i = 1; i <= 114; i++) {
   for (j = 1; j <= chaplength[i - 1]; j++) {
@@ -148,7 +150,7 @@ async function create(update) {
     logmsg("\nStarting to create files for " + filename)
     // Reading the file and retrieving as array, filteredarr, and jsondata inside it
     // filterarr doesn't contain jsondata and empty lines in it
-    var [orgarr, filterarr, cleanarr, jsondata] = readDBTxt(path.join(startDir, filename))
+    var [orgarr, cleanarr, jsondata] = readDBTxt(path.join(startDir, filename))
     if (!jsondata) {
       logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format", true)
       jsondata = {}
@@ -221,15 +223,15 @@ async function create(update) {
       var uniqueobj = {}
       var fulllatinarr = [];
       if (fs.existsSync(latinDPath))
-        [ , , fulllatinarr] = readDBTxt(latinDPath)
+        [ , fulllatinarr] = readDBTxt(latinDPath)
       else if (fs.existsSync(latinPath))
-        [ , , fulllatinarr] = readDBTxt(latinPath)
+        [ , fulllatinarr] = readDBTxt(latinPath)
 
       // if the edition-la or edition-lad existed
       if (fulllatinarr) {
         // stores the old edition data, this will be used to compare the lines which are having changes
         // so that only the changed line will be used for latin generation, as it's expensive process
-        var [ , , oldEditionArr] = readDBTxt(path.join(linebylineDir, filename))
+        var [ , oldEditionArr] = readDBTxt(path.join(linebylineDir, filename))
         // storing unique/edited lines with their index in uniqueobj
         for (var i = 0; i < oldEditionArr.length; i++) {
           if (oldEditionArr[i] != cleanarr[i])
@@ -291,7 +293,7 @@ async function create(update) {
         genLatinarr = fulllatinarr
       }
       // if the latin script was generated, then we will use that to generate editions with -la and -lad appended to it
-      if (Array.isArray(genLatinarr) && isLatin(genLatinarr) && genLatinarr.length == 6236) {
+      if (Array.isArray(genLatinarr) && isLatin(genLatinarr) && genLatinarr.length == VERSE_LENGTH) {
         // assuming the generated latin is non diacritical
         var nonDiacriticarr = genLatinarr
         logmsg("\nCreating Latin Script for the language")
@@ -387,17 +389,22 @@ function generateFiles(arr, json) {
 }
 
 // validates the translation and returns a clean translation without the numbers etc
-function validateCleanTrans(arr, filename, orgarr) {
-  // In proper format if the number of lines are 6236
-  if (arr.length == 6236) {
-    return cleanTrans(arr)
-  }
+function validateCleanTrans(arr, filename) {
+  var filterarr = arr.filter(elem => !/^\s*$/.test(elem))
+  // In proper format if the number of lines are even 6236 after filtering empty lines
+  if (filterarr.length == VERSE_LENGTH)
+    return cleanTrans(filterarr)
+  // assuming it's having few empty verses in it, we will print which lines and chapter/verse is having problem
+  else if(arr.length == VERSE_LENGTH)
+    PrintEmptyVerse(arr, filename)
   // asuuming there is number pattern of verses such as 1|1|Praise be to God
   else {
     var j = 0;
     var stop = 0
     // specifies the limit, i.e next number of lines to search for next verse
     var limit = 10
+    // Saving the original arr as we will be modifying it
+    var orgarr = [...arr]
     // stores the last line string which had valid number pattern like 1|1|Praise be to God
     // setting this to first line, incase the translation is without number patters and in wrong format, it will print error in line 0
     var laststr = orgarr[0]
@@ -458,8 +465,16 @@ function validateCleanTrans(arr, filename, orgarr) {
       }
     }
     // if the above loop went till end i.e  6236 lines without finding any invalid verse pattern line, it means the file is in proper format
-    if (j == mappings.length)
-      return cleanTrans(arr)
+    if (j == VERSE_LENGTH){
+      // Just making sure it doesn't have any empty lines
+      var cleantrans = cleanTrans(arr)
+      var filterarr = cleantrans.filter(elem => !/^\s*$/.test(elem))
+      // If the translation has empty lines, we will let them know which lines have problem
+      if(filterarr.length!=VERSE_LENGTH)
+      PrintEmptyVerse(cleantrans, filename)
+      else
+       return filterarr
+    }
     else
       logmsg("\nerror while checking the " + filename + " it might be missing chapter " + mappings[j][0] + " and verse " + mappings[j][1] + " check at roughly lineno " + (orgarr.indexOf(laststr) + 1) + " after or before the line '" + laststr + "' ,error will be somewhere near this line")
   }
@@ -490,6 +505,14 @@ function cleanTrans(arr) {
 // clean the string from special symbols,numbers,multiple spaces etc , this is used for string comparision
 function cleanify(str) {
   return str.replace(/[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n]+/gi, " ").replace(/^\s*\w{1}\s+/i, " ").replace(/\s\s+/g, " ").trim().toLowerCase()
+}
+
+// Prints the empty line in the translation, so user can fix it
+function PrintEmptyVerse(arr, filename){
+  arr.forEach((elem,index) => {
+    if(/^\s*$/.test(elem))
+      logmsg("\nerror while checking the " + filename + " it might be missing chapter " + mappings[index][0] + " and verse " + mappings[index][1] + " check at roughly lineno " + (index + 1))
+      });
 }
 
 // returns opposite bracket
@@ -1209,15 +1232,14 @@ async function genLatin(arr, edName) {
   if (latinarr.length == arr.length && arr.length * 0.8 < filteredlatinarr.length) {
     logmsg("\nlatin script generated for this language")
     return latinarr
-  } else if(filteredlatinarr.length == 6236){
+  } else if(filteredlatinarr.length == VERSE_LENGTH){
     // It will generated incase the latinarr after empty line filtering i.e filteredlatinarr is 6236 lines
     logmsg("\nlatin script generated for this language")
-    logmsg("\n Returned latin arr length " + latinarr.length + ', filterarr length'+filteredlatinarr.length, true)
   }else{
     logmsg("\nlatin script not generated")
   }
+logmsg("\n gtranslate returned latin arr length " + latinarr.length + ', filterarr length '+filteredlatinarr.length, true)
 return filteredlatinarr
-
 }
 
 // This will make the python 3 script run in multiple os environments
@@ -1249,15 +1271,15 @@ function readDBTxt(pathToFile) {
   // now remove all lines with empty strings or spaces or tabs
   // https://stackoverflow.com/a/281335
   // return elememnt only if they are not spaces/tabs and emptyline
-  var filterarr = orgarr.filter(elem => !/^\s*$/.test(elem))
+//  var filterarr = orgarr.filter(elem => !/^\s*$/.test(elem))
   // search & validate JSON in array
-  var temp = getJSONInArray(filterarr)
+  var temp = getJSONInArray(orgarr)
   // If the json exists, then Remove the json from the file
   if (Array.isArray(temp))
-	  filterarr = filterarr.slice(0, temp[1])
+	  orgarr = orgarr.slice(0, temp[1])
 	 // validates the translation for mistakes such as extra newline etc and corrects it and clean the translation from any number patterns ,etc
-  	cleanarr = validateCleanTrans(filterarr, path.basename(pathToFile), orgarr)
-    return [orgarr, filterarr, cleanarr , temp[0]]
+  	cleanarr = validateCleanTrans(orgarr, path.basename(pathToFile))
+    return [orgarr, cleanarr , temp[0]]
 }
 
 // searches the string in whole linebyline database
