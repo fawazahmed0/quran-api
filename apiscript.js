@@ -148,7 +148,7 @@ async function create(update) {
     logmsg("\nStarting to create files for " + filename)
     // Reading the file and retrieving as array, filteredarr, and jsondata inside it
     // filterarr doesn't contain jsondata and empty lines in it
-    var [orgarr, filterarr, jsondata] = readDBTxt(path.join(startDir, filename))
+    var [orgarr, filterarr, cleanarr, jsondata] = readDBTxt(path.join(startDir, filename))
     if (!jsondata) {
       logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format", true)
       jsondata = {}
@@ -159,9 +159,6 @@ async function create(update) {
       }
 
     }
-
-    // validates the translation for mistakes such as extra newline etc and corrects it and clean the translation from any number patterns ,etc
-    var cleanarr = validateCleanTrans(filterarr, filename, orgarr)
 
     if (!Array.isArray(cleanarr)) {
       logmsg("\nproblem in " + filename + " format, so ignoring this file")
@@ -224,15 +221,15 @@ async function create(update) {
       var uniqueobj = {}
       var fulllatinarr = [];
       if (fs.existsSync(latinDPath))
-        [, fulllatinarr] = readDBTxt(latinDPath)
+        [ , , fulllatinarr] = readDBTxt(latinDPath)
       else if (fs.existsSync(latinPath))
-        [, fulllatinarr] = readDBTxt(latinPath)
+        [ , , fulllatinarr] = readDBTxt(latinPath)
 
       // if the edition-la or edition-lad existed
       if (fulllatinarr) {
         // stores the old edition data, this will be used to compare the lines which are having changes
         // so that only the changed line will be used for latin generation, as it's expensive process
-        var [, oldEditionArr] = readDBTxt(path.join(linebylineDir, filename))
+        var [ , , oldEditionArr] = readDBTxt(path.join(linebylineDir, filename))
         // storing unique/edited lines with their index in uniqueobj
         for (var i = 0; i < oldEditionArr.length; i++) {
           if (oldEditionArr[i] != cleanarr[i])
@@ -1242,7 +1239,11 @@ function runPyScript(pathToScript, args) {
   return output.stdout.toString();
 }
 
-// reads the text file and returns [originalarr, filtererdarr, jsondata]
+// reads the text file and returns [originalarr, filtererdarr, cleanarr jsondata]
+// orignalarr  orignalfile as arr,
+// filtererdarr - No empty lines in it
+// cleanarr  cleans the translation from patterns etc
+// jsondata - JSON data at the end of file, return undefined if doens't exists
 function readDBTxt(pathToFile) {
   var orgarr = fs.readFileSync(pathToFile).toString().split(/\r?\n/)
   // now remove all lines with empty strings or spaces or tabs
@@ -1251,10 +1252,12 @@ function readDBTxt(pathToFile) {
   var filterarr = orgarr.filter(elem => !/^\s*$/.test(elem))
   // search & validate JSON in array
   var temp = getJSONInArray(filterarr)
+  // If the json exists, then Remove the json from the file
   if (Array.isArray(temp))
-    return [orgarr, filterarr.slice(0, temp[1]), temp[0]]
-  else
-    return [orgarr, filterarr]
+	  filterarr = filterarr.slice(0, temp[1])
+	 // validates the translation for mistakes such as extra newline etc and corrects it and clean the translation from any number patterns ,etc
+  	cleanarr = validateCleanTrans(filterarr, path.basename(pathToFile), orgarr)
+    return [orgarr, filterarr, cleanarr , temp[0]]
 }
 
 // searches the string in whole linebyline database
