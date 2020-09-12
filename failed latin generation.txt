@@ -1,10 +1,3 @@
-asm-shaykhrafeequli
-hin-maulanaazizulha
-jpn-ryoichimita
-khm-cambodianmuslim
-tam-abdulhameedbaqa
-tgk-wwwislamhouseco
-zho-muhammadmakin
 bam-deenmuhammad
 ben-abubakrzakaria
 guj-rabilaalomari
@@ -12,16 +5,13 @@ kaz-khalifahaltai
 kaz-khalifahaltaich
 kor-hamidchoi
 nep-ahlalhadithcent
-ara-sirajtafseer
 tgk-khojamirov
 tel-abdulraheemmoha
 tha-groupfromthesoc
 ukr-yakubovych
 uzb-alaaudeenmansou
-fas-unknown
 mal-abdulhameedmada
 mar-muhammadshafiia
-ben-muhiuddinkhan1
 ukr-mykhayloyakubov
 pus-zakariaabulsala
 sin-wwwislamhouseco
