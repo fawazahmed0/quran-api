@@ -6240,7 +6240,7 @@
     "language": "English",
     "direction": "ltr",
     "source": "http://tanzil.net",
-    "comments": "",
+    "comments": "The Author is a non-muslim",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ajarberry.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ajarberry.min.json"
 }

@@ -1,0 +1,414 @@
+{
+    "maqras": [
+        {
+            "chapter": 100,
+            "verse": 9,
+            "text": "100|9|mudeomsog-e issneun geosdeul-i bakk-eulo nawa sansanhi heut-eojigo"
+        },
+        {
+            "chapter": 100,
+            "verse": 10,
+            "text": "100|10|geuui simjung-e issneun geosdeul-i balg hyeojimyeo"
+        },
+        {
+            "chapter": 100,
+            "verse": 11,
+            "text": "100|11|geunal junimkkeseo geugeosdeul-eul a sim-eulo chungmanhadaneun geos-eul ingan-eun alji moshaneunyo"
+        },
+        {
+            "chapter": 101,
+            "verse": 1,
+            "text": "101|1|buhwal-ui nal"
+        },
+        {
+            "chapter": 101,
+            "verse": 2,
+            "text": "101|2|buhwal-ui nal-i mueos-inyo"
+        },
+        {
+            "chapter": 101,
+            "verse": 3,
+            "text": "101|3|buhwal-ui nal-i mueos-inji mueos-igeudaeege seolmyeonghaliyo"
+        },
+        {
+            "chapter": 101,
+            "verse": 4,
+            "text": "101|4|geunal-eun ingan-i nabangcheoleom heut-eojineun nal-imyeo"
+        },
+        {
+            "chapter": 101,
+            "verse": 5,
+            "text": "101|5|sandeul-eun gajileonhan yangteolcheoleom doeneun nallo"
+        },
+        {
+            "chapter": 101,
+            "verse": 6,
+            "text": "101|6|geunal geuui seonhaeng-i mugeoun ja neun"
+        },
+        {
+            "chapter": 101,
+            "verse": 7,
+            "text": "101|7|anlaghan salm-eul yeong-wihal geos-ina"
+        },
+        {
+            "chapter": 101,
+            "verse": 8,
+            "text": "101|8|geuui seonhaeng-i gabyeoun janeun"
+        },
+        {
+            "chapter": 101,
+            "verse": 9,
+            "text": "101|9|buljiog-ui hamjeong-e issge doelila"
+        },
+        {
+            "chapter": 101,
+            "verse": 10,
+            "text": "101|10|buljiog-ui hamjeong-i mueos-inji mueos-i geudaeege seolmyeonghalyeo juliyo"
+        },
+        {
+            "chapter": 101,
+            "verse": 11,
+            "text": "101|11|geugeos-eun gyeoglyeolhage taoleuneun buljiog-ila"
+        },
+        {
+            "chapter": 102,
+            "verse": 1,
+            "text": "102|1|chugjeoghan geosdeul-i neohuileul beos-eonage halini"
+        },
+        {
+            "chapter": 102,
+            "verse": 2,
+            "text": "102|2|neohuiga mudeom-eulo gal ttae kkaji omanhalyeo haneunyo"
+        },
+        {
+            "chapter": 102,
+            "verse": 3,
+            "text": "102|3|geuleona neohuineun god alge doeli la"
+        },
+        {
+            "chapter": 102,
+            "verse": 4,
+            "text": "102|4|sillo neohuineun god alge doelila"
+        },
+        {
+            "chapter": 102,
+            "verse": 5,
+            "text": "102|5|neohuiga bunmyeonghan jisig-eul gajgo issdamyeon neohuineun alge doelini"
+        },
+        {
+            "chapter": 102,
+            "verse": 6,
+            "text": "102|6|neohuineun jiog-ui bul-eul bol geos-i la"
+        },
+        {
+            "chapter": 102,
+            "verse": 7,
+            "text": "102|7|sillo neohuineun bunmyeonghi nun-euloseo moggyeoghal geos-ila"
+        },
+        {
+            "chapter": 102,
+            "verse": 8,
+            "text": "102|8|geuleon hu neohuineun neohuiga tamnig haessdeon hyanglag-e gwanhayeo hilmun-eul bad-eul geos-ila"
+        },
+        {
+            "chapter": 103,
+            "verse": 1,
+            "text": "103|1|sewol-eul dugo maengsehasa"
+        },
+        {
+            "chapter": 103,
+            "verse": 2,
+            "text": "103|2|sillo modeun ingan-eun myeolmangke doe nila"
+        },
+        {
+            "chapter": 103,
+            "verse": 3,
+            "text": "103|3|geuleona mid-eum-eulo uiloun il-eulsilcheonhamyeo seologa seolo-ege jinlileulgwongohamyeo innaehaneun jadeul-eun je-oela"
+        },
+        {
+            "chapter": 104,
+            "verse": 1,
+            "text": "104|1|dwieseo jungsangmolyaghaneun ja-egejaeang-i iss-euljini"
+        },
+        {
+            "chapter": 104,
+            "verse": 2,
+            "text": "104|2|geuneun jaesan-eul moa gyesan-e yeol junghamyeo"
+        },
+        {
+            "chapter": 104,
+            "verse": 3,
+            "text": "104|3|geu jaesan-i hyeonseeseo geuleul yeong wonke halila saeng-gaghadoda"
+        },
+        {
+            "chapter": 104,
+            "verse": 4,
+            "text": "104|4|geuleona geuleohji anihani geuneun jiog-e deonjyeojilila"
+        },
+        {
+            "chapter": 104,
+            "verse": 5,
+            "text": "104|5|geu jiog-i mueos-iji mueos-i geudaeege allyeojuliyo"
+        },
+        {
+            "chapter": 104,
+            "verse": 6,
+            "text": "104|6|geugeos-eun hananim-ui bunnoga taneun buljiog-igeoneul"
+        },
+        {
+            "chapter": 104,
+            "verse": 7,
+            "text": "104|7|geu tteugeoum-i gaseub-eul ewossago"
+        },
+        {
+            "chapter": 104,
+            "verse": 8,
+            "text": "104|8|geudeul-ege mun-i jamgyeojyeo beolimyeo"
+        },
+        {
+            "chapter": 104,
+            "verse": 9,
+            "text": "104|9|gidungdeullo bisjang-i naelyeojinola"
+        },
+        {
+            "chapter": 105,
+            "verse": 1,
+            "text": "105|1|junimkkeseo kokkiliui mulileul eotteohge hasyeossneunji geu sosig-i ileuji ani haessneunyo"
+        },
+        {
+            "chapter": 105,
+            "verse": 2,
+            "text": "105|2|geudeul-ui eummoleul pamyeolsikyeo beoli ji ani haessdeonyo"
+        },
+        {
+            "chapter": 105,
+            "verse": 3,
+            "text": "105|3|hananim-eun geudeul-ege saetteleul bo naeeo"
+        },
+        {
+            "chapter": 105,
+            "verse": 4,
+            "text": "105|4|molaewa heulg-eulo doen dolmaeng-ideul-eul deonjisyeossnani"
+        },
+        {
+            "chapter": 105,
+            "verse": 5,
+            "text": "105|5|geudeul-eun da galg-a meog-eobeolin ma leun ipgwado gat-assdeola"
+        },
+        {
+            "chapter": 106,
+            "verse": 1,
+            "text": "106|1|kkuleiswi jog-ui boholeul wihayeo"
+        },
+        {
+            "chapter": 106,
+            "verse": 2,
+            "text": "106|2|daesang-eulo hayeogeum gyeoulgwa yeoleum-e anjeonhage yeohaengke hayeossnola"
+        },
+        {
+            "chapter": 106,
+            "verse": 3,
+            "text": "106|3|geuleomeulo i jib-ui junim-eul geu deullo hayeogeum gyeongbaetolog hala"
+        },
+        {
+            "chapter": 106,
+            "verse": 4,
+            "text": "106|4|geubun-eun geudeul-eul gialobuteo baebullyeo jusyeossgo gongpolobuteo anjeonke hayeo jusyeossnola"
+        },
+        {
+            "chapter": 107,
+            "verse": 1,
+            "text": "107|1|naeseleul bujeonghaneun jaleul geudae neun al-assneunyo"
+        },
+        {
+            "chapter": 107,
+            "verse": 2,
+            "text": "107|2|geuneun goaleul hagdaehago"
+        },
+        {
+            "chapter": 107,
+            "verse": 3,
+            "text": "107|3|bulssanghan ja-ege eumsig-eul jegonghaji anihan jaini"
+        },
+        {
+            "chapter": 107,
+            "verse": 4,
+            "text": "107|4|wiseonjeog-in gidoleul haenghaneun jadeul-ege jaeang-i iss-eul geos-ila"
+        },
+        {
+            "chapter": 107,
+            "verse": 5,
+            "text": "107|5|ideul-eun geudeul-ui gidosaenghwal-eul taemanhi hamyeonseo"
+        },
+        {
+            "chapter": 107,
+            "verse": 6,
+            "text": "107|6|nam-ege boigi wihae wiseonjeog-eulo gidohaneun jadeullo"
+        },
+        {
+            "chapter": 107,
+            "verse": 7,
+            "text": "107|7|pil-yolo haneun salamdeul-ege insaeghan jadeul-ila"
+        },
+        {
+            "chapter": 108,
+            "verse": 1,
+            "text": "108|1|hananim-i geudaeege pungseonghan eunhyeleul bepul-eossnani"
+        },
+        {
+            "chapter": 108,
+            "verse": 2,
+            "text": "108|2|junimkke gidohago jemul-eul ba chila"
+        },
+        {
+            "chapter": 108,
+            "verse": 3,
+            "text": "108|3|sillo geudaeui jeog-eun modeun huimang eulobuteo danjeoldoen jadeul-ila"
+        },
+        {
+            "chapter": 109,
+            "verse": 1,
+            "text": "109|1|bulsinjadeul-ege illeo galodoe"
+        },
+        {
+            "chapter": 109,
+            "verse": 2,
+            "text": "109|2|neohuiga sungbaehaneun geos-eul naega sungbaehaji anihamyeo"
+        },
+        {
+            "chapter": 109,
+            "verse": 3,
+            "text": "109|3|naega gyeongbaehaneun bun-eul neohuiga gyeongbaehaji anihago"
+        },
+        {
+            "chapter": 109,
+            "verse": 4,
+            "text": "109|4|neohuiga sungbaehaessdeon geosdeul-eul naegasungbaehaji anihal geos-imyeo"
+        },
+        {
+            "chapter": 109,
+            "verse": 5,
+            "text": "109|5|naega gyeongbaehan geubun-eul neohuiga gyeongbaehaji anh-eul geos-ini"
+        },
+        {
+            "chapter": 109,
+            "verse": 6,
+            "text": "109|6|neohuiegeneun neohuiui jong-gyoga issgo na-egeneun naui jong-gyoga iss-eul ppun-ila"
+        },
+        {
+            "chapter": 110,
+            "verse": 1,
+            "text": "110|1|hananim-ui doum-eulo seunglihaneungeuttaee"
+        },
+        {
+            "chapter": 110,
+            "verse": 2,
+            "text": "110|2|ttejieo hananim-ui jong-gyolo gwiuihaneun baegseongdeul-eul geudaeneun bolini"
+        },
+        {
+            "chapter": 110,
+            "verse": 3,
+            "text": "110|3|junim-eul chanmihago junimkke gwan-yong-eul guhala sillo geubun-eun gwan-yong-eulo chungmanhasinila"
+        },
+        {
+            "chapter": 111,
+            "verse": 1,
+            "text": "111|1|abulahab-ui son-i myeolmanghago pamyeol hal geos-imyeo"
+        },
+        {
+            "chapter": 111,
+            "verse": 2,
+            "text": "111|2|geuui jaemulgwa geuga eod-eun geos-i geuege yuighaji moshani"
+        },
+        {
+            "chapter": 111,
+            "verse": 3,
+            "text": "111|3|geuneun god taoleuneun boljiog-e ileuge doel geos-ila"
+        },
+        {
+            "chapter": 111,
+            "verse": 4,
+            "text": "111|4|geuui anaeneun yeonlyoleul unbanhal geos-iyo"
+        },
+        {
+            "chapter": 111,
+            "verse": 5,
+            "text": "111|5|geunyeoui mog-eneun dandanhi kkoin dong-ajul-i gamgilila"
+        },
+        {
+            "chapter": 112,
+            "verse": 1,
+            "text": "112|1|geudae(muhammadeu)neun malhala : ‘geubun hananim-eun dan han bun-isila’"
+        },
+        {
+            "chapter": 112,
+            "verse": 2,
+            "text": "112|2|’hananim-eun modeun pil-yoleul chowolhasinola’"
+        },
+        {
+            "chapter": 112,
+            "verse": 3,
+            "text": "112|3|’geubun-eun nahjido anh-eusigo nah-ajijido anh-eusyeoss-eumyeo’"
+        },
+        {
+            "chapter": 112,
+            "verse": 4,
+            "text": "112|4|’geubungwa biseushan geos-eun dan hanado eobsnola’"
+        },
+        {
+            "chapter": 113,
+            "verse": 1,
+            "text": "113|1|illeogalodoe dongnyeok-ui junimkke boholeul guhamyeo"
+        },
+        {
+            "chapter": 113,
+            "verse": 2,
+            "text": "113|2|changjodoen saaghan geosdeul-ui jaeang-eu lobuteo boholeul guhamyeo"
+        },
+        {
+            "chapter": 113,
+            "verse": 3,
+            "text": "113|3|eodum-i jit-eojineun bam-ui jaeang-eu lobuteo boholeul guhamyeo"
+        },
+        {
+            "chapter": 113,
+            "verse": 4,
+            "text": "113|4|maedeub-eulo masul-eul bulineun jadeul ui jaeang-eulobuteo boholeul guhamyeo"
+        },
+        {
+            "chapter": 113,
+            "verse": 5,
+            "text": "113|5|sigihaneun jaui jaeang-eulobuteo boholeul guhanola"
+        },
+        {
+            "chapter": 114,
+            "verse": 1,
+            "text": "114|1|illeogalodoe inlyuui junimkke boholeul guhago"
+        },
+        {
+            "chapter": 114,
+            "verse": 2,
+            "text": "114|2|inlyuui wang-imyeo"
+        },
+        {
+            "chapter": 114,
+            "verse": 3,
+            "text": "114|3|inlyuui sin-ege"
+        },
+        {
+            "chapter": 114,
+            "verse": 4,
+            "text": "114|4|ingan-ui hyungjung-e dosalineun satan wa jaeang-eul"
+        },
+        {
+            "chapter": 114,
+            "verse": 5,
+            "text": "114|5|ingan-ui gaseumsog-eseo yuhoghaneun satan-ui yuhog-eul"
+        },
+        {
+            "chapter": 114,
+            "verse": 6,
+            "text": "114|6|yeongmawa ingan-ui yuhog-eulobuteo boholeul guhanaida"
+        }
+    ]
+}
