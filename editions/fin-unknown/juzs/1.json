@@ -1,0 +1,744 @@
+{
+    "juzs": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Aloitan JUMALAN, laupiaan Armahtajan, nimeen"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Ylistys Jumalalle, maailmojen Valtiaalle"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "armolahjojen Antajalle, laupiaalle Ohjaajalle ja Siunaajalle"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "jonka hallussa yksin on Tilinteon päivä"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Sinua ainoata palvelemme, Sinua huudamme avuksi"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Ohjaa meidät oikeata tietä"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "niiden tietä, joiden osana on Sinun mielisuosiosi ei niiden tietä, jotka ovat Sinun vihasi alaisia, eikä niiden,jotka harhaan eksyvät"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Alif. Laam. Miim. Tämä Pyhä kirja, siitä ei ole epäilystäkään on"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "opastus jumalaapelkääväisille ja pahaa karttaville"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "niille, jotka uskovat siihen, mikä ei näy, elävät rukoillen ja tuovat uhria siitä, mitä Me olemme heille suoneet"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "niille, jotka uskovat siihen, mikä on ylhäältä ilmoitettu sinulle (Muhammed), sekä siihen, mikä on ilmoitettu ennen sinua, ja jotka varmassa luottamuksessa odottavat tulevaista elämää"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Nämä elävät Herransa johdatuksessa; nämä ovat onnellisia"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Jumalattomille taasen on totisesti samantekevää, varoitatko heitä vai et; he eivät usko"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Jumala on sinetillä sulkenut heidän sydämensä ja korvansa, ja heidän silmiään peittää verho; niin, heitä kohtaa kammottava rangaistus"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "Muutamat ihmiset sanovat kyllä: »Me uskomme Jumalaan ja Viimeiseen päivään», eivätkä kuitenkaan usko"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "He tahtovat pettää Jumalaa ja niitä, jotka uskovat, mutta he eivät petä ketään muita kuin itsensä, eivätkä käsitä sitä"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "Sairaus turmelee heidän sydämensä, ja Jumala pahentaa heidän sairautensa; niin, heitä odottaa tuskallinen rangaistus, koska he ovat valehdelleet"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Kun heille sanotaan: »Alkää aiheuttako pahennusta maan päällä», he vastaavat: »Mehän vain uudistamme asiat oikeiksi.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "ivätkö juuri sellaiset tosiaan ole niitä, joista paha paisuu? Mutta he eivät sitä tajua"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Ja kun heille sanotaan: »Uskokaa kuten nuo ihmiset uskovat», he vastaavat: »Onko meidän uskottava kuten hullut uskovat?» Mutta eivätkö todellisuudessa juuri he itse ole hulluja? Vaan sitäkään he eivät älyä"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Kohdatessaan uskovaisia he sanovat: »Me uskomme», mutta kun he erkanevat taas saatanainsa pariin, he selittävät: »Tietysti olemme teikäläisiä, me vain teimme pilkkaa.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Mutta Jumala tekeekin pilkkaa heistä itsestään, jättää heidät yltymään pahuudessaan ja vaeltamaan sokeasti yhä syvempään häpeään"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "He ovat niitä, jotka oikean johdatuksen vaihtavat harhatiehen, eikä se vaihtokauppa ole heille voittoa tuottava, vaan he jäävät kokonaan ilman Jumalan Opastusta"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Heidän laitansa on kuin niiden, jotka sytyttävät itselleen tulen, mutta kun se on valaissut mitä heidän ympärillään on, tempaa Jumala pois valon ja jättää kaikki pimeyteen, niin etteivät he voi nähdä; Hän jättää heidät"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "mykiksi, kuuroiksi ja sokeiksi, niin etteivät he voi palata"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Tai kuten on ukkossateen yllättäessä, joka tuo mukanaan pimeyden, jyrinän ja salaman; he tukkivat sormin korvansa ukkosen jylinältä ja pelkäävät saavansa kuoliniskun salamoista - Jumalalla on uskottomat vallassaan - ja"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "salama on riistämäisillään heiltä näön. Niin usein kuin se välähtää, liikkuvat he sen valossa, mutta kun pimeys taas lankeaa heidän ylitsensä, pysähtyvät he. Jos Jumala tahtoisi, voisi Hän ottaa heiltä kokonaan kuulon ja näön; katso, Jumala on totisesti kaikkivaltias"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Oi, ihmiset, palvelkaa Herraanne, joka on luonut sekä teidät että ne, jotka ovat eläneet ennen teitä, jotta pelastuisitte pahasta"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "Jumala on tehnyt maan teille lepopaikaksi ja kaartanut taivaan ylitsenne, Hän antaa vettä taivaasta ja sillä kasvattaa hedelmiä ravinnoksenne. Älkää siis asettako Jumalan rinnalle muita Hänen vertaisikseen vastoin parempaa tietoanne"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "jos epäilette sitä, mitä Me ilmoitamme palvelijallemme (Muhammedille), niin aikaansaakaa tämän kaltainen kirjoitus ja kutsukaa Jumalan vertaisia todistajia, jos tahdotte pysyä totuudessa"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "mutta jollette tee niin - ja sitä ette koskaan voi tehdä silloin kavahtakaa tulta, joka on valmistettu uskottomille ja jonka polttoaineena ovat ihmiset ja kivet"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "julista niille (oi Muhammed), jotka uskovat ja tekevät hyviä töitä, se riemullinen sanoma, että heitä odottavat huvitarhat, joissa purot solisevat. Niin usein kuin he nauttivat hedelmiä sieltä ravinnokseen, he sanovat: »Tämä oli muinoin meidän ruokaamme» - vaikkakin heille tarjotaan se vain samankaltaisena.Siellä odottavat heitä puhtaat puolisot ja siellä he viihtyvät ikuisesti"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "Jumala ei häpeä käyttää vertauskuvana vaikkapa hyttystä tai jotakin sen yläpuolella olevaa . Ne jotka uskovat, tietävät, että siinä on heidän Herransa ilmoittama totuus, kun taas uskottomat kummastelevat: »Mitähän Jumala tarkoittaa moisella vertauksella?» Hän sillä eksyttää monta ja opastaa monta, mutta muut eivät eksy eivätkä joudu kadotukseen kuin jumalattomat"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "jotka rikkovat liiton Jumalan kanssa, sen jälkeen kuin se on vahvistettu, erottavat, mitä Jumala on määrännyt yhdistettäväksi, ja aiheuttavat pahaa maan päällä, he ovat niitä, jotka joutuvat onnettomuuteen"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Kuinka voitte kieltää Jumalan te, jotka olitte kuolleita ja joille Hän antoi elämän? Aikanaan Hän antaa teidän kuolla, sitten Hän herättää taas teidät elämään, ja lopulta palajatte jälleen Hänen luoksensa"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "Hän on se, joka on luonut teille kaiken, mitä on maan päällä. Sitten Hän nousi taivaaseen ja muodosti sen seitsemäksi taivaaksi; niin, Hän on kaikkitietävä"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Ja kun Herrasi puhui enkeleille: »Katso, Minä aion totisesti asettaa sijaisen maan päälle», he kysyivät: »Aiotko asettaa sinne jonkun, joka siellä aiheuttaa vääryyttä ja vuodattaa verta, meidän ylistäessämme Sinua ja julistaessamme Sinun pyhyyttäsi?» Hän vastasi: »Minä tiedän totisesti, mitä te ette tiedä.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "Ja Hän opetti ihmiselle (Aadamille) kaikki nimet ja nimitettävät; sitten näytti Hän kaikki enkeleille ja sanoi: »Lausukaa näiden nimet Minulle, jos olette todellisuudesta selvillä.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "He vastasivat: »Sinulle yksin kunnia! Meillä ei ole muuta tietoa, kuin minkä olet opettanut meille, Sinä ainoa olet totisesti Tietäjä, Viisas.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "Silloin Hän sanoi: »Ihminen (Aadam), lausu niiden nimet heille!» ja kun hän lausui niiden nimet heille, sanoi Hän: »Enkö ole teille sanonut, että Minä tunnen totisesti salat taivaassa ja maan päällä, ja Minä tiedän, mitä te ilmaisette ja mitä salaatte?»"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Ja kun Me sanoimme enkeleille: »Kumartukaa maahan Ihmisen (Aadamin) edessä», heittäytyivät he maahan kaikki paitsi Saatana. Hän kieltäytyi ylpeyksissään ja joutui jumalattomien lukuun"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Me sanoimme vielä: »Aadam, asu Paratiisissa, sinä ja vaimosi, ja nauttikaa sieltä vapaasti ravintoa, mistä haluatte, mutta älkää lähestykö tätä puuta, jottette tulisi väärintekijöiksi.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Mutta Saatana sai heidät poikkeamaan tästä ja vietteli heidät ulos siitä autuaasta olotilasta, jossa he olivat, ja Me sanoimme: »Syöksykää alas! Toinen teistä olkoon toisen vihollinen! Kuitenkin saatte ajallisen olinpaikan ja toimeentulonne maan päällä.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Tällöin vastaanotti Aadam ilmestyksen sanat Herraltansa, ja tämä sääli häntä: katso, Hän on totisesti sääliväinen, laupias"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Me sanoimme: »Syöksykää täältä alas kaikki!» Totisesti tulee teille Minulta kuitenkin vielä Johdatus, ja jotka Minun johdatustani seuraavat, niitä ei mikään pelko valtaa, eikä heidän tarvitse murehtia"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "Mutta ne, jotka ovat uskottomia ja pitävät ilmestyksemme valheena, ovat Tulen omia ja pysyvät siinä iankaikkisesti"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Israelilaiset, muistakaa Minun mielisuosiotani, jonka olen antanut tulla osaksenne, ja täyttäkää osuutenne liitossa, niin olen Minä täyttävä oman osani liitossa, ja peljätkää yksin Minua"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "ja uskokaa siihen, minkä olen ilmoittanut (Muhammedille), vahvistaen sillä ennestään teillä jo olevat Pyhät kirjoitukset; älkää olko ensimmäisiä epäuskossa älkääkä vaihtako Minun ilmoitustani mitättömiin arvoihin, vaan kunnioittaen peljätkää yksin Minua"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Älkää verhotko totuutta valheella älkääkä salatko totuutta vastoin parempaa tietoanne"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "vaan harjoittakaa rukoilemista, antakaa almuja ja kumartakaa yhdessä niiden kanssa, jotka Minua kumartavat"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "Kuinka te kehoittaisitte ihmisiä vanhurskauteen, itse unohtaessanne oman sielunne? Tehän tutkitte Pyhää kirjaa, eikö teillä ole ymmärrystä"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Etsikää apua kärsivällisyydestä ja rukouksesta. Tämä on totisesti vaikea tehtävä muille paitsi nöyräsydämisille"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "jotka tietävät, että he kohtaavat Herransa ja että he palaavat Hänen luokseen"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "Israelilaiset! Muistakaa armoani, jota olen teille osoittanut, ja että olen suosinut teitä ja korottanut teidät yli kaikkien kansojen"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Ja varokaa sitä päivää, jolloin yksikään sielu ei voi suorittaa vähäisintäkään hyvitystä toisen puolesta, jolloin ei mitään välitystä hyväksytä eikä mitään lunnaita vastaanoteta, eikä kukaan saa toisen apua"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "ja muistakaa, kuinka Me pelastimme teidät faraon kansan käsistä, egyptiläisten käsistä, jotka vaivasivat teitä julmilla rasituksilla, tappoivat poikanne ja antoivat vain tytärtenne elää. Tämä oli Herranne sallima kauhea koettelemus"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "Entä kun Me jaoimme meren kahtia edessänne ja pelastimme teidät, mutta hukutimme faraon kansan silmienne nähden"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "Entä kun Me määräsimme Mooseksen viipymään edessämme neljäkymmentä vuorokautta, ja sillä aikaa kun hän oli poissa, te valitsitte (epäjumalaksenne) vasikan, koska olitte uppiniskaisia"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Senkin jälkeen annoimme teille anteeksi, josta teidän olisi oltava kiitollisia"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "Entä silloin, kun annoimme Moosekselle Lain, jotta oppisitte hylkäämään pahan ja valitsemaan hyvän ja teidät ohjattaisiin oikeata tietä"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "ja kun Mooses sanoi kansallensa: »Kansani, totisesti olette langenneet syntiin tekemällä itsellenne vasikan; kääntykää siis katuen Luojanne puoleen ja surmatkaa syylliset keskuudessanne. Siten on teidän parempi Luojanne edessä, ja Hän armahtaa teitä, Hän on totisesti armollinen ja laupias.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "Entä kun te sanoitte: »Mooses, me emme usko sinua, ennenkuin silmillämme näemme Jumalan», ja taivaan tuli yllätti teidät tuijottaessanne"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "ja sitten Me sallimme salamanlyömien tointua eloon, jotta ehkä oppisitte olemaan kiitollisia"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Ja Me levitimme suojaksenne pilven ja lähetimme teille mannaa ja viiriäisiä. »Syökää sitä hyvää, mitä olemme teille suoneet.» Eivät israelilaiset synnillänsä Meitä vahingoittaneet vaan itseänsä"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "Entä kun Me sanoimme: »Astukaa tähän kaupunkiin ja nauttikaa runsaasti löytämäänne ravintoa»? Astukaa sisään portista kumartaen nöyrästi ja sanokaa: » (Synti) taakkamme lievennettäköön!» jotta antaisimme teille synnit anteeksi ja siunaisimme niitä, jotka tekevät hyvää"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Mutta ne,jotka rikkoivat (Jumalan käskyn), vaihtoivat tämän sanan toiseen, kuin mikä oli sanottu heille, ja näille me lähetimme rangaistuksen taivaasta, koska he olivat uppiniskaisia"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "Entä kun Mooses pyysi vettä janoiselle kansalleen, ja Me sanoimme: »Lyö sauvallasi kallioon!» ja kaksitoista lähdettä pulppusi kivestä, niin että joka sukukunta tiesi juomapaikkansa? »Syökää ja juokaa Jumalan antimista, älkääkä kavalasti saako aikaan pahennusta maan päällä.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Entä kun te sanoitte: »Mooses, me emme jaksa syödä aina samaa ravintoa; huuda siksi Herraasi puolestamme, että hän anaisi meille, mitä maa kasvaa, kuten vihanneksia, kurkkuja, leipäviljaa, herneitä ja punasipulia»? Hän vastasi: »Haluatteko saada huonompaa paremman sijasta? Menkää alas Egyptiin, siellä voitte saada mitä haluatte.» Viheliäisyys ja kurjuus kasaantuivat heidän päällensä, ja he joutuivat Jumalan vihan alaisiksi. Tämä tapahtui siksi, että he kielsivät Jumalan ilmoituksen ja vääryydessään surmasivat profeetat; siksi että he olivat tottelemattomia ja kapinallisia"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "(Koraaniin) uskovat ja myöskin ne jotka ovat juutalaisia, kristittyjä, saabalaisia, jos he uskovat Jumalaan ja Viimeiseen päivään ja elävät hurskaasti, saavat totisesti palkkansa Herransa luona; ei mikään pelko valtaa heitä, eikä heidän tarvitse murehtia"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Muistakaa, kuinka Me teimme liiton kanssanne (Siinain) vuoren kohotessa ylitsenne ja sanoimme: »Pitäkää lujasti kiinni siitä, minkä olemme antanut teille, ja muistakaa mitä se sisältää, jotta karttaisitte pahaa.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Tämänkin jälkeen te käännyitte pois, ja ilman Jumalan armoa ja laupeutta olisitte joutuneet kadotettujen joukkoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Tehän tiedätte joukossanne ne, jotka rikkovat sapatin ja joille Me sanoimme: »Muuttukaa halveksituiksi apinoiksi!»"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "Niin teimme heistä pelottavan esimerkin nykyiselle sukupolvelle ja tuleville sekä varoituksen jumalaapelkääväisille"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Entä kun Mooses sanoi kansalleen: »Jumala käskee teitä uhraamaan hiehon\"»? He kysyivät: »Teetkö pilkkaa meistä?» Hän vastasi: »Jumala varjelkoon minua olemasta niin hullu.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Silloin sanoivat he: »Rukoile Jumalaasi puolestamme, että Hän näyttäisi meille, millainen hiehon tulee olla.» Hän vastasi: »Hän sanoo totisesti: Sen tulee olla lehmä, jolla ei vielä ole ollut vasikkaa, mutta joka ei myöskään ole liian nuori, vaan siltä väliltä. Tehkää siis, mitä teille on käsketty.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Silloin he sanoivat: »Rukoile Herraasi puolestamme, jotta hän selittää meille, millainen sen tulee olla väriltään.» Hän vastasi: »Hän sanoo totisesti: Sen tulee olla ruskeanpunainen, kirkas väriltään, joka miellyttää katsojaa.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "He sanoivat: »Huuda Herraasi puolestamme, niin hän näyttää meille, mikä on se oikea hieho; monet hiehothan näyttävät meistä toistensa kaltaisilta, mutta jos Jumala tahtoo, voimme varmasti osua oikeaan.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "Mooses vastasi: »Hän sanoo: Totisesti on sen oltava ikeestä vapaa hieho, jota ei ole käytetty maan kyntämiseen eikä pellon kastelemiseen, ilman vammaa ja vikaa.» Silloin he sanoivat: »Nyt ilmaisit kaiken totuuden.» Sen jälkeen he teurastivat hiehon, mutta olivat olleet vähällä lyödä laimin Jumalan määräykset"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "Ja muistatteko, kun olitte surmanneet miehen ja kiistelitte toistenne kanssa syyllisyydestä, mutta Jumala tahtoi tuoda ilmi, mitä te salailitte"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "ja niin Me sanoimme: »Koskettakaa ruumista jollakin osalla uhrattavaa hiehoa!» Sillä tavalla Jumala herättää kuolleet eloon ja näyttää teille tunnusmerkkejään, jotta olisitte ymmärtäväisiä"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "Senkin jälkeen paatuivat sydämenne ja tulivat kivikoviksi, jopa kiveäkin kovemmaksi, sillä kivien joukossa on totisesti sellaisia, joista purot kohisevat esiin, sellaisia, jotka halkeavat, niin että vesi virtaa niistä, ja sellaisia, jotka Jumalan edessä syöksyvät maahan pelosta. Mutta Jumalalta ei jää salaan mitään, mitä teette"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "Toivotteko te, että he (juutalaiset) uskovat teitä? Johan osa heistä aikanaan kuuli Jumalan sanan, ja ymmärrettyäänkin sen he vääristelivät sitä vastoin parempaa tietoaan"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "Kun he tapaavat uskovaisia, he sanovat: »Me uskomme.» Mutta kun he ovat toistensa seurassa, he sanovat: »Kerrotteko heille(muslimeille), mitä Jumala on ilmoittanut teille, että he siitä kiistelisivät kanssanne Herranne edessä. Ettekö te tätä ymmärrä?»"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "Eivätkö he sitten älyä, että Jumala tietää, mitä he salaavat ja mitä julistavat"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Heidän joukossaan on oppimattomiakin, jotka eivät tunne Pyhää kirjaa muuta kuin kuulopuheista. Heille se on vain arvelua. Voi niitä, jotka kirjoittavat kirjoituksensa omin käsin ja sanovat: »Tämä on Jumalalta», hankkiakseen itsellensä siten pientä ansiota"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "Voi heitä heidän käsiensä kirjoituksen tähden, ja voi heitä heidän ansionsa tähden"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "He sanovat: »Ei tuli meitä ahdista kuin joinakuina päivinä.» Sano: »Oletteko tehneet sopimuksen Jumalan kanssa? - liittoansa Jumala kylläkään ei riko - vai puhutteko jotain Jumalasta noin vain, vaikk'ette tiedäkään?»"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Eivät asiat ole niin, vaan ne, jotka ovat omaksuneet pahan ja joita heidän syntinsä piirittävät, joutuvat Tulen omiksi ja jäävät siihen iankaikkisesti"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "Mutta niistä, jotka uskovat ja tekevät hyviä töitä, tulee Paratiisin asukkaita ikuisiksi ajoiksi"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Entä kun Me solmimme liiton israelilaisten kanssa sanoen: »Teidän ei tule palvella ketään muuta kuin Jumalaa, kohdelkaa hyvin vanhempianne ja omaisianne, isättömiä ja köyhiä, hyvä olkoon puheenne kaikille ihmisille, harjoittakaa rukoilemista ja antakaa almuja!» Mutta te käännyitte pois ja luovuitte, muutamia lukuunottamatta"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "Entä kun Me solmimme liiton kanssanne sanoen: »Alkää vuodattako toistenne verta, älkääkä karkoittako toisianne kodeistanne», ja te vahvistitte sen omalla todistuksellanne"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "ja te kuitenkin surmaatte toisianne ja ajatte osan lähimmäisiänne mieron tielle, tukien toisianne synnissä ja ilkitöissä heitä vastaan. Sotavankeudesta te kylläkin heitä lunastelette, mutta vääryyttähän oli jo se, että heidät karkoititte. Uskotteko siis vain osaan Pyhästä kirjasta ja hylkäätte toisen osan? Mikä muu on sellaisten palkka, jotka niin tekevät, kuin häpeä maallisessa elämässä; ja Ylösnousemuksen päivänä tuomitaan heidät perin julmaan rangaistukseen, sillä Jumala ei ole välinpitämätön siitä, mitä te teette"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "He ovat niitä, jotka keinottelevat itselleen tämän maailman elämää tulevan kustannuksella; heidän rangaistustaan ei lievennetä, eikä kukaan ole puoltava heitä"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Olemmehan totisesti antanut Moosekselle Pyhän kirjan ja lähettänyt profeetat hänen jälkeensä, ja Me olemme antanut Jeesukselle, Marian pojalle, selvät todistukset ja tukenut häntä Pyhällä hengellä . Mutta joka kerta kun profeetta on tullut luoksenne, tuoden mukanaan sellaista, mikä ei teitä miellytä, olette käyneet röyhkeiksi ja pitäneet toisia heistä valehtelijoina, toisia surmanneetkin"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "He sanovat: »Sydämemme ovat ympärileikkaamattomia.» Niin, Jumala on kironnut heidät heidän epäuskonsa tähden, sillä vähän on heidän joukossaan niitä, jotka uskovat"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Ja kun heille tuli Pyhä kirja Jumalalta , vahvistaen toisen, minkä he jo omistivat, - olivathan he vastikään rukoilleet itselleen voittoa epäuskoisista - kun siis nyt se, minkä he tunsivat todeksi, tuli heidän osalleen, eivät he uskoneet sitä. Jumalan kirous uskottomien yli"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Mihin surkuteltavaan hintaan ovatkaan he myyneet sielunsa hylätessään Jumalan ilmoituksen, katsoessaan karsaasti sitä, että Jumala armonsa runsaudesta lähettää ilmestyksiään kenelle tahtoo palvelijoittensa joukossa! He ovat koonneet ylitsensä vihaa vihan päälle. Uskottomia odottaa häpeällinen rangaistus"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Kun heille sanotaan: »Uskokaa siihen, mitä Jumala on tuonut ilmi», he vastaavat: »Me uskomme siihen, mitä meille on ilmoitettu. Ja kohta he torjuvat sen, mikä myöhemmin on ilmoitettu, vaikka se on itse totuus, vahvistus siihen, minkä he jo omistavat"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Sano (heille, Muhammed): »Miksi te surmasitte Jumalan profeettoja jo muinoin, jos muka olitte uskovaisia?»"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "Mooseskin tuli luoksenne mukanaan selvät todistukset (Jumalan kaikkivaltiudesta), mutta kun hän oli poissa, te teitte vasikankuvan palvoaksenne, koska olitte jumalattomia"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "Entä kun Me solmimme liiton kanssanne (Siinain) vuoren kohotessa ylitsenne ja sanoimme: »Pysykää lujasti siinä, minkä olemme ilmoittanut teille, ja kuulkaa (sanojamme) »! He vastasivat: »Me kuulemme ja uhmailemme». Heidän sydämensä kiintyi vasikan palvontaan, ja he hylkäsivät Meidän liittomme. Sano (heille): »Surkeata on se, mitä uskonne teille tarjoaa, jos muka olette uskovaisia.» Sano: »Jos tulevan elämän asumukset Jumalan luona ovat todella tarkoitetut ainoastaan teille eikä muille ihmisille (kuten väitätte), niin toivokaa itsellenne kuolemaa (sillä onhan teidän halattava majan muuttoa), jos pysytte totuudessa.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Mutta he eivät tule koskaan halajamaan sitä, koske he pelkäävät kättensä töiden seurauksia. Jumala tuntee väärintekijät"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "ja sinä havaitset heidät kiintyneiksi tähän elämään enemmän kuin muut ihmiset, enemmän kuin itse epäjumalanpalvelijatkaan. Moni heistä toivoisi elävänsä tuhat vuotta; mutta eihän lainkaan vapauttaisi häntä rangaistuksesta se, että elämä pidennettäisiin. Jumala näkee, mitä he tekevät"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "Sano (ihmisille, Muhammed): »Jos joku on Gabrielin vihollinen, niin tietäköön, että juuri Gabriel Jumalan toimesta on tämän Kirjoituksen valaissut sydämellesi vahvistaakseen sillä, mitä oli ilmoitettu ennen sitä, opastukseksi ja ilosanomaksi uskovaisille.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Jos joku on Jumalan, hänen enkeleittensä, apostoleittensa ja Gabrielin tai Mikaelin vihollinen, niin totisesti Jumala (itse) on uskottomien vihollinen"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Olemmehan totisesti ilmaissut kauttasi selvät tunnusmerkit, eivätkä ketkään muut kuin turmeltuneet kiellä niitä"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "Käykö aina niin, että kun teette liiton, osa teistä hylkää sen? Totisesti useimmat heistä eivät usko"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Ja kun Jumalan lähettiläs tulee heidän luokseen vahvistaen sen, minkä he jo omistavat, niin osa heistä, jotka olivat saaneet Pyhän kirjan, heittää Jumalan kirjan selkänsä taakse, aivankuin eivät tietäisi mitään"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "Ja he noudattavat sitä, mitä saatanat vääristelivät Salomon hallituksen aikana. Kuitenkaan ei Salomo ollut uskoton, vaan saatanat olivat luopioita sekä opettivat ihmisille noituutta ja sellaista, mikä oli ilmaistu molemmille Baabelin enkeleille Haarutille ja Maarutille. Nämä kaksi eivät sentään opettaneet ketään sanomatta: »Me olemme teille vain kiusaukseksi; älkää siis epäilkö (Jumalan johdatusta).» Noilta kahdelta he oppivat sellaista, jolla he kylvävät eripuraisuutta miehen ja hänen vaimonsa välille; mutta eivät he vahingoita silläkään ketään Jumalan sallimatta. Kuitenkin he oppivat sellaista, joka vahingoittaa heitä eikä hyödytä. Totta kai he tietävät, että sillä, joka hankkii loitsuja, ei totisesti ole mitään (hyvää) osaa kuolemanjälkeisessä elämässä. Mistä surkeasta hinnasta myyvätkään he sielunsa; jospa he vain tietäisivät sen"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Mutta jos he olisivat uskoneet ja karttaneet pahaa, niin olisi palkkio Jumalalta ollut parempi. Jospa he vain tietäisivät sen"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Te jotka uskotte, älkää sanoko (Profeetalle): »Ota vaari meistä», vaan sanokaa: »Katso meihin», ja olkaa te kuulijoita. Niin, uskottomia odottaa tuskallinen rangaistus"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Eivät uskottomat niiden joukossa, joilla on Pyhä kirja, eivätkä monijumalaiset soisi, että mitään hyvää lähetetään teille Herraltanne, mutta osoittaessaan laupeutta Jumala valitsee kenet tahtoo; niin, Jumala on rajaton armonsa runsaudessa"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Kumotessamme jonkun kohdan ilmoituksestamme tai antaessamme sen unohtua me asetamme paremman tai samanlaisen tilalle. Etkö tiedä, että Jumala on joka asiassa kaikkivaltias"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "Etkö tiedä, että taivasten ja maan yliherruus kuuluu Jumalalle? Paitsi Jumalaa ei teillä ole ketään suojelijaa eikä auttajaa"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Vai tahdotteko tehdä kysymyksiä profeetallenne samalla tavalla, kuin muinoin kyseltiin kaikenlaista Moosekselta? Huomatkoon se, joka valitsee epäuskon uskon asemesta, että hän eksyy oikealta tieltä"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Monet niiden joukossa, joilla on Pyhä kirja, toivoisivat voivansa saattaa teidät taas epäuskoisiksi sen jälkeen, kun te kerran olette tulleet uskoon, koska he ovat kateellisia, vaikka totuus onkin selvinnyt heille. Olkaa heitä kohtaan sääliväisiä ja kärsivällisiä , kunnes Jumala sanoo sanansa. Katso, Jumala on totisesti kaikkivoipa"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Rukoilkaa säännöllisesti ja antakaa almuja! Kaiken hyvän, minkä teette sieluanne varten, te löydätte Jumalan luona. Jumala näkee, mitä ikinä te teette"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Sanovatpa he: »Eivät ketkään muut pääse Paratiisiin kuin juutalaiset ja kristityt.» Sellainen on heidän mielihalunsa. Sano: »Esittäkää todistukset väitteenne puolesta, jos tahdotte pysyä totuudessa.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Toisin käy sen, joka uskossa alistuu Jumalan tahtoon tehden hyvää; hän saa palkan Herraltansa: ei mikään pelko valtaa heitä, eikä heidän tarvitse murehtia"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Juutalaiset sanovat: »Kristityt eivät noudata todellisia perusteita», ja kristityt sanovat: »Juutalaisilla ei ole oikeaa perustusta»; kuitenkin he lukevat Pyhää kirjaa. Samalla tavalla ovat puhuneet nekin, jotka eivät mitään tiedä. Mutta Ylösnousemuksen päivänä Jumala on ratkaiseva heidän välisensä kiistaasiat"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Kuka tekee suurempaa vääryyttä kuin se, joka estää toisia lähestymästä Jumalan pyhäkköjä, jottei niissä Hänen nimeään mainittaisi, ja aiheuttaa niiden sortumisen. Heille itselleen ei voi suoda pääsyä niihin muuten kuin pelosta vavisten"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Heitä odottaa häpeä tässä elämässä ja kauhea rangaistus tulevassa"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Jumalalle kuuluu Itä ja Länsi, ja mihin käännyttekin, ovat Jumalan kasvot siellä; katso, Jumala sulkee olemukseensa kaiken ja tietää kaiken"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "Sanovatpa he: »Jumala on ottanut itselleen Pojan». Ei, Hänelle yksin kunnia! Totisesti kaikki taivaassa ja maan päällä on Hänen; kaikki ovat Hänelle kuuliaiset"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Hän on taivaan ja maan Luoja; kun Hän päättää jonkun asian, sanoo Hän ainoastaan »Tapahdu!» ja niin tapahtuu. Mutta ne jotka eivät mitään tiedä, sanovat: »Miksi ei Jumala puhu meille, tai miksi emme saa tunnusmerkkiä?» Niin puhuivat nekin, jotka ennen heitä elivät; heidän sydämensä ovat samankaltaiset. Me olemme osoittanut merkit ihmisille, jotka pysyvät varmoissa tiedoissa"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "Sinut, Muhammed, olemme lähettänyt totuuden ilmoittajaksi, ilosanoman julistajaksi ja varoittajaksi, eikä sinun tarvitse olla vastuussa Helvetin tuleen joutuvista"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Mutta juutalaiset ja kristityt eivät mielisty sinuun, paitsi ehkä kun noudattaisit heidän oppiaan. Sano: »Jumalan oma ohjaus on totisesti oikea Johdatus.» Ja jos sinä seuraat heidän pyyteitään kaiken sen jälkeen, mikä on osaksesi tullut, et sinä totisesti ole löytävä suojelijaa etkä auttajaa Jumalassa"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Ne, joille Pyhän kirjan olemme antanut ja jotka lukevat sitä, niinkuin sitä lukea tulee, uskovat siihen, mutta ne jotka kieltävät sen, ovat kadotuksen omat"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Israelilaiset, muistakaa armoani, jota Minä olen teidän ylitsenne vuodattanut, sekä että olen korottanut teidät kaikkien luotujen yli"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Ja pelätkää sitä päivää, jolloin yksikään sielu ei voi tehdä vähäisintäkään toisen puolesta, jolloin ei mitään lunnaita oteta vastaan eikä mitään välitystä hyväksytä, eikä kukaan saa toiselta mitään apua"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Entä kun Herra koetteli Aabrahamia käskyillään, ja tämä täytti ne? Hän sanoi: »Tahdon totisesti tehdä sinut ihmisten uskonnolliseksi johtajaksi.» Aabraham kysyi: »Teetkö samoin (ihmisten uskonnollisen johtajat) jälkeläisistäni?» Hän vastasi: »Minun liittoni ei ulotu väärämielisiin.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Entä kun Me määräsimme temppelin (Mekassa) ihmisten pyhäköksi ja turvapaikaksi sanoen: »Ottakaa rukoushuoneeksenne paikka, mihin Aabraham pysähtyi (rukoilemaan)»? Me velvoitimme Aabrahamin ja Ismaelin puhdistamaan pyhäkön niille, jotka kulkueissa käyvät sen ympäri, jotka vetäytyvät sinne mietiskelyyn, jotka siellä kumartavat ja heittäytyvät maahan"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "Entä kun Aabraham sanoi: »Herrani, tee tämä turvalliseksi seuduksi ja suo hedelmiäsi sen asukkaille, jos he uskovat Jumalaan ja Viimeiseen päivään?» Hän vastasi: »Senkin, joka on epäuskoinen, annan Minä nauttia lyhyen ajan; sitten olen syöksevä hänet Tulen kidutukseen, joka on surkea matkan pää.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "Kun Aabraham ja Ismael laskivat Herran huoneen perustuksen, sanoivat he: »Herramme, ota vastaan tämä meiltä! Sinä, yksin Sinä, suljet kaiken kuuloosi ja tietoosi"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Herra, tee meidät molemmat Sinulle alamaisiksi (muslimeiksi) ja tee jälkeläisemme yhdeksi kansaksi ja seurakunnaksi, joka on Sinulle alamainen. Osoita meille hartaudenharjoituksemme ja sääli meitä. Sinä yksin olet totisesti sääliväinen, Armahtaja"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Herra, lähetä myös profeetta heidän omasta keskuudestaan heidän luokseen julistamaan heille ihmeelliset ilmoituksesi, tunnusmerkkisi, opettamaan heille Pyhää kirjaa sekä viisautta ja tekemään heidät puhtaaksi. Sillä Sinä yksin olet totisesti mahtava, viisas.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Kukapa muu hylkää Aabrahamin uskonnon kuin se, joka pitää houkkana itseään? Olemmehan Me valinnut hänet tässä elämässä, ja kuoleman jälkeen on Aabraham totisesti kuuluva vanhurskasten joukkoon"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "Kun hänen Herransa sanoi hänelle: »Alistu!» hän vastasi: »Olen antautunut maailmojen Herran alamaiseksi»"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "Ja Aabraham velvoitti poikansakin tähän, ja samoin Jaakob sanoen:»Poikani, Jumala on totisesti valinnut (tosi) uskonnon teille; älkää siis kuolko, ennenkuin olette siihen alistuneet»"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Tai olitteko läsnä todistajina, kun Jaakobin kuolema lähestyi ja hän sanoi pojalleen: »Ketä te aiotte palvella kuolemani jälkeen?» He vastasivat: »Me palvelemme sinun ja isiesi Aabrahamin, Ismaelin ja Iisakin Jumalaa, yhtä ainoata Jumalaa, ja olemme Hänelle alamaisia.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Se sukupolvi on siirtynyt pois. He saivat, mitä olivat ansainneet. Te saatte, mitä te ansaitsette, ettekä vastaa siitä, mitä he tekivät"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Sanovatpa he: »Kääntykää juutalaisiksi tai kristityiksi, niin tulette oikealle tielle.» Vastatkaa: »Ei, me seuraamme Aabrahamin oppia, koska hän oli oikeauskoinen (haniifi) eikä kuulunut monijumalaisiin.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "Sanokaa: »Me uskomme Jumalaan ja siihen, mikä on ilmoitettu meille ja mikä on ilmoitettu Aabrahamille, Ismaelille, Iisakille ja Jaakobille ja Israelin sukukunnille"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "siihen, mitä Mooses ja Jeesus ovat (Jumalalta ilmoitettavaksi) saaneet ja mitä profeetat ovat saaneet julistettavaksi Herraltansa. Emme tee mitään erotusta yhdenkään heidän välillään, olemme antautuneet Hänelle alamaisiksi.» Jos he sitten uskovat samoin kuin te, niin he ovat oikealla tiellä, mutta jos he kääntyvät pois, niin he ovat luopioita. Jumala on oleva riittävä suojasi heitä vastaan, sillä Hän on kuuleva ja tietävä"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "Me olemme Jumalan merkitsemiä, ja keneltä on parempi saada tuntomerkkinsä kuin Jumalalta? Me olemme Hänen palvelijoitaan"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "Sano (Pyhät kirjoitukset omaaville): »Kiistelittekö kanssamme Jumalasta, kun hän on sekä meidän Herramme että teidän Herranne? Meillä on omat tekomme ja teillä on omat tekonne, ja me turvaudumme Häneen vilpittömästi.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Vai sanotteko: »Aabraham, Ismael, Iisak ja jaakob ja Israelin sukukunnat olivat totisesti joko juutalaisia tai kristittyjä?» Sano: »Kumpi tietää paremmin, te vai Jumala? Ja kuka on väärämielisempi kuin se, joka salaa todistuksen, jonka on saanut Jumalalta? Eikä Jumala ole välinpitämätön siitä, mitä te teette.»"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Se sukupolvi on siirtynyt pois. Se on saanut, mitä oli ansainnut; te saatte, mitä te ansaitsette. Ettekä te joudu vastaamaan siitä, mitä he tekivät"
+        }
+    ]
+}
