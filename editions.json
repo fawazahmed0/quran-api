@@ -1739,6 +1739,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.min.json"
     },
+    "kin_fareeqmusa": {
+        "name": "kin-fareeqmusa",
+        "author": "Fareeq Musa",
+        "language": "Kinyarwanda",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kin-fareeqmusa.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kin-fareeqmusa.min.json"
+    },
     "kor_hamidchoi": {
         "name": "kor-hamidchoi",
         "author": "Hamid Choi",
