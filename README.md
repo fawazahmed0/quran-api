@@ -82,11 +82,11 @@ or
 ### Download: [Here](https://github.com/fawazahmed0/quran-api/blob/1/download.md)
 
 ### Authenticity:
-I have taken great care to not include any controversial authors, for example: 'Rashad Khalifa' , because there are chances that the translation may contain opinions of the author and not the meaning of the verse.
+I have taken care to not include any controversial authors, for example: 'Rashad Khalifa' , because there are chances that the translation may contain opinions of the author and not the meaning of the verse.
 The Ahmaddiya community has done great work in translating the quran to many different languages of the world. May God reward them with guidance.
 But I cannot take those translations also because the verses such as those talking about Jesus ([4:157](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ummmuhammad/4/157.json "4:157")) usually have opinions of the author of what actually happened to Jesus etc.
 
-In case you find any translation whose authenticity could be questioned, please let me know at [here](https://github.com/fawazahmed0/quran-api/issues/new "here") .Only after verifying the claims, will I remove the translation
+I might have mistakenly added a few of them. In case you find any translation whose authenticity could be questioned, please let me know at [here](https://github.com/fawazahmed0/quran-api/issues/new "here") .Only after verifying the claims, will I remove the translation
 
 ### Any Issues: [Raise here](https://github.com/fawazahmed0/quran-api/issues/new "Raise here")
 
