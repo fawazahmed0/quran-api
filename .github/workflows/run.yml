@@ -78,7 +78,7 @@ jobs:
         run: |
           delargs=`echo ${{ env.myargs }} | sed -E 's/^\s+//g' | sed -E 's/$/ /g' | sed -E 's/\s+/* /g' | sed -E 's/^\* $//'`
           updateargs=`ls -1 start | sed -e 's/\.txt$/*/' | tr '\n' ' '`
-          git sparse-checkout add isocodes/* $delargs $updateargs
+          git sparse-checkout add database/linebyline/* isocodes/* $delargs $updateargs
 
       # we need to upgrade the pip ,so we can get the cache directory in muliple os using single command
       # we need to upgrade the setuptools ,so that we can install googletrans
