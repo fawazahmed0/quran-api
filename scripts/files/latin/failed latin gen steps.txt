@@ -14,6 +14,8 @@ node apiscript.js update
 
 4. After generation, Copy all files from chapterverse folder(new folder) to linebyline and startDir of repo
 
+5. Paste the "failed latin generation.txt" from new folder to repo root
+
 5. run "delete la lad editions.js" from startDir.
 
 6.
