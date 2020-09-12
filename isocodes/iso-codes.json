@@ -1135,6 +1135,10 @@
         "iso1": "",
         "iso2": "arn"
     },
+    "maranao": {
+        "iso1": "mr",
+        "iso2": "mrw"
+    },
     "marathi": {
         "iso1": "mr",
         "iso2": "mar"
