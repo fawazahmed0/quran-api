@@ -2536,7 +2536,7 @@
 21|53|Ata iu pergjigjen: “Edhe te paret tane, i kemi mberri, u faleshin ketyre”
 21|54|“Edhe ju si edhe te paret tuaj keni qene haptazi te humbur” – u tha
 21|55|“Jo, - tha, - Zoti i juaj eshte Zot i qiejve dhe i tokes, ata Ai i ka krijuar; kete une do t’ua deshmoj
-21|56|
+21|56|(Ibrahimi) tha: “Jo, por Zoti juaj eshte Zot’i qiejve dhe i Tokes, qe Ai i krijoi ndersa une jam njeri prej atyre qe e deshmojne kete
 21|57|Per All-llahun, une, sapo te largoheni ju, do t’i ndreq idhujt tuaj”
 21|58|Dhe i beri ata cope-cope, pervec atij me te madhit, mbase ata do t’i drejtohen atij
 21|59|“Kush e beri kete me zoterat tane” – thirren ata – me te vertete eshte kriminel”
@@ -5633,7 +5633,7 @@
 77|11|Dhe kur profetet te tubohen
 77|12|Ne diten qe eshte anuluar
 77|13|Per Diten e Kijametit
-77|14|
+77|14|E, a e di ti se c’eshte Dita e vendimit
 77|15|Mjere pergenjeshtaret ate dite
 77|16|A nuk i kemi zhdukur popujt e lashte
 77|17|E pastaj i kemi pasuar me te tjere

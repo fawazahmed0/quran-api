@@ -5,7 +5,7 @@
 1|5|Thee do we worship, and of Thee do we beg assistance
 1|6|Direct us in the right way
 1|7|in the way of those to whom Thou hast been gracious; not of those against whom Thou art incensed, nor of those who go astray
-2|1|L. M
+2|1|M
 2|2|There is no doubt in this book; it is a direction to the pious
 2|3|who believe in the mysteries of faith, who observe the appointed times of prayer, and distribute alms out of what We have bestowed on them
 2|4|and who believe in that revelation, which hath been sent down unto thee, and that which hath been sent down unto the prophets before thee, and have firm assurance in the life to come
@@ -291,7 +291,7 @@
 2|284|Whatever is in heaven, and on earth is God's: And whether ye manifest that which is in your minds, or conceal it, God will call you to account for it, and will forgive whom he pleaseth, and will punish whom he pleaseth; for God is almighty
 2|285|The apostle believeth in that which hath been sent down unto him from his Lord, and the faithful also. Every one of them believeth in God, and his angels, and his scriptures, and his apostles: We make no distinction at all between his apostles. And they say, we have heard, and do obey: We implore thy mercy, O Lord, for unto thee must we return
 2|286|God will not force any soul beyond its capacity: It shall have the good which it gaineth, and it shall suffer the evil which it gaineth. O Lord punisth us not, if we forget, or act sinfully: O Lord lay not on us a burden like that which thou hast laid on those who have been before us; neither make us, O Lord, to bear what we have not strength to bear, but be favourable unto us, and spare us, and be merciful unto us. Thou art our patron, help us therefore against the unbelieving nations
-3|1|L.M
+3|1|M
 3|2|There is no God but God, the living, the self-subsisting
 3|3|He hath sent down unto thee the book of the Koran with truth, confirming that which was revealed before it; for he had formerly sent down the law, and the gospel
 3|4|a direction unto men; and he had also sent down the distinction between good and evil. Verily those who believe not the signs of God, shall suffer a grievous punishment; for God is mighty, able to revenge
@@ -952,7 +952,7 @@
 6|163|He hath no companion. This have I been commanded: I am the first Moslem
 6|164|Say, shall I desire any other Lord besides God? Since He is the Lord of all things; and no soul shall acquire any merits or demerits but for itself; and no burdened soul shall bear the burden of another. Moreover unto your Lord shall ye return; and He shall declare unto you that concerning which ye now dispute
 6|165|It is He who hath appointed you to succeed your predecessors in the earth, and hath raised some of you above others by various degrees of worldly advantages, that He might prove you by that which He hath bestowed on you. Thy Lord is swift in punishing; and He is also gracious and merciful
-7|1|L.M.S
+7|1|M.S
 7|2|A book hath been sent down unto thee: And therefore let there be no doubt in thy breast concerning it; that thou mayest preach the same, and that it may be an admonition unto the faithful
 7|3|Follow that which hath been sent down unto you from your Lord; and follow no guides besides Him: How little will ye be warned
 7|4|How many cities have We destroyed; which our vengeance overtook by night, or while they were reposing themselves at noon-day
@@ -1362,7 +1362,7 @@
 9|127|And whenever a sura is sent down, they look at one another, saying, doth any one see you? Then do they turn aside. God shall turn aside their hearts from the truth; because they are a people who do not understand
 9|128|Now hath an apostle come unto you of our own nation, an excellent person: It is grievous unto him that ye commit wickedness; He is careful over you, and compassionate and merciful towards the believers
 9|129|If they turn back, say, God is my support: There is no God but He. On Him do I trust; and He is the Lord of the magnificent throne
-10|1|L.R. These are the signs of the wise book
+10|1|R. These are the signs of the wise book
 10|2|Is it a strange thing unto the men of Mecca, that We have revealed our will unto a man from among them, saying, denounce threats unto men if they believe not; and bear good tidings unto those who believe, that on the merit of their sincerity they have an interest with their Lord? The unbelievers say, this is manifest sorcery
 10|3|Verily your Lord is God, who hath created the heavens and the earth in six days; and then ascended his throne, to take on himself the government of all things. There is no intercessor, but by his permission. This is God, your Lord; therefore serve him. Will ye not consider
 10|4|Unto Him shall ye all return, according to the certain promise of God: For He produceth a creature, and then causeth it to return again; that He may reward those who believe and do that which is right, with equity. But as for the unbelievers, they shall drink boiling water, and they shall suffer a grievous punishment, for that they have disbelieved
@@ -1471,7 +1471,7 @@
 10|107|If God afflict thee with hurt, there is none who can relieve thee from it, except He; and if He willeth thee any good, there is none who can keep back his bounty: He will confer it on such of his servants as He pleaseth; and He is gracious and merciful
 10|108|Say, O men, now hath the truth come unto you from your Lord. He therefore who shall be directed, will be directed to the advantage of his own soul: But he who shall err, will err only against the same. I am no guardian over you
 10|109|Do thou, O prophet, follow that which is revealed unto thee: And persevere with patience, until God shall judge; for He is the best judge
-11|1|L.R. This book, the verses whereof are guarded against corruption, and are also distinctly explained, is a revelation from the wise, the knowing God
+11|1|R. This book, the verses whereof are guarded against corruption, and are also distinctly explained, is a revelation from the wise, the knowing God
 11|2|That ye serve not any other than God; -- verily I am a denouncer of threats, and a bearer of good tidings unto you from Him
 11|3|and that ye ask pardon of your Lord, and then be turned unto Him. He will cause you to enjoy a plentiful provision, until a prefixed time: And unto every one that hath merit by good works, will He give his abundant reward. But if ye turn back, verily I fear for you the punishment of the great day
 11|4|Unto God shall ye return; and He is almighty
@@ -1594,7 +1594,7 @@
 11|121|Say unto those who believe not, act ye according to your condition; we surely will act according to our duty
 11|122|And wait the issue; for we certainly wait it also
 11|123|Unto God is known that which is secret in heaven and earth; and unto Him shall the whole matter be referred. Therefore worship Him, and put thy trust in Him; for thy Lord is not regardless of that which ye do
-12|1|L.R. These are the signs of the perspicuous book
+12|1|R. These are the signs of the perspicuous book
 12|2|which We have sent down in the Arabic tongue, that peradventure ye might understand
 12|3|We relate unto thee a most excellent history, by revealing unto thee this Koran, whereas thou wast before one of the negligent
 12|4|When Joseph said unto his father, O my father, verily I saw in my dream eleven stars, and the sun and the moon; I saw them make obeisance unto me
@@ -1705,7 +1705,7 @@
 12|109|We sent not any apostles before thee, except men, unto whom We revealed our will, and whom We chose out of those who dwelt in cities. Will they not go through the earth, and see what hath been the end of those who have preceded them. But the dwelling of the next life shall surely be better for those who fear God. Will they not therefore understand
 12|110|Their predecessors were born with for a time, until, when our apostles despaired of their conversion, and they thought that they were liars, our help came unto them, and We delivered whom We pleased; but our vengeance was not turned away from the wicked people
 12|111|Verily in the histories of the prophets and their people there is an instructive example unto those who are indued with understanding. The Koran is not a new invented fiction; but a confirmation of those scriptures which have been revealed before it, and a distinct explication of every thing necessary, in respect either to faith or practice, and a direction and mercy unto people who believe
-13|1|L.M.R. These are the signs of the book of the Koran: And that which hath been sent down unto thee from thy Lord, is the truth; but the greater part of men will not believe
+13|1|M.R. These are the signs of the book of the Koran: And that which hath been sent down unto thee from thy Lord, is the truth; but the greater part of men will not believe
 13|2|It is God who hath raised the heavens without visible pillars; and then ascended his throne, and compelled the sun and the moon to perform their services: Every of the heavenly bodies runneth an appointed course. He ordereth all things. He sheweth his signs distinctly, that ye may be assured ye must meet your Lord at the last day
 13|3|It is He who hath stretched forth the earth, and placed therein stedfast mountains, and rivers; and hath ordained therein of every fruit two different kinds. He causeth the night to cover the day. Herein are certain signs unto people who consider
 13|4|And in the earth are tracts of land of different natures, though bordering on each other; and also vineyards, and seeds, and palm-trees springing several from the same root, and singly from distinct roots. They are watered with the same water, yet We render some of them more excellent than others to eat. Herein are surely signs unto people who understand
@@ -1748,7 +1748,7 @@
 13|41|Do they not see that We come into their land, and straiten the borders thereof, by the conquests of the true believers? When God judgeth, there is none to reverse his judgment; and He will be swift in taking an account
 13|42|Their predecessors formerly devised subtle plots against their prophets; but God is master of every subtle device. He knoweth that which every soul deserveth: And the infidels shall surely know, whose will be the reward of paradise
 13|43|The unbelievers will say, thou art not sent of God. Answer, God is a sufficient witness between me and you, and he who understandeth the scriptures
-14|1|L.R. This book have We sent down unto thee, that thou mayest lead men forth from darkness into light, by the permission of their Lord, into the glorious and laudable way
+14|1|R. This book have We sent down unto thee, that thou mayest lead men forth from darkness into light, by the permission of their Lord, into the glorious and laudable way
 14|2|God is He unto whom belongeth whatsoever is in heaven and on earth: And woe be to the infidels, because a grievous punishment waiteth them
 14|3|who love the present life above that which is to come, and turn men aside from the way of God, and seek to render it crooked: These are in an error far distant from the truth
 14|4|We have sent no apostle but with the language of his people, that he might declare their duty plainly unto them: For God causeth to err whom He pleaseth, and directeth whom He pleaseth; and He is the mighty, the wise
@@ -1800,7 +1800,7 @@
 14|50|Their inner garments shall be of pitch, and fire shall cover their faces
 14|51|that God may reward every soul, according to what it shall have deserved; for God is swift in taking an account
 14|52|This is a sufficient admonition unto men, that they may be warned thereby, and that they may know that there is but one God; and that those who are indued with understanding may consider
-15|1|L.R. These are the signs of the book, and of the perspicuous Koran
+15|1|R. These are the signs of the book, and of the perspicuous Koran
 15|2|The time may come when the unbelievers shall wish that they had been Moslems
 15|3|Suffer them to eat, and to enjoy themselves in this world; and let hope entertain them: But they shall hereafter know their folly
 15|4|We have not destroyed any city, but a fixed term of repentance was appointed them
@@ -2248,7 +2248,7 @@
 18|108|they shall remain therein for ever; they shall wish for no change therein
 18|109|Say, if the sea were ink to write the words of my Lord, verily the sea would fail, before the words of my Lord would fail; although We added another sea like unto it as a farther supply
 18|110|Say, verily I am only a man as ye are. It is revealed unto me that your God is one only God: Let him therefore who hopeth to meet his Lord, work a righteous work; and let him not make any other to partake in the worship of his Lord
-19|1|H.Y.A.S
+19|1|Y.A.S
 19|2|A commemoration of the mercy of thy Lord towards his servant Zacharias when he called upon his Lord, invoking him in secret
 19|3|When he called upon his LORD, invoking him in secret
 19|4|and said, O Lord, verily my bones are weakened, and my head is become white with hoariness and I have never been unsuccessful in my prayers to thee, O Lord
@@ -2930,7 +2930,7 @@
 25|75|These shall be rewarded with the highest apartments in paradise, because they have persevered with constancy; and they shall meet therein with greeting and salutation
 25|76|they shall remain in the same for ever: It shall be an excellent abode, and a delightful station
 25|77|Say, my Lord is not solicitous on your account, if ye do not invoke Him: Ye have already charged his apostle with imposture; but hereafter shall there be a lasting punishment inflicted on you
-26|1|S.M
+26|1|M
 26|2|These are the signs of the perspicuous book
 26|3|Peradventure thou afflictest thy self unto death, lest the Meccans become not true believers
 26|4|If We pleased, We could send down unto them a convincing sign from heaven, unto which their necks would humbly submit
@@ -3157,7 +3157,7 @@
 26|225|Dost thou not see that they rove as bereft of their senses through every valley
 26|226|and that they say that which they do not
 26|227|Except those who believe, and do good works, and remember God frequently; and who defend themselves, after they have been unjustly treated. And they who act unjustly shall know hereafter, with what treatment they shall be treated
-27|1|S. These are the signs of the Koran, and of the perspicuous book
+27|1|These are the signs of the Koran, and of the perspicuous book
 27|2|A direction, and good tidings unto the true believers
 27|3|who regularly perform their prayer, and give alms, and firmly believe in the life to come
 27|4|As to those who believe not in the life to come, We have prepared their works for them; and they shall be struck with astonishment at their disappointment, when they shall be raised again
@@ -3250,7 +3250,7 @@
 27|91|Verily I am commanded to worship the Lord of this territory of Mecca, Who hath sanctified the same: Unto Him belong all things. And I am commanded to be a Moslem
 27|92|and to rehearse the Koran: He who shall be directed thereby, will be directed to his own advantage; and to him who shall go astray, say, verily I am a warner only
 27|93|And say, praise be unto God! He will shew you his signs, and ye shall know them: And thy Lord is not regardless of that which they do
-28|1|S.M
+28|1|M
 28|2|These are the signs of the perspicuous book
 28|3|We will dictate unto thee, O Mohammed, some parts of the history of Moses and Pharaoh, with truth; for the sake of people who believe
 28|4|Now Pharaoh lifted himself up in the land of Egypt; and he caused his subjects to be divided into parties: He weakened one party of them, by slaying their male-children, and preserving their females alive; for he was an oppressor
@@ -3338,7 +3338,7 @@
 28|86|Thou didst not expect that the book of the Koran should be delivered unto thee: But thou hast received it through the mercy of thy Lord. Be not therefore assisting to the unbelievers
 28|87|neither let them turn thee aside from the signs of God, after they have been sent down unto thee: And invite men unto thy Lord. And be not thou an idolater
 28|88|neither invoke any other god, together with the true God: There is no god but He. Every thing shall perish, except Himself: Unto Him belongeth judgment; and before Him shall ye be assembled at the last day
-29|1|L.M
+29|1|M
 29|2|Do men imagine that it shall be sufficient for them to say, we believe; while they be not proved
 29|3|We heretofore proved those who were before them; for God will surely know them who are sincere, and He will surely know the liars
 29|4|Do they who work evil think that they shall prevent Us from taking vengeance on them? An ill judgment do they make
@@ -3407,7 +3407,7 @@
 29|67|Do they not see that We have made the territory of Mecca an inviolable and secure asylum, when men are spoiled in the countries round about them? Do they therefore believe in that which is vain, and acknowledge not the goodness of God
 29|68|But who is more unjust than he who deviseth a lie against God, or denieth the truth, when it hath come unto him? Is there not in hell an abode for the unbelievers
 29|69|Whoever do their utmost endeavour to promote our true religion, We will direct them into our ways; for God is with the righteous
-30|1|L.M
+30|1|M
 30|2|The Greeks have been overcome by the Persians
 30|3|in the nearest part of the land; but after their defeat, they shall overcome the others in their turn
 30|4|within a few years. Unto God belongeth the disposal of this matter, both for what is past, and for what is to come: And on that day shall the believers rejoice
@@ -3467,7 +3467,7 @@
 30|58|And now have We propounded unto men, in this Koran, parables of every kind: Yet if thou bring them a verse thereof, the unbelievers will surely say, ye are no other than publishers of vain falsehoods
 30|59|Thus hath God sealed up the hearts of those who believe not
 30|60|But do thou, O Mohammed, persevere with constancy, for the promise of God is true; and let not those induce thee to waver, who have no certain knowledge
-31|1|L.M
+31|1|M
 31|2|These are the signs of the wise book
 31|3|a direction, and a mercy unto the righteous
 31|4|who observe the appointed times of prayer, and give alms, and have firm assurance in the life to come
@@ -3501,7 +3501,7 @@
 31|32|When waves cover them, like overshadowing clouds, they call upon God, exhibiting the pure religion unto him; but when He bringeth them safe to land, there is of them who halteth between the true faith and idolatry
 31|33|O men, fear your Lord, and dread the day whereon a father shall not make satisfaction for his son, neither shall a son make satisfaction for his father at all: The promise of God is assuredly true. Let not this present life, therefore, deceive you; neither let the deceiver deceive you concerning God
 31|34|Verily the knowledge of the hour of judgment is with God: And He causeth the rain to descend, at his own appointed time; and He knoweth what is in the wombs of females. No soul knoweth what it shall gain on the morrow; neither doth any soul know in what land it shall die: But God is knowing and fully acquainted with all things
-32|1|L.M
+32|1|M
 32|2|The revelation of this book, there is no doubt thereof, is from the Lord of all creatures
 32|3|Will they say, Mohammed hath forged it? Nay, it is the truth from thy Lord, that thou mayest preach to a people, unto whom no preacher hath come before thee; peradventure they will be directed
 32|4|It is God who hath created the heavens and the earth, and whatever is between them, in six days; and then ascended his throne. Ye have no patron or intercessor besides Him. Will ye not therefore consider
@@ -4271,7 +4271,7 @@
 41|53|Hereafter We will shew them our signs in the regions of the earth, and in themselves; until it become manifest unto them that this book is the truth. Is it not sufficient for thee that thy Lord is witness of all things
 41|54|Are they not in a doubt as to the meeting of their Lord at the resurrection? Doth not He encompass all things
 42|1|M
-42|2|S.K
+42|2|K
 42|3|Thus doth the mighty, the wise God reveal his will unto thee; and in like manner did He reveal it unto the prophets who were before thee
 42|4|Unto Him belongeth whatever is in heaven, and in earth; and He is the high, the great God
 42|5|It wanteth little but that the heavens be rent in sunder from above, at the awfulness of his majesty: The angels celebrate the praise of their Lord, and ask pardon for those who dwell in the earth. Is not God the forgiver of sins, the merciful
@@ -4989,7 +4989,7 @@
 56|10|And those who have preceded others in the faith, shall precede them to paradise
 56|11|These are they who shall approach near unto God
 56|12|They shall dwell in gardens of delight
-56|13|
+56|13|A [large] company of the former peoples
 56|14|and few of the last
 56|15|Reposing on couches adorned with gold and precious stones
 56|16|sitting opposite to one another thereon
@@ -6240,7 +6240,7 @@
     "language": "English",
     "direction": "ltr",
     "source": "",
-    "comments": "The Author is a non-muslim",
+    "comments": "The Author is of non-muslim faith",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-georgesale.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-georgesale.min.json"
 }

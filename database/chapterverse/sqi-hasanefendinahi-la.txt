@@ -4889,7 +4889,7 @@
 54|43|A mos valle mohuesit tuaj (Mekkasit) jane me te mire se ata (qe u permenden), apo ju keni ndonje dekret ne librat e shpallur
 54|44|Apo, ata thone: “Ne jemi grup i pathyeshem!”
 54|45|Se shpejti do te thyhet grupi dhe me te vertete, mekataret do te jene te humbur dhe ne zjarr (ne jeten tjeter) eshte me i tmerrshem dhe me i idhet (se denimi ne kete bote)
-54|46|
+54|46|Nderkaq afati i tyre eshte Dita e kijametit, por Dita e kijametit eshte e rende dhe e hidhur
 54|47|Me te vertete, mekataret do te jene te humbur dhe ne zjarr (ne jeten tjeter)
 54|48|Diten qe do te terhiqen (me force) fytyrat e tyre ne zjarr (e ju thuhet): “Shijoni zjarrin e xhehennemit!”
 54|49|Ne, me te vertete, te gjitha i kemi krijuar sipas dispozites
@@ -5533,7 +5533,7 @@
 74|38|Cdo njeri eshte peng (pergjegjes) per veprat e veta
 74|39|pervec fatlumeve
 74|40|te cilet ne kopshtijet e xhenneti i pyesin fajtoret
-74|41|
+74|41|Per mizoret – mekataret
 74|42|“Cka u ka sjelle juve ne Sekar (Sketerre)?”
 74|43|Ata do te pergjigjen: “Nuk kemi qene nga ata qe kane bere namaz
 74|44|dhe prej atyre qe i kane ushqyer te varferit
@@ -5623,7 +5623,7 @@
 77|1|Betohem ne ata (engjejt) qe sjellin te mira
 77|2|e betohem ne ata qe shpejtojne si stuhia
 77|3|dhe betohem ne ata qe sjellin shpalljet e pastaj dallojne (te miren nga e keqja)
-77|4|
+77|4|Dhe ata qe dallojne
 77|5|ne ata qe percjellin keshillat
 77|6|e arsyeshme ose qortuese
 77|7|me te vertete, ajo e ju premtohet, do te behet

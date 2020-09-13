@@ -2536,7 +2536,7 @@
 21|53|Ata iu përgjigjën: “Edhe të parët tanë, i kemi mbërri, u faleshin këtyre”
 21|54|“Edhe ju si edhe të parët tuaj keni qenë haptazi të humbur” – u tha
 21|55|“Jo, - tha, - Zoti i juaj është Zot i qiejve dhe i tokës, ata Ai i ka krijuar; këtë unë do t’ua dëshmoj
-21|56|
+21|56|(Ibrahimi) tha: “Jo, por Zoti juaj është Zot’i qiejve dhe i Tokës, që Ai i krijoi ndërsa unë jam njëri prej atyre që e dëshmojnë këtë
 21|57|Për All-llahun, unë, sapo të largoheni ju, do t’i ndreq idhujt tuaj”
 21|58|Dhe i bëri ata copë-copë, përveç atij më të madhit, mbase ata do t’i drejtohen atij
 21|59|“Kush e bëri këtë me zotërat tanë” – thirrën ata – me të vërtetë është kriminel”
@@ -5633,7 +5633,7 @@
 77|11|Dhe kur profetët të tubohen
 77|12|Në ditën që është anuluar
 77|13|Për Ditën e Kijametit
-77|14|
+77|14|E, a e di ti se ç’është Dita e vendimit
 77|15|Mjerë përgënjeshtarët atë ditë
 77|16|A nuk i kemi zhdukur popujt e lashtë
 77|17|E pastaj i kemi pasuar me të tjerë

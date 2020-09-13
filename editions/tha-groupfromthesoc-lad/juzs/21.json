@@ -1,0 +1,894 @@
+{
+    "juzs": [
+        {
+            "chapter": 29,
+            "verse": 46,
+            "text": "læa phwk cêā xỳā tôt̄heīyng kạb phwk xaḥˌ lu lki tāb wêntæ̀ d̂wy wiṭhī thī̀ dī kẁā nxkcāk br rdā p̄hû xṭhrrm nı h̄mū̀ phwk k̄heā læa phwk cêā cng kl̀āw ẁā reā ṣ̄rạṭhā nı s̄ìng thī̀ t̄hūk prathān kæ̀ reā læa s̄ìng thī̀ dị̂ t̄hūk prathān kæ̀ phwk cêā læa phracêā k̄hxng reā læa phracêā k̄hxng phwk cêā pĕn xe ka læa reā pĕn p̄hū̂ nxbn̂xm t̀x phraxngkh̒"
+        },
+        {
+            "chapter": 29,
+            "verse": 47,
+            "text": "læa chèn nận h̄æla reā dị̂ prathān khạmp̣hīr̒ kæ̀ cêā dạngnận brrdā p̄hū̂ thī̀ reā dị̂ prathān khạmp̣hīr̒ kæ̀ phwk k̄heā phwk k̄heā k̆ ṣ̄rạthṭhā t̀x mạn (xạlkurxān) læa nı h̄mū̀ k̄heā h̄el̀ā nận mī p̄hū̂ ṣ̄rạthṭhā t̀x mạn læa mị̀mī p̄hū̂ dı pt̩is̄eṭh xongkār thậngh̄lāy k̄hxng reā nxkcāk p̄hū̂ pt̩is̄eṭh ṣ̄rạthṭhā"
+        },
+        {
+            "chapter": 29,
+            "verse": 48,
+            "text": "læa k̀xn h̄n̂ā nận cêā midị̂ x̀ān khạmp̣hīr̒ dı «læa cêā midị̂ k̄heīyn mạn d̂wy mụ̄xk̄hwā k̄hxng cêā mi c̄hanận læ̂w phwk kl̀āw khwām thĕc ca s̄ngs̄ạy xỳāng næ̀nxn"
+        },
+        {
+            "chapter": 29,
+            "verse": 49,
+            "text": "michı̀ chèn nận dxk mạn khụ̄x xongkār thậngh̄lāy xạn cæ̂ng chạd xyū̀ nı h̄ạwxk k̄hxng brrdā p̄hū̂ dị̂ rạb khwām rū̂ læa mị̀mī p̄hū̂ dı pt̩is̄eṭh xongkār thậngh̄lāy k̄hxng reā nxkcāk phwk xṭhrrm"
+        },
+        {
+            "chapter": 29,
+            "verse": 50,
+            "text": "læa phwk k̄heā kl̀āw ẁā thảmị s̄ạỵỵāṇ t̀āng «cāk phracêā k̄hxng k̄heā cụng mi t̄hūk prathān māyạng k̄heā cng kl̀āw t̄heid (muḥạmmạd) thæ̂cring s̄ạỵỵāṇ h̄el̀ā nận xyū̀ thī̀ xạllxḥˌ læa c̄hạn pĕn p̄hū̂ tạkteụ̄xn xạn krac̀āng cæ̂ng thèānận"
+        },
+        {
+            "chapter": 29,
+            "verse": 51,
+            "text": "mi pheīyngphx kæ̀ phwk k̄heā dxk h̄rụ̄x thī̀ reā dị̂ prathān khạmp̣hīr̒ h̄ı̂ kæ̀ cêā sụ̀ng dị̂ t̄hūk x̀ān h̄ı̂ kæ̀ phwk k̄heā fạng thæ̂cring nı kār nận næ̀nxn ỳxm pĕn khwām mæt tā læa pĕnkār tạkteụ̄xn kæ̀ h̄mū̀ chn p̄hū̂ ṣ̄rạthṭhā"
+        },
+        {
+            "chapter": 29,
+            "verse": 52,
+            "text": "Cng kl̀āw t̄heid (muḥạmmạd) phx pheīyng læ̂w thī̀ xạllxḥˌ thrng pĕn phyān rah̄ẁāng c̄hạn læa phwk th̀ān phraxngkh̒ thrng rxbrū̂ s̄ìng thī̀ xyū̀ nı chận f̂ā thậngh̄lāy læa p̄hæ̀ndin læa brrdā p̄hū̂ cheụ̄̀x nı khwām thĕc læa pt̩is̄eṭh ṣ̄rạthṭhā t̀x xạllxḥˌ chn h̄el̀ā nận h̄æla phwk k̄heā pĕn p̄hū̂ k̄hādthun"
+        },
+        {
+            "chapter": 29,
+            "verse": 53,
+            "text": "læa phwk k̄heā rèngrêā cêā nı reụ̄̀xng kār lngthos̄ʹ læa h̄āk michı̀ welā thī̀ t̄hūk kảh̄nd wị̂ læ̂w kār lngthos̄ʹ k̆ ca keid k̄hụ̂n kæ̀ phwk k̄heā xỳāng næ̀nxn læa mạn ca keid k̄hụ̂n kæ̀ phwk k̄heā doy c̄hạbphlạn xỳāng næ̀nxn doythī̀ phwk k̄heā mị̀rū̂ s̄ụk tạw"
+        },
+        {
+            "chapter": 29,
+            "verse": 54,
+            "text": "phwk k̄heā rèngrêā cêā nı reụ̄̀xng kār lngthos̄ʹ læa thæ̂ cring nrk ỵaḥạnnạm nận pĕn thī̀ s̄a kạd l̂xm phwk pt̩is̄eṭh ṣ̄rạthṭhā wị̂ xỳāng næ̀nxn"
+        },
+        {
+            "chapter": 29,
+            "verse": 55,
+            "text": "wạn sụ̀ng kār lngthos̄ʹ ca khrxbkhlum phwk k̄heā cāk k̄ĥāng bn phwk k̄heā læa cāk tı̂thêā k̄hxng phwk k̄heā læa phraxngkh̒ ca trạs̄ ẁā phwk cêā cng lîm rs̄ s̄ìng thī̀ phwk cêā dị̂ k̀x krrm krathả wị̂"
+        },
+        {
+            "chapter": 29,
+            "verse": 56,
+            "text": "xô pwng b̀wng k̄hxng k̄ĥā brrdā p̄hū̂ thī̀ ṣ̄rạthṭhā xěy thæ̂cring p̄hæ̀ndin k̄hxng k̄ĥā nận kŵāngh̄ıỵ̀ phịṣ̄āl dạngnận c̄hephāa k̄ĥā thèānận phwk cêā cng kheārph p̣hạkdī"
+        },
+        {
+            "chapter": 29,
+            "verse": 57,
+            "text": "thuk «chīwit pĕn p̄hū̂ lîm rs̄ khwām tāy læ̂w phwk cêā ca t̄hūk nả klạb yạng reā"
+        },
+        {
+            "chapter": 29,
+            "verse": 58,
+            "text": "læa brrdā p̄hū̂ ṣ̄rạthṭhā læa krathả khwām dī thậngh̄lāy næ̀nxn reā ca h̄ı̂ phwk k̄heā phảnạk xyū̀ nı h̄̂xng phiṣ̄es̄ʹ h̄æ̀ng s̄wn s̄wrrkh̒ ṇ beụ̄̂xng l̀āng mạn mī lản̂ả h̄lāy s̄āy h̄ịl p̄h̀ān phwk k̄heā pĕn p̄hū̂ phảnạk xyū̀ nı nận tlxd kāl rāngwạl k̄hxng p̄hū̂ krathả khwām dī ch̀āng pras̄eriṭ̄h thæ̂ «"
+        },
+        {
+            "chapter": 29,
+            "verse": 59,
+            "text": "brrdā p̄hū̂ xdthn k̄hạnti læa phwk k̄heā mxbh̄māy wị̂ wāngcı dæ̀ phracêā k̄hxng phwk k̄heā"
+        },
+        {
+            "chapter": 29,
+            "verse": 60,
+            "text": "læa s̄ạtw̒ tậng kī̀ chnid thī̀ mạn mi s̄āmārt̄h s̄æwngh̄ā kherụ̄̀xng yạngchīph k̄hxng mạn xạllxḥˌ thrng prathān kherụ̄̀xng yạngchīph kæ̀ phwk mạn læa kæ̀ phwk cêā læa phraxngkh̒ pĕn p̄hū̂thrng dị̂yin p̄hū̂thrng rxbrū̂"
+        },
+        {
+            "chapter": 29,
+            "verse": 61,
+            "text": "læa t̄ĥā cêā t̄hām phwk k̄heā khır pĕn p̄hū̂ s̄r̂āng chận f̂ā thậngh̄lāy læa p̄hæ̀ndin læa pĕn p̄hū̂ thảh̄ı̂ dwng xāthity̒ læa dwng cạnthr̒ pĕn prayochn̒ næ̀nxn phwk k̄heā ca kl̀āw ẁā xạllxḥˌ læ̂w thảmị lèā phwk k̄heā cụng h̄ạnh̄e xxk pị thāng xụ̄̀n"
+        },
+        {
+            "chapter": 29,
+            "verse": 62,
+            "text": "Xạllxḥˌ thrng h̄ı̂ kherụ̄̀xng yạngchīph kŵāngk̄hwāng kæ̀ p̄hū̂ thī̀ phraxngkh̒ thrng pras̄ngkh̒ cāk pwng b̀āw k̄hxng phraxngkh̒ læa thrng h̄ı̂ khạbkhæb kæ̀ k̄heā thæ̂ cring xạllxḥˌ pĕn p̄hū̂thrng rxbrū̂ thuks̄ìngthukxỳāng"
+        },
+        {
+            "chapter": 29,
+            "verse": 63,
+            "text": "læa t̄ĥā cêā t̄hām phwk k̄heā ẁā khır lèā thrng h̄lạ̀ng n̂ảlng mā cāk fāk f̂ā læ̂w thrng h̄ı̂ p̄hæ̀ndin mī chīwitchīwā h̄lạngcāk khwām h̄æ̂nglæ̂ng k̄hxng mạn næ̀nxn phwk k̄heā ca kl̀āw ẁā xạllxḥˌ cng kl̀āw t̄heid (muḥạmmạd) brrdā kār s̄rrs̄eriỵ pĕn s̄ithṭhi̒ k̄hx ngxạllxḥˌ tæ̀ẁā s̄̀wn māk phwk k̄heā mị̀ chı̂ s̄tipạỵỵā khır̀khrwỵ"
+        },
+        {
+            "chapter": 29,
+            "verse": 64,
+            "text": "læa kār mī chīwit xyū̀ nı lok nī̂ michı̀ xụ̄̀n dı wêntæ̀ pĕnkārlalèn læa kār s̄nuks̄nān r̀āreing læa thæ̂cring s̄t̄hān thī̀ nı prlok nận næ̀nxn mạn khụ̄x chīwit thī̀thæ̂ cring h̄āk phwk k̄heā dị̂ rū̂"
+        },
+        {
+            "chapter": 29,
+            "verse": 65,
+            "text": "dạngnận meụ̄̀x phwk k̄heā k̄hụ̂n k̄hī̀ reụ̄x phwk k̄heā wing wxn t̀x xạllxḥˌ pĕn p̄hū̂ bris̄uthṭhi̒cı nı kār k̄hx phr t̀x phraxngkh̒ khrận meụ̄̀x phraxngkh̒ thrng ch̀wy phwk k̄heā h̄ı̂ k̄hụ̂n bk læ̂w phwk k̄heā k̆ tậng p̣hākhī t̀x phraxngkh̒"
+        },
+        {
+            "chapter": 29,
+            "verse": 66,
+            "text": "pheụ̄̀x phwk k̄heā ca nerkhuṇ t̀x s̄ìng thī̀ reā dị̂ prathān kæ̀ phwk k̄heā læa pheụ̄̀x phwk k̄heā ca dị̂ h̄lng rareing læ̂w phwk k̄heā k̆ ca dị̂ rū̂"
+        },
+        {
+            "chapter": 29,
+            "verse": 67,
+            "text": "phwk k̄heā mị̀ h̄ĕn dxk h̄rụ̄x ẁā reā dị̂ thả k̄het h̄wngh̄̂ām h̄ı̂ pĕn thī̀ plxdp̣hạy k̄hṇa thī̀ prachāchn rxb «phwk k̄heā t̄hūk ḳh̀ā t̄hūk lạkphā tạw pị læ̂w phwk k̄heā yạng ca ṣ̄rạthṭhā t̀x khwām thĕc læa phwk k̄heā yạng ca nerkhuṇ t̀x khwām po rād prān k̄hx ngxạllxḥˌ xīk h̄rụ̄x"
+        },
+        {
+            "chapter": 29,
+            "verse": 68,
+            "text": "læa khır lèā ca xṭhrrm yìng kẁā p̄hū̂ ku khwām thĕc h̄ı̂ kæ̀ xạllxḥˌ h̄rụ̄x pt̩is̄eṭh s̄ạcṭhrrm meụ̄̀x mạn dị̂ māyạng k̄heā thī̀ phảnạk nı nrk ỵaḥạnnạm michı̀ s̄ảh̄rạb brrdā p̄hū̂ pt̩is̄eṭh ṣ̄rạthṭhā dxk h̄rụ̄x"
+        },
+        {
+            "chapter": 29,
+            "verse": 69,
+            "text": "læa brrdā p̄hū̂ t̀xs̄ū̂ dînrn nı thāng k̄hxng reā næ̀nxn reā ca chī̂næa næwthāng thī̀ t̄hūk t̂xng kæ̀ phwk k̄heā s̄ū̀ thāng k̄hxng reā læa thæ̂ cring xạllxḥˌ thrng xyū̀ r̀wm kạb p̄hū̂ krathả khwām dī thậngh̄lāy"
+        },
+        {
+            "chapter": 30,
+            "verse": 1,
+            "text": "xa lif lām mīm"
+        },
+        {
+            "chapter": 30,
+            "verse": 2,
+            "text": "phwk romạn t̄hūk phichit læ̂w"
+        },
+        {
+            "chapter": 30,
+            "verse": 3,
+            "text": "nı din dæn xạn kıl̂ nī̂ tæ̀ h̄lạngcāk kār prāchạy k̄hxng phwk k̄heā læ̂w phwk k̄heā ca dị̂ rạb chạychna"
+        },
+        {
+            "chapter": 30,
+            "verse": 4,
+            "text": "nı welā mị̀ kī̀ pī t̀x mā phra bạỵchā pĕn s̄ithṭhi k̄hx ngxạllxḥˌ thậng k̀xn læa h̄lạng (chạychna) læa wạn nận brrdā p̄hū̂ ṣ̄rạthṭhā ca dīcı"
+        },
+        {
+            "chapter": 30,
+            "verse": 5,
+            "text": "D̂wy kār ch̀wyh̄elụ̄x k̄hx ngxạllxḥˌ phraxngkh̒ thrng ch̀wyh̄elụ̄x p̄hū̂ thī̀ phraxngkh̒ thrng pras̄ngkh̒ læa phraxngkh̒ pĕn p̄hū̂thrng xảnāc p̄hū̂thrng mettā s̄emx"
+        },
+        {
+            "chapter": 30,
+            "verse": 6,
+            "text": "(nạ̀n khụ̄x) s̄ạỵỵā k̄hx ngxạllxḥˌ xạllxḥˌ ca mị̀ thrng bid phrîw s̄ạỵỵā k̄hxng phraxngkh̒ tæ̀ s̄̀wn māk k̄hxng mnus̄ʹy̒ mị̀rū̂"
+        },
+        {
+            "chapter": 30,
+            "verse": 7,
+            "text": "phwk k̄heā rū̂ tæ̀ pheīyng p̄hiwp̄hein nı reụ̄̀xng kār dảrng chīwit nı lok nī̂ læa phwk k̄heā mị̀ khảnụng t̄hụng kār mī chīwit nı prlok"
+        },
+        {
+            "chapter": 30,
+            "verse": 8,
+            "text": "phwk k̄heā midị̂ khır̀khrwỵ nı tạw xeng k̄hxng phwk k̄heā dxk h̄rụ̄x ẁā xạllxḥˌ midị̂ thrng s̄r̂āng chận f̂ā thậngh̄lāy læa p̄hæ̀ndin læa s̄ìng thī̀ xyū̀ rah̄ẁāng thậng s̄xng pheụ̄̀x s̄ìng xụ̄̀n dı ley wêntæ̀ pheụ̄̀x khwām cring læa welā thī̀ t̄hūk kảh̄nd wị̂ læa thæ̂ crng s̄̀wn māk k̄hxng mnus̄ʹy̒ pĕn p̄hū̂ pt̩is̄eṭh ṣ̄rạthṭhā t̀x kār phbphrap̄hū̂pĕncêāk̄hxng phwk k̄heā"
+        },
+        {
+            "chapter": 30,
+            "verse": 9,
+            "text": "phwk k̄heā midị̂ th̀xngtheī̀yw pị tām p̄hæ̀ndin dxk h̄rụ̄x læ̂w phicārṇā dū ẁā bậnplāy k̄hxng prachāchāti nı yukh k̀xn h̄n̂ā phwk k̄heā pĕn chèn dı k̄heā h̄el̀ā nận mī phlạng thī̀ k̄hêmk̄hæ̆ng kẁā phwk k̄heā k̄heā h̄el̀ā nận k̄hud phrwn din læa k̀xs̄r̂āng (kheh̄s̄t̄hān) mākkẁā phwk k̄heā k̀xs̄r̂āng mạn læa brrdā rx sūl k̄hxng phwk k̄heā dị̂ mā h̄ā phwk k̄heā d̂wy h̄lạkṭ̄hān xạn chạd cæ̂ng dạngnận næ̀ nx nxạllxḥˌ midị̂ thrng xṭhrrm t̀x phwk k̄heā tæ̀ẁā phwk k̄heā xṭhrrm t̀x tạw k̄hxng phwk k̄heā xeng t̀āngh̄āk"
+        },
+        {
+            "chapter": 30,
+            "verse": 10,
+            "text": "læ̂w bậnplāy k̄hxng brrdā p̄hū̂ krathả khwām chạ̀w k̆ khụ̄x khwām chạ̀w doythī̀ phwk k̄heā pt̩is̄eṭh t̀x s̄ạỵỵāṇ thậngh̄lāy k̄hx ngxạllxḥˌ læa phwk k̄heā yêy h̄yạn mạn"
+        },
+        {
+            "chapter": 30,
+            "verse": 11,
+            "text": "xạllxḥˌ thrng reìm kār bạngkeid (mnus̄ʹy̒) læ̂w thrng h̄ı̂ mạn klạb mā keid xīk læ̂w phwk cêā ca t̄hūk nả klạb pị yạng phraxngkh̒"
+        },
+        {
+            "chapter": 30,
+            "verse": 12,
+            "text": "læa wạn thī̀ wāra s̄udtĥāy ca keid k̄hụ̂n phwk thả p̄hid k̆ ca h̄md h̄wạng"
+        },
+        {
+            "chapter": 30,
+            "verse": 13,
+            "text": "læa ca mị̀mī p̄hū̂ dı cāk brrdā p̣hākhī k̄hxng phwk k̄heā pĕn p̄hū̂ ch̀wyh̄elụ̄x phwk k̄heā læa phwk k̄heā k̆ pĕn p̄hū̂ pt̩is̄eṭh brrdā p̣hākhī k̄hxng phwk k̄heā d̂wy"
+        },
+        {
+            "chapter": 30,
+            "verse": 14,
+            "text": "læa wạn thī̀ wāra s̄udtĥāy ca keid k̄hụ̂n wạn nận phwk k̄heā ca yæk xxk cāk kạn"
+        },
+        {
+            "chapter": 30,
+            "verse": 15,
+            "text": "dạngnận s̄ảh̄rạb brrdā p̄hū̂ ṣ̄rạthṭhā læa prakxb khwām dī phwk k̄heā k̆ ca chụ̄̀nchmyindī xyū̀ nı s̄wn s̄wrrkh̒"
+        },
+        {
+            "chapter": 30,
+            "verse": 16,
+            "text": "Læa s̄̀wn brrdā p̄hū̂ pt̩is̄eṭh ṣ̄rạthṭhā læa mị̀ yxm cheụ̄̀x t̀x s̄ạỵỵāṇ thậngh̄lāy k̄hxng reā læa kār phb (reā) nı wạn prlok chn h̄el̀ā nận h̄æla pĕn p̄hū̂ xyū̀ nı kār lngthos̄ʹ xỳāng t̄hāwr"
+        },
+        {
+            "chapter": 30,
+            "verse": 17,
+            "text": "dạngnận mh̄ā bris̄uthṭhi̒ yìng dæ̀ xạllxḥˌ meụ̄̀x phwk cêā ỳāng k̄hêā s̄ū̀ yām yĕn læa meụ̄̀x phwk cêā ỳāng k̄hêā s̄ū̀ yām chêā"
+        },
+        {
+            "chapter": 30,
+            "verse": 18,
+            "text": "mwl kār s̄rrs̄eriỵ nı chận f̂ā thậngh̄lāy læa p̄hæ̀ndin pĕn krrms̄ithṭhi̒ k̄hxng phraxngkh̒ læa nı yām phlbkh̀ả læa meụ̄̀x phwk cêā ỳāng k̄hêā s̄ū̀ yām b̀āy"
+        },
+        {
+            "chapter": 30,
+            "verse": 19,
+            "text": "phraxngkh̒ thrng h̄ı̂ mī chīwit h̄lạngcāk kār tāy læa thrng h̄ı̂ tāy h̄lạngcāk mī chīwit læa thrng h̄ı̂ p̄hæ̀ndin mī chīwitchīwā k̄hụ̂n h̄lạngcāk kār h̄æ̂nglæ̂ng k̄hxng mạn læa chèn nận h̄æla phwk cêā ca t̄hūk nả xxk mā"
+        },
+        {
+            "chapter": 30,
+            "verse": 20,
+            "text": "læa h̄nụ̀ng cāk s̄ạỵỵāṇ thậngh̄lāy k̄hxng phraxngkh̒ khụ̄x thrng s̄r̂āng phwk cêā cāk din læ̂w phwk cêā pĕn mnus̄ʹy̒ phær̀ kracāy xxk pị"
+        },
+        {
+            "chapter": 30,
+            "verse": 21,
+            "text": "læa h̄nụ̀ng cāk s̄ạỵỵāṇ thậngh̄lāy k̄hxng phraxngkh̒ khụ̄x thrng s̄r̂āng khū̀khrxng h̄ı̂ kæ̀ phwk cêā cāk tạw k̄hxng phwk cêā xeng pheụ̄̀x phwk cêā ca dị̂ mī khwām s̄uk̄h xyū̀ kạb nāng læa thrng h̄ı̂ mī khwām rạk khır̀ læa khwām mettā rah̄ẁāng phwk cêā thæ̂cring nı kār nī̂ næ̀nxn ỳxm pĕn s̄ạỵỵāṇ kæ̀ h̄mū̀ chn p̄hū̂ khır̀khrwỵ"
+        },
+        {
+            "chapter": 30,
+            "verse": 22,
+            "text": "læa h̄nụ̀ng cāk s̄ạỵỵāṇ thậngh̄lāy k̄hxng phraxngkh̒ khụ̄x kār s̄r̂āng chận f̂ā thậngh̄lāy læa p̄hæ̀ndin læa kār tæk t̀āng k̄hxng p̣hās̄ʹā k̄hxng phwk cêā læa p̄hiwphrrṇ k̄hxng phwk cêā thæ̂cring nı kār nī̂ næ̀nxn ỳxm pĕn s̄ạỵỵāṇ s̄ảh̄rạb brrdā p̄hū̂ mī khwām rū̂"
+        },
+        {
+            "chapter": 30,
+            "verse": 23,
+            "text": "læa h̄nụ̀ng cāk s̄ạỵỵāṇ thậngh̄lāy k̄hxng phraxngkh̒ khụ̄x kār h̄lạb nxn k̄hxng phwk cêā nı klāngkhụ̄n læa klāngwạn læa kār s̄æwngh̄ā k̄hxng phwk cêā sụ̀ng khwām pordprān k̄hxng phraxngkh̒ thæ̂cring nı kār nī̂ næ̀nxn ỳxm pĕn s̄ạỵỵāṇ kæ̀ h̄mū̀ chn p̄hū̂ fạng pheụ̄̀x khır̀khrwỵ"
+        },
+        {
+            "chapter": 30,
+            "verse": 24,
+            "text": "læa h̄nụ̀ng cāk s̄ạỵỵāṇ thậngh̄lāy k̄hxng phraxngkh̒ khụ̄x thrng h̄ı̂ phwk cêā h̄ĕn s̄āyf̂ā læb pĕn thī̀ h̄wād klạw læa pĕn khwām h̄wạng læa thrng h̄lạ̀ng n̂ảlng mā cāk fāk f̂ā læa thrng h̄ı̂ p̄hæ̀ndin mī chīwitchīwā d̂wy mạn (n̂ả f̄n) h̄lạngcāk kār h̄æ̂nglæ̂ng k̄hxng mạn thæ̂cring nı kār nận ỳxm pĕn s̄ạỵỵāṇ kæ̀ h̄mū̀ chn p̄hū̂ chı̂ s̄tipạỵỵā"
+        },
+        {
+            "chapter": 30,
+            "verse": 25,
+            "text": "Læa h̄nụ̀ng cāk s̄ạỵỵāṇ thậngh̄lāy k̄hxng phraxngkh̒ khụ̄x chận f̂ā læa p̄hæ̀ndin mạ̀nkhng xyū̀ tāmph ra bạỵchā k̄hxng phraxngkh̒ khrận meụ̄̀x phraxngkh̒ thrng r̂xng reīyk phwk cêā xīk khrậng h̄nụ̀ng h̄ı̂ xxk cāk p̄hæ̀ndin meụ̄̀x nận phwk cêā k̆ ca xxk mā kạn"
+        },
+        {
+            "chapter": 30,
+            "verse": 26,
+            "text": "læa p̄hū̂ thī̀ xyū̀ nı chận f̂ā thậngh̄lāy læa p̄hæ̀ndin pĕn krrms̄ithṭhi̒ k̄hxng phraxngkh̒ thậngmwl pĕn p̄hū̂ cngrạkp̣hạkdī t̀x phraxngkh̒"
+        },
+        {
+            "chapter": 30,
+            "verse": 27,
+            "text": "læa phraxngkh̒ khụ̄x p̄hū̂thrng reìm ræk nı kār s̄r̂āng læ̂w thrng h̄ı̂ mạn klạb k̄hụ̂n mā xīk læa mạn pĕnkār ng̀āy yìng kæ̀ phraxngkh̒ læa khuṇlạks̄ʹṇa xạn s̄ūngs̄̀ng nı chận f̂ā thậngh̄lāy læa p̄hæ̀ndin pĕn krrms̄ithṭhi̒ k̄hxng phraxngkh̒ læa phraxngkh̒ pĕn p̄hū̂thrng xảnāc p̄hū̂thrng prīchā ỵāṇ"
+        },
+        {
+            "chapter": 30,
+            "verse": 28,
+            "text": "phraxngkh̒ thrng yk xuth ṭhā h̄rṇ̒ kæ̀ phwk cêā thī̀mā cāk tạw k̄hxng phwk cêā xeng ca mī b̂āng h̄ịm s̄ảh̄rạb phwk cêā (thī̀ ca yxm h̄ı̂) nı h̄mū̀ p̄hū̂ thī̀ mụ̄xk̄hwā k̄hxng phwk cêā khrxbkhrxng (b̀āw thās̄) mī h̄ûns̄̀wn nı s̄ìng thī̀ reā dị̂ h̄ı̂ kherụ̄̀xng yạngchīph kæ̀ phwk cêā læ̂w phwk cêā (kạb phwk k̄heā) mā mī s̄̀wn thèā kạn doy phwk cêā klạw phwk k̄heā h̄emụ̄xnkạb kār klạw k̄hxng phwk cêā d̂wy kạnxeng chèn nận h̄æla reā cảnæk s̄ạỵỵāṇ thậngh̄lāy kæ̀ h̄mū̀ chn p̄hū̂ chı̂ pạỵỵā pheụ̄̀x tịr̀trxng"
+        },
+        {
+            "chapter": 30,
+            "verse": 29,
+            "text": "pel̀ā ley! Tæ̀ẁā brrdā p̄hū̂ xṭhrrm dị̂ pt̩ibạti tām xārmṇ̒ f̄ı̀t̀ả k̄hxng phwk k̄heā doy prāṣ̄cāk khwām rū̂ læ̂w p̄hū̂ dı lèā ca næanæw thāng kæ̀ p̄hū̂ thī̀ xạllxḥˌ thrng pl̀xy h̄ı̂ k̄heā h̄lng thāng pị læ̂w læa s̄ảh̄rạb phwk k̄heā ca mị̀mī p̄hū̂ ch̀wyh̄elụ̄x"
+        },
+        {
+            "chapter": 30,
+            "verse": 30,
+            "text": "dạngnận cêā cng p̄hin h̄n̂ā k̄hxng cêā s̄ū̀ ṣ̄ās̄nā thī̀ theī̀yngthæ̂ (doy pĕn) ṭhrrmchāti k̄hx ngxạllxḥˌ sụ̀ng phraxngkh̒ thrng s̄r̂āng mnus̄ʹy̒ k̄hụ̂n mā mị̀mī kār pelī̀ynpælng nı kār s̄r̂āng k̄hx ngxạllxḥˌ nạ̀n khụ̄x ṣ̄ās̄nā xạn theī̀yngtrng tæ̀ s̄̀wn māk k̄hxng mnus̄ʹy̒ mị̀rū̂"
+        },
+        {
+            "chapter": 30,
+            "verse": 31,
+            "text": "læa cng yảkerng phraxngkh̒ læa cng dảrng wị̂ sụ̀ng kār lah̄mād doy pĕn p̄hū̂ p̄hin h̄n̂ā klạb pị s̄ū̀ phraxngkh̒ læa xỳā xyū̀ nı h̄mū̀ p̄hū̂ tậng p̣hākhī"
+        },
+        {
+            "chapter": 30,
+            "verse": 32,
+            "text": "(khụ̄x) nı h̄mū̀ p̄hū̂ bæ̀ngyæk ṣ̄ās̄nā k̄hxng phwk k̄heā xxk pĕn nikāy t̀āng «læa tæ̀la h̄mū̀ khṇa k̆ phxcı t̀x s̄ìng thī̀ phwk k̄heā mī xyū̀"
+        },
+        {
+            "chapter": 30,
+            "verse": 33,
+            "text": "Læa meụ̄̀x thukk̄h̒ p̣hạy xạn dı pras̄b kæ̀ mnus̄ʹy̒ phwk k̄heā k̆ wingwxn k̄hx t̀x phracêā k̄hxng phwk k̄heā doy pĕn p̄hū̂ p̄hin h̄n̂ā klạb pị s̄ū̀ phraxngkh̒ khrận meụ̄̀x phraxngkh̒ dị̂ thrng h̄ı̂ phwk k̄heā lîm rs̄ khwām mettā cāk phraxngkh̒ ṇ bạdnận h̄mū̀ h̄nụ̀ng cāk phwk k̄heā k̆ tậng p̣hākhī t̀x phracêā k̄hxng phwk k̄heā"
+        },
+        {
+            "chapter": 30,
+            "verse": 34,
+            "text": "k̆ cng nerkhuṇ t̀x s̄ìng thī̀ reā dị̂ h̄ı̂ kæ̀ phwk k̄heā læ̂w k̆ cng r̀āreing kạn t̀x pị t̄heid læ̂w phwk cêā ca dị̂ rū̂"
+        },
+        {
+            "chapter": 30,
+            "verse": 35,
+            "text": "h̄rụ̄x ẁā reā dị̂ h̄ı̂ h̄lạkṭ̄hān xạn dı kæ̀ phwk k̄heā pheụ̄̀x mạn ca dị̂ phūd nı reụ̄̀xng thī̀ phwk k̄heā tậng p̣hākhī t̀x phraxngkh̒"
+        },
+        {
+            "chapter": 30,
+            "verse": 36,
+            "text": "læa meụ̄̀x reā dị̂ h̄ı̂ mnus̄ʹy̒ lîm rs̄ khwām mettā phwk k̄heā k̆ dīcı t̀x mạn læa meụ̄̀x thukk̄h̒ r̂āy xạn dı pras̄b kæ̀ phwk k̄heā neụ̄̀xngd̂wy s̄ìng thī̀ mụ̄x k̄hxng phwk k̄heā prakxb wị̂ læ̂w phwk k̄heā k̆ h̄mdxālạy"
+        },
+        {
+            "chapter": 30,
+            "verse": 37,
+            "text": "phwk k̄heā mi h̄ĕn dxk h̄rụ̄x ẁā thæ̂ cring nận xạllxḥˌ thrng h̄ı̂ kŵāngk̄hwāng sụ̀ng kherụ̄̀xng yạngchīph kæ̀ p̄hū̂ thī̀ phraxngkh̒ thrng pras̄ngkh̒ læa thrng h̄ı̂ khạbkhæb thæ̂cring nı kār nī̂ næ̀nxn ỳxm pĕn s̄ạỵỵāṇ kæ̀ h̄mū̀ chn p̄hū̂ ṣ̄rạthṭhā"
+        },
+        {
+            "chapter": 30,
+            "verse": 38,
+            "text": "dạngnận cêā cng bricākh kæ̀ ỵāti s̄nith sụ̀ng s̄ithṭhi k̄hxng k̄heā læa kæ̀ p̄hū̂ k̄hạds̄n læa p̄hū̂ deinthāng nạ̀nh̄æla pĕnkār dī yìng s̄ảh̄rạb brrdā p̄hū̂ prārt̄hnā phra phạktr̒ k̄hx ngxạllxḥˌ læa chn h̄el̀ā nận h̄æla phwk k̄heā pĕn p̄hū̂ pras̄b chạychna"
+        },
+        {
+            "chapter": 30,
+            "verse": 39,
+            "text": "læa s̄ìng thī̀ phwk cêā c̀āy xxk pị cāk thrạphy̒s̄in (dxkbeī̂y) pheụ̄̀x h̄ı̂ mạn pheìmphūn nı thrạphy̒s̄in k̄hxng mnus̄ʹy̒ mạn ca mị̀ pheìmphūn ṇ thī̀ xạllxḥˌ læa s̄ìng thī̀ phwk cêā c̀āy pị cāk sa kāt doy phwk cêā prārt̄hnā phra phạktr̒ k̄hx ngxạllxḥˌ chn h̄el̀ā nận h̄æla phwk k̄heā khụ̄x p̄hū̂ dị̂ rạb kār txbthæn xỳāng thwīkhūṇ"
+        },
+        {
+            "chapter": 30,
+            "verse": 40,
+            "text": "xạllxḥ̒ khụ̄x p̄hū̂thrng s̄r̂āng phwk cêā læ̂w thrng h̄ı̂ pạccạy yạngchīph kæ̀ phwk cêā læ̂w thrng h̄ı̂ phwk cêā tāy læ̂w thrng h̄ı̂ phwk cêā pĕn ca mī p̄hū̂ dı b̂āng nı h̄mū̀ p̣hākhī k̄hxng phwk cêā krathả s̄ạk xỳāng h̄nụ̀ng cāk s̄ìng h̄el̀ā nận mh̄ā bris̄uthṭhi̒ dæ̀ phraxngkh̒ læa phraxngkh̒ thrng s̄ūngs̄̀ng cāk s̄ìng thī̀ phwk k̄heā tậng p̣hākhī"
+        },
+        {
+            "chapter": 30,
+            "verse": 41,
+            "text": "Kār b̀xnthảlāy dị̂ keid k̄hụ̂n thậng thāng bk læa thāng n̂ả neụ̄̀xngcāk s̄ìng thī̀ mụ̄x k̄hxng mnus̄ʹy̒ dị̂ k̄hwnk̄hwāy wị̂ pheụ̄̀x thī̀ phraxngkh̒ ca h̄ı̂ phwk k̄heā lîm rs̄ bāng s̄̀wn thī̀ phwk k̄heā prakxb wị̂ doythī̀ h̄wạng ca h̄ı̂ phwk k̄heā klạbneụ̄̂xklạbtạw"
+        },
+        {
+            "chapter": 30,
+            "verse": 42,
+            "text": "cng kl̀āw t̄heid muḥạmmạd phwk cêā cng th̀xngtheī̀yw pị tām p̄hæ̀ndin læ̂w cng phicārṇā dū ẁā bậnplāy k̄hxng klùm chn nı xdīt pĕn chèn rị s̄̀wn māk k̄hxng phwk k̄heā pĕn p̄hū̂ tậng p̣hākhī"
+        },
+        {
+            "chapter": 30,
+            "verse": 43,
+            "text": "dạngnận cng mùng h̄n̂ā k̄hxng cêā pheụ̄̀x ṣ̄ās̄nā xạn theī̀yngṭhrrm k̀xn thī̀ wạn h̄nụ̀ng k̄hx ngxạllxḥˌ ca mā t̄hụng sụ̀ng mị̀mī thāng h̄līk leī̀yng dị̂ wạn nận phwk k̄heā ca tækyæk kạn (pĕn s̄xng f̄̀āy)"
+        },
+        {
+            "chapter": 30,
+            "verse": 44,
+            "text": "p̄hū̂ dı pt̩is̄eṭh ṣ̄rạthṭhā kār pt̩is̄eṭh ṣ̄rạthṭhā k̆ tk xyū̀ kạb k̄heā læa p̄hū̂ dı krathả khwām dī phwk k̄heā k̆ terīym thī̀phạk wị̂ s̄ảh̄rạb tạw k̄hxng phwk k̄heā xeng"
+        },
+        {
+            "chapter": 30,
+            "verse": 45,
+            "text": "pheụ̄̀x thī̀ phraxngkh̒ ca thrng txbthæn brrdā p̄hū̂ ṣ̄rạthṭhā læa krathả khwām dī thậngh̄lāy d̂wy khwām dī k̄hxng phraxngkh̒ thæ̂cring phraxngkh̒ mị̀ thrng chxb phwk pt̩is̄eṭh ṣ̄rạthṭhā"
+        },
+        {
+            "chapter": 30,
+            "verse": 46,
+            "text": "læa h̄nụ̀ng cāk s̄ạỵỵāṇ thậngh̄lāy k̄hxng phraxngkh̒ khụ̄x phraxngkh̒ thrng s̄̀ng lm pĕnkār cæ̂ng k̄h̀āwdī thậngh̄lāy læa pheụ̄̀x phraxngkh̒ ca thrng h̄ı̂ phwk cêā dị̂ lîm rs̄ khwām mettā k̄hxng phraxngkh̒ læa pheụ̄̀x reụ̄x dein thale ca dị̂ læ̀n pị doy phra bạỵchā k̄hxng phraxngkh̒ læa pheụ̄̀x phwk cêā ca dị̂ s̄æwngh̄ā cāk khwām pordprān k̄hxng phraxngkh̒ læa pheụ̄̀x phwk cêā ca dị̂ k̄hxbkhuṇ"
+        },
+        {
+            "chapter": 30,
+            "verse": 47,
+            "text": "læa doy næ̀nxn reā dị̂ s̄̀ng brrdā rx sū l k̀xn h̄n̂ā cêā pị yạng h̄mū̀ chn k̄hxng phwk k̄heā læa k̄heā h̄el̀ā nận dị̂ nả h̄lạkṭ̄hān t̀āng «mā h̄ı̂ phwk k̄heā læ̂w dạngnận reā dị̂ txbthæn brrdā p̄hū̂ krathảkhwāmp̄hid xỳāng s̄ās̄m læa h̄n̂āthī̀ k̄hxng reā khụ̄x kār ch̀wyh̄elụ̄x brrdā p̄hū̂ ṣ̄rạthṭhā"
+        },
+        {
+            "chapter": 30,
+            "verse": 48,
+            "text": "xạllxḥ̒ thrng pĕn p̄hū̂ s̄̀ng lm thậngh̄lāy læ̂w mạn dị̂ rwm tạw kạn k̄hụ̂n pĕn meḳh læ̂w phraxngkh̒ thrng h̄ı̂ mạn p̄hæ̀ kracāy pị tām tĥxngf̂ā thèā thī̀ phraxngkh̒ thrng pras̄ngkh̒ læa phraxngkh̒ thrng thảh̄ı̂ mạn pĕnk lùm k̂xn læ̂w cêā ca h̄ĕn f̄n tklng mā cāk th̀āmklāng mạn meụ̄̀x mạn dị̂ tklng māyạng p̄hū̂ thī̀ phraxngkh̒ thrng pras̄ngkh̒ cāk pwng b̀āw k̄hxng phraxngkh̒ meụ̄̀x nận phwk k̄heā k̆ dīcı"
+        },
+        {
+            "chapter": 30,
+            "verse": 49,
+            "text": "Læa thậng «thī̀ phwk k̄heā k̀xn thī̀ f̄n ca tklng mā kæ̀ phwk k̄heā phwk k̄heā k̆ pĕn p̄hū̂ h̄md h̄wạng"
+        },
+        {
+            "chapter": 30,
+            "verse": 50,
+            "text": "dạngnận cêā cng phicārṇā dū r̀xngrxy h̄æ̀ng khwām mettā k̄hx ngxạllxḥ̒ ẁā phraxngkh̒ thrng h̄ı̂ p̄hæ̀ndin mī chīwitchīwā h̄lạngcāk khwām h̄æ̂nglæ̂ng k̄hxng mạn xỳāngrị thæ̂cring nı kār nận næ̀nxn phraxngkh̒ ỳxm pĕn p̄hū̂thrng h̄ı̂ mī chīwit kæ̀ khn thī̀ tāy pị læ̂w læa phraxngkh̒ nận pĕn p̄hū̂thrng xānup̣hāph h̄enụ̄x thuks̄ìngthukxỳāng"
+        },
+        {
+            "chapter": 30,
+            "verse": 51,
+            "text": "læa h̄āk reā dị̂ s̄̀ng lm pị læ̂w phwk k̄heā dị̂ h̄ĕn mạn (phụ̄ch p̄hl) pĕn s̄ī h̄elụ̄xng næ̀nxn phwk k̄heā ca klāy pĕn p̄hū̂ nerkhuṇ h̄lạngcāk nận"
+        },
+        {
+            "chapter": 30,
+            "verse": 52,
+            "text": "dạngnận thæ̂cring cêā ca mị̀ thảh̄ı̂ khn tāy dị̂yin læa cêā ca mị̀ thảh̄ı̂ khn h̄ū h̄nwk dị̂yin kār reīyk r̂xng dị̂ meụ̄̀x phwk k̄heā pĕn p̄hū̂ p̄hin h̄lạng klạb"
+        },
+        {
+            "chapter": 30,
+            "verse": 53,
+            "text": "læa cêā k̆ michı̀ p̄hū̂ chī̂nả thāng kæ̀ khn tābxd h̄lạngcāk kār h̄lng thāng k̄hxng phwk k̄heā cêā midị̂ thảh̄ı̂ p̄hū̂ dı dị̂yin nxkcāk p̄hū̂ ṣ̄rạthṭhā t̀x s̄ạỵỵāṇ thậngh̄lāy k̄hxng reā doythī̀ phwk k̄heā pĕn p̄hū̂ nxbn̂xm yxm cảnn"
+        },
+        {
+            "chapter": 30,
+            "verse": 54,
+            "text": "xạllxḥ̒ thrng pĕn p̄hū̂ s̄r̂āng phwk cêā nı s̄p̣hāph x̀xnxæ læ̂w h̄lạngcāk khwām x̀xnxæ phraxngkh̒ k̆ thrng thảh̄ı̂ mī khwām k̄hæ̆ngræng læ̂w h̄lạngcāk khwām k̄hæ̆ngræng thrng thảh̄ı̂ x̀xnxæ læa chrāp̣hāph phraxngkh̒ thrng s̄r̂āng s̄ìng thī̀ phraxngkh̒ thrng pras̄ngkh̒ læa phraxngkh̒ pĕn p̄hū̂thrng rxbrū̂ p̄hū̂thrng xānup̣hāph"
+        },
+        {
+            "chapter": 30,
+            "verse": 55,
+            "text": "læa meụ̄̀x wạn xws̄ān keid k̄hụ̂n p̄hū̂ krathả p̄hid thậngh̄lāy ca s̄ābān ẁā phwk k̄heā midị̂ phảnạk xyū̀ (nı lok dun yā) nxkcāk pheīyng chạ̀w khrū̀ chạ̀w yām thèānận chèn nận h̄æla phwk k̄heā t̄hūk h̄ı̂ h̄ạn xxk (cāk khwām cring s̄ū̀ khwām thĕc)"
+        },
+        {
+            "chapter": 30,
+            "verse": 56,
+            "text": "læa brrdā p̄hū̂ mī khwām rū̂ læa ṣ̄rạthṭhā kl̀āw (txbtô phwk k̄heā) ẁā “doy næ̀nxn phwk th̀ān dị̂ phảnạk xyū̀ tām kảh̄nd k̄hx ngxạllxḥˌ cnkrathạ̀ng wạn fụ̄̂n khụ̄nchīph dạngnận nī̀ khụ̄x wạn fụ̄̂n khụ̄nchīph tæ̀ phwk th̀ān mị̀ yxm cheụ̄̀x”"
+        },
+        {
+            "chapter": 30,
+            "verse": 57,
+            "text": "nı wạn nận kār kæ̂tạw k̄hxng phwk k̄heā ca mị̀ xảnwy prayochn̒ kæ̀ brrdā p̄hū̂ xṭhrrm læa phwk k̄heā ca mị̀ t̄hūk k̄hxr̂xng h̄ı̂ klạbneụ̄̂xklạbtạw"
+        },
+        {
+            "chapter": 30,
+            "verse": 58,
+            "text": "Læa doy næ̀nxn nı xạlkurxān nī̂ reā dị̂ yk xuthāh̄rṇ̒ wị̂ thuk xỳāng s̄ảh̄rạb mnus̄ʹy̒ læa h̄ākẁā cêā nả mā h̄ı̂ phwk k̄heā s̄ạỵỵāṇ h̄nụ̀ng næ̀nxn brrdā p̄hū̂ pt̩is̄eṭh ṣ̄rạthṭhā ca kl̀āw ẁā phwk th̀ān michı̀ khır xụ̄̀n nxkcāk pĕn p̄hū̂ h̄lxklwng"
+        },
+        {
+            "chapter": 30,
+            "verse": 59,
+            "text": "chèn nận h̄æla xạllxḥˌ thrng prathạbtrā bn h̄ạwcı k̄hxng brrdā p̄hū̂ mị̀ yxmrạb rū̂"
+        },
+        {
+            "chapter": 30,
+            "verse": 60,
+            "text": "cng xdthn (t̀x pị t̄heid muḥạmmạd) thæ̂cring s̄ạỵỵā k̄hx ngxạllxḥˌ nận pĕn cring s̄emx læa xỳā h̄ı̂ brrdā p̄hū̂ mị̀mī khwām cheụ̄̀x mạ̀n thảh̄ı̂ cêā kạngwl cı"
+        },
+        {
+            "chapter": 31,
+            "verse": 1,
+            "text": "xa lif lām mīm"
+        },
+        {
+            "chapter": 31,
+            "verse": 2,
+            "text": "h̄el̀ā nận khụ̄x brrdā xā yāt h̄æ̀ng khạmp̣hīr̒ thī̀ chạd cæ̂ng"
+        },
+        {
+            "chapter": 31,
+            "verse": 3,
+            "text": "(pheụ̄̀x) pĕn næwthāng thī̀ t̄hūk t̂xng læa pĕnkār mettā kæ̀ brrdā p̄hū̂ krathả khwām dī"
+        },
+        {
+            "chapter": 31,
+            "verse": 4,
+            "text": "(khụ̄x) brrdā p̄hū̂ dảrng kār lah̄mād læa bricākh sa kāt læa phwk k̄heā cheụ̄̀x mạ̀n t̀x wạn prlok"
+        },
+        {
+            "chapter": 31,
+            "verse": 5,
+            "text": "chn h̄el̀ā nận xyū̀ bn næwthāng thī̀ t̄hūk t̂xng cāk phracêā k̄hxng phwk k̄heā læa chn h̄el̀ā nận phwk k̄heā pĕn p̄hū̂ pras̄b khwām s̄ảrĕc"
+        },
+        {
+            "chapter": 31,
+            "verse": 6,
+            "text": "læa nı h̄mū̀ mnus̄ʹy̒ mī p̄hū̂ sụ̄̂x xeāreụ̄̀xng rị̂ s̄āra pheụ̄̀x thảh̄ı̂ k̄heā h̄lng pị cāk thāng k̄hx ngxạllxḥˌ doy prāṣ̄cāk khwām rū̂ læa t̄hụ̄x xeā mạn pĕn reụ̄̀xng k̄hbk̄hạn chn h̄el̀ā nī̂ phwk k̄heā ca dị̂ rạb kār lngthos̄ʹ xạn xạpyṣ̄"
+        },
+        {
+            "chapter": 31,
+            "verse": 7,
+            "text": "læa meụ̄̀x xā yāt thậngh̄lāy k̄hxng reā t̄hūk x̀ān h̄ı̂ kæ̀ k̄heā k̄heā k̆ p̄hinh̄lạngh̄ı̂ xỳāng cxngh̄xng prah̄nụ̀ng ẁā k̄heā mị̀ dị̂yin xā yā tnận«prah̄nụ̀ng ẁā nı h̄ū k̄hxng k̄heā nận h̄nwk dạngnận cng cæ̂ng k̄h̀āw kæ̀ k̄heā t̄hụng kār lngthos̄ʹ xạn cĕbpwd"
+        },
+        {
+            "chapter": 31,
+            "verse": 8,
+            "text": "thæ̂cring brrdā p̄hū̂ ṣ̄rạthṭhā læa krathả khwām dī thậngh̄lāy phwk k̄heā ca dị̂ rạb s̄wn s̄wrrkh̒ h̄lākh̄lāy xỳāng s̄uk̄h s̄ảrāỵ"
+        },
+        {
+            "chapter": 31,
+            "verse": 9,
+            "text": "phwk k̄heā pĕn p̄hū̂ phảnạk xyū̀ nı nận tlxd kāl s̄ạỵỵā k̄hx ngxạllxḥˌ nận pĕn cring læa phraxngkh̒ khụ̄x p̄hū̂thrng xảnāc p̄hū̂thrng prīchā ỵāṇ"
+        },
+        {
+            "chapter": 31,
+            "verse": 10,
+            "text": "phraxngkh̒ thrng s̄r̂āng chận f̂ā thậngh̄lāy doy prāṣ̄cāk s̄eā thī̀ phwk cêā ca mxng h̄ĕn mạn dị̂ læa thrng pạk theụ̄xkk̄heā wị̂ xỳāng mạ̀nkhng nı p̄hæ̀ndin pheụ̄̀x mi h̄ı̂ mạn s̄ạ̀n khlxn pị kạb phwk cêā læa thrng h̄ı̂ s̄ạtw̒ thuk chnid phær̀h̄lāy nı mạn (p̄hæ̀ndin) læa reā dị̂ h̄ı̂ n̂ả (f̄n) h̄lạ̀ng lng mā cāk fāk f̂ā læa reā dị̂ h̄ı̂ phụ̄ch thuk chnid ngxkngey xxk mā pĕn khū̀«xỳāng dī ngām"
+        },
+        {
+            "chapter": 31,
+            "verse": 11,
+            "text": "Nī̀ khụ̄x kār s̄r̂āng k̄hx ngxạllxḥˌ dạngnận phwk cêā cng s̄ædng h̄ı̂ k̄ĥā (xạllxḥˌ) h̄ĕn si ẁā xạn dı lèā thī̀ k̄heā h̄el̀ā nận dị̂ s̄r̂āng mạn k̄hụ̂n mā xụ̄̀n cāk phraxngkh̒ tæ̀ẁā brrdā p̄hū̂ xṭhrrm t̀āngh̄āk thī̀ xyū̀ nı kār h̄lng p̄hid xỳāng chạd cæ̂ng"
+        },
+        {
+            "chapter": 31,
+            "verse": 12,
+            "text": "læa doy næ̀nxn reā dị̂ h̄ı̂ ḥi kmaḥˌ kæ̀ luk mān ẁā cng k̄hxb phra khuṇ t̀x xạllxḥˌ læa p̄hū̂ dı k̄hxbkhuṇ thæ̂cring k̄heā k̆ k̄hxbkhuṇ tạw k̄hxng k̄heā xeng læa p̄hū̂ dı pt̩is̄eṭh thæ̂ cring xạllxḥˌ nận thrng phx pheīyng læa thrng dị̂ rạb kār s̄rrs̄eriỵ"
+        },
+        {
+            "chapter": 31,
+            "verse": 13,
+            "text": "læa cng rảlụk meụ̄̀x luk mān dị̂ kl̀āw kæ̀ butr k̄hxng k̄heā doy s̄ạ̀ngs̄xn k̄heā ẁā “xô lūk xěy cêā xỳā dị̂ tậng p̣hākhī dı «t̀x xạllxḥˌ pherāa thæ̂cring kār tậng p̣hākhī nận pĕn khwām p̄hid xỳāng mh̄ạnt̒ doy næ̀nxn”"
+        },
+        {
+            "chapter": 31,
+            "verse": 14,
+            "text": "læa reā dị̂ s̄ạ̀ng kār kæ̀ mnus̄ʹy̒ keī̀yw kạb bidā mārdā k̄hxng k̄heā doythī̀ mārdā k̄hxng k̄heā dị̂ xûm khrrp̣h̒ k̄heā x̀xnphelīy lng khrậng læ̂w khrậng lèā læa kār h̄ỳānm k̄hxng k̄heā nı raya welā s̄xng pī cêā cng k̄hxbkhuṇ k̄ĥā læa bidā mārdā k̄hxng cêā yạng reā nận khụ̄x kārk lạb pị"
+        },
+        {
+            "chapter": 31,
+            "verse": 15,
+            "text": "læa t̄ĥā k̄heā thậng s̄xng bạngkhạb cêā h̄ı̂ tậng p̣hākhī t̀x k̄ĥā doythī̀ cêā mị̀mī khwām rū̂ nı reụ̄̀xng nận cêā xỳā dị̂ cheụ̄̀xfạng pt̩ibạti tām k̄heā thậng s̄xng læa cng xdthn xyū̀ kạb k̄heā thậng s̄xng nı lok nī̂ d̂wy kār thảkhwām dī læa cng pt̩ibạti tām thāng k̄hxng p̄hū̂ thī̀ klạb pị s̄ū̀ k̄ĥā læa yạng reā nận t̄hụ̄x thāng klạb k̄hxng phwk cêā dạngnận k̄ĥā ca bxk kæ̀ phwk cêā nı s̄ìng thī̀ phwk cêā dị̂ krathả wị̂"
+        },
+        {
+            "chapter": 31,
+            "verse": 16,
+            "text": "“xô lūk xěy thæ̂cring (h̄ākẁākhwām p̄hid nận) mạn ca h̄nạk thèā mel̆d p̄hạk s̄ạk mel̆d h̄nụ̀ng mạn ca s̀xn xyū̀ nı h̄in h̄rụ̄x xyū̀ nı chận f̂ā thậngh̄lāy h̄rụ̄x xyū̀ nı p̄hæ̀ndin xạllxḥˌ k̆ ca thrng nả mạn xxk mā thæ̂cring xạllxḥˌ pĕn p̄hū̂thrng mettā p̄hū̂thrng rxbrū̂ yìng”"
+        },
+        {
+            "chapter": 31,
+            "verse": 17,
+            "text": "“xô lūk xěy cêā cng dảrng wị̂ sụ̀ng kār lah̄mād læa cng chı̂ kạn h̄ı̂ krathả khwām dī læa cng h̄̂āmprām kạn h̄ı̂ lawên kār thảkhwām chạ̀w læa cng xdthn t̀x s̄ìng thī̀ pras̄b kạb cêā thæ̂cring nạ̀n khụ̄x s̄̀wn h̄nụ̀ng cāk kickār thī̀ h̄nạknæ̀n mạ̀nkhng”"
+        },
+        {
+            "chapter": 31,
+            "verse": 18,
+            "text": "“Læa cêā xỳā h̄ạn kæ̂m (bıh̄n̂ā) k̄hxng cêā h̄ı̂ kæ̀ p̄hū̂khn xỳāng yas̄o læa xỳā dein pị tām p̄hæ̀ndin xỳāng rị̂ mrryāth thæ̂cring xạllxḥˌ mi thrng chxb thuk p̄hū̂ h̄yìng cxngh̄xng læa p̄hū̂ khuy wo xôxwd”"
+        },
+        {
+            "chapter": 31,
+            "verse": 19,
+            "text": "“læa cêā cng k̂āw thêā k̄hxng cêā phxpramāṇ læa cng ld s̄eīyng k̄hxng cêā lng thæ̂cring s̄eīyng thī̀ ǹā kelīyd yìng khụ̄x s̄eīyng (r̂xng) k̄hxng lā”"
+        },
+        {
+            "chapter": 31,
+            "verse": 20,
+            "text": "phwk cêā mi h̄ĕn dxk h̄rụ̄x ẁā thæ̂ cring xạllxḥˌ thrng xảnwy khwām s̄adwk h̄ı̂ kæ̀ phwk cêā s̄ìng thī̀ mī xyū̀ nı chận f̂ā thậngh̄lāy læa s̄ìng thī̀ mī xyū̀ nı p̄hæ̀ndin læa phraxngkh̒ dị̂ thrng prathān khwām pordprān māk h̄lāy k̄hxng phraxngkh̒ xỳāng khrbkhrạn kæ̀ phwk cêā thậng thī̀ peidp̄hey læa thī̀ s̀xn rên læa nı h̄mū̀ mnus̄ʹy̒ mī p̄hū̂ tôt̄heīyng nı reụ̄̀xng k̄hx ngxạllxḥˌ doy prāṣ̄cāk khwām rū̂ læa prāṣ̄cāk næwthāng thī̀ t̄hūk t̂xng læa prāṣ̄cāk khạmp̣hīr̒ thī̀ h̄ı̂ khwām s̄ẁāng(kæ̀ phwk k̄heā)"
+        },
+        {
+            "chapter": 31,
+            "verse": 21,
+            "text": "læa meụ̄̀x dị̂ mī kār kl̀āw kæ̀ phwk k̄heā ẁā cng pt̩ibạti tām s̄ìng thī̀ xạllxḥˌ thrng prathān lng mā phwk k̄heā kl̀āw ẁā tæ̀ reā ca pt̩ibạti tām s̄ìng thī̀ reā phb brrphburus̄ʹ k̄hxng reā pt̩ibạti nı reụ̄̀xng nận xarị kạn t̄hụng mæ̂ẁā chạy txn ca reīyk r̂xng phwk k̄heā s̄ū̀ kār lngthos̄ʹ thī̀ mī fị luk chon xyū̀ kranận h̄rụ̄x"
+        },
+        {
+            "chapter": 31,
+            "verse": 22,
+            "text": "læa p̄hū̂ dı yxm nxbn̂xm bıh̄n̂ā k̄hxng k̄heā yạng xạllxḥˌ doythī̀ k̄heā pĕn p̄hū̂ krathả dī næ̀nxn k̄heā dị̂ yụd h̄̀wng xạn mạ̀nkhng wị̂ læ̂w læa bậnplāy k̄hxng kickār thậngh̄lāy ỳxm klạb pị h̄ā xạllxḥˌ"
+        },
+        {
+            "chapter": 31,
+            "verse": 23,
+            "text": "læa p̄hū̂ dı pt̩is̄eṭh ṣ̄rạthṭhā k̆ xỳā h̄ı̂kār pt̩is̄eṭh ṣ̄rạthṭhā k̄hxng k̄heā thảh̄ı̂ cêā ṣ̄er̂ā ṣ̄ok s̄eīycı læa yạng reā nận khụ̄x thāng klạb k̄hxng phwk k̄heā dạngnận reā ca bxk kæ̀ phwk k̄heā nı s̄ìng thī̀ phwk k̄heā dị̂ krathả wị̂ thæ̂cring xạllxḥˌ nận pĕn p̄hū̂thrng rxbrū̂ s̄ìng thī̀ xyū̀ nı thrwngxk"
+        },
+        {
+            "chapter": 31,
+            "verse": 24,
+            "text": "reā ca h̄ı̂ welā phwk k̄heā s̄nuks̄nān kạn pheīyng lĕkn̂xy læ̂w reā ca lị̀ t̂xn phwk k̄heā s̄ū̀ kār lngthos̄ʹ thī̀ runræng"
+        },
+        {
+            "chapter": 31,
+            "verse": 25,
+            "text": "læa t̄ĥā cêā t̄hām phwk k̄heā khır pĕn p̄hū̂ s̄r̂āng chận f̂ā thậngh̄lāy læa p̄hæ̀ndin næ̀nxn phwk k̄heā ca kl̀āw ẁā xạllxḥˌ cng kl̀āw t̄heid (muḥạmmạd) “brrdā kār s̄rrs̄eriỵ pĕn k̄hx ngxạllxḥˌ” tæ̀thẁā s̄̀wn māk k̄hxng phwk k̄heā mị̀rū̂"
+        },
+        {
+            "chapter": 31,
+            "verse": 26,
+            "text": "S̄ìng thī̀ xyū̀ nı chận f̂ā thậngh̄lāy læa p̄hæ̀ndin pĕn s̄ithṭhi k̄hx ngxạllxḥˌ thæ̂ cring xạllxḥˌ nận khụ̄x p̄hū̂thrng phx pheīyng cāk s̄ìng thậngh̄lāy p̄hū̂thrng dị̂ rạb kār s̄rrs̄eriỵ"
+        },
+        {
+            "chapter": 31,
+            "verse": 27,
+            "text": "læa h̄ākẁā t̂nmị̂ thậngh̄md thī̀ mī xyū̀ nı p̄hæ̀ndin pĕn pākkā h̄lāy «d̂ām læa mh̄ās̄muthr (pĕn n̂ả h̄mụk) mī s̄ảrxng wị̂ xīk cĕd mh̄ās̄muthr k̄hx ngxạllxḥˌ k̆ ca yạng mị̀ h̄md s̄în pị thæ̂ cring xạllxḥˌ pĕn p̄hū̂thrng xảnāc p̄hū̂thrng prīchā ỵāṇ"
+        },
+        {
+            "chapter": 31,
+            "verse": 28,
+            "text": "kār bạngkeid k̄hxng phwk cêā læa kār fụ̄̂n khụ̄nchīph k̄hxng phwk cêā michı̀ xụ̄̀n dı nxkcāk s̄emụ̄xn chīwit deīyw thæ̂cring xạllxḥˌ pĕn p̄hū̂thrng dị̂yin p̄hū̂thrng h̄ĕn"
+        },
+        {
+            "chapter": 31,
+            "verse": 29,
+            "text": "cêā mi h̄ĕn dxk h̄rụ̄x ẁā thæ̂ cring xạllxḥˌ thrng h̄ı̂ klāngkhụ̄n khābkeī̀yw k̄hêāpị nı welā klāngwạn læa thrng h̄ı̂ klāngwạn khābkeī̀yw k̄hêāpị nı welā klāngkhụ̄n læa thrng s̄r̂āng h̄ı̂ dwng xāthity̒ læa dwng cạnthr̒ (pĕn prayochn̒ kæ̀ mnus̄ʹy̒) thuk s̄ìng khocr pị tām wāra thī̀ kảh̄nd wị̂ læa thæ̂ cring xạllxḥˌ nận thrng rū̂ dī yìng nı s̄ìng thī̀ phwk cêā krathả"
+        },
+        {
+            "chapter": 31,
+            "verse": 30,
+            "text": "nạ̀n phe rāa ẁā xạllxḥˌ nận phraxngkh̒ khụ̄x p̄hū̂thrng s̄ạcca læa pherāaẁā s̄ìng thī̀ phwk k̄heā wingwxn k̄hx xụ̄̀n cāk phraxngkh̒ nận pĕn thĕc læa phe rāa ẁā xạllxḥˌ nận phraxngkh̒ pĕn p̄hū̂thrng s̄ūngs̄̀ng p̄hū̂thrng yìng h̄ıỵ̀"
+        },
+        {
+            "chapter": 31,
+            "verse": 31,
+            "text": "cêā mi h̄ĕn dxk h̄rụ̄x ẁā reụ̄x nận læ̀n pị tām tĥxng thale neụ̄̀xngd̂wy khwām pordprān k̄hx ngxạllxḥˌ pheụ̄̀x phraxngkh̒ ca h̄ı̂ phwk cêā dị̂ h̄ĕn s̄ạỵỵāṇ t̀āng «k̄hxng phraxngkh̒ thæ̂cring nı kār nận ỳxm pĕn s̄ạỵỵāṇ kæ̀ p̄hū̂ xdthn p̄hū̂ k̄hxbkhuṇ thuk khn"
+        },
+        {
+            "chapter": 31,
+            "verse": 32,
+            "text": "læa meụ̄̀x lūk khlụ̄̀n sạd mā th̀wm mid tạw phwk k̄heā khl̂āy f̄ā thī̀ khrxbkhlum phwk k̄heā k̆ wingwxn k̄hx t̀x xạllxḥˌ d̂wy khwām bris̄uthṭhi̒cı t̀x phraxngkh̒ khrận meụ̄̀x phraxngkh̒ dị̂ ch̀wy h̄ı̂ phwk k̄heā dị̂ k̄hụ̂n bk nı h̄mū̀ phwk k̄heā mī p̄hū̂ xyū̀ nı s̄āy klāng læa mị̀mī p̄hū̂ pt̩is̄eṭh s̄ạỵỵāṇ t̀āng «k̄hxng reā nxkcāk thuk p̄hū̂ thryṣ̄ p̄hū̂ nerkhuṇ"
+        },
+        {
+            "chapter": 31,
+            "verse": 33,
+            "text": "Xô mnus̄ʹy̒ xěy phwk cêā cng yảkerng phracêā k̄hxng phwk cêā t̄heid læa cng klạw wạn h̄nụ̀ng thī̀ ph̀x mị̀ xāc ca ch̀wy lūk k̄hxng k̄heā dị̂ læa lūk k̆ mị̀ xāc ca ch̀wy ph̀x k̄hxng k̄heā dị̂ tæ̀ xỳāng dı thæ̂cring s̄ạỵỵā k̄hx ngxạllxḥˌ nận pĕn khwām cring dạngnận xỳā h̄ı̂kār mī chīwit xyū̀ nı lok nī̂ l̀xlwng phwk cêā læa xỳā h̄ı̂ h̄ạwh̄n̂ā phwk l̀xlwng (chạy txn) mā h̄lxklwng phwk cêā keī̀yw kạb xạllxḥˌ pĕnxạnk̄hād"
+        },
+        {
+            "chapter": 31,
+            "verse": 34,
+            "text": "thæ̂ cring xạllxḥˌ nận khwām rū̂ h̄æ̀ng wạn xws̄ān mī xyū̀ ṇ thī̀ phraxngkh̒ læa phraxngkh̒ thrng prathān f̄n lng mā læa phraxngkh̒ thrng rxbrū̂ s̄ìng thī̀ xyū̀ nı mdlūk læa mị̀mī chīwit dı rū̂ s̄ìng thī̀ mạn ca h̄ā mā dị̂ nı wạn rùng k̄hụ̂n læa mị̀mī chīwit dı rū̂ ẁā ṇ p̄hæ̀ndin dı mạn ca tāy thæ̂ cring xạllxḥˌ nận pĕn p̄hū̂thrng rxbrū̂ xỳāng laxeīyd t̄hī̀t̄ĥwn"
+        },
+        {
+            "chapter": 32,
+            "verse": 1,
+            "text": "xa lif lām mīm"
+        },
+        {
+            "chapter": 32,
+            "verse": 2,
+            "text": "kār prathān lng mā k̄hxng khạmp̣hīr̒ nī̂ mị̀mī k̄ĥx s̄ngs̄ạy dı «nı nận cāk phracêā h̄æ̀ng s̄ākl lok"
+        },
+        {
+            "chapter": 32,
+            "verse": 3,
+            "text": "h̄rụ̄x phwk k̄heā kl̀āw ẁā “k̄heā (muḥạmmạd) dị̂ pận tæ̀ng khạmp̣hīr̒ nī̂ k̄hụ̂n mā” tæ̀ẁā khạmp̣hīr̒ nī̂ khụ̄x s̄ạcṭhrrm cāk phracêā k̄hxng cêā pheụ̄̀x cêā cạk dị̂ tạkteụ̄xn klùm chn h̄nụ̀ng thī̀ midị̂ mī p̄hū̂ tạkteụ̄xn khn dı māyạng phwk k̄heā k̀xn h̄n̂ā cêā h̄wạng ẁā phwk k̄heā ca dị̂ xyū̀ nı næwthāng thī̀ t̄hūk t̂xng"
+        },
+        {
+            "chapter": 32,
+            "verse": 4,
+            "text": "xạllxḥˌ khụ̄x p̄hū̂thrng s̄r̂āng chận f̂ā thậngh̄lāy læa p̄hæ̀ndin læa s̄ìng thī̀ xyū̀ nı rah̄ẁāng thậng s̄xng nı welā 6 wạn læ̂w phraxngkh̒ thrng s̄t̄hit xyū̀ bn bạllạngk̒ s̄ảh̄rạb phwk cêā nận mị̀mī p̄hū̂ khûmkhrxng læa p̄hū̂ ch̀wyh̄elụ̄x xụ̄̀n cāk phraxngkh̒ læ̂w phwk cêā midị̂ khır̀khrwỵ b̂āng dxk h̄rụ̄x"
+        },
+        {
+            "chapter": 32,
+            "verse": 5,
+            "text": "phraxngkh̒ thrng brih̄ār kickār cāk chận f̂ā s̄ū̀ p̄hæ̀ndin læ̂w mạn ca k̄hụ̂n pị s̄ū̀ phraxngkh̒ nı wạn h̄nụ̀ng sụ̀ng kảh̄nd k̄hxng mạn thèākạb h̄nụ̀ng phạnpī tām thī̀ phwk cêā nạb"
+        },
+        {
+            "chapter": 32,
+            "verse": 6,
+            "text": "nạ̀n khụ̄x phra p̄hū̂thrng rxbrū̂ s̄ìng rênlạb læa peidp̄hey pĕn p̄hū̂thrng xảnāc p̄hū̂thrng mettā s̄emx"
+        },
+        {
+            "chapter": 32,
+            "verse": 7,
+            "text": "p̄hū̂thrng thảh̄ı̂ thuk s̄ìng thī̀ phraxngkh̒ thrng s̄r̂āng mạn h̄ı̂ dī ngām læa phraxngkh̒ thrng reìm kār s̄r̂āng mnus̄ʹy̒ cāk din"
+        },
+        {
+            "chapter": 32,
+            "verse": 8,
+            "text": "læ̂w thrng h̄ı̂kār s̄ụ̄b trakūl k̄hxng mnus̄ʹy̒ mā cāk n̂ả (xs̄uci) xạn rị̂ kh̀ā"
+        },
+        {
+            "chapter": 32,
+            "verse": 9,
+            "text": "Læ̂w thrng thảh̄ı̂ k̄heā mī s̄ạds̄̀wn thī̀ s̄mbūrṇ̒ læa thrng pèā rūh̄ˌ (wiỵỵāṇ) k̄hxng phraxngkh̒ k̄hêāpị nı k̄heā læa thrng h̄ı̂ phwk cêā dị̂yin læa dị̂ h̄ĕn læa h̄ı̂ mī citcı (s̄tipạỵỵā) s̄̀wn n̂xy thèānận thī̀ phwk cêā k̄hxbkhuṇ"
+        },
+        {
+            "chapter": 32,
+            "verse": 10,
+            "text": "læa phwk k̄heā kl̀āw kạn ẁā meụ̄̀x reā dị̂ s̄lāy tạw lng s̄ū̀ tı̂ p̄hụ̄n p̄hæ̀ndin pị læ̂w reā ca keid k̄hụ̂n mā h̄ım̀ kranận h̄rụ̄x tæ̀ phwk k̄heā pt̩is̄eṭh t̀x kār phbphra cêāk̄hxng phwk k̄heā"
+        },
+        {
+            "chapter": 32,
+            "verse": 11,
+            "text": "cng kl̀āw t̄heid muḥạmmạd ma lạk p̄hū̂ plid chīwit p̄hū̂ dị̂ rạb mxbh̄māy keī̀yw kạb phwk th̀ān ca plid chīwit k̄hxng phwk th̀ān læ̂w phwk th̀ān ca t̄hūk nả klạb pị yạng phracêā k̄hxng phwk th̀ān"
+        },
+        {
+            "chapter": 32,
+            "verse": 12,
+            "text": "læa t̄ĥā cêā dị̂ h̄ĕn meụ̄̀x p̄hū̂ krathả p̄hid thậngh̄lāy k̂m ṣ̄īrs̄ʹa k̄hxng phwk k̄heā lng ṇ thī̀ phracêā k̄hxng phwk k̄heā (phlāng kl̀āw ẁā) k̄ĥā tæ̀ phracêā k̄hxng reā reā dị̂ h̄ĕn læ̂w reā dị̂yin læ̂w k̄hx dị̂ thrng pord s̄̀ng reā klạb pị (yạng lok dun yā) pheụ̄̀x reā ca dị̂ krathả khwām dī thæ̂cring reā pĕn p̄hū̂ mī khwām cheụ̄̀x mạ̀n læ̂w (ṇ bạdnī̂)"
+        },
+        {
+            "chapter": 32,
+            "verse": 13,
+            "text": "læa t̄ĥā reā pras̄ngkh̒ næ̀nxn reā ca thảh̄ı̂ thuk chīwit s̄ū̀ næwthāng thī̀ t̄hūk t̂xng k̄hxng mạn tæ̀ẁā khả s̄ạỵỵā k̄hxng k̄ĥā ca t̂xng s̄mcring næ̀nxn k̄ĥā ca h̄ı̂ nrk tĕm pị d̂wy ỵin læa mnus̄ʹy̒ rwm thậngh̄md"
+        },
+        {
+            "chapter": 32,
+            "verse": 14,
+            "text": "dạngnận phwk cêā (chāw nrk) cng lîm rs̄ t̄heid neụ̄̀xngd̂wy phwk cêā dị̂ lụ̄m kār chumnum kạn nı wạn nī̂ k̄hxng phwk cêā thæ̂cring reā k̆ lụ̄m phwk cêā d̂wy læa phwk cêā cng lîm rs̄ kār lngthos̄ʹ xỳāng tlxd kāl tām thī̀ phwk cêā dị̂ krathả wị̂ t̄heid"
+        },
+        {
+            "chapter": 32,
+            "verse": 15,
+            "text": "thæ̂cring brrdā p̄hū̂ ṣ̄rạthṭhā t̀x xā yāt thậngh̄lāy k̄hxng reā thèānận thī̀ meụ̄̀x phwk k̄heā t̄hūk teụ̄xn h̄ı̂ rảlụk t̄hụng xā yāt phwk k̄heā (k̆ca) k̂m lng s̄uỵū d læa s̄dudī s̄rrs̄eriỵ dæ̀ phra ĉā k̄hxng phwk k̄heā doythī̀ phwk k̄heā mị̀ h̄yìng p̄hyxng"
+        },
+        {
+            "chapter": 32,
+            "verse": 16,
+            "text": "s̄īk̄ĥāng k̄hxng phwk k̄heā khelụ̄̀xn h̄̀āng cāk thī̀nxn phlāng wingwxn t̀x phracêā k̄hxng phwk k̄heā d̂wy khwām klạw læa khwām h̄wạng læa phwk k̄heā bricākh s̄ìng thī̀ reā dị̂ h̄ı̂ pĕn kherụ̄̀xng yạngchīph kæ̀ phwk k̄heā"
+        },
+        {
+            "chapter": 32,
+            "verse": 17,
+            "text": "dạngnận cụng mị̀mī chīwit dı rū̂ s̄ìng thī̀ t̄hūk s̀xn wị̂ s̄ảh̄rạb phwk k̄heā h̄ı̂ pĕn thī̀ rụ̄̀nrmy̒ kæ̀ s̄āytā pĕnkār txbthæn nı s̄ìng thī̀ phwk k̄heā dị̂ krathả wị̂"
+        },
+        {
+            "chapter": 32,
+            "verse": 18,
+            "text": "Dạngnận p̄hū̂ ṣ̄rạthṭhā ca h̄emụ̄xnkạb khn chạ̀wcĥā kranận h̄rụ̄x? Phwk k̄heā ỳxm mị̀ thèātheīym kạn næ̀ «"
+        },
+        {
+            "chapter": 32,
+            "verse": 19,
+            "text": "s̄̀wn brrdā p̄hū̂ ṣ̄rạthṭhā læa krathả khwām dī thậngh̄lāy nận s̄ảh̄rạb phwk k̄heā khụ̄x s̄wn s̄wrrkh̒ h̄lākh̄lāy pĕn thī̀ phảnạk terīym wị̂ tām thī̀ phwk k̄heā dị̂ krathả wị̂"
+        },
+        {
+            "chapter": 32,
+            "verse": 20,
+            "text": "læa s̄̀wn brrdā p̄hū̂ chạ̀wcĥā nận thī̀ phảnạk k̄hxng phwk k̄heā khụ̄x fị nrk khrā dı thī̀ phwk k̄heā t̂xngkār ca xxk pị cāk mạn phwk k̄heā ca t̄hūk bạngkhạb h̄ı̂ k̄hêāpị nı nận xīk læa ca mīs̄eīyng kl̀āw kæ̀ phwk k̄heā ẁā “cng lîm rs̄ kār lngthos̄ʹ k̄hxng fị nrk sụ̀ng phwk th̀ān khey pt̩is̄eṭh mị̀ cheụ̄̀x mạn”"
+        },
+        {
+            "chapter": 32,
+            "verse": 21,
+            "text": "læa næ̀nxn reā ca h̄ı̂ phwk k̄heā dị̂ lîm rs̄ kār lngthos̄ʹ xạn kıl̂ (nı lok nī̂) k̀xn kār lngthos̄ʹ xạn yìng h̄ıỵ̀ (nı prlok) pheụ̄̀x ẁā phwk k̄heā ca klạb mā s̄ảnụk p̄hid"
+        },
+        {
+            "chapter": 32,
+            "verse": 22,
+            "text": "læa p̄hū̂ dı lèā ca xṭhrrm yìng pị kẁā p̄hū̂ t̄hūk teụ̄xn h̄ı̂ rảlụk t̄hụng xā yāt thậngh̄lāy k̄hxng phracêā k̄hxng k̄heā læ̂w k̄heā k̆ p̄hinh̄lạngh̄ı̂ kạb xā yāt h̄el̀ā nận thæ̂cring reā pĕn p̄hū̂ cxng wer brrdā p̄hū̂ krathả p̄hid"
+        },
+        {
+            "chapter": 32,
+            "verse": 23,
+            "text": "læa doy næ̀nxn reā dị̂ h̄ı̂ khạmp̣hīr̒ kæ̀ mū sā dạngnận cêā (muḥạmmạd) xỳā xyū̀ nı kār s̄ngs̄ạy t̀x kār phb mạn læa reā dị̂ thảh̄ı̂ mạn (khạmp̣hīr̒ xạt-teā rxḥˌ) pĕn næwthāng thī̀ t̄hūk t̂xng kæ̀ wngṣ̄̒wān k̄hxng xis̄ rx xīl"
+        },
+        {
+            "chapter": 32,
+            "verse": 24,
+            "text": "læa reā dị̂ cạd h̄ı̂ mī h̄ạwh̄n̂ā cāk phwk k̄heā pheụ̄̀x ca dị̂ chī̂næa næwthāng thī̀ t̄hūk t̂xng tām khả bạỵchā k̄hxng reā nı meụ̄̀x phwk k̄heā mī khwām xdthn læa phwk k̄heā cheụ̄̀x mạ̀n t̀x xā yāt thậngh̄lāy k̄hxng reā"
+        },
+        {
+            "chapter": 32,
+            "verse": 25,
+            "text": "thæ̂cring phracêā k̄hxng cêā phraxngkh̒ ca thrng tạds̄in rah̄ẁāng phwk k̄heā nı wạn ki yā maḥˌ nı s̄ìng thī̀ phwk k̄heā k̄hạdyæ̂ng kạn nı reụ̄̀xng nận"
+        },
+        {
+            "chapter": 32,
+            "verse": 26,
+            "text": "yạng mi pĕn thī̀ pracạks̄ʹ̒ chạd kæ̀ phwk k̄heā dxk h̄rụ̄x ẁā kī̀mākn̂xy læ̂w thī̀ reā dị̂ thảlāy prachāchāti k̀xn h̄n̂ā k̄hxng k̄heā pị h̄lāy chạ̀w ṣ̄twrrs̄ʹ doythī̀ phwk k̄heā (kuffā rmạk kaḥˌ) dị̂ pị phbh̄ĕn mā nı thī̀ phảnạk xāṣ̄ạy k̄hxng phwk k̄heā thæ̂cring nı kār nī̂ ỳxm pĕn s̄ạỵỵāṇ xỳāng māk h̄lāy læ̂w phwk k̄heā yạng mị̀ cheụ̄̀xfạng (khır̀khrwỵ) xīk h̄rụ̄x"
+        },
+        {
+            "chapter": 32,
+            "verse": 27,
+            "text": "Phwk k̄heā mị̀ h̄ĕn dxk h̄rụ̄x ẁā reā dị̂ h̄ı̂ n̂ả h̄ịl lng s̄ū̀ p̄hæ̀ndin thī̀ h̄æ̂nglæ̂ng læ̂w d̂wy mạn (n̂ả) reā dị̂ h̄ı̂ phụ̄ch p̄hlng xk ngey xxk mā pheụ̄̀x pṣ̄us̄ạtw̒ k̄hxng phwk k̄heā læa tạw k̄hxng phwk k̄heā xeng dị̂ kin cāk mạn læ̂w phwk k̄heā yạng mị̀ h̄ĕn xīk h̄rụ̄x"
+        },
+        {
+            "chapter": 32,
+            "verse": 28,
+            "text": "læa phwk k̄heā kl̀āw ẁā meụ̄̀x dı lèā chạychna nī̂ (ca keid k̄hụ̂n kæ̀ phwk th̀ān) h̄āk phwk th̀ān pĕn p̄hū̂ s̄ạty̒ cring"
+        },
+        {
+            "chapter": 32,
+            "verse": 29,
+            "text": "cng kl̀āw t̄heid(muḥạmmạd) wạn h̄æ̀ng chạychna nận kār ṣ̄rạthṭhā k̄hxng brrdā p̄hū̂ pt̩is̄eṭh ṣ̄rạthṭhā ca mị̀ xảnwy prayochn̒ kæ̀ phwk k̄heā ley læa phwk k̄heā k̆ ca mị̀ t̄hūk h̄ı̂ yụ̄d welā xxk pị"
+        },
+        {
+            "chapter": 32,
+            "verse": 30,
+            "text": "dạngnận cng p̄hin h̄lạng h̄̀āng xxk cāk phwk k̄heā s̄eīyt̄heid læa cng khxy dū thæ̂cring phwk k̄heā k̆ ca pĕn p̄hū̂ khxy dū"
+        },
+        {
+            "chapter": 33,
+            "verse": 1,
+            "text": "xô nbī cng yả ke rng xạllxḥˌ læa xỳā cheụ̄̀xfạng phwk pt̩is̄eṭh ṣ̄rạthṭhā læa phwk mu nā fikī n thæ̂ cring xạllxḥˌ nận pĕn p̄hū̂thrng rxbrū̂ p̄hū̂thrng prīchā ỵāṇ"
+        },
+        {
+            "chapter": 33,
+            "verse": 2,
+            "text": "læa cng pt̩ibạti tām s̄ìng thī̀ t̄hū kwa ḥī kæ̀ cêā cāk phracêā k̄hxng cêā thæ̂ cring xạllxḥˌ nận thrng rū̂ dī yìng nı s̄ìng thī̀ phwk cêā krathả"
+        },
+        {
+            "chapter": 33,
+            "verse": 3,
+            "text": "læa cng mxb khwām wị̂ wāng cı dæ̀ xạllxḥˌ læa phx pheīyng læ̂w thī̀ xạllxḥˌ pĕn p̄hū̂ khûmkhrxng"
+        },
+        {
+            "chapter": 33,
+            "verse": 4,
+            "text": "xạllxḥˌ midị̂ thrng thảh̄ı̂ chāy dı mī s̄xng h̄ạwcı nı thrwngxk k̄hxng k̄heā læa phraxngkh̒ midị̂ thrng thảh̄ı̂ p̣hriyā k̄hxng phwk cêā sụ̀ng phwk cêā h̄ỳā phwk ṭhex (d̂wy kār kl̀āw si ḥārˌ) ẁā pĕn mæ̀ k̄hxng phwk cêā læa phraxngkh̒ midị̂ thrng thảh̄ı̂ kār reīyk (lūkbuỵṭhrrm) k̄hxng phwk cêā ẁā pĕn lūk (thī̀thæ̂ cring) k̄hxng phwk cêā nạ̀n khụ̄x kār kl̀āw k̄hxng phwk cêā d̂wy pāk k̄hxng phwk cêā læa xạllxḥˌ nận trạs̄ s̄ạcca læa phraxngkh̒ thrng chī̂næa næwthāng thī̀ t̄hūk t̂xng"
+        },
+        {
+            "chapter": 33,
+            "verse": 5,
+            "text": "cng reīyk k̄heā h̄el̀ā nận tām (chụ̄̀x) ph̀x k̄hxng phwk k̄heā mạn pĕnkār theī̀yngṭhrrm kẁā ṇ thī̀ xạllxḥˌ h̄āk phwk cêā mị̀rū̂ cạk ph̀x (cring «) k̄hxng phwk k̄heā dạngnận phwk k̄heā k̆ khụ̄x phī̀n̂xng r̀wm nı ṣ̄ās̄nā k̄hxng phwk cêā læa p̄hū̂ kıl̂ chid k̄hxng phwk cêā læa mị̀ pĕn thī̀ ǹā tảh̄ni kæ̀ phwk cêā nı s̄ìng thī̀ phwk cêā p̄hid phlād nı reụ̄̀xng nận tæ̀ s̄ìng thī̀ citcı k̄hxng phwk cêā mī khwām mùngh̄māy t̀āngh̄āk læa xạllxḥˌ pĕn p̄hū̂thrng xp̣hạy p̄hū̂thrng mettā s̄emx"
+        },
+        {
+            "chapter": 33,
+            "verse": 6,
+            "text": "Nbī nận pĕn p̄hū̂ kıl̂ chid kạb brrdā p̄hū̂ ṣ̄rạthṭhā yìng kẁā tạw k̄hxng phwk k̄heā xeng læa brrdā p̣hriyā k̄hxng k̄heā (nbī) khụ̄x mārdā k̄hxng phwk k̄heā læa kherụ̄x ỵāti r̀wm s̄āyloh̄it bāng khnnı h̄mū̀ phwk k̄heā kıl̂ chid kạb xīk bāng khn yìng kẁā brrdā p̄hū̂ ṣ̄rạthṭhā læa brrdā p̄hū̂ xphyph nı bạỵỵ ti k̄hx ngxạllxḥˌ wên tæ̀ phwk cêā ca krathả khwām dī kæ̀ s̄h̄āy s̄nith k̄hxng phwk cêā nạ̀n dị̂ mī bạnthụk wị̂ læ̂w nı khạmp̣hīr̒"
+        },
+        {
+            "chapter": 33,
+            "verse": 7,
+            "text": "læa cng rảlụk t̄hụng k̄hṇa thī̀ reā dị̂ xeā khảmạ̀n s̄ạỵỵā k̄hxng phwk k̄heā cāk br rdā nbī læa cāk cêā læa cā knūh̄ˌ læa xi brxḥīm læa mū sā læa xi sā xi bnˌmạryạm læa reā dị̂ xeā khảmạ̀n s̄ạỵỵā xỳāng h̄nạknæ̀n cāk phwk k̄heā"
+        },
+        {
+            "chapter": 33,
+            "verse": 8,
+            "text": "pheụ̄̀x phraxngkh̒ ca thrng s̄xbt̄hām brrdā p̄hū̂ s̄ạty̒ cring keī̀yw kạb khwām s̄ạty̒ cring k̄hxng phwk k̄heā læa phraxngkh̒ thrng terīym kār lngthos̄ʹ xạn cĕbpwd wị̂ kæ̀ brrdā p̄hū̂ pt̩is̄eṭh ṣ̄rạthṭhā"
+        },
+        {
+            "chapter": 33,
+            "verse": 9,
+            "text": "xô brrdā p̄hū̂ ṣ̄rạthṭhā xěy cng rảlụk t̄hụng khwām pordprān k̄hx ngxạllxḥˌ thī̀ mī t̀x phwk cêā k̄hṇa thī̀ kxngthạph k̄ĥāṣ̄ụk k̄hêā mā rukrān phwk cêā læ̂w reā dị̂ s̄̀ng lm phāyu phạd s̄ı̀ phwk k̄heā læa kảlạng thh̄ār thī̀ phwk cêā mxng mị̀ h̄ĕn læa xạllxḥˌ thrng h̄ĕn s̄ìng thī̀ phwk cêā krathả"
+        },
+        {
+            "chapter": 33,
+            "verse": 10,
+            "text": "meụ̄̀x phwk k̄heā yk thạph māyạng phwk cêā thậng cāk thāng k̄ĥāng bn k̄hxng phwk cêā læa cāk thāng k̄ĥāng l̀āng k̄hxng phwk cêā læa meụ̄̀x nạyn̒tā dị̂ h̄elụ̄xk lān læa h̄ạwcı dị̂ mā cuk xyū̀ thī̀ lả khx læa phwk cêā nụkkhid kạn t̀āng «nānā keī̀yw kạb xạllxḥˌ"
+        },
+        {
+            "chapter": 33,
+            "verse": 11,
+            "text": "ṇ thī̀ nận k̄hṇa nận brrdā p̄hū̂ ṣ̄rạthṭhā dị̂ t̄hūk thdlxng læa phwk k̄heā t̄hūk thảh̄ı̂ khelụ̄̀xnh̄ịw s̄ạ̀n s̄atheụ̄xn xỳāng runræng"
+        },
+        {
+            "chapter": 33,
+            "verse": 12,
+            "text": "læa cng rảlụk t̄hụng meụ̄̀x phwk mu nā fikī n læa brrdā p̄hū̂ thī̀ h̄ạwcı k̄hxng phwk k̄heā mī rokh kl̀āw ẁā xạllxḥˌ læa rx sūl k̄hxng phraxngkh̒ midị̂ s̄ạỵỵā kæ̀ reā xỳāng dı nxkcāk kār h̄lxklwng thèānận"
+        },
+        {
+            "chapter": 33,
+            "verse": 13,
+            "text": "Læa cng rảlụk t̄hụng meụ̄̀x klùm h̄nụ̀ng cāk phwk k̄heā (mu nā fikī n) kl̀āw ẁā xô chāw yạs̄ʹ rib xěy mị̀mī thī̀ tậng mạ̀n s̄ảh̄rạb phwk th̀ān læ̂w (pheụ̄̀x t̀xs̄ū̂ kạb k̄ĥāṣ̄ụk) cng klạb pị s̄eīyt̄heid læa klùm h̄nụ̀ng cāk phwk k̄heā ca k̄hx xnuỵāt kạb th̀ān nbī ẁā b̂ān k̄hxng phwk reā mị̀mī xarị pkpid mị̀ mạ̀nkhng læa mạn midị̂ pĕn chèn nận phwk k̄heā midị̂ pras̄ngkh̒ s̄ìng dı nxkcāk kār h̄nī (cāk kār thả s̄ngkhrām)"
+        },
+        {
+            "chapter": 33,
+            "verse": 14,
+            "text": "læa t̄ĥā mī kār rukrān māyạng phwk k̄heā cāk rxb nxk meụ̄xng k̄hxng mạn læ̂w phwk k̄heā dị̂ t̄hūk plukpạ̀n h̄ı̂ k̀x khwām mị̀ s̄ngb næ̀nxn phwk k̄heā ca krathả thạnthī læa phwk k̄heā ca mị̀ lạngle mæ̂tæ̀ n̂xy"
+        },
+        {
+            "chapter": 33,
+            "verse": 15,
+            "text": "læa doy næ̀nxn phwk k̄heā dị̂ h̄ı̂ s̄ạỵỵā t̀x xạllxḥˌ mā k̀xn læ̂w ẁā phwk k̄heā ca mị̀ h̄ạn h̄lạng klạb læa s̄ạỵỵā k̄hx ngxạllxḥˌ nận ca t̄hūk s̄xbt̄hām"
+        },
+        {
+            "chapter": 33,
+            "verse": 16,
+            "text": "cng kl̀āw t̄heid muḥạmmạd ẁā kār h̄nī nận ca mị̀ xảnwy prayochn̒ xạn dı kæ̀ phwk th̀ān h̄āk phwk th̀ān (t̂xngkār) ca h̄nī cāk khwām tāy h̄rụ̄x kār rb rā ḳh̀ā fạn kạn læa meụ̄̀x nận phwk th̀ān ca mị̀ dị̂ rụ̄̀nreing kạn nxkcāk (nı) welā xạn lĕkn̂xy"
+        },
+        {
+            "chapter": 33,
+            "verse": 17,
+            "text": "cng kl̀āw t̄heid muḥạmmạd khır lèā ca pkp̂xng phwk th̀ān h̄ı̂ pĥn cā kxạllxḥˌ pị dị̂ h̄āk phraxngkh̒ thrng prārt̄hnā h̄ı̂ khwām s̄eīyh̄āy kæ̀ phwk th̀ān h̄rụ̄x h̄āk phraxngkh̒ thrng prārt̄hnā h̄ı̂ khwām mettā kæ̀ phwk th̀ān læa phwk k̄heā ca mị̀ phb khır xụ̄̀n cā kxạllxḥˌ pĕn p̄hū̂ khûmkhrxng læa pĕn p̄hū̂ ch̀wyh̄elụ̄x kæ̀ phwk k̄heā"
+        },
+        {
+            "chapter": 33,
+            "verse": 18,
+            "text": "næ̀nxn xạllxḥˌ thrng rū̂ brrdā p̄hū̂ k̄hạdk̄hwāng nı h̄mū̀ phwk cêā læa p̄hū̂ thī̀ kl̀āw kæ̀ phī̀n̂xng k̄hxng phwk k̄heā ẁā mā h̄ā phwk reā thāng nī̂ læa phwk k̄heā ca mị̀ mā r̀wm kạn t̀xt̂ān k̄ĥāṣ̄ụk nxkcāk cảnwn lĕkn̂xy"
+        },
+        {
+            "chapter": 33,
+            "verse": 19,
+            "text": "Pĕn khn trah̄nī̀ kạb phwk cêā khrận meụ̄̀x khwām klạw (xạntrāy) prākt̩ k̄hụ̂n cêā ca h̄ĕn phwk k̄heā ĉxng mxng pị yạng cêā s̄āytā k̄hxng phwk k̄heā kelụ̄xkklîng s̄emụ̄xn p̄hū̂ mī xākār r̀xræ̀ kıl̂ ca tāy t̀x meụ̄̀x khwām klạw (xạntrāy) dị̂ p̄h̀ān pĥn pị læ̂w phwk k̄heā k̆ phūdcā t̄hākt̄hāng phwk cêā d̂wy s̄ảnwn thī̀ p̄hĕdr̂xn pĕn khn trah̄nī̀ nı reụ̄̀xng thrạphy̒s̄in (k̄hxng thī̀ yụd mā dị̂ cāk kār thả s̄ngkhrām) chn h̄el̀ā nận phwk k̄heā midị̂ ṣ̄rạthṭhā xạllxḥˌ cụng thrng h̄ı̂kār ngān k̄hxng phwk k̄heā mị̀ bạngkeid p̄hl læa nạ̀n pĕn reụ̄̀xng ng̀āy dāy kæ̀ xạllxḥˌ"
+        },
+        {
+            "chapter": 33,
+            "verse": 20,
+            "text": "phwk k̄heā khid ẁā phwk phrrkh t̀āng «h̄el̀ā nận yạng midị̂ t̄hxy klạb xxk pị læa h̄ākẁā phwk phrrkh t̀āng «h̄el̀ā nận h̄wn klạb mā xīk phwk mu nā fikī nk̆ khād h̄wạng kạn ẁā h̄āk phwk k̄heā dị̂ pị xyū̀ r̀wm kạb xāh̄rạb chnbth pheụ̄̀x khxy s̄ụ̄bs̄eāa h̄ā k̄h̀āw k̄hxng phwk cêā læa h̄ākẁā phwk k̄heā dị̂ xyū̀ r̀wm kạb phwk cêā phwk k̄heā k̆ ca mị̀ t̀xs̄ū̂ wêntæ̀ pheīyng lĕkn̂xy thèānận"
+        },
+        {
+            "chapter": 33,
+            "verse": 21,
+            "text": "doy næ̀nxn nı rx sūl k̄hx ngxạllxḥˌ mī bæbc̄hbạb xạn dī ngām s̄ảh̄rạb phwk cêā læ̂w s̄ảh̄rạb p̄hū̂ thī̀ h̄wạng (caphb) xạllxḥˌ læa wạn prlok læa rả lụk t̄hụng xạllxḥˌ xỳāng māk"
+        },
+        {
+            "chapter": 33,
+            "verse": 22,
+            "text": "læa meụ̄̀x brrdā p̄hū̂ ṣ̄rạthṭhā dị̂ h̄ĕn phrrkh t̀āng «h̄el̀ā nận phwk k̄heā (muxˌ min) dị̂ kl̀āw ẁā nī̀ khụ̄x s̄ìng thī̀ xạllxḥˌ læa rx sūl k̄hxng phraxngkh̒ dị̂ s̄ạỵỵā wị̂ kæ̀ reā læa xạllxḥˌ læa rx sūl k̄hxng phraxngkh̒ trạs̄ wị̂ cring læ̂w læa mạn midị̂ pheìm s̄ìng dı h̄ı̂ kæ̀ phwk k̄heā nxkcāk kār ṣ̄rạthṭhā læa kār nxbn̂xm"
+        },
+        {
+            "chapter": 33,
+            "verse": 23,
+            "text": "nı h̄mū̀ p̄hū̂ ṣ̄rạthṭhā mī burus̄ʹ p̄hū̂ mī s̄ạcca t̀x s̄ìng thī̀ phwk k̄heā dị̂ s̄ạỵỵā t̀x xạllxḥˌ xeā wị̂ dạngnận nı h̄mū̀ phwk k̄heā mī p̄hū̂ pt̩ibạti tām s̄ạỵỵā k̄hxng k̄heā læa nı h̄mū̀ phwk k̄heā mī p̄hū̂ thī̀ yạng khxy (kār tāy cha ḥīd) læa phwk k̄heā midị̂ pelī̀ynpælng tæ̀ xỳāng dı"
+        },
+        {
+            "chapter": 33,
+            "verse": 24,
+            "text": "pheụ̄̀x xạllxḥˌ ca dị̂ thrng txbthæn brrdā p̄hū̂ mī s̄ạcca nı khwām s̄ạc cring k̄hxng phwk k̄heā læa ca thrng lngthos̄ʹ phwk mu nā fikī n h̄āk phraxngkh̒ thrng pras̄ngkh̒ h̄rụ̄x ca thrng xp̣hạythos̄ʹ h̄ı̂ kæ̀ phwk k̄heā thæ̂ cring xạllxḥˌ nận pĕn p̄hū̂thrng xp̣hạy p̄hū̂thrng mettā s̄emx"
+        },
+        {
+            "chapter": 33,
+            "verse": 25,
+            "text": "Læa xạllxḥˌ thrng h̄ı̂ phwk pt̩is̄eṭh ṣ̄rạthṭhā t̄hxythạph klạb d̂wy khwām kheīydkhæ̂n k̄hxng phwk k̄heā doythī̀ phwk k̄heā midị̂ pras̄b khwām dī tæ̀ xỳāng dı læa xạllxḥˌ thrng phx pheīyng læ̂w kæ̀ brrdā p̄hū̂ ṣ̄rạthṭhā nı kār s̄ū̂ rb læa xạllxḥˌ pĕn p̄hū̂thrng phlạng p̄hū̂thrng xảnāc xỳāng h̄elụ̄xh̄lāy"
+        },
+        {
+            "chapter": 33,
+            "verse": 26,
+            "text": "læa phraxngkh̒ thrng h̄ı̂ phwk xaḥˌ lu lki tāb (yiw ḱk ba nī ku r̆xy seāa ḥˌ) thī̀ dị̂ ch̀wyh̄elụ̄x phwk k̄heā (phwk mu chrikīn) lng mā cāk p̂xm thī̀ mạ̀n k̄hxng phwk k̄heā læa thrng brrcu khwām h̄wād klạw wị̂ nı citcı k̄hxng phwk k̄heā s̄̀wn h̄nụ̀ng phwk cêā prah̄ārchīwit (phwk k̄heā) læa xīk s̄̀wn h̄nụ̀ng phwk cêā cạb pĕn chely"
+        },
+        {
+            "chapter": 33,
+            "verse": 27,
+            "text": "læa phraxngkh̒ dị̂ thrng h̄ı̂ phwk cêā dị̂ rạb mrdk pkkhrxng p̄hæ̀ndin k̄hxng phwk k̄heā læa thī̀ xyū̀ xāṣ̄ạy k̄hxng phwk k̄heā læa thrạphy̒s̄in k̄hxng phwk k̄heā læa p̄hæ̀ndin thī̀ phwk cêā yạng mi khey h̄eyīyb ỳāng k̄hêāpị læa xạllxḥˌ pĕn p̄hū̂thrng xānup̣hāph h̄enụ̄x thuk s̄ìng"
+        },
+        {
+            "chapter": 33,
+            "verse": 28,
+            "text": "xô nbī xěy cng kl̀āw kæ̀ brrdā p̣hriyā k̄hxng cêā t̄heid ẁā h̄āk phwk ṭhex prārt̄hnā kār mī chīwit nı lok nī̂ læa khwām pheriṣ̄phær̂w k̄hxng mạn k̆ cng mā t̄heid c̄hạn ca cạdh̄ā (kār leī̂yng chīph) h̄ı̂ kæ̀ phwk ṭhex læa ca pl̀xy phwk ṭhex h̄ı̂ xxk pị xỳāng dī ngām"
+        },
+        {
+            "chapter": 33,
+            "verse": 29,
+            "text": "læa h̄āk phwk ṭhex prārt̄h nā xạllxḥˌ læa rx sūl k̄hxng phraxngkh̒ læa lok xā khi reāa ḥˌ læ̂w thæ̂ cring xạllxḥˌ dị̂ terīym p̄hl buỵ xạn h̄ıỵ̀ h̄lwng kæ̀ h̄el̀ā s̄trī p̄hū̂ krathả khwām dī nı h̄mū̀ phwk ṭhex"
+        },
+        {
+            "chapter": 33,
+            "verse": 30,
+            "text": "xô brrdā p̣hriyā k̄hxng nbī xěy p̄hū̂ dı nı h̄mū̀ phwk ṭhex nả khwām chạ̀w xỳāng chạd cæ̂ng mā kār lngthos̄ʹ ca t̄hūk pheìm h̄ı̂ kæ̀ nāng pĕn s̄xng thèā nı kār nận pĕnkār ng̀āy dāy kæ̀ xạllxḥˌ"
+        }
+    ]
+}

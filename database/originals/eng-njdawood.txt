@@ -4787,7 +4787,7 @@
 53|3|He does not speak out of his own fancy
 53|4|This is a revelation inspired
 53|5|He is taught by one who is powerful and mighty.²
-53|6|
+53|6|One of soundness. And he rose to [his] true form
 53|7|He stood on the uppermost horizon
 53|8|then, drawing near
 53|9|he came down within two bows‘ length or even closer
@@ -5006,11 +5006,11 @@
 56|27|Those on the right hand ― happy shall be those on the right hand
 56|28|They shall recline on couches raised on high in the shade of thornless sidrs
 56|29|and clusters of talh;¹
-56|30|
+56|30|And shade extended
 56|31|amidst gushing waters
 56|32|and abundant fruits
 56|33|never-ending, unforbidden
-56|34|
+56|34|And [upon] beds raised high
 56|35|We created the houris
 56|36|and made them virgins
 56|37|loving companions
@@ -5060,7 +5060,7 @@
 56|81|Would you scorn a Scripture such as this
 56|82|and earn your daily bread denying it
 56|83|When under your very eyes a dying man‘s soul leaps up to his throat
-56|84|
+56|84|And you are at that time looking on
 56|85|We are nearer to him than you, although you cannot see
 56|86|why do you not restore it, if you are not to be judged hereafter
 56|87|If what you say be true
@@ -5720,7 +5720,7 @@
 79|8|hearts shall on that day be filled with terror
 79|9|and eyes shall stare with awe
 79|10|They say: ‘When we are turned to hollow bones, shall we be restored to life?‘
-79|11|
+79|11|Even if we should be decayed bones
 79|12|And they say: ‘So it is a fruitless transformation!‘
 79|13|But with one blast
 79|14|they shall return to the earth‘s surface
@@ -5771,7 +5771,7 @@
 80|13|It is set down on honoured pages
 80|14|exalted and purified
 80|15|by the hands of devout and gracious scribes
-80|16|
+80|16|Noble and dutiful
 80|17|Let man perish! How ungrateful he is
 80|18|From what did He create him
 80|19|From a little germ He created him and gave him due proportion
@@ -6075,7 +6075,7 @@
 92|17|But the good man who keeps himself pure by almsgiving shall keep away from it
 92|18|and so shall he that does good works
 92|19|for the sake of his Lord the Most High only, seeking no recompense
-92|20|
+92|20|But only seeking the countenance of his Lord, Most High
 92|21|He will surely be well pleased
 93|1|BY THE light of day
 93|2|and by the night when she spreads her darkness
@@ -6240,7 +6240,7 @@
     "language": "English",
     "direction": "ltr",
     "source": "",
-    "comments": "The Author is a non-muslim",
+    "comments": "The Author is of non-muslim faith",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-njdawood.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-njdawood.min.json"
 }

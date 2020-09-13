@@ -4889,7 +4889,7 @@
 54|43|A mos vallë mohuesit tuaj (Mekkasit) janë më të mirë se ata (që u përmendën), apo ju keni ndonjë dekret në librat e shpallur
 54|44|Apo, ata thonë: “Ne jemi grup i pathyeshëm!”
 54|45|Së shpejti do të thyhet grupi dhe me të vërtetë, mëkatarët do të jenë të humbur dhe në zjarr (në jetën tjetër) është më i tmerrshëm dhe më i idhët (se dënimi në këtë botë)
-54|46|
+54|46|Ndërkaq afati i tyre është Dita e kijametit, por Dita e kijametit është e rëndë dhe e hidhur
 54|47|Me të vërtetë, mëkatarët do të jenë të humbur dhe në zjarr (në jetën tjetër)
 54|48|Ditën që do të tërhiqen (me forcë) fytyrat e tyre në zjarr (e ju thuhet): “Shijoni zjarrin e xhehennemit!”
 54|49|Ne, me të vërtetë, të gjitha i kemi krijuar sipas dispozitës
@@ -5533,7 +5533,7 @@
 74|38|Çdo njeri është peng (përgjegjës) për veprat e veta
 74|39|përveç fatlumëve
 74|40|të cilët në kopshtijet e xhenneti i pyesin fajtorët
-74|41|
+74|41|Për mizorët – mëkatarët
 74|42|“Çka u ka sjellë juve në Sekar (Skëterrë)?”
 74|43|Ata do të përgjigjen: “Nuk kemi qenë nga ata që kanë bërë namaz
 74|44|dhe prej atyre që i kanë ushqyer të varfërit
@@ -5623,7 +5623,7 @@
 77|1|Betohem në ata (engjëjt) që sjellin të mira
 77|2|e betohem në ata që shpejtojnë si stuhia
 77|3|dhe betohem në ata që sjellin shpalljet e pastaj dallojnë (të mirën nga e keqja)
-77|4|
+77|4|Dhe ata që dallojnë
 77|5|në ata që përcjellin këshillat
 77|6|e arsyeshme ose qortuese
 77|7|me të vërtetë, ajo ë ju premtohet, do të bëhet

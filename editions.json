@@ -775,7 +775,7 @@
         "language": "English",
         "direction": "ltr",
         "source": "http://tanzil.net",
-        "comments": "The Author is a non-muslim",
+        "comments": "The Author is of non-muslim faith",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ajarberry.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-ajarberry.min.json"
     },
@@ -875,7 +875,7 @@
         "language": "English",
         "direction": "ltr",
         "source": "",
-        "comments": "The Author is a non-muslim",
+        "comments": "The Author is of non-muslim faith",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-edwardhenrypalm.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-edwardhenrypalm.min.json"
     },
@@ -895,7 +895,7 @@
         "language": "English",
         "direction": "ltr",
         "source": "",
-        "comments": "The Author is a non-muslim",
+        "comments": "The Author is of non-muslim faith",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-georgesale.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-georgesale.min.json"
     },
@@ -915,7 +915,7 @@
         "language": "English",
         "direction": "ltr",
         "source": "",
-        "comments": "The Author is a non-muslim",
+        "comments": "The Author is of non-muslim faith",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-johnmedowsrodwe.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-johnmedowsrodwe.min.json"
     },
@@ -1045,7 +1045,7 @@
         "language": "English",
         "direction": "ltr",
         "source": "",
-        "comments": "The Author is a non-muslim",
+        "comments": "The Author is of non-muslim faith",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-njdawood.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-njdawood.min.json"
     },
@@ -1899,6 +1899,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mal-muhammadkarakun.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mal-muhammadkarakun.min.json"
     },
+    "mar_muhammadshafiia_la": {
+        "name": "mar-muhammadshafiia-la",
+        "author": "Muhammad Shafi I Ansari",
+        "language": "Marathi",
+        "direction": "ltr",
+        "source": "Al Birr Foundation http://albirr.in/quran-pdf",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mar-muhammadshafiia-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mar-muhammadshafiia-la.min.json"
+    },
+    "mar_muhammadshafiia_lad": {
+        "name": "mar-muhammadshafiia-lad",
+        "author": "Muhammad Shafi I Ansari",
+        "language": "Marathi",
+        "direction": "ltr",
+        "source": "Al Birr Foundation http://albirr.in/quran-pdf",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mar-muhammadshafiia-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mar-muhammadshafiia-lad.min.json"
+    },
     "mar_muhammadshafiia": {
         "name": "mar-muhammadshafiia",
         "author": "Muhammad Shafi I Ansari",
@@ -1928,6 +1948,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.min.json"
+    },
+    "nep_ahlalhadithcent_la": {
+        "name": "nep-ahlalhadithcent-la",
+        "author": "Ahl Al Hadith Central Society Of Nepal",
+        "language": "Nepali",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nep-ahlalhadithcent-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nep-ahlalhadithcent-la.min.json"
+    },
+    "nep_ahlalhadithcent_lad": {
+        "name": "nep-ahlalhadithcent-lad",
+        "author": "Ahl Al Hadith Central Society Of Nepal",
+        "language": "Nepali",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nep-ahlalhadithcent-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nep-ahlalhadithcent-lad.min.json"
     },
     "nep_ahlalhadithcent": {
         "name": "nep-ahlalhadithcent",
@@ -2268,6 +2308,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/rus-vporokhova.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/rus-vporokhova.min.json"
+    },
+    "sin_wwwislamhouseco_la": {
+        "name": "sin-wwwislamhouseco-la",
+        "author": "Www.islamhouse.com",
+        "language": "Sinhala",
+        "direction": "ltr",
+        "source": "www.islamhouse.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-wwwislamhouseco-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-wwwislamhouseco-la.min.json"
+    },
+    "sin_wwwislamhouseco_lad": {
+        "name": "sin-wwwislamhouseco-lad",
+        "author": "Www.islamhouse.com",
+        "language": "Sinhala",
+        "direction": "ltr",
+        "source": "www.islamhouse.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-wwwislamhouseco-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-wwwislamhouseco-lad.min.json"
     },
     "sin_wwwislamhouseco": {
         "name": "sin-wwwislamhouseco",
@@ -2698,6 +2758,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-wwwislamhouseco.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-wwwislamhouseco.min.json"
+    },
+    "tha_groupfromthesoc_la": {
+        "name": "tha-groupfromthesoc-la",
+        "author": "Group From The Society Of Graduates Of Thai Universities And Institutes",
+        "language": "Thai",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tha-groupfromthesoc-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tha-groupfromthesoc-la.min.json"
+    },
+    "tha_groupfromthesoc_lad": {
+        "name": "tha-groupfromthesoc-lad",
+        "author": "Group From The Society Of Graduates Of Thai Universities And Institutes",
+        "language": "Thai",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tha-groupfromthesoc-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tha-groupfromthesoc-lad.min.json"
     },
     "tha_groupfromthesoc": {
         "name": "tha-groupfromthesoc",
@@ -3379,6 +3459,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uig-shaykhmuhammads.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uig-shaykhmuhammads.min.json"
     },
+    "ukr_mykhayloyakubov_la": {
+        "name": "ukr-mykhayloyakubov-la",
+        "author": "Mykhaylo Yakubovych",
+        "language": "Ukrainian",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-mykhayloyakubov-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-mykhayloyakubov-la.min.json"
+    },
     "ukr_mykhayloyakubov": {
         "name": "ukr-mykhayloyakubov",
         "author": "Mykhaylo Yakubovych",
@@ -3388,6 +3478,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-mykhayloyakubov.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-mykhayloyakubov.min.json"
+    },
+    "ukr_yakubovych_la": {
+        "name": "ukr-yakubovych-la",
+        "author": "Yakubovych",
+        "language": "Ukrainian",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-yakubovych-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-yakubovych-la.min.json"
     },
     "ukr_yakubovych": {
         "name": "ukr-yakubovych",
