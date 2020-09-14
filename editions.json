@@ -889,6 +889,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-farookmalik.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-farookmalik.min.json"
     },
+    "eng_georgesale": {
+        "name": "eng-georgesale",
+        "author": "George Sale",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "The Author is of non-muslim faith",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-georgesale.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-georgesale.min.json"
+    },
     "eng_hamidsaziz": {
         "name": "eng-hamidsaziz",
         "author": "Hamid S Aziz",
