@@ -336,7 +336,8 @@ async function generateEdition(arr, jsondata, editionName) {
 }
 // Generate the files and folder for the edition in REST architecture
 function generateFiles(arr, json) {
-
+  // We will generate the files and folders only if we are in github actions where CI env is set to trues and not on dev environment
+ if(process.env.CI){
   for (var key of Object.keys(qinfo)) {
     // we don't want to generate for verses,chapters, as it's generation logic is different
     if (key != "verses" && key != "chapters" && key != "sajdas") {
@@ -384,6 +385,7 @@ function generateFiles(arr, json) {
   var chapversearray = arr.map((value, index) => mappings[index][0] + '|' + mappings[index][1] + '|' + value)
   // saving in chapterverse folder as back
   fs.writeFileSync(path.join(databaseDir, 'chapterverse', json['name'] + ".txt"), chapversearray.join('\n') + '\n' + JSON.stringify(json, null, prettyindent))
+}
   // saving in linebylineDir as back
   fs.writeFileSync(path.join(linebylineDir, json['name'] + ".txt"), arr.join('\n') + '\n' + JSON.stringify(json, null, prettyindent))
 }
