@@ -45,7 +45,7 @@ The original files from [start](https://github.com/fawazahmed0/quran-api/tree/1/
 
 
 ### translate.py script:
-It takes an [array of string](https://github.com/fawazahmed0/quran-api/blob/4d68518c8b4d831457999a1c281536fd8a5f004f/translate.py#L10 "array of string") and returns back the translation in json format. To detect language, the first string should be [detect](https://github.com/fawazahmed0/quran-api/blob/4d68518c8b4d831457999a1c281536fd8a5f004f/translate.py#L16 "detect") and next arg should be string of lang to detect
+It takes an [array of string](https://github.com/fawazahmed0/quran-api/blob/4d68518c8b4d831457999a1c281536fd8a5f004f/translate.py#L10 "array of string") and returns back the translation in json format. To detect language, the first string should be [detect](https://github.com/fawazahmed0/quran-api/blob/4d68518c8b4d831457999a1c281536fd8a5f004f/translate.py#L16 "detect") and next argument should be string of language to detect
 
 It uses [googletrans](https://github.com/ssut/py-googletrans "googletrans") python library which inturn uses google translate, to translate a given text, we will use it to only [get the latin script](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/apiscript.js#L1035 "get the latin script") of the input lanugage, we don't care about the translated text
 
