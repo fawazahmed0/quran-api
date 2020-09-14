@@ -28,7 +28,8 @@ The Endpoints Supports HTTP GET Method and returns the data in  two formats:
 - `/editions`<br>
 > Lists all the available editions in prettified json format:<br>
  [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.json") <br>
-Get a minified version of it:<br>
+ 
+> Get a minified version of it:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.min.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.min.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.min.json")
 
 - `/editions/{editionName}`<br>
