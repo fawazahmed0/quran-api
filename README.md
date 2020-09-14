@@ -33,24 +33,26 @@ The Endpoints Supports HTTP GET Method and returns the data in  two formats:
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.min.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.min.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions.min.json")
 
 - `/editions/{editionName}`<br>
-Get the whole quran/quran translation:<br>
+> Get the whole quran/quran translation:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan.json") <br>
-Get a latin(roman) script version of it by adding -la:<br>
+
+> Get a latin(roman) script version of it by adding -la:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la.json")<br>
-Get a latin(roman) script with diacritical marks by adding -lad:<br>
+
+> Get a latin(roman) script with diacritical marks by adding -lad:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad.json")
 
 - `/editions/{editionName}/{ChapterNo}` <br>
-Get the whole chapter 5:<br>
+> Get the whole chapter 5:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la/5.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la/5.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la/5.json")
 
 
 - `/editions/{editionName}/{ChapterNo}/{VerseNo}` <br>
-Get Chapter 5 verse 10:<br>
+> Get Chapter 5 verse 10:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad/5/10.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad/5/10.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad/5/10.json")
 
 - `/editions/{editionName}/juzs/{juzNo}` <br>
-Get juz 3:<br>
+> Get juz 3:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad/juzs/3.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad/juzs/3.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-lad/juzs/3.json")
 
 Similarly:
@@ -60,11 +62,11 @@ Similarly:
 - `/editions/{editionName}/maqras/{maqraNo}`<br>
 
 - `/info` <br>
-Get all the details about quran such as number of juzs,sajdas, rukus etc in quran <br>
+> Get all the details about quran such as number of juzs,sajdas, rukus etc in quran <br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json")<br>
 
 - `/fonts` <br>
-List fonts available: <br>
+> List fonts available: <br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json")<br>
 
 ### Contribution:
