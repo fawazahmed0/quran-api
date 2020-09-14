@@ -14,7 +14,7 @@ args = sys.argv
 
 # If the first argument is detect, then detect language
 if args[1] == 'detect':
-    json.dump(vars(translator.detect(args[2])), sys.stdout)
+    json.dumps(vars(translator.detect(args[2])), sys.stdout)
 # else translate the languages in array, this library support 15k char at single array index
 else:
     # Removing the script name from args
@@ -23,7 +23,7 @@ else:
     translations = translator.translate(args)
     print('[')
     for translation in translations:
-        json.dump(vars(translation), sys.stdout)
+        json.dumps(vars(translation), sys.stdout)
         print(',')
     print('""')
     print(']')
