@@ -15,7 +15,7 @@ Setting [generateLatin](https://github.com/fawazahmed0/quran-api/blob/af77602a92
 This flag is set to true by GitHub [actions](https://docs.github.com/en/actions/configuring-and-managing-workflows/using-environment-variables#default-environment-variables) during [workflow run](https://github.com/fawazahmed0/quran-api/blob/1/.github/workflows/run.yml)
 Setting the [CI](https://github.com/fawazahmed0/quran-api/blob/2e1f279e9ee27ca25cdcb0bfd1facda28b40a652/apiscript.js#L340) to true in the OS environment will make the script to generate all files and folders in REST architectural style, which is usually not required during development.
 
-
+------------
 
 
 ### Create argument:
@@ -68,9 +68,13 @@ Then the sparse checkout arguments are [dynamically generated](https://github.co
 
 Then the [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js") command is [executed](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L121), the [command.txt](https://github.com/fawazahmed0/quran-api/blob/1/command.txt) gets [emptied](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L125) and [logs saved](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L130)  and the changes are [commited and pushed](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L137) to this repository.
 
+------------
+
 ## Development:
 
-**Note:** In Case you are trying to modify how files in [editions](https://github.com/fawazahmed0/quran-api/tree/1/editions) directory look or how [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse) directory files look, then you might want to set [CI flag](#ci) to true
+**Note:**<br>
+
+In Case you are trying to modify how files in [editions](https://github.com/fawazahmed0/quran-api/tree/1/editions) directory look or how [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse) directory files look, then you might want to set [CI flag](#ci) to [true](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING-LOCAL.md#prerequisites)
 
 
 1.  Fork [quran-api](https://github.com/fawazahmed0/quran-api "quran-api") repo
