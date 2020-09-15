@@ -1176,7 +1176,7 @@ async function genLatin(arr, edName) {
     logmsg("\nLatin script not supported for this langauge, skipping latin script generation")
     return
   }
-  var delimiter = '\/'
+  var delimiter = '#$/'
   var holderarr = []
   holderarr[0] = ""
   var temp = ""
@@ -1198,14 +1198,19 @@ async function genLatin(arr, edName) {
   var fullresult = []
   // max subarray we can give while calling the translate script
   var maxarr = 10
+  // This will store the splice of holderarr
+  var tempholder;
   //Max amout of Random wait time in millis before calling the translate.py script again
   var randomWait = 1000
+  // Stores the latin arr, i.e easy index will have single verse in it
+  var fullval = []
   while (holderarr.length > 0) {
     // https://stackoverflow.com/a/39914235/2437224
     // Waiting for few random milliseconds before fetching, so that google translate doesn't block our requests
     await new Promise(r => setTimeout(r, getRandomNo(randomWait)));
     // Can give around 10 or something arrays to the script , which is equal to maxLatin*maxarr characters i.e 1500*10
-    result = runPyScript(path.join(__dirname, 'translate.py'), holderarr.splice(0, maxarr))
+    tempholder = holderarr.splice(0, maxarr)
+    result = runPyScript(path.join(__dirname, 'translate.py'), tempholder)
     try {
       result = JSON.parse(result)
     } catch (error) {
@@ -1216,32 +1221,36 @@ async function genLatin(arr, edName) {
     }
     // removing last element as it's empty space returned by translate.py
     result.splice(-1)
-    fullresult = fullresult.concat(result)
+    // mapping the latin text from the array of objects returned and if the returned element is array or empty string we will replace it with blank
+    result = result.map(elem => elem['extra_data'].translation.slice(-1)[0].slice(-1)[0]).map(e=>(Array.isArray(e)|| !e || !(e+"").trim())?"blank":e+"")
+    // Making sure the number of verses given is equal to number of verses returned
+    // Tempholder now only store those values that requires regeneration
+    tempholder = tempholder.filter((e,i)=>e.split(delimiter).length != result[i].split(delimiter).length)
+
+    // If the tempholder has values in it, we will add one by one verses in holderarr, to that we can map
+    // them to their original translation easily
+    if(tempholder.length>0)
+      holderarr =  tempholder.join(delimiter).split(delimiter).concat(holderarr)
+    // if everything was good, we will add the verses into fullval array
+    else
+    fullval = fullval.concat(result.map(e=>e.split(delimiter)).flat())
   }
 
 
-  var fullval = ""
-  // storing the latin translation in string
-  for (var val of fullresult)
-    fullval = fullval + val['extra_data'].translation.slice(-1)[0].slice(-1)[0] + delimiter
 
-  //var latinarr = fullval.split(/\r?\n/);
-  // Clean the returned array from translate.py, trim the verse line
-  var latinarr = fullval.split(delimiter).map(s => s.trim())
-  // Remove empty lines from the array, google translate sometimes is not able to translate few lines properly and that is returned as empty
-  var filteredlatinarr = latinarr.filter(elem => !/^\s*$/.test(elem))
-  // if the lengths of input arr and generated latin is same and atleast 80% of input arr is generated and are not empty lines
-  if (latinarr.length == arr.length && arr.length * 0.8 < filteredlatinarr.length) {
+// Removing  removing any newline character and removing empty lines from the array
+fullval = fullval.map(elem => elem.replace(/\r?\n/gi," ").replace(/\s\s+/gi, " ").trim()).filter(elem => !/^\s*$/.test(elem))
+
+
+  // if the length of array is 6236, then we are generating the latin, else we will not
+  if (fullval.length == VERSE_LENGTH)
     logmsg("\nlatin script generated for this language")
-    return latinarr
-  } else if(filteredlatinarr.length == VERSE_LENGTH){
-    // It will generated incase the latinarr after empty line filtering i.e filteredlatinarr is 6236 lines
-    logmsg("\nlatin script generated for this language")
-  }else{
+  else
     logmsg("\nlatin script not generated")
-  }
-logmsg("\n gtranslate returned latin arr length " + latinarr.length + ', filterarr length '+filteredlatinarr.length, true)
-return filteredlatinarr
+
+
+return fullval
+
 }
 
 // This will make the python 3 script run in multiple os environments
