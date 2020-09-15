@@ -15,13 +15,12 @@ To Create/Update/Delete/Search the editions, we will use [apiscript.js](https://
 
 Never modify/add the files manually, for everything we will use [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js")
 
-Set CI environment variable(add link to dev) to true, so the files are generated:<br>
-
-Windows: <br>
+Set [CI](https://github.com/fawazahmed0/quran-api/edit/1/dev.md#ci) environment variable to true, so all files are generated:<br>
+- Windows:
 
 `set CI=true` <br>
 
-Linux:<br>
+- Linux:
 
 `CI=true`
 
