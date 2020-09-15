@@ -72,7 +72,7 @@ Then the [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscrip
 
 ## Development:
 
-**Note:**<br>
+**Note:**
 
 In Case you are trying to modify how files in [editions](https://github.com/fawazahmed0/quran-api/tree/1/editions) directory look or how [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse) directory files look, then you might want to set [CI flag](#ci) to [true](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING-LOCAL.md#prerequisites)
 
