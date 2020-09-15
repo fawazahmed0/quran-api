@@ -407,6 +407,8 @@ function validateCleanTrans(arr, filename) {
     var limit = 10
     // Saving the original arr as we will be modifying it
     var orgarr = [...arr]
+    // Filtering the array from empty lines
+    arr = arr.filter(elem => !/^\s*$/.test(elem))
     // stores the last line string which had valid number pattern like 1|1|Praise be to God
     // setting this to first line, incase the translation is without number patters and in wrong format, it will print error in line 0
     var laststr = orgarr[0]
@@ -1290,7 +1292,11 @@ function readDBTxt(pathToFile) {
 	  orgarr = orgarr.slice(0, temp[1])
 	 // validates the translation for mistakes such as extra newline etc and corrects it and clean the translation from any number patterns ,etc
   	cleanarr = validateCleanTrans(orgarr, path.basename(pathToFile))
+// If the json exists then return json with the array
+if (Array.isArray(temp))
     return [orgarr, cleanarr , temp[0]]
+// return without json
+return [orgarr, cleanarr]
 }
 
 // searches the string in whole linebyline database
