@@ -155,7 +155,7 @@ async function create(update) {
       logmsg("\nNo JSON found in file " + filename + " or please enter the json in correct format", true)
       jsondata = {}
       if (jsonrequired) {
-        var tempjson = '{"author":"Name of Author","langauge":"Name of langauge","source":"","comments":""}'
+        var tempjson = '{"author":"Name of Author","language":"Name of language","source":"","comments":""}'
         logmsg("\nAdd json at end of file in the following format:\n\n" + JSON.stringify(JSON.parse(tempjson), null, prettyindent))
         continue
       }
@@ -299,7 +299,7 @@ async function create(update) {
         logmsg("\nCreating Latin Script for the language")
         // generating diacritical variant and non diacritical variant if the generated latin script is diacritical
         if (isDiacritic(genLatinarr)) {
-          logmsg("\nGenerating diacritical and non diacritical Editions for this langauge")
+          logmsg("\nGenerating diacritical and non diacritical Editions for this language")
           await generateEdition(genLatinarr, jsondata, genJSON['name'] + '-lad')
           // generating non diacritical variant array
           nonDiacriticarr = genLatinarr.join('\n').normalize('NFD').replace(/[\u0300-\u036f]/g, '').split('\n')
@@ -404,7 +404,7 @@ function validateCleanTrans(arr, filename) {
     var j = 0;
     var stop = 0
     // specifies the limit, i.e next number of lines to search for next verse
-    var limit = 10
+    var limit = 3
     // Saving the original arr as we will be modifying it
     var orgarr = [...arr]
     // Filtering the array from empty lines
@@ -1175,7 +1175,7 @@ async function genLatin(arr, edName) {
   }
   // If the place were latin is found is array then it means latin generation is not supported for this langauge
   if (Array.isArray(result[0]['extra_data'].translation.slice(-1)[0].slice(-1)[0])) {
-    logmsg("\nLatin script not supported for this langauge, skipping latin script generation")
+    logmsg("\nLatin script not supported for this language, skipping latin script generation")
     return
   }
   var delimiter = '#$/'
