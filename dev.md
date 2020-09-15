@@ -12,7 +12,7 @@ Setting [jsonrequired](https://github.com/fawazahmed0/quran-api/blob/af77602a92a
 ### generateLatin:
 Setting [generateLatin](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/apiscript.js#L7 "generateLatin") to true will make the script auto generate the latin/roman script translation using [translate.py](https://github.com/fawazahmed0/quran-api/blob/1/translate.py "translate.py") script
 ### CI:
-This flag is set to true by GitHub [actions](https://docs.github.com/en/actions/configuring-and-managing-workflows/using-environment-variables#default-environment-variables) during [workflow run](https://github.com/fawazahmed0/quran-api/blob/1/.github/workflows/run.yml)
+This flag is set to true by GitHub [actions](https://docs.github.com/en/actions/configuring-and-managing-workflows/using-environment-variables#default-environment-variables) during [workflow run](https://github.com/fawazahmed0/quran-api/blob/1/.github/workflows/run.yml).
 Setting the [CI](https://github.com/fawazahmed0/quran-api/blob/2e1f279e9ee27ca25cdcb0bfd1facda28b40a652/apiscript.js#L340) to true in the OS environment will make the script to generate all files and folders in REST architectural style, which is usually not required during development.
 
 ------------
