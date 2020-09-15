@@ -15,11 +15,15 @@ To Create/Update/Delete/Search the editions, we will use [apiscript.js](https://
 
 Never modify/add the files manually, for everything we will use [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js")
 
-Set CI environment variable to true, so the files are generated
-Windows:
-set CI=true
-Linux:
-CI=true
+Set CI environment variable(add link to dev) to true, so the files are generated:<br>
+
+Windows: <br>
+
+`set CI=true` <br>
+
+Linux:<br>
+
+`CI=true`
 
 ### Add new translations:
 1. The translation should either be in 6236 lines(ignoring empty lines) or if it has more lines then it should at least have verse number at the beginning of each verse, It doesn't matter whether the chapter number is there or not.
