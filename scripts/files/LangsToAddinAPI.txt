@@ -2,7 +2,6 @@ armenian
 basque
 belarusian
 cebuano
-chichewa
 corsican
 croatian
 danish
