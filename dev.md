@@ -86,7 +86,7 @@ git sparse-checkout set /* !/editions/ !/database/originals/ !/database/chapterv
 git checkout
 ```
 3. Do your changes and test the code.
-4. Now Push the Changes and Create PR (add link to contrib)
+4. Now [Push the Changes and Create PR](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md#pushing-and-creating-pull-request)
 
 
 
