@@ -128,7 +128,7 @@ git push
 
 Facing any issue? [Let me Know](https://github.com/fawazahmed0/quran-api/issues/new "Let me Know ")
 
-The above given details are enough to contribute to this repo, incase you want to know how the underlying things work or want to add new features to the repo then see [Local Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING-LOCAL.md "Implementation details") and [Implementation details](https://github.com/fawazahmed0/quran-api/blob/1/dev.md "development details")
+The above given details are enough to contribute to this repo, incase you want to know how the underlying things work or want to add new features to the repo then see [Local Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING-LOCAL.md "Implementation details") and [Development details](https://github.com/fawazahmed0/quran-api/blob/1/dev.md "Development details")
 
 <br>
 <br>
