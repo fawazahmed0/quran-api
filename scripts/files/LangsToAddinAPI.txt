@@ -1,4 +1,3 @@
-afrikaans
 armenian
 basque
 belarusian
@@ -46,7 +45,6 @@ slovak
 slovenian
 sundanese
 turkmen
-uyghur
 welsh
 xhosa
 yiddish
