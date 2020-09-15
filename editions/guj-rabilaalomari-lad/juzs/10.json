@@ -1,0 +1,639 @@
+{
+    "juzs": [
+        {
+            "chapter": 8,
+            "verse": 41,
+            "text": "Jāṇī lō kē tamē jē prakāranī paṇa ganīmata (yud'dhamāṁ maḷēla māla) prāpta karō, tēmānthī pān̄camō bhāga allāha anē tēnā payagambara māṭē chē, anē sagāṁ sambandhī'ō māṭē anē anāthō tathā lācārō māṭē anē musāpharō māṭē, jō tamē allāha para īmāna dharāvatā hōva anē tē vastu para jēnē amē pōtānā bandā para tē divasē avatarita karyu chē, jē divasa satya anē asatyanī vaccē taphāvatanō hatō, jē divasē bē laśkara laḍyā hatā, allāha darēka vastu para śakti dharāvē chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 42,
+            "text": "jyārē kē tamē najīkanā kinārā para hatā anē tē'ō dūranā kinārē hatā anē laśkarō tamārā karatā nīcalā bhāgamāṁ hatā, jō tamē andara'andara vacana karatā tō, ni:Śaṅka tamē nakkī karēla samaya para pahōn̄cavāmāṁ mōḍā paḍī jatāṁ, parantu allāhanē tō ēka kārya karī ja nāṅkhavānuṁ hatuṁ, jē nakkī tha'i gayuṁ hatuṁ, jēthī jē naṣṭa thāya tē purāvā sāthē thāya, anē jē jīvita rahē tē (satyanē pārakhīnē) purāvā sāthē jīvita rahē, ni:Śaṅka allāha ghaṇō ja sāmbhaḷanāra, khūba jāṇavāvāḷō chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 43,
+            "text": "jyārē allāha'ē tamanē tamārā sapanāmāṁ tē'ōnī saṅkhyā ōchī batāvī, jō tē'ōnī saṅkhyā vadhu batāvatō, tō tamē nirbaḷa paḍī jāta anē ā kārya viśē andara'andara jhaghaḍatā, parantu allāha ta'ālā'ē bacāvī līdhā, tē hr̥dayōnā bhēdōnē khūba sārī rītē jāṇē chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 44,
+            "text": "jyārē tēṇē (allāha'ē) laḍā'ī samayē tē'ōnī saṅkhyā tamārī dr̥ṣṭi'ē khūba ōchī batāvī, anē tamanē tē'ōnī dr̥ṣṭi'ē ōchā batāvyā, jēthī allāha ta'ālā ā kāryanē pūruṁ karī dē, jē karavānuṁ ja hatuṁ anē darēka kārya allāha tarapha ja phēravavāmāṁ āvē chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 45,
+            "text": "hē īmānavāḷā'ō! Jyārē tamē kō'i virōdhī laśkara sāthē laḍā'i karavā lāgō tō aḍaga rahō anē allāhanē khūba ja yāda karō, jēthī tamanē saphaḷatā prāpta thāya"
+        },
+        {
+            "chapter": 8,
+            "verse": 46,
+            "text": "Allāha anē tēnā payagambaranī ājñānuṁ pālana karatā rahō, andarō'andara na jhaghaḍō, nahīṁ tō kāyara tha'i jaśō anē tamārī havā ūkhaḍī jaśē anē dhīraja rākhō, ni:Śaṅka allāha ta'ālā dhīraja rākhanārā'ō sāthē chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 47,
+            "text": "tē lōkō jēvā na tha'i jāva jē'ō itarā'inē anē lōkō sāmē pradarśana karatā pōtānā gharō mānthī nīkaḷatā hatā anē allāhanā mārgathī rōkatā hatā, jē kaṁī paṇa tē'ō karī rahyā chē, allāha tēnē ghērāvamāṁ lēvānō chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 48,
+            "text": "jyārē śētāna tē'ōnā kāryōnē tēmanā māṭē uttama batāvī rahyō hatō anē kahī rahyō hatō kē lōkō mānthī kō'i paṇa ājē tamārā para vijaya prāpta nathī karī śakatā, huṁ pōtē paṇa tamārī madada karanāra chuṁ, parantu jyārē bannē laśkara sāma-sāmē āvī gayā tō, pōtānī ēḍī vaḍē pāchaḷa haṭī gayō anē kahēvā lāgyō kē huṁ tō tamārāthī aḷagō chuṁ, huṁ tē jō'i rahyō chuṁ jē tamē nathī jō'i rahyā, huṁ allāhathī ḍaru chuṁ anē allāha ta'ālā sakhata yātanā āpanāra chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 49,
+            "text": "jyārē ḍhōṅgī'ō kahī rahyā hatā anē tē'ō paṇa jē'ōnā hr̥dayōmāṁ bimārī hatī, kē tē'ōnē tē'ōnā dharma'ē dhōkāmāṁ rākhyā chē, jē kō'i allāha para bharōsō karē, ni:Śaṅka allāha ta'ālā vijayī anē hikamatavāḷō chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 50,
+            "text": "kāśa kē tamē jōtāṁ jyārē phariśtā'ō inkāra karanārā'ōnā prāṇa kāḍhī rahyā hatā, tē'ōnā cahērā para anē thāpā para māra mārē chē, (anē kahē chē) kē tamē baḷavānī sajā bhōgavō"
+        },
+        {
+            "chapter": 8,
+            "verse": 51,
+            "text": "ā ē (kāryō)nā badalāmāṁ jē tamārā hāthō'ē pahēlāthī ja mōkalī rākhyā chē, ni:Śaṅka allāha ta'ālā pōtānā bandā'ō para atyācāra karavāvāḷō nathī"
+        },
+        {
+            "chapter": 8,
+            "verse": 52,
+            "text": "phira'aunanā lōkōnī sthiti jēvī anē tēmanā āgaḷanā lōkō jēvī, kē tē'ō'ē allāhanī āyatōnō inkāra karyō, basa! Allāha'ē tēmanā pāpōnā kāraṇē tē'ōnē pakaḍī līdhā, allāha ta'ālā kharēkhara tākātavāḷō anē sakhata yātanā āpanāra chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 53,
+            "text": "Ā ēṭalā māṭē kē allāha ta'ālā ēvō nathī kē kō'i kōma para kō'i nē'amata āpyā pachī tēnē chīnavī lē, tyāṁ sudhī kē tē lōkō pōtē pōtānī sthitinī na badalī lē, jē tēmanī hatī, anē ē kē allāha sāmbhaḷanāra anē jāṇanāra chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 54,
+            "text": "phira'auna anē tēnā pahēlānā lōkōnī sthiti jēvī, tē'ō'ē pōtānā pālanahāranī vātōnē juṭhalāvī, basa! Tē lōkōnā pāpōnā kāraṇē amē tē'ōnē naṣṭa karī dīdhā anē phira'aunanā lōkōnē ḍubāḍī dīdhā, ā sau atyācārī'ō hatā"
+        },
+        {
+            "chapter": 8,
+            "verse": 55,
+            "text": "darēka sajīvō mānthī sauthī kharāba allāhanī najaramāṁ tē chē jē inkāra karē, pachī tē īmāna na lāvē"
+        },
+        {
+            "chapter": 8,
+            "verse": 56,
+            "text": "jēmanī pāsēthī tamē vacana la'i līdhuṁ, pachī paṇa tē'ō darēka vakhatē vacanabhaṅga karē chē anē jarāya ḍaratā nathī"
+        },
+        {
+            "chapter": 8,
+            "verse": 57,
+            "text": "basa! Jyārē paṇa tamē tē'ō para yud'dhamāṁ vijaya prāpta karō, tē'ōnē ēvō māra mārō kē tē'ōnā pāchaḷanā lōkō paṇa bhāgī jāya, kadāca tē'ō śikhāmaṇa prāpta karē"
+        },
+        {
+            "chapter": 8,
+            "verse": 58,
+            "text": "anē jō tamanē kō'i kōmanā dagānō bhaya hōya tō, barābaranī sthitimāṁ tē'ō sāthēnuṁ vacana tōḍī nāṅkhō, allāha ta'ālā dagākhōrōnē pasanda nathī karatō"
+        },
+        {
+            "chapter": 8,
+            "verse": 59,
+            "text": "inkāra karanārā ēvuṁ na vicārē kē tē'ō bhāgī nīkaḷaśē, kharēkhara tē'ō lācāra nathī karī śakatā"
+        },
+        {
+            "chapter": 8,
+            "verse": 60,
+            "text": "tamē tēmanī sāthē yud'dha māṭē pōtānī śakti pramāṇē taiyārī karō anē ghōḍā'ōnē paṇa taiyāra rākhō, jēthī tamē tēnā vaḍē allāhanā anē pōtānā śatru'ōnē bhayabhīta karī śakō anē tēmanā sivāya bījā lōkōnē paṇa, jēmanē tamē nathī jāṇatā, allāha ta'ālā tē'ōnē khūba sārī rītē jāṇē chē, jē kaṁī paṇa allāhanā mārgamāṁ kharca karaśō, tē tamanē pūrēpūruṁ āpavāmāṁ āvaśē anē tamārō adhikāra chīnavī lēvāmāṁ nahīṁ āvē"
+        },
+        {
+            "chapter": 8,
+            "verse": 61,
+            "text": "jō tē'ō samādhāna tarapha jhūkī jāya tō, tamē paṇa samādhāna karavā māṭē jhūkī jāva anē allāha para bharōsō rākhō, ni:Śaṅka tē ghaṇō ja sāmbhaḷanāra, jāṇanāra chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 62,
+            "text": "Jō tē lōkō tamārī sāthē dagō karavā icchaśē tō, allāha tamārā māṭē pūratō chē, tēṇē ja pōtānī madada vaḍē anē īmānavāḷā'ōnā sahakārathī tamārī madada karī chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 63,
+            "text": "tēmanā hr̥dayōmāṁ mōhabbata paṇa tēṇē ja bharī chē, dharatīmāṁ jē kaṁī paṇa chē tē badhuṁ ja jō tamē kharca karī dētā tō paṇa tē'ōnā hr̥dayōnē mēḷavī na śakatā. Ā tō allāha'ē ja tē'ōmāṁ mōhabbata nākhī, tē vijayī, hikamatavāḷō chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 64,
+            "text": "hē payagambara! Tamārā māṭē allāha pūratō chē anē tē īmānavāḷā'ō māṭē jē tamāruṁ anusaraṇa karī rahyā chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 65,
+            "text": "hē payagambara! Īmānavāḷā'ōnē jēhāda māṭē prōtsāhita karō, jō tamārāmāṁ vīsa lōkō paṇa dhīraja rākhanārā haśē, tō basō para vijaya mēḷavaśē anē jō tamārāmāṁ ēka sō haśē tō ēka hajāra inkāra karanārā'ō para vijaya mēḷavaśē, ēṭalā māṭē kē tē aṇasamaju lōkō chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 66,
+            "text": "havē allāha tamārō bhāra haḷavō karē chē, tē khūba jāṇē chē kē tamārāmāṁ nabaḷā'i chē, basa! Jō tamārāmāṁ ēka sō lōkō dhīraja rākhanārā haśē, tō tē basō para vijaya mēḷavaśē anē jō tamārāmāṁ ēka hajāra lōkō haśē tō tē allāhanā ādēśathī bē hajāra para vijaya mēḷavaśē, allāha dhīraja rākhanāra lōkōnī sāthē chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 67,
+            "text": "payagambaranē kēdīnī āvaśkatā nathī tyāṁ sudhī kē śahēramāṁ ghamasāṇa yud'dha na tha'i jāya, tamē tō duniyānuṁ dhana icchō chō anē allāhanō vicāra ākhēratanō chē, anē allāha tatvadarśī, hikamatavāḷō chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 68,
+            "text": "jō pahēlāthī ja allāha taraphathī vāta lakhēlī na hōta tō, jē kaṁī paṇa tamē līdhuṁ chē tē viśē tamanē ēka mōṭī sajā thāta"
+        },
+        {
+            "chapter": 8,
+            "verse": 69,
+            "text": "basa! Jē kaṁī paṇa halāla anē pavitra ganīmata tamē prāpta karī hōya, tēnē khā'ō, anē allāhathī ḍaratā rahō, ni:Śaṅka allāha māpha karanāra anē dayāḷu chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 70,
+            "text": "Hē payagambara! Pōtānā kēdī'ōnē kahī dō kē jō allāha ta'ālā tamārā hr̥dayōmāṁ sārō irādō jōśē tō jē kaṁī paṇa tamārī pāsēthī lēvāmāṁ āvyuṁ chē tēnā karatā uttama tamanē āpaśē, anē sāthē sāthē pāpa paṇa māpha karī dēśē anē allāha māpha karanāra, dayāḷu tō chē ja"
+        },
+        {
+            "chapter": 8,
+            "verse": 71,
+            "text": "anē jō tē'ō tamārī sāthē dagō karavānō irādō karaśē tō, ē pōtē tō ā pahēlā allāha sāthē dagō karī cūkyā chē, chēvaṭē allāha'ē tēmanē kēdī banāvī dīdhā anē allāha jñānī anē hikamatavāḷō chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 72,
+            "text": "jē lōkō īmāna lāvyā anē hijarata karī anē pōtānā dhana tathā prāṇa vaḍē allāhanā mārgamāṁ jēhāda karyuṁ anē jē lōkō'ē tēmanē śaraṇa āpyuṁ anē madada karī, ā darēka ēkabījānā mitrō chē, anē jē'ō īmāna tō lāvyā chē parantu hijarata nathī karī, tamārā māṭē tēmanī mitratā kaṁī paṇa nathī, jyāṁ sudhī kē tē'ō hijarata na karē, hāṁ jō tē'ō tamārī pāsē dīna viśē madada māṅgē tō tamārā māṭē madada karavī pharajiyāta chē, sivāya tē lōkō māṭē kē tamāruṁ vacana jē lōkō sāthē chē, tamē jē kaṁī karī rahyā chō allāha tēnē jō'i rahyō chē"
+        },
+        {
+            "chapter": 8,
+            "verse": 73,
+            "text": "inkāra karanārā'ō ēkabījānā mitrō chē, jō tamē āvuṁ na karyuṁ tō śahēramāṁ upadrava phēlāśē anē ghamasāṇa laḍā'i thaśē"
+        },
+        {
+            "chapter": 8,
+            "verse": 74,
+            "text": "jē lōkō īmāna lāvyā anē hijarata karī anē allāhanā mārgamāṁ jēhāda karyu anē jē lōkō'ē śaraṇa āpyuṁ anē madada karī, ā ja lōkō sācā īmānavāḷā'ō chē tē'ō māṭē māphī chē anē ījajatavāḷī rōjī"
+        },
+        {
+            "chapter": 8,
+            "verse": 75,
+            "text": "anē jē lōkō tē pachī īmāna lāvyā anē hijarata karī anē tamārī sāthē maḷīnē jēhāda karyuṁ, basa! Ā lōkō paṇa tamārā mānthī ja chē anē sagāṁ sambandhī tē'ō mānthī kēṭalāka kēṭalākanī najīka chē, allāhanā ādēśathī, ni:Śaṅka allāha ta'ālā darēka vastunī jāṇa rākhanāra chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 1,
+            "text": "allāha anē tēnā payagambara taraphathī kaṇṭāḷānī ghōṣaṇā chē tē muśarikō viśē jēmanī sāthē tamē vacana karyuṁ hatuṁ"
+        },
+        {
+            "chapter": 9,
+            "verse": 2,
+            "text": "Basa (hē muśarikō!) Tamē śahēramāṁ cāra mahinā sudhī harī-pharī lō, jāṇī lō kē tamē allāhanē lācāra nathī karī śakatā, anē ē (paṇa yāda rākhō) kē allāha inkāra karanārā'ōnē apamānita karavāvāḷō chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 3,
+            "text": "allāha anē tēnā payagambara taraphathī lōkōnē pavitra hajjanā divasē spaṣṭa rītē ādēśa āpavāmāṁ āvē chē kē allāha muśarikōthī kaṇṭāḷē chē anē tēnā payagambara paṇa, jō haju paṇa tamē taubā karī lō tō tamārā māṭē uttama chē anē jō tamē avagaṇanā karō tō jāṇī lō kē tamē allāhanē harāvī nathī śakatā anē inkāra karanārā'ō'ōnē du:Khadāyī yātanānī sūcanā pahōn̄cāḍī dō"
+        },
+        {
+            "chapter": 9,
+            "verse": 4,
+            "text": "sivāya tē muśarikōnē jēmanī sāthē tamāruṁ samādhāna tha'i gayuṁ chē anē tē'ō'ē tamanē thōḍuṅka paṇa nukasāna nathī pahōn̄cāḍyuṁ, na kō'inī tamārā virud'dha madada karī chē, tō tamē paṇa tēmanā samādhānanā samayagāḷānē pūrō karō, allāha ta'ālā ḍaravāvāḷā'ōnō mitra chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 5,
+            "text": "pachī pavitra mahinā pasāra thatā ja muśarikōnē jyāṁ paṇa ju'ō, katala karī dō, tē'ōnē kēdī banāvī lō, tēmanē ghērī lō anē tēmanē śōdhavānī takamāṁ darēka ghāṭī'ōmāṁ jā'ō, hāṁ jō tē'ō taubā karī lē anē namājha paḍhavā lāgē anē jhakāta āpavā lāgē, tō tamē tēmanā mārga chōḍī dō, ni:Śaṅka allāha ta'ālā māpha karanāra, dayāḷu chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 6,
+            "text": "jō muśarikō mānthī kō'i tamārī pāsē śaraṇa māṅgē tō, tamē tē'ōnē śaraṇa āpī dō, tyāṁ sudhī kē tē'ō allāhanī vāṇī sāmbhaḷī lē, pachī tēnē pōtānī śāntinī jagyā'ē pahōn̄cāḍī dō, ā ēṭalā māṭē kē tē lōkō ajñāna chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 7,
+            "text": "muśarikō māṭē vacana allāha anē tēnā payagambara vaccē kēvī rītē rahī śakē chē tē lōkō sivāya jēmanī sāthē tamē samādhāna anē vacana masjidē harāma pāsē karyuṁ chē, jyāṁ sudhī tē lōkō tamārī sāthē samādhānanuṁ vacana pūruṁ karē tō tamē paṇa tēmanī sāthē prāmāṇikatā dākhavō, allāha ta'ālā ḍaravāvāḷā'ōnē pasanda karē chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 8,
+            "text": "Tēmanā vacanōnō śuṁ bharōsō, jō tē lōkō tamārā para vijaya prāpta karē tō, na tē'ō sambandhō jōśē, na vacana, pōtānī jabānō vaḍē tō tamanē pasanda karē chē parantu tē'ōnā hr̥dayō nathī mānatā, tē'ō mānthī vadhārē paḍatā lōkō vidrōhī chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 9,
+            "text": "tē'ō'ē allāhanī āyatōnē najīvā darē vēcī nākhī anē tēnā mārgathī rōkatā rahyā, ghaṇuṁ ja kharāba kārya chē jē ā lōkō karī rahyā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 10,
+            "text": "ā lōkō tō kō'i musalamānō viśē kō'i sambandhanuṁ athavā tō vacananuṁ sāmān'ya rītē paṇa dhyāna nathī rākhatā, ā lōkō hada vaṭāvī janārā ja chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 11,
+            "text": "haju paṇa ā lōkō taubā karī lē anē namājha paḍhavā lāgē anē jhakāta āpatā rahē tō tamārā dīnī bhā'i chē, amē tō jāṇavāvāḷā māṭē amārī āyatō spaṣṭa rītē varṇana karī rahyā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 12,
+            "text": "jō ā lōkō vacana anē samādhāna karyā pachī paṇa pōtānī sōgandōnē tōḍī dē anē tamārā dīna viśē ṭōṇāṁ mārē tō tamē paṇa tē inkāra karanārā'ōnā saradārō sāthē laḍā'i karō, tēmanī sōgandō kaṁī paṇa nathī, śakya chē kē āvī rītē tē'ō paṇa sudhārō karī lē"
+        },
+        {
+            "chapter": 9,
+            "verse": 13,
+            "text": "tamē tē lōkō sāthē laḍā'i karavā māṭē kēma taiyāra nathī rahētā, jē lōkō'ē pōtānī sōgandōnē tōḍī nākhī anē payagambaranē dēśanikāla karavā māṭēnī cintā karē chē anē prathama tē lōkō'ē ja śarū'āta karī chē. Śuṁ tamē tēmanāthī ḍarō chō? Allāha ja vadhārē haka dharāvē chē kē tamē tēnō ḍara rākhō, ēṭalā māṭē kē tamē īmānavāḷā chō"
+        },
+        {
+            "chapter": 9,
+            "verse": 14,
+            "text": "tēmanī sāthē tamē yud'dha karō, allāha ta'ālā tē lōkōnē tamārā hātha vaḍē ja sajā āpaśē, tē'ōnē apamānita karaśē, tamārī tē'ōnī virud'dha madada karaśē anē musalamānōnā kāḷajānē ṭhaṇḍaka pahōn̄cāḍaśē"
+        },
+        {
+            "chapter": 9,
+            "verse": 15,
+            "text": "anē tē'ōnā hr̥dayōnī nirāśā anē gus'sō dūra karaśē, anē tē jēnī tarapha icchē chē kr̥pā sāthē dhyāna dharē chē, allāha jāṇanāra, hikamatavāḷō chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 16,
+            "text": "Śuṁ tamē ēvuṁ samajī līdhuṁ chē kē tamē chōḍī dēvāmāṁ āvaśō, jō kē atyāra sudhī allāha'ē tamārā mānthī tē'ōnē prāthamikatā nathī āpī, jē'ō allāhanā mārgamāṁ jēhāda karanārā chē, anē jēmaṇē allāha anē tēnā payagambaranē anē īmānavāḷā'ō sivāya kō'inē paṇa sācā mitrō nathī banāvyā, allāha khūba sārī rītē jāṇē chē jē kaṁī paṇa tamē karī rahyā chō"
+        },
+        {
+            "chapter": 9,
+            "verse": 17,
+            "text": "muśarikō allāha ta'ālānī masjidōnē ābāda karavānē lāyaka nathī, jō kē tē'ō pōtē pōtānā inkāranā sākṣī chē, tē'ōnā kāryō vyartha chē anē tē'ō ja kāyamī jahannamī chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 18,
+            "text": "allāhanī masjidōnī rōśanī anē ābādī tō tēmanā māṭē chē jē'ō allāha anē kayāmatanā divasa para īmāna rākhatā hōya, namājhō paḍhatā hōya, jhakāta āpatā hōya, allāha sivāya kō'ināthī na ḍaratā hōya, āśā chē kē ā ja lōkō kharēkhara satyamārga para chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 19,
+            "text": "śuṁ tamāruṁ hājī'ōnē pāṇī pīvaḍāvavuṁ dēvuṁ anē masjidē harāmanī sēvā karavī, tēnā jēvuṁ samajī rākhyuṁ chē kē jē allāha anē ākhēratanā divasa para īmāna lāvyā anē allāhanā mārgamāṁ jēhāda karyuṁ, ā allāhanī najīka sarakhā nathī, anē allāha ta'ālā atyācārī'ōnē mārgadarśana nathī āpatō"
+        },
+        {
+            "chapter": 9,
+            "verse": 20,
+            "text": "jē lōkō īmāna lāvyā, hijarata karī, allāhanā mārgamāṁ pōtānā dhana anē prāṇa vaḍē jēhāda karyuṁ, tē allāhanī pāsē ghaṇā ja ūn̄cā darajjāvāḷā'ō chē anē ā ja lōkō saphaḷatā mēḷavanārā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 21,
+            "text": "tēmanē tēmanō pālanahāra khuśakhabara āpē chē, pōtānī kr̥pānī anē (allāhanā) rājī thavānī anē jannatōnī, tēmanā māṭē tyāṁ hammēśā rahēnārī nē'amatō chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 22,
+            "text": "tyāṁ tē'ō hammēśā rahēnārā chē, allāhanī pāsē kharēkhara ghaṇō ja puṣkaḷa badalō chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 23,
+            "text": "hē īmānavāḷā'ō! Pōtānā pitā anē bhā'i'ōnē mitra na banāvō, jō tē'ō inkāranē īmāna karatāṁ vadhārē samajē, tamārā mānthī jē lōkō paṇa tēmanī sāthē mitratā rākhaśē tē sampūrṇa pāpa karanāra, atyācārī chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 24,
+            "text": "Tamē kahī dō kē jō tamārā pitā anē tamārā bāḷakō anē tamārā bhā'i anē tamārī patnī'ō, anē tamārā kuṭumbī'ō, anē tamārī kamāṇī, anē tē vēpāra jēnā nukasānathī tamē ḍarō chō, anē tē havēlī'ō jēmanē tamē pasanda karō chō, jō ā badhuṁ ja tamanē allāha anē tēnā payagambarathī anē tēnā mārgamāṁ jēhāda karavāthī vadhārē pasanda hōya tō tamē rāha ju'ō kē allāha ta'ālā pōtānō prakōpa tamārā para la'i āvaśē, allāha ta'ālā vidrōhī'ōnē mārgadarśana nathī āpatō"
+        },
+        {
+            "chapter": 9,
+            "verse": 25,
+            "text": "ni:Śaṅka allāha ta'ālā'ē ghaṇā yud'dhamāṁ tamanē vijaya āpyō chē anē\"hunaina\"nī laḍā'i vakhatē paṇa, jyārē kē tamanē pōtānā mōṭā laśkara para ghamaṇḍa hatuṁ, parantu tēṇē tamanē kaṁī paṇa phāyadō na pahōn̄cāḍayō, viśāḷa dharatī hōvā chatāṁ tē tamārā māṭē taṅga tha'i ga'i, pachī tamē pīṭha batāvī pāchā pharyā"
+        },
+        {
+            "chapter": 9,
+            "verse": 26,
+            "text": "pachī allāha'ē pōtānā taraphathī śānti pōtānā payagambara para anē īmānavāḷā'ō para utārī anē pōtānā tē laśkarō mōkalyā jēnē tamē jō'i nathī rahyā anē inkāra karanārā'ōnē sakhata sajā āpī, tē inkāra karanārā'ōnō ā ja badalō hatō"
+        },
+        {
+            "chapter": 9,
+            "verse": 27,
+            "text": "tyāra pachī paṇa jēnē icchē tēnā para pōtānī kr̥pā karaśē, allāha ja māpha karanāra anē dayāḷu chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 28,
+            "text": "hē īmānavāḷā'ō! Kharēkhara muśarika taddana nāpāka chē, tē'ō ā varṣa pachī masjidē harāmanī āsa-pāsa paṇa na bhaṭakē, jō tamanē lācārīnō bhaya chē tō allāha ta'ālā tamanē pōtānī kr̥pāthī dhanavāna banāvī dēśē, jō allāha icchē allāha jñānī anē hikamatavāḷō chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 29,
+            "text": "tē lōkō sāthē yud'dha karō jē'ō allāha anē kayāmatanā divasa para īmāna nathī lāvatā, jē allāha anē tēnā payagambarē harāma (avaidha) karēlī vastu'ōnē harāma nathī mānatā, na satya dīnanē kabūla karē chē, tē lōkō mānthī jē'ōnē kitāba āpavāmāṁ āvī chē, tyāṁ sudhī kē tē'ō apamānita tha'i, pōtānī pāsēthī daṇḍa āpē"
+        },
+        {
+            "chapter": 9,
+            "verse": 30,
+            "text": "Yahūdī lōkō kahē chē kē ujhaira allāhanō dīkarō chē, anē īsā'ī lōkō kahē chē kē masīha allāhanō dīkarō chē, ā vātō phakata tē'ōnā mōḍhā'ōnī chē, pūrvajōnī vātōnē ā lōkō paṇa nakala karavā lāgyā, allāha tē'ōnē naṣṭa karē, tē kēvā uthala pāthala karavāmāṁ āvē chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 31,
+            "text": "tē lōkō'ē allāhanē chōḍīnē pōtānā jñānī'ō anē sādhu'ōnē pālanahāra ṭhēravyā chē anē marayamanā dīkarā masīhanē paṇa, jō kē tēmanē phakta ēka allāhanī ja bandagīnō ādēśa āpavāmāṁ āvyō hatō, jēnā sivāya kō'i pūjya nathī, tē pavitra chē tē'ōnā bhāgīdāra ṭhērāvavāthī"
+        },
+        {
+            "chapter": 9,
+            "verse": 32,
+            "text": "tē icchē chē kē allāhanā prakāśanē pōtānī phūṅka vaḍē hōlavī nāṅkhē anē allāha ta'ālā ā vātōnō inkāra karē chē, parantu allāha pōtānā prakāśanē pūrō karīnē ja rahēśē bhalēnē ā inkāra karanārā'ō pasanda na karē"
+        },
+        {
+            "chapter": 9,
+            "verse": 33,
+            "text": "tēṇē ja pōtānā payagambaranē satya mārgadarśana anē sācō dharma āpī mōkalyā, kē tēnē bījā darēka dharmō para prabhāvita karī dē, bhalēnē muśarika khōṭuṁ samajē"
+        },
+        {
+            "chapter": 9,
+            "verse": 34,
+            "text": "hē īmānavāḷā'ō! Vadhārē paḍatā jñānī'ō anē ibādata karanārā, lōkōnuṁ dhana haḍapa karī lē chē anē allāhanā mārgathī rōkē chē, anē jē lōkō sōnā anē cāndīnō khajānō rākhē chē anē allāhanā mārgamāṁ kharca nathī karatā, tē'ōnē du:Khadāyī yātanānī khabara āpī dō"
+        },
+        {
+            "chapter": 9,
+            "verse": 35,
+            "text": "jē divasē tē khajānānē jahannamanī āgamāṁ tapāvavāmāṁ āvaśē, pachī tē'ōnā kapāḷōnē, khabhānā bhāganē anē pīṭhōnē dajhāḍavāmāṁ āvaśē, (tē'ōnē kahēvāmāṁ āvaśē) ā chē jēnē tamē pōtānā māṭē khajānō banāvī rākhyō hatō, basa! Pōtānā khajānānō svāda cākhō"
+        },
+        {
+            "chapter": 9,
+            "verse": 36,
+            "text": "Mahinā'ōnī gaṇatarī allāhanī pāsē allāhanī kitābamāṁ bāra chē, tē divasathī ja jyārathī ākāśa anē dharatīnuṁ sarjana tēṇē karyuṁ, tēmānthī cāra pavitra mahinā chē, ā ja satya dharma chē, tamē tē mahinā'ōmāṁ pōtānā jīvō para atyācāra na karō anē tamē darēka muśarikō sāthē jēhāda karō, jēvī rītē kē tē'ō tamārī sāthē laḍē chē anē jāṇī lō kē allāha ta'ālā ḍaravāvāḷā'ōnī sāthē chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 37,
+            "text": "mahinā'ōnē āgaḷa pāchaḷa karī dēvuṁ inkāranō atirēka chē, ānā vaḍē tē lōkō pathabhraṣṭa karavāmāṁ āvē chē, jē'ō inkāra karē chē, ēka varṣa tō tēnē halāla karī dē chē, anē bījā varṣē tēnē ja pavitra ṭhēravē chē kē allāha'ē jē pavitratā rākhī chē tēnī gaṇatarīmāṁ tamē barābarī karī lō, pachī tēnē halāla banāvī lō jēnē allāha'ē harāma karyō chē, tē'ōnē tē'ōnā kharāba kr̥tyō sārā batāvī dēvāmāṁ āvyā chē anē inkāra karanārā'ōnī kōmanē allāha mārgadarśana nathī āpatō"
+        },
+        {
+            "chapter": 9,
+            "verse": 38,
+            "text": "hē īmānavāḷā'ō! Tamanē śuṁ tha'i gayuṁ chē kē jyārē tamanē kahēvāmāṁ āvē chē kē cālō allāhanā mārgamāṁ nīkaḷō, tō tamē dharatīnē vaḷagī rahō chō, śuṁ tamē ākhēratanā badalāmāṁ duniyānā jīvananē prāthamikatā āpō chō, sāmbhaḷō! Duniyānuṁ jīvana tō ākhēratanī tulamāṁ basa thōḍuṁ ja chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 39,
+            "text": "jō tamē na nīkaḷyā tō, tamanē allāha ta'ālā sakhata sajā āpaśē anē tamārī jagyā'ē bījānē lāvaśē, tamē allāha ta'ālānē kō'i nukasāna nathī pahōn̄cāḍī śakatā, allāha ta'ālā darēka vastu para śakti dharāvē chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 40,
+            "text": "Jō tamē tē (muham'mada sa.A.Va.)Nī madada nahīṁ karō tō, allāha'ē ja tēmanī madada karī, tē samayē jyārē tēmanē inkāra karanārā'ō'ē kāḍhī mūkyā hatā, bē mānthī bījō, jyārē kē tē bannē guphāmāṁ hatā, tyārē tē pōtānā mitranē kahī rahyā hatā kē nirāśa na thā'ō, allāha āpaṇī sāthē chē, basa! Allāha ta'ālā'ē pōtānā taraphathī tē lōkōnē śānti āpī, tē laśkarō dvārā tēmanī madada karī jēnē tamē jōyā ja nathī, tēṇē inkāra karanārā'ōnī vāta halakī karī dīdhī anē ūn̄cī anē mūlyavāna tō allāhanī vāta ja chē, allāha vijayī, hikamatavāḷō chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 41,
+            "text": "nīkaḷī jā'ō, nirbaḷa hōya tō paṇa anē śaktiśāḷī hōya tō paṇa, anē allāhanā mārgamāṁ pōtānā dhana anē prāṇa vaḍē jēhāda karō, ā ja tamārā māṭē uttama chē jō tamē jāṇatā hōva"
+        },
+        {
+            "chapter": 9,
+            "verse": 42,
+            "text": "jō jhaḍapathī āvanāruṁ dhana anē kāraṇa hōta anē saraḷa musāpharī hōta tō, ā lōkō jarūra tamārī pāchaḷa āvatā, parantu tē lōkō para dūranī musāpharī muśkēla tha'i ga'i, havē tō ā lōkō allāhanā nāmanī sōgandō khāśē kē jō amārāmāṁ śakti anē himmata hōta tō, amē kharēkhara tamārī sāthē āvatā, ā lōkō pōtē ja pōtānē naṣṭa karī rahyā chē, tē'ōnā jūṭhṭhāṇānnuṁ sācuṁ jñāna allāha pāsē ja chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 43,
+            "text": "allāha tamanē māpha karī dē, tamē tē'ōnē kēma paravānagī āpī? Tamārī sāmē sācā lōkōnī ōḷakha thayā vagara anē tamē jūṭhṭhā lōkōnē paṇa ōḷakhī lō"
+        },
+        {
+            "chapter": 9,
+            "verse": 44,
+            "text": "allāha anē kayāmatanā divasa para īmāna anē viśvāsa rākhanāra lōkō tō dhana anē māla vaḍē jēhādathī rōkā'i javā māṭē kayārēya tamārī pāsē paravānagī nahīṁ māṅgē anē allāha ta'ālā ḍaravāvāḷā'ōnē khūba sārī rītē jāṇē chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 45,
+            "text": "ā paravānagī tō tamārī pāsēthī tē ja lōkō māṅgē chē jēmanē na tō allāha para anē na ākhēratanā divasa para īmāna chē, jēmanā hr̥daya śaṅkāmāṁ paḍyā chē anē tē pōtānī śaṅkāmāṁ ja magna chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 46,
+            "text": "Jō tē'ōnī icchā jēhāda māṭēnī hōta tō, tē'ō ā saphara māṭē sāmānanī taiyārī karī rākhatā, parantu allāhanē tēmanuṁ nīkaḷavuṁ pasanda ja na hatuṁ, ēṭalā māṭē allāha'ē tē'ōnē śarū'ātathī ja rōkī rākhyā anē kahī dēvāmāṁ āvyuṁ kē tamē bēsī rahēnāra lōkō sāthē bēṭhēlā ja rahō"
+        },
+        {
+            "chapter": 9,
+            "verse": 47,
+            "text": "jō ā lōkō tamārī sāthē bhēgā tha'inē nīkaḷatā tō paṇa, tamārā māṭē upadrava karavā sivāya kaṁī paṇa na karatā, uparānta tamārī vaccē ghōḍā'ō dōḍāvī dēta anē tamārā māṁ vidrōhanī śōdhamāṁ rahētā, tē'ōnā mānavāvāḷā'ō pōtē tamārī vaccē ja chē anē allāha ta'ālā tē atyācārī'ōnē khūba jāṇē chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 48,
+            "text": "ā lōkō tō pahēlā paṇa upadrava karavānī śōdhamāṁ hatā anē tamārā māṭē kāryōnē ulaṭa sūlaṭa karatā rahē chē, ahīṁ sudhī kē satya āvī pahōn̄cyuṁ anē allāhanō ādēśa prabhāvita tha'i gayō, bhalēnē tē lōkō nārāja rahyā"
+        },
+        {
+            "chapter": 9,
+            "verse": 49,
+            "text": "tē'ō mānthī kō'ika tō kahē chē kē manē paravānagī āpō, manē vidrōhamāṁ na nākhō, sacēta rahō, tē tō tēmāṁ paḍī gayā chē anē ni:Śaṅka inkāra karanārā'ōnē jahannama ghērī lēśē"
+        },
+        {
+            "chapter": 9,
+            "verse": 50,
+            "text": "jō tamanē kaṁī bhalā'i maḷē tō, tēmanē kharāba lāgē chē anē kō'i būrā'ī pahōn̄cē tō tē'ō kahē chē kē amē tō pahēlāthī ja pōtānī bābata yōgya karī līdhī hatī, pachī tē lōkō itarā'inē pāchā pharē chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 51,
+            "text": "tamē kahī dō kē allāha'ē amārā māṭē jē kaṁī nukasāna pahōn̄cāḍavānuṁ lakhēla chē tē pahōn̄cīnē ja rahēśē, tē amārō vyavasthāpaka anē mitra chē, īmānavāḷā'ō'ē tō phakata allāha para ja bharōsō karavō jō'i'ē"
+        },
+        {
+            "chapter": 9,
+            "verse": 52,
+            "text": "kahī dō kē tamē amārā viśē jē vastunī rāha jō'i rahyā chō, tē bē bhalā'i'ō mānthī ēka chē anē amē tamārā māṭē tēnī rāha jō'i rahyā chē kē, allāha ta'ālā pōtānī pāsē jē sajā chē tēmānthī tamanē pahōn̄cāḍē athavā amārā hāthō d'dhārā, basa! Ēka bāju tamē rāha ju'ō, bījī tarapha tamārī sāthē amē paṇa rāha jō'i rahyā chī'ē"
+        },
+        {
+            "chapter": 9,
+            "verse": 53,
+            "text": "Kahī dō kē tamē rājīkhuśīthī athavā nārājagīthī, gamē tē rītē dāna karō, kabūla tō kayārēya karavāmāṁ nahīṁ āvē, ni:Śaṅka tamē vidrōhī chō"
+        },
+        {
+            "chapter": 9,
+            "verse": 54,
+            "text": "tē'ōnu dāna kabūla na karavānuṁ kāraṇa tēnā sivāya kāṁi ja nathī kē ā allāha anē tēnā payagambaranō inkāra karanārā chē anē ghaṇī āḷasathī namājha māṭē āvē chē anē saṅkucita manathī ja kharca karē chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 55,
+            "text": "basa! Tamanē tē'ōnuṁ dhana anē santāna āścaryacakita na karī dē, allāhanī icchā ē ja chē kē tēnāthī tē'ōnē duniyānā jīvanamāṁ ja sajā āpē anē tē'ōnuṁ mr̥tyu inkāranī sthiti māṁ ja thāya"
+        },
+        {
+            "chapter": 9,
+            "verse": 56,
+            "text": "ā lōkō allāhanā nāmanī sōgandō khā'inē kahē chē kē ā tamārā jūthanā lōkō chē, jō kē kharēkhara tē'ō tamārā mānthī nathī, vāta phakata ē ja chē kē ā lōkō ḍarapōka chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 57,
+            "text": "jō ā lōkō bacāva māṭēnī jagyā athavā kō'i guphā athavā kō'i paṇa māthuṁ chupāvavānī jagyā pāmī lē tō hamaṇāṁ ja tē tarapha pharī jāya"
+        },
+        {
+            "chapter": 9,
+            "verse": 58,
+            "text": "tē'ōmāṁ tē lōkō paṇa chē jē'ō dānanā mālanī vahēn̄caṇī viśē tamārā para khōṭō ārōpa lagāvē chē, jō tē'ōnē tēmānthī maḷī jāya tō rājī chē anē jō tē'ōnē tēmānthī na maḷyuṁ tō tarata ja gus'sē thāya chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 59,
+            "text": "jō ā lōkō allāha anē tēnā payagambarē āpēlī vastu'ōthī rājī tha'i gayā hōta anē kahī dētā kē allāha amanē pūratō chē, allāha amanē tēnī kr̥pāthī āpaśē anē tēnō payagambara paṇa, amē tō allāhanī jātathī ja āśā rākhanārā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 60,
+            "text": "dāna phakata phakīrō māṭē, lācārō māṭē, jhakāta ugharāvanārā'ō māṭē, tē'ō māṭē jēmanā hr̥dayō islāma tarapha jhukēlā chē, tathā kēdī'ōnē chōḍāvavā māṭē, dēvādārō māṭē, tathā allāhanā mārgamāṁ anē musāpharō māṭē pharajiyāta chē allāha taraphathī anē allāha jñānī tathā hikamatavāḷō chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 61,
+            "text": "Tē lōkō mānthī ēvā lōkō paṇa chē jē'ō payagambaranē takalīpha āpē chē anē kahē chē, ōchuṁ sāmbhaḷē chē, tamē kahī dō kē tē ōchuṁ sābhaḷavā māṁ ja tamārā māṭē bhalā'i chē, tē allāha para īmāna dharāvē chē anē musalamānōnī vātō para bharōsō karē chē anē tamārā mānthī jē lōkō īmāna dharāvē chē ā tēmanā māṭē kr̥pā chē, allāhanā payagambaranē jē lōkō takalīpha āpē chē tēmanā māṭē du:Khadāyī yātanā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 62,
+            "text": "phakata tamanē khuśa rākhavā māṭē tamārī sāmē allāhanā nāmanī sōgandō khāya chē, jō kē ā lōkō īmāna rākhatā hōya tō, allāha anē tēnō payagambara rājī karavā māṭē vadhārē hakadāra chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 63,
+            "text": "śuṁ ā lōkō nathī jāṇatā kē jē lōkō allāha anē tēnā payagambaranō virōdha karaśē, tēnā māṭē kharēkhara jahannamanī yātanā chē, jēmāṁ tē'ō hammēśā rahēśē, ā jabaradasta apamāna chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 64,
+            "text": "ḍhōṅgī'ōnē darēka samayē ē vātanō ḍara lāgē chē kē kadāca musalamānō para kō'i sūraha avatarita na thāya, jē tē'ōnā hr̥dayōnī vātō darśāvī dē, kahī dō kē tamē majāka karatā rahō, ni:Śaṅka allāha ta'ālā tēnē jāhēra karī dēśē jēnāthī tamē ḍarī rahyā chō"
+        },
+        {
+            "chapter": 9,
+            "verse": 65,
+            "text": "jō tamē tēmanē savāla karaśō tō spaṣṭa kahī dēśē kē amē tō ēmaja andarō'andara hansīmajāka karī rahyā hatā, kahī dō kē śuṁ allāha, tēnī āyatō anē tēnō payagambara ja tamārā ṭhaṭhṭhā maśkarī māṭē rahī gayā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 66,
+            "text": "tamē bahānuṁ na banāvō, kharēkhara tamē īmāna lāvyā pachī inkāra karanārā tha'i gayā, jō amē tamārā mānthī thōḍāṅka lōkōnē māpha paṇa karī da'i'ē, tō kēṭalāka lōkōnē tē'ōnā aparādhanā kāraṇē sakhata sajā paṇa āpīśuṁ"
+        },
+        {
+            "chapter": 9,
+            "verse": 67,
+            "text": "darēka ḍhōṅgī puruṣa anē strī ēka sarakhāṁ chē, ā lōkō kharāba vātōnō ādēśa āpē chē anē sārī vātōthī rōkē chē anē pōtānī muṭhṭhī bandha rākhē chē, ā lōkō allāhanē bhūlī gayā, allāha tēmanē bhūlī gayō, ni:Śaṅka ḍhōṅgī'ō vidrōhī chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 68,
+            "text": "Allāha ta'ālā tē ḍhōṅgī puruṣa anē strī'ō anē inkāra karanārā'ōnē jahannamanī āganuṁ vacana āpī cūkyō chē, jyāṁ tē'ō hammēśā rahēśē, tē ja tēmanē pūratō chē, tēmanā para allāhanī phiṭakāra chē anē tēmanā māṭē ja hammēśā rahēnārī yātanā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 69,
+            "text": "tē lōkōnī jēma, jē'ō tamārāthī pahēlā hatā, tamārā karatā tē'ō vadhārē śaktimāna hatā anē vadhu santānavāḷā anē dhanavāna hatā, basa! Tē lōkō dīnanē bhūlī gayā, pachī tamē paṇa bhūlī gayā, jēvī rītē tamārā pahēlānā lōkō'ē pōtānā bhāga mānthī phāyadō uṭhāvyō anē tamē paṇa ēvī ja rītē majākabharyō vārtā lāpa karyō jēvō kē tē'ō'ē karyō hatō, tēmanā kāryō duniyā anē ākhēratamāṁ vyartha tha'i gayā, ā ja lōkō nukasāna uṭhāvanārā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 70,
+            "text": "śuṁ tēmanī pāsē pōtānī pahēlānā lōkōnī khabara nathī pahōn̄cī? Nūhanī kōma, ādanī kōma, ṣamūdanī kōma, anē ibrāhīmanī kōma anē madayanavāḷā'ō, anē mu'ataphikāta (tē kōma jēmanē yātanā rūpē ūndhā karī dēvāmāṁ āvyā) nī, tēmanī pāsē tēmanā payagambara purāvā la'inē pahōn̄cyā, allāha ēvō na hatō kē tēmanī para atyācāra karē, parantu tē lōkō'ē pōtē ja pōtānā para atyācāra karyō"
+        },
+        {
+            "chapter": 9,
+            "verse": 71,
+            "text": "īmānavāḷā puruṣa anē īmānavāḷī strī'ō ēka-bījānā mitrō chē, tē bhalā'inō ādēśa āpē chē anē būrā'īthī rōkē chē, namājhōnē kāyama paḍhē chē, jhakāta āpē chē, allāha anē tēnā payagambaranī vātō mānē chē, ā ja tē lōkō chē jēmanā para allāha ta'ālā najīka mān̄ja dayā karaśē, ni:Śaṅka allāha vijayī tathā hikamatavāḷō chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 72,
+            "text": "tē īmānavāḷā puruṣa anē strī'ōnē allāha'ē tē jannatōnuṁ vacana āpyuṁ chē, jēnī nīcē nahērō vahī rahī chē, jyāṁ tē'ō hammēśā rahēśē anē tē pavitra-svaccha mahēlōnō, jē tē hammēśā rahēnārī jannatōmāṁ chē anē allāhanī khuśī sauthī mōṭī vastu chē, ā ja kharēkhara khūba ja mōṭī saphaḷatā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 73,
+            "text": "Hē payagambara! Inkāra karanārā anē ḍhōṅgī'ō sāthē jēhāda cālu rākhō anē tēmanā para sakhata banī jāva, tēmanuṁ sācuṁ ṭhēkāṇuṁ jahannama chē, jē atyanta kharāba ṭhēkāṇuṁ chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 74,
+            "text": "ā allāhanā nāmanī sōgandō khā'inē kahē chē kē tēmaṇē nathī karyuṁ, jō kē kharēkhara inkāranī vāta tēmanī jabāna vaḍē nīkaḷī ga'i chē, ā lōkō īmāna lāvyā pachī inkāra karanārā banī gayā chē anē tēmaṇē ā kāryanī icchā paṇa karī jē tē'ō pūrṇa karī na śakyā, ā lōkō phakata tē ja vātanō badalō la'i rahyā chē kē tēmanē allāha'ē pōtānī kr̥pāthī anē tēnā payagambarē dhanavāna karī dīdhā, jō ā lōkō haju paṇa taubā karī lē tō, ā tēmanā māṭē sāruṁ chē anē jō cahērō phēravī rahyā chē tō, allāha ta'ālā tēmanē duniyā anē ākhēratamāṁ du:Khadāyī yātanā āpaśē anē dharatīmāṁ tēmanā māṭē kō'i tēmanī madada karanāra tathā sahāya karanāra ūbhō nahīṁ thāya"
+        },
+        {
+            "chapter": 9,
+            "verse": 75,
+            "text": "tē lōkōmāṁ tē'ō paṇa chē jēmaṇē allāhanē vacana āpyuṁ hatuṁ kē jō tē amanē pōtānī kr̥pāthī dhana āpaśē tō, amē cōkkasa dāna karīśuṁ anē sācā sadācārī lōkō banī ja'iśuṁ"
+        },
+        {
+            "chapter": 9,
+            "verse": 76,
+            "text": "parantu jyārē allāha'ē tēmanē pōtānī kr̥pā vaḍē āpyuṁ tō, ā lōkō tēmāṁ kan̄jusā'i karavā lāgyā, anē vātanē ṭāḷīnē mōḍhuṁ phēravavā lāgyā"
+        },
+        {
+            "chapter": 9,
+            "verse": 77,
+            "text": "basa! Tēmanī sajā allāha'ē tē āpī kē tēmanā hr̥dayōmāṁ ḍhōṅgīpaṇuṁ nākhī dīdhuṁ, allāha sāthē mulākāta nā divasa sudhī, kāraṇakē tē'ō'ē allāha sāthē karēlā vacananō bhaṅga karyō anē jūṭha kahētā rahyā"
+        },
+        {
+            "chapter": 9,
+            "verse": 78,
+            "text": "śuṁ tē lōkō nathī jāṇatā kē allāha ta'ālā tē'ōnā hr̥dayōnā bhēdō anē tē'ōnī gusapusanē jāṇē chē, anē allāha ta'ālā adr̥śyanī darēka vātōnē jāṇē chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 79,
+            "text": "Jē lōkō tē musalamānōnē ṭōṇāṁ mārē chē, jē (musalamānō) dila khōlīnē dāna karē chē, anē tē lōkōnē paṇa (ṭōṇāṁ mārē chē) jēmanē pōtānī mahēnata anē majūrī sivāya kaṁī maḷatuṁ nathī, basa! Ā lōkō tē'ōnō majāka uḍāvē chē, allāha paṇa tēmanī sāthē majāka karē chē, tēmanā māṭē ja du:Khadāyī yātanā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 80,
+            "text": "tēmanā māṭē tamē māphī māṅgō athavā na māṅgō, jō tamē sittēra vāra paṇa tē'ōnā māṭē māphī māṅgaśō, tō paṇa allāha tē'ōnē kayārēya māpha nahīṁ karē, ā ēṭalā māṭē kē tē'ō'ē allāha anē tēnā payagambaranō inkāra karyō chē. Āvā vidrōhīnē allāha ta'ālā satya mārgadarśana nathī āpatō"
+        },
+        {
+            "chapter": 9,
+            "verse": 81,
+            "text": "pāchaḷa rahī janārā lōkō payagambaranā gayā pachī, bēsī rahēvā para rājī chē, tē'ō'ē allāhanā mārgamāṁ pōtānā dhana anē prāṇa vaḍē jēhāda karavānē pasanda na karyuṁ anē tē'ō'ē kahī dīdhuṁ kē āvī garamīmāṁ na nīkaḷō, kahī dō kē jahannamanī āga khūba ja garama chē, kāśa kē tē'ō samajatā hōta"
+        },
+        {
+            "chapter": 9,
+            "verse": 82,
+            "text": "basa! Tē lōkō'ē ghaṇuṁ ja ōchuṁ hasavuṁ jō'i'ē anē ghaṇuṁ ja vadhārē raḍavuṁ jō'i'ē, tē'ō jē kaṁī paṇa karī rahyā chē tēnā badalāmāṁ"
+        },
+        {
+            "chapter": 9,
+            "verse": 83,
+            "text": "basa! Jō allāha ta'ālā tamanē tēmanā kō'i jūtha tarapha mōkalī pāchā la'i āvē, pachī ā lōkō tamārī sāthē yud'dhanā mēdānamāṁ āvavānī paravānagī māṅgē, tō tamē kahī dō kē tamē lōkō mārī sāthē āvī nathī śakatā anē na tō mārī sāthē tamē śatru'ō sāmē yud'dha karī śakō chō, tamē prathama vakhata bēsī rahēvānuṁ pasanda karyuṁ hatuṁ, basa! Tamē pāchaḷa rahī janārā lōkō mān̄ja bēsī rahō"
+        },
+        {
+            "chapter": 9,
+            "verse": 84,
+            "text": "tē lōkō mānthī kō'i mr̥tyu pāmē tō tamē tēmanā janājhānī namājha kayārēya na paḍhaśō anē na tēmanī kabara para paṇa ūbhā rahēśō, ā lōkō allāha anē tēnā payagambaranō inkāra karanārā chē anē mr̥tyu pāmyā sudhī vidrōhī ja rahyā"
+        },
+        {
+            "chapter": 9,
+            "verse": 85,
+            "text": "Tamanē tē'ōnuṁ dhana anē santāna, kaṁī paṇa, āścaryacakita na karē, allāhanī icchā ē ja chē kē tēmanē tē vastu dvārā duniyāmāṁ sajā āpē anē tē lōkō pōtānā prāṇa nīkaḷavā sudhī inkāra karanārā ja banī rahyā"
+        },
+        {
+            "chapter": 9,
+            "verse": 86,
+            "text": "jyārē kō'i sūraha avatarita karavāmāṁ āvē chē kē allāha para īmāna lāvō anē tēnā payagambara sāthē maḷī jēhāda karō, tō tēmanā mānthī dhanavāna lōkōnuṁ ēka jūtha tamārī pāsē āvīnē ēvuṁ kahī paravānagī la'i lē chē kē amanē tō bēsī rahēnārā lōkōmāṁ ja chōḍī dō"
+        },
+        {
+            "chapter": 9,
+            "verse": 87,
+            "text": "ā tō vēśyā'ōnō sātha āpavānē ja prāthamikatā āpē chē anē tēmanā hr̥dayō para mahōra lagāvī dīdhī, havē tē'ō kaṁī paṇa nathī samajatā"
+        },
+        {
+            "chapter": 9,
+            "verse": 88,
+            "text": "parantu payagambara pōtē anē tēmanī sāthē īmānavāḷā'ō, pōtānā dhana anē prāṇa vaḍē jēhāda karē chē, ā ja lōkō bhalā'i pāmanārā chē anē ā ja lōkō saphaḷa thanārā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 89,
+            "text": "tēmanā māṭē allāha'ē tē jannatō taiyāra karī rākhī chē jēnī nīcē nahērō vahī rahī chē, jēmāṁ tē'ō hammēśā rahēnārā chē, ā ja mōṭī saphaḷatā chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 90,
+            "text": "gāmaḍānā lōkō mānthī tē lōkō āvyā jēmanī pāsē kaṁī kāraṇa hatuṁ, kē tēmanē paravānagī āpī dēvāmāṁ āvē anē tē bēsī rahē, jēmaṇē allāha anē tēnā payagambara sāmē jūṭhṭhī vātō kahī hatī, havē tō tēmāṁ jēṭalā paṇa inkāra karanārā chē tēmanē du:Kha pahōn̄cāḍanārō māra paḍaśē"
+        },
+        {
+            "chapter": 9,
+            "verse": 91,
+            "text": "nirbaḷa lōkō anē bimāra lōkō anē jēmanī pāsē kharca karavā māṭē kaṁī paṇa nathī, ēvā lōkō māṭē kō'i vāndhō nathī, śarata ē kē tē'ō allāha anē tēnā payagambaranī bhalā'i icchē, āvā sadācārī lōkō para ārōpanō kō'i mārga nathī, allāha ta'ālā khūba ja māpha karanāra, kr̥pāḷu chē"
+        },
+        {
+            "chapter": 9,
+            "verse": 92,
+            "text": "Hāṁ tē lōkō māṭē paṇa kaṁī vāndhō nathī jē'ō tamārī pāsē āvē chē, jēthī tamē tēmanē musāpharī māṭē kō'i bandōbasta karī āpō, tō tamē javāba āpō chō kē mārī pāsē tamārī musāpharī māṭē kaṁī paṇa nathī, tō tē'ō nirāśa tha'i pōtānī āṅkhō mānthī ānsu vahāvī pāchā pharī jāya chē, kē tēmanī pāsē kharca karavā māṭē kaṁī nathī"
+        }
+    ]
+}

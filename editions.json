@@ -1419,6 +1419,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhamidul.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhamidul.min.json"
     },
+    "guj_rabilaalomari_la": {
+        "name": "guj-rabilaalomari-la",
+        "author": "Rabila Al Omari",
+        "language": "Gujarati",
+        "direction": "ltr",
+        "source": "Al Birr Foundation http://albirr.in/quran-pdf",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/guj-rabilaalomari-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/guj-rabilaalomari-la.min.json"
+    },
+    "guj_rabilaalomari_lad": {
+        "name": "guj-rabilaalomari-lad",
+        "author": "Rabila Al Omari",
+        "language": "Gujarati",
+        "direction": "ltr",
+        "source": "Al Birr Foundation http://albirr.in/quran-pdf",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/guj-rabilaalomari-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/guj-rabilaalomari-lad.min.json"
+    },
     "guj_rabilaalomari": {
         "name": "guj-rabilaalomari",
         "author": "Rabila Al Omari",
@@ -1699,6 +1719,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown.min.json"
     },
+    "kaz_khalifahaltai_la": {
+        "name": "kaz-khalifahaltai-la",
+        "author": "Khalifah Altai",
+        "language": "Kazakh",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltai-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltai-la.min.json"
+    },
+    "kaz_khalifahaltai_lad": {
+        "name": "kaz-khalifahaltai-lad",
+        "author": "Khalifah Altai",
+        "language": "Kazakh",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltai-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltai-lad.min.json"
+    },
     "kaz_khalifahaltai": {
         "name": "kaz-khalifahaltai",
         "author": "Khalifah Altai",
@@ -1708,6 +1748,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltai.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltai.min.json"
+    },
+    "kaz_khalifahaltaich_la": {
+        "name": "kaz-khalifahaltaich-la",
+        "author": "Khalifah Altai Charity Foundation",
+        "language": "Kazakh",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltaich-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltaich-la.min.json"
+    },
+    "kaz_khalifahaltaich_lad": {
+        "name": "kaz-khalifahaltaich-lad",
+        "author": "Khalifah Altai Charity Foundation",
+        "language": "Kazakh",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltaich-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kaz-khalifahaltaich-lad.min.json"
     },
     "kaz_khalifahaltaich": {
         "name": "kaz-khalifahaltaich",
@@ -2679,6 +2739,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tat-yakubibnnugman.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tat-yakubibnnugman.min.json"
     },
+    "tel_abdulraheemmoha_la": {
+        "name": "tel-abdulraheemmoha-la",
+        "author": "Abdul Raheem Mohammad Moulana",
+        "language": "Telugu",
+        "direction": "ltr",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-abdulraheemmoha-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-abdulraheemmoha-la.min.json"
+    },
+    "tel_abdulraheemmoha_lad": {
+        "name": "tel-abdulraheemmoha-lad",
+        "author": "Abdul Raheem Mohammad Moulana",
+        "language": "Telugu",
+        "direction": "ltr",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-abdulraheemmoha-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-abdulraheemmoha-lad.min.json"
+    },
     "tel_abdulraheemmoha": {
         "name": "tel-abdulraheemmoha",
         "author": "Abdul Raheem Mohammad Moulana",
@@ -2718,6 +2798,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-abdolmohammaday.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-abdolmohammaday.min.json"
+    },
+    "tgk_khojamirov_la": {
+        "name": "tgk-khojamirov-la",
+        "author": "Khoja Mirov",
+        "language": "Tajik",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-khojamirov-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-khojamirov-la.min.json"
+    },
+    "tgk_khojamirov_lad": {
+        "name": "tgk-khojamirov-lad",
+        "author": "Khoja Mirov",
+        "language": "Tajik",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-khojamirov-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tgk-khojamirov-lad.min.json"
     },
     "tgk_khojamirov": {
         "name": "tgk-khojamirov",
