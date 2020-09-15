@@ -1,0 +1,3 @@
+save the pdf as word
+open the word and save as text with utf-8
+perform the regex and add it to the api
