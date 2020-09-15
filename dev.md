@@ -100,4 +100,4 @@ and also you can [ask me](https://github.com/fawazahmed0/quran-api/issues/new "a
 <br>
 <br>
 
-[:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/Implementation.md)
+[:pencil2:*Improve this page*](https://github.com/fawazahmed0/quran-api/edit/1/dev.md)
