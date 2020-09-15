@@ -1,4 +1,4 @@
-## Implementation:
+## Implementation Details:
 
 ### Flags:
 
@@ -11,6 +11,11 @@ Setting [checkduplicate](https://github.com/fawazahmed0/quran-api/blob/af77602a9
 Setting [jsonrequired](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/apiscript.js#L5 "jsonrequired") to true will make the JSON in the translation required and the script will fail if no json was found in the translation file
 ### generateLatin:
 Setting [generateLatin](https://github.com/fawazahmed0/quran-api/blob/af77602a92a2ea906b0dd970b4bfeb8bc79c0bc2/apiscript.js#L7 "generateLatin") to true will make the script auto generate the latin/roman script translation using [translate.py](https://github.com/fawazahmed0/quran-api/blob/1/translate.py "translate.py") script
+### CI
+This flag is set to true by GitHub [actions](https://docs.github.com/en/actions/configuring-and-managing-workflows/using-environment-variables#default-environment-variables) during [workflow run](https://github.com/fawazahmed0/quran-api/blob/1/.github/workflows/run.yml)
+Setting the [CI](https://github.com/fawazahmed0/quran-api/blob/2e1f279e9ee27ca25cdcb0bfd1facda28b40a652/apiscript.js#L340) to true in the OS environment will make the script to generate all files and folders in REST architectural style, which is usually not required during development.
+
+
 
 
 ### Create argument:
@@ -62,6 +67,24 @@ and then the [commands](https://github.com/fawazahmed0/quran-api/blob/a009b7d069
 Then the sparse checkout arguments are [dynamically generated](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L61) depending upon the apiscript.js command and then [pip & npm packages cache](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L102) data is used, to save resources. Then the dependencies are [installed](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L115) using [requirements.txt](https://github.com/fawazahmed0/quran-api/blob/1/requirements.txt) and [package-lock.json](https://github.com/fawazahmed0/quran-api/blob/1/package-lock.json). [package-lock.json](https://github.com/fawazahmed0/quran-api/blob/1/package-lock.json) was automatically generated using [package.json](https://github.com/fawazahmed0/quran-api/blob/1/package.json) during [installation phase](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L118).
 
 Then the [apiscript.js](https://github.com/fawazahmed0/quran-api/blob/1/apiscript.js "apiscript.js") command is [executed](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L121), the [command.txt](https://github.com/fawazahmed0/quran-api/blob/1/command.txt) gets [emptied](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L125) and [logs saved](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L130)  and the changes are [commited and pushed](https://github.com/fawazahmed0/quran-api/blob/a009b7d06947628b4ad0dcfe9bf158313e1a5f36/.github/workflows/run.yml#L137) to this repository.
+
+## Development:
+
+**Note:** In Case you are trying to modify how files in [editions](https://github.com/fawazahmed0/quran-api/tree/1/editions) directory look or how [chapterverse](https://github.com/fawazahmed0/quran-api/tree/1/database/chapterverse) directory files look, then you might want to set CI flag to true(add link to CI flag in Implementation.md)
+
+
+1.  Fork [quran-api](https://github.com/fawazahmed0/quran-api "quran-api") repo
+2.  clone the forked repo:
+```bash
+git clone --filter=blob:none --no-checkout --depth 1  --sparse <YourFork.git>
+cd quran-api
+git sparse-checkout set /* !/editions/ !/database/originals/ !/database/chapterverse/
+git checkout
+```
+3. Do your changes and test the code.
+4. Now Push the Changes and Create PR (add link to contrib)
+
+
 
 
 <br>
