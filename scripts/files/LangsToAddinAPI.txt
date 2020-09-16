@@ -18,7 +18,6 @@ javanese
 kannada
 kyrgyz
 lao
-latin
 latvian
 lithuanian
 luxembourgish
@@ -34,12 +33,8 @@ samoan
 scotsgaelic
 serbian
 sesotho
-shona
-slovak
 slovenian
 sundanese
 turkmen
 welsh
-xhosa
 yiddish
-zulu
