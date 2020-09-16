@@ -3,7 +3,6 @@ basque
 belarusian
 cebuano
 corsican
-esperanto
 estonian
 frisian
 galician
@@ -11,7 +10,6 @@ georgian
 greek
 haitiancreole
 hawaiian
-hebrew
 hmong
 hungarian
 icelandic
