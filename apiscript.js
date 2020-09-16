@@ -407,7 +407,7 @@ function validateCleanTrans(arr, filename) {
     var limit = 10
     // Saving the original arr as we will be modifying it
     var orgarr = [...arr]
-    // Filtering the array from empty lines
+    // Filtering the array from empty lines, uncomment this if the input translation has so many empty lines in it
     arr = arr.filter(elem => !/^\s*$/.test(elem))
     // stores the last line string which had valid number pattern like 1|1|Praise be to God
     // setting this to first line, incase the translation is without number patters and in wrong format, it will print error in line 0
