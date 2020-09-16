@@ -1,4 +1,14 @@
 {
+    "afr_imammabaker": {
+        "name": "afr-imammabaker",
+        "author": "Imam M. A. Baker",
+        "language": "Afrikaans",
+        "direction": "ltr",
+        "source": "The Islamic Dawah Movement of Southern Africa",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/afr-imammabaker.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/afr-imammabaker.min.json"
+    },
     "amh_muhammedsadiqan_la": {
         "name": "amh-muhammedsadiqan-la",
         "author": "Muhammed Sadiq And Muhammed Sani Habib",
@@ -588,6 +598,56 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-prekladihrbek.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-prekladihrbek.min.json"
+    },
+    "dan_hadiabdollahian": {
+        "name": "dan-hadiabdollahian",
+        "author": "Hadi Abdollahian",
+        "language": "Danish",
+        "direction": "ltr",
+        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian.min.json"
+    },
+    "dan_hadiabdollahian1": {
+        "name": "dan-hadiabdollahian1",
+        "author": "Hadi Abdollahian",
+        "language": "Danish",
+        "direction": "ltr",
+        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian1.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian1.min.json"
+    },
+    "dan_hadiabdollahian3": {
+        "name": "dan-hadiabdollahian3",
+        "author": "Hadi Abdollahian",
+        "language": "Danish",
+        "direction": "ltr",
+        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian3.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian3.min.json"
+    },
+    "dan_hadiabdollahian6": {
+        "name": "dan-hadiabdollahian6",
+        "author": "Hadi Abdollahian",
+        "language": "Danish",
+        "direction": "ltr",
+        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian6.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian6.min.json"
+    },
+    "dan_vandetaal": {
+        "name": "dan-vandetaal",
+        "author": "Van De Taal",
+        "language": "Danish",
+        "direction": "ltr",
+        "source": "https://www.alqurantranslation.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-vandetaal.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-vandetaal.min.json"
     },
     "deu_aburidamuhammad_la": {
         "name": "deu-aburidamuhammad-la",
@@ -1489,6 +1549,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmoud.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hau-abubakarmahmoud.min.json"
     },
+    "heb_unknown": {
+        "name": "heb-unknown",
+        "author": "Unknown",
+        "language": "Hebrew",
+        "direction": "rtl",
+        "source": "http://goodwordbooks.com/ , http://cpsglobal.org/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/heb-unknown.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/heb-unknown.min.json"
+    },
     "hin_maulanaazizulha_la": {
         "name": "hin-maulanaazizulha-la",
         "author": "Maulana Azizul Haque Al Umari",
@@ -1548,6 +1618,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hin-suhelfarooqkhan.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hin-suhelfarooqkhan.min.json"
+    },
+    "hrv_unknown_la": {
+        "name": "hrv-unknown-la",
+        "author": "Unknown",
+        "language": "Croatian",
+        "direction": "ltr",
+        "source": "http://donatequran.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hrv-unknown-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hrv-unknown-la.min.json"
+    },
+    "hrv_unknown": {
+        "name": "hrv-unknown",
+        "author": "Unknown",
+        "language": "Croatian",
+        "direction": "ltr",
+        "source": "http://donatequran.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hrv-unknown.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hrv-unknown.min.json"
     },
     "ibo_ramdaneatmansou_la": {
         "name": "ibo-ramdaneatmansou-la",
@@ -2099,6 +2189,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nor-einarberg.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nor-einarberg.min.json"
     },
+    "nya_alhajiyusufmuha": {
+        "name": "nya-alhajiyusufmuha",
+        "author": "Al Haji Yusuf Muhammad Kanyamula",
+        "language": "Chichewa",
+        "direction": "ltr",
+        "source": "http://goodwordbooks.com/, Goodword Books, Islamic Dawah Movement of Southern Africa",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nya-alhajiyusufmuha.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/nya-alhajiyusufmuha.min.json"
+    },
     "orm_ghaliapapurapag": {
         "name": "orm-ghaliapapurapag",
         "author": "Ghali Apapur Apaghuna",
@@ -2398,6 +2498,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-wwwislamhouseco.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-wwwislamhouseco.min.json"
+    },
+    "sna_abdullahjmadini": {
+        "name": "sna-abdullahjmadini",
+        "author": "Abdullah J. M. Adini And Students",
+        "language": "Shona",
+        "direction": "ltr",
+        "source": "https://www.islamic-invitation.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sna-abdullahjmadini.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sna-abdullahjmadini.min.json"
     },
     "snd_tajmehmoodamrot": {
         "name": "snd-tajmehmoodamrot",
@@ -3729,6 +3839,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/vie-hassanabdulkari.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/vie-hassanabdulkari.min.json"
     },
+    "xho_imaamismaaeelng": {
+        "name": "xho-imaamismaaeelng",
+        "author": "Imaam Ismaaeel Ngqoyiyana",
+        "language": "Xhosa",
+        "direction": "ltr",
+        "source": "The Islamic Dawah Movement of Southern Africe(IDM) , https://www.alqurantranslation.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/xho-imaamismaaeelng.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/xho-imaamismaaeelng.min.json"
+    },
     "yor_shaykhaburahima_la": {
         "name": "yor-shaykhaburahima-la",
         "author": "Shaykh Abu Rahimah Mikael Aykyuni",
@@ -3838,5 +3958,15 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-muhammadmakin.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-muhammadmakin.min.json"
+    },
+    "zul_iqembulezifundi": {
+        "name": "zul-iqembulezifundi",
+        "author": "Iqembu Lezifundiswa, Mussa Muhammad Telela , Uthman Mfanafuthi Msomi, Moulana Abdur Rahman Chilipa, Haji Ibrahim Mondli Japhet Mthembu, Moulana Imran Ngcobo, Moulana Eshaaq Osman",
+        "language": "Zulu",
+        "direction": "ltr",
+        "source": "Islamic Dawah Movement of Southern Africa(IDM), https://www.alqurantranslation.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zul-iqembulezifundi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zul-iqembulezifundi.min.json"
     }
 }

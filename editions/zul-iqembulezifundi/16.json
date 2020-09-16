@@ -1,0 +1,644 @@
+{
+    "chapter": [
+        {
+            "chapter": 16,
+            "verse": 1,
+            "text": "Impoqo ka-Mvelinqangi iyeza ngakho-ke ungayijahi udumo malube kuye nokuphakanyiswa ngaphezu kwalokho abakwenzela uMvelinqangi abahlanganyeli ekumkhonzeni"
+        },
+        {
+            "chapter": 16,
+            "verse": 2,
+            "text": "Uthumela phansi izingelosi nesambulo ngempoqo yakhe kunoma ngabe ubani amthandayo ezincekwini zakhe ukuze zexwaye ukuthi akunanto enokukhonzwa ngaphandle kwami (uMvelinqangi) ngakho-ke ngesabeni"
+        },
+        {
+            "chapter": 16,
+            "verse": 3,
+            "text": "Wadala amazulunomhlabangeqiniso, ungaphezukwakokonke lokho abamenzela ngakho abahlanganyeli ekumkhonzeni"
+        },
+        {
+            "chapter": 16,
+            "verse": 4,
+            "text": "Wadala umuntu ngeconsi lesidoda elihlangene nokuphuma kwesifazane kepha (lowo muntu) nguyena oyisitha esigqamile"
+        },
+        {
+            "chapter": 16,
+            "verse": 5,
+            "text": "Nezinkomo wazidalela nina, kuzona kunemfudumalo (izembatho ezifudumele) kanye nenzuzo futhi niyayidla inyama yazo"
+        },
+        {
+            "chapter": 16,
+            "verse": 6,
+            "text": "Futhi kunobuhle kunina ngenkathi niziqhuba (nibuya nazo) nangenkathi nizikhiphela (emadlelweni azo)"
+        },
+        {
+            "chapter": 16,
+            "verse": 7,
+            "text": "Futhi zinithwalela imithwalo yenu esindayo ziyise endaweni ebeningeke nifinyelele kuyona ngaphandle kobunzima bemiphefumulo, ngempela iNkosi yenu inobubele inesihawu"
+        },
+        {
+            "chapter": 16,
+            "verse": 8,
+            "text": "Futhi (wadala) amahhashi neminyuzi nezimbongolo ukuze nikugibele (njengo) mhlobiso futhi udala konke lokho eningakwazi"
+        },
+        {
+            "chapter": 16,
+            "verse": 9,
+            "text": "Futhi ikuMvelinqangi inhloso yendlela (eqondile) futhi phakathi kwezindlela kunezinye eziphambukayo futhi ukube wayethanda wayezoniholela (endleleni eqondile) nonke"
+        },
+        {
+            "chapter": 16,
+            "verse": 10,
+            "text": "Nguyena owehlisela phansi amanzi (imvula) evela esibhakabhakeni ukuze niphuze kuyona, futhi ngayo (imvula) kumila izitshalo ezidliwa imfuyo"
+        },
+        {
+            "chapter": 16,
+            "verse": 11,
+            "text": "Unimilisela ngayo izitshalo nomhlwathi (olivi) namasundu namagilebhisi kanye nazo zonke izinhlobo zezithelo, ngempela kulokho kunophawu ebantwini abacabangayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 12,
+            "text": "Futhi wanenzela ubusuku nemini nelanga nenyanga kanye nezinkanyezi, kwenziwa ngempoqo yakhe, ngempela kulokho kunezimpawu ebantwni abanomqondo"
+        },
+        {
+            "chapter": 16,
+            "verse": 13,
+            "text": "Futhi konke lokho anidalela kona emhlabeni kunemibala eyehlukehlukene ngempela kulokho kunophawu (kunesifundo) kubantu abacangayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 14,
+            "text": "Futhi nguyena owadala ulwandle ukuze nikwazi ukudla inyama entsha ephuma kulona (izinhlanzi nokunye) nokuthi nikhiphe kulona izinto zokuhlobisa enizigqokayo futhi nokuthi imikhumbi ihamba kulona nokuthi ukuze nifune umusa wakhe futhi ukuze nibonge"
+        },
+        {
+            "chapter": 16,
+            "verse": 15,
+            "text": "Futhi waphonsa emhlabeni izintaba zasimama hleze zizamazame kanye nani, kanye nemifula nezindlela ukuze nizihole nina uqobo lwenu"
+        },
+        {
+            "chapter": 16,
+            "verse": 16,
+            "text": "Kanye nezimpawu nangezinkanyezi (ebusuku) bona bayaholeleka (ngenxa yokukhanya kwazo)"
+        },
+        {
+            "chapter": 16,
+            "verse": 17,
+            "text": "Ngakube lowo odalayo uyefana yini nalowo ongadali na? Ngakube anikhumbuli yini na"
+        },
+        {
+            "chapter": 16,
+            "verse": 18,
+            "text": "Futhi uma ningase (nifise) ukubala ububele bukaMvelinqangi angeke nikwazi ukububala ngempela uMvelinqangi uyathethelela unesihawu"
+        },
+        {
+            "chapter": 16,
+            "verse": 19,
+            "text": "Futhi uMvelinqangi uyakwazi konke lokho enikufihlayo nakho konke lokho enikuvezayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 20,
+            "text": "Futhi labo abamemeza (abakhonza) abanye esikhundleni sikaMvelinqangi abadali lutho bona uqobo lwabo badalwa"
+        },
+        {
+            "chapter": 16,
+            "verse": 21,
+            "text": "Abafile abaphili futhi abazi ukuthi bayovuswa nini"
+        },
+        {
+            "chapter": 16,
+            "verse": 22,
+            "text": "UMvelinqangi wenu uMvelinqangi oyedwa vo ngakho- ke labo abangakholelwa empilweni ezayo izinhliziyo zabo ziyakwenqaba (lokho) futhi bona bayazigabisa"
+        },
+        {
+            "chapter": 16,
+            "verse": 23,
+            "text": "Akungabazeki ukuthi uMvelinqangi uyakwazi lokho abakufihlayo kanye nalokho abakuvezayo ngempela yena akabathandi abazigabisayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 24,
+            "text": "Futhi uma (bebuzwa) kuthiwa kubona yini eyembulwa iNkosi yena na? bathi, “izinganekwane zabantu basendulo”"
+        },
+        {
+            "chapter": 16,
+            "verse": 25,
+            "text": "Ukuze bakwazi ukuthwala imithwalo yabo yonke ngelanga lokuvuka kwabafileyo kanye nemithwalo yalabo ababadukisa ngaphandle kolwazi ngokungangabazeki kubi lokho abayokuthwala"
+        },
+        {
+            "chapter": 16,
+            "verse": 26,
+            "text": "Labo ababengaphambilini kwabo benza icebo ngakho-ke uMvelinqangi weza ezakhiweni zabo eqhamuka ezisekelweni (zezakhiwo zabo) ngakho-ke lawela kubona uphahla luqhamuka ngaphezu kwabo nesijeziso saqhamuka kubona lapho babengaboni ukuthi singaqhamuka khona"
+        },
+        {
+            "chapter": 16,
+            "verse": 27,
+            "text": "Besekuthi ngosuku lokuvuka kwabafileyo abajabhise futhi athi, “baphi abahlanganyeli bami (enaningenzela bona) labo nina enaniphikisa ngabo (abakholwayo) labo ababenikwe ulwazi bayothi, “ngempela usuku lehlazo nokubi kuphezu kwabangakholwayo”"
+        },
+        {
+            "chapter": 16,
+            "verse": 28,
+            "text": "Labo izingelosi ezenza ukuthi bafe kulapho bona benze okungenabulungiswa emiphefumulweni yabo, ngakho- ke bayozinikela (bathi) “asizange sikwenze okubi” yebo (izingelosi ziyothi) “ngempela uMvelinqangi uyisazi saloko enanikwenza”"
+        },
+        {
+            "chapter": 16,
+            "verse": 29,
+            "text": "Ngakho-ke ngenani emasangweni esihogo nihlale khona phakathi ingunaphakade ngakho-ke yimbi indawo yokuhlala abazigabisayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 30,
+            "text": "Futhi kuyothiwa kulabo ababenza okulungileyo, “yini eyembulwa iNkosi yenu na?” bayothi “okuhle kulabo abenza okuhle, kulomhlaba kunobuhle futhi ngempela ikhaya lempilo ezayo lingcono futhi ngempela lingelekhethelo ikhaya labalungileyo.”"
+        },
+        {
+            "chapter": 16,
+            "verse": 31,
+            "text": "Izivande zaseEden abayongena kuzona okugeleza ngaphansi kwazo imifula, okwabo khona yikhona konke abakuthandayo, uMvelinqangi ubanika kanjalo umvuzo abenzi bokuhle"
+        },
+        {
+            "chapter": 16,
+            "verse": 32,
+            "text": "Labo izingelosi ezabenza ukuba bafe bengabalungileyo ziyothi “ukuthula makube kunina! Ngenani esivandeni ngenxa yalokho enanikwenza.”"
+        },
+        {
+            "chapter": 16,
+            "verse": 33,
+            "text": "Ngakube balinde (okuthize) ngaphandle kokuthi izingelosi zifike kubona noma ukuthi kufike impoqo yeNkosi yakho na? Benza kanjalo labo ababengaphambilini kwabo futhi uMvelinqangi akazange enze okungenabulungiswa kubona kepha imiphefumulo yabo eyazona yona"
+        },
+        {
+            "chapter": 16,
+            "verse": 34,
+            "text": "Ngakho-ke behlelwa ilobo bubi ababekwenza futhi kwaqiniseka kubona lokho ababenza inhlekisa ngakho"
+        },
+        {
+            "chapter": 16,
+            "verse": 35,
+            "text": "Futhi labo ababekhonza izithixo bathi, “ukube uMvelinqangi wayethanda sasingeke sikhonze lutho esikhundleni sakhe thina nabobaba bethu futhi sasingeke sinqabele lutho ngaphandle kwakhe, benza kanjalo labo ababengaphambilini kwabo, ngakube ukhona yini omunye umsebenzi ophezu kwezithunywa ngaphandle kokudlulisa umyalezo ocacile na"
+        },
+        {
+            "chapter": 16,
+            "verse": 36,
+            "text": "Futhi ngempela sathumela kuzona zonke izizwe isithunywa ukuze (abantu) bakhonze uMvelinqangi baqhelelane nabonkulunkulu bamanga (izithixo) ngakho-ke phakathi kwabo kunalabo abaholwa nguMvelinqangi futhi phakathi kwabo kunalabo okugxilisiwe kubona ukuduka ngakho-ke hambani emhlabeni bese niyabona ukuthi sasinjani isiphetho sababephika"
+        },
+        {
+            "chapter": 16,
+            "verse": 37,
+            "text": "Uma ufisa ukubahola ngakho-ke ngempela uMvelinqangi akabaholi labo abadukisile futhi angeke baze babenabo abasizi"
+        },
+        {
+            "chapter": 16,
+            "verse": 38,
+            "text": "Futhi bafunga ngoMvelinqangi izifungo zabo ezinzima, uMvelinqangiangekeamvuselowoofayoyebo! Kuyisithembiso kuyena esiyiqiniso kepha iningi labantu alazi"
+        },
+        {
+            "chapter": 16,
+            "verse": 39,
+            "text": "Ukuze abacacisele lokho abaphikisana kukona futhi ukuze bazi labo abangakholwanga ukuthi ngempela bona babengabaqambi bamanga"
+        },
+        {
+            "chapter": 16,
+            "verse": 40,
+            "text": "Kuphela inkulumo yethu entweni uma siyiqondile sithi kuyona “yenzeka” bese iyenzeka"
+        },
+        {
+            "chapter": 16,
+            "verse": 41,
+            "text": "Futhi labo ababefuduka ngenxa kaMvelinqangi emva kokuba becindezelwe ngempela sizobahlalisa lapho emhlabeni inhlalo enhle futhi nomvuzo wempilo ezayo mkhulu kakhulu ukube bebazi"
+        },
+        {
+            "chapter": 16,
+            "verse": 42,
+            "text": "Labo ababekezela futhi babeka ithemba eNkosini yabo"
+        },
+        {
+            "chapter": 16,
+            "verse": 43,
+            "text": "Futhi asizange sithumele muntu ngaphambilini kwakho ngaphandle kwamadoda esambulo kuwona (umyalezo wethu) ngakho-ke buzani abantu abaziyo uma ningazi"
+        },
+        {
+            "chapter": 16,
+            "verse": 44,
+            "text": "(Sabathumela) nezimpawu ezicacile neZabur sabe sesembula kuwena isikhumbuzo (iQur’an) ukuze ucacisele abantu lokho okwembulwa kubona futhi ukuze babe nokucabanga"
+        },
+        {
+            "chapter": 16,
+            "verse": 45,
+            "text": "Ngakho-ke ngakube bazizwa bephephile yini labo abenza amacebo amabi ukuthi uMvelinqangi angeke enze umhlaba ukuthi ubagwinye noma ukuthi bafikelwe isijeziso lapho bengaboni khona na"
+        },
+        {
+            "chapter": 16,
+            "verse": 46,
+            "text": "Noma ukuthi ababambe (abajezise) ekuyeni kwabo phambili nasemumva ngakho-ke bona angeke baphunyuke"
+        },
+        {
+            "chapter": 16,
+            "verse": 47,
+            "text": "Noma ukuthi ababambe lapho besaba khona ngakho-ke ngempela iNkosi yenu inobubele inesihawu"
+        },
+        {
+            "chapter": 16,
+            "verse": 48,
+            "text": "Ngakube abakuboni yini konke lokho akudala uMvelinqangi na? Izithunzi zako ziya ngasesandleni sokudla nangakwesobunxele zakhothamela uMvelinqangi kulapho zona zezithobileyo"
+        },
+        {
+            "chapter": 16,
+            "verse": 49,
+            "text": "Futhi kukhothamela uMvelinqangi konke okusemazulwini nakho konke okusemhlabeni okuyizidalwa eziphilayo kanye nezingelosi futhi zona azizigabisi"
+        },
+        {
+            "chapter": 16,
+            "verse": 50,
+            "text": "Ziyayesaba iNkosi yazo ngaphezu kwabo futhi zenza lokho ezikuphoqwayo ukuba zikwenze"
+        },
+        {
+            "chapter": 16,
+            "verse": 51,
+            "text": "Futhi uNkulunkulu wathi “ningabi noNkulunkulu ababili” kuphela yena unguNkulunkulu oyedwa, ngakho-ke yesabani mina kuphela"
+        },
+        {
+            "chapter": 16,
+            "verse": 52,
+            "text": "Futhi kungokwakhe konke okusemazulwini nasemhlabeni futhi inkolo ingeyakhe, ngakube nesaba omunye kunoMvelinqangi na"
+        },
+        {
+            "chapter": 16,
+            "verse": 53,
+            "text": "Futhi noma ngabe ububele buni eninabo ngakho-ke buvela kuMvelinqangi bese kuthi uma nithintwa ukuhlupheka bese nikhala kuyena"
+        },
+        {
+            "chapter": 16,
+            "verse": 54,
+            "text": "Besekuthi uma esusa ukuhlupheka kunina kulapho ingxenye yeqembu lenu lenzela iNkosi yalo abahlanganyeli ekuyikhonzeni"
+        },
+        {
+            "chapter": 16,
+            "verse": 55,
+            "text": "Ukuze bakuphike lokho esabanika kona ngakho-ke zithokoziseni niyokwazi (masinyane umphumela waloko)"
+        },
+        {
+            "chapter": 16,
+            "verse": 56,
+            "text": "Futhi babekela lokho abangakwazi ingxenye kulokho esabapha kona ngoMvelinqangi! Ngempela niyobuzwa ngalokho enikuqambayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 57,
+            "text": "Futhi babekela uMvelinqangi amadodakazi makadunyiswe (uphakeme unamandla) futhi okwabo ilokho abakufisayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 58,
+            "text": "Futhi uma oyedwa wabo etshelwa izindaba ezimnandi zokuthi (uzozala) owesifazane buyahwaqabala ubuso bakhe bubemnyama futhi agcwale intukuthelo"
+        },
+        {
+            "chapter": 16,
+            "verse": 59,
+            "text": "Azifihle ebantwini ngenxa yokubi atshelwe ngako (ukuzala ingane eyisifazane) ngakube kufanele ayigcine njengechilo noma ayingcwabe emhlabathini ngokungangabazeki ububi ilobo abakwehlulelayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 60,
+            "text": "Kulabo abangakholelwa empilweni ezayo kuyisibonelo esibi futhi singesikaMvelinqangi isibonelo esiphakeme kakhulu futhi yena uphakeme ngamandla unobuhlakani"
+        },
+        {
+            "chapter": 16,
+            "verse": 61,
+            "text": "Futhi ukube uMvelinqangi wayebabamba (abajezise) abantu ngenxa yokona kwabo wayengeke ashiye kuwona (umhlaba) ngisho noma sinye isidalwa kepha ubahlehlisa kuze kube isikhathi esinqunyiwe ngakho-ke uma sesifikile isikhathi sabo angeke bakwazi ukulibambezela ihora futhi angeke bakwazi ukuliqhubekisa"
+        },
+        {
+            "chapter": 16,
+            "verse": 62,
+            "text": "Futhi benzela uMvelinqangi lokho abangakuthandi nezilimi zabo ziphikelela ekuqambeni amanga ukuthi okwabo okulungile ngokwedlulele ngokungangabazeki ukuthi okwabo ngumlilo, futhi ngempela bona bayoshiywa benganikiwe"
+        },
+        {
+            "chapter": 16,
+            "verse": 63,
+            "text": "Ngifunga ngoMvelinqangi! Ngempela sazithumela (izithunywa) ezizweni ngaphambilini kwakho kepha usathane wabenzela ukuthi zibukeke zizinhle izenzo zabo ngakho-ke yena ungumvikeli wabo kulolusuku futhi okwabo isijeziso esibuhlungu"
+        },
+        {
+            "chapter": 16,
+            "verse": 64,
+            "text": "Futhi asiyithumelanga kuwena incwadi ngaphandle kokuba ubacacisele lokho ababephikisana ngako, nokuhola nomusa kubantu abakholwayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 65,
+            "text": "Futhi uMvelinqangi wehlisa amanzi (wanethisa imvula) evela esibhakabhakeni ngakho-ke wavusa ngayo umhlaba emva kokufa kwawo, ngempela kulokho kunophawu kubantu abalalelayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 66,
+            "text": "Futhi ngempela ezinkomeni, kunesifundo kunina siniphuzisa kulokho okuseziswini zazo okuphuma phakathi kobulongwe negazi ubisi olumsulwa oluhlwabusile kwabaliphuzayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 67,
+            "text": "Futhi nasezithelweni zamasundu nasemagilebhisini nifumana kuzona okudakisayo nesipho esihle, ngempela kulokho kunophawu (isifundo) kubantu abanomqondo"
+        },
+        {
+            "chapter": 16,
+            "verse": 68,
+            "text": "Futhi iNkosi yakho yembula enyosini ukuthi ayakhe izindlu zayo ezintabeni nasezihlahleni nakulokho (abantu) abakwakhayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 69,
+            "text": "Bese udla kuzona zonke izithelo uhambe ezindleleni zeNkosi yakho ezenziwe zaba lula, eziswini zazo kuphuma iziphuzo ezinemibala ehlukehlukene okukhona kuzona (iziphuzo ezinemibala ehlukehlukene) ukwelashwa kwabantu ngempela kulokho kunophawu kubantu abacabangayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 70,
+            "text": "Futhi uMvelinqangi wanidala wayesenenza ukuba nife futhi phakathi kwenu kunalowo oyobuyiselwa emumva ekukhuleni ngokweqile (ekugugeni) ukuze angabi nolwazi emva kokuba esekwazile okuthize, ngempela uMvelinqangi unolwazi unamandla (okwenza zonke izinto)"
+        },
+        {
+            "chapter": 16,
+            "verse": 71,
+            "text": "Futhi uMvelinqangi wakhetha abanye benu (waba nobubele kwabanye benu) kunabanye mayelana nezipho ngakho-ke labo ababekhethiwe ngaphezu kwabanye angeke izipho zabo bazinike labo abasezandleni zabo zangakwesokudla (izigqila) ukuze bona balingane kukona, ngakube baphika ububele bukaMvelinqangi na"
+        },
+        {
+            "chapter": 16,
+            "verse": 72,
+            "text": "FuthiuMvelinqangiwanenzelaninauqobolwenuamakhosikazi futhi wanipha amadodana nabazukulu emakhosikazini enu futhi wanipha ezintweni ezinhle, ngakube bakholelwa entweni eyize leze bese bona bephika ububele bukaMvelinqangi na"
+        },
+        {
+            "chapter": 16,
+            "verse": 73,
+            "text": "FuthiesikhundlenisikaMvelinqangibakhonzalokhookungeke kubaphathele lutho okuyisipho emazulwini nasemhlabeni futhi abanamandla"
+        },
+        {
+            "chapter": 16,
+            "verse": 74,
+            "text": "Ngakho-ke musani ukwenzela uMvelinqangi izibonelo, ngempela uMvelinqangi uyazi kepha nina anazi"
+        },
+        {
+            "chapter": 16,
+            "verse": 75,
+            "text": "UMvelinqangi wenza isibonelo ngesigqila esinomnikazi esingenamandla okwenza lutho kanye nalowo esamupha isipho esihle esivela kuthina ngakho-ke uyanikela ngengxenye ethize kusona esithe nasobala, ngakube bayalingana yini na? Udumo lungolukaMvelinqangi! Kepha iningi labo alazi"
+        },
+        {
+            "chapter": 16,
+            "verse": 76,
+            "text": "Futhi uMvelinqangi wenza isibonelo samadoda amabili oyedwa kubona bobabili uyisimungulu akanamandla okwenza okuthize futhi yena ungumthwalo kumnikazi wakhe noma ngabe umthuma kuphi akabuyi nalutho oluhle, ngakube yena uyalingana yini kanye nalowo ophoqa ngobulungiswa futhi yena esendleleni eqondile na"
+        },
+        {
+            "chapter": 16,
+            "verse": 77,
+            "text": "Futhi kungokukaMvelinqangi okungabonwayo okusemazul- wini nasemhlabeni futhi udaba (lokufika) kwehora aliyilutho ngaphandle kokuthi liyoba ngukuphazima kweso noma yena useduzane, ngempela uMvelinqangi unamandla ngaphezu kwazo zonke izinto"
+        },
+        {
+            "chapter": 16,
+            "verse": 78,
+            "text": "Futhi uMvelinqangi wanikhipha eziswini zabomama benu naningazi lutho wanipha ukuzwa nokubona nezinhliziyo ukuze nibe nokubonga"
+        },
+        {
+            "chapter": 16,
+            "verse": 79,
+            "text": "Ngakube abaziboni yini izinyoni ezindiza emkhathini wesibhakabhaka akekho ozithintayo ngaphandle kukaMvelinqangi, ngempela kulokho kunezimpawu kubantu abakholwayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 80,
+            "text": "Futhi nguMvelinqangi owaninika indawo yokuhlala ezindlini zenu futhi wanenzela ngezikhumba zezinkomo izindlu zalula (ukuzithwala) mhla nihamba nangamhla nihlala (lapho nifudukele khona) kanye nangovolo noboya bemvu nangoboya (bamakameli nezimbuzi) ukuze kuhlobiseke bahlale kahle okwesikhashana"
+        },
+        {
+            "chapter": 16,
+            "verse": 81,
+            "text": "Futhi nguMvelinqangi owanenzela kulokho akudalile umthunzi futhi wanenzela izindawo zokuphephela ezintabeni futhi wanenzela nezembatho ezinihlenga ekushiseni kanye nezembatho zensimbi ukunihlenga ekwesabeni (empini) uwuphelelisa kanjalo umusa wakhe phezu kwenu ukuze mhlawumbe nizinikele ngaphansi kwentando yakhe"
+        },
+        {
+            "chapter": 16,
+            "verse": 82,
+            "text": "Ngakho-ke uma befulathela, kuphela umthwala ophezu kwakho ukudlulisa umyalezo ocacile"
+        },
+        {
+            "chapter": 16,
+            "verse": 83,
+            "text": "Bayawazi umusa kaMvelinqangi kepha bayawuphika futhi iningi labo alikholwa"
+        },
+        {
+            "chapter": 16,
+            "verse": 84,
+            "text": "Futhi ngosuku mhla sivusa ufakazi kuzona zonke izizwe, ithuba angeke lize linikezwe labo abangazange bakholwa"
+        },
+        {
+            "chapter": 16,
+            "verse": 85,
+            "text": "Futhi labo abayizoni uma besibona isijeziso, ngakho-ke angeke benziwele (isijeziso) lula futhi angeke banikwe ithuba"
+        },
+        {
+            "chapter": 16,
+            "verse": 86,
+            "text": "Futhi labo ababekhonza izithixo uma sebezibona izithixo zabo bayothi, “Nkosi yethu lezi izithixo zethu esasizikhonza esikhundleni sakho ngakho-ke bayoyiphonsa kuzona inkulumo, ngempela nina ningabaqambi bamanga”"
+        },
+        {
+            "chapter": 16,
+            "verse": 87,
+            "text": "Futhi bayozinikela kuMvelinqangi ngalolosuku futhi kuyobalahlekela konke lokho ababekuqamba"
+        },
+        {
+            "chapter": 16,
+            "verse": 88,
+            "text": "Laba abangazange bakholwe futhi bavimbela (abanye) endleleni kaMvelinqangi siyonezelela kubona isijeziso phezu kwesijeziso ngenxa yokuthi babeyizoni"
+        },
+        {
+            "chapter": 16,
+            "verse": 89,
+            "text": "Futhi ngosuku lapho siyokhipha kuzona izizwe ufakazi (abaphrofethi) abayobhekana nabo bephuma phakathi kwabo bese siletha wena (Muhammad) ukuze ube ngufakazi kubona futhi sayembula kuwena incwadi (iQur’an) echaza zonke izinto neholayo nomusa nezindaba ezimnandi zabazinikeleyo ngaphansi kwentando kaMvelinqangi"
+        },
+        {
+            "chapter": 16,
+            "verse": 90,
+            "text": "Ngempela uMvelinqangi uphoqa ngobulungiswa nokwenza okuhle nokupha labo abaseduzane (izihlobo) futhi uyazenqabela izenzo ezimbi nokungahloniphi nengcindezelo, uyaniyala ukuze nikhumbule"
+        },
+        {
+            "chapter": 16,
+            "verse": 91,
+            "text": "Futhi gcwalisani isivumelwano sikaMvelinqangi uma nenze isivumelwano futhi ningazephuli izifungo emva kokuziqinisekisa kulapho senenze uMvelinqangi waba isiphephelo kunina, ngempela uMvelinqangi uyakwazi konke lokho enikwenzayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 92,
+            "text": "Futhi ningabi njengalowo owesifazane owaqaqa intambo emva kokuba (eseyenzile) yaqina ngokuthatha izifungo zenu zibe (inkohliso) phakathi kwenu, uma esinye isizwe sidlondlobele kunesinye kuphela uMvelinqangi uyanivivinya ngako futhi uyonichazela ngosuku lokuvuka kwabafileyo konke lokho enaniphikisana ngakho"
+        },
+        {
+            "chapter": 16,
+            "verse": 93,
+            "text": "Futhi ukube uMvelinqangi wayethanda wayezonenza isizwe esisodwa kepha udukisa lowo amthandayo futhi aholele endleleni eqondile lowo amthandayo futhi ngempela niyobuzwa ngalokho enanikwenza"
+        },
+        {
+            "chapter": 16,
+            "verse": 94,
+            "text": "Futhi ningabokwenza izifungo zenu phakathi kwenu ukuthi zibe inkohliso kunjengokushelela konyawo emva kokuqiniseka kwalo futhi yizwani okubi ngenxa yokuthi nanivimbela abantu endleleni kaMvelinqangi futhi okwenu kuyoba isijeziso esikhulu (esinzima)"
+        },
+        {
+            "chapter": 16,
+            "verse": 95,
+            "text": "Futhi ningabothenga isivumelwano sikaMvelinqangi ngenani elincane (ngokungeyinzuzo yalutho) kuphela okukuMvelinqangi kungcono kunina ukuba nje benazi"
+        },
+        {
+            "chapter": 16,
+            "verse": 96,
+            "text": "Konke lokho eninako kuyedlula kepha konke lokhu okukuMvelinqangi kuhlala kukhona njalo futhi ngempela siyobanika umvuzo labo ababekezelayo, umvuzo wabo ngenxa yobuhle ababekwenza"
+        },
+        {
+            "chapter": 16,
+            "verse": 97,
+            "text": "Lowo owenza izenzo ezilungileyo ngisho noma ngabe owesilisa noma owesifazane ebe engakholwa ngakho-ke siyomenza ukuthi aphile impilo enhle futhi ngempela siyobanika umvuzo, umvuzo wabo ngenxa yobuhle ababekwenza"
+        },
+        {
+            "chapter": 16,
+            "verse": 98,
+            "text": "Ngakho-ke uma ufunda iQur’an funa isiphephelo kuMvelinqangi ukuze uphephe kusathane owagxoshwa (embusweni kaMvelinqangi)"
+        },
+        {
+            "chapter": 16,
+            "verse": 99,
+            "text": "Ngempela yena (usathane) akanalo igunya phezu kwalabo abakholwayo futhi babeka ithemba eNkosini yabo"
+        },
+        {
+            "chapter": 16,
+            "verse": 100,
+            "text": "Kuphela igunya lakhe liphezu kwalabo abangabangane bakhe kanye nakulabo abenzela uMvelinqangi abahlanganyeli ekumkhonzeni (abakhonzi bezithixo)"
+        },
+        {
+            "chapter": 16,
+            "verse": 101,
+            "text": "Futhi uma sishintsha ivesi endaweni yevesi manjalo uMvelinqangi owazi ngokwedlulele ngalokho akwembulayo (akuthumela phansi) bathi “kuphela wena ungumqambi” (wamanga) kepha iningi labo alazi"
+        },
+        {
+            "chapter": 16,
+            "verse": 102,
+            "text": "Ithi, “umoya ongcwele (uGabriyeli) oyilethile (iQur’an) evela eNkosini yakho ngeqiniso ukuze iqinise labo abakholwayo, nokubahola futhi ibe njengomlethi wezindaba ezimnandi kwabakholwayo”"
+        },
+        {
+            "chapter": 16,
+            "verse": 103,
+            "text": "Futhi ngempela siyazi ukuthi bona bathi, “kuphela ufundiswa ngumuntu ulimi lwalowo abamthatha ngokuthi ungowakwelinye izwe kulapho lolu kungulimi lwesi-Arabhu olucacile”"
+        },
+        {
+            "chapter": 16,
+            "verse": 104,
+            "text": "Ngempela labo abangakholelwa emavesini kaMvelinqangi angeke abaholele endleleni eqondile uMvelinqangi, futhi okwabo isijeziso esibuhlungu"
+        },
+        {
+            "chapter": 16,
+            "verse": 105,
+            "text": "Kuphela baqamba amanga labo abangakholelwa emavesini kaMvelinqangi labo-ke yibona abangabaqambi bamanga"
+        },
+        {
+            "chapter": 16,
+            "verse": 106,
+            "text": "Lowo ongakholwa kuMvelinqangi emva kokukholwa kwakhe ngaphandle kwalowo ophoqwayo kanti inhliziyo yakhe eyenelekisekile ngenkolo kepha lowo ovulele ukungakholwa isifuba (sakhe) ngakho-ke kuphezu kwabo ukuthukuthela okuvela kuMvelinqangi futhi okwabo isijeziso esikhulu (esinzima)"
+        },
+        {
+            "chapter": 16,
+            "verse": 107,
+            "text": "Lokho kungenxa yokuthi bona babethanda impilo yalomhlaba kunempilo ezayo nokuthi uMvelinqangi akabaholi abantu abangakholwayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 108,
+            "text": "Labo yibona uMvelinqangi asicilele izinhliziyo zabo nokuzwa kwabo namehlo abo futhi labo yibona kanye abanganaki"
+        },
+        {
+            "chapter": 16,
+            "verse": 109,
+            "text": "Ngokungangabazeki ukuthi bona empilweni ezayo bayoba ngabalahlekelweyo"
+        },
+        {
+            "chapter": 16,
+            "verse": 110,
+            "text": "Besekuthi ngempela iNkosi yakho kulabo ababefuduka beya kwenye indawo emva kokuhlushwa bese beyazabalaza futhi babekezela, ngempela iNkosi yakho emva kwalokho iyathethelela inesihawu"
+        },
+        {
+            "chapter": 16,
+            "verse": 111,
+            "text": "Ngosuku lapho lowo nalowo mphefumulo uyoza uzincengela wona, futhi yonke imiphefumulo iyokhokhelwa ngokugcwele ngalokho ekwenzile futhi yona (imiphefumulo) angeke yenziwe okungenabulungiswa"
+        },
+        {
+            "chapter": 16,
+            "verse": 112,
+            "text": "Futhi uMvelinqangi wenza isibonelo sedolobha elalilondekile lenelisekile (Makkah) kwafika kulona izipho zalo kuzona zonke izindawo kepha lawuphika umusa kaMvelinqangi ngakho-ke uMvelinqangi walizwisa (ubunzima idolobha) ngokulikhungatha ngendlala nokwesaba ngenxa yalokho ababekwenza"
+        },
+        {
+            "chapter": 16,
+            "verse": 113,
+            "text": "Futhi ngempela safika kubona isithunywa esiphuma phakathi kwabo kepha basiphika ngakho-ke isijeziso sabathatha kulapho bona beyizoni"
+        },
+        {
+            "chapter": 16,
+            "verse": 114,
+            "text": "Ngakho-ke yidlani kulokho uMvelinqangi anipha kukona okuvumelekile ukuthi kungadliwa nokuhle bese niyawubonga umusa kaMvelinqangi uma kunguyena kuphela enimkhonzayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 115,
+            "text": "Kuphela akuvumelekile kunina lokho okuzifeleyo negazi kanye nenyama yengulube nalokho okubizwe igama ekungesilona likaMvelinqangi (ngenkathi kubulawa) kepha uma omunye ephoqwa yisimo engaqondile ukungahloniphi nokuphula umthetho ngakho-ke ngempela uMvelinqangi uyathethelela unesihawu"
+        },
+        {
+            "chapter": 16,
+            "verse": 116,
+            "text": "Futhi mayelana nalokho okushiwo izilimi zenu okungamanga ningabothi “lokhu kuvumelekile futhi lokhu akuvumelekile” ukuze niqambele uMvelinqangi amanga, ngempela labo abaqambela uMvelinqangi amanga angeke baphunyeleliswe"
+        },
+        {
+            "chapter": 16,
+            "verse": 117,
+            "text": "Injabulo encane bese okwabo kube isijeziso esibuhlungu"
+        },
+        {
+            "chapter": 16,
+            "verse": 118,
+            "text": "Futhi kulabo abangamaJuda sazenqabela lezo zinto esasizishilo kuwena ngaphambilini futhi asizange senze okungalungile kubona kepha imiphefumulo yabo eyenza okungalungile"
+        },
+        {
+            "chapter": 16,
+            "verse": 119,
+            "text": "Besekuthi ngempela iNkosi yakho kulabo abenza okubi ngokungazi bese beyazisola (bacele intethelelo kuMvelinqangi) emva kwalokho bese bayazilungisa, ngempela iNkosi yakho emva kwalokho iyathethelela inesihawu"
+        },
+        {
+            "chapter": 16,
+            "verse": 120,
+            "text": "Ngempela u-Abrahamu wayengumholi emhlonipha uMvelinqangi, eqotho futhi wayengesiyena omunye wabakhonza izithixo"
+        },
+        {
+            "chapter": 16,
+            "verse": 121,
+            "text": "Wayengobongayo mayelana nobubele (ayenzelwe bona nguMvelinqangi), (uMvelinqangi) wamkhetha futhi wamholela endleleni eqondile"
+        },
+        {
+            "chapter": 16,
+            "verse": 122,
+            "text": "Futhi samnika okuhle lapha emhlabeni futhi ngempela yena empilweni ezaya uyokuba ngomunye wabalungileyo"
+        },
+        {
+            "chapter": 16,
+            "verse": 123,
+            "text": "Sabe sesithumela kuwena isembulo (sathi) “landela inkolo ka- Abrahamu oqotho futhi wayengesiyena omunye wabakhonzi bezithixo”"
+        },
+        {
+            "chapter": 16,
+            "verse": 124,
+            "text": "Kuphela isabatha lalibekelwe labo ababephikisana ngalo futhi ngempela iNkosi yakho iyokwehlulela phakathi kwabo ngosuku lokuvuka kwabafileyo mayelana nalokho ababephikisana ngakho"
+        },
+        {
+            "chapter": 16,
+            "verse": 125,
+            "text": "Memela endleleni yeNkosi yakho ngobuhlakani nangentshumayelo enhle futhi uphikisane nabo ngalokho okuhle (ngendlela enhle) ngempela iNkosi yakho yona yazi ngokwedlulele ngalowo odukile endleleni yayo futhi yona yazi kangcono ngabaholiweyo"
+        },
+        {
+            "chapter": 16,
+            "verse": 126,
+            "text": "Uma nijezisa, ngakho-ke jezisani ngokulinganayo nalokho enanijeziswe ngakho, kepha uma nibekezela ngempela kungcono kwababekezelayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 127,
+            "text": "Futhi bekezela, ukubekezela kwakho angeke kube khona ngaphandle kukaMvelinqangi futhi ungaphatheki kabi ngabo futhi ungaphatheki kabi ngenxa yalokho abakucebayo"
+        },
+        {
+            "chapter": 16,
+            "verse": 128,
+            "text": "Ngempela uMvelinqangi ukanye nalabo abenza okulungileyo kanye nalabo abangabenzi bokuhle"
+        }
+    ]
+}
