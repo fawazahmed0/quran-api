@@ -70,7 +70,7 @@ Similarly:
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json")<br>
 
 ### Displaying Translation:
-Please use [Google Noto Fonts](https://www.google.com/get/noto/) for the language, to show it properly across all devices. By default OS doesn't have every language fonts installed. So you will have to install fonts for few languages such as [Burmeses](https://www.google.com/get/noto/#serif-mymr) etc
+Please use [Google Noto Fonts](https://www.google.com/get/noto/) for the language, to show it properly across all devices. By default OS doesn't have font installed for every language. So you will have to use fonts for few languages such as [Burmese](https://www.google.com/get/noto/#serif-mymr) etc, to show properly
 
 ### Contribution:
 Without your contribution, this repo won't survive, incase of any issues or problems, questions etc,<br> you can let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
