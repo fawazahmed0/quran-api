@@ -69,7 +69,7 @@ Similarly:
 > Lists arabic fonts available: <br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json")<br>
 
-### Displaying Translation:
+### Displaying Translations:
 Please use [Google Noto Fonts](https://www.google.com/get/noto/) for the language, to show it properly across all devices. By default OS doesn't have font installed for every language. So you will have to use fonts for few languages such as [Burmese](https://www.google.com/get/noto/#serif-mymr) etc, to show properly
 
 ### Contribution:
