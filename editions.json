@@ -1689,16 +1689,6 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-indonesianislam.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-indonesianislam.min.json"
     },
-    "ind_indonesianminis": {
-        "name": "ind-indonesianminis",
-        "author": "Indonesian Ministry Of Religious Affairs",
-        "language": "Indonesian",
-        "direction": "ltr",
-        "source": "http://tanzil.net",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-indonesianminis.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ind-indonesianminis.min.json"
-    },
     "ind_jalaladdinalmah": {
         "name": "ind-jalaladdinalmah",
         "author": "Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti",
@@ -1798,36 +1788,6 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-ryoichimita.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-ryoichimita.min.json"
-    },
-    "jpn_unknown_la": {
-        "name": "jpn-unknown-la",
-        "author": "Unknown",
-        "language": "Japanese",
-        "direction": "ltr",
-        "source": "http://tanzil.net",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown-la.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown-la.min.json"
-    },
-    "jpn_unknown_lad": {
-        "name": "jpn-unknown-lad",
-        "author": "Unknown",
-        "language": "Japanese",
-        "direction": "ltr",
-        "source": "http://tanzil.net",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown-lad.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown-lad.min.json"
-    },
-    "jpn_unknown": {
-        "name": "jpn-unknown",
-        "author": "Unknown",
-        "language": "Japanese",
-        "direction": "ltr",
-        "source": "http://tanzil.net",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-unknown.min.json"
     },
     "kaz_khalifahaltai_la": {
         "name": "kaz-khalifahaltai-la",
