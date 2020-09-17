@@ -66,7 +66,7 @@ Similarly:
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/info.json")<br>
 
 - `/fonts` <br>
-> List fonts available: <br>
+> Lists arabic fonts available: <br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json")<br>
 
 ### Contribution:
