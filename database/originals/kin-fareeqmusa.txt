@@ -6235,9 +6235,9 @@ Amponye obubi bw’omulabankanya sitaani omwekwesi
 Oyo alabankanya (e mitima egiri) mu bifuba by'abantu
 (Sitaani) ow’omu majiinni ne sitaani ow’omu bantu
 {
-    "name": "kin-fareeqmusa",
+    "name": "lug-fareeqmusa",
     "author": "Fareeq Musa",
-    "language": "Kinyarwanda",
+    "language": "ganda",
     "direction": "ltr",
     "source": "",
     "comments": "",

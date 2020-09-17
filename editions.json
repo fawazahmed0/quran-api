@@ -419,6 +419,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-zohurulhoque.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-zohurulhoque.min.json"
     },
+    "ber_ramdaneatmansou_la": {
+        "name": "ber-ramdaneatmansou-la",
+        "author": "Ramdane At Mansour",
+        "language": "Berber",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ber-ramdaneatmansou-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ber-ramdaneatmansou-la.min.json"
+    },
+    "ber_ramdaneatmansou": {
+        "name": "ber-ramdaneatmansou",
+        "author": "Ramdane At Mansour",
+        "language": "Berber",
+        "direction": "ltr",
+        "source": "http://tanzil.net",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ber-ramdaneatmansou.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ber-ramdaneatmansou.min.json"
+    },
     "bos_besimkorkut_la": {
         "name": "bos-besimkorkut-la",
         "author": "Besim Korkut",
@@ -558,6 +578,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/bul-tzvetantheophan.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/bul-tzvetantheophan.min.json"
+    },
+    "cat_yousseflyoussi_la": {
+        "name": "cat-yousseflyoussi-la",
+        "author": "Youssef Lyoussi",
+        "language": "Catalan",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/cat-yousseflyoussi-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/cat-yousseflyoussi-la.min.json"
+    },
+    "cat_yousseflyoussi": {
+        "name": "cat-yousseflyoussi",
+        "author": "Youssef Lyoussi",
+        "language": "Catalan",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/cat-yousseflyoussi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/cat-yousseflyoussi.min.json"
     },
     "ces_arnykl_la": {
         "name": "ces-arnykl-la",
@@ -1639,26 +1679,6 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hrv-unknown.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hrv-unknown.min.json"
     },
-    "ibo_ramdaneatmansou_la": {
-        "name": "ibo-ramdaneatmansou-la",
-        "author": "Ramdane At Mansour",
-        "language": "Igbo",
-        "direction": "ltr",
-        "source": "http://tanzil.net",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ibo-ramdaneatmansou-la.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ibo-ramdaneatmansou-la.min.json"
-    },
-    "ibo_ramdaneatmansou": {
-        "name": "ibo-ramdaneatmansou",
-        "author": "Ramdane At Mansour",
-        "language": "Igbo",
-        "direction": "ltr",
-        "source": "http://tanzil.net",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ibo-ramdaneatmansou.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ibo-ramdaneatmansou.min.json"
-    },
     "ind_indonesianislam": {
         "name": "ind-indonesianislam",
         "author": "Indonesian Islamic Affairs Ministry",
@@ -1889,16 +1909,6 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.min.json"
     },
-    "kin_fareeqmusa": {
-        "name": "kin-fareeqmusa",
-        "author": "Fareeq Musa",
-        "language": "Kinyarwanda",
-        "direction": "ltr",
-        "source": "",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kin-fareeqmusa.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kin-fareeqmusa.min.json"
-    },
     "kor_hamidchoi_la": {
         "name": "kor-hamidchoi-la",
         "author": "Hamid Choi",
@@ -1958,6 +1968,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-muhammadsalehba.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-muhammadsalehba.min.json"
+    },
+    "lug_fareeqmusa": {
+        "name": "lug-fareeqmusa",
+        "author": "Fareeq Musa",
+        "language": "Ganda",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/lug-fareeqmusa.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/lug-fareeqmusa.min.json"
     },
     "mal_abdulhameedmada_la": {
         "name": "mal-abdulhameedmada-la",
