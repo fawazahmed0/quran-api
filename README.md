@@ -69,6 +69,9 @@ Similarly:
 > Lists arabic fonts available: <br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts.json")<br>
 
+### Displaying Translation:
+Please use [Google Noto Fonts](https://www.google.com/get/noto/) for the language, to show it properly across all devices. By default OS doesn't have every language fonts installed. So you will have to install fonts for few languages such as [Burmeses](https://www.google.com/get/noto/#serif-mymr) etc
+
 ### Contribution:
 Without your contribution, this repo won't survive, incase of any issues or problems, questions etc,<br> you can let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
 - Please help by adding new translations to this repo, you can share me the translation [here](https://github.com/fawazahmed0/quran-api/issues/new "here")
