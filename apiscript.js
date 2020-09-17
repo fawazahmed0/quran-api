@@ -1097,6 +1097,7 @@ async function launchBrowser(linkToOpen, downloadPathDir) {
 
 // Detects lang of the translation, if no language is provided in the json and jsonrequired is set to false
 function detectLang(arr) {
+  logmsg("\n Trying to detect language")
   // No of lines to take of the translation to detect the langauge
   var linesToTake = 7
   var result = runPyScript(path.join(__dirname, 'translate.py'), ['detect', arr.slice(0, linesToTake).join('\n')])
