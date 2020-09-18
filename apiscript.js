@@ -404,7 +404,7 @@ function validateCleanTrans(arr, filename) {
     var j = 0;
     var stop = 0
     // specifies the limit, i.e next number of lines to search for next verse
-    var limit = 10
+    var limit = 5
     // Saving the original arr as we will be modifying it
     var orgarr = [...arr]
     // Filtering the array from empty lines, uncomment this if the input translation has so many empty lines in it
@@ -515,7 +515,7 @@ function cleanify(str) {
 function PrintEmptyVerse(arr, filename){
   arr.forEach((elem,index) => {
     if(/^\s*$/.test(elem))
-      logmsg("\nerror while checking the " + filename + " it might be missing chapter " + mappings[index][0] + " and verse " + mappings[index][1] + " check at roughly lineno " + (index + 1))
+      logmsg("\nerror while checking the " + filename + " it might be missing chapter " + mappings[index][0] + " and verse " + mappings[index][1] + ", you will find an empty verse, check near line \n"+arr[index-1])
       });
 }
 

@@ -1067,6 +1067,10 @@
         "iso1": "lb",
         "iso2": "ltz"
     },
+	"luyia": {
+        "iso1": "",
+        "iso2": "luy"
+    },
     "macedonian": {
         "iso1": "mk",
         "iso2": "mkd"
