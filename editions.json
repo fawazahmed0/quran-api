@@ -619,6 +619,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-arnykl.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-arnykl.min.json"
     },
+    "ces_hadiabdollahian_la": {
+        "name": "ces-hadiabdollahian-la",
+        "author": "Hadi Abdollahian",
+        "language": "Czech",
+        "direction": "ltr",
+        "source": "Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-hadiabdollahian-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-hadiabdollahian-la.min.json"
+    },
+    "ces_hadiabdollahian": {
+        "name": "ces-hadiabdollahian",
+        "author": "Hadi Abdollahian",
+        "language": "Czech",
+        "direction": "ltr",
+        "source": "Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-hadiabdollahian.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-hadiabdollahian.min.json"
+    },
     "ces_prekladihrbek_la": {
         "name": "ces-prekladihrbek-la",
         "author": "Preklad I. Hrbek",
@@ -1429,6 +1449,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-unknown.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fas-unknown.min.json"
     },
+    "fil_abdullatifeduar": {
+        "name": "fil-abdullatifeduar",
+        "author": "Abdullatif Eduardo M. Arceo",
+        "language": "Filipino",
+        "direction": "ltr",
+        "source": "Goodword Books , http://www.goodwordbooks.com/ , Center for Peace and Spirituality , https://www.cpsglobal.org/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fil-abdullatifeduar.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fil-abdullatifeduar.min.json"
+    },
     "fil_wwwislamhouseco": {
         "name": "fil-wwwislamhouseco",
         "author": "Www.islamhouse.com",
@@ -1789,6 +1819,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-ryoichimita.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-ryoichimita.min.json"
     },
+    "kan_abdussalamputhi": {
+        "name": "kan-abdussalamputhi",
+        "author": "Abdussalam Puthige",
+        "language": "Kannada",
+        "direction": "ltr",
+        "source": "http://quraninkannada.com , aputhige@gmail.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kan-abdussalamputhi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kan-abdussalamputhi.min.json"
+    },
     "kaz_khalifahaltai_la": {
         "name": "kaz-khalifahaltai-la",
         "author": "Khalifah Altai",
@@ -1939,6 +1979,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/lug-fareeqmusa.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/lug-fareeqmusa.min.json"
     },
+    "luy_mohammadramadha": {
+        "name": "luy-mohammadramadha",
+        "author": "Mohammad Ramadhan Sebwa, Ramadhan Hajj Ndeka, Ismail Were, Musa Murasi Salim Kukuya, Yusuf Shiundu Malala, Yahya Wafula Ojwang, Haroon Albert Msah",
+        "language": "Luyia",
+        "direction": "ltr",
+        "source": "https://www.islamic-invitation.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/luy-mohammadramadha.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/luy-mohammadramadha.min.json"
+    },
     "mal_abdulhameedmada_la": {
         "name": "mal-abdulhameedmada-la",
         "author": "Abdul Hameed Madani And Kunhi Mohammed",
@@ -2078,6 +2128,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.min.json"
+    },
+    "mya_ghazimohammadha": {
+        "name": "mya-ghazimohammadha",
+        "author": "Ghazi Mohammad Hashim",
+        "language": "Burmese",
+        "direction": "ltr",
+        "source": "http://quran.mmsy.info/app/ , Muslim students Myanmar Youth Student and Youth Online Organization",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-ghazimohammadha.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-ghazimohammadha.min.json"
+    },
+    "mya_hashimtinmyint": {
+        "name": "mya-hashimtinmyint",
+        "author": "Hashim Tin Myint",
+        "language": "Burmese",
+        "direction": "ltr",
+        "source": "http://quran.mmsy.info/app/ , Muslim students Myanmar Youth Student and Youth Online Organization",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-hashimtinmyint.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-hashimtinmyint.min.json"
     },
     "nep_ahlalhadithcent_la": {
         "name": "nep-ahlalhadithcent-la",
@@ -2289,6 +2359,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ron-georgegrigore.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ron-georgegrigore.min.json"
     },
+    "ron_hadiabdollahian": {
+        "name": "ron-hadiabdollahian",
+        "author": "Hadi Abdollahian",
+        "language": "Romanian",
+        "direction": "ltr",
+        "source": "Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ron-hadiabdollahian.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ron-hadiabdollahian.min.json"
+    },
     "ron_unknown_la": {
         "name": "ron-unknown-la",
         "author": "Unknown",
@@ -2308,6 +2388,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ron-unknown.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ron-unknown.min.json"
+    },
+    "run_sheikhamissirad": {
+        "name": "run-sheikhamissirad",
+        "author": "Sheikh Amissi Radjabu Ntamba",
+        "language": "Rundi",
+        "direction": "ltr",
+        "source": "aradjantas@gmail.com , www.islamic-invitation.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/run-sheikhamissirad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/run-sheikhamissirad.min.json"
     },
     "rus_abuadel_la": {
         "name": "rus-abuadel-la",
@@ -2449,6 +2539,36 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/rus-vporokhova.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/rus-vporokhova.min.json"
     },
+    "sin_naseemismailand_la": {
+        "name": "sin-naseemismailand-la",
+        "author": "Naseem Ismail And Masoor Maulana, Kaleel",
+        "language": "Sinhala",
+        "direction": "ltr",
+        "source": "https://alquran.cloud/api",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-naseemismailand-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-naseemismailand-la.min.json"
+    },
+    "sin_naseemismailand_lad": {
+        "name": "sin-naseemismailand-lad",
+        "author": "Naseem Ismail And Masoor Maulana, Kaleel",
+        "language": "Sinhala",
+        "direction": "ltr",
+        "source": "https://alquran.cloud/api",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-naseemismailand-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-naseemismailand-lad.min.json"
+    },
+    "sin_naseemismailand": {
+        "name": "sin-naseemismailand",
+        "author": "Naseem Ismail And Masoor Maulana, Kaleel",
+        "language": "Sinhala",
+        "direction": "ltr",
+        "source": "https://alquran.cloud/api",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-naseemismailand.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-naseemismailand.min.json"
+    },
     "sin_wwwislamhouseco_la": {
         "name": "sin-wwwislamhouseco-la",
         "author": "Www.islamhouse.com",
@@ -2519,6 +2639,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/som-shaykhmahmoodmu.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/som-shaykhmahmoodmu.min.json"
     },
+    "sot_sheikheliaskeke": {
+        "name": "sot-sheikheliaskeke",
+        "author": "Sheikh Elias Keketso Lelia",
+        "language": "Sotho",
+        "direction": "ltr",
+        "source": "Islamic Dawah Movement of Southern Africa (IDM)",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sot-sheikheliaskeke.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sot-sheikheliaskeke.min.json"
+    },
     "spa_islamicfoundati_la": {
         "name": "spa-islamicfoundati-la",
         "author": "Islamic Foundation",
@@ -2578,6 +2708,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-juliocortes.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-juliocortes.min.json"
+    },
+    "spa_muhammadasadabd_la": {
+        "name": "spa-muhammadasadabd-la",
+        "author": "Muhammad Asad Abdurrasak Perez",
+        "language": "Spanish",
+        "direction": "ltr",
+        "source": "https://alquran.cloud/api",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-muhammadasadabd-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-muhammadasadabd-la.min.json"
+    },
+    "spa_muhammadasadabd": {
+        "name": "spa-muhammadasadabd",
+        "author": "Muhammad Asad Abdurrasak Perez",
+        "language": "Spanish",
+        "direction": "ltr",
+        "source": "https://alquran.cloud/api",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-muhammadasadabd.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-muhammadasadabd.min.json"
     },
     "spa_muhammadisagarc_la": {
         "name": "spa-muhammadisagarc-la",
@@ -3649,6 +3799,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uig-shaykhmuhammads.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/uig-shaykhmuhammads.min.json"
     },
+    "ukr_hadiabdollahian_la": {
+        "name": "ukr-hadiabdollahian-la",
+        "author": "Hadi Abdollahian",
+        "language": "Ukrainian",
+        "direction": "ltr",
+        "source": "Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-hadiabdollahian-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-hadiabdollahian-la.min.json"
+    },
+    "ukr_hadiabdollahian": {
+        "name": "ukr-hadiabdollahian",
+        "author": "Hadi Abdollahian",
+        "language": "Ukrainian",
+        "direction": "ltr",
+        "source": "Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-hadiabdollahian.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ukr-hadiabdollahian.min.json"
+    },
     "ukr_mykhayloyakubov_la": {
         "name": "ukr-mykhayloyakubov-la",
         "author": "Mykhaylo Yakubovych",
@@ -3849,6 +4019,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/yor-shaykhaburahima.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/yor-shaykhaburahima.min.json"
     },
+    "zho_anonymousgroupo_lad": {
+        "name": "zho-anonymousgroupo-lad",
+        "author": "Anonymous Group Of Translators",
+        "language": "Chinese(traditional)",
+        "direction": "ltr",
+        "source": "Goodword Books , http://www.goodwordbooks.com/ , Center for Peace and Spirituality , https://www.cpsglobal.org/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-anonymousgroupo-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-anonymousgroupo-lad.min.json"
+    },
+    "zho_anonymousgroupo": {
+        "name": "zho-anonymousgroupo",
+        "author": "Anonymous Group Of Translators",
+        "language": "Chinese(traditional)",
+        "direction": "ltr",
+        "source": "Goodword Books , http://www.goodwordbooks.com/ , Center for Peace and Spirituality , https://www.cpsglobal.org/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-anonymousgroupo.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-anonymousgroupo.min.json"
+    },
     "zho_majian_la": {
         "name": "zho-majian-la",
         "author": "Ma Jian",
@@ -3908,6 +4098,36 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-majian1.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-majian1.min.json"
+    },
+    "zho_mazhonggang_la": {
+        "name": "zho-mazhonggang-la",
+        "author": "Ma Zhong Gang",
+        "language": "Chinese(simplified)",
+        "direction": "ltr",
+        "source": "https://alquran.cloud/api",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-mazhonggang-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-mazhonggang-la.min.json"
+    },
+    "zho_mazhonggang_lad": {
+        "name": "zho-mazhonggang-lad",
+        "author": "Ma Zhong Gang",
+        "language": "Chinese(simplified)",
+        "direction": "ltr",
+        "source": "https://alquran.cloud/api",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-mazhonggang-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-mazhonggang-lad.min.json"
+    },
+    "zho_mazhonggang": {
+        "name": "zho-mazhonggang",
+        "author": "Ma Zhong Gang",
+        "language": "Chinese(simplified)",
+        "direction": "ltr",
+        "source": "https://alquran.cloud/api",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-mazhonggang.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-mazhonggang.min.json"
     },
     "zho_muhammadmakin_la": {
         "name": "zho-muhammadmakin-la",

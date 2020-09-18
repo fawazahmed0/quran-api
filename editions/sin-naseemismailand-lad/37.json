@@ -1,0 +1,914 @@
+{
+    "chapter": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "peḷa gæsī siṭinnan mata sattakinma"
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "(napura) itā dæḍi lesa eḷavāgena yannan mata sattakinma"
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "(deviyangē) dharmaya samudīraṇaya karannan mata sattakinma"
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "niyata vaśayenma obagē deviyan ekama ekkeneki"
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "ahasda, bhūmiyada, ēvā madhyayehi æti dæyada utpādanaya kara, pōṣaṇaya karannā, pahata disā (van hā ihaḷa disā) vanhi deviyanya"
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "niyata vaśayenma obagē (deviyan vana) api (mema bhūmiyaṭa itāmat ḷan̆gin) pahatin æti ahasehi bæbaḷena tārakāvan magin alaṁkāravat kara tabā ættemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "(eya alaṁkāravat lesa tikheṇa atara) napuran vana siyalūma ṣeyitānvarunṭada bādhakayak vaśayenda (ættēya)"
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "śrēṣṭha (uttarītara ihaḷa sabhāvē) vadan (ṣeyitānvarunṭa) savan dīmaṭa nohæka"
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "(mandayat eyaṭa ḷan̆gā vana sǣma kenekuṭama) vividha diśāvangen (ginnen) pahara denu læba, eḷavā damanu labannāha. ovunṭa sthīra vū dan̆ḍuvam æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "(yamkisi vidihakin væradīmakin hō yam vadanak) horen æsīmaṭa ḷaṁ vuvahot evelēma ohuva giṇi pupuru vīsi vana ginna magin eḷavanu læbē"
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "(nabiyē!) utpādanayangen itāmat śaktivantayin ovunda? nætahot api utpādanaya kara æti dæya (vana ahas, bhūmiya, tārakāvan ādī) dæyada? (yayi pratikṣēpa karannan vana) movungen vimasanu. niyata vaśayenma api ovunva (læjjayi) ælena suḷu kirimæṭiyenma utpādanaya kara ættemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "(nabiyē!) oba (allāhgē prātihāryayan dæka) vimatiyaṭa pat vannehiya. ovun nam, (eya) samaccal karannehuya"
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "tavada ovunṭa hon̆da ovadan pavasanu læbūvā vuvada, eya ovun avadhānaya karannē næta"
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "kumana sādhakayak duṭuvā vuvada, ovun samaccal karannāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "tavada “meya prakaṭa sūniyamak misa, vena kisivak næta” yayida pavasannāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "“api maraṇayaṭa pat vī (dirā gos) pas bavaṭada, æṭa bavaṭada pat vū pasu, ættenma api nægiṭiṭavanu labannemuda?” (yayida)"
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "“(esēma) apagē mutun mittanda nægiṭavanu labannehuda?” yayida- (samaccalayen pavasannāha)"
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "eyaṭa (nabiyē!) oba mesē pavasanu: “ættaya. (nægiṭavanu labannehuya). ē atara oba dīnavū aya bavaṭada siṭinnehuya”"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "ekama eka tigæssena suḷu śabdayak pamaṇakma (æti vanu æta). evelēma ovun (nægiṭa anda manda vī) æhærennāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "“api æsuvemu! meya phalavipāka dena davasa vūvā noveda!” yayida ovun pavasanu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "(eyaṭa ovunṭa) “oba boru karamin siṭi viniścaya dinaya adayi” (yayi kiyanu læbē)"
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "“aparādha kaḷa ayavada, ovungē sahakāriyanvada"
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "allāh hæra ovun namadimin siṭi dæyada, ēkarāśī kara, ovunva nirayē mārgayehi ædagena yanu” (yayida)"
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "“(ehi) ovunva navatā tabanu. niyata vaśayenma ovungen (praśna gaṇanaya) karanu læbiya yutuva ættēya” (yayida kiyanu læbē)"
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "“obaṭa kumak sidu vūyēda? (lovehi oba kenekuṭa keneku udav karamin siṭi andamaṭa mehidī) oba kumak nisā kenekuṭa keneku udav kara nogattēda?” (yayida vimasanu læbē)"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "ehet edina ovungē hisa bimaṭa navā gat aya vaśayenma siṭinu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "ovungen keneku anit kenā samaga tarka kirīmaṭa idiripat vī"
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "(samaharek tamangē pradhānīnṭa) “niyata vaśayenma oba apa veta balenma pæmiṇa, (obaṭa avanata vana men apaṭa bala) kaḷehuya” yayi pavasanu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "eyaṭa ovun (ema pradhānīn) esē nova. (api obava vaḷakvā gattē næta). obama viśvāsa kaḷē næta"
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "“apaṭa oba kerehi kisima balayak tibunē næta. ehet obama aparādha karana janatāvak bavaṭa siṭiyehuya”"
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "“ebævin (dan̆ḍuvama gæna vū) apagē deviyangē poronduva satyaya kara hæriyēya. niyata vaśayenma api (siyallanma dan̆ḍuvama) vin̆diya yutu ayayi”"
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "“(esēya!) obava api mārgaya værada yāmaṭa sælæssuvemu. mandayat niyata vaśayenma apit durmārgayehima siṭiyemu” yayi pavasanu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "ebævin niyata vaśayenma ovun (siyallanma) edina dan̆ḍuvamē havulkaruvan vaśayen siṭinu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "niyata vaśayenma api væradikaruvanva mē andamaṭama kaṭayutu karavannemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "”allāh hæra, (obaṭa) vena kisima himiyeku næta! (ohuvama oba namadinu)” yayi ovunṭa pavasanu læbuvahot; niyata vaśayenma ovun uṅan̆gū vī"
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "“kimekda! api pissu hædunu kaviyeku venuven ættenma apagē devivarunva api athæra damannemuda?”yi ovun pavasannāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "“(ohu pisseku) nova. ohu satyayama gena āvēya. (tamanṭa pera pæmiṇi) nabivarunvada, ohu satya kara tæbuvēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "(mē siyalla oba boru kara hæriyehuya. ebævin) niyata vaśayenma oba vēdanā gena dena dan̆ḍuvama ma vin̆diya yutuva ættēya”"
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "“oba karamin siṭi dæyaṭa misa, obaṭa phalavipāka denu læbuvē næta” (yayida kiyanu læbē)"
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "namut kaḷavam novuna hon̆da hita æti allāhgē vahalūn nam"
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "ovunṭa (usas vū) āhārayak piḷiyela karanu læba ættēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "eya (itāmat rasavat) palaturu vargayi. tavada ovunvama gaurava karanu labannāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "sæpata labā dena svargayanhi (æti) siṁhāsaṇayanhi"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "keneku anit kenāṭa muhuṇa lā vāḍi vī (itāmat satuṭu sāmīciyē yedī) siṭinnāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "(itāmamat pæhædili) ulpathi pānayangen piri kusalāna ovun vaṭā kærakemin gena enu labanu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "(eya) itāmat svēta varṇayenda, pānaya karannanṭa itāmat rasayak gena dennak vaśayenda, tikheṇu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "ehi matakda næta. emagin ovunṭa bīmat gatiyakda æti novē"
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "ovun veta bima balā gat (itāmat yaṭat pahat) bælmen yutu (hurulīn namæti) nirmala kanyāvanda siṭinu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "ovun (attaṭu vala) san̆gavana lada (gini kukulangē lā kaha pæhæyen yut) bittara men vannāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "ovungen keneku an ayaṭa “(melovadī sidu vū dæya gæna itāmat satuṭin) katā karamin siṭinnāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "ovungen keneku mesē pavasanu æta: “(melovadī) niyata vaśayenma maṭa ek mitureku siṭiyēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "ohu (maṭa) ‘niyata vaśayenma oba meya viśvāsa karannehida"
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "kimekda! api maraṇayaṭa pat vī (dirāpatva) æṭa kaṭu hā pas bavaṭa pat vū pasu (nægiṭṭavanu labannemuda?) niyata vaśayenma (apagē aparādhayanṭa sarilana) phalavipāka denu labannemuda?”yi (samaccalayen men) pavasamin siṭiyēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "“(ebævin ohuva) oba balannaṭa kæmati vannehuda?”yi pavasā"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "ohuva ebī balā ohu niraya madhyayē siṭinu dæka"
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "(ohuṭa) “allāh mata sattakinma! oba māva vināśa kara damannaṭama adahas kaḷehiya”"
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "“magē deviyangē dayāva mā haṭa (læbī) notibuṇē nam, mamat (nirayaṭa) gena enu labannanagen keneku vaśayen siṭinnaṭa iḍa tibuṇi”"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "“(tavat varakda) api maraṇayaṭa pat vannemuda?”"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "“(nævatat paṇa læbī æti) apaṭa kaḷin maraṇayaṭa vaḍā vena kisivak næta. (min pasu api kisidāka mærennēma næta. svargayehi siṭina) api dan̆ḍuvamaṭa ætuḷu karanu labannēda næta” yayi pavasanu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "“niyata vaśayenma meyama imahat vū bhāgyayak vannēya”"
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "“yamkisi hon̆dak kaḷa hæki aya siyallanma mevæni (bhāgyaya at kara gænīma) san̆dahā mahansi viya yutuya”"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "(allāhgē sannidhānayen lækheṇa) meya usas vū (bhōjaṇa) saṁgrahayada? nætahot (nirayehi æti) sakkum namæti (titta dugan̆da vǣheṇa) gasada"
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "(minisunē!) niyata vaśayenma api mema aparādhakārayinṭa ek piriksumak bavaṭama pat kara ættemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "ættenma eya nirayehi yaṭa maṭṭamē siṭa ikut vana gasaki"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "ehi atu nayingē penaya men ættēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "niyata vaśayenma ovun (tamangē kusa-ginnē daruṇubhāvaya nisā) eyada anubhava karannāha. emagin ovungē kusa puravā gannāha. (namut ovungē kusa-ginna nivennē næta)"
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "pasuva, niyata vaśayenma uturaṇa særava miśra (lōdiya) ehidī ovunṭa (pānayak vaśayen) denu læbē"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "pasuvat ovun yana tæna niyata vaśayenma nirayayi"
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "movun tamangē mutun mittanva ættenma durmārgikayin vaśayenma duṭuvaha"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "(esē tibiyadī) ovungē pā saṭahanma anugamanaya karamin divvāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "movunṭa perada, pera visū ayagen bohomayak denā niyata vaśayenma (mē andamaṭama) mārgaya værada giyaha"
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "niyata vaśayenma api ovunṭada biya ganvā anaturu an̆gavana (apagē) dūtayinva yævvemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "ebævin biya ganvā anaturu an̆gavana lada movungē avasānaya kesē vūyēda yanna (nabiyē!) oba balanu"
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "pariśuddha vū adahas æti allāhgē vahalūn misa, (an aya siyallanma apagē dan̆ḍuvamaṭa lak vannāha)"
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "nūh (nabi udav upakāra illā prārthanā kara) apava ārādhanā kaḷēya. apima (prārthanāvanṭa) piḷituru dennangen itāmat usasvantayeki"
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "ebævin ohuvada, ohugē pavulē udaviyada imahat vū amārukamen bērā gattemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "ovungē daruvanvama (mahā jala gælmen bērī pasu kalakadī sæmadā) sthīra vana sē pat kaḷemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "ohu venuven (ohugē kīrti nāmayada) pasu pæmiṇennangen sthīra vīmaṭa sælæssuvemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "“śāntiya hā samādānayada lōkayan kohē vuvada, nūhuṭa at vēvā!” (yayi kiyanu læbīya)"
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "mē andamaṭama hon̆dak karannanṭa api phalavipāka dennemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "(mandayat ohu) viśvāsaya tæbū apagē vahalūngen (keneku vaśayenma) siṭiyēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "(ebævin ohuvada, ohuva anugamanaya kaḷa ayavada hæra) an ayava (mahā jala gælmehi) api gilvā dæmuvemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "niyata vaśayenma ibrāhīmda, nuh (nabi)gē (mārgaya anugamanaya karana) samūhayingen keneki"
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "ohu (avaṁka) pariśuddha sitakin yutuva tama deviyan veta pæmiṇi avasthāvēdī"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "ohu tama piyāṭada, tama janatāvaṭada “oba kumak nam namadinnehuda?”yi vimasā"
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "“oba allāh hæra, boru devivarunvama kæmati vannehuda"
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "(esē nam) lōkavāsīnva utpādanaya kara, pōṣaṇaya karamin siṭina deviyan gæna obagē adahasa kumakda?”yi (vimasuvēya)"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "pasuva tārakāvan desa balā"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "“niyata vaśayenma mā rōgāturava siṭinnemi” yayi pævasū vahāma"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "ovun ohuva athæra damā (aḷut avurudu utsavaya sæmarīmaṭa) giyaha"
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "pasuva ohu kōvila tuḷaṭa giyēya. ehi (piḷirū valaṭa vividha vargayē āhāra pūjā kara tibīma dæka), ovungē piḷirūvalaṭa “oba (mēvā) kumak nisā nokannēda"
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "obaṭa kumak nam (sidu vī ætda?) oba kumak nisā katā nokarannēda?”yi vimasā"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "(piḷituru nolæbuṇen) ēvāṭa væren pahara dī (kuḍu kara damā piṭataṭa) yanna giyēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "(aḷut avurudu samarannaṭa giya aya, āpasu pæmiṇīmen pasu meya duṭu vahāma), ibrāhīm veta divævit (ē gæna vimasū viṭa)"
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "ohu (ovunṭa “obagē atvalin) oba visinma am̆bana lada dæya, oba namadinnehuda"
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "obat, oba am̆bana lada dæyat allāhma utpādanaya kaḷēya” yayi kīvēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "(eyaṭa ovun piḷituru dīmaṭa magak nomætiva kōpayaṭa pat vī) “mohu venuven viśāla (gini) vaḷak nirmāṇaya kara, ema ginnehi ohuva vīsi kara damanu” yayi pævasūha"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "(mesē) ovun ohuṭa hāniyak kirīmaṭa adahas kaḷaha. ehet api ovunvama avaman kara hæriyemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "(pasuva, ibrāhīm ema raṭa athæra damā piṭamaṁ vī) “niyata vaśayenma mā magē deviyan vetama yannemi. ohu itā ikmanin mā haṭa ṛju mārgaya penvanu æta” (yayi kiyā)"
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "“magē deviyanē! hon̆da ayagen (kenekuva) oba mā haṭa (daruveku vaśayen) labā denu mænava!” yayi kīvēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "emagin itāmat ivasilivanta (ismāyīl namæti) puteku magin ohuṭa subhāraṁci dunnemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "(ohugē ema putā) ohu samaga pā gamanin ævidiya hæki vayasa at vū viṭa, ohu (tama putāṭa) “magē dayābara putunē! ættenma mā obava (magē atin) khella kapā bili dena bavaṭa, mā (magē) sihinen duṭuvemi. (mē gæna) oba kumana adahasak darannehida?”yi vimasuvēya. eyaṭa ohu “magē (dayābara) piyāṇeni! obaṭa dena lada niyōgayaṭa anuvama oba karanu. allāh adahas kaḷahot (eya vin̆da darāgena) sthīra vaśayen siṭinneku bavaṭa, oba māva dakinnehiya” yayi pævasuvēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "ebævin ē dedenāma (deviyangē niyōgayaṭa) sampūrṇayenma avanata vī (ibrāhīm vana) ohu (ismāyīl vana) ohuva (khella kapā bili dīmaṭa) munin ataṭa bima heḷuvēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "ē avasthāvēdī api ohuva aṅagasā mesē pævasuvemu: “ō ibrāhīm"
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "ættenma oba, (obagē) sihinaya sæbǣ kara tæbuvehiya. niyata vaśayenma hon̆dak karana ayaṭa api mē andamaṭama phalavipāka dennemu”"
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "“niyata vaśayenma meya pæhædili imahat piriksumak vannēya” (yayida kīvemu)"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "ebævin (ohu venuvaṭa ek nām̆bara eḷuveku bili dennaṭa salasvā) imahat vū parityāgaya magin ohuva nidahas kaḷemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "ohu venuven (ohugē kīrti nāmaya) pasu pæmiṇennangenda sthīravat kaḷemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "(ebævin lovehi æti siyallanma) “ibrāhīmṭa śāntiya hā samādānaya at vēvā!” (yayi pavasannāha)"
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "mē andamaṭama hon̆dak karannanṭa api phalavipāka dennemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "niyata vaśayenma ohu itāmat viśvāsavanta apagē vahaleku vaśayenma siṭiyēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "(min pasuva) hon̆da vahalūngen keneku vaśayen siṭi ishāk nabiva ohuṭa (tavat puteku vaśayen dena bavaṭa) subhāraṁci dunnemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "ohu kerehida, ismāyīl kerehida, api apagē bhāgyayan pahaḷa kaḷemu. ovungē paramparāvē daruvangen hon̆da ayada siṭinnāha. prasiddhiyē tamanṭa tamanma napura kara gat (napuru) ayada siṭinnāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "niyata vaśayenma api mūsā kerehida, hārūn kerehida dayāva pahaḷa kaḷemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "ē dedenāvama ovungē janatāvada, imahat vū vipatakin bērā gena ovunṭa udav kaḷemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "ebævin (tamangē saturan mata) ovunma jayagrahaṇaya kaḷaha"
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "ē dedenāṭa (satyaya) pæhædili karana dharmayada api dunnemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "ē dedenāvama ṛju mārgayehida api ætuḷu kaḷemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "ē dedenā venuven (ē dedenāgē kīrti nāmayan) pasu pæmiṇennangenda sthīravat kaḷemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "(ebævin lōkavāsīn) mūsāṭada, hārūnṭada śāntiya hā samādānaya at vēvā! (yayi pavasannāha)"
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "niyata vaśayenma api hon̆dak karannanṭa mē andamaṭama phalavipāka dennemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "niyata vaśayenma ē dedenāma viśvāsaya tæbū apagē vahalūngen vūha"
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "niyata vaśayenma ilyāsda (apagē) dūtayingen keneki"
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "ohu tama janatāvaṭa “oba (allāhṭa) biya viya yutu novēda?”yi pævasū avasthāvēdī"
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "“utpādakayingen itāmat śrēṣṭhavantayāva pratikṣēpa kara, baal (namæti) piḷiruva namadinnehuda"
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "allāhma obagē deviyan hā pera ikutva giya obagē mutun mittangē deviyanda vannēya” (yayi pævasuvēya)"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "ehet ovun ohuva borukārayā kara hæriyaha. ebævin niyata vaśayenma ovun (paralovadī apa veta dan̆ḍuvama san̆dahā) gena enu labannāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "allāhgē pariśuddha vū vahalūnva hæra. (hon̆da vahalūnṭa hon̆da parityāgayan æta)"
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "ohu venuven (ohugē kīrti nāmaya) pasu pæmiṇennangenda sthīravat karannemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "(ebævin lōkavāsīn) “ilyāsṭa śāntiya hā samādānaya at vēvā!” (yayi pavasannāha)"
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "niyata vaśayenma hon̆dak karannanṭa api mē andamaṭama phalavipāka dennemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "ættenma ohu viśvāsaya tæbū apagē vahalūngen (keneku vaśayenma) siṭiyēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "niyata vaśayenma lutda (apagē) dūtayingen keneki"
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "ohuvada, ohugē pavulē udaviya ādī siyallanvama bērā gattemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "(ehet ohugē) nāki (birin̆da) hæra. æya (ema pāpatarayan samaga) ræn̆dī siṭiyāya"
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "(æya samaga pāpayan kaḷa) an ayavada api vināśa kara dæmuvemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "ebævin (makkāvāsīnī! oba ṣām raṭaṭa veḷen̆dāmaṭa yana viṭa hā ena viṭa) udē hō savasa hō niyata vaśayenma oba (vināśa vī giya) ovungē (nagaraya) harahā gaman karannehuya"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "(memagin oba) hon̆da dænumak at kara gata yutu novēda"
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "niyata vaśayenma yunusda (apagē) dūtayingen keneki"
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "(janayāgen) piri næva desaṭa ohu (bērī) diva giya avasthāvēdī (ehi næga gattēya)"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "ovun (ē nævē siṭi aya atara) kusapat ædi avasthāvēdī mohu (muhudaṭa) vīsi kara dæmiya yutu keneku bavaṭa pat vūvēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "(esē ovun mohuva vīsi kaḷa viṭa), māḷuveku ohuva gila dæmuvēya. ē avasthāvēdī ohu (tamanṭa tamanma) nindā kara ganimin siṭiyēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "ættenma ohu (apava) suviśuddha karaminma nosiṭiyā nam"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "(paralovadī ohuva) nægiṭṭavanu labana dina (pæmiṇena) turu ohu ugē kusehi ræn̆dī siṭinnaṭa iḍa tibuṇi"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "(ohu suviśuddha karamin siṭi hētuven) eḷimahan bhūmiyaka (māḷuvāgē baḍen) ohuva api eḷiyaṭa heḷannaṭa sælæssuvemu. ē avasthāvēdī ohu nam, itāmat vehesaṭa patva siṭiyēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "ebævin ohu (ṭa sevaṇa labā dīma) san̆dahā labu væḷak vævennaṭa sælæssuvemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "pasuva api ohuva siyak dahasak, nætahot īṭat vaḍā væḍi saṁkhyāvak minisun veta (apagē dūtayā vaśayen) yævvemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "ovun (siyallanma) viśvāsa kaḷaha. ebævin apit ovunva ek (dīrgha) kālayak dakvā suvasē jīvat vīmaṭa sælæssuvemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "(nabiyē!) oba ovungen vimasanu: (ovun piḷikul karana gæhæṇu daruvanva obagē deviyanṭada, ovunṭa pirimi daruvanvada, (manakkalpita karannehuda)"
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "nætahot api malāyikāvarunva gæhænun vaśayen nirmāṇaya kaḷāya (yayi kiyanavā noveda?) ovun eya balāgena siṭiyehuda"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "niyata vaśayenma ovun boruvaṭa manakkalpita kara gotā pavasannak yanna oba dæna ganu (mænava)"
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "“allāh (daruvan) prasūta kaḷēya” yayi pævasīma niyata vaśayenma ovun borukārayinya"
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "(eyinut) pirimi (daruvanṭa) vaḍā gæhænu (daruvanvada, ohu tōrā gattē)"
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "(mesē pævasīmaṭa) obaṭa kumana (sādhāraṇayak nam ættēda?) kumak nisā oba mesē (boru) kiyannehuda"
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "oba (meya avadhānaya kara) sitā bæliya yutu novēda"
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "nætahot obaṭa (mē venuven yamkisi) pæhædili sākṣīn mokut ættēda"
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "(esē) oba (pævasīmehi) ætta kiyannan vaśayen siṭinnehu nam, (eyaṭa) obagē dharma (sādhakayak) gena enu"
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "(nabiyē!) movun ohuṭat, jinvarunṭat atarē gnāti bandhanayak gæna manakkalpita karannāha. namut jinvarun nam, (taman væradi kaḷahot dan̆ḍuvama san̆dahā) niyata vaśayenma (allāh veta) gena enu labannāha yayi ovun dænagena siṭinnāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "ovun pavasana mema varṇāvangen allāh itāmat pariśuddhavantayeki"
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "pirisidu situvillen piri allāhgē vahalūn hæra, (an aya dan̆ḍuvama san̆dahā deviyan idiriyaṭa pamuṇuvanu labannāha)"
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "(nabiyē! oba mesē pavasanu): “niyata vaśayenma obat, oba namadina (jinvarun vana) mēvāda"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "(ekaṭa ekkāsu vūvada, kisivekut allāh vana) ohuṭa erehiva obava kaḷam̆bā dæmiya nohækiya"
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "nirayaṭa yā hæki aya hæra”"
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "(malāyikāvarun mesē pavasannāha): “apagen sǣma kenekuṭama niyamita tænak æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "niyata vaśayenma api (niyōgaya iṭu kirīmaṭa allāhgē aṇa balāporottuven) kaṇḍāyam (vaśayen) peḷa gæsī siṭinnemu"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "niyata vaśayenma api (ohuva) praśaṁsā kara, suvi śuddha karaminma siṭinnemu”"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "(nabiyē! mīṭa pera makkāvāsīn vana) ovun mesē pavasamin siṭiyaha"
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "“pera visū ayagen (deviyanva) matak karana yamkisi dharmayak api labā tibunē nam"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "niyata vaśayenma api allāhgē śuddha vū vahalūn bavaṭa patva siṭa ættemu” (yayi pævasūha)"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "(ehet mesē pavasamin siṭi movun veta mema dharmaya pæmiṇi viṭa), eya movun pratikṣēpa karannāha. itāmat ikmanin (mehi phalavipāka) movun dæna ganu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "(apagē) dutayin vana apagē vahalūnṭa kalinma apagē poronduva niyata vaśayenma æti vī giyēya"
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "ovunṭa udav karanu læbīma niyatayi"
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "apagē yuda sēnāvan (vana viśvāsavantayinma) jayagrahaṇaya karannāha"
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "ebævin (nabiyē!) ṭika kalak dakvā oba ovunva pratikṣēpa kara damā siṭinu"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "(ovun kesē nam dan̆ḍuvamaṭa lak vannāha yanna dæna gænīmaṭa) ovunva balāgena siṭinu. itā ikmanin ovunda (eya) dæka ganu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "(kimekda!) apagē dan̆ḍuvama venuvenda movun metaram ikman vannē"
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "(apagē dan̆ḍuvama) ovun madhyayaṭa pahaḷa vana viṭa, biya ganvā anaturu an̆gavana lada ovungē alūyam kālaya itāmat napuru vanu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "(nabiyē!) ovunva oba ṭika kalak pratikṣēpa kara damā siṭinu"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "(ovunṭa dan̆ḍuvama pæmiṇīma) oba balāporottuven siṭinu. ovunda (eya) niyata vaśayenma dakinu æta"
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "ovungē (væradi) varṇanāvangen gauravaṇīya obagē deviyan itāmat pariśuddhavantayeki"
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "(ohu visin) yavana lada dūtayin (siyallan) kerehima (ohugē) śāntiya hā samādānaya at vēvā"
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "siyalū praśaṁsā lōkayan siyalla utpādanaya kara, pōṣaṇaya kara, paripālanaya karannā vū allāhṭama ayiti dæyayi"
+        }
+    ]
+}
