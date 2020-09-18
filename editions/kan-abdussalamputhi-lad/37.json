@@ -1,0 +1,914 @@
+{
+    "chapter": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "ugravāgi gadarisuvavarāṇe"
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "upadēśavannu ōduvavarāṇe"
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "nim'ma ārādhyanu khaṇḍita obbanē"
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "avanu ākāśagaḷa, bhūmiya hāgū avugaḷa naḍuve iruva ellavugaḷa oḍeya mattu pūrvagaḷa oḍeyanāgiddāne"
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "khaṇḍitavāgiyū nāvu bhūlōkada ākāśavannu nakṣatragaḷa sobagininda alaṅkarisiruvevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "mattu nāvu adannu pratiyobba vidrōhi śaitānaninda rakṣisiṭṭiruvevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "mēlina lōkada ēnannū kēḷisikoḷḷalu avarige sādhyavilla. Ella kaḍeyindalū avara mēle prahāravāguttade"
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "avarannu bennaṭṭi him'meṭṭisalāguttade. Allade avarige śāśvata śikṣe ide"
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "iṣṭāgiyū kittukoṇḍu ōḍidavanu – ondu uriyuva jvāleyu avana bennu hiḍiyuttade"
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "nīvu avaroḍane kēḷi nōḍiri; avarannu sr̥ṣṭisuvudu heccu kaṣṭavō athavā nam'ma (itara) sr̥ṣṭigaḷannō? Avarannantu nāvu aṇṭuva maṇṇininda sr̥ṣṭisiruvevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "(Dūtarē,) nīvu (allāhana mahimeya kuritu) accari paḍuttīri mattu avaru gēli māḍuttāre"
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "avarige upadēśisalādāga avaru upadēśavannu svīkarisuvudilla"
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "avaru yāvudādarū purāveyannu kaṇḍāga, adannu gēli māḍuttāre"
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "mattu avaru, idu spaṣṭavāda jādūgārikeyē horatu bērēnū alla endu biḍuttāre"
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "nāvu sattu maṇṇāgiyū elubugaḷāgiyū mārpaṭṭa baḷika nam'mannēnu punaḥ jīvanta goḷisalāguvudē"
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "athavā, nam'ma tāta muttātandirannu kūḍā (jīvantagoḷisalāguvudē? Endu avaru praśnisuttāre)"
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "hēḷiri, haudu, mattu nīvu apamānitarāguviri"
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "adu (lōkāntyada kahaḷe) kēvala ondu eccarikeya dhvaniyāgiruvudu. Aṣṭaralle avaru daṅgāgi nōḍa toḍaguvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "mattu avaru, ‘‘ayyō nam'ma dusthiti! Iduvē ā pratiphalada dina’’ ennuvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "iduvē, nīvu nirākarisuttidda tīrmānada dina"
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "(andu malak‌gaḷoḍane hēḷalāguvudu;) ‘‘akramigaḷannu, avara jotegārarannu mattu avaru (allāhana horatu) yārannellā ārādhisuttiddarō avarannellā oṭṭu sērisiri‘‘ –"
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "‘‘ – allāhana horatu. Mattu nīvu avarige narakada dāri tōrisiri"
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "mattu avarannu taḍeyiri. Khaṇḍitavāgiyū avara vicāraṇe naḍeyabēkāgide"
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "nimagēnāgide? Nīvēke paraspara neravāguttilla"
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "nijavāgi, indu avaru sampūrṇa śaraṇāgi biṭṭiddāre"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "(andu) avaralli kelavaru matte kelavareḍege tirugi praśnegaḷannu kēḷuvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "(avaru tam'ma nāyakaroḍane) ‘‘nīvu bala bhāgadinda nam'ma baḷige baruttiddiri (satyadinda nam'mannu taḍeyuttiddiri)’’ ennuvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "avaru (nāyakaru) hēḷuvaru; ‘‘nijavāgi, nīvu satyavannu nambuvavarē āgiralilla’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "‘‘nim'ma mēle namage adhikāravēnū iralilla. Nijavāgi nīvē vidrōhi paṅgaḍavāgiddiri’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "‘‘idīga nam'ma kuritu nam'ma oḍeyana mātu satyavāgi biṭṭide. Nāvīga (śikṣeyannu) khaṇḍita saviyaliddēve’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "‘‘Nāvu nim'mannu dārigeḍisiddu mātravalla, svataḥ nāvē dārigeṭṭiddevu’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "konege, avarellarū joteyāgiyē śikṣe anubhavisuvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "nāvu aparādhigaḷige hīgeyē māḍuttēve"
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "allāhana horatu bērārū pūjār'haralla endu avaroḍane hēḷalādāga avaru ahaṅkāra tōriddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "mattu ‘‘nāvēnu obba huccu pīḍita kavigāgi nam'ma dēvarugaḷannu biṭṭu biḍabēkē?’’ Endu avaru keēḷuttiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "nijavāgi avaru (dēvadūtaru), satyadondige bandiruttāre mattu avaru (hindina) dēvadūtarugaḷannu samarthisuttāre"
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "nīvu khaṇḍita yātanāmaya śikṣeyannu saviyuviri"
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "mattu nimage nīvesaguttidda karmagaḷa phalavaṣṭē sigalide"
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "allāhana āyda dāsara horatu"
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "avarigāgi nirdiṣṭa āhāravide"
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "haṇṇugaḷū ive mattu avaru gauravānvitarāgiruvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "koḍugegaḷu tumbiruva svarga tōṭagaḷalli"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "eduru badirāgiruva āsanagaḷalli"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "hariyuva cilumegaḷa pānīyagaḷannu avara sutta oyyalāguvudu"
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "avu śubhravāgiddu, kuḍiyuvavarige rucikaravāgiruvavu"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "adarinda, yāvudē saṅkaṭavāgadu mattu avaru mada mattarāgalāraru"
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "avara baḷi dr̥ṣṭi taggisiruva, viśāla kaṇṇinavaru (sēvakiyaru) iruvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "avaru, aḍagisiṭṭa moṭṭegaḷante (śubhra hāgū nirmalarāgi) iruvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "avaru (svargavāsigaḷu) eduru badurāgi paraspararoḍane vicārisuvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "avarallobbanu hēḷuvanu; nanagobba saṅgāti iddanu"
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "avanu nannoḍane hēḷuttiddanu; ‘‘nīnēnu (paralōkavannu) nambuvavanāgiruveyā?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "‘‘Nāvu sattu kēvala maṇṇu hāgū elubugaḷāgi biṭṭa baḷika namage pratiphala sigalikkideyē?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "Avanu (matte) ‘‘nīvīga (āta elliddānendu) iṇuki nōḍalu bayasuttīrā?’’ Endu kēḷuvanu"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "taruvāya avanu (svataḥ) iṇuki nōḍuvanu hāgū tanna saṅgātiyannu narakada madhyadalli kāṇuvanu"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "mattu avanu hēḷuvanu; ‘‘allāhanāṇe! Nīnantu nannannu nāśa māḍiyē biḍuttidde’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "Nanna oḍeyana anugrahavillade hōgiddare, nānū (bandhigaḷāgi) hājarugoḷisalādavara sālige sēriruttidde"
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "(svargavāsigaḷu hēḷuvaru;) innu namagēnu maraṇavillavē"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "– nam'ma prathama maraṇada horatu? Mattu nāvu śikṣegū guriyāgalārevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "khaṇḍitavāgiyū iduvē mahā saubhāgyavāgide"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "śramisuvavarellā idakkāgiyē śramisabēku"
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "ī ātithya uttamavō athavā ‘jhakkūm’ maravō"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "khaṇḍitavāgiyū nāvu adannu akramigaḷa pālige parīkṣeyāgisiruvevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "adu narakada taḷadinda beḷeyuva mara"
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "adara gellugaḷu śaitānara talegaḷantiruvavu"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "avaru (narakavāsigaḷu) khaṇḍita adannē tinnuvaru mattu adarindalē tam'ma hoṭṭe tumbuvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "hāgeyē, alli avarigāgi mālin'ya bereta, kudiyuttiruva pānīyaviruvudu"
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "konege, narakavē avaru maraḷuva neleyāgiruvudu"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "avaru, tam'ma pūrvajaru dārigeṭṭiddannu kaṇḍiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "ādarū, avaru avara hejje gurutugaḷannē anusarisidaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "nijavāgi, avariginta hindina, avara pūrvajaralli heccinavaru dārigeṭṭiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "nāvu avara naḍuve dūtarannu kaḷisiddevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "hīge eccarike paḍedavara gati ēnāyitembudannu nōḍiri"
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "allāhana āyda dāsara sthiti mātra bhinnavāgide"
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "nūharu namage more iṭṭaru. Nāvu (moregaḷige) atyuttama uttara nīḍuvavarāgiddēve"
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "nāvu avarannū avara maneyavarannū mahā vipattininda rakṣisidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "mattu nāvu avara santatiyannu bahukāla uḷisidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "mattu nāvu mundinavaralli avara nenapannu sanrakṣisidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "nūharige śānti, sarvalōkagaḷalli"
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "khaṇḍitavāgiyū nāvu idē rīti satkarmigaḷannu puraskarisuttēve"
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "avaru khaṇḍita nam'ma viśvāsi dāsarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "taruvāya nāvu itararannu muḷugisi biṭṭevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "innu, ibrāhīmarantu avara (nūhara) hādiyallē naḍeyuvavarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "avaru nirmala manas'sinondige tam'ma oḍeyana sannidhige bandaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "Mattu avaru tam'ma tande hāgū tam'ma janāṅgadavaroḍane kēḷidaru; ‘‘nīvu adēnannu pūjisuttiruviri?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "‘‘Nīvēnu, allāhana jote mithya śaktigaḷannu dēvarāgisalu bayasuvirā?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "‘‘Ella lōkagaḷa oḍeyana kuritu nim'ma abhiprāyavēnu?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "Ā baḷika avaru nakṣatragaḷeḍege dr̥ṣṭi bīridaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "mattu nānu asvasthanāgi biṭṭiddēne endaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "avarellā (janāṅgadavarellā) avarannu (ibrāhīmarannu) biṭṭu horaṭu hōdaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "avaru (ibrāhīmaru) avara (tam'ma janāṅgadavara) dēvarugaḷeḍege (vigrahagaḷeḍege) gamana harisidaru mattu kēḷidaru; ‘‘nīvu ēnannū tinnuvudillavē?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "‘‘Nimagēnāgide? Nīvēke mātanāḍuttilla?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "Konege avaru avugaḷa mēle mugibiddu balavāgi hoḍedaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "avarellā (janāṅgadavarellā) avareḍege dhāvisi bandaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "avaru (ibrāhīmaru hēḷidaru;) ‘‘nīvēnu, svataḥ nīvē ketti nirmisidavugaḷannu pūjisuttīrā?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "‘‘Nim'mannu mattu nīvu racisuvavugaḷannellā allāhanē sr̥ṣṭisiruvanu’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "avaru (janāṅgadavaru, paraspararoḍane) ‘‘avanigāgi ondu agni kuṇḍavannu racisiri mattu avanannu beṅkigesedu biḍiri’’ endaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "avaru (janāṅgadavaru), avarige hāni māḍa bayasiddaru. Ādare nāvu avarannu kīḷāgisibiṭṭevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "avaru (ibrāhīm) hēḷidaru; nānu nanna oḍeyaneḍege teraḷuttēne. Avanu nanage saridāriyannu tōrabahudu"
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "‘‘nannoḍeyā, nanage śrēṣṭha santatigaḷannu daya pālisu’’ (endu avaru prārthisidaru)"
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "konege nāvu avarige obba vivēkavanta putrana (ismā'īlara) śubhavārte nīḍidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "Avaru (ismā'īlaru) avara jote ōḍāḍaballavarādāga avaru hēḷidaru; ‘‘nānu ninna koraḷu koyyuttiruvudāgi svapnadalli kaṇḍiddēne. Ī kuritu ninna anisike ēnu?’’ Avaru (ismā'īl) hēḷidaru; ‘‘appā, nimage ādēśisalāgiruvudannu nīvu māḍibiḍi. Allāhanicchisidare, nīvu nannannu sahanaśīlanāgi kāṇuviri’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "hīge avaribbarū vidhēyate tōridaru mattu avaru (ibrāhīmaru) avarannu (putranannu), mukha keḷagāgisi malagisidaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "āga nāvu avarannu karedevu; ‘‘ibrāhīmarē,’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "‘‘nīvu svapnavannu sākāragoḷisidiri’’. Nāvu sajjanarannu khaṇḍita idē rīti puraskarisuttēve"
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "adu khaṇḍita ondu spaṣṭa parīkṣeyāgittu"
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "nāvu avarige (balidānakkāgi) ondu mahā balipaśuvannu nīḍidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "mattu nāvu adara (ā ghaṭaneya) nenapannu mundinavaralli uḷisidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "ibrāhīmarige śānti"
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "nāvu sajjanarannu idē rīti puraskarisuttēve"
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "avaru nam'ma viśvāsi dāsarallobbarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "munde nāvu avarige is‌hāk‌ra śubha vārteyannu nīḍidevu. Avarobba sajjana dēvadūtarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "nāvu avarigū is‌hākarigū samr̥d'dhiyannu nīḍidevu. Avaribbara santatigaḷalli sajjanarū iddaru, svataḥ tam'ma mēle spaṣṭa akramavesagidavarū iddāre"
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "nāvu mūsā mattu hārūnara mēle kr̥pe tōridevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "mattu nāvu avaribbarannū avara janāṅgadavarannū mahā saṅkaṭadinda vimōcisidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "nāvu avarige neravādevu. Āddarinda avaru vijayigaḷādaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "nāvu avaribbarigū savistāravāda granthavannu nīḍiddevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "mattu nāvu avarige nēra mārgavannu tōrisiddevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "mundinavaralli nāvu avara nenapannu uḷisidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "mūsā mattu hārūnarige śānti sigali"
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "nāvu sajjanarannu khaṇḍita idērīti puraskarisuttēve"
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "avaribbarū nam'ma viśvāsi dāsarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "mattu ilyās khaṇḍita dēvadūtarallobbarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "Avaru tam'ma janāṅgadavaroḍane hēḷidaru; ‘‘nīvēnu (allāhanige) an̄juvudillavē?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "‘‘Nīvēnu ‘ba'al‌’ dēvige more iḍuttīrā? Mattu sarva śrēṣṭha sr̥ṣṭikartanannu biṭṭu biḍuttīrā?’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "‘‘Allāhanē nim'ma oḍeyanū haudu nim'ma pūrvajara oḍeyanū haudu’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "avaru (janāṅgadavaru) avarannu tiraskarisidaru. Avarannu khaṇḍita (śikṣegāgi) hājaru paḍisalāguvudu"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "allāhana āyda dāsara horatu"
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "avara (ilyāsara) nenapannu nāvu mundinavaralli uḷisiruvevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "ilyās‌rige śānti sigali"
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "nāvu khaṇḍita sajjanarannu idē rīti puraskarisuttēve"
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "avaru khaṇḍita nam'ma viśvāsi dāsarallobbarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "innu lūtaru khaṇḍita nam'ma dūtarallobbarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "nāvu avarannu hāgū avara maneyavarannellā rakṣisidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "hinde uḷidukoṇḍa obba vr̥d'dheya horatu"
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "(avara janāṅgada) itararannu nāvu nāśa māḍibiṭṭevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "nīvantu avara (nāḍugaḷa) mēlindalē hādu hōguttīri – hagalalli –"
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "mattu iruḷalli. Nīvēnu ālōcisuvudillavē"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "yūnus khaṇḍita nam'ma dūtarallobbarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "avaru tam'ma tumbida haḍagineḍege dhāvisidaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "(haḍagu muḷuguva hantadalli) avaru (adr̥ṣṭada) cīṭi ettuvudakke oppidaru mattu sōtu hōdaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "konege (samudrakkeseyalāda) avarannu mīnu nuṅgitu. Āga avaru tam'mannē dūṣisikoṇḍaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "ondu vēḷe avaru allāhana pāvitravannu japisuttiruvavarāgade iddiddare"
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "punarut'thānada dinadavaregū avaru adara (mīnina) hoṭṭeyallē uḷiyuttiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "konege nāvu avarannu bayalige esedu biṭṭevu. Āga avaru tumbā kṣīṇarāgiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "nāvu avara baḷi baḷḷigaḷiruva giḍavannu beḷesidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "mattu nāvu avarannu ondu lakṣa athavā adakkinta heccu janariddallige kaḷisidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "avaru (ā nāḍinavaru) nambidaru mattu ondu nirdiṣṭa kālada tanaka nāvu avarige dhārāḷa sampannate nīḍidevu"
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "Idīga avaroḍane kēḷiri. Nim'ma oḍeyanige putriyaru mattu avarige putrarē"
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "nāvēnu malak‌gaḷannu strīyarāgi sr̥ṣṭisiruvevē? Adakkēnu avaru sākṣigaḷāgiddarē"
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "nimage tiḷidirali. Avaru khaṇḍita tāvē racisikoṇḍa suḷḷugaḷannu hēḷuttiddāre"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "allāhanige santatigaḷiddārendu (avaru hēḷuttāre). Avaru khaṇḍita suḷḷu hēḷuttiddāre"
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "avanēnu putrariginta putriyarige prāśastya nīḍidanē"
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "nimagēnāgide? Nīvu adentaha tīrmānagaḷannu kaigoḷḷuttīri"
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "nīvu pāṭha kaliyuvudillavē"
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "athavā nim'ma baḷi spaṣṭa purāveyēnādarū ideyē"
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "nīvu satyavantarāgiddare tanniri, nim'ma granthavannu"
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "avaru avana (allāhana) hāgū jinn‌gaḷa naḍuve sambandha kalpisuttāre. Tam'mannu (narakadeduru) hājarugoḷisalāguvudendu (dhikkāri) jinn‌gaḷige khaṇḍita tiḷidide"
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "allāhanu avara ella ārōpagaḷinda muktanāgiddāne"
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "allāhanu āydukoṇḍa dāsaru mātra bhinnarāgiruttāre"
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "khaṇḍitavāgiyū nīvu mattu nīvu pūjisuva vastugaḷu –"
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "avana (allāhana) viṣayadalli yārannū mōsagoḷisuvantilla –"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "narakakke hōguvavanendu vidhisalpaṭṭavana horatu"
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "(malak‌gaḷu hēḷuttāre:) ‘‘Nam'malli pratiyobbarigū ondu sthānavu niścitavāgide"
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "mattu nāvu (allāhana mande) sālugaṭṭi nintiruttēve"
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "mattu nāvu khaṇḍita (allāhana) pāvitravannu japisuttiruttēve‘‘"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "ī hinde avaru (dhikkārigaḷu) hēḷuttiddaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "‘‘nam'ma baḷi gata kāladavara bōdhanegaḷu (divya grantha) iddiddare"
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "nāvu khaṇḍita āyda dāsara sālige sēriruttiddevu’’"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "ādare (divya granthavu bandāga) avaru adannu dhikkarisidaru. Idīga adara pariṇāmavu avarige tiḷiyalide"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "dūtarāgiruva nam'ma dāsara viṣayadalli nam'ma hēḷikeyu īgāgalē vidhitavāgide"
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "(adēnendare), avarige khaṇḍita sahāya sigalide"
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "Mattu khaṇḍitavāgiyū nam'ma paḍegaḷē gelluvavu"
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "(dūtarē,) sadya, ondu nirdiṣṭa kālada tanaka nīvu avarannu (dhikkārigaḷannu) kaḍegaṇisiri"
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "mattu nīvu avarannu nōḍuttaliri. Avaru śīghravē (tam'ma gatiyannu) kāṇuvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "avarēnu, nam'ma śikṣegāgi ātura paḍuttiddāreyē"
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "adu avara aṅgaḷakke bandiḷidāga, īgāgale eccarisalpaṭṭavara pālige adu bahaḷa keṭṭa mun̄jāneyāgiruvudu"
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "sadya, ondu nirdiṣṭa kālada tanaka nīvu avarannu kaḍegaṇisiri"
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "mattu nīvu avarannu nōḍuttaliri. Avaru śīghravē (tam'ma gatiyannu) kāṇuvaru"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "nim'ma pāvana (gauravānvita) oḍeyanu, avaru horisuva ella ārōpagaḷinda sampūrṇa muktanāgiddāne"
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "dūtarige śānti sigali"
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "mattu ella praśansegaḷu sarvalōkagaḷa oḍeyanāda allāhanige mīsalu"
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "svād. Upadēśa tumbiruva kur‌ānināṇe"
+        }
+    ]
+}

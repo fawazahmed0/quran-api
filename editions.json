@@ -669,36 +669,6 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian.min.json"
     },
-    "dan_hadiabdollahian1": {
-        "name": "dan-hadiabdollahian1",
-        "author": "Hadi Abdollahian",
-        "language": "Danish",
-        "direction": "ltr",
-        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian1.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian1.min.json"
-    },
-    "dan_hadiabdollahian3": {
-        "name": "dan-hadiabdollahian3",
-        "author": "Hadi Abdollahian",
-        "language": "Danish",
-        "direction": "ltr",
-        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian3.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian3.min.json"
-    },
-    "dan_hadiabdollahian6": {
-        "name": "dan-hadiabdollahian6",
-        "author": "Hadi Abdollahian",
-        "language": "Danish",
-        "direction": "ltr",
-        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian6.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian6.min.json"
-    },
     "dan_vandetaal": {
         "name": "dan-vandetaal",
         "author": "Van De Taal",
@@ -1299,6 +1269,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-yusufaliorig.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-yusufaliorig.min.json"
     },
+    "epo_hadiabdollahian": {
+        "name": "epo-hadiabdollahian",
+        "author": "Hadi Abdollahian",
+        "language": "Esperanto",
+        "direction": "ltr",
+        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/epo-hadiabdollahian.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/epo-hadiabdollahian.min.json"
+    },
     "fas_abdolmohammaday": {
         "name": "fas-abdolmohammaday",
         "author": "Abdolmohammad Ayati",
@@ -1819,6 +1799,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-ryoichimita.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jpn-ryoichimita.min.json"
     },
+    "kan_abdussalamputhi_la": {
+        "name": "kan-abdussalamputhi-la",
+        "author": "Abdussalam Puthige",
+        "language": "Kannada",
+        "direction": "ltr",
+        "source": "http://quraninkannada.com , aputhige@gmail.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kan-abdussalamputhi-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kan-abdussalamputhi-la.min.json"
+    },
+    "kan_abdussalamputhi_lad": {
+        "name": "kan-abdussalamputhi-lad",
+        "author": "Abdussalam Puthige",
+        "language": "Kannada",
+        "direction": "ltr",
+        "source": "http://quraninkannada.com , aputhige@gmail.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kan-abdussalamputhi-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kan-abdussalamputhi-lad.min.json"
+    },
     "kan_abdussalamputhi": {
         "name": "kan-abdussalamputhi",
         "author": "Abdussalam Puthige",
@@ -1909,6 +1909,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.min.json"
     },
+    "kmr_unknown_la": {
+        "name": "kmr-unknown-la",
+        "author": "Unknown",
+        "language": "Kurmanji",
+        "direction": "ltr",
+        "source": "http://www.maktabah.org , http://donatequran.com/",
+        "comments": "This language is also known as Northern Kurdish",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kmr-unknown-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kmr-unknown-la.min.json"
+    },
+    "kmr_unknown": {
+        "name": "kmr-unknown",
+        "author": "Unknown",
+        "language": "Kurmanji",
+        "direction": "ltr",
+        "source": "http://www.maktabah.org , http://donatequran.com/",
+        "comments": "This language is also known as Northern Kurdish",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kmr-unknown.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kmr-unknown.min.json"
+    },
     "kor_hamidchoi_la": {
         "name": "kor-hamidchoi-la",
         "author": "Hamid Choi",
@@ -1968,6 +1988,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-muhammadsalehba.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kur-muhammadsalehba.min.json"
+    },
+    "lat_hadiabdollahian": {
+        "name": "lat-hadiabdollahian",
+        "author": "Hadi Abdollahian",
+        "language": "Latin",
+        "direction": "ltr",
+        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/lat-hadiabdollahian.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/lat-hadiabdollahian.min.json"
     },
     "lug_fareeqmusa": {
         "name": "lug-fareeqmusa",
@@ -2598,6 +2628,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-wwwislamhouseco.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sin-wwwislamhouseco.min.json"
+    },
+    "slk_hadiabdollahian": {
+        "name": "slk-hadiabdollahian",
+        "author": "Hadi Abdollahian",
+        "language": "Slovak",
+        "direction": "ltr",
+        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/slk-hadiabdollahian.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/slk-hadiabdollahian.min.json"
     },
     "sna_abdullahjmadini": {
         "name": "sna-abdullahjmadini",
@@ -4018,6 +4058,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/yor-shaykhaburahima.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/yor-shaykhaburahima.min.json"
+    },
+    "zho_anonymousgroupo_la": {
+        "name": "zho-anonymousgroupo-la",
+        "author": "Anonymous Group Of Translators",
+        "language": "Chinese(traditional)",
+        "direction": "ltr",
+        "source": "Goodword Books , http://www.goodwordbooks.com/ , Center for Peace and Spirituality , https://www.cpsglobal.org/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-anonymousgroupo-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/zho-anonymousgroupo-la.min.json"
     },
     "zho_anonymousgroupo_lad": {
         "name": "zho-anonymousgroupo-lad",
