@@ -624,7 +624,7 @@ async function fontsGen() {
           var lastNum = name.match(/\d+$/) || [0]
           lastNum = parseInt(lastNum[0])
           // Increament the above number if it exists to get a new name
-          var newFileName = name.replace(/\d+$/, "") + (lastNum + i)
+          var newFileName = name.replace(/\d+$/, "") + (lastNum + 1)
           if (!fontNoExtension.includes(newFileName) && !fontNoExtension.includes(newFileName + '-org'))
             break;
         }
@@ -1002,7 +1002,7 @@ async function generateJSON(arr, newjson, editionName) {
       var Num = editionName.match(/\d+$/) || [0]
       Num = parseInt(Num[0])
       // Increment that number if it exists to get a new editionName
-      editionName = editionName.replace(/\d+$/, "") + (Num + i);
+      editionName = editionName.replace(/\d+$/, "") + (Num + 1);
     } else
       break;
   }
