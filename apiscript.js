@@ -404,7 +404,7 @@ function validateCleanTrans(arr, filename) {
     var j = 0;
     var stop = 0
     // specifies the limit, i.e next number of lines to search for next verse
-    var limit = 11
+    var limit = 10
     // Saving the original arr as we will be modifying it
     var orgarr = [...arr]
     // Filtering the array from empty lines, uncomment this if the input translation has so many empty lines in it

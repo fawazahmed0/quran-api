@@ -15,7 +15,6 @@ hungarian
 icelandic
 irish
 javanese
-kannada
 kyrgyz
 lao
 latvian
@@ -26,13 +25,11 @@ malagasy
 maltese
 maori
 mongolian
-myanmar(burmese)
 odia(oriya)
 punjabi
 samoan
 scotsgaelic
 serbian
-sesotho
 slovenian
 sundanese
 turkmen
