@@ -967,6 +967,10 @@
         "iso1": "ku",
         "iso2": "kur"
     },
+	"kurmanji": {
+    "iso1": "",
+    "iso2": "kmr"
+    },
     "kurukh": {
         "iso1": "",
         "iso2": "kru"
