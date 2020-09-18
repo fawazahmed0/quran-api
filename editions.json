@@ -649,36 +649,6 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian.min.json"
     },
-    "dan_hadiabdollahian1": {
-        "name": "dan-hadiabdollahian1",
-        "author": "Hadi Abdollahian",
-        "language": "Danish",
-        "direction": "ltr",
-        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian1.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian1.min.json"
-    },
-    "dan_hadiabdollahian3": {
-        "name": "dan-hadiabdollahian3",
-        "author": "Hadi Abdollahian",
-        "language": "Danish",
-        "direction": "ltr",
-        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian3.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian3.min.json"
-    },
-    "dan_hadiabdollahian6": {
-        "name": "dan-hadiabdollahian6",
-        "author": "Hadi Abdollahian",
-        "language": "Danish",
-        "direction": "ltr",
-        "source": "https://www.alqurantranslation.com/ , Contact:+989354664487",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian6.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dan-hadiabdollahian6.min.json"
-    },
     "dan_vandetaal": {
         "name": "dan-vandetaal",
         "author": "Van De Taal",
