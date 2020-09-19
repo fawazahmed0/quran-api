@@ -6,12 +6,13 @@ const path = require('path');
 
 // increases or decreses the verse number by this value, assign negative value to decrement the verse numbers
 var increment = 1
-var filePath = path.join(__dirname, 'newinc.txt')
+var filename = "UthmanicBazzi1 Ver07.txt.new.new"
+var filePath = path.join(__dirname,'start' ,filename)
 
-var fromLineNo = 6608
-var toLineNo=6649
+var fromLineNo = 1536
+var toLineNo=1603
 // Set the number verse pattern here, which needs to be incremented
-var numberRegex  = new RegExp(/^\s*\d+/i);
+var numberRegex  = new RegExp(/\d+/i);
 
 
 
@@ -19,6 +20,8 @@ var numberRegex  = new RegExp(/^\s*\d+/i);
 
 
 var arr = fs.readFileSync(filePath).toString().split(/\r?\n/)
+
+fs.writeFileSync(path.join(__dirname,filename+'.bak'),arr.join('\n'))
 
 for(var i=fromLineNo-1;i<toLineNo;i++){
   if(numberRegex.test(arr[i])){
@@ -31,4 +34,4 @@ for(var i=fromLineNo-1;i<toLineNo;i++){
 
 
 
-fs.writeFileSync('newinc2.txt',arr.join('\n'))
+fs.writeFileSync(filePath,arr.join('\n'))

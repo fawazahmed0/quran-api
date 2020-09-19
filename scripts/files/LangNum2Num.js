@@ -1,3 +1,6 @@
+const fs = require('fs');
+const path = require('path');
+
 // Coverts numbers insides a string to other language number
 // str is the string
 // zeroFrom is the zero number from the language you want to convert
@@ -16,7 +19,14 @@ function LangNum2Num(str,zeroFrom,zeroTo){
 return str.split('').map(e=>FromArr.includes(e.codePointAt(0)) ? String.fromCodePoint(ToArr[FromArr.indexOf(e.codePointAt(0))]) : e ).join('')
 
 }
+var dirval = 'numchange'
+
+for(var filename of fs.readdirSync(dirval)){
 
 
-val = LangNum2Num("जिनसे आप कुछ ९० सीख सकते ३४ हैं हम लाये हैं ७ आपके लिये कुछ","०",0)
-console.log(val)
+
+var retval = LangNum2Num(fs.readFileSync(path.join(dirval,filename)).toString(),"٠",0)
+
+fs.writeFileSync(path.join('numchange2',filename),retval)
+
+}
