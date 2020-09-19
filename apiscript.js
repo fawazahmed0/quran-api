@@ -1247,9 +1247,10 @@ fullval = fullval.map(elem => elem.replace(/\r?\n/gi," ").replace(/\s\s+/gi, " "
   // if the length of array is 6236, then we are generating the latin, else we will not
   if (fullval.length == VERSE_LENGTH)
     logmsg("\nlatin script generated for this language")
-  else
+  else{
     logmsg("\nlatin script not generated")
-
+    logmsg("\n length of returned array is "+fullval.length,true)
+     }
 
 return fullval
 
