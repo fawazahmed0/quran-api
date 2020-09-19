@@ -489,7 +489,7 @@ function cleanTrans(arr) {
   for (i = 0; i < arr.length; i++) {
     // https://en.wikipedia.org/wiki/List_of_Unicode_characters#Basic_Latin
     // This will remove all special symbols and numbers from starting and ending of verse
-    arr[i] = arr[i].replace(/^[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n]{1,20}/, " ").replace(/^\s*\w{1}\s*(\.|\)|\}|\>|\])+[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n]{0,7}/i, " ").replace(/[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n]{1,15}$/, " ").replace(/\s\s+/g, " ").trim()
+    arr[i] = arr[i].replace(/^[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n|\r]{1,20}/, " ").replace(/^\s*\w{1}\s*(\.|\)|\}|\>|\])+[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n|\r]{0,7}/i, " ").replace(/[\u0020-\u0040|\u005b-\u0060|\u007b-\u007e|\s|\n|\r]{1,15}$/, " ").replace(/[\r\n]/g, " ").replace(/\s\s+/g, " ").trim()
     // Checking partially open/close bracket exists or not at begninning of verse
     var bracket1 = arr[i].match(/^[^\[|\(|\<|\{]+(\]|\)|\>|\})/)
     // Checking partially open/close bracket exists or not at end of verse
