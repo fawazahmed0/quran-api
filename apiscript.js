@@ -1042,7 +1042,6 @@ function chapVerseWriter(fromChap, fromVerse, toChap, toVerse, arr, pathname, ke
   if (!toChap && !toVerse)
     to = arr.length
 
-  var tempmap = mappings
   // stores the lines to be written
   arr = arr.slice(from, to)
   var tempmap = mappings.slice(from, to)
