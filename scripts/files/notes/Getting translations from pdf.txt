@@ -1,3 +1,9 @@
 save the pdf as word
 open the word and save as text with utf-8
 perform the regex and add it to the api
+
+-----------------
+better approach:
+use pdftotext from poppler library installed in msys2
+
+pdftotext file.pdf out.txt

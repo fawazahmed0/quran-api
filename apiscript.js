@@ -404,7 +404,7 @@ function validateCleanTrans(arr, filename) {
     var j = 0;
     var stop = 0
     // specifies the limit, i.e next number of lines to search for next verse
-    var limit = 5
+    var limit = 7
     // Saving the original arr as we will be modifying it
     var orgarr = [...arr]
     // Filtering the array from empty lines, uncomment this if the input translation has so many empty lines in it
@@ -442,7 +442,7 @@ function validateCleanTrans(arr, filename) {
         // merging the newline content assuming it's part of verse, as we did not find next verse pattern
         arr[i - 1] = arr[i - 1] + " " + arr[i]
         //  console.log("merged " + arr[i - 1])
-        logmsg("\nmerged the below line \n" + arr[i - 1], true)
+        // logmsg("\nmerged the below line \n" + arr[i - 1], true)
         // deleting the current line as it is already merged with previous line
         arr.splice(i, 1)
         // Going back to the previous line containing the merged content
