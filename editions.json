@@ -1,4 +1,24 @@
 {
+    "aar_sheikhmahmoudab": {
+        "name": "aar-sheikhmahmoudab",
+        "author": "Sheikh Mahmoud Abdel Qader Hamz And Group Of Scholars",
+        "language": "Afar",
+        "direction": "ltr",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "This translation was OCRed, in case you find any mistakes, let me know at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/aar-sheikhmahmoudab.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/aar-sheikhmahmoudab.min.json"
+    },
+    "ace_tgkhmahjiddinju": {
+        "name": "ace-tgkhmahjiddinju",
+        "author": "Tgk. H. Mahjiddin Jusuf",
+        "language": "Achinese",
+        "direction": "ltr",
+        "source": "https://www.islamic-invitation.com/",
+        "comments": "This translation was OCRed, in case you find any mistakes, let me know at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ace-tgkhmahjiddinju.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ace-tgkhmahjiddinju.min.json"
+    },
     "afr_imammabaker": {
         "name": "afr-imammabaker",
         "author": "Imam M. A. Baker",
@@ -658,6 +678,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-prekladihrbek.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ces-prekladihrbek.min.json"
+    },
+    "dag_muhammadbabaght": {
+        "name": "dag-muhammadbabaght",
+        "author": "Muhammad Baba Ghtobo",
+        "language": "Dagbani",
+        "direction": "ltr",
+        "source": "https://www.islamic-invitation.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dag-muhammadbabaght.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/dag-muhammadbabaght.min.json"
     },
     "dan_hadiabdollahian": {
         "name": "dan-hadiabdollahian",
@@ -1689,6 +1719,36 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hrv-unknown.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hrv-unknown.min.json"
     },
+    "hun_drahmedabdelrah_la": {
+        "name": "hun-drahmedabdelrah-la",
+        "author": "Dr. Ahmed Abdel Rahman Okfat Tashaab",
+        "language": "Hungarian",
+        "direction": "ltr",
+        "source": "https://archive.org/ , King Fahd Quran Complex",
+        "comments": "This translation was OCRed, in case you find any mistakes, let me know at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hun-drahmedabdelrah-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hun-drahmedabdelrah-la.min.json"
+    },
+    "hun_drahmedabdelrah": {
+        "name": "hun-drahmedabdelrah",
+        "author": "Dr. Ahmed Abdel Rahman Okfat Tashaab",
+        "language": "Hungarian",
+        "direction": "ltr",
+        "source": "https://archive.org/ , King Fahd Quran Complex",
+        "comments": "This translation was OCRed, in case you find any mistakes, let me know at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hun-drahmedabdelrah.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/hun-drahmedabdelrah.min.json"
+    },
+    "ilp_abdulazizgroaal": {
+        "name": "ilp-abdulazizgroaal",
+        "author": "Abdul Aziz Gro Aalem Saromintang",
+        "language": "Iranun",
+        "direction": "ltr",
+        "source": "https://www.islamic-invitation.com/ , King Fahd Quran Complex",
+        "comments": "This translation was OCRed, in case you find any mistakes, let me know at https://bit.ly/33FuNZS . This is a Iranon Philippines translation",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ilp-abdulazizgroaal.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ilp-abdulazizgroaal.min.json"
+    },
     "ind_indonesianislam": {
         "name": "ind-indonesianislam",
         "author": "Indonesian Islamic Affairs Ministry",
@@ -1768,6 +1828,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ita-hamzarobertopic.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ita-hamzarobertopic.min.json"
+    },
+    "jav_unknown_la": {
+        "name": "jav-unknown-la",
+        "author": "Unknown",
+        "language": "Javanese",
+        "direction": "ltr",
+        "source": "https://github.com/hakimrie/alQuran-Translations , https://voiceofquran.info/download-quran-translation-pdf/",
+        "comments": "This translation was made by merging two jawa translations from different sources, first source was from Github which was partial i.e chapters from - were missing and to complete the whole quran translation, chapters from - were taken from Lahori Ahmadiyya jawa quran translation book, incase you find any issues in the translation, please let me know at https://bit.ly/ FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jav-unknown-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jav-unknown-la.min.json"
+    },
+    "jav_unknown": {
+        "name": "jav-unknown",
+        "author": "Unknown",
+        "language": "Javanese",
+        "direction": "ltr",
+        "source": "https://github.com/hakimrie/alQuran-Translations , https://voiceofquran.info/download-quran-translation-pdf/",
+        "comments": "This translation was made by merging two jawa translations from different sources, first source was from Github which was partial i.e chapters from - were missing and to complete the whole quran translation, chapters from - were taken from Lahori Ahmadiyya jawa quran translation book, incase you find any issues in the translation, please let me know at https://bit.ly/ FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jav-unknown.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jav-unknown.min.json"
     },
     "jpn_ryoichimita_la": {
         "name": "jpn-ryoichimita-la",
@@ -1909,6 +1989,46 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/khm-cambodianmuslim.min.json"
     },
+    "kin_rmcrwanda": {
+        "name": "kin-rmcrwanda",
+        "author": "R. M. C. Rwanda",
+        "language": "Kinyarwanda",
+        "direction": "ltr",
+        "source": "https://www.islamic-invitation.com/",
+        "comments": "This translation was made by The General Directorate of the Muslim Community at (RMC) in collaboration with the AFRICA DEVELOPMENT AND EDUCATION FOUNDATION (ADEF)",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kin-rmcrwanda.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kin-rmcrwanda.min.json"
+    },
+    "kir_shamsaldinhakim_la": {
+        "name": "kir-shamsaldinhakim-la",
+        "author": "Shams Al Din Hakimov",
+        "language": "Kirghiz",
+        "direction": "ltr",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "This translation was OCRed, in case you find any mistakes, let me know at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kir-shamsaldinhakim-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kir-shamsaldinhakim-la.min.json"
+    },
+    "kir_shamsaldinhakim_lad": {
+        "name": "kir-shamsaldinhakim-lad",
+        "author": "Shams Al Din Hakimov",
+        "language": "Kirghiz",
+        "direction": "ltr",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "This translation was OCRed, in case you find any mistakes, let me know at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kir-shamsaldinhakim-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kir-shamsaldinhakim-lad.min.json"
+    },
+    "kir_shamsaldinhakim": {
+        "name": "kir-shamsaldinhakim",
+        "author": "Shams Al Din Hakimov",
+        "language": "Kirghiz",
+        "direction": "ltr",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "This translation was OCRed, in case you find any mistakes, let me know at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kir-shamsaldinhakim.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kir-shamsaldinhakim.min.json"
+    },
     "kmr_unknown_la": {
         "name": "kmr-unknown-la",
         "author": "Unknown",
@@ -1928,6 +2048,16 @@
         "comments": "This language is also known as Northern Kurdish",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kmr-unknown.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/kmr-unknown.min.json"
+    },
+    "knx_unknown": {
+        "name": "knx-unknown",
+        "author": "Unknown",
+        "language": "Kendayan",
+        "direction": "ltr",
+        "source": "https://www.islamic-invitation.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/knx-unknown.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/knx-unknown.min.json"
     },
     "kor_hamidchoi_la": {
         "name": "kor-hamidchoi-la",
@@ -2139,6 +2269,56 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mar-muhammadshafiia.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mar-muhammadshafiia.min.json"
     },
+    "mkd_sheikhhassangil_la": {
+        "name": "mkd-sheikhhassangil-la",
+        "author": "Sheikh Hassan Gilo",
+        "language": "Macedonian",
+        "direction": "ltr",
+        "source": "http://www.qurandownload.com , https://www.islamic-invitation.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mkd-sheikhhassangil-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mkd-sheikhhassangil-la.min.json"
+    },
+    "mkd_sheikhhassangil_lad": {
+        "name": "mkd-sheikhhassangil-lad",
+        "author": "Sheikh Hassan Gilo",
+        "language": "Macedonian",
+        "direction": "ltr",
+        "source": "http://www.qurandownload.com , https://www.islamic-invitation.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mkd-sheikhhassangil-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mkd-sheikhhassangil-lad.min.json"
+    },
+    "mkd_sheikhhassangil": {
+        "name": "mkd-sheikhhassangil",
+        "author": "Sheikh Hassan Gilo",
+        "language": "Macedonian",
+        "direction": "ltr",
+        "source": "http://www.qurandownload.com , https://www.islamic-invitation.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mkd-sheikhhassangil.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mkd-sheikhhassangil.min.json"
+    },
+    "mlt_martinrzammitmu_la": {
+        "name": "mlt-martinrzammitmu-la",
+        "author": "Martin R. Zammit, Muhammad El Sadi",
+        "language": "Maltese",
+        "direction": "ltr",
+        "source": "World Islamic Call Society(WICS) , https://www.islamic-invitation.com/",
+        "comments": "This translation was OCRed, Please report the mistakes, at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mlt-martinrzammitmu-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mlt-martinrzammitmu-la.min.json"
+    },
+    "mlt_martinrzammitmu": {
+        "name": "mlt-martinrzammitmu",
+        "author": "Martin R. Zammit, Muhammad El Sadi",
+        "language": "Maltese",
+        "direction": "ltr",
+        "source": "World Islamic Call Society(WICS) , https://www.islamic-invitation.com/",
+        "comments": "This translation was OCRed, Please report the mistakes, at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mlt-martinrzammitmu.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mlt-martinrzammitmu.min.json"
+    },
     "mrw_guroalimsaroman": {
         "name": "mrw-guroalimsaroman",
         "author": "Guro Alim Saromantang",
@@ -2288,6 +2468,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/orm-ghaliapapurapag.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/orm-ghaliapapurapag.min.json"
+    },
+    "pan_drmuhamadhabibb_lad": {
+        "name": "pan-drmuhamadhabibb-lad",
+        "author": "Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan",
+        "language": "Panjabi",
+        "direction": "ltr",
+        "source": "Goodword Books, http://goodwordbooks.com/ , http://cpsglobal.org/",
+        "comments": "This translation was OCRed, incase you find mistakes, please let me know at fawazahmed0@hotmail.com",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb-lad.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb-lad.min.json"
+    },
+    "pan_drmuhamadhabibb": {
+        "name": "pan-drmuhamadhabibb",
+        "author": "Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan",
+        "language": "Panjabi",
+        "direction": "ltr",
+        "source": "Goodword Books, http://goodwordbooks.com/ , http://cpsglobal.org/",
+        "comments": "This translation was OCRed, incase you find mistakes, please let me know at fawazahmed0@hotmail.com",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb.min.json"
     },
     "pol_jozefabielawski_la": {
         "name": "pol-jozefabielawski-la",
@@ -2688,6 +2888,26 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sot-sheikheliaskeke.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/sot-sheikheliaskeke.min.json"
+    },
+    "spa_abdulqadermouhe_la": {
+        "name": "spa-abdulqadermouhe-la",
+        "author": "Abdul Qader Mouheddine, Sirhan Ali Sanchez.",
+        "language": "Spanish",
+        "direction": "ltr",
+        "source": "https://www.islamic-invitation.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-abdulqadermouhe-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-abdulqadermouhe-la.min.json"
+    },
+    "spa_abdulqadermouhe": {
+        "name": "spa-abdulqadermouhe",
+        "author": "Abdul Qader Mouheddine, Sirhan Ali Sanchez.",
+        "language": "Spanish",
+        "direction": "ltr",
+        "source": "https://www.islamic-invitation.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-abdulqadermouhe.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/spa-abdulqadermouhe.min.json"
     },
     "spa_islamicfoundati_la": {
         "name": "spa-islamicfoundati-la",

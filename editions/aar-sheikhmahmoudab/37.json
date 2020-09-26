@@ -1,0 +1,914 @@
+{
+    "chapter": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "Yalli malaykay missoowiyyah missowtal xiibite"
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "Kaadu Yalli qamburre foorisiyyah foorissa (wakayah wakayta) Malaykal xiibite"
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "Kaadu Qhuraan kee Dikri akriyiyyah takriye malaykal xiibite"
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "Diggah seehaday sin Yallay taqbudeeni inkittuk qibaadá kaah caglisa iyyaanamal xiibite"
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "Usuk qaranwaa kee baaxóoy, ken nammayih fanal taniimih Rabbi, kaadu usuk ayrô mawqooqii kee ayrô kormaamî Rabbi kinni"
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "Diggah Nanu addunyâ qaran cutuukat bilqisneh"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "Kaadu ummaan sheetanay Yallih taaqatak yewqek, qaran cutuukat dacrisna"
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "Sheetoona qaran mataafaay, irô qaraanal tan Malaykah yab taabbem madudda, kaadu ummaan kabuk qambisimta"
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "Woo ankactuk xiiriysimaanaah, amurruqe wayta digaalá-lon akeeral"
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "Sheetoona Malaykak sissikuk qawta qangara akke waytek yaabbeenim maduudan, tokkel ura dabiitay ken cararisa ken kataata"
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "Nabiyow toysa ken esser ginóh usun gibdoonu innaa hinnay Nanu ginnem gibdim ginoonak? Diggah nanu xankab itta kallay gabat kaftak ken ginne (ken abba Aadam kinnuk)"
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "Wonna hinnay nabiyow koo dirabboysaanaah, qhiyaamah ayróh ugut yangaddeenim qajjibsittah usun kol anqaasak"
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "Hawweeneenim ken kassiisan waqdi kas elle mageyaanaay, edde mayantifiqan"
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "Kaadu atu Nabii kinnitom tascasse astá yablen waqdi teetil anqasaanaah qajjibsitan"
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "Kaadu atu luk temeetem kalah tu- hinna, baxxaqqa iyya baab akke waytek kaak iyyen"
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "Rabneeh burtaay lafoofi nakke waqdi, nanu diggah nuwwuk ugtennoo ninni magooqak? (Qhiyaamah ayró kinnuk)"
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "Kaadu nek naharsi abbobtiy warrayte ugtelee iyyen"
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "Yeey, ugtetton keenik ixxic nabiyow; isin xixxibaaneey, qunxaane-luk"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "Cagalah is Israafiil baantah inki xongoló, eddeluk usun magooqak ugtaanaah sinnik abaanam qambaalitan"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "Nee gee finqaaw! ah cisaabaay galtóh ayró iyyan (qhiyaamah ayró kinnuk)"
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "Ah-meklah ayróy ginô fan qadlil edde meklaanay isin dirabboysak sugteeni keenik iyyan"
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "Malaykak iyyaanah; koroosite maraa kee koroosannul ken kataateeh ken ceela maraay, usun Yallak kalah aqbaduk sugeenim gaaboysa"
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "Eddeluk jaciim deqsitta giráh gita keenih escessa"
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "Kaadu siraat garil ken eyseeda, diggah usun addunyal abeenimik esserimaanahak"
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "Maca litoonuuh, itta kah cate waytaanam addunyal itta kah catak sugten innah keenik iyyan ken sahitak"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "Wonna hinnay usun asaaku (qhiyaamah ayró kinnuk) Yallih amrih gabá yeceenih xixxibaane luk"
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "Korosuk mariiy marat afkanuk keemaaritak itta esseran"
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "Diggah isin cakki-le kabuk nee gutuqak net amaatuk sugteeniih, baatil net bilqisak sugten iyyen kattaate mari katayen marak"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "Katayen mari keenil gacisak, wonna hinnay isin nummayse marah ma-suginniton keenik iyyan"
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "Kaadu nanu sin amol qandey iimaanak sin edde waasna luk masuginnino, wonna hinnay isin dambit caddok tature marah sugten"
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "Tokkel ni-Rabbih maxcó inkih nel nummatteh, diggah nee kee sin digaalá tammoysenno"
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "Eddeluk Yallih gitaa kee iimaanak sin makkosneh, diggah nanu siinik dumaak makkoote marah sugne"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "Toysa diggah usun woo ayró (qhiyaamah ayró kinnuk) digaalál yangaleenih addunyal umaanél yengeleenimih sabbatah. (kattaate maraa kee katayen mara kinnuk)"
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "Diggah nanu umeyniitik tamannah abna"
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "Diggah usun (koros kinnuk) inki Yallak-sa cakkil yaqbuden Yalli mayan ixxica keenik iyyan waqdi, kaxxa-mariinitak sugen addunyal"
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "Kaadu nanu diggah ninni yallitteh qibaadá gad-abê cabulih sabbatah cabnoo iyyen? (woh kak iyyaanam Yallih farmoyta kinnuk)"
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "Wonna hinnay Nabii cakki baaheeh (Qhuraan kee Yalla inkittoysaanam kinnuk) farmoytit nummaysak yemeete"
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "A-korosey isin diggah qansarissa digaalá tammoysetton qhiyaamah ayró"
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "Kaadu addunyal umaanék abak sugteenimik-sa elle galtimtaanam manton akeeral"
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "Yallih naqoosay qibaadá kaah caglissey Yalli isi racmat caglise akke waytek qansarissa digaalák naggowtam matan"
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "Woo meqe maray Yalli doore yimixxige quusiy (rizqhiy) aggiriqqewaa lon"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "Woo rizqhi maggo caxâ mixu, usun Yalli keenih abe konnabá luk"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "Waara niqmat-le Jannootah addal yanin"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "Qaraakiy amol sitta fan afkanuk"
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "Maqiin deqsitta daráh gocoyuk kibuk yan kaaqon keenit meksima"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "Ama gocoy qadoh, yaaqube marah satta-le"
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "Usuk kas mabeyaay, amô berra mali kaadu usun kaat mayaskiran (madoomitan)"
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "Kaadu ken xaqul saytun agabuy sinni baqoltik-sá num fanah waktewaay, qax-meqe intiita-le lon"
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "Ama agbih weeló dansinte naalay gabá xage wayteh inna-le qidih"
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "Tokkel jannatti mari, mariiy marat keenik yafkune addunyal keenil taturtem itta esserak"
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "Jannatti marak yaabe num iyyeh; diggah anu rabak lakal tan manó yangadde kataysa luk suge addunyal"
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "Diggah atu nummaysa marâ tanitoo? yok axcuk suge"
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "Rabneeh, burtaay, lafoofi nakke waqdi, diggah nanu ugutnaah, cisab nek abaanaah, ninni taamoomil galtimennoo? yok axcuk suge"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "Woo moominti Jannatal isi kataysiisik, isin girát yoo lih maay boosittan woo korostih caalat nabaluh? Iyya"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "Eddeluk bossu iyyeeh, jaciim deqsitta girák gudel (guddaqtal) kaa yuble"
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "Yallal xiibita immay, diggah yoo finqise raarte koo oggolinniyoy, kaak (kay kataysay addunyal rabak lakal manó tanim angadduk suge kinnuk) iyya woo moominti"
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "Kaadu yi-Rabbi isi muxxóh tirri yoo heewannay, kôo luk girál xayyoysimeeh tet cule marih num akkuk-en"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "Nanu waaraah rabewaa mara hinninom hinnaa"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "Marabna nek naharsi rabay addunyal abne akke waytek, kaadu nanu diggalsimewaa mara hinnino innaa Jannat culleek lakal"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "Diggah nanu niqmatak edde nanim, usuk kaxxa affaafa"
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "Annah yan niqmatay dudda- leh taamita mari toysa taamitay addunyal"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "Woo weeló kak taturte jannatih niqmatannaa, qibnaytiinoh taysem, hinnay zaqhqhuum deqsitta caxay cooxuk gactah taniy jahannam addal tani tayseeh"
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "Diggah nanu korosuh aqayyaareh (mokkoroh) tet abne (zaqhqhuum kinnuk)"
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "Diggah is jaciim deqsitta girák ragidik tawqe caxa"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "Tet mexexi diggah usuk sheetoonâ moyyaayih inna-le qaxumaaneh"
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "Eddeluk diggah usun teetik yakmeeniih, bagitte teetik kiban"
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "Tohuk lakal diggah tet bagul niqna kak caddok taturte leeh daragu-lon maaqabah"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "Too digaaláh lakal diggah gacsimeyna keenik jaciim deqsitta girâ fanah takke"
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "Diggah usun sinni abbobti makkoote marah geen"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "Usun wohul ken katayyuh yasissiken"
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "Kaadu Nummah nabiyow ku- marak duma naharsi marak maggo mari makkoote"
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "Kaadu nummah Yallih digaalák ken meesissa farmoytit keenih rubne addunyal"
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "Tokkel meesiisen marih ellecabo kah tekke inna wagitey (cubbusey) nabiyow"
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "Yallih naqoosay Yalli isi racmatat caglisey naggoyse akke waytek, qibaadá kaah cagliseenimih sabbatah"
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "Yalli xiibitak iyyeh; Nabii Nuuc neh seeceh kay maral qokol kaah nakkem keh, tokkel nanu kaa oggola marak yayse mara kinnino"
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "Kaadu kaa kee kay buxah maraay, moominiiniy kaâ luk teemene kaxxa gibdak naggosneh (leet xuunumaanamak, sutaanamak)"
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "Kaadu kay samad raaqe mara ken abne, kay mari leet bayeek gamadal"
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "Kaadu meqe xagar-xagoo kee fayla kay amol cabne ellecabô maray kaak lakal yamaatuwaah arrabat"
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "Sinam addal Nabii Nuucuh saayaay nagaynan cabne"
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "Diggah nanu meqe mara tonnal galatna"
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "Diggah Nabii Nuuc ni-naqoosay teemeney Yallah qibaadá caglissek numuk teyna"
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "Tohuk lakal aki maray kaa dirabboyse leet xuumusneeh (sutusne) finqisne"
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "Kaadu diggah kay (Nabii Nuuc kinnuk) gital kaa kataate marat Nabii Ibraahim yan"
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "Isi Rabbil saytun sorkocô baxa luk yemeete waqdi Yallat agleyta haamak"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "Isi abbaa kee isi marak Yallak kalah maca taqbudeniih iyye waqdi ken assacakkuk"
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "Yallak kalah gersi yallitte diraabah taqbudenim faxxaanaa"
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "Tohul ginô Rabbi maca siinik abelem takkaleeniih, Yallak kalihim tuqbudeenik"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "Tokkel ken qiidih keenil luk yawqeemik malkitih cutuukâ fanah wagittoh wagga hee"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "Edde luk diggah anu biyaakitah keenik iyye"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "Edde luk derre kaat cabba heenih gexen"
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "Eddeluk ken yallitte fan sissikuk kelli iyyeeh (malgiyeh) matakmaanaa? iyye keenil anqasak"
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "Maca liton kah yaabe waytaanaah essero yol kah gacse waytaanam keenik iyye Nabii Ibraahim"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "Edde luk Nabii Ibraahim keenit yufkuneh migdi gabah godmat ken aagaruk"
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "Tokkel sissikuk naqabu luk kay mari kaah fan yufkuneeh nanu tet naqbudeeh, atu tet taggilee kaak iyyen"
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "Isin sinni gabah urtaanam taqbudeenii, sin gine Rabbî qibaadá cabba hayteenih keenik iyye"
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "Yalli sin kee isin abba haytaanam gineh anuk"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "Nabii Ibraahim Yaabah keenik yeyse waqdi, tokkel kay mari uma malah kaah malseeh xiso kaah xisaay jaciim deqsitta girát kaa gasiya (qambisa) iyyen"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "Kay mari uma malah kaah malseeh, guba raaqa mara ken abneeh, Nabii Ibraahim girák amaanah yewqe"
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "Kaadu Nabii Ibraahim iyyeh; diggah anu guuroh inni Rabbî fan gexaah usuk tirri yoo heele (yoo ascassele)"
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "Nabii Ibraahim Yi-Rabbow meqe marih loowot yan baxa yoh acuw iyye"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "Eddeluk dooqá kaak oggolleeh kaxxa xiq-le baxal kaa aytikumusne (berrakisne)"
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "Ismaaqil yembeeh barak abballuk taamáh edde gexa caddo yoofe waqdi, yi-baxaw diggah anu soonol koo asguudem ublek, a-caagid wagitey maca kot ceela? Kaak iyye. Yi-babbaw elle amrisimtem ab, wohul Yalli faxek yisbire marih numuh yoo geettok kaak iyye"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "Edde luk Yallih amri oggolen waqdi (Nabii Ibraahim kee baxa kinnuk) abba seltah (xabanah) kaa oobise kaa yasgaaduh"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "Kaadu kaa secneh kee Ibraahimow axcuk"
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "Nummah tuble soonó nummasseh, diggah nanu tonnal galatna meqe mara iyye Yalli"
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "Diggah ta-amri (ku baxih masgaada kinnuk) is-baxxaqqa itta aqayyaare kinni"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "Kaadu nanu kaxxa maruwih (marugih) masgaadal kaa wadne (Ismaaqil kinnuk)"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "Kaadu Nabii Ibraahimih meqe xagar-xagoo kee fayla kay amol cabne elle cabô maray kaak lakal yamaatuwaah arraabat"
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "Yallih xaquk nagaynan Nabii Ibraahimil yanay"
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "Nabii Ibraahim kah galatne innah meqe mara tonnal galatna"
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "Diggah Nabii Ibraahim ni- naqoosay teemenek numuk teyna"
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "Kaadu Nabii Ibraahim Iscaaqh deqsita baxay Nabii yakkuwaay meqe marak numuk teynah yanil kaa ayti-kumusne (berrakisne)"
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "Kaadu kaa (Ibraahim) kee Iscaaqhal barkat oobisne, kaadu ken nammayih samadak isi nafsih meqe num keenik yaniih, baxxaqqa-le dulmih koroosannut isi nafsi yadlume num keenit yanih"
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "Yalli nummah xiibitak iyyeh; Nabii Muusaa kee Nabii Haaruun nabuwwannut gunneh"
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "Kaadu ken nammay kee ken mara naggosneh kaxxa gibdak (xuumiyya kinnuk)"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "Kaadu ken qokolleeh, usun firqawnaa kee firqawni marak yayse mara yekken"
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "Kaadu tawraat kitaabay baxxaqqa iyya ken nammayah necee"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "Kaadu ken nammay massa-le gital (Islaam diini kinnuk) tirri hayne"
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "Kaadu meqe xagar-xagoo kee fayla ken nammayih amol cabne ellecabô maray keenik lakal yamaatuwaah arrabat"
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "Yallih xaquk nagaynan Nabii Muusaa kee Nabii Haaruunul yanay"
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "Diggah ken nammay kah galatne innah nanu meqe mara tonnal galatna"
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "Diggah ken nammay Ni-naqoosay teemenek nammayak teyna"
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "Kaadu diggah Nabii Ilyaas rubsumte farmoytiitik numuk teyna"
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "Isi marak israa-iil xaylok Yallak ma-meesittaanaa? iyye waqdi keenih cus nabiyow"
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "Numtin-welluy baqla deqsita taqbudeeniih, ginó-abák yayse gineynih qibaadá cabtaanaa"
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "Yalli sin Rabbiy sin gineey, siinik naharsi abbobti gine Rabbi kinni"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "Eddeluk kay mari kaa dirabboyseeh, diggah usun gaaboysime loonuuh xayyowsime-lon girâ digaaláh"
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "Yallih naqoosay Yalli isi racmat caglisey naggoyse akke waytek qibaadá kaah cagliseenimih sabbatah"
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "Kaadu Nabii Ilyaas meqe xagar- xagoo kee fayla kay amol cabne ellecabô maray kaak lakal yamaatuwaah arrabat"
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "Yallih xaquk nagaynan Nabii ĮIlyaasal yanay"
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "Diggah Nabii Ilyaas kah galatne innah Nanu meqe mara tonnal galatna"
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "Diggah Nabii Ilyaas ni-naqoosay teemenek numuk teyna"
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "Kaadu diggah Nabii Luut rubsumte farmoytiitik numuk teyna"
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "Nabiyow keenih cus; Nabii Luut kee kaal yeemene mara inkih digaalák naggosne waqdi"
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "Idaltô daaqaynay (Nabii Luut barra kinnuk) digaalát raaqe maray finqitê luk raqte akke waytek koroositteemih sabbatah"
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "Lakat Nabii Luut marak aka maray raqqayey kaa dirabboyse bayisneh"
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "Kaadu diggah isin Makki maraw ken abuural taturak maacissan"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "Kaadu bar elle taturtaanahak kas elle mageytaanaa? Ken geytem sin geytaamak"
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "Kaadu diggah Nabii Yuunus rubsumte farmoytiitik numuk teyna"
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "Nabiyow keenih cus ; Nabii Yuunus isi marih naqabuh sinaamak kibuk tan doynik fan kude waqdi"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "Kaxxa haffó woo doynik marteeh tokkel meesiten waqdi doynik mari saami caxxa qideeh, Nabii Yuunus saami-caxxal kak yeysen marih num yekke"
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "Badat kaa qideeniih, eddeluk kullunti kaa yunxuqe, usuk assacokka lem baahe numuh anuk"
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "Diggah usuk Yalla maggom cusa marih numuh suge wannay"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "Kullinti bagut edde ugtan ayrô fan sugak yen (qhiyaamah ayró kinnuk)"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "Eddeluk kullinti baguk baddi afal deebol kaa qambisne usuk lakmisak"
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "Yaqhtiin deqsita cooxuk caxá (xalâ caxá kinnuk) kay amol nuysubuke"
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "Kaadu kay marak bool alfi yakke marah kaa rubne, hinnay wohuk fulaanah"
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "Eddeluk kaa nummayseeniih, edde raban wakti keenik yamaatem fanah ken hatkisneh"
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "Eddeluk nabiyow ken esser; ku- Rabbi say-xaylo leeh, usun lab- xaylo loonuu"
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "Hinnak Malayka sayyoh ginnee usun abaluk"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "Oobbiyooy! diggah usun sinni diraabah iyyaanah"
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "Yalli xaleh iyyan, diggah usun dirableelá kinnuk"
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "Yalli say-xayló dooritee lab- xaylok"
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "Kee a-maraw maca liton! Mannal mekeltan Yallah say-xayló teexegeeniih, sinnih lab-xaylo teexegen waqdi"
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "Makassittaanaa! Yalli barráa kee xaylo aallewaah, kak saytunnoowem"
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "Hinnak baxxaqqa iyya sumaq litoonuu a-ittaanamal"
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "Toysa sin kitaabay Yallih xaquk litoonu baahay, a-ittaanamal numma yacee mara tekkeenik keenik iyyan"
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "Koros Yallaa kee Malaykâ fanal ramaddiinuu kee lagó heen, nummah malayká teexegeh diggah usun (koros kinnuk) girá digaalál gaaboysime loonuuh xayyoysime loonum qhiyaamah ayró"
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "Yalli saytunnooweh kaa ceele waytaamay koros kaa edde weelossak"
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "Yallih naqoosay Yalli isi racmatat caglisey kaa ceele wayta weelot kaa weeloyse wayta akke waytek"
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "Toysa diggah korosey sin kee isin yallitte axcuk uqbuddu haytaanam"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "Isin Yallih giták num makot beya mara hinniton"
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "Koroosannuh Jaciim deqsitta girá cula numuy Yalli tet culim elle mekle akke waytek"
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "Malayka itteh; nek inki malaykatti mayan, qaraanal yimixxige arac-le kaa akke waytek"
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "Kaadu diggah nanu Yallih qibaadáh saffih sollá"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "Kaadu diggah nanu Yalla ceele waytaamak Yalla saytunnosna"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "Diggah nabiyow atu rubsumtak naharat Makki koros axcuk sugte"
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "“Kitoobaa kee anbiyak naharsi maral temeetem nel amaatinnay diggah oggolak nen"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "Yallih naqoosay Yalli isi racmatat caglise akkuk-nen”"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "Makki koros Qhuraan keenil yemeete waqdi kaal koroositeeniih, akeeral digaalák loonum sarrah aaxige-lon"
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "Nummah Ni-qangará Ni-naqoosa farmoytiitih taturteh"
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "Diggah usun sinni naqboytiitil qoklima mara kinnon"
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "Kaadu diggah Ni-qande maysó lem addunyaay akeeral"
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "Toysa nabiyow derre keenit (Makki koros kinnuk) cab dago waktî fanah"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "Kaadu ken qambal nabiyow digaalák keenil obtuwaytam sarrah ableloonuk"
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "Tokkel edde qataatakaanam Ni- digaalá innaa nabiyow"
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "Tokkel Ni-digaalá ken dabooqal (maaftal) keenil obta waqdi, toysa meesiisen marih maaci maxxu yoomeeh"
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "Kaadu nabiyow derre keenit cab yimixxige waktî fanah"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "Kaadu nabiyow ken qambal Ni-digaalák keenil obtuwaytam sarrah ableloonuk"
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "Nabiyow ku-Rabbi saytunnooweh maysó-le Rabbi, kaa ceele waytaamay kaa edde weelossu haanak"
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "Kaadu Yallak nagaynan farmoytiitil yanay"
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "Kaadu faylá Yalli-le, ginô Rabbi"
+        }
+    ]
+}
