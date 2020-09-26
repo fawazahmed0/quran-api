@@ -415,6 +415,10 @@
         "iso1": "cs",
         "iso2": "ces"
     },
+    "dagbani": {
+        "iso1": "",
+        "iso2": "dag"
+    },
     "dakota": {
         "iso1": "",
         "iso2": "dak"
@@ -791,6 +795,10 @@
         "iso1": "",
         "iso2": "ira"
     },
+	"iranun": {
+        "iso1": "",
+        "iso2": "ilp"
+    },
     "irish": {
         "iso1": "ga",
         "iso2": "gle"
@@ -891,6 +899,10 @@
         "iso1": "kk",
         "iso2": "kaz"
     },
+    "kendayan": {
+        "iso1": "",
+        "iso2": "knx"
+    },
     "khasi": {
         "iso1": "",
         "iso2": "kha"
@@ -968,8 +980,8 @@
         "iso2": "kur"
     },
 	"kurmanji": {
-    "iso1": "",
-    "iso2": "kmr"
+        "iso1": "",
+        "iso2": "kmr"
     },
     "kurukh": {
         "iso1": "",
