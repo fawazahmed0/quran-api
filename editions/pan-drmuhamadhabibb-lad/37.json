@@ -1,0 +1,914 @@
+{
+    "chapter": [
+        {
+            "chapter": 37,
+            "verse": 1,
+            "text": "Sahu hai sidhī'āṁ katārāṁ vica khaṛhē phariśati'āṁ dī"
+        },
+        {
+            "chapter": 37,
+            "verse": 2,
+            "text": "Phira jhāṛa jhaśa karana vāli'āṁ dī jhiṛaka dī"
+        },
+        {
+            "chapter": 37,
+            "verse": 3,
+            "text": "Phira unhāṁ dī jihaṛē upadēśa suṇā'uṇa vālē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 4,
+            "text": "Ki tuhāḍā pūjaṇayōga ika hī hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 5,
+            "text": "Ākāśāṁ atē dharatī dā pālaṇahāra atē jihaṛā kujha inhāṁ dē vica hai atē sārī'āṁ diśāvāṁ atē pūraba (jithōṁ sūraja nikaladā hai? Dā raba)"
+        },
+        {
+            "chapter": 37,
+            "verse": 6,
+            "text": "Asīṁ sasāra tē ākāśa nū tāri'āṁ nāla sajā'i'ā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 7,
+            "text": "Atē harēka vidarōhī saitāna tōṁ usa nū surakhi'ata kītā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 8,
+            "text": "Uha sarava uca darabāra vala kana nahīṁ lagā sakadē atē uha harēka diśā vica mārē jāndē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 9,
+            "text": "Bhajā'uṇa la'ī atē unhāṁ la'ī ika ata dī sazā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 10,
+            "text": "Pratū jē kō'ī śaitāna kisē gala nū zuka lavē tāṁ ika dahikadā hō'i'ā agārā usa dā pichā karadā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 11,
+            "text": "Isa la'ī inhāṁ tōṁ puchō ki inhāṁ dī racanā zi'ādā kaṭhana hai jāṁ jinhāṁ cīzāṁ dī sirajaṇā asīṁ kītī hai. Asīṁ unhāṁ nū cīkaṇī miṭī tōṁ raci'ā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 12,
+            "text": "Sagōṁ tusīṁ hairānī pragaṭa karadē hō atē uḍā mazāka kara rahē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 13,
+            "text": "Atē jadōṁ unhāṁ nū samajhā'i'ā jāndā hai tāṁ uha samajhadē nahīṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 14,
+            "text": "Atē jadōṁ uha kō'ī niśānī dēkhadē hana tāṁ uha usa nū mazāka vica ṭāla didē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 15,
+            "text": "Atē kahidē hana ki iha tāṁ sirafa ika khul'hā jādū hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 16,
+            "text": "Kī jadōṁ asīṁ mara jāvāṅgē atē miṭī atē haḍī'āṁ baṇa jāvāṅgē tāṁ phira asīṁ' cukē jāvāṅgē"
+        },
+        {
+            "chapter": 37,
+            "verse": 17,
+            "text": "Atē kī sāḍē pichalē pi'u dādē vī"
+        },
+        {
+            "chapter": 37,
+            "verse": 18,
+            "text": "Ākhō ki hāṁ, atē tusī' bē'izata vī hōvōgē"
+        },
+        {
+            "chapter": 37,
+            "verse": 19,
+            "text": "Tāṁ, iha tāṁ ika jhiṛaka hōvēgī, phira usa samēṁ hī uha dēkhaṇa lagaṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 20,
+            "text": "Atē uha kahiṇagē ki hā'ē! Sāḍī māṛī kisamata. Iha tāṁ badalē dā dina hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 21,
+            "text": "Iha uhī niraṇē dā dina hai jisa tōṁ tusīṁ inakāra karadē sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 22,
+            "text": "Unhāṁ nū, unhāṁ dē sāthī'āṁ atē unhāṁ dē pūjaṇayōgāṁ nū ikaṭhē karō, jinhāṁ nē iha zulama kītā"
+        },
+        {
+            "chapter": 37,
+            "verse": 23,
+            "text": "Jinhāṁ dī uha alāha tōṁ binhāṁ ibādata karadē sana. Phira unhāṁ sāri'āṁ nū naraka dā rāha dikhā'u"
+        },
+        {
+            "chapter": 37,
+            "verse": 24,
+            "text": "Atē unhāṁ na rōkō, unhāṁ tōṁ kujha puchaṇā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 25,
+            "text": "Tuhānū kī hō'i'ā ki tusīṁ ika dūsarē dī madada nahīṁ karadē"
+        },
+        {
+            "chapter": 37,
+            "verse": 26,
+            "text": "Sagōṁ aja tāṁ uha āgi'ākārī hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 27,
+            "text": "Atē uha ika dūjē nū sabōdhana karakē praśana utara karanagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 28,
+            "text": "Kahiṇagē tusīṁ sāḍē kōla sajē pāsi'uṁ ā'undē sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 29,
+            "text": "Uha utara dēṇagē sagōṁ tusīṁ khuda īmāna li'ā'uṇa vālē nahī' sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 30,
+            "text": "Atē sāḍā tuhāḍē upara kō'ī vasa nahīṁ sī, sagōṁ tusīṁ hī vidarōhī lōka sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 31,
+            "text": "Isa la'ī sāḍē sāri'āṁ utē raba dī gala pūrī hō kē rahī. Asīṁ isa dā mazā cakhaṇā hī hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 32,
+            "text": "Asīṁ' tuhānū bhaṭakā'i'ā, asīṁ ḵẖuda vī bhaṭakē hō'ē sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 33,
+            "text": "Sō uha sārē usa dina sazā vica ika dūsarē dē sahibhāgī hōṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 34,
+            "text": "Asīṁ aparādhī'āṁ dē nāla ajihā hī karadē hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 35,
+            "text": "Iha uha lōka sī jadōṁ inhāṁ nū kihā jāndā ki alāha tōṁ`binhāṁ kō'ī pūjaṇayōga nahīṁ tāṁ iha hakāra karadē sana"
+        },
+        {
+            "chapter": 37,
+            "verse": 36,
+            "text": "Atē iha kahidē sana ki kī asīṁ ika pāgala kavī dē kahiṇa tē āpaṇē pujaṇayōgāṁ nū chaḍa dē'ī'ē"
+        },
+        {
+            "chapter": 37,
+            "verse": 37,
+            "text": "Sagōṁ uha saca lai kē ā'i'ā hai atē iha rasūlāṁ dī bhavikha bāṇī dī puśaṭī hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 38,
+            "text": "Bēśaka tuhānū daradanāka sazā dā mazā cakhaṇā hōvēgā"
+        },
+        {
+            "chapter": 37,
+            "verse": 39,
+            "text": "Tuhānū usē dā badalā ditā jā rihā hai, jō tusīṁ karadē sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 40,
+            "text": "Paratū jihaṛē alāha dē cuṇē hō'ē badē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 41,
+            "text": "Unhāṁ la'ī tai'a kītā rizaka hōvēgā"
+        },
+        {
+            "chapter": 37,
+            "verse": 42,
+            "text": "Mēvē atē uha bahuta izata nāla rahiṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 43,
+            "text": "Sukhama'ī bāġāṁ vica"
+        },
+        {
+            "chapter": 37,
+            "verse": 44,
+            "text": "Taḵẖati'āṁ utē āhamaṇē sāhamaṇē baiṭhē hōṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 45,
+            "text": "Unhāṁ dē kōla ajihā pi'ālā li'āndā jāvēgā jihaṛā vagadī hō'ī śarāba nāla bhari'ā jāvēgā"
+        },
+        {
+            "chapter": 37,
+            "verse": 46,
+            "text": "Śudha pāradaraśī pīṇa vāli'āṁ la'ī savāda dā'ika"
+        },
+        {
+            "chapter": 37,
+            "verse": 47,
+            "text": "Nā usa nāla kō'ī hānī hōvēgī atē nā hī budhī bhriśaṭa hōvēgī"
+        },
+        {
+            "chapter": 37,
+            "verse": 48,
+            "text": "Atē unhāṁ dē kōla nazara nīvīṁ rakhaṇa vālī'āṁ atē vaḍī'āṁ akhāṁ vālī'āṁ auratāṁ hōṇagī'āṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 49,
+            "text": "Akhāṁ i'uṁ' hōṇagī'āṁ samajhō, uha āṇḍē hana jihaṛē lukō kē rakhē hōṇa"
+        },
+        {
+            "chapter": 37,
+            "verse": 50,
+            "text": "Phira uha ika dūsarē vala sabōdhana hō kē gala karanagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 51,
+            "text": "Unhāṁ vicōṁ ika kahiṇa vālā kahēgā ki mērā ika jāṇū sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 52,
+            "text": "Uha kihā karadā sī ki kī tusīṁ puśaṭī karana vāli'āṁ vicōṁ`hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 53,
+            "text": "Kī jadōṁ asīṁ mara jāvāṅgē, miṭī atē haḍī'āṁ hō jāvāṅgē tāṁ kī sānū (kītē hō'ē dā) fala milēgā"
+        },
+        {
+            "chapter": 37,
+            "verse": 54,
+            "text": "Ākhēgā kī tusī jhāka kē dēkhōgē"
+        },
+        {
+            "chapter": 37,
+            "verse": 55,
+            "text": "Tāṁ uha jhākēgā atē usa nū naraka dē vicakāra dēkhēgā"
+        },
+        {
+            "chapter": 37,
+            "verse": 56,
+            "text": "Ākhēgā ki alāha dī sahu tusīṁ tāṁ mainū ḵẖatama kara dēṇa vālē sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 57,
+            "text": "Atē jēkara mērē raba dī kirapā nā hudī tāṁ mai unhāṁ lōkāṁ vica śāmala hudā jihaṛē phaṛha kē li'āndē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 58,
+            "text": "Kī huṇa asīṁ maranā nahīṁ hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 59,
+            "text": "Paratū pahilī vāra jihaṛā asīṁ mara cukē atē sānū sazā nahīṁ hōvēgī"
+        },
+        {
+            "chapter": 37,
+            "verse": 60,
+            "text": "Bēśaka iha hī vaḍī safalatā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 61,
+            "text": "Ajihī hī safalatā la'ī karama karana vāli'āṁ nū karama karanē cāhīdē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 62,
+            "text": "Iha mahimāna nivāzī cagī hai jāṁ zakūma (thōhara) dā rukha"
+        },
+        {
+            "chapter": 37,
+            "verse": 63,
+            "text": "Asīṁ usa nū zālimāṁ la'ī imatihāna baṇā'i'ā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 64,
+            "text": "Iha ika rukha hai, jihaṛā naraka dī'āṁ jaṛhāṁ vicōṁ nikaladā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 65,
+            "text": "Usa dā badalā isa tar'hāṁ dā hai jivēṁ śaitāna dā sira"
+        },
+        {
+            "chapter": 37,
+            "verse": 66,
+            "text": "Tāṁ uha lōka usa nū khāṇagē. Phira usa dē nāla pēṭa bharaṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 67,
+            "text": "Phira unhāṁ nū khaul'hadā hō'i'ā pāṇī milā kē ditā jāvēgā"
+        },
+        {
+            "chapter": 37,
+            "verse": 68,
+            "text": "Phira unhāṁ dī vāpasī naraka vala hī hōvēgī"
+        },
+        {
+            "chapter": 37,
+            "verse": 69,
+            "text": "Unhāṁ nē āpaṇē pi'u dādi'āṁ nū kurāhē pi'ā hī vēkhi'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 70,
+            "text": "Phira uha vī unhāṁ dē nakaśē kadamāṁ tē caladē rahē"
+        },
+        {
+            "chapter": 37,
+            "verse": 71,
+            "text": "Atē uhanāṁ tōṁ pichalē atē agalē lōkāṁ vicōṁ zi'ādātara kurāhē pa'ē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 72,
+            "text": "Atē asīṁ unhāṁ vica vī ḍarā'uṇa vālē (sāvadhāna karana vālē) bhējē"
+        },
+        {
+            "chapter": 37,
+            "verse": 73,
+            "text": "Tāṁ vēkhō unhāṁ lōkāṁ dā ata kihōṁ jihā hō'i'ā, jinhāṁ nū sāvadhāna kītā gi'ā sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 74,
+            "text": "Paratū (unhāṁ dā bahuta vadhī'ā ata hō'i'ā) jihaṛē alāha dē cuṇē hō'ē badē sana"
+        },
+        {
+            "chapter": 37,
+            "verse": 75,
+            "text": "Atē phira sānū nūha nē pūkāri'ā tāṁ asīṁ kinī cagī pukāra suṇana vālē hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 76,
+            "text": "Atē asīṁ usa nū atē usa dē lōkāṁ nū bahuta vaḍē dukha tōṁ bacā li'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 77,
+            "text": "Atē asīṁ unhāṁ dē vasa nū bākī rahiṇa vālā baṇā'i'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 78,
+            "text": "Atē asīṁ unhāṁ dē rāha utē pichali'āṁ vicōṁ ika samūha (unhāṁ dī upamā la'ī) nū jauṛi'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 79,
+            "text": "Salāma hai nūha nū samucē jagata vica"
+        },
+        {
+            "chapter": 37,
+            "verse": 80,
+            "text": "Asīṁ nēkī karana vāli'āṁ nū ajihā hī badalā didē hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 81,
+            "text": "Bēśaka uha sāḍē śaradhālū badi'āṁ vicōṁ sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 82,
+            "text": "Phira asīṁ dūji'āṁ nū ḍōba ditā"
+        },
+        {
+            "chapter": 37,
+            "verse": 83,
+            "text": "Atē usa dē rāha tē calaṇa vāli'āṁ vica ibarāhīma vī sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 84,
+            "text": "Jadōṁ ki uha āpaṇē raba dē kōla śudha hiradē nāla ā'i'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 85,
+            "text": "Jadōṁ usa nē āpaṇē pitā nū atē āpaṇī kauma nū kihā ki tusī' kisa cīza dī ibādata karadē hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 86,
+            "text": "Kī tusīṁ alāha tōṁ`binhāṁ āpaṇē managhaṛē pūjaṇayōgāṁ nū cāhudē hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 87,
+            "text": "Tāṁ sasāra dē mālaka dē sabadha vica tuhāḍā kī vicāra hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 88,
+            "text": "Phira ibarāhīma nē tāri'āṁ tē ika nazara pā'ī"
+        },
+        {
+            "chapter": 37,
+            "verse": 89,
+            "text": "Tāṁ kihā ki maiṁ' bimāra hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 90,
+            "text": "Phira uha lōka usa nū chaḍa kē calē ga'ē"
+        },
+        {
+            "chapter": 37,
+            "verse": 91,
+            "text": "Tāṁ uha unhāṁ dī'āṁ mūratī'āṁ vica vaṛa gi'ā atē kahiṇa lagā, kī tusīṁ khāndē nahīṁ hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 92,
+            "text": "Tuhānū kī hō'i'ā tusīṁ bōladē vī nahīṁ hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 93,
+            "text": "Phira unhāṁ nū pūrī tākata nāla tōṛanā śurū kara ditā"
+        },
+        {
+            "chapter": 37,
+            "verse": 94,
+            "text": "Phira lōka usa dē kōla bhajē ā'ē"
+        },
+        {
+            "chapter": 37,
+            "verse": 95,
+            "text": "Ibarāhīma nē ākhi'ā ki tusīṁ inhāṁ cīzāṁ dī pūjā karadē hōṁ jinhāṁ nū tusīṁ khuda hī ghaṛadē hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 96,
+            "text": "Atē alāha nē hī tuhānū atē inhāṁ cīzāṁ nū paidā kītā hai jinhāṁ nū tusīṁ baṇā'undē hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 97,
+            "text": "Unhāṁ nē ākhi'ā isa la'ī ika ghara (aganīkūḍa) baṇā'u. Phira isa nū dahikadī hō'ī aga vica suṭa dēvō"
+        },
+        {
+            "chapter": 37,
+            "verse": 98,
+            "text": "Sō unhāṁ nē usa dē virudha ika cāla calaṇī cāhī tāṁ asīṁ' unhāṁ nū nīvāṁ kara ditā"
+        },
+        {
+            "chapter": 37,
+            "verse": 99,
+            "text": "Atē usa nē ākhi'ā ki maiṁ āpaṇē raba vala jā rihā hāṁ uhī mainū rāha dikhā'ēgā"
+        },
+        {
+            "chapter": 37,
+            "verse": 100,
+            "text": "Hē mērē raba! Mainū nēka aulāda baḵẖaśa"
+        },
+        {
+            "chapter": 37,
+            "verse": 101,
+            "text": "Tāṁ asīṁ usa nū ika sahiṇaśīla laṛakē dī khuśakhabarī ditī"
+        },
+        {
+            "chapter": 37,
+            "verse": 102,
+            "text": "Isa la'ī jadōṁ uha usa dē barābara calaṇa dī umara nū pahuci'ā tāṁ usa nē ākhi'ā hē mērē putara! Mai' supanā dēkhadā hāṁ ki maiṁ tainū jil'hā (kurabāna) kara rihā hāṁ. Isa la'ī tusī' sōca lavō tuhāḍā kī vicāra hai. Usa nē ākhi'ā hē mērē pitā! Āpa nū jihaṛā hukama ditā jā rihā hai āpa usa dī pālaṇā karō. Jēkara alāha cāhēgā (inaśā alāha) tāṁ tusīṁ mainū sabara karana vāli'āṁ vica vēkhaugē"
+        },
+        {
+            "chapter": 37,
+            "verse": 103,
+            "text": "Sō jadōṁ dōvēṁ āgi'ākara hō ga'ē atē ibarāhīma nē usa nū mathē dē bhāra liṭā ditā"
+        },
+        {
+            "chapter": 37,
+            "verse": 104,
+            "text": "Atē asīṁ usa nū pukāri'ā, hē ibarāhīma"
+        },
+        {
+            "chapter": 37,
+            "verse": 105,
+            "text": "tū supanē nū saca kara vikhā'i'ā hai. Bēśaka asīṁ nēkī karana vāli'āṁ nū ajihā hī badalā didē hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 106,
+            "text": "Yakīnana iha ika sapaśaṭa imatihāna sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 107,
+            "text": "Atē asīṁ ika vaḍī kurabānī dē badalē usa nū chuḍā li'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 108,
+            "text": "Atē asīṁ usa la'ī pichalī'āṁ (ā'uṇa vālī'āṁ nasalāṁ) vica (iśarāhīma dī upamā la'ī) ika varaga nū chaḍa ditā"
+        },
+        {
+            "chapter": 37,
+            "verse": 109,
+            "text": "Ibarāhīma upara salāmatī hōvē"
+        },
+        {
+            "chapter": 37,
+            "verse": 110,
+            "text": "Asīṁ nēkī karana vāli'āṁ nū isē tar'hāṁ hī fala didē hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 111,
+            "text": "Bēśaka uha sāḍē badi'āṁ vicōṁ sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 112,
+            "text": "Atē asīṁ usa nū isahāka dī khuśaḵẖabarī ditī. Iha ika nēka rasūlāṁ vicō' hōṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 113,
+            "text": "Atē asīṁ usa nū atē isahāka nū barakata nāla nivāzi'ā atē unhāṁ dōvāṁ dē vaśa vica cagē vī hana atē ajihē vī jihaṛē āpaṇē āpa upara pratakha zulama karana vālē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 114,
+            "text": "Atē asīṁ mūsā atē hārūna utē upakāra kītā"
+        },
+        {
+            "chapter": 37,
+            "verse": 115,
+            "text": "Atē unhāṁ nū tē unhāṁ dī kauma nū ika vaḍīṁ āfata tōṁ' mukata kara ditā"
+        },
+        {
+            "chapter": 37,
+            "verse": 116,
+            "text": "Atē asīṁ unhāṁ dī sahā'itā kītī tāṁ uha hī jētū baṇē"
+        },
+        {
+            "chapter": 37,
+            "verse": 117,
+            "text": "Atē asīṁ unhāṁ dōvāṁ nū ika sapaśaṭa kitāba ditī"
+        },
+        {
+            "chapter": 37,
+            "verse": 118,
+            "text": "Atē asīṁ unhāṁ dōvāṁ nū sidhā rāha dikhā'i'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 119,
+            "text": "Atē asīṁ unhāṁ dē rāha tē pichalē ā'uṇa vālē samūhāṁ vica (unhāṁ dī vaḍi'ā'ī) chaḍa ditī"
+        },
+        {
+            "chapter": 37,
+            "verse": 120,
+            "text": "Salāma hōvē mūsā atē hārūna nū"
+        },
+        {
+            "chapter": 37,
+            "verse": 121,
+            "text": "Asīṁ nēkī karana vāli'āṁ nū ajihā hī badalā didē hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 122,
+            "text": "Bēśaka uha dōvēṁ sāḍē imāna vālē badi'āṁ vicōṁ sana"
+        },
+        {
+            "chapter": 37,
+            "verse": 123,
+            "text": "Atē ilayāsa vī paiġabarāṁ vicōṁ sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 124,
+            "text": "Jadōṁ ki usa nē āpaṇī kauma nū ākhi'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 125,
+            "text": "Kī tusīṁ ḍaradē nahīṁ?Kī tusīṁ bā'ala (dēvatē) na pūkāradē hō atē sabha tōṁ sōhaṇē sirajaṇahāra nū chaḍadē hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 126,
+            "text": "Alāha nū jihaṛā tuhāḍā atē tuhāḍē pichalē vaḍēri'āṁ (pi'u-dādi'āṁ) dā raba hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 127,
+            "text": "Tāṁ unhāṁ nē usa tōṁ inakāra kītā, isa la'ī uha phaṛhē jāṇa vāli'āṁ vica śāmila hōṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 128,
+            "text": "Paratū jihaṛē alāha dē viśēśa badē sana (uha sazā vica nahīṁ phasē hōṇagē)"
+        },
+        {
+            "chapter": 37,
+            "verse": 129,
+            "text": "Atē asīṁ unhāṁ dē rāha tē pichalē hōṁ cukē samūhāṁ vica (unhāṁ dī vaḍi'ā'ī) chaḍa ditī"
+        },
+        {
+            "chapter": 37,
+            "verse": 130,
+            "text": "Salāmatī hōvē ilayāsa tē"
+        },
+        {
+            "chapter": 37,
+            "verse": 131,
+            "text": "Asī' nēkī karana vāli'āṁ nū ajihā hī badalā didē hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 132,
+            "text": "Bēśaka uha sāḍē imāna vālē badi'āṁ vicōṁ sana"
+        },
+        {
+            "chapter": 37,
+            "verse": 133,
+            "text": "Atē bēśaka lūta vī paigabarāṁ vicōṁ sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 134,
+            "text": "Jadōṁ asīṁ usa nū atē usa dē lōkāṁ nū barā li'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 135,
+            "text": "Para ika buḍhī jihaṛī pichē rahi jāṇa vāli'āṁ vicōṁ sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 136,
+            "text": "Phira asīṁ dūji'āṁ nū barabāda kara ditā"
+        },
+        {
+            "chapter": 37,
+            "verse": 137,
+            "text": "Atē tusīṁ savēra nū vī unhāṁ dī'āṁ basatī'āṁ vicōṁ laghadē rahidē hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 138,
+            "text": "Atē rāta nū vī. Kī tusīṁ budhī tōṁ kama nahīṁ laindē"
+        },
+        {
+            "chapter": 37,
+            "verse": 139,
+            "text": "Atē bēśaka yūnasa vī rasūlāṁ vicōṁ sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 140,
+            "text": "Jadōṁ uha bhaja kē bharī hō'ī kiśatī vica pahuci'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 141,
+            "text": "Phira kura'ā (paracī pā'uṇā) pā'i'ā tāṁ uha dōśī nikali'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 142,
+            "text": "Phira usa nū machalī nē nigala li'ā atē uha khuda nū būrā bhalā kahi rihā sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 143,
+            "text": "Jēkara uha sifata salāha karana vāli'āṁ vicōṁ nā hudā"
+        },
+        {
+            "chapter": 37,
+            "verse": 144,
+            "text": "Tāṁ usa dina jadōṁ' lōkāṁ nū muṛa jīvita kītā jāṇā hai, udōṁ taka uha machī dē pēṭa vica hī rahidā"
+        },
+        {
+            "chapter": 37,
+            "verse": 145,
+            "text": "Phira asīṁ usa nū ika maidāna vica pā ditā atē uha niḍāla sī"
+        },
+        {
+            "chapter": 37,
+            "verse": 146,
+            "text": "Atē asīṁ usa utē ika vēlāṁ vālā darakhata ugā ditā"
+        },
+        {
+            "chapter": 37,
+            "verse": 147,
+            "text": "Atē asīṁ usa nū ika lakha jāṁ usa tōṁ vī zi'ādā lōkāṁ vala bhēji'ā"
+        },
+        {
+            "chapter": 37,
+            "verse": 148,
+            "text": "Phira uha lōka īmāna li'ā'ē tāṁ asīṁ unhāṁ nū niśacita samēṁ taka lābha uṭhā'uṇa ditā"
+        },
+        {
+            "chapter": 37,
+            "verse": 149,
+            "text": "Tāṁ unhāṁ nū puchōṁ kī tuhāḍē raba la'ī bēṭī'āṁ hana atē unhāṁ la'ī putara"
+        },
+        {
+            "chapter": 37,
+            "verse": 150,
+            "text": "Kī asīṁ fariśati'āṁ nū aurata baṇā'i'ā hai atē uha dēkha rahē sana"
+        },
+        {
+            "chapter": 37,
+            "verse": 151,
+            "text": "Suṇa lavō iha lōka sirafa managhaṛata rūpa vica ajihā kahidē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 152,
+            "text": "Ki alāha aulāda rakhadā hai yakīnana hī' iha jhūṭhē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 153,
+            "text": "Kī alāha nē bēṭi'āṁ dī tulanā vica bēṭī'āṁ pasada kītī'āṁ hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 154,
+            "text": "Tuhānū kī hō gi'ā hai`tusīṁ kihō jihā faisalā karadē hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 155,
+            "text": "Phira kī tusīṁ budhī tōṁ kama nahīṁ laindē"
+        },
+        {
+            "chapter": 37,
+            "verse": 156,
+            "text": "Kī tuhāḍē pāsa kō'ī sapaśaṭa dalīla hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 157,
+            "text": "Jēkara tusīṁ sacē hō tāṁ āpaṇī kitāba li'ā'u"
+        },
+        {
+            "chapter": 37,
+            "verse": 158,
+            "text": "Atē unhāṁ nē alāha atē jināṁ vica vī riśatēdārī jōṛa rakhī hai. Atē jināṁ nū patā hai ki yakīnana uha phaṛē hō'ē ā'uṇṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 159,
+            "text": "Alāha unhāṁ galāṁ tōṁ pavitara hai jihaṛī'āṁ iha bi'āna karadē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 160,
+            "text": "Paratū uha jihaṛē alāha dē cuṇē hō'ē badē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 161,
+            "text": "Sō tusīṁ atē jinhāṁ dī tusīṁ pūjā karadē hō"
+        },
+        {
+            "chapter": 37,
+            "verse": 162,
+            "text": "Alāha tōṁ kisē nū mōṛa nahīṁ sakadē"
+        },
+        {
+            "chapter": 37,
+            "verse": 163,
+            "text": "Para usa nū jihaṛā naraka vica jāṇa vālā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 164,
+            "text": "Atē sāḍē vicōṁ harēka dā ika mithi'ā hō'i'ā sathāna hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 165,
+            "text": "Atē asīṁ alāha dē sāhamaṇē pagatāṁ vica khaṛhē rahiṇa vālē hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 166,
+            "text": "Atē asīṁ usa dī sifata salāha karana vālē hāṁ"
+        },
+        {
+            "chapter": 37,
+            "verse": 167,
+            "text": "Atē iha lōka kihā karadē sana"
+        },
+        {
+            "chapter": 37,
+            "verse": 168,
+            "text": "Ki jē sāḍē kōla pahilāṁ vālē lōkāṁ dī kō'ī sikhi'ā hudī"
+        },
+        {
+            "chapter": 37,
+            "verse": 169,
+            "text": "Tāṁ asīṁ vī alāha dē viśēśa badē hudē"
+        },
+        {
+            "chapter": 37,
+            "verse": 170,
+            "text": "Phira unhāṁ nē usa nū jhuṭhalā ditā tāṁ jaladī hī uha samajha laiṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 171,
+            "text": "Atē āpaṇē bhējē hō'ē badi'āṁ la'ī sāḍā iha niraṇā pahilāṁ hī hō cuki'ā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 172,
+            "text": "Ki bēśaka uha hī prabhāvaśālī hōṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 173,
+            "text": "Atē sāḍī'āṁ phaujāṁ hī jitaṇa vālī'āṁ hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 174,
+            "text": "Tāṁ kujha samēṁ taka unhāṁ tōṁ mūha mōṛō"
+        },
+        {
+            "chapter": 37,
+            "verse": 175,
+            "text": "Atē dēkhadē rahō jaladī hī uha vī dēkha laiṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 176,
+            "text": "Kī uha sāḍī sazā la'ī jaladī kara rahē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 177,
+            "text": "Phira jadōṁ uha unhāṁ dē maidāna vica ā jāvēgā tāṁ unhāṁ lōkāṁ dī savēra baṛī māṛī hōvēgī' jinhāṁ nū usa tōṁ ḍarā'i'ā jā cuki'ā hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 178,
+            "text": "Tāṁ kūjha samēṁ la'ī unhāṁ tōṁ mūha mōṛī rakhō"
+        },
+        {
+            "chapter": 37,
+            "verse": 179,
+            "text": "Atē dēkhadē rahō jaladī hī' uha khuda vī dēkha laiṇagē"
+        },
+        {
+            "chapter": 37,
+            "verse": 180,
+            "text": "Tērā raba satikārayōga hai atē unhāṁ galāṁ tōṁ pavitara hai jihaṛē iha lōka bi'āna karadē hana"
+        },
+        {
+            "chapter": 37,
+            "verse": 181,
+            "text": "Atē paiġabarāṁ nū salāma hai"
+        },
+        {
+            "chapter": 37,
+            "verse": 182,
+            "text": "Atē sārī prasasā alāha la'ī hai jihaṛā sapūrana sasāra dā pālaṇahāra hai"
+        }
+    ]
+}

@@ -1559,6 +1559,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhamidul.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-muhammadhamidul.min.json"
     },
+    "fra_shahnazsaidiben_la": {
+        "name": "fra-shahnazsaidiben-la",
+        "author": "Shahnaz Saidi Benbetka",
+        "language": "French",
+        "direction": "ltr",
+        "source": "Goodwordbooks , http://www.goodwordbooks.com/ , https://www.cpsglobal.org/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-shahnazsaidiben-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-shahnazsaidiben-la.min.json"
+    },
+    "fra_shahnazsaidiben": {
+        "name": "fra-shahnazsaidiben",
+        "author": "Shahnaz Saidi Benbetka",
+        "language": "French",
+        "direction": "ltr",
+        "source": "Goodwordbooks , http://www.goodwordbooks.com/ , https://www.cpsglobal.org/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-shahnazsaidiben.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/fra-shahnazsaidiben.min.json"
+    },
     "guj_rabilaalomari_la": {
         "name": "guj-rabilaalomari-la",
         "author": "Rabila Al Omari",
@@ -2469,13 +2489,23 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/orm-ghaliapapurapag.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/orm-ghaliapapurapag.min.json"
     },
+    "pan_drmuhamadhabibb_la": {
+        "name": "pan-drmuhamadhabibb-la",
+        "author": "Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan",
+        "language": "Panjabi",
+        "direction": "ltr",
+        "source": "Goodword Books, http://goodwordbooks.com/ , http://cpsglobal.org/",
+        "comments": "This translation was OCRed, incase you find mistakes, please let me know at https://bit.ly/33FuNZS",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb-la.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb-la.min.json"
+    },
     "pan_drmuhamadhabibb_lad": {
         "name": "pan-drmuhamadhabibb-lad",
         "author": "Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan",
         "language": "Panjabi",
         "direction": "ltr",
         "source": "Goodword Books, http://goodwordbooks.com/ , http://cpsglobal.org/",
-        "comments": "This translation was OCRed, incase you find mistakes, please let me know at fawazahmed0@hotmail.com",
+        "comments": "This translation was OCRed, incase you find mistakes, please let me know at https://bit.ly/33FuNZS",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb-lad.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb-lad.min.json"
     },
@@ -2485,7 +2515,7 @@
         "language": "Panjabi",
         "direction": "ltr",
         "source": "Goodword Books, http://goodwordbooks.com/ , http://cpsglobal.org/",
-        "comments": "This translation was OCRed, incase you find mistakes, please let me know at fawazahmed0@hotmail.com",
+        "comments": "This translation was OCRed, incase you find mistakes, please let me know at https://bit.ly/33FuNZS",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb.min.json"
     },

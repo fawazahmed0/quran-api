@@ -6240,7 +6240,7 @@
     "language": "Panjabi",
     "direction": "ltr",
     "source": "Goodword Books, http://goodwordbooks.com/ , http://cpsglobal.org/",
-    "comments": "This translation was OCRed, incase you find mistakes, please let me know at fawazahmed0@hotmail.com",
+    "comments": "This translation was OCRed, incase you find mistakes, please let me know at https://bit.ly/33FuNZS",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/pan-drmuhamadhabibb.min.json"
 }
