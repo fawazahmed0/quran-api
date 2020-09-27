@@ -5,16 +5,16 @@ Preprocessing the files is something that can't be explained,as every file has t
 I will share here few things that might help you in the process.
 
 - [Poppler](https://poppler.freedesktop.org/):<br>
-Poppler provides few binaries that helps in many pdf related tasks such as converting [text based pdf to text](https://manpages.debian.org/stretch/poppler-utils/pdftotext.1.en.html) file or converting [image based pdf to tiff](https://manpages.debian.org/testing/poppler-utils/pdftocairo.1.en.html) files or getting [pdf metadata](https://manpages.debian.org/testing/poppler-utils/pdftocairo.1.en.html), extracting the [text using pdf coordinates](https://manpages.debian.org/stretch/poppler-utils/pdftotext.1.en.html) and many more things
+Poppler provides few binaries that helps in many pdf related tasks such as converting [text based pdf to text](https://manpages.debian.org/stretch/poppler-utils/pdftotext.1.en.html) file or converting [image based pdf to tiff](https://manpages.debian.org/testing/poppler-utils/pdftocairo.1.en.html) files or getting [pdf metadata](https://manpages.debian.org/testing/poppler-utils/pdftocairo.1.en.html), extracting the [text using pdf coordinates](https://manpages.debian.org/stretch/poppler-utils/pdftotext.1.en.html) and many more things.<br>
 Windows users can install by performing [these steps](https://stackoverflow.com/a/63974921/2437224)
 
 - [qpdf](https://github.com/qpdf/qpdf):<br>
-Some pdf's are secured or encrypted, to remove restrictions, it can be decrypted by:
+Some pdf's are secured or encrypted, to remove restrictions, it can be decrypted by:<br>
 `qdf --decrypt secured.pdf unsecured.pdf`
 
 - [OpenCV](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html):<br>
 Incase you want to process tiff images, then you will have to preprocessing the images(cropping etc) before feeding to an [OCR software](https://github.com/tesseract-ocr/tesseract).
-It can be installed for python using:
+It can be installed for python using:<br>
 `pip3 install opencv-python`
 
 - [Tesseract](https://github.com/tesseract-ocr/tesseract):<br>
