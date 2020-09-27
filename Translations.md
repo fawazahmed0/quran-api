@@ -93,8 +93,8 @@
 - Yoruba
 - Zulu
 
-OCRED:
-The following translations were converted from images to text using an OCR Software and they may contain spelling mistakes
+### OCRED:
+The following translations were converted from images to text using an [OCR Software](https://github.com/tesseract-ocr/tesseract) and they may contain spelling mistakes. Please report the mistakes at [here](https://github.com/fawazahmed0/quran-api/issues/new)
 - Achinese
 - Afar
 - Hungarian
