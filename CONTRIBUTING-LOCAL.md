@@ -26,7 +26,7 @@ Set [CI](https://github.com/fawazahmed0/quran-api/blob/1/dev.md#ci) environment 
 
 ### Add new translations:
 1. The translation should either be in 6236 lines(ignoring empty lines) or if it has more lines then it should at least have verse number at the beginning of each verse, It doesn't matter whether the chapter number is there or not.
-The [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check whether your translation file will work fine or not. You may want to [preprocess](https://github.com/fawazahmed0/quran-api/blob/1/Preprocessing.md) the file if it is in other than text format(pdf, Images, docx, etc).
+The [database/originals](https://github.com/fawazahmed0/quran-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check whether your translation file will work fine or not. You may want to [preprocess](https://github.com/fawazahmed0/quran-api/blob/1/Preprocessing.md) the file, if it is in other than text format(pdf, Images, docx, etc).
 
     [Example 1](https://raw.githubusercontent.com/fawazahmed0/quran-api/1/database/originals/quranromanurdu "Example 1")
 
