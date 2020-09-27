@@ -93,3 +93,6 @@ I have to check for mistakes manually, sometimes it crops more or less that requ
 
 
 
+Docs files:
+If the files are in docs format, have to save as utf-8 encoded text file and then perform regex etc replace using notepad++, sometimes have to use atom to perform regex operations as notepad++ won't work fine sometimes for different langagues
+
