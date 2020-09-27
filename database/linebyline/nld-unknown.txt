@@ -1,4 +1,3 @@
-DatabaseID","SuraID","VerseID","AyahText
 In naam van Allah, de Barmhartige, de Genadevolle
 Alle lof zij Allah, de Heer der Werelden
 De Barmhartige, de Genadevolle
@@ -353,7 +352,8 @@ Dat is hetgeen Wij u van de tekenen en de wijze vermaning meedelen
 Voorzeker, het geval van Jezus is bij Allah hetzelfde als dat van Adam. Hij (Allah) schiep hem uit stof en zeide: 'Wees' en hij werd
 De waarheid is van uw Heer, behoort daarom niet tot degenen, die twijfelen
 Zou men nu met u over hem (Jezus) redetwisten, nadat de kennis tot u gekomen is, zeg dan: 'Kom, laat ons onze kinderen en uw kinderen en onze vrouwen en uw vrouwen en ons volk en uw volk roepen; laat ons daarna vurig bidden en de vloek van Allah roepen over degenen, die liegen
-Dit is voorzeker de ware uitleg, en er is geen God dan Allah en waarlijk, Hij is de Almachtige, de Alwijze. v 63. Doch indien zij zich afwenden, Allah kent de onheilstichters toch goed
+Dit is voorzeker de ware uitleg, en er is geen God dan Allah en waarlijk, Hij is de Almachtige, de Alwijze. v
+Doch indien zij zich afwenden, Allah kent de onheilstichters toch goed
 Zeg: 'O, mensen van het Boek, komt tot ��n woord, waarin wij met elkander overeenstemmen: dat wij niemand dan Allah aanbidden en dat wij niets met Hem vereenzelvigen en dat sommigen onzer geen anderen tot goden nemen, buiten Allah.' Maar, als zij zich afwenden, zegt dan: 'Getuigt, dat wij Moslims zijn
 O, mensen van het Boek, waarom redetwist gij over Abraham, wanneer de Torah en het Evangelie eerst na hem werden geopenbaard? Wilt gij dan niet begrijpen
 Ziet, gij twist over hetgeen, waarvan gij kennis hebt. Waarom twist gij dan (eveneens) over hetgeen, waarvan gij geen kennis hebt? Allah weet en gij weet niet
