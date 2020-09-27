@@ -26,7 +26,7 @@ You have to be good in using regular expressions, this will help in solving some
 
 I have written few notes for myself and they are pretty unstructured, incase you want to have a look, you can see them [here](https://github.com/fawazahmed0/quran-api/blob/1/scripts/files/ocr%20and%20pdf%20coord%20extract/notes.txt)
 
-You can always [ask me](https://github.com/fawazahmed0/quran-api/issues/new) ,incase you are stuck somewhere
+You can always [ask me](https://github.com/fawazahmed0/quran-api/issues/new) ,incase you are stuck somewhere.
 
 <br>
 <br>
