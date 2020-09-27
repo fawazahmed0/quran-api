@@ -1,5 +1,6 @@
 Also refer Preprocessing.md
 
+Note: All the scripts are in this same folder where this files exists
 
 REmoving encryption from pdf.
 qpdf --decrypt securet.pdf unsecureed.pdf
