@@ -39,6 +39,16 @@ Give language arguments accordingly, refeer tesseract repo for details
 https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc
 
 
+Tesseract:
+https://github.com/tesseract-ocr/tessdoc
+https://github.com/tesseract-ocr/tessdoc/blob/master/Command-Line-Usage.md
+https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc
+https://github.com/tesseract-ocr/tesseract
+Example for ocring tiff image
+tesseract krygz.tiff mytest1 --psm 6 -l kir (choose psm accordingly)
+for scripts:
+tesseract indonesian.tiff mytest1 --psm 6 -l script\Latin
+
 Imagecropbylines.py:
 Just have to assign the input directory containing images to be preprocess or cropped by using lines(PHoughlines) and assign the output direcotry
 Just have to write the logic which lines to crop etc
