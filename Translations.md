@@ -1,4 +1,4 @@
-### Translations Available:
+### Languages Available:
 
 - Achinese
 - Afar
