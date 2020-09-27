@@ -73,7 +73,7 @@ Similarly:
 Please use [Google Noto Fonts](https://www.google.com/get/noto/) for the language, to show it properly across all devices. By default OS doesn't have font installed for every language. So you will have to use fonts for few languages such as [Burmese](https://www.google.com/get/noto/#serif-mymr) etc, to show properly
 
 ### Languages Available:
-By the mercy of God, there are translations available for [92 different languages](https://github.com/fawazahmed0/quran-api/blob/1/Translations.md) and total around [440+ translations available](https://github.com/fawazahmed0/quran-api/blob/1/editions.json).
+By the mercy of God, there are [92 different language](https://github.com/fawazahmed0/quran-api/blob/1/Translations.md) translations available and a collection of  [440+ translations](https://github.com/fawazahmed0/quran-api/blob/1/editions.json).
 Few of the translations were [OCRed](https://github.com/fawazahmed0/quran-api/blob/1/Translations.md#ocred) and may contain mistakes. Please do [report the mistakes](https://github.com/fawazahmed0/quran-api/issues/new). <br>
 Refer [list of languages available](https://github.com/fawazahmed0/quran-api/blob/1/Translations.md)
 ### Contribution:
