@@ -1,6 +1,6 @@
 ### Preprocessing the Files:
 
-Preprocessing the files is something that can't be explained,as every file has to be preprocessed differently depending on its type and content. At the end of the day you just need a text file with verse number at the beginning of each verse, which can be added easily
+Preprocessing the files is something that can't be explained, as every file has to be preprocessed differently depending on its type and content. At the end of the day you just need a text file with verse number at the beginning of each verse, which can be added easily
 
 I will share here few things that might help you in the process.
 
