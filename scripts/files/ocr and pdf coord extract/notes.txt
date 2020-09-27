@@ -1,0 +1,95 @@
+Also refer Preprocessing.md
+
+
+REmoving encryption from pdf.
+qpdf --decrypt securet.pdf unsecureed.pdf
+
+
+converting text based pdf to pdf
+
+pdftotext input.pdf output.pdf
+
+
+covert with layout intact
+pdftotext -layout input.pdf otuptu.pdf
+
+
+extract text by coordinates with staritng and ending pages:
+
+pdftotext -layout -x <xcordinate> -y <ycordinate> -W <widthfromxy> -H<heightfromxy> -f <startingpage> -l <endingpage> inpuot output
+
+
+convert pdf to tiff files(use adobe reader pro, it has better output quality, use save as)
+
+pdftocairo -tiff inpuot output
+
+with compressiosn:
+pdftocairo -tiff -tiffcompression lzw inpuot output
+
+
+mousecoords.py script:
+THis script will print the mouse coordinates which can be used by opencv for cropping etc.
+If the image shown is big then you might have to increase the descaling factor , to the iwhole image  cna be seen in monitor
+
+
+readocr.js
+This reads the preprocessed images and coverts into text using tesseract
+Give language arguments accordingly, refeer tesseract repo for details 
+https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc
+
+
+Imagecropbylines.py:
+Just have to assign the input directory containing images to be preprocess or cropped by using lines(PHoughlines) and assign the output direcotry
+Just have to write the logic which lines to crop etc
+It containss few def/functions that makes the take easier
+
+Understanding Cropping image in opencv
+https://stackoverflow.com/a/16823104/2437224
+https://stackoverflow.com/a/58177717/2437224
+
+Imagecropbylines2.py
+2nd example of cropping images by houglines
+
+mergefiles.js
+takes files from one fodler and create  a consolidated singel one file
+
+
+croptest.py
+This might help you in visulizing the cropped image and the hough lines in the image which I might want to crop
+
+
+Textextractbylines.py:
+This script extracts the text from text based pdf using coordinates which were retrieved using opencv houghlines.
+Have to assign pdffilename from where text need to be extract, tiff images direcotry for opencv to read and the coordinates, pdfwidth and pdfheight ,this data we can get from 
+pdfinfo -box input.pdf (use mediabox values)
+
+
+
+In opencv x1 y1 x2 y2 is used during cropping and in pdfinfo, x1, y1 and width and heigth is used
+In other words opencv cropping uses x1 y1 x1+width y1+height and pdfinfo extraction uses x1 y1 width and height
+
+getLines.py:
+This can be used to get lines from image, this works from command line args and can be called from node, or any other programming langauge, I don't it use now, as I programmed completey in python as it was easy
+# Takes minLineLength, maxLineGap, and PathToImage
+# returns the lines in the given image
+
+cropper.py:
+This is similar script as above and works from cmd line args
+# Takes x1,y1,x2,y2, pathtoImage,pathtoSave as arguments and crops and saves the given image
+# pass None to x1 or y1 to start from 0 and pass null to x2 or y2 to crop till end
+
+
+PHoughlines:
+it returns x1 y1 x2 y2  i.e starting and ending point of the line, I can define the minLineLength i.e below this lenght lines won't be considered and maxlinegap i.e to consider the line on gaps in the line, these are important in case of poor quality scanned images where the lines have many gaps due to poor image quality
+https://docs.opencv.org/master/dd/d1a/group__imgproc__feature.html#ga8618180a5948286384e3b7ca02f6feeb
+
+
+Numpy:
+numpy makes takes easier, should use it if possible and makes takes easier or use normal loops if it's easier
+
+
+Mistakes
+I have to check for mistakes manually, sometimes it crops more or less that required and that needs to be fixed by manually cropping using photoshop etc
+
+
+

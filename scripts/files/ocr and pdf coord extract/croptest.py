@@ -1,21 +1,27 @@
 import cv2 as cv
 import numpy as np
 import os
+import sys
+import json
 #img = cv.imread("images.jpg")
 
 #crop_img = img[100:500, 200:300]
-
+#https://stackoverflow.com/questions/1987694/how-to-print-the-full-numpy-array-without-truncation
+np.set_printoptions(threshold=sys.maxsize)
 # pad the image by this value, so as not to crop at the edges of text
 padding = 10
 # direcotory containing tiff files
 dirname = '.'
 # Destination direcotory
 destdir = '.'
-filename = 'macedonian_Page_022.tiff'
+filename = 'mandarunsec_Page_151.tiff'
 img = cv.imread(cv.samples.findFile(os.path.join(dirname,filename)))
+
+
 gray = cv.cvtColor(img,cv.COLOR_BGR2GRAY)
 edges = cv.Canny(gray,50,150,apertureSize = 3)
 lines = cv.HoughLinesP(edges,1,np.pi/180,100,minLineLength=50,maxLineGap=1)
+#sys.stdout.write(json.dumps(lines.tolist()))
 try:
     simplelines = lines[:,0]
     print(lines)
@@ -41,11 +47,12 @@ for line in lines:
     x1,y1,x2,y2 = line[0]
     cv.line(img,(x1,y1),(x2,y2),(0,255,0),2)
 
-crop_img = img[240:, :1200]
+crop_img = img[180:-180, 180:-120]
 
 #print(simplelines[maxindex][0])
-cv.imwrite('houghlines5.png',crop_img)
+cv.imwrite('cropped.png',crop_img)
 
+cv.imwrite('houghLinesP.png',img)
 
 
 

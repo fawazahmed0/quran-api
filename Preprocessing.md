@@ -1,0 +1,27 @@
+### Preprocessing the Files:
+
+Preprocessing the files is something that can't be explained,as every file has to be preprocessed differently depending on its type and content. At the end of the day you just need a text file with verse number at the beginning of each verse, which can be added easily
+
+I will share here few things that might help you in the process.
+
+[Poppler](https://poppler.freedesktop.org/):
+Poppler provides few binaries that helps in many pdf related tasks such as converting [text based pdf to text](https://manpages.debian.org/stretch/poppler-utils/pdftotext.1.en.html) file or converting [image based pdf to tiff](https://manpages.debian.org/testing/poppler-utils/pdftocairo.1.en.html) files or getting [pdf metadata](https://manpages.debian.org/testing/poppler-utils/pdftocairo.1.en.html), extracting the [text using pdf coordinates](https://manpages.debian.org/stretch/poppler-utils/pdftotext.1.en.html) and many more things
+Windows users can install by performing [these steps](https://stackoverflow.com/a/63974921/2437224)
+
+[qpdf](https://github.com/qpdf/qpdf):
+Some pdf's are secured or encrypted, to remove restrictions, it can be decrypted by:
+`qdf --decrypt secured.pdf unsecured.pdf`
+
+[OpenCV](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html):
+Incase you want to process tiff images, then you will have to preprocessing the images(cropping etc) before feeding to an [OCR software](https://github.com/tesseract-ocr/tesseract).
+It can be installed for python using:
+`pip3 install opencv-python`
+
+[Tesseract](https://github.com/tesseract-ocr/tesseract):
+After you have got good quality tiff images, then those can be converted into text form using tesseract
+
+[Regular Expression](https://regexone.com/):
+You have to be good in using regular expressions, this will help in solving some of the toughest problems which cannot be solved programmatically.
+
+
+I have written few notes for myself and they are pretty unstructured, incase you want to have a look, you can see them [here]()
