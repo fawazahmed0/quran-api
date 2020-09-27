@@ -20,7 +20,7 @@ It can be installed for python using:<br>
 - [Tesseract](https://github.com/tesseract-ocr/tesseract):<br>
 After you have got good quality tiff images, then those can be converted into text form using tesseract
 
-- [Regular Expression](https://regexone.com/):<br>
+- [Regular Expressions](https://regexone.com/):<br>
 You have to be good in using regular expressions, this will help in solving some of the toughest problems which cannot be solved programmatically.
 
 
