@@ -68,6 +68,13 @@ pdfinfo -box input.pdf (use mediabox values)
 
 In opencv x1 y1 x2 y2 is used during cropping and in pdfinfo, x1, y1 and width and heigth is used
 In other words opencv cropping uses x1 y1 x1+width y1+height and pdfinfo extraction uses x1 y1 width and height
+The width and height which opencv uses is of differnetrt values :
+imgheight, imgwidth = img.shape[:2]
+and the width and height of pdf is of differnt valeus 
+pdfinfo -box input.pdf 
+So have to be carefull about it.
+
+All the scripts uses opencv based coordinates values, and Textextractbylines.py converts those values at end to pdf values using the pdfwidht and pdfheight value assigned before callling pdftotext
 
 getLines.py:
 This can be used to get lines from image, this works from command line args and can be called from node, or any other programming langauge, I don't it use now, as I programmed completey in python as it was easy
@@ -97,3 +104,14 @@ I have to check for mistakes manually, sometimes it crops more or less that requ
 Docs files:
 If the files are in docs format, have to save as utf-8 encoded text file and then perform regex etc replace using notepad++, sometimes have to use atom to perform regex operations as notepad++ won't work fine sometimes for different langagues
 
+Workflows:
+Coverting text based pdf to text:
+use pdftotext to save the file as text, if the structuer is good, I don't ahve to preprocess, just adding it to api will work fine.
+
+If the pdf have footnotes, then have to fetch text using coordinates, First have save pdf as tiff and  to use opencv to get the coordinates uniquely for each differnert page/image using featuers such as seperating lines etc and then giving those cooridnates to pdftotext binary.
+
+
+Coverting image based pdf to text:
+covert the pdf to tiff image, 
+then crop using opencv houghlines etc and save the cropped images, 
+use tesseract to ocr the text from images, have to use --psm 6 flag so the layout is same and verse numbers don't get assigned here and there
