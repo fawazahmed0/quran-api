@@ -1,4 +1,4 @@
-
+//This generates the list of translations for Translations.md
 const fs = require('fs');
 const path = require('path');
 
