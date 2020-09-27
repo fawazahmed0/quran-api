@@ -115,3 +115,8 @@ Coverting image based pdf to text:
 covert the pdf to tiff image, 
 then crop using opencv houghlines etc and save the cropped images, 
 use tesseract to ocr the text from images, have to use --psm 6 flag so the layout is same and verse numbers don't get assigned here and there
+
+Regular expression:
+for normal text processing, mostly I do is replace all newline with space ie \r?\n with  space and arringging it line by line using numbers is by:
+(\d+.*?) with \n$1
+Also have to tinker with limit variable in apisicrpt.js validatecleantrans()
