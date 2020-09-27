@@ -1855,7 +1855,7 @@
         "language": "Javanese",
         "direction": "ltr",
         "source": "https://github.com/hakimrie/alQuran-Translations , https://voiceofquran.info/download-quran-translation-pdf/",
-        "comments": "This translation was made by merging two jawa translations from different sources, first source was from Github which was partial i.e chapters from - were missing and to complete the whole quran translation, chapters from - were taken from Lahori Ahmadiyya jawa quran translation book, incase you find any issues in the translation, please let me know at https://bit.ly/ FuNZS",
+        "comments": "This translation was made by merging two jawa translations from different sources, first source was from Github which was partial i.e chapters from - were missing and to complete the whole quran translation, chapters from - were taken from Lahori Ahmadiyya jawa quran translation book, This was done for the benefit of 80 million muslim javanese speakers as no complete jawanese translation was available for them on the web, incase you find any issues in the translation, please let me know at https://bit.ly/FuNZS",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jav-unknown-la.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jav-unknown-la.min.json"
     },
@@ -1865,7 +1865,7 @@
         "language": "Javanese",
         "direction": "ltr",
         "source": "https://github.com/hakimrie/alQuran-Translations , https://voiceofquran.info/download-quran-translation-pdf/",
-        "comments": "This translation was made by merging two jawa translations from different sources, first source was from Github which was partial i.e chapters from - were missing and to complete the whole quran translation, chapters from - were taken from Lahori Ahmadiyya jawa quran translation book, incase you find any issues in the translation, please let me know at https://bit.ly/ FuNZS",
+        "comments": "This translation was made by merging two jawa translations from different sources, first source was from Github which was partial i.e chapters from - were missing and to complete the whole quran translation, chapters from - were taken from Lahori Ahmadiyya jawa quran translation book, This was done for the benefit of 80 million muslim javanese speakers as no complete jawanese translation was available for them on the web, incase you find any issues in the translation, please let me know at https://bit.ly/FuNZS",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jav-unknown.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/jav-unknown.min.json"
     },
