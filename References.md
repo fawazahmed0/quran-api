@@ -49,6 +49,7 @@ Here is a list of websites that helped me either directly or indirectly in makin
 - http://www.goodwordbooks.com/
 - https://www.cpsglobal.org/
 - https://www.sil.org/
+- http://quran.mmsy.info/
 - Islamic Dawah Movement of Southern Africa
 
 <br>
