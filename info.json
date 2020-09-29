@@ -11663,7 +11663,7 @@
                     "ruku": 145,
                     "maqra": 70,
                     "sajda": {
-                        "id": 1,
+                        "no": 1,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -17341,7 +17341,7 @@
                     "ruku": 206,
                     "maqra": 100,
                     "sajda": {
-                        "id": 2,
+                        "no": 2,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -19662,7 +19662,7 @@
                     "ruku": 229,
                     "maqra": 108,
                     "sajda": {
-                        "id": 3,
+                        "no": 3,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -21545,7 +21545,7 @@
                     "ruku": 251,
                     "maqra": 117,
                     "sajda": {
-                        "id": 4,
+                        "no": 4,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -23267,7 +23267,7 @@
                     "ruku": 267,
                     "maqra": 123,
                     "sajda": {
-                        "id": 5,
+                        "no": 5,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -26348,7 +26348,7 @@
                     "ruku": 286,
                     "maqra": 133,
                     "sajda": {
-                        "id": 6,
+                        "no": 6,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -26942,7 +26942,7 @@
                     "ruku": 294,
                     "maqra": 136,
                     "sajda": {
-                        "id": 7,
+                        "no": 7,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -29403,7 +29403,7 @@
                     "ruku": 314,
                     "maqra": 146,
                     "sajda": {
-                        "id": 8,
+                        "no": 8,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -32125,7 +32125,7 @@
                     "ruku": 328,
                     "maqra": 151,
                     "sajda": {
-                        "id": 9,
+                        "no": 9,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -35504,7 +35504,7 @@
                     "ruku": 359,
                     "maqra": 166,
                     "sajda": {
-                        "id": 10,
+                        "no": 10,
                         "recommended": false,
                         "obligatory": true
                     }
@@ -40322,7 +40322,7 @@
                     "ruku": 392,
                     "maqra": 182,
                     "sajda": {
-                        "id": 11,
+                        "no": 11,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -42973,7 +42973,7 @@
                     "ruku": 417,
                     "maqra": 192,
                     "sajda": {
-                        "id": 12,
+                        "no": 12,
                         "recommended": false,
                         "obligatory": true
                     }
@@ -48985,7 +48985,7 @@
                     "ruku": 462,
                     "maqra": 211,
                     "sajda": {
-                        "id": 13,
+                        "no": 13,
                         "recommended": false,
                         "obligatory": true
                     }
@@ -59858,7 +59858,7 @@
                     "ruku": 526,
                     "maqra": 236,
                     "sajda": {
-                        "id": 14,
+                        "no": 14,
                         "recommended": true,
                         "obligatory": false
                     }
@@ -62170,7 +62170,7 @@
                     "ruku": 538,
                     "maqra": 239,
                     "sajda": {
-                        "id": 15,
+                        "no": 15,
                         "recommended": false,
                         "obligatory": true
                     }
