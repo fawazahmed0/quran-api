@@ -8,7 +8,7 @@ The purpose of this repo is to spread the word of God everywhere in the world
 **Features:**
 - Free & Blazing Fast response
 - No Rate limits
-- 90+ [Languages](https://github.com/fawazahmed0/quran-api/blob/1/README.md#languages-available) & 440+ Translations including Latin/roman translations
+- 90+ [languages](#languages-available) & 440+ Translations including Latin/roman translations
 
 
 **URL Structure:**
