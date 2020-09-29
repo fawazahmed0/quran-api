@@ -9,6 +9,7 @@ The purpose of this repo is to spread the word of God everywhere in the world
 - Free & Blazing Fast response
 - No Rate limits
 - Latin/roman translation for many languages
+- 90+ Languages & 440+ Translations
 
 
 **URL Structure:**
