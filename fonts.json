@@ -421,6 +421,19 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-nastaleeq-ver10.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-nastaleeq-ver10.woff2"
     },
+    "hafs_smart_07": {
+        "name": "hafs-smart-07",
+        "font": "KFGQPC Hafs Smart Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.07,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-smart-07-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-smart-07.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-smart-07.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-smart-07.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-smart-07.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-smart-07.woff2"
+    },
     "hala": {
         "name": "hala",
         "font": "AraHalaBoShe'sha-Regular Regular",
@@ -2050,6 +2063,19 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver13.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver13.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver13.woff2"
+    },
+    "uthmanic_hafs1_ver14": {
+        "name": "uthmanic-hafs1-ver14",
+        "font": "KFGQPC HAFS Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.14,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver14-org.otf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver14.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver14.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver14.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver14.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/uthmanic-hafs1-ver14.woff2"
     },
     "uthmanic_qaloon1_ver08": {
         "name": "uthmanic-qaloon1-ver08",
