@@ -7,7 +7,7 @@
             "chapter": 1,
             "name": "Al-Faatiha",
             "englishname": "The Opening",
-            "arabicname": "الْفَاتِحَةِ",
+            "arabicname": "سُوْرَةُ الْفَاتِحَةِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -86,7 +86,7 @@
             "chapter": 2,
             "name": "Al-Baqara",
             "englishname": "The Cow",
-            "arabicname": "البَقَرَةِ",
+            "arabicname": "سُوْرَةُ البَقَرَةِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -2955,7 +2955,7 @@
             "chapter": 3,
             "name": "Aal-i-Imraan",
             "englishname": "The Family of Imraan",
-            "arabicname": "اٰلِ عِمْرٰنَ",
+            "arabicname": "سُوْرَةُ اٰلِ عِمْرٰنَ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -4964,7 +4964,7 @@
             "chapter": 4,
             "name": "An-Nisaa",
             "englishname": "The Women",
-            "arabicname": "النِّسَآءِ",
+            "arabicname": "سُوْرَةُ النِّسَآءِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -6733,7 +6733,7 @@
             "chapter": 5,
             "name": "Al-Maaida",
             "englishname": "The Table",
-            "arabicname": "المَآئِدَةِ",
+            "arabicname": "سُوْرَةُ المَآئِدَةِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -7942,7 +7942,7 @@
             "chapter": 6,
             "name": "Al-An'aam",
             "englishname": "The Cattle",
-            "arabicname": "الْاَنْعَامِ",
+            "arabicname": "سُوْرَةُ الْاَنْعَامِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -9601,7 +9601,7 @@
             "chapter": 7,
             "name": "Al-A'raaf",
             "englishname": "The Heights",
-            "arabicname": "الْاَعْرَافِ",
+            "arabicname": "سُوْرَةُ الْاَعْرَافِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -11674,7 +11674,7 @@
             "chapter": 8,
             "name": "Al-Anfaal",
             "englishname": "The Spoils of War",
-            "arabicname": "الْاَنْفَالِ",
+            "arabicname": "سُوْرَةُ الْاَنْفَالِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -12433,7 +12433,7 @@
             "chapter": 9,
             "name": "At-Tawba",
             "englishname": "The Repentance",
-            "arabicname": "التَّوْبَةِ",
+            "arabicname": "سُوْرَةُ التَّوْبَةِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -13732,7 +13732,7 @@
             "chapter": 10,
             "name": "Yunus",
             "englishname": "Jonas",
-            "arabicname": "يُوْنُسَ",
+            "arabicname": "سُوْرَةُ يُوْنُسَ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -14831,7 +14831,7 @@
             "chapter": 11,
             "name": "Hud",
             "englishname": "Hud",
-            "arabicname": "هُوْدٍ",
+            "arabicname": "سُوْرَةُ هُوْدٍ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -16070,7 +16070,7 @@
             "chapter": 12,
             "name": "Yusuf",
             "englishname": "Joseph",
-            "arabicname": "يُوسُفَ",
+            "arabicname": "سُوْرَةُ يُوسُفَ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -17189,7 +17189,7 @@
             "chapter": 13,
             "name": "Ar-Ra'd",
             "englishname": "The Thunder",
-            "arabicname": "الرَّعْدِ",
+            "arabicname": "سُوْرَةُ الرَّعْدِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -17632,7 +17632,7 @@
             "chapter": 14,
             "name": "Ibrahim",
             "englishname": "Abraham",
-            "arabicname": "اِبْرَاهِيْمَ",
+            "arabicname": "سُوْرَةُ اِبْرَاهِيْمَ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -18161,7 +18161,7 @@
             "chapter": 15,
             "name": "Al-Hijr",
             "englishname": "The Rock",
-            "arabicname": "الْحِجْرِ",
+            "arabicname": "سُوْرَةُ الْحِجْرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -19160,7 +19160,7 @@
             "chapter": 16,
             "name": "An-Nahl",
             "englishname": "The Bee",
-            "arabicname": "النَّحْلِ",
+            "arabicname": "سُوْرَةُ النَّحْلِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -20453,7 +20453,7 @@
             "chapter": 17,
             "name": "Al-Israa",
             "englishname": "The Night Journey",
-            "arabicname": "الإِسۡرَاءِ",
+            "arabicname": "سُوْرَةُ الإِسۡرَاءِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -21576,7 +21576,7 @@
             "chapter": 18,
             "name": "Al-Kahf",
             "englishname": "The Cave",
-            "arabicname": "الْكَهْفِ",
+            "arabicname": "سُوْرَةُ الْكَهْفِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -22685,7 +22685,7 @@
             "chapter": 19,
             "name": "Maryam",
             "englishname": "Mary",
-            "arabicname": "مَرْيَمَ",
+            "arabicname": "سُوْرَةُ مَرْيَمَ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -23678,7 +23678,7 @@
             "chapter": 20,
             "name": "Taa-Haa",
             "englishname": "Taa-Haa",
-            "arabicname": "طٰهٰ",
+            "arabicname": "سُوْرَةُ طٰهٰ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -25037,7 +25037,7 @@
             "chapter": 21,
             "name": "Al-Anbiyaa",
             "englishname": "The Prophets",
-            "arabicname": "الْاَنْۣبِيَآءِ",
+            "arabicname": "سُوْرَةُ الْاَنْۣبِيَآءِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -26166,7 +26166,7 @@
             "chapter": 22,
             "name": "Al-Hajj",
             "englishname": "The Pilgrimage",
-            "arabicname": "الْحَجِّ",
+            "arabicname": "سُوْرَةُ الْحَجِّ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -26963,7 +26963,7 @@
             "chapter": 23,
             "name": "Al-Muminoon",
             "englishname": "The Believers",
-            "arabicname": "الْمُؤْمِنُوْنَ",
+            "arabicname": "سُوْرَةُ الْمُؤْمِنُوْنَ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -28152,7 +28152,7 @@
             "chapter": 24,
             "name": "An-Noor",
             "englishname": "The Light",
-            "arabicname": "النُّوْرِ",
+            "arabicname": "سُوْرَةُ النُّوْرِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -28801,7 +28801,7 @@
             "chapter": 25,
             "name": "Al-Furqaan",
             "englishname": "The Criterion",
-            "arabicname": "الْفُرْقَانِ",
+            "arabicname": "سُوْرَةُ الْفُرْقَانِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -29584,7 +29584,7 @@
             "chapter": 26,
             "name": "Ash-Shu'araa",
             "englishname": "The Poets",
-            "arabicname": "الشُّعَرَآءِ",
+            "arabicname": "سُوْرَةُ الشُّعَرَآءِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -31863,7 +31863,7 @@
             "chapter": 27,
             "name": "An-Naml",
             "englishname": "The Ant",
-            "arabicname": "النَّمْلِ",
+            "arabicname": "سُوْرَةُ النَّمْلِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -32806,7 +32806,7 @@
             "chapter": 28,
             "name": "Al-Qasas",
             "englishname": "The Stories",
-            "arabicname": "الْقَصَصِ",
+            "arabicname": "سُوْرَةُ الْقَصَصِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -33695,7 +33695,7 @@
             "chapter": 29,
             "name": "Al-Ankaboot",
             "englishname": "The Spider",
-            "arabicname": "الْعَنْكَبُوْتِ",
+            "arabicname": "سُوْرَةُ الْعَنْكَبُوْتِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -34394,7 +34394,7 @@
             "chapter": 30,
             "name": "Ar-Room",
             "englishname": "The Romans",
-            "arabicname": "الرُّوْمِ",
+            "arabicname": "سُوْرَةُ الرُّوْمِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -35003,7 +35003,7 @@
             "chapter": 31,
             "name": "Luqman",
             "englishname": "Luqman",
-            "arabicname": "لُقْمَانَ",
+            "arabicname": "سُوْرَةُ لُقْمَانَ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -35352,7 +35352,7 @@
             "chapter": 32,
             "name": "As-Sajda",
             "englishname": "The Prostration",
-            "arabicname": "السَّجْدَةِ",
+            "arabicname": "سُوْرَةُ السَّجْدَةِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -35665,7 +35665,7 @@
             "chapter": 33,
             "name": "Al-Ahzaab",
             "englishname": "The Clans",
-            "arabicname": "الْاَحْزَابِ",
+            "arabicname": "سُوْرَةُ الْاَحْزَابِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -36404,7 +36404,7 @@
             "chapter": 34,
             "name": "Saba",
             "englishname": "Sheba",
-            "arabicname": "سَبَاٍ",
+            "arabicname": "سُوْرَةُ سَبَاٍ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -36953,7 +36953,7 @@
             "chapter": 35,
             "name": "Faatir",
             "englishname": "The Originator",
-            "arabicname": "فَاطِرٍ",
+            "arabicname": "سُوْرَةُ فَاطِرٍ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -37412,7 +37412,7 @@
             "chapter": 36,
             "name": "Yaseen",
             "englishname": "Yaseen",
-            "arabicname": "يٰسٓ",
+            "arabicname": "سُوْرَةُ يٰسٓ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -38251,7 +38251,7 @@
             "chapter": 37,
             "name": "As-Saaffaat",
             "englishname": "Those drawn up in Ranks",
-            "arabicname": "الصَّافَّاتِ",
+            "arabicname": "سُوْرَةُ الصَّافَّاتِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -40080,7 +40080,7 @@
             "chapter": 38,
             "name": "Saad",
             "englishname": "The letter Saad",
-            "arabicname": "صٓ",
+            "arabicname": "سُوْرَةُ صٓ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -40973,7 +40973,7 @@
             "chapter": 39,
             "name": "Az-Zumar",
             "englishname": "The Groups",
-            "arabicname": "الزُّمَرِ",
+            "arabicname": "سُوْرَةُ الزُّمَرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -41732,7 +41732,7 @@
             "chapter": 40,
             "name": "Ghafir",
             "englishname": "The Forgiver",
-            "arabicname": "الْمُؤْمِنِ",
+            "arabicname": "سُوْرَةُ الْمُؤْمِنِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -42591,7 +42591,7 @@
             "chapter": 41,
             "name": "Fussilat",
             "englishname": "Explained in detail",
-            "arabicname": "فُصِّلَتۡ",
+            "arabicname": "سُوْرَةُ فُصِّلَتۡ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -43144,7 +43144,7 @@
             "chapter": 42,
             "name": "Ash-Shura",
             "englishname": "Consultation",
-            "arabicname": "الشُّوْرٰي",
+            "arabicname": "سُوْرَةُ الشُّوْرٰي",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -43683,7 +43683,7 @@
             "chapter": 43,
             "name": "Az-Zukhruf",
             "englishname": "Ornaments of gold",
-            "arabicname": "الزُّخْرُفِ",
+            "arabicname": "سُوْرَةُ الزُّخْرُفِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -44582,7 +44582,7 @@
             "chapter": 44,
             "name": "Ad-Dukhaan",
             "englishname": "The Smoke",
-            "arabicname": "الدُّخَانِ",
+            "arabicname": "سُوْرَةُ الدُّخَانِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -45181,7 +45181,7 @@
             "chapter": 45,
             "name": "Al-Jaathiya",
             "englishname": "Crouching",
-            "arabicname": "الْجَاثِيَةِ",
+            "arabicname": "سُوْرَةُ الْجَاثِيَةِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -45560,7 +45560,7 @@
             "chapter": 46,
             "name": "Al-Ahqaf",
             "englishname": "The Dunes",
-            "arabicname": "الْاَحْقَافِ",
+            "arabicname": "سُوْرَةُ الْاَحْقَافِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -45919,7 +45919,7 @@
             "chapter": 47,
             "name": "Muhammad",
             "englishname": "Muhammad",
-            "arabicname": "مُحَمَّدٍ",
+            "arabicname": "سُوْرَةُ مُحَمَّدٍ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -46308,7 +46308,7 @@
             "chapter": 48,
             "name": "Al-Fath",
             "englishname": "The Victory",
-            "arabicname": "الْفَتْحِ",
+            "arabicname": "سُوْرَةُ الْفَتْحِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -46607,7 +46607,7 @@
             "chapter": 49,
             "name": "Al-Hujuraat",
             "englishname": "The Inner Apartments",
-            "arabicname": "الْحُجُراتِ",
+            "arabicname": "سُوْرَةُ الْحُجُراتِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -46796,7 +46796,7 @@
             "chapter": 50,
             "name": "Qaaf",
             "englishname": "The letter Qaaf",
-            "arabicname": "قٓ",
+            "arabicname": "سُوْرَةُ قٓ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -47255,7 +47255,7 @@
             "chapter": 51,
             "name": "Adh-Dhaariyat",
             "englishname": "The Winnowing Winds",
-            "arabicname": "الذَّارِياتِ",
+            "arabicname": "سُوْرَةُ الذَّارِياتِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -47864,7 +47864,7 @@
             "chapter": 52,
             "name": "At-Tur",
             "englishname": "The Mount",
-            "arabicname": "الطُّوْرِ",
+            "arabicname": "سُوْرَةُ الطُّوْرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -48363,7 +48363,7 @@
             "chapter": 53,
             "name": "An-Najm",
             "englishname": "The Star",
-            "arabicname": "النَّجْمِ",
+            "arabicname": "سُوْرَةُ النَّجْمِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -48996,7 +48996,7 @@
             "chapter": 54,
             "name": "Al-Qamar",
             "englishname": "The Moon",
-            "arabicname": "الْقَمَرِ",
+            "arabicname": "سُوْرَةُ الْقَمَرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -49555,7 +49555,7 @@
             "chapter": 55,
             "name": "Ar-Rahmaan",
             "englishname": "The Beneficent",
-            "arabicname": "الرَّحْمٰنِ",
+            "arabicname": "سُوْرَةُ الرَّحْمٰنِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -50344,7 +50344,7 @@
             "chapter": 56,
             "name": "Al-Waaqia",
             "englishname": "The Inevitable",
-            "arabicname": "الْوَاقِعَةِ",
+            "arabicname": "سُوْرَةُ الْوَاقِعَةِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -51313,7 +51313,7 @@
             "chapter": 57,
             "name": "Al-Hadid",
             "englishname": "The Iron",
-            "arabicname": "الْحَدِيْدِ",
+            "arabicname": "سُوْرَةُ الْحَدِيْدِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -51612,7 +51612,7 @@
             "chapter": 58,
             "name": "Al-Mujaadila",
             "englishname": "The Pleading Woman",
-            "arabicname": "الْمُجَادَلَةِ",
+            "arabicname": "سُوْرَةُ الْمُجَادَلَةِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -51841,7 +51841,7 @@
             "chapter": 59,
             "name": "Al-Hashr",
             "englishname": "The Exile",
-            "arabicname": "الْحَشْرِ",
+            "arabicname": "سُوْرَةُ الْحَشْرِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -52090,7 +52090,7 @@
             "chapter": 60,
             "name": "Al-Mumtahana",
             "englishname": "She that is to be examined",
-            "arabicname": "الْمُمْتَحِنَةِ",
+            "arabicname": "سُوْرَةُ الْمُمْتَحِنَةِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -52229,7 +52229,7 @@
             "chapter": 61,
             "name": "As-Saff",
             "englishname": "The Ranks",
-            "arabicname": "الصَّفِّ",
+            "arabicname": "سُوْرَةُ الصَّفِّ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -52378,7 +52378,7 @@
             "chapter": 62,
             "name": "Al-Jumu'a",
             "englishname": "Friday",
-            "arabicname": "الْجُمُعَةِ",
+            "arabicname": "سُوْرَةُ الْجُمُعَةِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -52497,7 +52497,7 @@
             "chapter": 63,
             "name": "Al-Munaafiqoon",
             "englishname": "The Hypocrites",
-            "arabicname": "الْمُنَافِقُوْنَ",
+            "arabicname": "سُوْرَةُ الْمُنَافِقُوْنَ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -52616,7 +52616,7 @@
             "chapter": 64,
             "name": "At-Taghaabun",
             "englishname": "Mutual Disillusion",
-            "arabicname": "التَّغَابُنِ",
+            "arabicname": "سُوْرَةُ التَّغَابُنِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -52805,7 +52805,7 @@
             "chapter": 65,
             "name": "At-Talaaq",
             "englishname": "Divorce",
-            "arabicname": "الطَّلَاقِ",
+            "arabicname": "سُوْرَةُ الطَّلَاقِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -52934,7 +52934,7 @@
             "chapter": 66,
             "name": "At-Tahrim",
             "englishname": "The Prohibition",
-            "arabicname": "التَّحْرِيْمِ",
+            "arabicname": "سُوْرَةُ التَّحْرِيْمِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -53063,7 +53063,7 @@
             "chapter": 67,
             "name": "Al-Mulk",
             "englishname": "The Sovereignty",
-            "arabicname": "الْمُلْكِ",
+            "arabicname": "سُوْرَةُ الْمُلْكِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -53372,7 +53372,7 @@
             "chapter": 68,
             "name": "Al-Qalam",
             "englishname": "The Pen",
-            "arabicname": "الْقَلَمِ",
+            "arabicname": "سُوْرَةُ الْقَلَمِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -53901,7 +53901,7 @@
             "chapter": 69,
             "name": "Al-Haaqqa",
             "englishname": "The Reality",
-            "arabicname": "الْحَآقَّةِ",
+            "arabicname": "سُوْرَةُ الْحَآقَّةِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -54430,7 +54430,7 @@
             "chapter": 70,
             "name": "Al-Ma'aarij",
             "englishname": "The Ascending Stairways",
-            "arabicname": "الْمَعَارِجِ",
+            "arabicname": "سُوْرَةُ الْمَعَارِجِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -54879,7 +54879,7 @@
             "chapter": 71,
             "name": "Nooh",
             "englishname": "Noah",
-            "arabicname": "نُوْحٍ",
+            "arabicname": "سُوْرَةُ نُوْحٍ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -55168,7 +55168,7 @@
             "chapter": 72,
             "name": "Al-Jinn",
             "englishname": "The Jinn",
-            "arabicname": "الْجِنِّ",
+            "arabicname": "سُوْرَةُ الْجِنِّ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -55457,7 +55457,7 @@
             "chapter": 73,
             "name": "Al-Muzzammil",
             "englishname": "The Enshrouded One",
-            "arabicname": "الْمُزَّمِّلِ",
+            "arabicname": "سُوْرَةُ الْمُزَّمِّلِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -55666,7 +55666,7 @@
             "chapter": 74,
             "name": "Al-Muddaththir",
             "englishname": "The Cloaked One",
-            "arabicname": "الْمُدَّثِّرِ",
+            "arabicname": "سُوْرَةُ الْمُدَّثِّرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -56235,7 +56235,7 @@
             "chapter": 75,
             "name": "Al-Qiyaama",
             "englishname": "The Resurrection",
-            "arabicname": "الْقِيَامَةِ",
+            "arabicname": "سُوْرَةُ الْقِيَامَةِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -56644,7 +56644,7 @@
             "chapter": 76,
             "name": "Al-Insaan",
             "englishname": "Man",
-            "arabicname": "الدَّهْرِ",
+            "arabicname": "سُوْرَةُ الدَّهْرِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -56963,7 +56963,7 @@
             "chapter": 77,
             "name": "Al-Mursalaat",
             "englishname": "The Emissaries",
-            "arabicname": "الْمُرْسَلَاتِ",
+            "arabicname": "سُوْرَةُ الْمُرْسَلَاتِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -57472,7 +57472,7 @@
             "chapter": 78,
             "name": "An-Naba",
             "englishname": "The Announcement",
-            "arabicname": "النَّبَاِ",
+            "arabicname": "سُوْرَةُ النَّبَاِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -57881,7 +57881,7 @@
             "chapter": 79,
             "name": "An-Naazi'aat",
             "englishname": "Those who drag forth",
-            "arabicname": "النَّازِعَاتِ",
+            "arabicname": "سُوْرَةُ النَّازِعَاتِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -58350,7 +58350,7 @@
             "chapter": 80,
             "name": "Abasa",
             "englishname": "He frowned",
-            "arabicname": "عَبَسَ",
+            "arabicname": "سُوْرَةُ عَبَسَ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -58779,7 +58779,7 @@
             "chapter": 81,
             "name": "At-Takwir",
             "englishname": "The Overthrowing",
-            "arabicname": "التَّكْوِيْرِ",
+            "arabicname": "سُوْرَةُ التَّكْوِيْرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -59078,7 +59078,7 @@
             "chapter": 82,
             "name": "Al-Infitaar",
             "englishname": "The Cleaving",
-            "arabicname": "الْاِنْفِطَارِ",
+            "arabicname": "سُوْرَةُ الْاِنْفِطَارِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -59277,7 +59277,7 @@
             "chapter": 83,
             "name": "Al-Mutaffifin",
             "englishname": "Defrauding",
-            "arabicname": "المُطَفِّفِيْنَ",
+            "arabicname": "سُوْرَةُ المُطَفِّفِيْنَ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -59646,7 +59646,7 @@
             "chapter": 84,
             "name": "Al-Inshiqaaq",
             "englishname": "The Splitting Open",
-            "arabicname": "الاِنْشِقَاقِ",
+            "arabicname": "سُوْرَةُ الاِنْشِقَاقِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -59909,7 +59909,7 @@
             "chapter": 85,
             "name": "Al-Burooj",
             "englishname": "The Constellations",
-            "arabicname": "الْبُرُوْجِ",
+            "arabicname": "سُوْرَةُ الْبُرُوْجِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -60138,7 +60138,7 @@
             "chapter": 86,
             "name": "At-Taariq",
             "englishname": "The Morning Star",
-            "arabicname": "الطَّارِقِ",
+            "arabicname": "سُوْرَةُ الطَّارِقِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -60317,7 +60317,7 @@
             "chapter": 87,
             "name": "Al-A'laa",
             "englishname": "The Most High",
-            "arabicname": "الْاَعْلٰي",
+            "arabicname": "سُوْرَةُ الْاَعْلٰي",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -60516,7 +60516,7 @@
             "chapter": 88,
             "name": "Al-Ghaashiya",
             "englishname": "The Overwhelming",
-            "arabicname": "الْغَاشِيَةِ",
+            "arabicname": "سُوْرَةُ الْغَاشِيَةِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -60785,7 +60785,7 @@
             "chapter": 89,
             "name": "Al-Fajr",
             "englishname": "The Dawn",
-            "arabicname": "الْفَجْرِ",
+            "arabicname": "سُوْرَةُ الْفَجْرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -61094,7 +61094,7 @@
             "chapter": 90,
             "name": "Al-Balad",
             "englishname": "The City",
-            "arabicname": "الْبَلَدِ",
+            "arabicname": "سُوْرَةُ الْبَلَدِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -61303,7 +61303,7 @@
             "chapter": 91,
             "name": "Ash-Shams",
             "englishname": "The Sun",
-            "arabicname": "الشَّمْسِ",
+            "arabicname": "سُوْرَةُ الشَّمْسِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -61462,7 +61462,7 @@
             "chapter": 92,
             "name": "Al-Lail",
             "englishname": "The Night",
-            "arabicname": "الَّيْلِ",
+            "arabicname": "سُوْرَةُ الَّيْلِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -61681,7 +61681,7 @@
             "chapter": 93,
             "name": "Ad-Dhuhaa",
             "englishname": "The Morning Hours",
-            "arabicname": "الضُّحٰي",
+            "arabicname": "سُوْرَةُ الضُّحٰي",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -61800,7 +61800,7 @@
             "chapter": 94,
             "name": "Ash-Sharh",
             "englishname": "The Consolation",
-            "arabicname": "الشَّرْحِ",
+            "arabicname": "سُوْرَةُ الشَّرْحِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -61889,7 +61889,7 @@
             "chapter": 95,
             "name": "At-Tin",
             "englishname": "The Fig",
-            "arabicname": "التِّيْنِ",
+            "arabicname": "سُوْرَةُ التِّيْنِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -61978,7 +61978,7 @@
             "chapter": 96,
             "name": "Al-Alaq",
             "englishname": "The Clot",
-            "arabicname": "الْعَلَقِ",
+            "arabicname": "سُوْرَةُ الْعَلَقِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -62181,7 +62181,7 @@
             "chapter": 97,
             "name": "Al-Qadr",
             "englishname": "The Power, Fate",
-            "arabicname": "الْقَدْرِ",
+            "arabicname": "سُوْرَةُ الْقَدْرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -62240,7 +62240,7 @@
             "chapter": 98,
             "name": "Al-Bayyina",
             "englishname": "The Evidence",
-            "arabicname": "الْبَيِّنَةِ",
+            "arabicname": "سُوْرَةُ الْبَيِّنَةِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -62329,7 +62329,7 @@
             "chapter": 99,
             "name": "Az-Zalzala",
             "englishname": "The Earthquake",
-            "arabicname": "الزِّلْزَالِ",
+            "arabicname": "سُوْرَةُ الزِّلْزَالِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -62418,7 +62418,7 @@
             "chapter": 100,
             "name": "Al-Aadiyaat",
             "englishname": "The Chargers",
-            "arabicname": "العٰدِيٰتِ",
+            "arabicname": "سُوْرَةُ العٰدِيٰتِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -62537,7 +62537,7 @@
             "chapter": 101,
             "name": "Al-Qaari'a",
             "englishname": "The Calamity",
-            "arabicname": "الْقَارِعَةِ",
+            "arabicname": "سُوْرَةُ الْقَارِعَةِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -62656,7 +62656,7 @@
             "chapter": 102,
             "name": "At-Takaathur",
             "englishname": "Competition",
-            "arabicname": "التَّكَاثُرِ",
+            "arabicname": "سُوْرَةُ التَّكَاثُرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -62745,7 +62745,7 @@
             "chapter": 103,
             "name": "Al-Asr",
             "englishname": "The Declining Day, Epoch",
-            "arabicname": "الْعَصْرِ",
+            "arabicname": "سُوْرَةُ الْعَصْرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -62784,7 +62784,7 @@
             "chapter": 104,
             "name": "Al-Humaza",
             "englishname": "The Traducer",
-            "arabicname": "الْهُمَزَةِ",
+            "arabicname": "سُوْرَةُ الْهُمَزَةِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -62883,7 +62883,7 @@
             "chapter": 105,
             "name": "Al-Fil",
             "englishname": "The Elephant",
-            "arabicname": "الْفِيْلِ",
+            "arabicname": "سُوْرَةُ الْفِيْلِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -62942,7 +62942,7 @@
             "chapter": 106,
             "name": "Quraish",
             "englishname": "Quraysh",
-            "arabicname": "قُرَيْشٍ",
+            "arabicname": "سُوْرَةُ قُرَيْشٍ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -62991,7 +62991,7 @@
             "chapter": 107,
             "name": "Al-Maa'un",
             "englishname": "Almsgiving",
-            "arabicname": "الْمَاعُوْنِ",
+            "arabicname": "سُوْرَةُ الْمَاعُوْنِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -63070,7 +63070,7 @@
             "chapter": 108,
             "name": "Al-Kawthar",
             "englishname": "Abundance",
-            "arabicname": "الْكَوْثَرِ",
+            "arabicname": "سُوْرَةُ الْكَوْثَرِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -63109,7 +63109,7 @@
             "chapter": 109,
             "name": "Al-Kaafiroon",
             "englishname": "The Disbelievers",
-            "arabicname": "الْكَافِرُوْنَ",
+            "arabicname": "سُوْرَةُ الْكَافِرُوْنَ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -63178,7 +63178,7 @@
             "chapter": 110,
             "name": "An-Nasr",
             "englishname": "Divine Support",
-            "arabicname": "النَّصْرِ",
+            "arabicname": "سُوْرَةُ النَّصْرِ",
             "revelation": "Madina",
             "verses": [
                 {
@@ -63217,7 +63217,7 @@
             "chapter": 111,
             "name": "Al-Masad",
             "englishname": "The Palm Fibre",
-            "arabicname": "المَسَدِ",
+            "arabicname": "سُوْرَةُ المَسَدِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -63276,7 +63276,7 @@
             "chapter": 112,
             "name": "Al-Ikhlaas",
             "englishname": "Sincerity",
-            "arabicname": "الْاِخْلَاصِ",
+            "arabicname": "سُوْرَةُ الْاِخْلَاصِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -63325,7 +63325,7 @@
             "chapter": 113,
             "name": "Al-Falaq",
             "englishname": "The Dawn",
-            "arabicname": "الْفَلَقِ",
+            "arabicname": "سُوْرَةُ الْفَلَقِ",
             "revelation": "Mecca",
             "verses": [
                 {
@@ -63384,7 +63384,7 @@
             "chapter": 114,
             "name": "An-Naas",
             "englishname": "Mankind",
-            "arabicname": "النَّاسِ",
+            "arabicname": "سُوْرَةُ النَّاسِ",
             "revelation": "Mecca",
             "verses": [
                 {
