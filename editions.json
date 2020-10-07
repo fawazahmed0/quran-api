@@ -169,6 +169,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranacademy.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranacademy.min.json"
     },
+    "ara_quranbazzi": {
+        "name": "ara-quranbazzi",
+        "author": "Quran Bazzi",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "Version 7 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranbazzi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranbazzi.min.json"
+    },
+    "ara_qurandoori": {
+        "name": "ara-qurandoori",
+        "author": "Quran Doori",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoori.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoori.min.json"
+    },
     "ara_qurankhaledhosn": {
         "name": "ara-qurankhaledhosn",
         "author": "Quran Khaled Hosney",
@@ -219,6 +239,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqs.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqs.min.json"
     },
+    "ara_quranqaloon": {
+        "name": "ara-quranqaloon",
+        "author": "Quran Qaloon",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqaloon.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqaloon.min.json"
+    },
+    "ara_quransoosi": {
+        "name": "ara-quransoosi",
+        "author": "Quran Soosi",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosi.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosi.min.json"
+    },
     "ara_quranuthmanienc": {
         "name": "ara-quranuthmanienc",
         "author": "Quran Uthmani Enc",
@@ -238,6 +278,16 @@
         "comments": "Version 13",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.min.json"
+    },
+    "ara_quranwarsh": {
+        "name": "ara-quranwarsh",
+        "author": "Quran Warsh",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "Version 8, The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranwarsh.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranwarsh.min.json"
     },
     "ara_sirajtafseer": {
         "name": "ara-sirajtafseer",
