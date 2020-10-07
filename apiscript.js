@@ -4,7 +4,7 @@ var checkduplicate = true;
 // whether json is required in translation or not
 var jsonrequired = true
 // whether to generate latin or not using translate.py script
-var generateLatin = true
+var generateLatin = false
 
 const fs = require('fs');
 const path = require('path');
@@ -404,7 +404,7 @@ function validateCleanTrans(arr, filename) {
     var j = 0;
     var stop = 0
     // specifies the limit, i.e next number of lines to search for next verse
-    var limit = 7
+    var limit = 5
     // Saving the original arr as we will be modifying it
     var orgarr = [...arr]
     // Filtering the array from empty lines, uncomment this if the input translation has so many empty lines in it
