@@ -6240,7 +6240,7 @@
     "language": "Arabic",
     "direction": "rtl",
     "source": "https://fonts.qurancomplex.gov.sa/",
-    "comments": "Version 10, Original Version from qurancomplex, It requires nastaleeq fonts to view them properly",
+    "comments": "Version 10, Original Version from qurancomplex, Please use the quran complex nastaleeq fonts to view this text properly",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.min.json"
 }

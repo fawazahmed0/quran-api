@@ -6123,7 +6123,7 @@
 فَلۡيَدۡعُ نَادِيَهُۥ
 سَنَدۡعُ ٱلزَّبَانِيَةَ
 كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩
- ٱلرَّحِيمِإِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ
+ٱلرَّحِيمِإِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ
 وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ
 لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ
 تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ
@@ -6240,7 +6240,7 @@
     "language": "Arabic",
     "direction": "rtl",
     "source": "https://qurancomplex.gov.sa/",
-    "comments": "Version 13",
+    "comments": "Version 13, Please use the quran complex Uthamnic fonts to view this text properly",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.min.json"
 }

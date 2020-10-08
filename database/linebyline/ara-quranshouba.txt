@@ -6240,7 +6240,7 @@
     "language": "Arabic",
     "direction": "rtl",
     "source": "https://qurancomplex.gov.sa/",
-    "comments": "Version 7",
+    "comments": "Version 7, Please use the quran complex shouba fonts to view this text properly",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranshouba.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranshouba.min.json"
 }
