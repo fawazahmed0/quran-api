@@ -219,26 +219,6 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqc.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqc.min.json"
     },
-    "ara_qurannastaleeqc1": {
-        "name": "ara-qurannastaleeqc1",
-        "author": "Quran Nastaleeq Clean Sukn",
-        "language": "Arabic",
-        "direction": "rtl",
-        "source": "https://fonts.qurancomplex.gov.sa/",
-        "comments": "Version 10, This version has circle shaped sukoon replaced with daal shaped sukoon, to make it look like IndoPak and is usually used in India/Pakistan and neighbouring regions, It doesn't require any special font's to display properly, all non UTF-8 characters have been removed from this",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqc1.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqc1.min.json"
-    },
-    "ara_qurannastaleeqs": {
-        "name": "ara-qurannastaleeqs",
-        "author": "Quran Nastaleeq Sukn",
-        "language": "Arabic",
-        "direction": "rtl",
-        "source": "https://fonts.qurancomplex.gov.sa/",
-        "comments": "Version 10, This version has circle shaped sukoon replaced with daal shaped sukoon, to make it look like IndoPak and is usually used in India/Pakistan and neighbouring regions, It requires fonts to display properly",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqs.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqs.min.json"
-    },
     "ara_quranqaloon": {
         "name": "ara-quranqaloon",
         "author": "Quran Qaloon",
