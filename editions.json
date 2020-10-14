@@ -205,7 +205,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://fonts.qurancomplex.gov.sa/",
-        "comments": "Version 10, Original Version from qurancomplex, Please use the quran complex nastaleeq fonts to view this text properly, this quran variant is also known as IndoPak",
+        "comments": "Version 10, Original Version from qurancomplex, this text does not follow proper unicode standard, Please use the quran complex nastaleeq fonts to view this text properly, this quran variant is also known as IndoPak",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.min.json"
     },
@@ -215,7 +215,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://fonts.qurancomplex.gov.sa/",
-        "comments": "Version 10, This version has all the Arabic Presentation Forms-A Unicode block replaced with empty space, so the user can view the text without requiring any fonts, this quran variant is also known as IndoPak",
+        "comments": "Version 10, This version has all the Arabic Presentation Forms-A Unicode block representing stopping signs replaced with empty space, so the user can view the text without requiring any fonts, this quran variant is also known as IndoPak",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqc.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqc.min.json"
     },
