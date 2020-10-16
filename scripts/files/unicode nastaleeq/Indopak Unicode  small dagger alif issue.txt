@@ -1,0 +1,20 @@
+﻿ara-quranuthmanihaf:
+ٱللَّهُ
+%u0671%u0644%u0644%u0651%u064E%u0647%u064F (uses 0671 alif with wasal)
+ara-quranindopakuni:
+اللّٰهُ
+%u0627%u0644%u0644%u0651%u0670%u0647%u064F (uses 0627 only alif)
+
+The indopak can be replaced with alif wasal on Arabic word Allah to show in noto properly, but I think the noto fonts should rather fix this issue 
+
+
+
+
+
+
+
+
+
+
+
+
