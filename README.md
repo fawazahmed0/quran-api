@@ -78,11 +78,13 @@ Few of the translations were [OCRed](https://github.com/fawazahmed0/quran-api/bl
 
 - [List of Languages Available](https://github.com/fawazahmed0/quran-api/blob/1/Translations.md)
 ### Contribution:
-Without your contribution, this repo won't survive, incase of any issues or problems, questions etc,<br> you can let me  [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
+Without your contribution, this repo won't survive, whenever you find any issue, don't just fix it at your end, please let me [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know") so that I can also fix it and people can benefit from it, incase of any question, issues or problems etc<br> you can let me [Know](https://github.com/fawazahmed0/quran-api/issues/new "Know")
+
 - Please help by adding new translations to this repo, you can share me the translation [here](https://github.com/fawazahmed0/quran-api/issues/new "here")
 
 or
 - Read [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute") to add/update the translation directly to this repo
+
 
 
 ### Help Needed:
