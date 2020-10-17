@@ -6240,7 +6240,7 @@
     "language": "Arabic",
     "direction": "rtl",
     "source": "https://fonts.qurancomplex.gov.sa/",
-    "comments": "This is a copy of Quran Nastaleeq from https://fonts.qurancomplex.gov.sa/, the quran complex version was converted to unicode standard, most of the symbols were taken from Arabic Extended-A block and the main arabic block, Please use the noorehuda fonts to view this text properly, In case you find any mistake with this version of quran, please let me know at https://bit.ly/33FuNZS",
+    "comments": "This is a copy of Quran Nastaleeq from https://fonts.qurancomplex.gov.sa/, the quran complex version was converted to unicode standard, most of the symbols were taken from Arabic Extended-A block and the main arabic block, Currently there is no quranic font that supports Arabic Extended-A block, For the time being please use the Google noto sans arabic from here https://www.google.com/get/noto/#sans-arab , which supports all the arabic unicode blocks, In case you find any mistake with this version of quran, please let me know at https://bit.ly/33FuNZS",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranindopakuni.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranindopakuni.min.json"
 }
