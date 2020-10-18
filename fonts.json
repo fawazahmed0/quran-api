@@ -90,6 +90,19 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-light.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-light.woff2"
     },
+    "almarai_regular_full": {
+        "name": "almarai-regular-full",
+        "font": "Almarai Regular",
+        "designer": "Boutros International 2019 , Created by Boutros International 2019",
+        "source": "",
+        "version": 1.1,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/almarai-regular-full.woff2"
+    },
     "almarai_regular": {
         "name": "almarai-regular",
         "font": "Almarai Regular",
@@ -619,6 +632,19 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hamada-light-font.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hamada-light-font.woff2"
     },
+    "harmattan_full": {
+        "name": "harmattan-full",
+        "font": "Harmattan-Regular Regular",
+        "designer": "George W. Nuss III and SIL International , SIL International",
+        "source": "http://scripts.sil.org/ and http://fulbefouta.com/ , http://www.sil.org/",
+        "version": 1.001,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/harmattan-full.woff2"
+    },
     "harmattan": {
         "name": "harmattan",
         "font": "Harmattan-Regular Regular",
@@ -644,6 +670,19 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/ishraq.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/ishraq.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/ishraq.woff2"
+    },
+    "jomhuria_regular_full": {
+        "name": "jomhuria-regular-full",
+        "font": "Jomhuria Regular",
+        "designer": "Arabic design by Kourosh Beigpour, Latin design by Eben Sorkin, engineering by Lasse Fister and Khaled Hosney",
+        "source": "https://github.com/Tarobish/Jomhuria",
+        "version": 1,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/jomhuria-regular-full.woff2"
     },
     "jomhuria_regular": {
         "name": "jomhuria-regular",
@@ -1089,6 +1128,19 @@
         "source": "http://www.borna.design, http://www.florianrunge.com",
         "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-bold-org.ttf"
+    },
+    "markazi_text_regular": {
+        "name": "markazi-text-regular",
+        "font": "Markazi Text Regular",
+        "designer": "Borna Izadpanah (Arabic designer), Fiona Ross (Arabic design director) and Florian Runge (Latin designer) , Borna Izadpanah and Florian Runge",
+        "source": "http://www.borna.design, http://www.florianrunge.com",
+        "version": 1,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-regular-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-regular.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-regular.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-regular.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-regular.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-regular.woff2"
     },
     "me_quran_r3_hoq_full": {
         "name": "me-quran-r3-hoq-full",
@@ -2202,6 +2254,19 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-medium.woff2"
+    },
+    "tajawal_regular_full": {
+        "name": "tajawal-regular-full",
+        "font": "Tajawal Regular",
+        "designer": "Boutros Fonts , Created by Boutros International 2017",
+        "source": "http://www.boutrosfonts.com",
+        "version": 1.7,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/tajawal-regular-full.woff2"
     },
     "tajawal_regular": {
         "name": "tajawal-regular",
