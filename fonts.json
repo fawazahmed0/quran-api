@@ -1129,6 +1129,14 @@
         "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-bold-org.ttf"
     },
+    "markazi_text_regular_full": {
+        "name": "markazi-text-regular-full",
+        "font": "Markazi Text Regular",
+        "designer": "Borna Izadpanah (Arabic designer), Fiona Ross (Arabic design director) and Florian Runge (Latin designer) , Borna Izadpanah and Florian Runge",
+        "source": "http://www.borna.design, http://www.florianrunge.com",
+        "version": 1,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-regular-full-org.ttf"
+    },
     "markazi_text_regular": {
         "name": "markazi-text-regular",
         "font": "Markazi Text Regular",
@@ -1389,13 +1397,26 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-bold.woff2"
     },
+    "noto_naskh_arabic_regular_full": {
+        "name": "noto-naskh-arabic-regular-full",
+        "font": "Noto Naskh Arabic Regular",
+        "designer": "Monotype Design Team, David Williams , Monotype Imaging Inc.",
+        "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
+        "version": 2,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-full-org.otf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-full.woff2"
+    },
     "noto_naskh_arabic_regular": {
         "name": "noto-naskh-arabic-regular",
         "font": "Noto Naskh Arabic Regular",
-        "designer": "Monotype Design Team , Monotype Imaging Inc.",
+        "designer": "Monotype Design Team, David Williams , Monotype Imaging Inc.",
         "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
-        "version": 1.07,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-org.ttf",
+        "version": 2,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular-org.otf",
         "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.eot",
         "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.svg",
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-naskh-arabic-regular.ttf",
