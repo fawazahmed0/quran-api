@@ -219,16 +219,6 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.min.json"
     },
-    "ara_qurannastaleeqc": {
-        "name": "ara-qurannastaleeqc",
-        "author": "Quran Nastaleeq Clean",
-        "language": "Arabic",
-        "direction": "rtl",
-        "source": "https://fonts.qurancomplex.gov.sa/",
-        "comments": "Version 10, This version has all the Arabic Presentation Forms-A Unicode block representing stopping signs replaced with empty space, so the user can view the text without requiring any fonts, this quran variant is also known as IndoPak",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqc.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqc.min.json"
-    },
     "ara_quranqaloon": {
         "name": "ara-quranqaloon",
         "author": "Quran Qaloon",
