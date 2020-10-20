@@ -6236,7 +6236,7 @@
 مِنَ الۡجِنَّةِ وَالنَّاسِ ࣖ‏
 {
     "name": "ara-quranindopak",
-    "author": "Quran Indopak,
+    "author": "Quran Indopak",
     "language": "Arabic",
     "direction": "rtl",
     "source": "https://fonts.qurancomplex.gov.sa/",
