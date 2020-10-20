@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-filename = 'nastaleeq.txt'
+filename = 'ara-quranwarsh.txt'
 
 // Save a backup of file
 fs.copyFileSync(path.join(__dirname, filename), path.join("backup",filename+getRandomNo(1000)))
@@ -27,9 +27,24 @@ var thalatha3 = "\u08DA"
 var footnote = "\u08E0"
 var wakft = "\u08DF"
 
+
+
+var doublezeerindo = "\u0656"
+// utf-8 \u08f2
+var doublezabarindo = "\u0657"
+// utf-8 \u08f0
+
+var doublepeshindo = "\u065E"
+// utf-8 \u08f1
+
+
+
 // replace the value from [i][0] to [i][1]
 //fromToRegex = [["\u061E","\u06DB"],["\uFBB6","\u06DB"]]
-//fromToRegex = [["\r?\n"," \u06DD \n"]]
+fromToRegex = [//["\u06ED\r?\n","\u065c\u200f\n"],["\u06ED","\u065c"],
+[doublezeerindo+"\r?\n","\u08f2\u200f\n"],[doublezeerindo,"\u08f2"],
+[doublezabarindo+"\r?\n","\u08f0\u200f\n"],[doublezabarindo,"\u08f0"],
+[doublepeshindo+"\r?\n","\u08f1\u200f\n"],[doublepeshindo,"\u08f1"]]
 
 
 

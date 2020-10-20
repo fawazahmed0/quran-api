@@ -1,0 +1,24 @@
+This doc explains how different quran variants such as soosi, doori etc were convered to unicode.
+Though all of them has 99.99% unicode compliance, but there were few letters that did not conform to unicode code points (Note: nastaleeq did not had the compliance by around 80% utf complaint)
+
+First getcharlist was run to get all the unique characters in the quran text,then the charaters were compared in two word docs with one doc have utf-8 complaint fonts i.e google noto sans arabic and otehr doc has kfcq related font. both were compared for inconsistensies and code point were replaced with proper unicode code point  and also it was done in font at same time using fontforge.
+All the junk symbols(wrong symbols) in font were removed to make it unicode complaint. (you can remove by selecting the glpy or selecting class of glyps from fonts info->unicode , and then encoding-> detach and remove glpys https://stackoverflow.com/questions/35555816/delete-all-unused-characters-from-a-ttf-font-with-fontforge)
+At last these fonts will be merged with noto sans arabic to get full unicode support
+
+Though the texts are not 100% unicode complaint as there were few symbols there were not availalbe in unicode v13, but will be available in unicode v14
+Ref: Characters to be added in unicode v14
+http://www.unicode.org/L2/L2019/19306-quranic-additions.pdf
+http://www.unicode.org/alloc/Pipeline.html
+
+Tool that I used to get text to unicode code point:
+https://www.online-toolz.com/tools/text-unicode-entities-convertor.php
+
+-------------
+Notes:
+doori,soosi is made utf-8 complaint by replacing small meem \u06ED with lower dot \u065c and replacing to correct double fatha dmma kasra 
+(keep non-utf for doori,soosi due to small circle symbol not in unicode)
+
+
+
+qaloon,qumbul,shouba,warsh double  fatha dmma kasra 
+
