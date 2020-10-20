@@ -156,7 +156,12 @@
         "designer": "Khaled Hosny",
         "source": "http://www.amirifont.org",
         "version": 0.114,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-slanted-org.otf"
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-slanted-org.otf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-slanted.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-slanted.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-slanted.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-slanted.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-bold-slanted.woff2"
     },
     "amiri_bold1": {
         "name": "amiri-bold1",
@@ -177,7 +182,12 @@
         "designer": "Khaled Hosny",
         "source": "http://www.amirifont.org",
         "version": 0.113,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-italic1-org.ttf"
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-italic1-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-italic1.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-italic1.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-italic1.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-italic1.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/amiri-italic1.woff2"
     },
     "amiri_quran_colored_full": {
         "name": "amiri-quran-colored-full",
@@ -398,6 +408,32 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-regular.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/arefruqaa-regular.woff2"
     },
+    "bazzi_v7_full": {
+        "name": "bazzi-v7-full",
+        "font": "KFGQPC BAZZI Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.07,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/bazzi-v7-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/bazzi-v7-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/bazzi-v7-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/bazzi-v7-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/bazzi-v7-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/bazzi-v7-full.woff2"
+    },
+    "doori_v8_full": {
+        "name": "doori-v8-full",
+        "font": "KFGQPC DOORI Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.08,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/doori-v8-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/doori-v8-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/doori-v8-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/doori-v8-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/doori-v8-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/doori-v8-full.woff2"
+    },
     "droid_kufi_regular_full": {
         "name": "droid-kufi-regular-full",
         "font": "DroidArabicKufi Regular",
@@ -580,6 +616,19 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-smart-07.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-smart-07.woff2"
     },
+    "hafs_uthmanic_v14_full": {
+        "name": "hafs-uthmanic-v14-full",
+        "font": "KFGQPC HAFS Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.14,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-uthmanic-v14-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-uthmanic-v14-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-uthmanic-v14-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-uthmanic-v14-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-uthmanic-v14-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/hafs-uthmanic-v14-full.woff2"
+    },
     "hala": {
         "name": "hala",
         "font": "AraHalaBoShe'sha-Regular Regular",
@@ -742,12 +791,7 @@
         "designer": "Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister",
         "source": "https://github.com/Tarobish/Mirza",
         "version": 1,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-full-org.ttf",
-        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-full.eot",
-        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-full.svg",
-        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-full.ttf",
-        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-full.woff",
-        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-full.woff2"
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-full-org.ttf"
     },
     "katibeh": {
         "name": "katibeh",
@@ -781,12 +825,7 @@
         "designer": "Arabic design by Kourosh Beigpour, Latin design by Eduardo Tunni, engineering by Lasse Fister",
         "source": "https://github.com/Tarobish/Mirza",
         "version": 1,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular-org.otf",
-        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular.eot",
-        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular.svg",
-        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular.ttf",
-        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular.woff",
-        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular.woff2"
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/katibeh-regular-org.otf"
     },
     "katibeh_regular1": {
         "name": "katibeh-regular1",
@@ -1129,14 +1168,6 @@
         "version": 1,
         "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-bold-org.ttf"
     },
-    "markazi_text_regular_full": {
-        "name": "markazi-text-regular-full",
-        "font": "Markazi Text Regular",
-        "designer": "Borna Izadpanah (Arabic designer), Fiona Ross (Arabic design director) and Florian Runge (Latin designer) , Borna Izadpanah and Florian Runge",
-        "source": "http://www.borna.design, http://www.florianrunge.com",
-        "version": 1,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/markazi-text-regular-full-org.ttf"
-    },
     "markazi_text_regular": {
         "name": "markazi-text-regular",
         "font": "Markazi Text Regular",
@@ -1292,6 +1323,19 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-semi-bold.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-semi-bold.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/mirza-semi-bold.woff2"
+    },
+    "nastaleeq_v10_full": {
+        "name": "nastaleeq-v10-full",
+        "font": "KFGQPC Nastaleeq Regular",
+        "designer": "Alif Lam Mim Tech. (Ashfaq A. Niazi) , King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.1,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/nastaleeq-v10-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/nastaleeq-v10-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/nastaleeq-v10-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/nastaleeq-v10-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/nastaleeq-v10-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/nastaleeq-v10-full.woff2"
     },
     "noorehidayat": {
         "name": "noorehidayat",
@@ -1463,7 +1507,12 @@
         "designer": "Monotype Design Team , Monotype Imaging Inc.",
         "source": "http://www.monotype.com/studio , http://www.google.com/get/noto/",
         "version": 1.02,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-nastaliq-urdu-regular-org.ttf"
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-nastaliq-urdu-regular-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-nastaliq-urdu-regular.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-nastaliq-urdu-regular.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-nastaliq-urdu-regular.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-nastaliq-urdu-regular.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/noto-nastaliq-urdu-regular.woff2"
     },
     "noto_sans_arabic_regular": {
         "name": "noto-sans-arabic-regular",
@@ -1566,6 +1615,32 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qahiri-regular.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qahiri-regular.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qahiri-regular.woff2"
+    },
+    "qaloon_v8_full": {
+        "name": "qaloon-v8-full",
+        "font": "KFGQPC QALOON Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.08,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qaloon-v8-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qaloon-v8-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qaloon-v8-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qaloon-v8-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qaloon-v8-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qaloon-v8-full.woff2"
+    },
+    "qumbul_v7_full": {
+        "name": "qumbul-v7-full",
+        "font": "KFGQPC QUMBUL Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.07,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qumbul-v7-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qumbul-v7-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qumbul-v7-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qumbul-v7-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qumbul-v7-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/qumbul-v7-full.woff2"
     },
     "qur_std": {
         "name": "qur-std",
@@ -1685,7 +1760,12 @@
         "designer": "Khaled Hosny",
         "source": "https://github.com/alif-type",
         "version": 0.008,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular-full-org.otf"
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular-full-org.otf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/reem-kufi-regular-full.woff2"
     },
     "reem_kufi_regular": {
         "name": "reem-kufi-regular",
@@ -1756,12 +1836,7 @@
         "designer": "",
         "source": "",
         "version": 2,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq-org.ttf",
-        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq.eot",
-        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq.svg",
-        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq.ttf",
-        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq.woff",
-        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq.woff2"
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/rustam-quran-r3-hoq-org.ttf"
     },
     "sabgha": {
         "name": "sabgha",
@@ -1899,12 +1974,7 @@
         "designer": "SIL International",
         "source": "http://scripts.sil.org/ , http://www.sil.org/",
         "version": 2.1,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular-org.ttf",
-        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.eot",
-        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.svg",
-        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.ttf",
-        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.woff",
-        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular.woff2"
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/scheherazade-regular-org.ttf"
     },
     "setareh": {
         "name": "setareh",
@@ -1951,7 +2021,12 @@
         "designer": "",
         "source": "",
         "version": 1.001,
-        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-full-org.ttf"
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shahd-full.woff2"
     },
     "shahd": {
         "name": "shahd",
@@ -2044,6 +2119,19 @@
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shorooq.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shorooq.woff2"
     },
+    "shouba_v7_full": {
+        "name": "shouba-v7-full",
+        "font": "KFGQPC SHOUBA Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa",
+        "version": 0.07,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shouba-v7-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shouba-v7-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shouba-v7-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shouba-v7-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shouba-v7-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/shouba-v7-full.woff2"
+    },
     "sky_bold": {
         "name": "sky-bold",
         "font": "HelveticaNeueW23foSKY-Bd Regular",
@@ -2085,6 +2173,19 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/smartman.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/smartman.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/smartman.woff2"
+    },
+    "soosi_v8_full": {
+        "name": "soosi-v8-full",
+        "font": "KFGQPC SOOSI Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.08,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/soosi-v8-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/soosi-v8-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/soosi-v8-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/soosi-v8-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/soosi-v8-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/soosi-v8-full.woff2"
     },
     "spirit_of_doha": {
         "name": "spirit-of-doha",
@@ -2777,6 +2878,19 @@
         "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim.ttf",
         "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim.woff",
         "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/vip-tim.woff2"
+    },
+    "warsh_v8_full": {
+        "name": "warsh-v8-full",
+        "font": "KFGQPC WARSH Uthmanic Script Regular",
+        "designer": "King Fahd Glorious Quran Printing Complex",
+        "source": "http://fonts.qurancomplex.gov.sa/",
+        "version": 0.08,
+        "original": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/warsh-v8-full-org.ttf",
+        "eot": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/warsh-v8-full.eot",
+        "svg": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/warsh-v8-full.svg",
+        "ttf": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/warsh-v8-full.ttf",
+        "woff": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/warsh-v8-full.woff",
+        "woff2": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/fonts/warsh-v8-full.woff2"
     },
     "yaraa": {
         "name": "yaraa",
