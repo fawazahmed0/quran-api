@@ -847,6 +847,10 @@ async function downloadFonts(pathArr) {
   await page.check('input[value="eotz"]');
   await page.check('input[value="woff"]');
   await page.check('input[value="woff2"]');
+  // This will keep the fonts size reduced
+  await page.check('input[value="keep"]');
+  // This will avoid subsetting the font to latin only languages
+  await page.check('input[id="no_subsetting"]');
   await page.check('input[name="agreement"]');
   await page.fill('input[name="filename_suffix"]', '');
   // We will add single random file first
