@@ -6235,12 +6235,12 @@
 114|5|الَّذِيۡ يُوَسۡوِسُ فِيۡ صُدُوۡرِ النَّاسِ ٥ﶫ
 114|6|مِنَ الۡجِنَّةِ وَالنَّاسِ ٦ﶒ
 {
-    "name": "ara-qurannastaleeq",
-    "author": "Quran Nastaleeq",
+    "name": "ara-qurannastaleeqn",
+    "author": "Quran Nastaleeq Non Unicode",
     "language": "Arabic",
     "direction": "rtl",
     "source": "https://fonts.qurancomplex.gov.sa/",
     "comments": "Version 10, Original Version from qurancomplex, this text does not follow proper unicode standard, Please use the quran complex nastaleeq fonts to view this text properly, this quran variant is also known as IndoPak",
-    "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.json",
-    "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeq.min.json"
+    "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqn.json",
+    "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurannastaleeqn.min.json"
 }
