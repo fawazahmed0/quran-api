@@ -189,6 +189,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoori.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoori.min.json"
     },
+    "ara_qurandoorinonun": {
+        "name": "ara-qurandoorinonun",
+        "author": "Quran Doori Non Unicode",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, Please use the quran complex doori fonts to view this text properly",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoorinonun.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoorinonun.min.json"
+    },
     "ara_quranindopakuni": {
         "name": "ara-quranindopakuni",
         "author": "Quran Indopak Unicode",
@@ -258,6 +268,16 @@
         "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, Please use the quran complex soosi fonts to view this text properly",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosi.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosi.min.json"
+    },
+    "ara_quransoosinonun": {
+        "name": "ara-quransoosinonun",
+        "author": "Quran Soosi Non Unicode",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, Please use the quran complex soosi fonts to view this text properly",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosinonun.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosinonun.min.json"
     },
     "ara_quranuthmanienc": {
         "name": "ara-quranuthmanienc",
