@@ -79,6 +79,9 @@ fs.mkdirSync(startDir, {
 fs.mkdirSync(editionsDir, {
   recursive: true
 });
+fs.mkdirSync(fontsDir, {
+  recursive: true
+});
 fs.mkdirSync(path.join(databaseDir, "originals"), {
   recursive: true
 });
