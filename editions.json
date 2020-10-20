@@ -199,15 +199,15 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoorinonun.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoorinonun.min.json"
     },
-    "ara_quranindopakuni": {
-        "name": "ara-quranindopakuni",
-        "author": "Quran Indopak Unicode",
+    "ara_quranindopak": {
+        "name": "ara-quranindopak",
+        "author": "Quran Indopak",
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://fonts.qurancomplex.gov.sa/",
         "comments": "This is a copy of Quran Nastaleeq from https://fonts.qurancomplex.gov.sa/, the quran complex version was converted to unicode standard, most of the symbols were taken from Arabic Extended-A block and the main arabic block, Please use the Google noto sans arabic font from here https://www.google.com/get/noto/#sans-arab or fonts with -full suffix, which supports all the arabic unicode blocks, In case you find any mistake with this version of quran, please let me know at https://bit.ly/33FuNZS",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranindopakuni.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranindopakuni.min.json"
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranindopak.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranindopak.min.json"
     },
     "ara_qurankhaledhosn": {
         "name": "ara-qurankhaledhosn",

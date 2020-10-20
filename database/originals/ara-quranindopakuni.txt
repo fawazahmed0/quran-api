@@ -6235,8 +6235,8 @@
 الَّذِيۡ يُوَسۡوِسُ فِيۡ صُدُوۡرِ النَّاسِ ۙ‏
 مِنَ الۡجِنَّةِ وَالنَّاسِ ࣖ‏
 {
-    "name": "ara-quranindopakuni",
-    "author": "Quran Indopak Unicode",
+    "name": "ara-quranindopak",
+    "author": "Quran Indopak",
     "language": "Arabic",
     "direction": "rtl",
     "source": "https://fonts.qurancomplex.gov.sa/",
