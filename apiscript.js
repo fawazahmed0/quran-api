@@ -864,13 +864,16 @@ async function downloadFonts(pathArr) {
   var uploadwaitTime = 600000
 
 
-  // dismiss all the dialogs that will popup due to font being already webfont
-  // https://playwright.dev/#version=v1.3.0&path=docs%2Fapi.md&q=class-dialog
-  page.on('dialog', async dialog => {
-    await dialog.dismiss();
-  });
 
   try {
+      // dismiss all the dialogs that will popup due to font being already webfont
+      // https://playwright.dev/#version=v1.3.0&path=docs%2Fapi.md&q=class-dialog
+      page.on('dialog', async dialog => {
+      try{await dialog.dismiss()}catch(error){
+        logmsg("\nThere was error in dialog dismiss for " + pathArr + "\n" + error, true)
+        logmsg("\nError in dialog dismiss, seems like either this is already a webfont or a blacklisted font which is not supported")
+      }
+      });
     // https://playwright.dev/#version=v1.3.0&path=docs%2Fnetwork.md&q=handle-file-downloads
     const [download] = await Promise.all([
       page.waitForEvent('download', {
