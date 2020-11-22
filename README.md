@@ -1,4 +1,10 @@
-### Quran API                                                                                       
+<h1 align="center">Quran API    </h1>
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/fawazahmed0/quran-api/raw/1/quran.jpg">
+</p>
+
+
 **In the name of God, who have guided me to do this work and I seek refuge in him from the evil of his creation**
 
 
