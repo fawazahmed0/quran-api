@@ -5,7 +5,7 @@
 </p>
 
 
-**In the name of God, who have guided me to do this work and I seek refuge in him from the evil of his creation**
+**In the name of God, who have guided me to do this work and I seek refuge in him, sufficient is God as protector**
 
 
 This repo contains collection of Quran Translations and to allow development of websites, apps etc, it is structured in REST Architectural Style.
