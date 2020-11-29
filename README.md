@@ -95,12 +95,6 @@ or
 - Read [Contribute](https://github.com/fawazahmed0/quran-api/blob/1/CONTRIBUTING.md "Contribute") to add/update the translation directly to this repo
 
 
-
-### Help Needed:
-
-[Make Colored Tajweed Fonts](https://github.com/fawazahmed0/quran-api/issues/12 "Make Colored Tajweed Fonts")
-
-
 ### Download: [Here](https://github.com/fawazahmed0/quran-api/blob/1/download.md)
 
 ### Authenticity:
