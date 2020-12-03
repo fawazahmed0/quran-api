@@ -44,15 +44,15 @@ jobs:
         if: ${{ github.event_name != 'workflow_dispatch' }}
         shell: bash
         run: |
-          echo "::set-env name=mycmd::$(sed -n '1 p' command.txt)"
-          echo "::set-env name=myargs::$(sed -n '2 p' command.txt)"
+          echo "mycmd=$(sed -n '1 p' command.txt)" >> $GITHUB_ENV
+          echo "myargs=$(sed -n '2 p' command.txt)" >> $GITHUB_ENV
 
       - name: Setting the command values using the manually entered values
         if: ${{ github.event_name == 'workflow_dispatch' }}
         shell: bash
         run: |
-          echo "::set-env name=mycmd::${{ github.event.inputs.cmdval }}"
-          echo "::set-env name=myargs::${{ github.event.inputs.argval }}"
+          echo "mycmd=${{ github.event.inputs.cmdval }}" >> $GITHUB_ENV
+          echo "myargs=${{ github.event.inputs.argval }}" >> $GITHUB_ENV
 
       - name: Print command with args for debug
         shell: bash
