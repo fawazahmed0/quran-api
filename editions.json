@@ -1135,7 +1135,7 @@
         "language": "English",
         "direction": "ltr",
         "source": "",
-        "comments": "",
+        "comments": "This is modifed version of original translation, for example I replaced prophet names to their biblical variants",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-miraneesuddin.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-miraneesuddin.min.json"
     },
