@@ -1129,6 +1129,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-maududi.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-maududi.min.json"
     },
+    "eng_miraneesorigina": {
+        "name": "eng-miraneesorigina",
+        "author": "Mir Anees Original",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-miraneesorigina.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-miraneesorigina.min.json"
+    },
     "eng_miraneesuddin": {
         "name": "eng-miraneesuddin",
         "author": "Mir Aneesuddin",
