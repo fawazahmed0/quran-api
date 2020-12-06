@@ -1,6 +1,6 @@
 // Flags
 // whether to check for duplicate translation or not during create
-var checkduplicate = true;
+var checkduplicate = false;
 // whether json is required in translation or not
 var jsonrequired = true
 // whether to generate latin or not using translate.py script
