@@ -1,0 +1,47 @@
+svg color encoded may work, for each qura(transparent backgornd), but have to know meaning of each tajweed letter and write down some where so people know what that thing means like small jeem, also color encode everything so they understand and can read easily, embed fonts in svg and strip glyps that are not used to reduce font size and output svg size, tajwweed embed in color svg transparent, follow color standard followed by offline and online apps and place website with recite example and color pronunication, svg is just xml, https://stackoverflow.com/a/34132900/2437224
+https://stackoverflow.com/a/37159128/2437224
+https://islam.stackexchange.com/questions/4130/what-are-the-different-punctuation-in-quran
+use svg2 standard to support word wrap of text (inkspace supports svg2)(also use foriegn object etc)
+use base64encode  in font url https://css-tricks.com/using-custom-fonts-with-svg-in-an-image-tag/#font-embedding-to-the-rescue
+minify the svg xml
+try text wrapping using svg1, https://www.oreilly.com/library/view/svg-text-layout/9781491933817/ch04.html
+might have to use tspan delta cords
+or modify the svg xml on fly by using the device view area and use that svg(every dev has to do this task manually)
+svg should look same everywhere
+https://bl.ocks.org/davelandry/a39f0c3fc52804ee859a d3plus library textwrap
+or make javascript code that wraps text in svg and people can use that code in android and everywehre, just have to assign the width /heigth dynamically using something or it will get it dynamically by getting shape of div
+No need to take help from anyone, can do it myself, no one helps and don't ask from anyone it slows down the progress
+tajwed svg add wrap in text to auto wrap in browser , add steps for mob only like using browser to render or use js lib or gen on fly etc, dont add things that might break things in future or other frameworks like react etc which uses its own styling etc or wrap text by itself, inherit or normal word-wrap, dont break things,it may break if i use svg2 and word-wrap together i future, write steps to upgrade to svg 2
+shuld test in android to make sure its working fine
+warsh and other variants may have different recitation so not sue utuamic tahweed will work or not, just confirm on this
+see how to solve wordwrap in markdown
+see all apps ,books etc to see for any extra coloring rules that might not be there anywerhe else, confirmed, all q recitation has same tajweed
+qtajweed strip everything other than required codepoints even author, fonts metadata, to save space
+warn do not change the colors, it will create inconsistencies and to follow a de facto standard
+only single verse api, not by chapter or quran etc
+tajweed demo page in diff languages cuz, people speak different languages around the world , also link to english name/specific tajweed youtube english tutorial
+add some class name(very unique ,so it doesn't clash with same class name in other website) for svg ,for easier formatting in browser
+colors used should be distinct and not similar colors for differet tajweeds
+https://developer.mozilla.org/en-US/docs/Web/SVG
+https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute
+https://github.com/svg/svgo
+embed font in svg (not svg's font tag is deprecated)
+have to make sure it's working fine in android etc and not just browser (if it's getting heavy weight for android, then should try making one for browser and other  for other platforms)
+what if people want white text and black background in dark mode, maybe keep picture like q.com so anything could be possible
+fonts renderring with webview on android (try and check), also make for other platforms which cannot have a browser, for them adobe converted svg, incase font-face doesn't work there
+
+https://github.com/phauer/svg-buddy
+
+or with html text add color(not sure jsdelivr suppports html), do whatever is feasable at android side(i.e you can increase the font size like normal fonts etc) and web side, and all platforms(apple,linux etx)
+Do together with best voice recitation
+
+
+feasability check in android
+
+have to see how amiri quran colored works:
+https://github.com/alif-type/amiri/blob/main/AmiriQuranColored.ttf
+https://github.com/alif-type/amiri/issues/101
+test page: https://www.amirifont.org/fatiha-colored.html
+https://github.com/alif-type/amiri/pull/159
+https://github.com/alif-type/amiri/issues/183
+https://github.com/alif-type/amiri/issues?q=color
