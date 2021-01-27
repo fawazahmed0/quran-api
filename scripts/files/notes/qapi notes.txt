@@ -1,0 +1,545 @@
+https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@v1/file
+
+adding / at end shows directory listing by jsdelivr
+
+this script requires nodejs v12.18 and above, python v3.8 and above, and pip3 install googletrans
+
+Formats supported, json and min.json
+Fonts format supported (all that I can support)
+
+use json schema to check validity of created jsons, see how to build rest api, before setting up the jsons and also see other rest api and how they use url structure to provide the json, rest api url format (search more)
+https://apiguide.readthedocs.io/en/latest/build_and_publish/use_RESTful_urls.html
+https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+https://restfulapi.net/resource-naming/
+
+fonts(search the web ,  https://qurancomplex.gov.sa/, https://www.google.com/get/noto/)
+https://fonts.google.com/earlyaccess
+https://fonts.google.com/?subset=arabic
+(retreieve all the above google arabic fonts)
+add api/json to show list of editions,translations available etc
+also keep line by line format in UTF-8, so people can use it with any way they want (also line by line,chapter wise etc same as json, have to remove /n char in linebyline)(add instructions on how to download, by right click ,save as ,in Firefox click raw data for json and then right click-> save as) and email http://tanzil.net/docs/Adding_New_Translations to get trans from my repo if wanted
+
+people can easily copy the whole repo by forking it and hence saving it for future
+
+
+Add features
+Latin language support for all translations , also machine translation with latin
+
+can create api to get surah info and verse info and no text trans in it, to reduce json sizes (metadata, quraninfo)(make all url things etc in lowercase, or maybe everything, or modify it to follow my standard)
+
+In donate thing, tell everyone to donate to author (link to authors, tell them to donate directly to the author) who did all the hard work of translating Quran and the sites which have hosted their translations (link to refernce)
+I just did very little work compared to nothing (maybe don't add donate to me, there is chance owners/authors will ask to remove if I add my donate thing)
+
+maybe add number of jsdelivr hits per month in repo page
+
+
+create word by word if possible, https://quranwbw.com, https://api.quranwbw.com/ http://emuslim.com/Quran/Translation_English.asp (use g translate to create wbw for all the languages)
+use http://api.alquran.cloud/v1/meta to get hizb,juz and also create these for my api
+use script for add, delete, update/replace , search, print/traverse, keep scripts in github for  so others can also use it if they want to, add contribution.md page in repo to show how scripts work and how contribute etc
+also add changelog ,so people know what has added etc, don't break the api by changing the structure
+
+
+
+write in gh that it returns compressed data(so less time it takes to receive through network)
+
+
+refer rest api docs
+rules:
+use plural nouns person, place, thing, event, substance or quality (eg: cats, rivers, boats)
+https://www.ecenglish.com/learnenglish/lessons/verbs-adjectives-nouns-beginnerselementary#:~:text=Take%20a%20look%20at%20the,look'%20and%20'feel'.
+
+
+add versioning in branch i.e instead of master use v1
+maybe use httpbin.org like docs, use js side implementation (search swagger UI for github pages, use swagger inspector to create the api definiiton ,maybe create my own implemenation using fetch)(do this if it's easier to do)
+dir listing json should be in sorted order (alphabetic)
+think from perspective of api consumer, on using words
+format in .json and .min.json format, /foo/{id}.json
+avoid deeper than resource/identifier/resource url depth
+keep url lowercase
+Don't keep txt file format, only keep for complete surahs, so anyone can take that dump and let everyone know which directory its located (and append ch and verse at each line to understand and also author details at end to give due credits to them)
+Example:
+/customers/{customerId}/accounts/{accountId}
+list of magazines:
+/api/v1/magazines.json
+view magazine:
+/api/v1/magazines/1234.json
+bad example:
+non plural noun
+GET /magazine
+verb:
+use spinal-case in url if required(in json use camelCase at object keys)
+add pretty jsons also for browser seeing or via documentation link (so people can explore api) (keep name.min.json version also and default as prettyfied)
+don't have nested structures in json
+GET /magazine/1234/create
+GET /magazine
+This is better to show:
+http://api.example.com/device-management/managed-devices instead of http://api.example.com/device-management/managed-devices/
+Platform independence
+Service evolution
+make json similar to hateoas representation
+let the HTTP verbs (GET, POST, PUT, DELETE) define the action
+use - to inscrease readability (or _ ,but be consistent, I am not sure what to use as of diff of opinion)
+(maybe add wbyw in list of editions itself, also latin, ML etc) (keep meta.json for people to use)
+use and add ISO 639-2 Code codes json for languages
+https://www.loc.gov/standards/iso639-2/php/code_list.php  (use T)
+// I cannot keep chapter 1.json for listing dir, cuz I should use it for listing full
+editionname.json should print complete q
+remove diacritics from all latin
+
+tell people not to follow authors of tranlation, follow what God orders (prophet as example)
+wahiddudin khan has many translations, but he has been influenced by hasbara, paid shills etc, I fear after reading his translation people might follow him, either remove his name from author but keep translation or add the problem in comments
+
+jsdelivr returns 404 error on url not found
+
+use AI to create word by word trans
+add translators religion and if he has bad status in editions.json (in comments)
+
+check and use files only with 6236 lines
+remove same trans
+
+api creater script should auto detect and delete duplicate trans and should not add duplicate trans at first time itself
+
+editionname => langcode-author-la-wbw   (for ml translation author is machine, for unknow wbw author it's langaguename )
+Add di or d for diacritical variant
+editions.json should have authorname, direction of langauge (rtl,ltr), language, comments, etc and referrer link and complete link to file (similar to hateoas and similar to quranapi.cloud site), add info message for each absolute link like link points to latin version or latin with diacritical marks etc
+add latinscript:true/false also in editions (not needed,as langauges which are latin don't have la and/or lad  )
+			   
+   
+quran-api@v1/editions/{editionname}/{ch}/{vr}{.format}
+quran-api@v1/editions/{editionname}/{juz}/{no}{.format}
+Get editions by languages(print all editions by english, etc) or latin script or wbw
+quran-api@v1/editions/{languagename|latinscript|wordbyword}{.format}
+add quran fonts also  (all formats such as woff2, otf, svg, TTF, EOT, WOFF, etc)
+(https://www.fontsquirrel.com/tools/webfont-generator)
+quran-api@v1/fonts/fontname{.format}
+
+use word by word later and maybe when color fonts support arrives
+
+editions.json and all json should always be in sorted order by alphabets (script should sort it)
+
+for quran,edition is like ara-quranuthmani
+for translitration its like ara-qurantranslitration1-la
+
+use diff ip to download(bsnl doesn't seem to slow down vpn),search the web for more q data
+
+
+completed the whole search
+https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+search 'name of lang'+ quran
+Same in archive.org
+
+
+Start fetching text from sites to be fetched
+
+fetch roman urdu
+clean and sanitize the texts, translate and create api
+
+If you feel that a translation shouldn't be here, please let me know (give contact email)
+
+Have to make a code to avoid making multiple copies of same text and wasting time
+First I will make qdata repo with skeleton and scripts and how to use(readme.md ,contribution.md etc) with one eng translation api
+Then I will create qsite which uses that repo and then slowly i will add more trans in qdata repo and also keep the qsite code dynamic to select the translations
+
+endpoint rename logic with delete and create with new name
+
+add json into the file at last and start json search from last with } and do a parse on every { to check the json start
+
+format either line based or chaper and verse based in new line (doesn't matter the delimiter) and verse number in new line with autoincrement chapter number
+script should remove all newline, tabs ,extra space etc
+
+
+add search operation to search single verse line in the database, case insensitive command line arg
+I will use java as I already know it , a command line tool
+script will also check whether a exact replica exists and then doesn't merge
+
+api scripts and everything at one place in repo
+support CRUD operations( create, search(tells the list of filenames which contains the text and chap,verse) , update/modify/replace, and delete ) (default placeholder folder to keep the files before creating)
+
+Adding Github Actions will be better,so people don't have to download this large repo to contribute (Don't complicate things now)
+Just tell them if any mistake then let me know by creating a new issue
+use gradle to support library dependencies , also to create jar file on build
+use gson https://github.com/google/gson
+https://github.com/google/gson/blob/master/UserGuide.md
+
+add search with language parameter and without langauge which will search everywhere
+
+utf-8 encoding
+
+create repo and it's structure
+
+let people know in few cases when the trans is wrong, then it will be removed
+
+In case of error during script execution, can go back using discard all changes in github desktop
+script should auto create the directory etc based on name, json etc from the new create text file
+add min and pretty versions
+
+keep linebyline and chap|verse as database in the project, for people to choose which one they want to download for personal use/project
+
+
+see terser minifer, which jsdelivr uses (not required, only required for js related things)
+
+better not to write accessible in china, they may block its
+maybe i should give the absolute link for all formats to make things easy for people to click and go , give relative and absolute link in readme.md and also in the editions.json and other listings etc
+
+https://stackoverflow.com/questions/37729066/set-pojo-for-gson-when-json-key-has-a-dash
+https://www.geeksforgeeks.org/pojo-vs-java-beans/
+
+Running jar/script with no options, will regenerate the folder listings
+
+auto remove special symbols,space,and numbers at front and end of verses (eg: .,- etc), do it for first 4 and last 4 chars (shouldn't remove brackets [,(, as they might be there to contain some additional informatino except for brackets containing space and numbers and specials symbols other than text)(don't remove text like In, etc as they are letter and then symbol(comma))
+
+scripts should add the original file to some other folder like backup etc after script is run, this will help in reviewing things for me incase something got removed or is there a mistake somewhere, later I can delete those files manually
+
+people will have to run git clean -fd and git reset --hard /discard all changes incase there was error while the script was running
+make sure the script have proper error handling so that it doesn't stop in middle, and it says any error at the beginning itself
+Also do some testing at last by checking some directories and files are there or not
+
+
+
+keep all things lowercase
+
+minify json, https://stackoverflow.com/questions/48487195/how-to-minify-json-response
+json validate, https://stackoverflow.com/a/3710226
+prettify: https://stackoverflow.com/a/7220510
+https://stackoverflow.com/a/2614874
+I will use javascript in node js
+
+languages with latin script
+https://en.wikipedia.org/wiki/List_of_languages_by_writing_system#Latin_script
+ (have version for both with diacritical and without diacritical marks, this will add flexibility to people when choosing)(don't keep lad option,for these types of languages,as they already have diacritics only keep la (without dia) and normal version (or keep them for standardization)
+ 
+ https://www.npmjs.com/package/iso-639-2-english
+ 
+ maybe keep iso-639-2 list at repo for access, https://www.loc.gov/standards/iso639-2/php/code_list.php (choose T option)
+ https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+ (keep the name as editions/isocodes)
+ 
+ maybe it's better not to have la or/and lad for lang which are latin, for example for english don't have la and lad, for turish, keep la and don't keep lad as the langauge is diacritical (this way I don't have to keep latinscript:true etc things, also it will remove unwanted files)
+ 
+ script should be able to print which line is missing, so person can add it
+ for line by line, the program should from remove all empty lines and then check it's 6236 lines or not
+ 
+ let the person know that copy of trans exist while creating, so adding this trans is not required, except in case of update/replace
+ 
+ 
+script should print help information, on running the script without args
+
+scriopt should auto lowercase all files, exceipt files in start and finshed folders
+
+also show full link and relative link(without first slash or according to standards)
+keep github repo at hdd ,as these are write intensive tasks, may reduce lifespan, options, default storage or when cloning the repo it gives option where to store it
+prog step
+create logic
+make all dirs
+get files from placeholder and sanitize text and then check for problems and duplicate s and let the user know or let him know atlast if other files are good
+if things good then, create the endpoints, api etc
+then place the file to database backup and  keep orginal file in completed or other name dir
+update the dir listings
+think good names for dir
+show any problem faced by specific file
+give good message if everything goes well or minor dublicate or single file error and tell them to commit as things are great, and after PR, the translations will be accessible at absolute link and also link of latin translation
+i should let error files be there in placeholder and dont delete it so i can review it after user commits and rectify the issue
+regenerate dir listing on empty placeholder dir create command
+
+
+search logic
+arg 'text'
+tells the user the chap and verse and edition name having it, search continues till end eveb if a result is found ,to find multiple results
+
+delete:
+arg edition name
+delete all the places having that trans
+update the dir listings
+
+replace:
+arg edition name
+delete logic
+create logic
+
+regeneration is only required when you add news fonts, keep a differnt contribute setions inside contrib.md file for fonts also, also for update/replace etc all other arguments
+
+compare for duplicates by removing all extra space, symbols etc, first do for one line and if true and then compare whole file
+I can check programatically that whether the script is latin or not
+add data json at last in database folder files
+
+trans with vers or chap vers , doesn't have to be 6236 lines
+
+run python lantin translate script from create command itself, skip for latin script langs and langs which google does support latin eg: urdu etc, no need to skip ,i can check by checking with few first lines and its response is latin or not
+
+editions.json etc should not be edited directly, but rather by adding json info to the orginal file and then updating through script 
+
+json is optional, and without authorname it can be some generic name and language can be detected with google translate
+
+some languages are not supported by gtranslate, translating those will cause gtranslate to detect it as a different langugae
+
+script should also check for multiple numbers at beginning,. by brute force to check pattern and see which number is target, i think linebyline and number increment check is enough, chap verse is required only in case of lines are randomly placed
+sometimes in rare cases we might already have latin translation, in that case it should not generate latin(there is no need to make this functionality as it is rarest case in machine generated trans)(append 1 to the authorname in link for newly added manual made latin or maybe next to la, but it may make thigns ambigous)
+
+If gtranslate fails in future, I can still use playwright, might have to use mother 4g / vpn if google blocks IP
+
+Add multiple update arg options
+
+no footnotes, translater should understand by himself
+
+
+
+If I get to know the author name later of trans, I won't be able to change it, as url will get changed, but I can add in comments, have to add that logic in script
+
+update connot work like delete and create, it should use the old file url and cannot modify the old file url, so that it doesn't break the api url, but it can update the trans text and authorname etc
+Script can auto detect which old file needs to be replaced, by randomly selecting subscript
+
+don't let people know it's optional to set json, only tell at last in contribute, that they can skip those values for which they don't have write values
+
+auto trim the texts from json keys and vals
+script should overwrite the old values on reruning, if there was error in the process last time
+
+store output log in a file or folder, to save errors etc, so for reviewing a can check the error
+
+Before completing this also add machine thing, and then close this project, and then slowly I can add more trans, when I get time
+
+add mutiple delete args
+
+log will save what operations like create etc and the command line args etc entered by the user, to see what was done
+
+If I want people to contribute in future, I should make the script and steps easy
+
+we will also save original files used, incase we need in future (not sure, it may waste memory)
+
+if json was not found, we will make a json and use that instead
+keep filename in database as editions name
+
+In case the latin creation fails, due to some reason, like ip block, note down the edition for which latin is to be created and create latin on next script create run, also let the user know other files for which latin was not created, it was created in this run
+
+also check latin form exists or not if duplicate is found, if not we will generate one, if the arg was create, also on update arg we may have to do it and also for delete arg we have to consider latin
+
+do not include controversial translations (see list from here: https://islamawakened.com/quran/4/34/) for example in tanzil.net, there is translation of Ahmed Raza Khan Barelvi
+
+it is also possible, that a person may keep empty string or only space as value for json key, so have to check for that also by trimming
+
+people should not change the api data manually, for everything scripts have to be used, if there is a problem which script isn't solving raise the issue at github so that I can fix the script to support your use case
+
+have to sanitize the eng trans before creating machine author trans(this is important so that it doesn't translate verbateim, and it will be big mess then)
+
+if update doesn't file the right file, I will have to manually give two filenames within quotes and delimiter like |
+
+atlast also test the script at linux
+
+standard json
+
+have to test the script rigrously to make sure it doesn't break
+
+now I have to generate the files in their dirs and then update the listings , and atlast put in database folder
+
+what if two authornames are same, then it will have two folder or maybe the script may overrite the old one, have to add logic for this to add one or something to avoid that
+
+script should be able to auto regenerate the whole listings, even if there was error last time or for eg: two people send PR, the script should be able to generate correct listings by running empty create
+
+
+
+script intelligent to update latin only that which changed (only for gtranslate thing to avoid unnecceassy network usage)
+
+
+Not sure i should make like {chap:4,ver:3,text:data} easier to read, or nested type where memory used is less like, chaps{1:{ver:{text:data}}, but this is not read friendly, gzip compress will take case of most of these issues, I should target  readability efficiently
+
+keep skeleton/structure json with hizb, manzil etc and no surah text but with verse number and chapter number to make easy for people to know whether this verse is part of hizb ,juz etc (eg: http://api.alquran.cloud/v1/quran/en.sahih  , create a simpler variant of it,so it's easy to understand, do same for quraninfo, so there is a standard and people can understand)
+
+remove restyledio bot from qapi repo
+
+
+author name should be in english alpahbets/latin alphabets
+
+during create, if same endpoint is found ,add 1 to author endpoint to make it unique and not overrite
+
+
+
+strip bismillah to follow standards, or maybe keep bismillah at chap 0,verse0 (I think it's better to not keep it)
+
+
+save generated latin also in database
+
+regex cover brackets having space and numbers or add hidden  arg or inside code to skip regex cleaning
+regeneration logic 
+
+have to think ,I should add 1 to la or author on two la trans
+
+sometimes in future I might need to update the whole database again due to some bug in script ,so keep update intelligent
+
+have two methods isLatin and isDiacritical(general method to check diacritics)
+
+add language in editions.json and other imp details
+
+trans detect result send by google are mostly iso-639-1, some are iso-639-2, and chinese is zh-ch
+First lower casing the result, for two letters return check with iso-639-1, for three letters return check with iso-639-2, for more than 3 letters, check iso-639-2 or iso-639-1 contains in the string, check with google languages supported list first
+
+bulk trans with less than 15k chars works fine , send the text with newline char to divide
+just make sure there are no errors in trans , see it when making machine trans
+
+
+languages which were not translated yet can be done using googles vision api or can use google lens(bluestacks, gui test tool ,tasker, Selendroid,Espresso, appium(looks good), UI Automator, monkeyrunner, testproject etc), make multi langauge ocr project in future(google lens, and app on pc and give images and it will trans)(but will do this later after making qsites etc)(many sources I have left, have to research again later to download pdf non recognizable texts, also down from https://publications-img.qurancomplex.gov.sa/ https://qurancomplex.gov.sa/kfgqpc-quran-translate/ https://qurancomplex.gov.sa/category/kfgqpc-quran-translate/ (albanian not yet download, only fetch if I don't have that copy in api or already downlaoded) and research more, don't translate for which I already have)(compare tesssract result with google lens , https://github.com/tesseract-ocr/tesseract , I can use tesseract ,tesseract imagename outputname -l langiniso-2 , I will have to modify the image or crop it before feeding to tesseract, also , the numbers are not recognized, so have to detect which verse belong to which maybe by using google translate and quran verse detection and/or using some other local logic, refer docs to see things that can be done with tesseract),better use Abbyy fine reader, select the language and then ocr, it will be precise, for langs not supported by Abby I can use tesseract
+https://www.geeksforgeeks.org/line-detection-python-opencv-houghline-method/ (go and again search the web same time i did before, this time for images pdf, also see https://www.quran-pdf.com/en/ /voiceofquran.info)  ,search opencv
+ocr the langauge books for which there is no or have 1-2 translations
+
+
+
+
+fonts parser https://github.com/opentypejs/opentype.js
+
+cannot use gtrans to detect latin or not, have to use local logic, for example if we use pronunciation returned by gtrans, then it will be empty for latin aswell as some langs like urdu etc
+
+keep error detection and logging inbuilt in script
+if the script is chinese, append in comment the script used is traditional or simplified, do this via script or in editions.json language keep chineses(traditional) , chineses(simplified)
+
+for latin extra, I will have to add 1  at la side, to avoid confusion, and add 1 to author to new trans
+
+make lang detect and lang latin gen and standalone eng to machine and latin script, also ara-machine to eng to generate english (or maybe use mustafa khattab in machine)(machine can be collaboralty changed towards simplicity)
+Now I will map returned lang with iso and if lang is chinese also check for chinese whether traditional or not, if user gives spelling mistake in lang, will detect lang
+
+Have to change latingen code for 10 at a time thing and hopefully things will work fine, gtranslate for only those langs for which there is no translation and ask for their contributions, maybe keep machines.json
+to list all machine trans that requires contribution
+
+maybe use changelog in qapi repo (not sure)
+
+add generation logic,clean entangled code
+
+read and clean the code comments, I have written some important points to implement in there which I may forget later
+
+This is better for future changes without breaking the client,later I can add more things in the same json without breaking changes:
+{"elements":[
+   {"keyA1":"valA", "keyB1":"valB"}
+  ,{"keyA2":"valA", "keyB2":"valB"}
+  ,{"keyA3":"valA", "keyB3":"valB"}
+]}
+https://stackoverflow.com/a/19623421/2437224
+
+add var to all variables,everywhere in loops, func, global etc to avoid errors
+
+special chars, diacritics etc should be removed from edition name, otherwise folder with editionanme will have special chars ,creating unnecceassy problems
+don't sanitize the author name in author, as it may contain comma etc, for multiple authornames, but maybe remove the diacritics
+
+write comments in code, so I can debug it after years also
+clean code, refactor, add comments etc
+
+sorting editions,fonts should not break the code, so make the structure in that way and also modify other jsons(iso lang, google codeslang) in same way to accomated future changes easily
+use underscore in editions_name key to support many langs
+
+after script running is finished show users the editionnames created and their original files names
+
+Not sure I should throw error or console.error to continue the execution with error
+
+langauge script has direction, for example if lang is written in latin then it's ltr, if it's in arabic it's rtl
+
+
+have to save the directions in some json, as its expensive to calculate for all files in dir listing generation, save in editionmeta
+rewrite dircheck code inside apiscript
+
+also have to santize lines like a.)  or a) at beginning
+For update i can use with same filename as editionname to be replaced, this way I don't have to search in all database and give false positives which will replace a trans which doesn't have to be replacced
+
+all files in start folder should be in utf-8 format and also all created files
+
+may be keep regenerate as arg, only use incase of error or something, and edition creation etc can be done statically to save time, do whichever is good, maybe always regenerating is better to keep db in stable state
+
+use while(--i!=-100); for json check use slice instead
+
+when adding new code refactoring is important otherwise, for ease I might add new code easily but later it will be hard to debug and it will be non efficient code like NMS, do TDD philosopy
+change names  of methods, filenames,vars ,directory struture etc to better realable names ,also keep methods etc where they logically belongs , use vars for numbers,path things repeated manytimes, directly using number makes it hard to understand code and change the code(refer magic number programming) , use eslint to check for problems in code
+
+have to add dircheck for rtl/ltr and add streaming in code to fetch json from end of file and do away with editions meta
+
+make timelimit to complete this within that maybe 26th-may is great
+or use both links min and normal
+
+maybe we can use get multiple files in jsdelivr at same time, but parse will break for json, so have to see, https://cdn.jsdelivr.net/combine/gh/risan/quran-json@master/package.json,gh/risan/quran-json@master/json/surahs/1.json
+(it works great for js css etc)
+I can make it work for json also by having one json file with {"name": + call the json you want + json file with , and repeat and atlast + json file with } (no need to do , don't waste time, its best to use only in js, css etc) 
+we can access old files(or deleted files) by using commit number in the link or using old jsderlivr link
+
+also write how script works in github, for future understandings and debugging etc
+
+add END: in log file on end
+
+have to add duplicate latins for qurans(uthmani etc), to follow standardization, turn the duplicate search off when adding duplicate values, make it easy for future also
+
+add support to pick up editionname on args and also add support to create latin or not, document the hidden things only inside the script ,also write note to not use it
+
+It's better to save the files specific part from linebyline and also it's json and it's filename, so that I can use them as many times I want in the program, it's better to use dir regenerate always (for example, lets say for some reason new files are added but due to some error it did not get written in editions.json, those newly created editions will never reflect in editions.json, so regenrating always is better to keep repo consistent)(update doesn't need this only create)
+Add efficient latin creation for update
+
+ latin generation, update arg
+add option in update for only json update also to avoid regenerating whole thing again (not required though, latin is important for now)
+
+add rename edition option
+
+keep two different repos one with information and other with data, to avoid direct takedown of repo due to unacceptable usage (have to think of name and should do it or not, frontend name could be q api project, have to think should do or not)
+keep the wordings in readme.md such that no one comes and bites you
+I will use the normal repo and not two repos, as it will create complexity in contribution
+
+I can use playwright to fetch google iso codes on the fly
+
+all the arguments of the script can take either multiple files(create, update) or multiple argunments using array(search, delete)
+
+size on github of repo is 1/3 of size of files or 30% (not size on disk but size of file)
+
+rename the varialbes , test the code, write documentation on how to use the script
+
+when updating or creating quran i will have to disalbe latingeneartion
+
+maybe i can keep quran-la as qutranslitration, this will help me from doing complicated things and keep things simple
+
+start strechly
+
+for api prototype tool(fonts), I can use fontface web api and orhttps://github.com/typekit/webfontloader
+
+
+for database download give link of jsdelivr dirlistings for this, if it works
+https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@v1/qdata/  (it doesn't work for very large repos)
+Have to use tags to get the dir listings for atleast now, maybe later, master can also be fetch using thing
+or it's better to tell them to fork this repo to get copy of it and /or download the repo and files are in database folder, just you github database folder link, just tell the user to git clone or click on the code -> download zip button
+
+seek ref in god in beginning
+
+test and start adding the quran and it's translitrations (I will have to use/modify the flags during addtions)
+
+tell people to fork my repo and pull upstream updates and test and make sure all translations there. why because lets say i delete a trans(many reasons, like controversial author, ahmaddiya trans, request by author to delete etc), just tell them what will be the url
+or tell them to code logic in such a way that if an edition goes down it doesn't effect them, (for example use editinos.json to check the available of json and then fetch it instead of directly fetching it, I think jsdelivr will not delete the json even if I delete it, it's always available in jsdelivr permenant storage, check availablity of this after few days, https://cdn.jsdelivr.net/gh/fawazahmed0/LargeTxtFile@master/test.txt, it was deleted by me, but still avaialbe as told in jsdelivr site)
+
+**In the name of God, who have guided me to do this work and I seek refuge in him from the evil of his creation**
+
+maybe also make pictures animation with recition on website, so it takes less data size in addition to video yt plan, (have to add wav files in q-api repo to accomplich this, do later)(can use low quality mishary and only verse by verse support, add streaming support and should seek instantly anywhere)
+(This website doesn't have id3 metadata https://everyayah.com/recitations_ayat.html , quranicaudio.com seems to have that, attach id3 latest version metadata to support streaming etc, https://github.com/43081j/id3, can emmbed images into mp3 also, https://github.com/aadsm/jsmediatags)(not really required, youtube will be good enough)
+
+remove trans with holy war, infidel in it
+
+make fontsgen new repo, so that anyone can use it to generate fonts from fontsquirrel and also use as api(not really required,not sure people will use it or not)
+
+see user requests in api and add those in my api before beginning
+remove q-info-verses, modify q-info.json to accomate https://github.com/islamic-network/api.alquran.cloud/issues/14 
+parse qurancomplex hafs thing to have wakf , https://github.com/risan/quran-json/issues/6
+use all diff qurans from everywhere and add to repo
+use numbers/ints in json instead of strings: https://github.com/semarketir/quranjson/issues/37
+(above done)
+don't use uthmani from tanzil due to mistakes
+
+add qa and latin,use script to add json to files, have to add sources etc properly, manually will be pain(make tanzil parser), make readme and contribute docs
+add khalid hosney and quran academy versions also
+
+release date on 26th 08(i.e today)
+https://www.dropbox.com/developers/documentation/http/documentation
+https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api
+https://alquran.cloud/api
+https://pandao.github.io/editor.md/en.html
+refer more api docs to get some idea on readme.md structure
+
+Note to myself: I will have to update all the links in repo and in readme.md and other .md files when I change the branch to newer version
+
+(I can generate around 75-100 editions in github actions at a time)
+
+https://www.elharrakfonts.com/(replied to me ,named el mohammed)
+
+make simple way to edit the trans for correction, maybe add this in the interface of q and fonts
+
+later ocr the langauge books for which there is no or have 1-2 translations,also downlaod files from http://albirr.in/quran-pdf/ (high quality) (contact https://quranenc.com/en/home, when I ocr kfcq greek etc)
+later make one with artifical text simplification/apache joshua(also feed all trans,get the simplest parapharase)(if there is a simpler version available, then don't make one)(make easy site/place for easily edit the trans)
+later, if latin generation error.txt translation list is getting huge,then make a folder which contains those translations , so that I can easily take from there and run update on them(also add the steps in contribute, to make task easier)(Only do it if list is getting huge)
+
+
