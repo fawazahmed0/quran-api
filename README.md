@@ -4,6 +4,8 @@
   <img width="460" height="300" src="https://github.com/fawazahmed0/quran-api/raw/1/quran.jpg">
 </p>
 
+[![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/quran-api/badge)](https://www.jsdelivr.com/package/gh/fawazahmed0/quran-api)
+[![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/quran-api/badge/rank)](https://www.jsdelivr.com/package/gh/fawazahmed0/quran-api)
 
 **In the name of God, who have guided me to do this work and I seek refuge in him, sufficient is God as protector**
 
