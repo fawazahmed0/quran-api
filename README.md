@@ -7,7 +7,7 @@
 [![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/quran-api/badge)](https://www.jsdelivr.com/package/gh/fawazahmed0/quran-api)
 [![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/quran-api/badge/rank)](https://www.jsdelivr.com/package/gh/fawazahmed0/quran-api)
 
-**In the name of God, who have guided me to do this work and I seek refuge in him, sufficient is God as protector**
+**In the name of God, who have guided me to do this work**
 
 
 This repo contains collection of Quran Translations and to allow development of websites, apps etc, it is structured in REST Architectural Style.
