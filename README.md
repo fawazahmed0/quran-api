@@ -56,6 +56,8 @@ The above formats also work for fallback i.e if `.min.json` link fails, you can 
 > Get the whole chapter 5:<br>
 [https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la/5.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la/5.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la/5.json")
 
+> Get the whole chapter 5 in minified format:<br>
+[https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la/5.min.json](https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la/5.min.json "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ben-muhiuddinkhan-la/5.min.json")
 
 - `/editions/{editionName}/{ChapterNo}/{VerseNo}` <br>
 > Get Chapter 5 verse 10:<br>
