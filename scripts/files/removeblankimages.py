@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 import os
 
-
+# In some cases you may need to do binary threshold https://docs.opencv.org/master/d7/d4d/tutorial_py_thresholding.html
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
