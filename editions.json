@@ -1239,6 +1239,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadtaqiusm.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-muhammadtaqiusm.min.json"
     },
+    "eng_mustafakhattaba": {
+        "name": "eng-mustafakhattaba",
+        "author": "Mustafa Khattab Allah Edition",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mustafakhattaba.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mustafakhattaba.min.json"
+    },
+    "eng_mustafakhattabg": {
+        "name": "eng-mustafakhattabg",
+        "author": "Mustafa Khattab God Edition",
+        "language": "English",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mustafakhattabg.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/eng-mustafakhattabg.min.json"
+    },
     "eng_njdawood": {
         "name": "eng-njdawood",
         "author": "N J Dawood",
