@@ -33,7 +33,7 @@ The Endpoints Supports HTTP GET Method and returns the data in  two formats:
 
 The above formats also work for fallback i.e if `.min.json` link fails, you can use `.json` link and vice versa
 
-**Note:** You should include fallback mechanism in your code, [to avoid issues](https://github.com/fawazahmed0/quran-api/issues/27)
+**Warning:** You should include fallback mechanism in your code, [to avoid issues](https://github.com/fawazahmed0/quran-api/issues/27)
 
 **Endpoints:**
 
