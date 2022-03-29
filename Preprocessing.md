@@ -23,6 +23,8 @@ After you have got good quality tiff images, then those can be converted into te
 - [Regular Expressions](https://regexone.com/):<br>
 You have to be good in using regular expressions, this will help in solving some of the toughest problems which cannot be solved programmatically.
 
+- [Github Desktop](https://desktop.github.com/):<br>
+Create a new repo at github to store the files to be preprocessed and to the preprocessing take inside the git repo(i.e after every changes to the files, commit the changes), this will help you to go back to the initial file, incase you did some mistakes and also it will help you to see what things have been changed using Github Desktop gui
 
 I have written few notes for myself and they are pretty unstructured, incase you want to have a look, you can see them [here](https://github.com/fawazahmed0/quran-api/blob/1/scripts/files/ocr%20and%20pdf%20coord%20extract/notes.txt)
 
