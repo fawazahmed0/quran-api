@@ -21,6 +21,7 @@
 - Croatian
 - Czech
 - Dagbani
+- Dari
 - Danish
 - Divehi
 - Dutch
@@ -29,6 +30,7 @@
 - Filipino
 - Finnish
 - French
+- Fulah
 - Ganda
 - German
 - Gujarati
@@ -51,6 +53,7 @@
 - Kurdish
 - Kurmanji
 - Latin
+- Lingala
 - Luyia
 - Macedonian
 - Malay
@@ -69,6 +72,7 @@
 - Romanian
 - Rundi
 - Russian
+- Serbian
 - Shona
 - Sindhi
 - Sinhala
@@ -84,12 +88,14 @@
 - Telugu
 - Thai
 - Turkish
+- Twi
 - Uighur
 - Ukrainian
 - Urdu
 - Uzbek
 - Vietnamese
 - Xhosa
+- Yau
 - Yoruba
 - Zulu
 
