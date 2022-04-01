@@ -1,0 +1,3349 @@
+{
+    "manzils": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "text": "Bismi Allāhi Ar-Raĥmāni Ar-Raĥīmi"
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "text": "Al-Ĥamdu Lillāhi Rabbi Al-`Ālamīna"
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "text": "Ar-Raĥmāni Ar-Raĥīmi"
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "text": "Māliki Yawmi Ad-Dīni"
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "text": "Īyāka Na`budu Wa 'Īyāka Nasta`īnu"
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "text": "Ihdinā Aş-Şirāţa Al-Mustaqīma"
+        },
+        {
+            "chapter": 1,
+            "verse": 7,
+            "text": "Şirāţa Al-Ladhīna 'An`amta `Alayhim Ghayri Al-Maghđūbi `Alayhim Wa Lā Ađ-Đāllīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 1,
+            "text": "Alif-Lām-Mīm"
+        },
+        {
+            "chapter": 2,
+            "verse": 2,
+            "text": "Dhālika Al-Kitābu Lā Rayba Fīhi Hudáan Lilmuttaqīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 3,
+            "text": "Al-Ladhīna Yu'uminūna Bil-Ghaybi Wa Yuqīmūna Aş-Şalāata Wa Mimmā Razaqnāhum Yunfiqūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 4,
+            "text": "Wa Al-Ladhīna Yu'uminūna Bimā 'Unzila 'Ilayka Wa Mā 'Unzila Min Qablika Wa Bil-'Ākhirati Hum Yūqinūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 5,
+            "text": "Ūlā'ika `Alá Hudáan Min Rabbihim Wa 'Ūlā'ika Humu Al-Mufliĥūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 6,
+            "text": "Inna Al-Ladhīna Kafarū Sawā'un `Alayhim 'A 'Andhartahum 'Am Lam Tundhirhum Lā Yu'uminūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 7,
+            "text": "Khatama Allāhu `Alá Qulūbihim Wa `Alá Sam`ihim Wa `Alá 'Abşārihim Ghishāwatun Wa Lahum `Adhābun `Ažīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 8,
+            "text": "Wa Mina An-Nāsi Man Yaqūlu 'Āmannā Billāhi Wa Bil-Yawmi Al-'Ākhiri Wa Mā Hum Bimu'uminīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 9,
+            "text": "Yukhādi`ūna Allāha Wa Al-Ladhīna 'Āmanū Wa Mā Yakhda`ūna 'Illā 'Anfusahum Wa Mā Yash`urūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 10,
+            "text": "Fī Qulūbihim Marađun Fazādahumu Allāhu Marađāan Wa Lahum `Adhābun 'Alīmun Bimā Kānū Yakdhibūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 11,
+            "text": "Wa 'Idhā Qīla Lahum Lā Tufsidū Fī Al-'Arđi Qālū 'Innamā Naĥnu Muşliĥūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 12,
+            "text": "Alā 'Innahum Humu Al-Mufsidūna Wa Lakin Lā Yash`urūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 13,
+            "text": "Wa 'Idhā Qīla Lahum 'Āminū Kamā 'Āmana An-Nāsu Qālū 'Anu'uminu Kamā 'Āmana As-Sufahā'u 'Alā 'Innahum Humu As-Sufahā'u Wa Lakin Lā Ya`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 14,
+            "text": "Wa 'Idhā Laqū Al-Ladhīna 'Āmanū Qālū 'Āmannā Wa 'Idhā Khalaw 'Ilá Shayāţīnihim Qālū 'Innā Ma`akum 'Innamā Naĥnu Mustahzi'ūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 15,
+            "text": "Allāhu Yastahzi'u Bihim Wa Yamudduhum Fī Ţughyānihim Ya`mahūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 16,
+            "text": "Ūlā'ika Al-Ladhīna Ashtaraw Ađ-Đalālata Bil-Hudá Famā Rabiĥat Tijāratuhum Wa Mā Kānū Muhtadīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 17,
+            "text": "Mathaluhum Kamathali Al-Ladhī Astawqada Nārāan Falammā 'Ađā'at Mā Ĥawlahu Dhahaba Allāhu Binūrihim Wa Tarakahum Fī Žulumātin Lā Yubşirūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 18,
+            "text": "Şummun Bukmun `Umyun Fahum Lā Yarji`ūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 19,
+            "text": "Aw Kaşayyibin Mina As-Samā'i Fīhi Žulumātun Wa Ra`dun Wa Barqun Yaj`alūna 'Aşābi`ahum Fī 'Ādhānihim Mina Aş-Şawā`iqi Ĥadhara Al-Mawti Wa Allāhu Muĥīţun Bil-Kāfirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 20,
+            "text": "Yakādu Al-Barqu Yakhţafu 'Abşārahum Kullamā 'Ađā'a Lahum Mashaw Fīhi Wa 'Idhā 'Ažlama `Alayhim Qāmū Wa Law Shā'a Allāhu Ladhahaba Bisam`ihim Wa 'Abşārihim 'Inna Allāha `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 21,
+            "text": "Yā 'Ayyuhā An-Nāsu A`budū Rabbakumu Al-Ladhī Khalaqakum Wa Al-Ladhīna Min Qablikum La`allakum Tattaqūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 22,
+            "text": "Al-Ladhī Ja`ala Lakumu Al-'Arđa Firāshāan Wa As-Samā'a Binā'an Wa 'Anzala Mina As-Samā'i Mā'an Fa'akhraja Bihi Mina Ath-Thamarāti Rizqāan Lakum Falā Taj`alū Lillāhi 'Andādāan Wa 'Antum Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 23,
+            "text": "Wa 'In Kuntum Fī Raybin Mimmā Nazzalnā `Alá `Abdinā Fa'tū Bisūratin Min Mithlihi Wa Ad`ū Shuhadā'akum Min Dūni Allāhi 'In Kuntum Şādiqīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 24,
+            "text": "Fa'in Lam Taf`alū Wa Lan Taf`alū Fa Attaqū An-Nāra Allatī Waqūduhā An-Nāsu Wa Al-Ĥijāratu 'U`iddat Lilkāfirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 25,
+            "text": "Wa Bashiri Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti 'Anna Lahum Jannātin Tajrī Min Taĥtihā Al-'Anhāru Kullamā Ruziqū Minhā Min Thamaratin Rizqāan Qālū Hādhā Al-Ladhī Ruziqnā Min Qablu Wa 'Utū Bihi Mutashābihāan Wa Lahum Fīhā 'Azwājun Muţahharatun Wa Hum Fīhā Khālidūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 26,
+            "text": "Inna Allāha Lā Yastaĥyī 'An Yađriba Mathalāan Mā Ba`ūđatan Famā Fawqahā Fa'ammā Al-Ladhīna 'Āmanū Faya`lamūna 'Annahu Al-Ĥaqqu Min Rabbihim Wa 'Ammā Al-Ladhīna Kafarū Fayaqūlūna Mādhā 'Arāda Allāhu Bihadhā Mathalāan Yuđillu Bihi Kathīrāan Wa Yahdī Bihi Kathīrāan Wa Mā Yuđillu Bihi 'Illā Al-Fāsiqīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 27,
+            "text": "Al-Ladhīna Yanquđūna `Ahda Allāhi Min Ba`di Mīthāqihi Wa Yaqţa`ūna Mā 'Amara Allāhu Bihi 'An Yūşala Wa Yufsidūna Fī Al-'Arđi 'Ūlā'ika Humu Al-Khāsirūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 28,
+            "text": "Kayfa Takfurūna Billāhi Wa Kuntum 'Amwātāan Fa'aĥyākum Thumma Yumītukum Thumma Yuĥyīkum Thumma 'Ilayhi Turja`ūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 29,
+            "text": "Huwa Al-Ladhī Khalaqa Lakum Mā Fī Al-'Arđi Jamī`āan Thumma Astawá 'Ilá As-Samā'i Fasawwāhunna Sab`a Samāwātin Wa Huwa Bikulli Shay'in `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 30,
+            "text": "Wa 'Idh Qāla Rabbuka Lilmalā'ikati 'Innī Jā`ilun Fī Al-'Arđi Khalīfatan Qālū 'Ataj`alu Fīhā Man Yufsidu Fīhā Wa Yasfiku Ad-Dimā'a Wa Naĥnu Nusabbiĥu Biĥamdika Wa Nuqaddisu Laka Qāla 'Innī 'A`lamu Mā Lā Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 31,
+            "text": "Wa `Allama 'Ādama Al-'Asmā'a Kullahā Thumma `Arađahum `Alá Al-Malā'ikati Faqāla 'Anbi'ūnī Bi'asmā'i Hā'uulā' 'In Kuntum Şādiqīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 32,
+            "text": "Qālū Subĥānaka Lā `Ilma Lanā 'Illā Mā `Allamtanā 'Innaka 'Anta Al-`Alīmu Al-Ĥakīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 33,
+            "text": "Qāla Yā 'Ādamu 'Anbi'hum Bi'asmā'ihim Falammā 'Anba'ahum Bi'asmā'ihim Qāla 'Alam 'Aqul Lakum 'Innī 'A`lamu Ghayba As-Samāwāti Wa Al-'Arđi Wa 'A`lamu Mā Tubdūna Wa Mā Kuntum Taktumūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 34,
+            "text": "Wa 'Idh Qulnā Lilmalā'ikati Asjudū Li'dama Fasajadū 'Illā 'Iblīsa 'Abá Wa Astakbara Wa Kāna Mina Al-Kāfirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 35,
+            "text": "Wa Qulnā Yā 'Ādamu Askun 'Anta Wa Zawjuka Al-Jannata Wa Kulā Minhā Raghadāan Ĥaythu Shi'tumā Wa Lā Taqrabā Hadhihi Ash-Shajarata Fatakūnā Mina Až-Žālimīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 36,
+            "text": "Fa'azallahumā Ash-Shayţānu `Anhā Fa'akhrajahumā Mimmā Kānā Fīhi Wa Qulnā Ahbiţū Ba`đukum Liba`đin `Adūwun Wa Lakum Fī Al-'Arđi Mustaqarrun Wa Matā`un 'Ilá Ĥīnin"
+        },
+        {
+            "chapter": 2,
+            "verse": 37,
+            "text": "Fatalaqqá 'Ādamu Min Rabbihi Kalimātin Fatāba `Alayhi 'Innahu Huwa At-Tawwābu Ar-Raĥīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 38,
+            "text": "Qulnā Ahbiţū Minhā Jamī`āan Fa'immā Ya'tiyannakum Minnī Hudáan Faman Tabi`a Hudāya Falā Khawfun `Alayhim Wa Lā Hum Yaĥzanūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 39,
+            "text": "Wa Al-Ladhīna Kafarū Wa Kadhabū Bi'āyātinā 'Ūlā'ika 'Aşĥābu An-Nāri Hum Fīhā Khālidūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 40,
+            "text": "Yā Banī 'Isrā'īla Adhkurū Ni`matiya Allatī 'An`amtu `Alaykum Wa 'Awfū Bi`ahdī 'Ūfi Bi`ahdikum Wa 'Īyāya Fārhabūni"
+        },
+        {
+            "chapter": 2,
+            "verse": 41,
+            "text": "Wa 'Āminū Bimā 'Anzaltu Muşaddiqāan Limā Ma`akum Wa Lā Takūnū 'Awwala Kāfirin Bihi Wa Lā Tashtarū Bi'āyātī Thamanāan Qalīlāan Wa 'Īyāya Fa Attaqūni"
+        },
+        {
+            "chapter": 2,
+            "verse": 42,
+            "text": "Wa Lā Talbisū Al-Ĥaqqa Bil-Bāţili Wa Taktumū Al-Ĥaqqa Wa 'Antum Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 43,
+            "text": "Wa 'Aqīmū Aş-Şalāata Wa 'Ātū Az-Zakāata Wa Arka`ū Ma`a Ar-Rāki`īna"
+        },
+        {
+            "chapter": 2,
+            "verse": 44,
+            "text": "Ata'murūna An-Nāsa Bil-Birri Wa Tansawna 'Anfusakum Wa 'Antum Tatlūna Al-Kitāba 'Afalā Ta`qilūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 45,
+            "text": "Wa Asta`īnū Biş-Şabri Wa Aş-Şalāati Wa 'Innahā Lakabīratun 'Illā `Alá Al-Khāshi`īna"
+        },
+        {
+            "chapter": 2,
+            "verse": 46,
+            "text": "Al-Ladhīna Yažunnūna 'Annahum Mulāqū Rabbihim Wa 'Annahum 'Ilayhi Rāji`ūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 47,
+            "text": "Yā Banī 'Isrā'īla Adhkurū Ni`matiya Allatī 'An`amtu `Alaykum Wa 'Annī Fađđaltukum `Alá Al-`Ālamīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 48,
+            "text": "Wa Attaqū Yawmāan Lā Tajzī Nafsun `An Nafsin Shay'āan Wa Lā Yuqbalu Minhā Shafā`atun Wa Lā Yu'ukhadhu Minhā `Adlun Wa Lā Hum Yunşarūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 49,
+            "text": "Wa 'Idh Najjaynākum Min 'Āli Fir`awna Yasūmūnakum Sū'a Al-`Adhābi Yudhabbiĥūna 'Abnā'akum Wa Yastaĥyūna Nisā'akum Wa Fī Dhālikum Balā'un Min Rabbikum `Ažīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 50,
+            "text": "Wa 'Idh Faraqnā Bikumu Al-Baĥra Fa'anjaynākum Wa 'Aghraqnā 'Āla Fir`awna Wa 'Antum Tanžurūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 51,
+            "text": "Wa 'Idh Wā`adnā Mūsá 'Arba`īna Laylatan Thumma Attakhadhtumu Al-`Ijla Min Ba`dihi Wa 'Antum Žālimūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 52,
+            "text": "Thumma `Afawnā `Ankum Min Ba`di Dhālika La`allakum Tashkurūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 53,
+            "text": "Wa 'Idh 'Ātaynā Mūsá Al-Kitāba Wa Al-Furqāna La`allakum Tahtadūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 54,
+            "text": "Wa 'Idh Qāla Mūsá Liqawmihi Yā Qawmi 'Innakum Žalamtum 'Anfusakum Biāttikhādhikumu Al-`Ijla Fatūbū 'Ilá Bāri'ikum Fāqtulū 'Anfusakum Dhālikum Khayrun Lakum `Inda Bāri'ikum Fatāba `Alaykum 'Innahu Huwa At-Tawwābu Ar-Raĥīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 55,
+            "text": "Wa 'Idh Qultum Yā Mūsá Lan Nu'umina Laka Ĥattá Nará Allāha Jahratan Fa'akhadhatkumu Aş-Şā`iqatu Wa 'Antum Tanžurūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 56,
+            "text": "Thumma Ba`athnākum Min Ba`di Mawtikum La`allakum Tashkurūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 57,
+            "text": "Wa Žallalnā `Alaykumu Al-Ghamāma Wa 'Anzalnā `Alaykumu Al-Manna Wa As-Salwá Kulū Min Ţayyibāti Mā Razaqnākum Wa Mā Žalamūnā Wa Lakin Kānū 'Anfusahum Yažlimūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 58,
+            "text": "Wa 'Idh Qulnā Adkhulū Hadhihi Al-Qaryata Fakulū Minhā Ĥaythu Shi'tum Raghadāan Wa Adkhulū Al-Bāba Sujjadāan Wa Qūlū Ĥiţţatun Naghfir Lakum Khaţāyākum Wa Sanazīdu Al-Muĥsinīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 59,
+            "text": "Fabaddala Al-Ladhīna Žalamū Qawlāan Ghayra Al-Ladhī Qīla Lahum Fa'anzalnā `Alá Al-Ladhīna Žalamū Rijzāan Mina As-Samā'i Bimā Kānū Yafsuqūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 60,
+            "text": "Wa 'Idh Astasqá Mūsá Liqawmihi Faqulnā Ađrib Bi`aşāka Al-Ĥajara Fānfajarat Minhu Athnatā `Ashrata `Aynāan Qad `Alima Kullu 'Unāsin Mashrabahum Kulū Wa Ashrabū Min Rizqi Allāhi Wa Lā Ta`thaw Fī Al-'Arđi Mufsidīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 61,
+            "text": "Wa 'Idhi Qultum Yā Mūsá Lan Naşbira `Alá Ţa`āmin Wāĥidin Fād`u Lanā Rabbaka Yukhrij Lanā Mimmā Tunbitu Al-'Arđu Min Baqlihā Wa Qiththā'ihā Wa Fūmihā Wa `Adasihā Wa Başalihā Qāla 'Atastabdilūna Al-Ladhī Huwa 'Adná Bial-Ladhī Huwa Khayrun Ahbiţū Mişrāan Fa'inna Lakum Mā Sa'altum Wa Đuribat `Alayhimu Adh-Dhillatu Wa Al-Maskanatu Wa Bā'ū Bighađabin Mina Allāhi Dhālika Bi'annahum Kānū Yakfurūna Bi'āyāti Allāhi Wa Yaqtulūna An-Nabīyīna Bighayri Al-Ĥaqqi Dhālika Bimā `Aşaw Wa Kānū Ya`tadūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 62,
+            "text": "Inna Al-Ladhīna 'Āmanū Wa Al-Ladhīna Hādū Wa An-Naşārá Wa Aş-Şābi'īna Man 'Āmana Billāhi Wa Al-Yawmi Al-'Ākhiri Wa `Amila Şāliĥāan Falahum 'Ajruhum `Inda Rabbihim Wa Lā Khawfun `Alayhim Wa Lā Hum Yaĥzanūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 63,
+            "text": "Wa 'Idh 'Akhadhnā Mīthāqakum Wa Rafa`nā Fawqakumu Aţ-Ţūra Khudhū Mā 'Ātaynākum Biqūwatin Wa Adhkurū Mā Fīhi La`allakum Tattaqūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 64,
+            "text": "Thumma Tawallaytum Min Ba`di Dhālika Falawlā Fađlu Allāhi `Alaykum Wa Raĥmatuhu Lakuntum Mina Al-Khāsirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 65,
+            "text": "Wa Laqad `Alimtumu Al-Ladhīna A`tadaw Minkum Fī As-Sabti Faqulnā Lahum Kūnū Qiradatan Khāsi'īna"
+        },
+        {
+            "chapter": 2,
+            "verse": 66,
+            "text": "Faja`alnāhā Nakālāan Limā Bayna Yadayhā Wa Mā Khalfahā Wa Maw`ižatan Lilmuttaqīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 67,
+            "text": "Wa 'Idh Qāla Mūsá Liqawmihi 'Inna Allāha Ya'murukum 'An Tadhbaĥū Baqaratan Qālū 'Atattakhidhunā Huzūan Qāla 'A`ūdhu Billāhi 'An 'Akūna Mina Al-Jāhilīn"
+        },
+        {
+            "chapter": 2,
+            "verse": 68,
+            "text": "Qālū Ad`u Lanā Rabbaka Yubayyin Lanā Mā Hiya Qāla 'Innahu Yaqūlu 'Innahā Baqaratun Lā Fāriđun Wa Lā Bikrun `Awānun Bayna Dhālika Fāf`alū Mā Tu'umarūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 69,
+            "text": "Qālū Ad`u Lanā Rabbaka Yubayyin Lanā Mā Lawnuhā Qāla 'Innahu Yaqūlu 'Innahā Baqaratun Şafrā'u Fāqi`un Lawnuhā Tasurru An-Nāžirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 70,
+            "text": "Qālū Ad`u Lanā Rabbaka Yubayyin Lanā Mā Hiya 'Inna Al-Baqara Tashābaha `Alaynā Wa 'Innā 'In Shā'a Allāhu Lamuhtadūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 71,
+            "text": "Qāla 'Innahu Yaqūlu 'Innahā Baqaratun Lā Dhalūlun Tuthīru Al-'Arđa Wa Lā Tasqī Al-Ĥartha Musallamatun Lā Shiyata Fīhā Qālū Al-'Āna Ji'ta Bil-Ĥaqqi Fadhabaĥūhā Wa Mā Kādū Yaf`alūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 72,
+            "text": "Wa 'Idh Qataltum Nafsāan Fa Addāra'tum Fīhā Wa Allāhu Mukhrijun Mā Kuntum Taktumūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 73,
+            "text": "Faqulnā Ađribūhu Biba`đihā Kadhālika Yuĥyī Allāhu Al-Mawtá Wa Yurīkum 'Āyātihi La`allakum Ta`qilūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 74,
+            "text": "Thumma Qasat Qulūbukum Min Ba`di Dhālika Fahiya Kālĥijārati 'Aw 'Ashaddu Qaswatan Wa 'Inna Mina Al-Ĥijārati Lamā Yatafajjaru Minhu Al-'Anhāru Wa 'Inna Minhā Lamā Yashaqqaqu Fayakhruju Minhu Al-Mā'u Wa 'Inna Minhā Lamā Yahbiţu Min Khashyati Allāhi Wa Mā Allāhu Bighāfilin `Ammā Ta`malūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 75,
+            "text": "Afataţma`ūna 'An Yu'uminū Lakum Wa Qad Kāna Farīqun Minhum Yasma`ūna Kalāma Allāhi Thumma Yuĥarrifūnahu Min Ba`di Mā `Aqalūhu Wa Hum Ya`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 76,
+            "text": "Wa 'Idhā Laqū Al-Ladhīna 'Āmanū Qālū 'Āmannā Wa 'Idhā Khalā Ba`đuhum 'Ilá Ba`đin Qālū 'Atuĥaddithūnahum Bimā Fataĥa Allāhu `Alaykum Liyuĥājjūkum Bihi `Inda Rabbikum 'Afalā Ta`qilūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 77,
+            "text": "Awalā Ya`lamūna 'Anna Allāha Ya`lamu Mā Yusirrūna Wa Mā Yu`linūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 78,
+            "text": "Wa Minhum 'Ummīyūna Lā Ya`lamūna Al-Kitāba 'Illā 'Amānīya Wa 'In Hum 'Illā Yažunnūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 79,
+            "text": "Fawaylun Lilladhīna Yaktubūna Al-Kitāba Bi'aydīhim Thumma Yaqūlūna Hādhā Min `Indi Allāhi Liyashtarū Bihi Thamanāan Qalīlāan Fawaylun Lahum Mimmā Katabat 'Aydīhim Wa Waylun Lahum Mimmā Yaksibūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 80,
+            "text": "Wa Qālū Lan Tamassanā An-Nāru 'Illā 'Ayyāmāan Ma`dūdatan Qul 'Āttakhadhtum `Inda Allāhi `Ahdāan Falan Yukhlifa Allāhu `Ahdahu 'Am Taqūlūna `Alá Allāhi Mā Lā Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 81,
+            "text": "Balá Man Kasaba Sayyi'atan Wa 'Aĥāţat Bihi Khaţī'atuhu Fa'ūlā'ika 'Aşĥābu An-Nāri Hum Fīhā Khālidūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 82,
+            "text": "Wa Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti 'Ūlā'ika 'Aşĥābu Al-Jannati Hum Fīhā Khālidūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 83,
+            "text": "Wa 'Idh 'Akhadhnā Mīthāqa Banī 'Isrā'īla Lā Ta`budūna 'Illā Allāha Wa Bil-Wālidayni 'Iĥsānāan Wa Dhī Al-Qurbá Wa Al-Yatāmá Wa Al-Masākīni Wa Qūlū Lilnnāsi Ĥusnāan Wa 'Aqīmū Aş-Şalāata Wa 'Ātū Az-Zakāata Thumma Tawallaytum 'Illā Qalīlāan Minkum Wa 'Antum Mu`riđūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 84,
+            "text": "Wa 'Idh 'Akhadhnā Mīthāqakum Lā Tasfikūna Dimā'akum Wa Lā Tukhrijūna 'Anfusakum Min Diyārikum Thumma 'Aqrartum Wa 'Antum Tash/hadūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 85,
+            "text": "Thumma 'Antum Hā'uulā' Taqtulūna 'Anfusakum Wa Tukhrijūna Farīqāan Minkum Min Diyārihim Tažāharūna `Alayhim Bil-'Ithmi Wa Al-`Udwāni Wa 'In Ya'tūkum 'Usārá Tufādūhum Wa Huwa Muĥarramun `Alaykum 'Ikhrājuhum 'A Fatu'uminūna Biba`đi Al-Kitābi Wa Takfurūna Biba`đin Famā Jazā'u Man Yaf`alu Dhālika Minkum 'Illā Khizyun Fī Al-Ĥayāati Ad-Dunyā Wa Yawma Al-Qiyāmati Yuraddūna 'Ilá 'Ashaddi Al-`Adhābi Wa Mā Allāhu Bighāfilin `Ammā Ta`malūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 86,
+            "text": "Ūlā'ika Al-Ladhīna Ashtaraw Al-Ĥayāata Ad-Dunyā Bil-'Ākhirati Falā Yukhaffafu `Anhumu Al-`Adhābu Wa Lā Hum Yunşarūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 87,
+            "text": "Wa Laqad 'Ātaynā Mūsá Al-Kitāba Wa Qaffaynā Min Ba`dihi Bir-Rusuli Wa 'Ātaynā `Īsá Abna Maryama Al-Bayyināti Wa 'Ayyadnāhu Birūĥi Al-Qudusi 'Afakullamā Jā'akum Rasūlun Bimā Lā Tahwá 'Anfusukum Astakbartum Fafarīqāan Kadhabtum Wa Farīqāan Taqtulūn"
+        },
+        {
+            "chapter": 2,
+            "verse": 88,
+            "text": "Wa Qālū Qulūbunā Ghulfun Bal La`anahumu Allāhu Bikufrihim Faqalīlāan Mā Yu'uminūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 89,
+            "text": "Wa Lammā Jā'ahum Kitābun Min `Indi Allāhi Muşaddiqun Limā Ma`ahum Wa Kānū Min Qablu Yastaftiĥūna `Alá Al-Ladhīna Kafarū Falammā Jā'ahum Mā `Arafū Kafarū Bihi Fala`natu Allāhi `Alá Al-Kāfirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 90,
+            "text": "Bi'sa Mā Ashtaraw Bihi 'Anfusahum 'An Yakfurū Bimā 'Anzala Allāhu Baghyāan 'An Yunazzila Allāhu Min Fađlih `Alá Man Yashā'u Min `Ibādihi Fabā'ū Bighađabin `Alá Ghađabin Wa Lilkāfirīna `Adhābun Muhīnun"
+        },
+        {
+            "chapter": 2,
+            "verse": 91,
+            "text": "Wa 'Idhā Qīla Lahum 'Āminū Bimā 'Anzala Allāhu Qālū Nu'uminu Bimā 'Unzila `Alaynā Wa Yakfurūna Bimā Warā'ahu Wa Huwa Al-Ĥaqqu Muşaddiqāan Limā Ma`ahum Qul Falima Taqtulūna 'Anbiyā'a Allāhi Min Qablu 'In Kuntum Mu'uminīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 92,
+            "text": "Wa Laqad Jā'akum Mūsá Bil-Bayyināti Thumma Attakhadhtumu Al-`Ijla Min Ba`dihi Wa 'Antum Žālimūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 93,
+            "text": "Wa 'Idh 'Akhadhnā Mīthāqakum Wa Rafa`nā Fawqakumu Aţ-Ţūra Khudhū Mā 'Ātaynākum Biqūwatin Wa Asma`ū Qālū Sami`nā Wa `Aşaynā Wa 'Ushribū Fī Qulūbihimu Al-`Ijla Bikufrihim Qul Bi'samā Ya'murukum Bihi 'Īmānukum 'In Kuntum Mu'uminīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 94,
+            "text": "Qul 'In Kānat Lakumu Ad-Dāru Al-'Ākhiratu `Inda Allāhi Khālişatan Min Dūni An-Nāsi Fatamannaw Al-Mawta 'In Kuntum Şādiqīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 95,
+            "text": "Wa Lan Yatamannawhu 'Abadāan Bimā Qaddamat 'Aydīhim Wa Allāhu `Alīmun Biž-Žālimīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 96,
+            "text": "Wa Latajidannahum 'Aĥraşa An-Nāsi `Alá Ĥayāatin Wa Mina Al-Ladhīna 'Ashrakū Yawaddu 'Aĥaduhum Law Yu`ammaru 'Alfa Sanatin Wa Mā Huwa Bimuzaĥziĥihi Mina Al-`Adhābi 'An Yu`ammara Wa Allāhu Başīrun Bimā Ya`malūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 97,
+            "text": "Qul Man Kāna `Adūwāan Lijibrīla Fa'innahu Nazzalahu `Alá Qalbika Bi'idhni Allāhi Muşaddiqāan Limā Bayna Yadayhi Wa Hudáan Wa Bushrá Lilmu'uminīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 98,
+            "text": "Man Kāna `Adūwāan Lillāhi Wa Malā'ikatihi Wa Rusulihi Wa Jibrīla Wa Mīkāla Fa'inna Allāha `Adūwun Lilkāfirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 99,
+            "text": "Wa Laqad 'Anzalnā 'Ilayka 'Āyātin Bayyinātin Wa Mā Yakfuru Bihā 'Illā Al-Fāsiqūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 100,
+            "text": "Awakullamā `Āhadū `Ahdāan Nabadhahu Farīqun Minhum Bal 'Aktharuhum Lā Yu'uminūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 101,
+            "text": "Wa Lammā Jā'ahum Rasūlun Min `Indi Allāhi Muşaddiqun Limā Ma`ahum Nabadha Farīqun Mina Al-Ladhīna 'Ūtū Al-Kitāba Kitāba Allāhi Warā'a Žuhūrihim Ka'annahum Lā Ya`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 102,
+            "text": "Wa Attaba`ū Mā Tatlū Ash-Shayāţīnu `Alá Mulki Sulaymāna Wa Mā Kafara Sulaymānu Wa Lakinna Ash-Shayāţīna Kafarū Yu`allimūna An-Nāsa As-Siĥra Wa Mā 'Unzila `Alá Al-Malakayni Bibābila Hārūta Wa Mārūta Wa Mā Yu`allimāni Min 'Aĥadin Ĥattá Yaqūlā 'Innamā Naĥnu Fitnatun Falā Takfur Fayata`allamūna Minhumā Mā Yufarriqūna Bihi Bayna Al-Mar'i Wa Zawjihi Wa Mā Hum Biđārrīna Bihi Min 'Aĥadin 'Illā Bi'idhni Allāhi Wa Yata`allamūna Mā Yađurruhum Wa Lā Yanfa`uhum Wa Laqad `Alimū Lamani Ashtarāhu Mā Lahu Fī Al-'Ākhirati Min Khalāqin Wa Labi'sa Mā Sharaw Bihi 'Anfusahum Law Kānū Ya`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 103,
+            "text": "Wa Law 'Annahum 'Āmanū Wa Attaqaw Lamathūbatun Min `Indi Allāhi Khayrun Law Kānū Ya`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 104,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Taqūlū Rā`inā Wa Qūlū Anžurnā Wa Asma`ū Wa Lilkāfirīna `Adhābun 'Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 105,
+            "text": "Mā Yawaddu Al-Ladhīna Kafarū Min 'Ahli Al-Kitābi Wa Lā Al-Mushrikīna 'An Yunazzala `Alaykum Min Khayrin Min Rabbikum Wa Allāhu Yakhtaşşu Biraĥmatihi Man Yashā'u Wa Allāhu Dhū Al-Fađli Al-`Ažīmi"
+        },
+        {
+            "chapter": 2,
+            "verse": 106,
+            "text": "Mā Nansakh Min 'Āyatin 'Aw Nunsihā Na'ti Bikhayrin Minhā 'Aw Mithlihā 'Alam Ta`lam 'Anna Allāha `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 107,
+            "text": "Alam Ta`lam 'Anna Allāha Lahu Mulku As-Samāwāti Wa Al-'Arđi Wa Mā Lakum Min Dūni Allāhi Min Wa Līyin Wa Lā Naşīrin"
+        },
+        {
+            "chapter": 2,
+            "verse": 108,
+            "text": "Am Turīdūna 'An Tas'alū Rasūlakum Kamā Su'ila Mūsá Min Qablu Wa Man Yatabaddali Al-Kufra Bil-'Īmāni Faqad Đalla Sawā'a As-Sabīli"
+        },
+        {
+            "chapter": 2,
+            "verse": 109,
+            "text": "Wadda Kathīrun Min 'Ahli Al-Kitābi Law Yaruddūnakum Min Ba`di 'Īmānikum Kuffārāan Ĥasadāan Min `Indi 'Anfusihim Min Ba`di Mā Tabayyana Lahumu Al-Ĥaqqu Fā`fū Wa Aşfaĥū Ĥattá Ya'tiya Allāhu Bi'amrihi 'Inna Allāha `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 110,
+            "text": "Wa 'Aqīmū Aş-Şalāata Wa 'Ātū Az-Zakāata Wa Mā Tuqaddimū Li'nfusikum Min Khayrin Tajidūhu `Inda Allāhi 'Inna Allāha Bimā Ta`malūna Başīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 111,
+            "text": "Wa Qālū Lan Yadkhula Al-Jannata 'Illā Man Kāna Hūdāan 'Aw Naşārá Tilka 'Amānīyuhum Qul Hātū Burhānakum 'In Kuntum Şādiqīn"
+        },
+        {
+            "chapter": 2,
+            "verse": 112,
+            "text": "Balá Man 'Aslama Wajhahu Lillāhi Wa Huwa Muĥsinun Falahu 'Ajruhu `Inda Rabbihi Wa Lā Khawfun `Alayhim Wa Lā Hum Yaĥzanūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 113,
+            "text": "Wa Qālati Al-Yahūdu Laysati An-Naşārá `Alá Shay'in Wa Qālati An-Naşārá Laysati Al-Yahūdu `Alá Shay'in Wa Hum Yatlūna Al-Kitāba Kadhālika Qāla Al-Ladhīna Lā Ya`lamūna Mithla Qawlihim Fa-Allāhu Yaĥkumu Baynahum Yawma Al-Qiyāmati Fīmā Kānū Fīhi Yakhtalifūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 114,
+            "text": "Wa Man 'Ažlamu Mimman Mana`a Masājida Allāhi 'An Yudhkara Fīhā Asmuhu Wa Sa`á Fī Kharābihā 'Ūlā'ika Mā Kāna Lahum 'An Yadkhulūhā 'Ilā Khā'ifīna Lahum Fī Ad-Dunyā Khizyun Wa Lahum Fī Al-'Ākhirati `Adhābun `Ažīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 115,
+            "text": "Wa Lillahi Al-Mashriqu Wa Al-Maghribu Fa'aynamā Tuwallū Fathamma Wajhu Allāhi 'Inna Allāha Wāsi`un `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 116,
+            "text": "Wa Qālū Attakhadha Allāhu Waladāan Subĥānahu Bal Lahu Mā Fī As-Samāwāti Wa Al-'Arđi Kullun Lahu Qānitūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 117,
+            "text": "Badī`u As-Samāwāti Wa Al-'Arđi Wa 'Idhā Qađá 'Amrāan Fa'innamā Yaqūlu Lahu Kun Fayakūnu"
+        },
+        {
+            "chapter": 2,
+            "verse": 118,
+            "text": "Wa Qāla Al-Ladhīna Lā Ya`lamūna Lawlā Yukallimunā Allāhu 'Aw Ta'tīnā 'Āyatun Kadhālika Qāla Al-Ladhīna Min Qablihim Mithla Qawlihim Tashābahat Qulūbuhum Qad Bayyannā Al-'Āyāti Liqawmin Yūqinūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 119,
+            "text": "Innā 'Arsalnāka Bil-Ĥaqqi Bashīrāan Wa Nadhīrāan Wa Lā Tus'alu `An 'Aşĥābi Al-Jaĥīmi"
+        },
+        {
+            "chapter": 2,
+            "verse": 120,
+            "text": "Wa Lan Tarđá `Anka Al-Yahūdu Wa Lā An-Naşārá Ĥattá Tattabi`a Millatahum Qul 'Inna Hudá Allāhi Huwa Al-Hudá Wa La'ini Attaba`ta 'Ahwā'ahum Ba`da Al-Ladhī Jā'aka Mina Al-`Ilmi Mā Laka Mina Allāhi Min Wa Līyin Wa Lā Naşīrin"
+        },
+        {
+            "chapter": 2,
+            "verse": 121,
+            "text": "Al-Ladhīna 'Ātaynāhumu Al-Kitāba Yatlūnahu Ĥaqqa Tilāwatihi 'Ūlā'ika Yu'uminūna Bihi Wa Man Yakfur Bihi Fa'ūlā'ika Humu Al-Khāsirūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 122,
+            "text": "Yā Banī 'Isrā'īla Adhkurū Ni`matiya Allatī 'An`amtu `Alaykum Wa 'Annī Fađđaltukum `Alá Al-`Ālamīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 123,
+            "text": "Wa Attaqū Yawmāan Lā Tajzī Nafsun `An Nafsin Shay'āan Wa Lā Yuqbalu Minhā `Adlun Wa Lā Tanfa`uhā Shafā`atun Wa Lā Hum Yunşarūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 124,
+            "text": "Wa 'Idh Abtalá 'Ibrāhīma Rabbuhu Bikalimātin Fa'atammahunna Qāla 'Innī Jā`iluka Lilnnāsi 'Imāmāan Qāla Wa Min Dhurrīyatī Qāla Lā Yanālu `Ahdī Až-Žālimīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 125,
+            "text": "Wa 'Idh Ja`alnā Al-Bayta Mathābatan Lilnnāsi Wa 'Amnāan Wa Attakhidhū Min Maqāmi 'Ibrāhīma Muşalláan Wa `Ahidnā 'Ilá 'Ibrāhīma Wa 'Ismā`īla 'An Ţahhirā Baytiya Lilţţā'ifīna Wa Al-`Ākifīna Wa Ar-Rukka`i As-Sujūdi"
+        },
+        {
+            "chapter": 2,
+            "verse": 126,
+            "text": "Wa 'Idh Qāla 'Ibrāhīmu Rabbi Aj`al Hādhā Baladāan 'Āmināan Wa Arzuq 'Ahlahu Mina Ath-Thamarāti Man 'Āmana Minhum Billāhi Wa Al-Yawmi Al-'Ākhiri Qāla Wa Man Kafara Fa'umatti`uhu Qalīlāan Thumma 'Ađţarruhu 'Ilá `Adhābi An-Nāri Wa Bi'sa Al-Maşīru"
+        },
+        {
+            "chapter": 2,
+            "verse": 127,
+            "text": "Wa 'Idh Yarfa`u 'Ibrāhīmu Al-Qawā`ida Mina Al-Bayti Wa 'Ismā`īlu Rabbanā Taqabbal Minnā 'Innaka 'Anta As-Samī`u Al-`Alīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 128,
+            "text": "Rabbanā Wa Aj`alnā Muslimayni Laka Wa Min Dhurrīyatinā 'Ummatan Muslimatan Laka Wa 'Arinā Manāsikanā Wa Tub `Alaynā 'Innaka 'Anta At-Tawwābu Ar-Raĥīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 129,
+            "text": "Rabbanā Wa Ab`ath Fīhim Rasūlāan Minhum Yatlū `Alayhim 'Āyātika Wa Yu`allimuhumu Al-Kitāba Wa Al-Ĥikmata Wa Yuzakkīhim 'Innaka 'Anta Al-`Azīzu Al-Ĥakīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 130,
+            "text": "Wa Man Yarghabu `An Millati 'Ibrāhīma 'Illā Man Safiha Nafsahu Wa Laqadi Aşţafaynāhu Fī Ad-Dunyā Wa 'Innahu Fī Al-'Ākhirati Lamina Aş-Şāliĥīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 131,
+            "text": "Idh Qāla Lahu Rabbuhu 'Aslim Qāla 'Aslamtu Lirabbi Al-`Ālamīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 132,
+            "text": "Wa Waşşá Bihā 'Ibrāhīmu Banīhi Wa Ya`qūbu Yā Banīya 'Inna Allāha Aşţafá Lakumu Ad-Dīna Falā Tamūtunna 'Illā Wa 'Antum Muslimūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 133,
+            "text": "Am Kuntum Shuhadā'a 'Idh Ĥađara Ya`qūba Al-Mawtu 'Idh Qāla Libanīhi Mā Ta`budūna Min Ba`dī Qālū Na`budu 'Ilahaka Wa 'Ilaha 'Ābā'ika 'Ibrāhīma Wa 'Ismā`īla Wa 'Isĥāqa 'Ilahāan Wāĥidāan Wa Naĥnu Lahu Muslimūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 134,
+            "text": "Tilka 'Ummatun Qad Khalat Lahā Mā Kasabat Wa Lakum Mā Kasabtum Wa Lā Tus'alūna `Ammā Kānū Ya`malūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 135,
+            "text": "Wa Qālū Kūnū Hūdāan 'Aw Naşārá Tahtadū Qul Bal Millata 'Ibrāhīma Ĥanīfāan Wa Mā Kāna Mina Al-Mushrikīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 136,
+            "text": "Qūlū 'Āmannā Billāhi Wa Mā 'Unzila 'Ilaynā Wa Mā 'Unzila 'Ilá 'Ibrāhīma Wa 'Ismā`īla Wa 'Isĥāqa Wa Ya`qūba Wa Al-'Asbāţi Wa Mā 'Ūtiya Mūsá Wa `Īsá Wa Mā 'Ūtiya An-Nabīyūna Min Rabbihim Lā Nufarriqu Bayna 'Aĥadin Minhum Wa Naĥnu Lahu Muslimūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 137,
+            "text": "Fa'in 'Āmanū Bimithli Mā 'Āmantum Bihi Faqadi Ahtadaw Wa 'In Tawallaw Fa'innamā Hum Fī Shiqāqin Fasayakfīkahumu Allāhu Wa Huwa As-Samī`u Al-`Alīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 138,
+            "text": "Şibghata Allāhi Wa Man 'Aĥsanu Mina Allāhi Şibghatan Wa Naĥnu Lahu `Ābidūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 139,
+            "text": "Qul 'Atuĥājjūnanā Fī Allāhi Wa Huwa Rabbunā Wa Rabbukum Wa Lanā 'A`mālunā Wa Lakum 'A`mālukum Wa Naĥnu Lahu Mukhlişūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 140,
+            "text": "Am Taqūlūna 'Inna 'Ibrāhīma Wa 'Ismā`īla Wa 'Isĥāqa Wa Ya`qūba Wa Al-'Asbāţa Kānū Hūdāan 'Aw Naşārá Qul 'A'antum 'A`lamu 'Ami Allāhu Wa Man 'Ažlamu Mimman Katama Shahādatan `Indahu Mina Allāhi Wa Mā Allāhu Bighāfilin `Ammā Ta`malūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 141,
+            "text": "Tilka 'Ummatun Qad Khalat Lahā Mā Kasabat Wa Lakum Mā Kasabtum Wa Lā Tus'alūna `Ammā Kānū Ya`malūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 142,
+            "text": "Sayaqūlu As-Sufahā'u Mina An-Nāsi Mā Wa Llāhum `An Qiblatihimu Allatī Kānū `Alayhā Qul Lillāhi Al-Mashriqu Wa Al-Maghribu Yahdī Man Yashā'u 'Ilá Şirāţin Mustaqīmin"
+        },
+        {
+            "chapter": 2,
+            "verse": 143,
+            "text": "Wa Kadhalika Ja`alnākum 'Ummatan Wasaţāan Litakūnū Shuhadā'a `Alá An-Nāsi Wa Yakūna Ar-Rasūlu `Alaykum Shahīdāan Wa Mā Ja`alnā Al-Qiblata Allatī Kunta `Alayhā 'Illā Lina`lama Man Yattabi`u Ar-Rasūla Mimman Yanqalibu `Alá `Aqibayhi Wa 'In Kānat Lakabīratan 'Illā `Alá Al-Ladhīna Hadá Allāhu Wa Mā Kāna Allāhu Liyuđī`a 'Īmānakum 'Inna Allāha Bin-Nāsi Lara'ūfun Raĥīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 144,
+            "text": "Qad Nará Taqalluba Wajhika Fī As-Samā'i Falanuwalliyannaka Qiblatan Tarđāhā Fawalli Wajhaka Shaţra Al-Masjidi Al-Ĥarāmi Wa Ĥaythu Mā Kuntum Fawallū Wujūhakum Shaţrahu Wa 'Inna Al-Ladhīna 'Ūtū Al-Kitāba Laya`lamūna 'Annahu Al-Ĥaqqu Min Rabbihim Wa Mā Allāhu Bighāfilin `Ammā Ya`malūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 145,
+            "text": "Wa La'in 'Atayta Al-Ladhīna 'Ūtū Al-Kitāba Bikulli 'Āyatin Mā Tabi`ū Qiblataka Wa Mā 'Anta Bitābi`in Qiblatahum Wa Mā Ba`đuhum Bitābi`in Qiblata Ba`đin Wa La'ini Attaba`ta 'Ahwā'ahum Min Ba`di Mā Jā'aka Mina Al-`Ilmi 'Innaka 'Idhāan Lamina Až-Žālimīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 146,
+            "text": "Al-Ladhīna 'Ātaynāhumu Al-Kitāba Ya`rifūnahu Kamā Ya`rifūna 'Abnā'ahum Wa 'Inna Farīqāan Minhum Layaktumūna Al-Ĥaqqa Wa Hum Ya`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 147,
+            "text": "Al-Ĥaqqu Min Rabbika Falā Takūnanna Mina Al-Mumtarīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 148,
+            "text": "Wa Likullin Wijhatun Huwa Muwallīhā Fāstabiqū Al-Khayrāti 'Ayna Mā Takūnū Ya'ti Bikumu Allāhu Jamī`āan 'Inna Allāha `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 149,
+            "text": "Wa Min Ĥaythu Kharajta Fawalli Wajhaka Shaţra Al-Masjidi Al-Ĥarāmi Wa 'Innahu Lalĥaqqu Min Rabbika Wa Mā Allāhu Bighāfilin `Ammā Ta`malūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 150,
+            "text": "Wa Min Ĥaythu Kharajta Fawalli Wajhaka Shaţra Al-Masjidi Al-Ĥarāmi Wa Ĥaythu Mā Kuntum Fawallū Wujūhakum Shaţrahu Li'allā Yakūna Lilnnāsi `Alaykum Ĥujjatun 'Illā Al-Ladhīna Žalamū Minhum Falā Takhshawhum Wa Akhshawnī Wa Li'atimma Ni`matī `Alaykum Wa La`allakum Tahtadūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 151,
+            "text": "Kamā 'Arsalnā Fīkum Rasūlāan Minkum Yatlū `Alaykum 'Āyātinā Wa Yuzakkīkum Wa Yu`allimukumu Al-Kitāba Wa Al-Ĥikmata Wa Yu`allimukum Mā Lam Takūnū Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 152,
+            "text": "Fādhkurūnī 'Adhkurkum Wa Ashkurū Lī Wa Lā Takfurūni"
+        },
+        {
+            "chapter": 2,
+            "verse": 153,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Asta`īnū Biş-Şabri Wa Aş-Şalāati 'Inna Allāha Ma`a Aş-Şābirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 154,
+            "text": "Wa Lā Taqūlū Liman Yuqtalu Fī Sabīli Allāhi 'Amwātun Bal 'Aĥyā'un Wa Lakin Lā Tash`urūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 155,
+            "text": "Wa Lanabluwannakum Bishay'in Mina Al-Khawfi Wa Al-Jū`i Wa Naqşin Mina Al-'Amwli Wa Al-'Anfusi Wa Ath-Thamarāti Wa Bashiri Aş-Şābirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 156,
+            "text": "Al-Ladhīna 'Idhā 'Aşābat/hum Muşībatun Qālū 'Innā Lillāhi Wa 'Innā 'Ilayhi Rāji`ūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 157,
+            "text": "Ūlā'ika `Alayhim Şalawātun Min Rabbihim Wa Raĥmatun Wa 'Ūlā'ika Humu Al-Muhtadūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 158,
+            "text": "Inna Aş-Şafā Wa Al-Marwata Min Sha`ā'iri Allāhi Faman Ĥajja Al-Bayta 'Aw A`tamara Falā Junāĥa `Alayhi 'An Yaţţawwafa Bihimā Wa Man Taţawwa`a Khayrāan Fa'inna Allāha Shākirun `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 159,
+            "text": "Inna Al-Ladhīna Yaktumūna Mā 'Anzalnā Mina Al-Bayyināti Wa Al-Hudá Min Ba`di Mā Bayyannāhu Lilnnāsi Fī Al-Kitābi 'Ūlā'ika Yal`anuhumu Allāhu Wa Yal`anuhumu Al-Lā`inūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 160,
+            "text": "Illā Al-Ladhīna Tābū Wa 'Aşlaĥū Wa Bayyanū Fa'ūlā'ika 'Atūbu `Alayhim Wa 'Anā At-Tawwābu Ar-Raĥīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 161,
+            "text": "Inna Al-Ladhīna Kafarū Wa Mātū Wa Hum Kuffārun 'Ūlā'ika `Alayhim La`natu Allāhi Wa Al-Malā'ikati Wa An-Nāsi 'Ajma`īna"
+        },
+        {
+            "chapter": 2,
+            "verse": 162,
+            "text": "Khālidīna Fīhā Lā Yukhaffafu `Anhumu Al-`Adhābu Wa Lā Hum Yunžarūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 163,
+            "text": "Wa 'Ilahukum 'Ilahun Wāĥidun Lā 'Ilāha 'Illā Huwa Ar-Raĥmānu Ar-Raĥīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 164,
+            "text": "Inna Fī Khalqi As-Samāwāti Wa Al-'Arđi Wa Akhtilāfi Al-Layli Wa An-Nahāri Wa Al-Fulki Allatī Tajrī Fī Al-Baĥri Bimā Yanfa`u An-Nāsa Wa Mā 'Anzala Allāhu Mina As-Samā'i Min Mā'in Fa'aĥyā Bihi Al-'Arđa Ba`da Mawtihā Wa Baththa Fīhā Min Kulli Dābbatin Wa Taşrīfi Ar-Riyāĥi Wa As-Saĥābi Al-Musakhkhari Bayna As-Samā'i Wa Al-'Arđi La'āyātin Liqawmin Ya`qilūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 165,
+            "text": "Wa Mina An-Nāsi Man Yattakhidhu Min Dūni Allāhi 'Andādāan Yuĥibbūnahum Kaĥubbi Allāhi Wa Al-Ladhīna 'Āmanū 'Ashaddu Ĥubbāan Lillāhi Wa Law Yará Al-Ladhīna Žalamū 'Idh Yarawna Al-`Adhāba 'Anna Al-Qūwata Lillāhi Jamī`āan Wa 'Anna Allāha Shadīdu Al-`Adhābi"
+        },
+        {
+            "chapter": 2,
+            "verse": 166,
+            "text": "Idh Tabarra'a Al-Ladhīna Attubi`ū Mina Al-Ladhīna Attaba`ū Wa Ra'aw Al-`Adhāba Wa Taqaţţa`at Bihimu Al-'Asbābu"
+        },
+        {
+            "chapter": 2,
+            "verse": 167,
+            "text": "Wa Qāla Al-Ladhīna Attaba`ū Law 'Anna Lanā Karratan Fanatabarra'a Minhum Kamā Tabarra'ū Minnā Kadhālika Yurīhimu Allāhu 'A`mālahum Ĥasarātin `Alayhim Wa Mā Hum Bikhārijīna Mina An-Nāri"
+        },
+        {
+            "chapter": 2,
+            "verse": 168,
+            "text": "Yā 'Ayyuhā An-Nāsu Kulū Mimmā Fī Al-'Arđi Ĥalālāan Ţayyibāan Wa Lā Tattabi`ū Khuţuwāti Ash-Shayţāni 'Innahu Lakum `Adūwun Mubīn"
+        },
+        {
+            "chapter": 2,
+            "verse": 169,
+            "text": "Innamā Ya'murukum Bis-Sū'i Wa Al-Faĥshā'i Wa 'An Taqūlū `Alá Allāhi Mā Lā Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 170,
+            "text": "Wa 'Idhā Qīla Lahum Attabi`ū Mā 'Anzala Allāhu Qālū Bal Nattabi`u Mā 'Alfaynā `Alayhi 'Ābā'anā 'Awalaw Kāna 'Ābā'uuhum Lā Ya`qilūna Shay'āan Wa Lā Yahtadūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 171,
+            "text": "Wa Mathalu Al-Ladhīna Kafarū Kamathali Al-Ladhī Yan`iqu Bimā Lā Yasma`u 'Illā Du`ā'an Wa Nidā'an Şummun Bukmun `Umyun Fahum Lā Ya`qilūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 172,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Kulū Min Ţayyibāti Mā Razaqnākum Wa Ashkurū Lillāhi 'In Kuntum 'Īyāhu Ta`budūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 173,
+            "text": "Innamā Ĥarrama `Alaykumu Al-Maytata Wa Ad-Dama Wa Laĥma Al-Khinzīri Wa Mā 'Uhilla Bihi Lighayri Allāhi Famani Ađţurra Ghayra Bāghin Wa Lā `Ādin Falā 'Ithma `Alayhi 'Inna Allāha Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 174,
+            "text": "Inna Al-Ladhīna Yaktumūna Mā 'Anzala Allāhu Mina Al-Kitābi Wa Yashtarūna Bihi Thamanāan Qalīlāan 'Ūlā'ika Mā Ya'kulūna Fī Buţūnihim 'Illā An-Nāra Wa Lā Yukallimuhumu Allāhu Yawma Al-Qiyāmati Wa Lā Yuzakkīhim Wa Lahum `Adhābun 'Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 175,
+            "text": "Ūlā'ika Al-Ladhīna Ashtaraw Ađ-Đalālata Bil-Hudá Wa Al-`Adhāba Bil-Maghfirati Famā 'Aşbarahum `Alá An-Nāri"
+        },
+        {
+            "chapter": 2,
+            "verse": 176,
+            "text": "Dhālika Bi'anna Allāha Nazzala Al-Kitāba Bil-Ĥaqqi Wa 'Inna Al-Ladhīna Akhtalafū Fī Al-Kitābi Lafī Shiqāqin Ba`īdin"
+        },
+        {
+            "chapter": 2,
+            "verse": 177,
+            "text": "Laysa Al-Birra 'An Tuwallū Wujūhakum Qibala Al-Mashriqi Wa Al-Maghribi Wa Lakinna Al-Birra Man 'Āmana Billāhi Wa Al-Yawmi Al-'Ākhiri Wa Al-Malā'ikati Wa Al-Kitābi Wa An-Nabīyīna Wa 'Ātá Al-Māla `Alá Ĥubbihi Dhawī Al-Qurbá Wa Al-Yatāmá Wa Al-Masākīna Wa Abna As-Sabīli Wa As-Sā'ilīna Wa Fī Ar-Riqābi Wa 'Aqāma Aş-Şalāata Wa 'Ātá Az-Zakāata Wa Al-Mūfūna Bi`ahdihim 'Idhā `Āhadū Wa Aş-Şābirīna Fī Al-Ba'sā'i Wa Ađ-Đarrā'i Wa Ĥīna Al-Ba'si 'Ūlā'ika Al-Ladhīna Şadaqū Wa 'Ūlā'ika Humu Al-Muttaqūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 178,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Kutiba `Alaykumu Al-Qişāşu Fī Al-Qatlá Al-Ĥurru Bil-Ĥurri Wa Al-`Abdu Bil-`Abdi Wa Al-'Unthá Bil-'Unthá Faman `Ufiya Lahu Min 'Akhīhi Shay'un Fa Attibā`un Bil-Ma`rūfi Wa 'Adā'un 'Ilayhi Bi'iĥsānin Dhālika Takhfīfun Min Rabbikum Wa Raĥmatun Famani A`tadá Ba`da Dhālika Falahu `Adhābun 'Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 179,
+            "text": "Wa Lakum Fī Al-Qişāşi Ĥayāatun Yā 'Ūlī Al-'Albābi La`allakum Tattaqūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 180,
+            "text": "Kutiba `Alaykum 'Idhā Ĥađara 'Aĥadakumu Al-Mawtu 'In Taraka Khayrāan Al-Waşīyatu Lilwālidayni Wa Al-'Aqrabīna Bil-Ma`rūfi Ĥaqqāan `Alá Al-Muttaqīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 181,
+            "text": "Faman Baddalahu Ba`damā Sami`ahu Fa'innamā 'Ithmuhu `Alá Al-Ladhīna Yubaddilūnahu 'Inna Allāha Samī`un `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 182,
+            "text": "Faman Khāfa Min Mūşin Janafāan 'Aw 'Ithmāan Fa'aşlaĥa Baynahum Falā 'Ithma `Alayhi 'Inna Allāha Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 183,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Kutiba `Alaykumu Aş-Şiyāmu Kamā Kutiba `Alá Al-Ladhīna Min Qablikum La`allakum Tattaqūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 184,
+            "text": "Ayyāmāan Ma`dūdātin Faman Kāna Minkum Marīđāan 'Aw `Alá Safarin Fa`iddatun Min 'Ayyāmin 'Ukhara Wa `Alá Al-Ladhīna Yuţīqūnahu Fidyatun Ţa`āmu Miskīnin Faman Taţawwa`a Khayrāan Fahuwa Khayrun Lahu Wa 'An Taşūmū Khayrun Lakum 'In Kuntum Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 185,
+            "text": "Shahru Ramađāna Al-Ladhī 'Unzila Fīhi Al-Qur'ānu Hudáan Lilnnāsi Wa Bayyinātin Mina Al-Hudá Wa Al-Furqāni Faman Shahida Minkumu Ash-Shahra Falyaşumhu Wa Man Kāna Marīđāan 'Aw `Alá Safarin Fa`iddatun Min 'Ayyāmin 'Ukhara Yurīdu Allāhu Bikumu Al-Yusra Wa Lā Yurīdu Bikumu Al-`Usra Wa Litukmilū Al-`Iddata Wa Litukabbirū Allāha `Alá Mā Hadākum Wa La`allakum Tashkurūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 186,
+            "text": "Wa 'Idhā Sa'alaka `Ibādī `Annī Fa'innī Qarībun 'Ujību Da`wata Ad-Dā`i 'Idhā Da`āni Falyastajībū Lī Wa Līu'uminū Bī La`allahum Yarshudūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 187,
+            "text": "Uĥilla Lakum Laylata Aş-Şiyāmi Ar-Rafathu 'Ilá Nisā'ikum Hunna Libāsun Lakum Wa 'Antum Libāsun Lahunna `Alima Allāhu 'Annakum Kuntum Takhtānūna 'Anfusakum Fatāba `Alaykum Wa `Afā `Ankum Fāl'āna Bāshirūhunna Wa Abtaghū Mā Kataba Allāhu Lakum Wa Kulū Wa Ashrabū Ĥattá Yatabayyana Lakumu Al-Khayţu Al-'Abyađu Mina Al-Khayţi Al-'Aswadi Mina Al-Fajri Thumma 'Atimmū Aş-Şiyāma 'Ilá Al-Layli Wa Lā Tubāshirūhunna Wa 'Antum `Ākifūna Fī Al-Masājidi Tilka Ĥudūdu Allāhi Falā Taqrabūhā Kadhālika Yubayyinu Allāhu 'Āyātihi Lilnnāsi La`allahum Yattaqūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 188,
+            "text": "Wa Lā Ta'kulū 'Amwālakum Baynakum Bil-Bāţili Wa Tudlū Bihā 'Ilá Al-Ĥukkāmi Lita'kulū Farīqāan Min 'Amwāli An-Nāsi Bil-'Ithmi Wa 'Antum Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 189,
+            "text": "Yas'alūnaka `Ani Al-'Ahillati Qul Hiya Mawāqītu Lilnnāsi Wa Al-Ĥajji Wa Laysa Al-Birru Bi'an Ta'tū Al-Buyūta Min Žuhūrihā Wa Lakinna Al-Birra Mani Attaqá Wa 'Tū Al-Buyūta Min 'Abwābihā Wa Attaqū Allāha La`allakum Tufliĥūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 190,
+            "text": "Wa Qātilū Fī Sabīli Allāhi Al-Ladhīna Yuqātilūnakum Wa Lā Ta`tadū 'Inna Allāha Lā Yuĥibbu Al-Mu`tadīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 191,
+            "text": "Wāqtulūhum Ĥaythu Thaqiftumūhum Wa 'Akhrijūhum Min Ĥaythu 'Akhrajūkum Wa Al-Fitnatu 'Ashaddu Mina Al-Qatli Wa Lā Tuqātilūhum `Inda Al-Masjidi Al-Ĥarāmi Ĥattá Yuqātilūkum Fīhi Fa'in Qātalūkum Fāqtulūhum Kadhālika Jazā'u Al-Kāfirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 192,
+            "text": "Fa'ini Antahaw Fa'inna Allāha Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 193,
+            "text": "Wa Qātilūhum Ĥattá Lā Takūna Fitnatun Wa Yakūna Ad-Dīnu Lillāhi Fa'ini Antahaw Falā `Udwāna 'Illā `Alá Až-Žālimīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 194,
+            "text": "Ash-Shahru Al-Ĥarāmu Bish-Shahri Al-Ĥarāmi Wa Al-Ĥurumātu Qişāşun Famani A`tadá `Alaykum Fā`tadū `Alayhi Bimithli Mā A`tadá `Alaykum Wa Attaqū Allāha Wa A`lamū 'Anna Allāha Ma`a Al-Muttaqīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 195,
+            "text": "Wa 'Anfiqū Fī Sabīli Allāhi Wa Lā Tulqū Bi'aydīkum 'Ilá At-Tahlukati Wa 'Aĥsinū 'Inna Allāha Yuĥibbu Al-Muĥsinīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 196,
+            "text": "Wa 'Atimmū Al-Ĥajja Wa Al-`Umrata Lillāhi Fa'in 'Uĥşirtum Famā Astaysara Mina Al-Hadyi Wa Lā Taĥliqū Ru'ūsakum Ĥattá Yablugha Al-Hadyu Maĥillahu Faman Kāna Minkum Marīđāan 'Aw Bihi 'Adháan Min Ra'sihi Fafidyatun Min Şiyāmin 'Aw Şadaqatin 'Aw Nusukin Fa'idhā 'Amintum Faman Tamatta`a Bil-`Umrati 'Ilá Al-Ĥajji Famā Astaysara Mina Al-Hadyi Faman Lam Yajid Faşiyāmu Thalāthati 'Ayyāmin Fī Al-Ĥajji Wa Sab`atin 'Idhā Raja`tum Tilka `Asharatun Kāmilatun Dhālika Liman Lam Yakun 'Ahluhu Ĥāđirī Al-Masjidi Al-Ĥarāmi Wa Attaqū Allāha Wa A`lamū 'Anna Allāha Shadīdu Al-`Iqābi"
+        },
+        {
+            "chapter": 2,
+            "verse": 197,
+            "text": "Al-Ĥajju 'Ash/hurun Ma`lūmātun Faman Farađa Fīhinna Al-Ĥajja Falā Rafatha Wa Lā Fusūqa Wa Lā Jidāla Fī Al-Ĥajji Wa Mā Taf`alū Min Khayrin Ya`lamhu Allāhu Wa Tazawwadū Fa'inna Khayra Az-Zādi At-Taqwá Wa Attaqūnī Yā 'Ūlī Al-'Albābi"
+        },
+        {
+            "chapter": 2,
+            "verse": 198,
+            "text": "Laysa `Alaykum Junāĥun 'An Tabtaghū Fađlāan Min Rabbikum Fa'idhā 'Afađtum Min `Arafātin Fādhkurū Allāha `Inda Al-Mash`ari Al-Ĥarāmi Wa Adhkurūhu Kamā Hadākum Wa 'In Kuntum Min Qablihi Lamina Ađ-Đāllīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 199,
+            "text": "Thumma 'Afīđū Min Ĥaythu 'Afāđa An-Nāsu Wa Astaghfirū Allāha 'Inna Allāha Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 200,
+            "text": "Fa'idhā Qađaytum Manāsikakum Fādhkurū Allāha Kadhikrikum 'Ābā'akum 'Aw 'Ashadda Dhikrāan Famina An-Nāsi Man Yaqūlu Rabbanā 'Ātinā Fī Ad-Dunyā Wa Mā Lahu Fī Al-'Ākhirati Min Khalāqin"
+        },
+        {
+            "chapter": 2,
+            "verse": 201,
+            "text": "Wa Minhum Man Yaqūlu Rabbanā 'Ātinā Fī Ad-Dunyā Ĥasanatan Wa Fī Al-'Ākhirati Ĥasanatan Wa Qinā `Adhāba An-Nāri"
+        },
+        {
+            "chapter": 2,
+            "verse": 202,
+            "text": "Ūlā'ika Lahum Naşībun Mimmā Kasabū Wa Allāhu Sarī`u Al-Ĥisābi"
+        },
+        {
+            "chapter": 2,
+            "verse": 203,
+            "text": "Wa Adhkurū Allāha Fī 'Ayyāmin Ma`dūdātin Faman Ta`ajjala Fī Yawmayni Falā 'Ithma `Alayhi Wa Man Ta'akhkhara Falā 'Ithma `Alayhi Limani Attaqá Wa Attaqū Allāha Wa A`lamū 'Annakum 'Ilayhi Tuĥsharūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 204,
+            "text": "Wa Mina An-Nāsi Man Yu`jibuka Qawluhu Fī Al-Ĥayāati Ad-Dunyā Wa Yush/hidu Allāha `Alá Mā Fī Qalbihi Wa Huwa 'Aladdu Al-Khişāmi"
+        },
+        {
+            "chapter": 2,
+            "verse": 205,
+            "text": "Wa 'Idhā Tawallá Sa`á Fī Al-'Arđi Liyufsida Fīhā Wa Yuhlika Al-Ĥartha Wa An-Nasla Wa Allāhu Lā Yuĥibbu Al-Fasāda"
+        },
+        {
+            "chapter": 2,
+            "verse": 206,
+            "text": "Wa 'IdhÄ QÄ«la Lahu Attaqi AllÄha 'Akhadhat/hu Al-`Izzatu Bil-'Ithmi FaÄ¥asbuhu Jahannamu Wa Labi'sa Al-MihÄdu"
+        },
+        {
+            "chapter": 2,
+            "verse": 207,
+            "text": "Wa Mina An-Nāsi Man Yashrī Nafsahu Abtighā'a Marđāati Allāhi Wa Allāhu Ra'ūfun Bil-`Ibādi"
+        },
+        {
+            "chapter": 2,
+            "verse": 208,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Adkhulū Fī As-Silmi Kāffatan Wa Lā Tattabi`ū Khuţuwāti Ash-Shayţāni 'Innahu Lakum `Adūwun Mubīnun"
+        },
+        {
+            "chapter": 2,
+            "verse": 209,
+            "text": "Fa'in Zalaltum Min Ba`di Mā Jā'atkumu Al-Bayyinātu Fā`lamū 'Anna Allāha `Azīzun Ĥakīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 210,
+            "text": "Hal Yanžurūna 'Illā 'An Ya'tiyahumu Allāhu Fī Žulalin Mina Al-Ghamāmi Wa Al-Malā'ikatu Wa Quđiya Al-'Amru Wa 'Ilá Allāhi Turja`u Al-'Umūru"
+        },
+        {
+            "chapter": 2,
+            "verse": 211,
+            "text": "Sal Banī 'Isrā'īla Kam 'Ātaynāhum Min 'Āyatin Bayyinatin Wa Man Yubaddil Ni`mata Allāhi Min Ba`di Mā Jā'at/hu Fa'inna Allāha Shadīdu Al-`Iqābi"
+        },
+        {
+            "chapter": 2,
+            "verse": 212,
+            "text": "Zuyyina Lilladhīna Kafarū Al-Ĥayāatu Ad-Dunyā Wa Yaskharūna Mina Al-Ladhīna 'Āmanū Wa Al-Ladhīna Attaqaw Fawqahum Yawma Al-Qiyāmati Wa Allāhu Yarzuqu Man Yashā'u Bighayri Ĥisābin"
+        },
+        {
+            "chapter": 2,
+            "verse": 213,
+            "text": "Kāna An-Nāsu 'Ummatan Wāĥidatan Faba`atha Allāhu An-Nabīyīna Mubashirīna Wa Mundhirīna Wa 'Anzala Ma`ahumu Al-Kitāba Bil-Ĥaqqi Liyaĥkuma Bayna An-Nāsi Fīmā Akhtalafū Fīhi Wa Mā Akhtalafa Fīhi 'Illā Al-Ladhīna 'Ūtūhu Min Ba`di Mā Jā'at/humu Al-Bayyinātu Baghyāan Baynahum Fahadá Allāhu Al-Ladhīna 'Āmanū Limā Akhtalafū Fīhi Mina Al-Ĥaqqi Bi'idhnihi Wa Allāhu Yahdī Man Yashā'u 'Ilá Şirāţin Mustaqīmin"
+        },
+        {
+            "chapter": 2,
+            "verse": 214,
+            "text": "Am Ĥasibtum 'An Tadkhulū Al-Jannata Wa Lammā Ya'tikum Mathalu Al-Ladhīna Khalaw Min Qablikum Massat/humu Al-Ba'sā'u Wa Ađ-Đarrā'u Wa Zulzilū Ĥattá Yaqūla Ar-Rasūlu Wa Al-Ladhīna 'Āmanū Ma`ahu Matá Naşru Allāhi 'Alā 'Inna Naşra Allāhi Qarībun"
+        },
+        {
+            "chapter": 2,
+            "verse": 215,
+            "text": "Yas'alūnaka Mādhā Yunfiqūna Qul Mā 'Anfaqtum Min Khayrin Falilwālidayni Wa Al-'Aqrabīna Wa Al-Yatāmá Wa Al-Masākīni Wa Abni As-Sabīli Wa Mā Taf`alū Min Khayrin Fa'inna Allāha Bihi `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 216,
+            "text": "Kutiba `Alaykumu Al-Qitālu Wa Huwa Kurhun Lakum Wa `Asá 'An Takrahū Shay'āan Wa Huwa Khayrun Lakum Wa `Asá 'An Tuĥibbū Shay'āan Wa Huwa Sharrun Lakum Wa Allāhu Ya`lamu Wa 'Antum Lā Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 217,
+            "text": "Yas'alūnaka `Ani Ash-Shahri Al-Ĥarāmi Qitālin Fīhi Qul Qitālun Fīhi Kabīrun Wa Şaddun `An Sabīli Allāhi Wa Kufrun Bihi Wa Al-Masjidi Al-Ĥarāmi Wa 'Ikhrāju 'Ahlihi Minhu 'Akbaru `Inda Allāhi Wa Al-Fitnatu 'Akbaru Mina Al-Qatli Wa Lā Yazālūna Yuqātilūnakum Ĥattá Yaruddūkum `An Dīnikum 'Ini Astaţā`ū Wa Man Yartadid Minkum `An Dīnihi Fayamut Wa Huwa Kāfirun Fa'ūlā'ika Ĥabiţat 'A`māluhum Fī Ad-Dunyā Wa Al-'Ākhirati Wa 'Ūlā'ika 'Aşĥābu An-Nāri Hum Fīhā Khālidūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 218,
+            "text": "Inna Al-Ladhīna 'Āmanū Wa Al-Ladhīna Hājarū Wa Jāhadū Fī Sabīli Allāhi 'Ūlā'ika Yarjūna Raĥmata Allāhi Wa Allāhu Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 219,
+            "text": "Yas'alūnaka `Ani Al-Khamri Wa Al-Maysiri Qul Fīhimā 'Ithmun Kabīrun Wa Manāfi`u Lilnnāsi Wa 'Ithmuhumā 'Akbaru Min Naf`ihimā Wa Yas'alūnaka Mādhā Yunfiqūna Quli Al-`Afwa Kadhālika Yubayyinu Allāhu Lakumu Al-'Āyāti La`allakum Tatafakkarūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 220,
+            "text": "Fī Ad-Dunyā Wa Al-'Ākhirati Wa Yas'alūnaka `Ani Al-Yatāmá Qul 'Işlāĥun Lahum Khayrun Wa 'In Tukhāliţūhum Fa'ikhwānukum Wa Allāhu Ya`lamu Al-Mufsida Mina Al-Muşliĥi Wa Law Shā'a Allāhu La'a`natakum 'Inna Allāha `Azīzun Ĥakīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 221,
+            "text": "Wa Lā Tankiĥū Al-Mushrikāti Ĥattá Yu'uminna Wa La'amatun Mu'uminatun Khayrun Min Mushrikatin Wa Law 'A`jabatkum Wa Lā Tunkiĥū Al-Mushrikīna Ĥattá Yu'uminū Wa La`abdun Mu'uminun Khayrun Min Mushrikin Wa Law 'A`jabakum 'Ūlā'ika Yad`ūna 'Ilá An-Nāri Wa Allāhu Yad`ū 'Ilá Al-Jannati Wa Al-Maghfirati Bi'idhnihi Wa Yubayyinu 'Āyātihi Lilnnāsi La`allahum Yatadhakkarūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 222,
+            "text": "Wa Yas'alūnaka `Ani Al-Maĥīđi Qul Huwa 'Adháan Fā`tazilū An-Nisā' Fī Al-Maĥīđi Wa Lā Taqrabūhunna Ĥattá Yaţhurna Fa'idhā Taţahharna Fa'tūhunna Min Ĥaythu 'Amarakumu Allāhu 'Inna Allāha Yuĥibbu At-Tawwābīna Wa Yuĥibbu Al-Mutaţahhirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 223,
+            "text": "Nisā'uukum Ĥarthun Lakum Fa'tū Ĥarthakum 'Anná Shi'tum Wa Qaddimū Li'nfusikum Wa Attaqū Allāha Wa A`lamū 'Annakum Mulāqūhu Wa Bashiri Al-Mu'uminīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 224,
+            "text": "Wa Lā Taj`alū Allāha `Urđatan Li'ymānikum 'An Tabarrū Wa Tattaqū Wa Tuşliĥū Bayna An-Nāsi Wa Allāhu Samī`un `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 225,
+            "text": "Lā Yu'uākhidhukumu Allāhu Bil-Laghwi Fī 'Aymānikum Wa Lakin Yu'uākhidhukum Bimā Kasabat Qulūbukum Wa Allāhu Ghafūrun Ĥalīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 226,
+            "text": "Lilladhīna Yu'ulūna Min Nisā'ihim Tarabbuşu 'Arba`ati 'Ash/hurin Fa'in Fā'ū Fa'inna Allāha Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 227,
+            "text": "Wa 'In `Azamū Aţ-Ţalāqa Fa'inna Allāha Samī`un `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 228,
+            "text": "Wa Al-Muţallaqātu Yatarabbaşna Bi'anfusihinna Thalāthata Qurū'in Wa Lā Yaĥillu Lahunna 'An Yaktumna Mā Khalaqa Allāhu Fī 'Arĥāmihinna 'In Kunna Yu'uminna Billāhi Wa Al-Yawmi Al-'Ākhiri Wa Bu`ūlatuhunna 'Aĥaqqu Biraddihinna Fī Dhālika 'In 'Arādū 'Işlāĥāan Wa Lahunna Mithlu Al-Ladhī `Alayhinna Bil-Ma`rūfi Wa Lilrrijāli `Alayhinna Darajatun Wa Allāhu `Azīzun Ĥakīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 229,
+            "text": "Aţ-Ţalāqu Marratāni Fa'imsākun Bima`rūfin 'Aw Tasrīĥun Bi'iĥsānin Wa Lā Yaĥillu Lakum 'An Ta'khudhū Mimmā 'Ātaytumūhunna Shay'āan 'Illā 'An Yakhāfā 'Allā Yuqīmā Ĥudūda Allāhi Fa'in Khiftum 'Allā Yuqīmā Ĥudūda Allāhi Falā Junāĥa `Alayhimā Fīmā Aftadat Bihi Tilka Ĥudūdu Allāhi Falā Ta`tadūhā Wa Man Yata`adda Ĥudūda Allāhi Fa'ūlā'ika Humu Až-Žālimūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 230,
+            "text": "Fa'in Ţallaqahā Falā Taĥillu Lahu Min Ba`du Ĥattá Tankiĥa Zawjāan Ghayrahu Fa'in Ţallaqahā Falā Junāĥa `Alayhimā 'An Yatarāja`ā 'In Žannā 'An Yuqīmā Ĥudūda Allāhi Wa Tilka Ĥudūdu Allāhi Yubayyinuhā Liqawmin Ya`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 231,
+            "text": "Wa 'Idhā Ţallaqtumu An-Nisā' Fabalaghna 'Ajalahunna Fa'amsikūhunna Bima`rūfin 'Aw Sarriĥūhunna Bima`rūfin Wa Lā Tumsikūhunna Đirārāan Lita`tadū Wa Man Yaf`al Dhālika Faqad Žalama Nafsahu Wa Lā Tattakhidhū 'Āyāti Allāhi Huzūan Wa Adhkurū Ni`mata Allāhi `Alaykum Wa Mā 'Anzala `Alaykum Mina Al-Kitābi Wa Al-Ĥikmati Ya`ižukum Bihi Wa Attaqū Allāha Wa A`lamū 'Anna Allāha Bikulli Shay'in `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 232,
+            "text": "Wa 'Idhā Ţallaqtumu An-Nisā' Fabalaghna 'Ajalahunna Falā Ta`đulūhunna 'An Yankiĥna 'Azwājahunna 'Idhā Tarāđaw Baynahum Bil-Ma`rūfi Dhālika Yū`ažu Bihi Man Kāna Minkum Yu'uminu Billāhi Wa Al-Yawmi Al-'Ākhiri Dhālikum 'Azká Lakum Wa 'Aţharu Wa Allāhu Ya`lamu Wa 'Antum Lā Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 233,
+            "text": "Wa Al-Wālidātu Yurđi`na 'Awlādahunna Ĥawlayni Kāmilayni Liman 'Arāda 'An Yutimma Ar-Rađā`ata Wa `Alá Al-Mawlūdi Lahu Rizquhunna Wa Kiswatuhunna Bil-Ma`rūfi Lā Tukallafu Nafsun 'Illā Wus`ahā Lā Tuđārra Wa A-Datun Biwaladihā Wa Lā Mawlūdun Lahu Biwaladihi Wa `Alá Al-Wārithi Mithlu Dhālika Fa'in 'Arādā Fişālāan `An Tarāđin Minhumā Wa Tashāwurin Falā Junāĥa `Alayhimā Wa 'In 'Aradtum 'An Tastarđi`ū 'Awlādakum Falā Junāĥa `Alaykum 'Idhā Sallamtum Mā 'Ātaytum Bil-Ma`rūfi Wa Attaqū Allāha Wa A`lamū 'Anna Allāha Bimā Ta`malūna Başīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 234,
+            "text": "Wa Al-Ladhīna Yutawaffawna Minkum Wa Yadharūna 'Azwājāan Yatarabbaşna Bi'anfusihinna 'Arba`ata 'Ash/hurin Wa `Ashrāan Fa'idhā Balaghna 'Ajalahunna Falā Junāĥa `Alaykum Fīmā Fa`alna Fī 'Anfusihinna Bil-Ma`rūfi Wa Allāhu Bimā Ta`malūna Khabīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 235,
+            "text": "Wa Lā Junāĥa `Alaykum Fīmā `Arrađtum Bihi Min Khiţbati An-Nisā' 'Aw 'Aknantum Fī 'Anfusikum `Alima Allāhu 'Annakum Satadhkurūnahunna Wa Lakin Lā Tuwā`idūhunna Sirrāan 'Illā 'An Taqūlū Qawlāan Ma`rūfāan Wa Lā Ta`zimū `Uqdata An-Nikāĥi Ĥattá Yablugha Al-Kitābu 'Ajalahu Wa A`lamū 'Anna Allāha Ya`lamu Mā Fī 'Anfusikum Fāĥdharūhu Wa A`lamū 'Anna Allāha Ghafūrun Ĥalīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 236,
+            "text": "Lā Junāĥa `Alaykum 'In Ţallaqtumu An-Nisā' Mā Lam Tamassūhunna 'Aw Tafriđū Lahunna Farīđatan Wa Matti`ūhunna `Alá Al-Mūsi`i Qadaruhu Wa `Alá Al-Muqtiri Qadaruhu Matā`āan Bil-Ma`rūfi Ĥaqqāan `Alá Al-Muĥsinīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 237,
+            "text": "Wa 'In Ţallaqtumūhunna Min Qabli 'An Tamassūhunna Wa Qad Farađtum Lahunna Farīđatan Fanişfu Mā Farađtum 'Illā 'An Ya`fūna 'Aw Ya`fuwa Al-Ladhī Biyadihi `Uqdatu An-Nikāĥi Wa 'An Ta`fū 'Aqrabu Lilttaqwá Wa Lā Tansaw Al-Fađla Baynakum 'Inna Allāha Bimā Ta`malūna Başīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 238,
+            "text": "Ĥāfižū `Alá Aş-Şalawāti Wa Aş-Şalāati Al-Wusţá Wa Qūmū Lillāhi Qānitīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 239,
+            "text": "Fa'in Khiftum Farijālāan 'Aw Rukbānāan Fa'idhā 'Amintum Fādhkurū Allāha Kamā `Allamakum Mā Lam Takūnū Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 240,
+            "text": "Wa Al-Ladhīna Yutawaffawna Minkum Wa Yadharūna 'Azwājāan Waşīyatan Li'zwājihim Matā`āan 'Ilá Al-Ĥawli Ghayra 'Ikhrājin Fa'in Kharajna Falā Junāĥa `Alaykum Fī Mā Fa`alna Fī 'Anfusihinna Min Ma`rūfin Wa Allāhu `Azīzun Ĥakīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 241,
+            "text": "Wa Lilmuţallaqāti Matā`un Bil-Ma`rūfi Ĥaqqāan `Alá Al-Muttaqīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 242,
+            "text": "Kadhālika Yubayyinu Allāhu Lakum 'Āyātihi La`allakum Ta`qilūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 243,
+            "text": "Alam Tara 'Ilá Al-Ladhīna Kharajū Min Diyārihim Wa Hum 'Ulūfun Ĥadhara Al-Mawti Faqāla Lahumu Allāhu Mūtū Thumma 'Aĥyāhum 'Inna Allāha Ladhū Fađlin `Alá An-Nāsi Wa Lakinna 'Akthara An-Nāsi Lā Yashkurūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 244,
+            "text": "Wa Qātilū Fī Sabīli Allāhi Wa A`lamū 'Anna Allāha Samī`un `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 245,
+            "text": "Man Dhā Al-Ladhī Yuqriđu Allāha Qarđāan Ĥasanāan Fayuđā`ifahu Lahu 'Ađ`āfāan Kathīratan Wa Allāhu Yaqbiđu Wa Yabsuţu Wa 'Ilayhi Turja`ūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 246,
+            "text": "Alam Tara 'Ilá Al-Mala'i Min Banī 'Isrā'īla Min Ba`di Mūsá 'Idh Qālū Linabīyin Lahum Ab`ath Lanā Malikāan Nuqātil Fī Sabīli Allāhi Qāla Hal `Asaytum 'In Kutiba `Alaykumu Al-Qitālu 'Allā Tuqātilū Qālū Wa Mā Lanā 'Allā Nuqātila Fī Sabīli Allāhi Wa Qad 'Ukhrijnā Min Diyārinā Wa 'Abnā'inā Falammā Kutiba `Alayhimu Al-Qitālu Tawallaw 'Illā Qalīlāan Minhum Wa Allāhu `Alīmun Biž-Žālimīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 247,
+            "text": "Wa Qāla Lahum Nabīyuhum 'Inna Allāha Qad Ba`atha Lakum Ţālūta Malikāan Qālū 'Anná Yakūnu Lahu Al-Mulku `Alaynā Wa Naĥnu 'Aĥaqqu Bil-Mulki Minhu Wa Lam Yu'uta Sa`atan Mina Al-Māli Qāla 'Inna Allāha Aşţafāhu `Alaykum Wa Zādahu Basţatan Fī Al-`Ilmi Wa Al-Jismi Wa Allāhu Yu'utī Mulkahu Man Yashā'u Wa Allāhu Wāsi`un `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 248,
+            "text": "Wa Qāla Lahum Nabīyuhum 'Inna 'Āyata Mulkihi 'An Ya'tiyakumu At-Tābūtu Fīhi Sakīnatun Min Rabbikum Wa Baqīyatun Mimmā Taraka 'Ālu Mūsá Wa 'Ālu Hārūna Taĥmiluhu Al-Malā'ikatu 'Inna Fī Dhālika La'āyatan Lakum 'In Kuntum Mu'uminīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 249,
+            "text": "Falammā Faşala Ţālūtu Bil-Junūdi Qāla 'Inna Allāha Mubtalīkum Binaharin Faman Shariba Minhu Falaysa Minnī Wa Man Lam Yaţ`amhu Fa'innahu Minnī 'Illā Mani Aghtarafa Ghurfatan Biyadihi Fasharibū Minhu 'Illā Qalīlāan Minhum Falammā Jāwazahu Huwa Wa Al-Ladhīna 'Āmanū Ma`ahu Qālū Lā Ţāqata Lanā Al-Yawma Bijālūta Wa Junūdihi Qāla Al-Ladhīna Yažunnūna 'Annahum Mulāqū Allāhi Kam Min Fi'atin Qalīlatin Ghalabat Fi'atan Kathīratan Bi'idhni Allāhi Wa Allāhu Ma`a Aş-Şābirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 250,
+            "text": "Wa Lammā Barazū Lijālūta Wa Junūdihi Qālū Rabbanā 'Afrigh `Alaynā Şabrāan Wa Thabbit 'Aqdāmanā Wa Anşurnā `Alá Al-Qawmi Al-Kāfirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 251,
+            "text": "Fahazamūhum Bi'idhni Allāhi Wa Qatala Dāwūdu Jālūta Wa 'Ātāhu Allāhu Al-Mulka Wa Al-Ĥikmata Wa `Allamahu Mimmā Yashā'u Wa Lawlā Daf`u Allāhi An-Nāsa Ba`đahum Biba`đin Lafasadati Al-'Arđu Wa Lakinna Allāha Dhū Fađlin `Alá Al-`Ālamīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 252,
+            "text": "Tilka 'Āyātu Allāhi Natlūhā `Alayka Bil-Ĥaqqi Wa 'Innaka Lamina Al-Mursalīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 253,
+            "text": "Tilka Ar-Rusulu Fađđalnā Ba`đahum `Alá Ba`đin Minhum Man Kallama Allāhu Wa Rafa`a Ba`đahum Darajātin Wa 'Ātaynā `Īsá Abna Maryama Al-Bayyināti Wa 'Ayyadnāhu Birūĥi Al-Qudusi Wa Law Shā'a Allāhu Mā Aqtatala Al-Ladhīna Min Ba`dihim Min Ba`di Mā Jā'at/humu Al-Bayyinātu Wa Lakini Akhtalafū Faminhum Man 'Āmana Wa Minhum Man Kafara Wa Law Shā'a Allāhu Mā Aqtatalū Wa Lakinna Allāha Yaf`alu Mā Yurīdu"
+        },
+        {
+            "chapter": 2,
+            "verse": 254,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'Anfiqū Mimmā Razaqnākum Min Qabli 'An Ya'tiya Yawmun Lā Bay`un Fīhi Wa Lā Khullatun Wa Lā Shafā`atun Wa Al-Kāfirūna Humu Až-Žālimūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 255,
+            "text": "Allāhu Lā 'Ilāha 'Illā Huwa Al-Ĥayyu Al-Qayyūmu Lā Ta'khudhuhu Sinatun Wa Lā Nawmun Lahu Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Man Dhā Al-Ladhī Yashfa`u `Indahu 'Illā Bi'idhnihi Ya`lamu Mā Bayna 'Aydīhim Wa Mā Khalfahum Wa Lā Yuĥīţūna Bishay'in Min `Ilmihi 'Illā Bimā Shā'a Wasi`a Kursīyuhu As-Samāwāti Wa Al-'Arđa Wa Lā Ya'ūduhu Ĥifžuhumā Wa Huwa Al-`Alīyu Al-`Ažīmu"
+        },
+        {
+            "chapter": 2,
+            "verse": 256,
+            "text": "Lā 'Ikrāha Fī Ad-Dīni Qad Tabayyana Ar-Rushdu Mina Al-Ghayyi Faman Yakfur Biţ-Ţāghūti Wa Yu'umin Billāhi Faqadi Astamsaka Bil-`Urwati Al-Wuthqá Lā Anfişāma Lahā Wa Allāhu Samī`un `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 257,
+            "text": "Allāhu Wa Līyu Al-Ladhīna 'Āmanū Yukhrijuhum Mina Až-Žulumāti 'Ilá An-Nūr Wa Al-Ladhīna Kafarū 'Awliyā'uuhumu Aţ-Ţāghūtu Yukhrijūnahum Mina An-Nūr 'Ilá Až-Žulumāti 'Ūlā'ika 'Aşĥābu An-Nāri Hum Fīhā Khālidūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 258,
+            "text": "Alam Tara 'Ilá Al-Ladhī Ĥājja 'Ibrāhīma Fī Rabbihi 'An 'Ātāhu Allāhu Al-Mulka 'Idh Qāla 'Ibrāhīmu Rabbī Al-Ladhī Yuĥyī Wa Yumītu Qāla 'Anā 'Uĥyī Wa 'Umītu Qāla 'Ibrāhīmu Fa'inna Allāha Ya'tī Bish-Shamsi Mina Al-Mashriqi Fa'ti Bihā Mina Al-Maghribi Fabuhita Al-Ladhī Kafara Wa Allāhu Lā Yahdī Al-Qawma Až-Žālimīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 259,
+            "text": "Aw Kālladhī Marra `Alá Qaryatin Wa Hiya Khāwiyatun `Alá `Urūshihā Qāla 'Anná Yuĥyī Hadhihi Allāhu Ba`da Mawtihā Fa'amātahu Allāhu Miā'ata `Āmin Thumma Ba`athahu Qāla Kam Labithta Qāla Labithtu Yawmāan 'Aw Ba`đa Yawmin Qāla Bal Labithta Miā'ata `Āmin Fānžur 'Ilá Ţa`āmika Wa Sharābika Lam Yatasannah Wa Anžur 'Ilá Ĥimārika Wa Linaj`alaka 'Āyatan Lilnnāsi Wa Anžur 'Ilá Al-`Ižāmi Kayfa Nunshizuhā Thumma Naksūhā Laĥmāan Falammā Tabayyana Lahu Qāla 'A`lamu 'Anna Allāha `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 260,
+            "text": "Wa 'Idh Qāla 'Ibrāhīmu Rabbi 'Arinī Kayfa Tuĥyī Al-Mawtá Qāla 'Awalam Tu'umin Qāla Balá Wa Lakin Liyaţma'inna Qalbī Qāla Fakhudh 'Arba`atan Mina Aţ-Ţayri Faşurhunna 'Ilayka Thumma Aj`al `Alá Kulli Jabalin Minhunna Juz'āan Thumma Ad`uhunna Ya'tīnaka Sa`yāan Wa A`lam 'Anna Allāha `Azīzun Ĥakīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 261,
+            "text": "Mathalu Al-Ladhīna Yunfiqūna 'Amwālahum Fī Sabīli Allāhi Kamathali Ĥabbatin 'Anbatat Sab`a Sanābila Fī Kulli Sunbulatin Miā'atu Ĥabbatin Wa Allāhu Yuđā`ifu Liman Yashā'u Wa Allāhu Wāsi`un `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 262,
+            "text": "Al-Ladhīna Yunfiqūna 'Amwālahum Fī Sabīli Allāhi Thumma Lā Yutbi`ūna Mā 'Anfaqū Mannāan Wa Lā 'Adháan Lahum 'Ajruhum `Inda Rabbihim Wa Lā Khawfun `Alayhim Wa Lā Hum Yaĥzanūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 263,
+            "text": "Qawlun Ma`rūfun Wa Maghfiratun Khayrun Min Şadaqatin Yatba`uhā 'Adháan Wa Allāhu Ghanīyun Ĥalīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 264,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Tubţilū Şadaqātikum Bil-Manni Wa Al-'Adhá Kālladhī Yunfiqu Mālahu Ri'ā'a An-Nāsi Wa Lā Yu'uminu Billāhi Wa Al-Yawmi Al-'Ākhiri Famathaluhu Kamathali Şafwānin `Alayhi Turābun Fa'aşābahu Wa Abilun Fatarakahu Şaldāan Lā Yaqdirūna `Alá Shay'in Mimmā Kasabū Wa Allāhu Lā Yahdī Al-Qawma Al-Kāfirīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 265,
+            "text": "Wa Mathalu Al-Ladhīna Yunfiqūna 'Amwālahumu Abtighā'a Marđāati Allāhi Wa Tathbītāan Min 'Anfusihim Kamathali Jannatin Birabwatin 'Aşābahā Wa Abilun Fa'ātat 'Ukulahā Đi`fayni Fa'in Lam Yuşibhā Wa Abilun Faţallun Wa Allāhu Bimā Ta`malūna Başīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 266,
+            "text": "Ayawaddu 'Aĥadukum 'An Takūna Lahu Jannatun Min Nakhīlin Wa 'A`nābin Tajrī Min Taĥtihā Al-'Anhāru Lahu Fīhā Min Kulli Ath-Thamarāti Wa 'Aşābahu Al-Kibaru Wa Lahu Dhurrīyatun Đu`afā'u Fa'aşābahā 'I`şārun Fīhi Nārun Fāĥtaraqat Kadhālika Yubayyinu Allāhu Lakumu Al-'Āyāti La`allakum Tatafakkarūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 267,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'Anfiqū Min Ţayyibāti Mā Kasabtum Wa Mimmā 'Akhrajnā Lakum Mina Al-'Arđi Wa Lā Tayammamū Al-Khabītha Minhu Tunfiqūna Wa Lastum Bi'ākhidhīhi 'Illā 'An Tughmiđū Fīhi Wa A`lamū 'Anna Allāha Ghanīyun Ĥamīdun"
+        },
+        {
+            "chapter": 2,
+            "verse": 268,
+            "text": "Ash-Shayţānu Ya`idukumu Al-Faqra Wa Ya'murukum Bil-Faĥshā'i Wa Allāhu Ya`idukum Maghfiratan Minhu Wa Fađlāan Wa Allāhu Wāsi`un `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 269,
+            "text": "Yu'utī Al-Ĥikmata Man Yashā'u Wa Man Yu'uta Al-Ĥikmata Faqad 'Ūtiya Khayrāan Kathīrāan Wa Mā Yadhakkaru 'Illā 'Ūlū Al-'Albābi"
+        },
+        {
+            "chapter": 2,
+            "verse": 270,
+            "text": "Wa Mā 'Anfaqtum Min Nafaqatin 'Aw Nadhartum Min Nadhrin Fa'inna Allāha Ya`lamuhu Wa Mā Lilžžālimīna Min 'Anşārin"
+        },
+        {
+            "chapter": 2,
+            "verse": 271,
+            "text": "In Tubdū Aş-Şadaqāti Fani`immā Hiya Wa 'In Tukhfūhā Wa Tu'utūhā Al-Fuqarā'a Fahuwa Khayrun Lakum Wa Yukaffiru `Ankum Min Sayyi'ātikum Wa Allāhu Bimā Ta`malūna Khabīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 272,
+            "text": "Laysa `Alayka Hudāhum Wa Lakinna Allāha Yahdī Man Yashā'u Wa Mā Tunfiqū Min Khayrin Fali'anfusikum Wa Mā Tunfiqūna 'Illā Abtighā'a Wajhi Allāhi Wa Mā Tunfiqū Min Khayrin Yuwaffa 'Ilaykum Wa 'Antum Lā Tužlamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 273,
+            "text": "Lilfuqarā'i Al-Ladhīna 'Uĥşirū Fī Sabīli Allāhi Lā Yastaţī`ūna Đarbāan Fī Al-'Arđi Yaĥsabuhumu Al-Jāhilu 'Aghniyā'a Mina At-Ta`affufi Ta`rifuhum Bisīmāhum Lā Yas'alūna An-Nāsa 'Ilĥāfāan Wa Mā Tunfiqū Min Khayrin Fa'inna Allāha Bihi `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 274,
+            "text": "Al-Ladhīna Yunfiqūna 'Amwālahum Bil-Layli Wa An-Nahāri Sirrāan Wa `Alāniyatan Falahum 'Ajruhum `Inda Rabbihim Wa Lā Khawfun `Alayhim Wa Lā Hum Yaĥzanūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 275,
+            "text": "Al-Ladhīna Ya'kulūna Ar-Ribā Lā Yaqūmūna 'Illā Kamā Yaqūmu Al-Ladhī Yatakhabbaţuhu Ash-Shayţānu Mina Al-Massi Dhālika Bi'annahum Qālū 'Innamā Al-Bay`u Mithlu Ar-Ribā Wa 'Aĥalla Allāhu Al-Bay`a Wa Ĥarrama Ar-Ribā Faman Jā'ahu Maw`ižatun Min Rabbihi Fāntahá Falahu Mā Salafa Wa 'Amruhu 'Ilá Allāhi Wa Man `Āda Fa'ūlā'ika 'Aşĥābu An-Nāri Hum Fīhā Khālidūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 276,
+            "text": "Yamĥaqu Allāhu Ar-Ribā Wa Yurbī Aş-Şadaqāti Wa Allāhu Lā Yuĥibbu Kulla Kaffārin 'Athīmin"
+        },
+        {
+            "chapter": 2,
+            "verse": 277,
+            "text": "Inna Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Wa 'Aqāmū Aş-Şalāata Wa 'Ātaw Az-Zakāata Lahum 'Ajruhum `Inda Rabbihim Wa Lā Khawfun `Alayhim Wa Lā Hum Yaĥzanūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 278,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Attaqū Allāha Wa Dharū Mā Baqiya Mina Ar-Ribā 'In Kuntum Mu'uminīna"
+        },
+        {
+            "chapter": 2,
+            "verse": 279,
+            "text": "Fa'in Lam Taf`alū Fa'dhanū Biĥarbin Mina Allāhi Wa Rasūlihi Wa 'In Tubtum Falakum Ru'ūsu 'Amwālikum Lā Tažlimūna Wa Lā Tužlamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 280,
+            "text": "Wa 'In Kāna Dhū `Usratin Fanažiratun 'Ilá Maysaratin Wa 'An Taşaddaqū Khayrun Lakum 'In Kuntum Ta`lamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 281,
+            "text": "Wa Attaqū Yawmāan Turja`ūna Fīhi 'Ilá Allāhi Thumma Tuwaffá Kullu Nafsin Mā Kasabat Wa Hum Lā Yužlamūna"
+        },
+        {
+            "chapter": 2,
+            "verse": 282,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'Idhā Tadāyantum Bidaynin 'Ilá 'Ajalin Musammáan Fāktubūhu Wa Līaktub Baynakum Kātibun Bil-`Adli Wa Lā Ya'ba Kātibun 'An Yaktuba Kamā `Allamahu Allāhu Falyaktub Wa Līumlili Al-Ladhī `Alayhi Al-Ĥaqqu Wa Līattaqi Allāha Rabbahu Wa Lā Yabkhas Minhu Shay'āan Fa'in Kāna Al-Ladhī `Alayhi Al-Ĥaqqu Safīhāan 'Aw Đa`īfāan 'Aw Lā Yastaţī`u 'An Yumilla Huwa Falyumlil Walīyuhu Bil-`Adli Wa Astash/hidū Shahīdayni Min Rijālikum Fa'in Lam Yakūnā Rajulayni Farajulun Wa Amra'atāni Mimman Tarđawna Mina Ash-Shuhadā'i 'An Tađilla 'Iĥdāhumā Fatudhakkira 'Iĥdāhumā Al-'Ukhrá Wa Lā Ya'ba Ash-Shuhadā'u 'Idhā Mā Du`ū Wa Lā Tas'amū 'An Taktubūhu Şaghīrāan 'Aw Kabīrāan 'Ilá 'Ajalihi Dhālikum 'Aqsaţu `Inda Allāhi Wa 'Aqwamu Lilshahādati Wa 'Adná 'Allā Tartābū 'Illā 'An Takūna Tijāratan Ĥāđiratan Tudīrūnahā Baynakum Falaysa `Alaykum Junāĥun 'Allā Taktubūhā Wa 'Ash/hidū 'Idhā Tabāya`tum Wa Lā Yuđārra Kātibun Wa Lā Shahīdun Wa 'In Taf`alū Fa'innahu Fusūqun Bikum Wa Attaqū Allāha Wa Yu`allimukumu Allāhu Wa Allāhu Bikulli Shay'in `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 283,
+            "text": "Wa 'In Kuntum `Alá Safarin Wa Lam Tjidū Kātibāan Farihānun Maqbūđatun Fa'in 'Amina Ba`đukum Ba`đāan Falyu'uaddi Al-Ladhī A'utumina 'Amānatahu Wa Līattaqi Allāha Rabbahu Wa Lā Taktumū Ash-Shahādata Wa Man Yaktumhā Fa'innahu 'Āthimun Qalbuhu Wa Allāhu Bimā Ta`malūna `Alīmun"
+        },
+        {
+            "chapter": 2,
+            "verse": 284,
+            "text": "Lillāhi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa 'In Tubdū Mā Fī 'Anfusikum 'Aw Tukhfūhu Yuĥāsibkum Bihi Allāhu Fayaghfiru Liman Yashā'u Wa Yu`adhibu Man Yashā'u Wa Allāhu `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 2,
+            "verse": 285,
+            "text": "Āmana Ar-Rasūlu Bimā 'Unzila 'Ilayhi Min Rabbihi Wa Al-Mu'uminūna Kullun 'Āmana Billāhi Wa Malā'ikatihi Wa Kutubihi Wa Rusulihi Lā Nufarriqu Bayna 'Aĥadin Min Rusulihi Wa Qālū Sami`nā Wa 'Aţa`nā Ghufrānaka Rabbanā Wa 'Ilayka Al-Maşīru"
+        },
+        {
+            "chapter": 2,
+            "verse": 286,
+            "text": "Lā Yukallifu Allāhu Nafsāan 'Illā Wus`ahā Lahā Mā Kasabat Wa `Alayhā Mā Aktasabat Rabbanā Lā Tu'uākhidhnā 'In Nasīnā 'Aw 'Akhţa'nā Rabbanā Wa Lā Taĥmil `Alaynā 'Işrāan Kamā Ĥamaltahu `Alá Al-Ladhīna Min Qablinā Rabbanā Wa Lā Tuĥammilnā Mā Lā Ţāqata Lanā Bihi Wa A`fu `Annā Wa Aghfir Lanā Wa Arĥamnā 'Anta Mawlānā Fānşurnā `Alá Al-Qawmi Al-Kāfirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 1,
+            "text": "Alif-Lām-Mīm"
+        },
+        {
+            "chapter": 3,
+            "verse": 2,
+            "text": "Allāhu Lā 'Ilāha 'Illā Huwa Al-Ĥayyu Al-Qayyūmu"
+        },
+        {
+            "chapter": 3,
+            "verse": 3,
+            "text": "Nazzala `Alayka Al-Kitāba Bil-Ĥaqqi Muşaddiqāan Limā Bayna Yadayhi Wa 'Anzala At-Tawrāata Wa Al-'Injīla"
+        },
+        {
+            "chapter": 3,
+            "verse": 4,
+            "text": "Min Qablu Hudáan Lilnnāsi Wa 'Anzala Al-Furqāna 'Inna Al-Ladhīna Kafarū Bi'āyāti Allāhi Lahum `Adhābun Shadīdun Wa Allāhu `Azīzun Dhū Antiqāmin"
+        },
+        {
+            "chapter": 3,
+            "verse": 5,
+            "text": "Inna Allāha Lā Yakhfá `Alayhi Shay'un Fī Al-'Arđi Wa Lā Fī As-Samā'i"
+        },
+        {
+            "chapter": 3,
+            "verse": 6,
+            "text": "Huwa Al-Ladhī Yuşawwirukum Fī Al-'Arĥāmi Kayfa Yashā'u Lā 'Ilāha 'Illā Huwa Al-`Azīzu Al-Ĥakīmu"
+        },
+        {
+            "chapter": 3,
+            "verse": 7,
+            "text": "Huwa Al-Ladhī 'Anzala `Alayka Al-Kitāba Minhu 'Āyātun Muĥkamātun Hunna 'Ummu Al-Kitābi Wa 'Ukharu Mutashābihātun Fa'ammā Al-Ladhīna Fī Qulūbihim Zayghun Fayattabi`ūna Mā Tashābaha Minhu Abtighā'a Al-Fitnati Wa Abtighā'a Ta'wīlihi Wa Mā Ya`lamu Ta'wīlahu 'Illā Allāhu Wa Ar-Rāsikhūna Fī Al-`Ilmi Yaqūlūna 'Āmannā Bihi Kullun Min `Indi Rabbinā Wa Mā Yadhakkaru 'Illā 'Ūlū Al-'Albābi"
+        },
+        {
+            "chapter": 3,
+            "verse": 8,
+            "text": "Rabbanā Lā Tuzigh Qulūbanā Ba`da 'Idh Hadaytanā Wa Hab Lanā Min Ladunka Raĥmatan 'Innaka 'Anta Al-Wahhābu"
+        },
+        {
+            "chapter": 3,
+            "verse": 9,
+            "text": "Rabbanā 'Innaka Jāmi`u An-Nāsi Liyawmin Lā Rayba Fīhi 'Inna Allāha Lā Yukhlifu Al-Mī`āda"
+        },
+        {
+            "chapter": 3,
+            "verse": 10,
+            "text": "Inna Al-Ladhīna Kafarū Lan Tughniya `Anhum 'Amwāluhum Wa Lā 'Awlāduhum Mina Allāhi Shay'āan Wa 'Ūlā'ika Hum Wa Qūdu An-Nāri"
+        },
+        {
+            "chapter": 3,
+            "verse": 11,
+            "text": "Kada'bi 'Āli Fir`awna Wa Al-Ladhīna Min Qablihim Kadhabū Bi'āyātinā Fa'akhadhahumu Allāhu Bidhunūbihim Wa Allāhu Shadīdu Al-`Iqābi"
+        },
+        {
+            "chapter": 3,
+            "verse": 12,
+            "text": "Qul Lilladhīna Kafarū Satughlabūna Wa Tuĥsharūna 'Ilá Jahannama Wa Bi'sa Al-Mihādu"
+        },
+        {
+            "chapter": 3,
+            "verse": 13,
+            "text": "Qad Kāna Lakum 'Āyatun Fī Fi'atayni At-Taqatā Fi'atun Tuqātilu Fī Sabīli Allāhi Wa 'Ukhrá Kāfiratun Yarawnahum Mithlayhim Ra'ya Al-`Ayni Wa Allāhu Yu'uayyidu Binaşrihi Man Yashā'u 'Inna Fī Dhālika La`ibratan Li'wlī Al-'Abşāri"
+        },
+        {
+            "chapter": 3,
+            "verse": 14,
+            "text": "Zuyyina Lilnnāsi Ĥubbu Ash-Shahawāti Mina An-Nisā' Wa Al-Banīna Wa Al-Qanāţīri Al-Muqanţarati Mina Adh-Dhahabi Wa Al-Fiđđati Wa Al-Khayli Al-Musawwamati Wa Al-'An`āmi Wa Al-Ĥarthi Dhālika Matā`u Al-Ĥayāati Ad-Dunyā Wa Allāhu `Indahu Ĥusnu Al-Ma'ābi"
+        },
+        {
+            "chapter": 3,
+            "verse": 15,
+            "text": "Qul 'A'uunabbi'ukum Bikhayrin Min Dhālikum Lilladhīna Attaqaw `Inda Rabbihim Jannātun Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā Wa 'Azwājun Muţahharatun Wa Riđwānun Mina Allāhi Wa Allāhu Başīrun Bil-`Ibādi"
+        },
+        {
+            "chapter": 3,
+            "verse": 16,
+            "text": "Al-Ladhīna Yaqūlūna Rabbanā 'Innanā 'Āmannā Fāghfir Lanā Dhunūbanā Wa Qinā `Adhāba An-Nāri"
+        },
+        {
+            "chapter": 3,
+            "verse": 17,
+            "text": "Aş-Şābirīna Wa Aş-Şādiqīna Wa Al-Qānitīna Wa Al-Munfiqīna Wa Al-Mustaghfirīna Bil-'Asĥāri"
+        },
+        {
+            "chapter": 3,
+            "verse": 18,
+            "text": "Shahida Allāhu 'Annahu Lā 'Ilāha 'Illā Huwa Wa Al-Malā'ikatu Wa 'Ūlū Al-`Ilmi Qā'imāan Bil-Qisţi Lā 'Ilāha 'Illā Huwa Al-`Azīzu Al-Ĥakīmu"
+        },
+        {
+            "chapter": 3,
+            "verse": 19,
+            "text": "Inna Ad-Dīna `Inda Allāhi Al-'Islāmu Wa Mā Akhtalafa Al-Ladhīna 'Ūtū Al-Kitāba 'Illā Min Ba`di Mā Jā'ahumu Al-`Ilmu Baghyāan Baynahum Wa Man Yakfur Bi'āyāti Allāhi Fa'inna Allāha Sarī`u Al-Ĥisābi"
+        },
+        {
+            "chapter": 3,
+            "verse": 20,
+            "text": "Fa'in Ĥājjūka Faqul 'Aslamtu Wajhiya Lillāhi Wa Mani Attaba`ani Wa Qul Lilladhīna 'Ūtū Al-Kitāba Wa Al-'Ummīyīna 'A'aslamtum Fa'in 'Aslamū Faqadi Ahtadaw Wa 'In Tawallaw Fa'innamā `Alayka Al-Balāghu Wa Allāhu Başīrun Bil-`Ibādi"
+        },
+        {
+            "chapter": 3,
+            "verse": 21,
+            "text": "Inna Al-Ladhīna Yakfurūna Bi'āyāti Allāhi Wa Yaqtulūna An-Nabīyīna Bighayri Ĥaqqin Wa Yaqtulūna Al-Ladhīna Ya'murūna Bil-Qisţi Mina An-Nāsi Fabashirhum Bi`adhābin 'Alīmin"
+        },
+        {
+            "chapter": 3,
+            "verse": 22,
+            "text": "Ūlā'ika Al-Ladhīna Ĥabiţat 'A`māluhum Fī Ad-Dunyā Wa Al-'Ākhirati Wa Mā Lahum Min Nāşirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 23,
+            "text": "Alam Tara 'Ilá Al-Ladhīna 'Ūtū Naşībāan Mina Al-Kitābi Yud`awna 'Ilá Kitābi Allāhi Liyaĥkuma Baynahum Thumma Yatawallá Farīqun Minhum Wa Hum Mu`riđūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 24,
+            "text": "Dhālika Bi'annahum Qālū Lan Tamassanā An-Nāru 'Illā 'Ayyāmāan Ma`dūdātin Wa Gharrahum Fī Dīnihim Mā Kānū Yaftarūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 25,
+            "text": "Fakayfa 'Idhā Jama`nāhum Liyawmin Lā Rayba Fīhi Wa Wuffiyat Kullu Nafsin Mā Kasabat Wa Hum Lā Yužlamūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 26,
+            "text": "Quli Al-Lahumma Mālika Al-Mulki Tu'utī Al-Mulka Man Tashā'u Wa Tanzi`u Al-Mulka Mimman Tashā'u Wa Tu`izzu Man Tashā'u Wa Tudhillu Man Tashā'u Biyadika Al-Khayru 'Innaka `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 3,
+            "verse": 27,
+            "text": "Tūliju Al-Layla Fī An-Nahāri Wa Tūliju An-Nahāra Fī Al-Layli Wa Tukhriju Al-Ĥayya Mina Al-Mayyiti Wa Tukhriju Al-Mayyita Mina Al-Ĥayyi Wa Tarzuqu Man Tashā'u Bighayri Ĥisābin"
+        },
+        {
+            "chapter": 3,
+            "verse": 28,
+            "text": "Lā Yattakhidhi Al-Mu'uminūna Al-Kāfirīna 'Awliyā'a Min Dūni Al-Mu'uminīna Wa Man Yaf`al Dhālika Falaysa Mina Allāhi Fī Shay'in 'Illā 'An Tattaqū Minhum Tuqāatan Wa Yuĥadhirukumu Allāhu Nafsahu Wa 'Ilá Allāhi Al-Maşīru"
+        },
+        {
+            "chapter": 3,
+            "verse": 29,
+            "text": "Qul 'In Tukhfū Mā Fī Şudūrikum 'Aw Tubdūhu Ya`lamhu Allāhu Wa Ya`lamu Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Allāhu `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 3,
+            "verse": 30,
+            "text": "Yawma Tajidu Kullu Nafsin Mā `Amilat Min Khayrin Muĥđarāan Wa Mā `Amilat Min Sū'in Tawaddu Law 'Anna Baynahā Wa Baynahu 'Amadāan Ba`īdāan Wa Yuĥadhirukumu Allāhu Nafsahu Wa Allāhu Ra'ūfun Bil-`Ibādi"
+        },
+        {
+            "chapter": 3,
+            "verse": 31,
+            "text": "Qul 'In Kuntum Tuĥibbūna Allāha Fa Attabi`ūnī Yuĥbibkumu Allāhu Wa Yaghfir Lakum Dhunūbakum Wa Allāhu Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 32,
+            "text": "Qul 'Aţī`ū Allāha Wa Ar-Rasūla Fa'in Tawallaw Fa'inna Allāha Lā Yuĥibbu Al-Kāfirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 33,
+            "text": "Inna Allāha Aşţafá 'Ādama Wa Nūĥāan Wa 'Āla 'Ibrāhīma Wa 'Āla `Imrān `Alá Al-`Ālamīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 34,
+            "text": "Dhurrīyatan Ba`đuhā Min Ba`đin Wa Allāhu Samī`un `Alīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 35,
+            "text": "Idh Qālati Amra'atu `Imrāna Rabbi 'Innī Nadhartu Laka Mā Fī Baţnī Muĥarrarāan Fataqabbal Minnī 'Innaka 'Anta As-Samī`u Al-`Alīmu"
+        },
+        {
+            "chapter": 3,
+            "verse": 36,
+            "text": "Falammā Wađa`at/hā Qālat Rabbi 'Innī Wađa`tuhā 'Unthá Wa Allāhu 'A`lamu Bimā Wađa`at Wa Laysa Adh-Dhakaru Kāl'unthá Wa 'Innī Sammaytuhā Maryama Wa 'Innī 'U`īdhuhā Bika Wa Dhurrīyatahā Mina Ash-Shayţāni Ar-Rajīmi"
+        },
+        {
+            "chapter": 3,
+            "verse": 37,
+            "text": "Fataqabbalahā Rabbuhā Biqabūlin Ĥasanin Wa 'Anbatahā Nabātāan Ĥasanāan Wa Kaffalahā Zakarīyā Kullamā Dakhala `Alayhā Zakarīyā Al-Miĥrāba Wajada `Indahā Rizqāan Qāla Yā Maryamu 'Anná Laki Hādhā Qālat Huwa Min `Indi Allāhi 'Inna Allāha Yarzuqu Man Yashā'u Bighayri Ĥisābin"
+        },
+        {
+            "chapter": 3,
+            "verse": 38,
+            "text": "Hunālika Da`ā Zakarīyā Rabbahu Qāla Rabbi Hab Lī Min Ladunka Dhurrīyatan Ţayyibatan 'Innaka Samī`u Ad-Du`ā'i"
+        },
+        {
+            "chapter": 3,
+            "verse": 39,
+            "text": "Fanādat/hu Al-Malā'ikatu Wa Huwa Qā'imun Yuşallī Fī Al-Miĥrābi 'Anna Allāha Yubashiruka Biyaĥyá Muşaddiqāan Bikalimatin Mina Allāhi Wa Sayyidāan Wa Ĥaşūrāan Wa Nabīyāan Mina Aş-Şāliĥīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 40,
+            "text": "Qāla Rabbi 'Anná Yakūnu Lī Ghulāmun Wa Qad Balaghaniya Al-Kibaru Wa Amra'atī `Āqirun Qāla Kadhālika Allāhu Yaf`alu Mā Yashā'u"
+        },
+        {
+            "chapter": 3,
+            "verse": 41,
+            "text": "Qāla Rabbi Aj`al Lī 'Āyatan Qāla 'Āyatuka 'Allā Tukallima An-Nāsa Thalāthata 'Ayyāmin 'Illā Ramzāan Wa Adhkur Rabbaka Kathīrāan Wa Sabbiĥ Bil-`Ashīyi Wa Al-'Ibkāri"
+        },
+        {
+            "chapter": 3,
+            "verse": 42,
+            "text": "Wa 'Idh Qālati Al-Malā'ikatu Yā Maryamu 'Inna Allāha Aşţafāki Wa Ţahharaki Wa Aşţafāki `Alá Nisā'i Al-`Ālamīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 43,
+            "text": "Yā Maryamu Aqnutī Lirabbiki Wa Asjudī Wa Arka`ī Ma`a Ar-Rāki`īna"
+        },
+        {
+            "chapter": 3,
+            "verse": 44,
+            "text": "Dhālika Min 'Nbā'i Al-Ghaybi Nūĥīhi 'Ilayka Wa Mā Kunta Ladayhim 'Idh Yulqūna 'Aqlāmahum 'Ayyuhum Yakfulu Maryama Wa Mā Kunta Ladayhim 'Idh Yakhtaşimūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 45,
+            "text": "Idh Qālati Al-Malā'ikatu Yā Maryamu 'Inna Allāha Yubashiruki Bikalimatin Minhu Asmuhu Al-Masīĥu `Īsá Abnu Maryama Wajīhāan Fī Ad-Dunyā Wa Al-'Ākhirati Wa Mina Al-Muqarrabīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 46,
+            "text": "Wa Yukallimu An-Nāsa Fī Al-Mahdi Wa Kahlāan Wa Mina Aş-Şāliĥīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 47,
+            "text": "Qālat Rabbi 'Anná Yakūnu Lī Waladun Wa Lam Yamsasnī Basharun Qāla Kadhāliki Allāhu Yakhluqu Mā Yashā'u 'Idhā Qađá 'Amrāan Fa'innamā Yaqūlu Lahu Kun Fayakūnu"
+        },
+        {
+            "chapter": 3,
+            "verse": 48,
+            "text": "Wa Yu`allimuhu Al-Kitāba Wa Al-Ĥikmata Wa At-Tawrāata Wa Al-'Injīla"
+        },
+        {
+            "chapter": 3,
+            "verse": 49,
+            "text": "Wa Rasūlāan 'Ilá Banī 'Isrā'īla 'Annī Qad Ji'tukum Bi'āyatin Min Rabbikum 'Annī 'Akhluqu Lakum Mina Aţ-Ţīni Kahay'ati Aţ-Ţayri Fa'anfukhu Fīhi Fayakūnu Ţayrāan Bi'idhni Allāhi Wa 'Ubri'u Al-'Akmaha Wa Al-'Abraşa Wa 'Uĥyi Al-Mawtá Bi'idhni Allāhi Wa 'Unabbi'ukum Bimā Ta'kulūna Wa Mā Taddakhirūna Fī Buyūtikum 'Inna Fī Dhālika La'āyatan Lakum 'In Kuntum Mu'uminyna"
+        },
+        {
+            "chapter": 3,
+            "verse": 50,
+            "text": "Wa Muşaddiqāan Limā Bayna Yadayya Mina At-Tawrāati Wa Li'uĥilla Lakum Ba`đa Al-Ladhī Ĥurrima `Alaykum Wa Ji'tukum Bi'āyatin Min Rabbikum Fa Attaqū Allāha Wa 'Aţī`ūni"
+        },
+        {
+            "chapter": 3,
+            "verse": 51,
+            "text": "Inna Allāha Rabbī Wa Rabbukum Fā`budūhu Hādhā Şirāţun Mustaqīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 52,
+            "text": "Falammā 'Aĥassa `Īsá Minhumu Al-Kufra Qāla Man 'Anşārī 'Ilá Allāhi Qāla Al-Ĥawārīyūna Naĥnu 'Anşāru Allāhi 'Āmannā Billāhi Wa Ash/had Bi'annā Muslimūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 53,
+            "text": "Rabbanā 'Āmannā Bimā 'Anzalta Wa Attaba`nā Ar-Rasūla Fāktubnā Ma`a Ash-Shāhidīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 54,
+            "text": "Wa Makarū Wa Makara Allāhu Wa Allāhu Khayru Al-Mākirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 55,
+            "text": "Idh Qāla Allāhu Yā `Īsá 'Innī Mutawaffīka Wa Rāfi`uka 'Ilayya Wa Muţahhiruka Mina Al-Ladhīna Kafarū Wa Jā`ilu Al-Ladhīna Attaba`ūka Fawqa Al-Ladhīna Kafarū 'Ilá Yawmi Al-Qiyā Mati Thumma 'Ilayya Marji`ukum Fa'aĥkumu Baynakum Fīmā Kuntum Fīhi Takhtalifūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 56,
+            "text": "Fa'ammā Al-Ladhīna Kafarū Fa'u`adhibuhum `Adhābāan Shadīdāan Fī Ad-Dunyā Wa Al-'Ākhirati Wa Mā Lahum Min Nāşirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 57,
+            "text": "Wa 'Ammā Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Fayuwaffīhim 'Ujūrahum Wa Allāhu Lā Yuĥibbu Až-Žālimīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 58,
+            "text": "Dhālika Natlūhu `Alayka Mina Al-'Āyāti Wa Adh-Dhikri Al-Ĥakīmi"
+        },
+        {
+            "chapter": 3,
+            "verse": 59,
+            "text": "Inna Mathala `Īsá `Inda Allāhi Kamathali 'Ādama Khalaqahu Min Turābin Thumma Qāla Lahu Kun Fayakūnu"
+        },
+        {
+            "chapter": 3,
+            "verse": 60,
+            "text": "Al-Ĥaqqu Min Rabbika Falā Takun Mina Al-Mumtarīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 61,
+            "text": "Faman Ĥājjaka Fīhi Min Ba`di Mā Jā'aka Mina Al-`Ilmi Faqul Ta`ālaw Nad`u 'Abnā'anā Wa 'Abnā'akum Wa Nisā'anā Wa Nisā'akum Wa 'Anfusanā Wa 'Anfusakum Thumma Nabtahil Fanaj`al La`nata Allāhi `Alá Al-Kādhibīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 62,
+            "text": "Inna Hādhā Lahuwa Al-Qaşaşu Al-Ĥaqqu Wa Mā Min 'Ilahin 'Illā Allāhu Wa 'Inna Allāha Lahuwa Al-`Azīzu Al-Ĥakīmu"
+        },
+        {
+            "chapter": 3,
+            "verse": 63,
+            "text": "Fa'in Tawallaw Fa'inna Allāha `Alīmun Bil-Mufsidīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 64,
+            "text": "Qul Yā 'Ahla Al-Kitābi Ta`ālaw 'Ilá Kalimatin Sawā'in Baynanā Wa Baynakum 'Allā Na`buda 'Illā Allāha Wa Lā Nushrika Bihi Shay'āan Wa Lā Yattakhidha Ba`đunā Ba`đāan 'Arbābāan Min Dūni Allāhi Fa'in Tawallaw Faqūlū Ash/hadū Bi'annā Muslimūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 65,
+            "text": "Yā 'Ahla Al-Kitābi Lima Tuĥājjūna Fī 'Ibrāhīma Wa Mā 'Unzilati At-Tawrāatu Wa Al-'Injīlu 'Illā Min Ba`dihi 'Afalā Ta`qilūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 66,
+            "text": "Hā'antum Hā'uulā' Ĥājajtum Fīmā Lakum Bihi `Ilmun Falima Tuĥājjūna Fīmā Laysa Lakum Bihi `Ilmun Wa Allāhu Ya`lamu Wa 'Antum Lā Ta`lamūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 67,
+            "text": "Mā Kāna 'Ibrāhīmu Yahūdīyāan Wa Lā Naşrānīyāan Wa Lakin Kāna Ĥanīfāan Muslimāan Wa Mā Kāna Mina Al-Mushrikīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 68,
+            "text": "Inna 'Awlá An-Nāsi Bi'ibrāhīma Lalladhīna Attaba`ūhu Wa Hadhā An-Nabīyu Wa Al-Ladhīna 'Āmanū Wa Allāhu Wa Līyu Al-Mu'uminīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 69,
+            "text": "Waddat Ţā'ifatun Min 'Ahli Al-Kitābi Law Yuđillūnakum Wa Mā Yuđillūna 'Illā 'Anfusahum Wa Mā Yash`urūn"
+        },
+        {
+            "chapter": 3,
+            "verse": 70,
+            "text": "Yā 'Ahla Al-Kitābi Lima Takfurūna Bi'āyāti Allāhi Wa 'Antum Tash/hadūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 71,
+            "text": "Yā 'Ahla Al-Kitābi Lima Talbisūna Al-Ĥaqqa Bil-Bāţili Wa Taktumūna Al-Ĥaqqa Wa 'Antum Ta`lamūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 72,
+            "text": "Wa Qālat Ţā'ifatun Min 'Ahli Al-Kitābi 'Āminū Bial-Ladhī 'Unzila `Alá Al-Ladhīna 'Āmanū Wajha An-Nahāri Wa Akfurū 'Ākhirahu La`allahum Yarji`ūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 73,
+            "text": "Wa Lā Tu'uminū 'Illā Liman Tabi`a Dīnakum Qul 'Inna Al-Hudá Hudá Allāhi 'An Yu'utá 'Aĥadun Mithla Mā 'Ūtītum 'Aw Yuĥājjūkum `Inda Rabbikum Qul 'Inna Al-Fađla Biyadi Allāhi Yu'utīhi Man Yashā'u Wa Allāhu Wāsi`un `Alīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 74,
+            "text": "Yakhtaşşu Biraĥmatihi Man Yashā'u Wa Allāhu Dhū Al-Fađli Al-`Ažīmi"
+        },
+        {
+            "chapter": 3,
+            "verse": 75,
+            "text": "Wa Min 'Ahli Al-Kitābi Man 'In Ta'manhu Biqinţārin Yu'uaddihi 'Ilayka Wa Minhum Man 'In Ta'manhu Bidīnārin Lā Yu'uaddihi 'Ilayka 'Illā Mā Dumta `Alayhi Qā'imāan Dhālika Bi'annahum Qālū Laysa `Alaynā Fī Al-'Ummīyīna Sabīlun Wa Yaqūlūna `Alá Allāhi Al-Kadhiba Wa Hum Ya`lamūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 76,
+            "text": "Balá Man 'Awfá Bi`ahdihi Wa Attaqá Fa'inna Allāha Yuĥibbu Al-Muttaqīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 77,
+            "text": "Inna Al-Ladhīna Yashtarūna Bi`ahdi Allāhi Wa 'Aymānihim Thamanāan Qalīlāan 'Ūlā'ika Lā Khalāqa Lahum Fī Al-'Ākhirati Wa Lā Yukallimuhumu Allāhu Wa Lā Yanžuru 'Ilayhim Yawma Al-Qiyāmati Wa Lā Yuzakkīhim Wa Lahum `Adhābun 'Alīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 78,
+            "text": "Wa 'Inna Minhum Lafarīqāan Yalwūna 'Alsinatahum Bil-Kitābi Litaĥsabūhu Mina Al-Kitābi Wa Mā Huwa Mina Al-Kitābi Wa Yaqūlūna Huwa Min `Indi Allāhi Wa Mā Huwa Min `Indi Allāhi Wa Yaqūlūna `Alá Allāhi Al-Kadhiba Wa Hum Ya`lamūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 79,
+            "text": "Mā Kāna Libasharin 'An Yu'utiyahu Allāhu Al-Kitāba Wa Al-Ĥukma Wa An-Nubūwata Thumma Yaqūla Lilnnāsi Kūnū `Ibādāan Lī Min Dūni Allāhi Wa Lakin Kūnū Rabbānīyīna Bimā Kuntum Tu`allimūna Al-Kitāba Wa Bimā Kuntum Tadrusūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 80,
+            "text": "Wa Lā Ya'murakum 'An Tattakhidhū Al-Malā'ikata Wa An-Nabīyīna 'Arbābāan 'Aya'murukum Bil-Kufri Ba`da 'Idh 'Antum Muslimūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 81,
+            "text": "Wa 'Idh 'Akhadha Allāhu Mīthāqa An-Nabīyīna Lamā 'Ātaytukum Min Kitābin Wa Ĥikmatin Thumma Jā'akum Rasūlun Muşaddiqun Limā Ma`akum Latu'uminunna Bihi Wa Latanşurunnahu Qāla 'A'aqrartum Wa 'Akhadhtum `Alá Dhālikum 'Işrī Qālū 'Aqrarnā Qāla Fāsh/hadū Wa 'Anā Ma`akum Mina Ash-Shāhidīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 82,
+            "text": "Faman Tawallá Ba`da Dhālika Fa'ūlā'ika Humu Al-Fāsiqūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 83,
+            "text": "Afaghayra Dīni Allāhi Yabghūna Wa Lahu 'Aslama Man Fī As-Samāwāti Wa Al-'Arđi Ţaw`āan Wa Karhāan Wa 'Ilayhi Yurja`ūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 84,
+            "text": "Qul 'Āmannā Billāhi Wa Mā 'Unzila `Alaynā Wa Mā 'Unzila `Alá 'Ibrāhīma Wa 'Ismā`īla Wa 'Isĥāqa Wa Ya`qūba Wa Al-'Asbāţi Wa Mā 'Ūtiya Mūsá Wa `Īsá Wa An-Nabīyūna Min Rabbihim Lā Nufarriqu Bayna 'Aĥadin Minhum Wa Naĥnu Lahu Muslimūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 85,
+            "text": "Wa Man Yabtaghi Ghayra Al-'Islāmi Dīnāan Falan Yuqbala Minhu Wa Huwa Fī Al-'Ākhirati Mina Al-Khāsirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 86,
+            "text": "Kayfa Yahdī Allāhu Qawmāan Kafarū Ba`da 'Īmānihim Wa Shahidū 'Anna Ar-Rasūla Ĥaqqun Wa Jā'ahumu Al-Bayyinātu Wa Allāhu Lā Yahdī Al-Qawma Až-Žālimīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 87,
+            "text": "Ūlā'ika Jazā'uuhum 'Anna `Alayhim La`nata Allāhi Wa Al-Malā'ikati Wa An-Nāsi 'Ajma`īna"
+        },
+        {
+            "chapter": 3,
+            "verse": 88,
+            "text": "Khālidīna Fīhā Lā Yukhaffafu `Anhumu Al-`Adhābu Wa Lā Hum Yunžarūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 89,
+            "text": "Illā Al-Ladhīna Tābū Min Ba`di Dhālika Wa 'Aşlaĥū Fa'inna Allāha Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 90,
+            "text": "Inna Al-Ladhīna Kafarū Ba`da 'Īmānihim Thumma Azdādū Kufrāan Lan Tuqbala Tawbatuhum Wa 'Ūlā'ika Humu Ađ-Đāllūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 91,
+            "text": "Inna Al-Ladhīna Kafarū Wa Mātū Wa Hum Kuffārun Falan Yuqbala Min 'Aĥadihim Mil'u Al-'Arđi Dhahabāan Wa Law Aftadá Bihi 'Ūlā'ika Lahum `Adhābun 'Alīmun Wa Mā Lahum Min Nāşirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 92,
+            "text": "Lan Tanālū Al-Birra Ĥattá Tunfiqū Mimmā Tuĥibbūna Wa Mā Tunfiqū Min Shay'in Fa'inna Allāha Bihi `Alīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 93,
+            "text": "Kullu Aţ-Ţa`āmi Kāna Ĥillāan Libanī 'Isrā'īla 'Illā Mā Ĥarrama 'Isrā'īlu `Alá Nafsihi Min Qabli 'An Tunazzala At-Tawrāatu Qul Fa'tū Bit-Tawrāati Fātlūhā 'In Kuntum Şādiqīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 94,
+            "text": "Famani Aftará `Alá Allāhi Al-Kadhiba Min Ba`di Dhālika Fa'ūlā'ika Humu Až-Žālimūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 95,
+            "text": "Qul Şadaqa Allāhu Fa Attabi`ū Millata 'Ibrāhīma Ĥanīfāan Wa Mā Kāna Mina Al-Mushrikīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 96,
+            "text": "Inna 'Awwala Baytin Wuđi`a Lilnnāsi Lalladhī Bibakkata Mubārakāan Wa Hudáan Lil`ālamīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 97,
+            "text": "Fīhi 'Āyātun Bayyinātun Maqāmu 'Ibrāhīma Wa Man Dakhalahu Kāna 'Āmināan Wa Lillahi `Alá An-Nāsi Ĥijju Al-Bayti Mani Astaţā`a 'Ilayhi Sabīlāan Wa Man Kafara Fa'inna Allāha Ghanīyun `Ani Al-`Ālamīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 98,
+            "text": "Qul Yā 'Ahla Al-Kitābi Lima Takfurūna Bi'āyāti Allāhi Wa Allāhu Shahīdun `Alá Mā Ta`malūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 99,
+            "text": "Qul Yā 'Ahla Al-Kitābi Lima Taşuddūna `An Sabīli Allāhi Man 'Āmana Tabghūnahā `Iwajāan Wa 'Antum Shuhadā'u Wa Mā Allāhu Bighāfilin `Ammā Ta`malūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 100,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'In Tuţī`ū Farīqāan Mina Al-Ladhīna 'Ūtū Al-Kitāba Yaruddūkum Ba`da 'Īmānikum Kāfirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 101,
+            "text": "Wa Kayfa Takfurūna Wa 'Antum Tutlá `Alaykum 'Āyātu Allāhi Wa Fīkum Rasūluhu Wa Man Ya`taşim Billāhi Faqad Hudiya 'Ilá Şirāţin Mustaqīmin"
+        },
+        {
+            "chapter": 3,
+            "verse": 102,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Attaqū Allāha Ĥaqqa Tuqātihi Wa Lā Tamūtunna 'Illā Wa 'Antum Muslimūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 103,
+            "text": "Wa A`taşimū Biĥabli Allāhi Jamī`āan Wa Lā Tafarraqū Wa Adhkurū Ni`mata Allāhi `Alaykum 'Idh Kuntum 'A`dā'an Fa'allafa Bayna Qulūbikum Fa'aşbaĥtum Bini`matihi 'Ikhwānāan Wa Kuntum `Alá Shafā Ĥufratin Mina An-Nāri Fa'anqadhakum Minhā Kadhālika Yubayyinu Allāhu Lakum 'Āyātihi La`allakum Tahtadūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 104,
+            "text": "Wa Ltakun Minkum 'Ummatun Yad`ūna 'Ilá Al-Khayri Wa Ya'murūna Bil-Ma`rūfi Wa Yanhawna `Ani Al-Munkari Wa 'Ūlā'ika Humu Al-Mufliĥūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 105,
+            "text": "Wa Lā Takūnū Kālladhīna Tafarraqū Wa Akhtalafū Min Ba`di Mā Jā'ahumu Al-Bayyinātu Wa 'Ūlā'ika Lahum `Adhābun `Ažīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 106,
+            "text": "Yawma Tabyađđu Wujūhun Wa Taswaddu Wujūhun Fa'ammā Al-Ladhīna Aswaddat Wujūhuhum 'Akafartum Ba`da 'Īmānikum Fadhūqū Al-`Adhāba Bimā Kuntum Takfurūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 107,
+            "text": "Wa 'Ammā Al-Ladhīna Abyađđat Wujūhuhum Fafī Raĥmati Allāhi Hum Fīhā Khālidūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 108,
+            "text": "Tilka 'Āyātu Allāhi Natlūhā `Alayka Bil-Ĥaqqi Wa Mā Allāhu Yurīdu Žulmāan Lil`ālamīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 109,
+            "text": "Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa 'Ilá Allāhi Turja`u Al-'Umūru"
+        },
+        {
+            "chapter": 3,
+            "verse": 110,
+            "text": "Kuntum Khayra 'Ummatin 'Ukhrijat Lilnnāsi Ta'murūna Bil-Ma`rūfi Wa Tanhawna `Ani Al-Munkari Wa Tu'uminūna Billāhi Wa Law 'Āmana 'Ahlu Al-Kitābi Lakāna Khayrāan Lahum Minhumu Al-Mu'uminūna Wa 'Aktharuhumu Al-Fāsiqūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 111,
+            "text": "Lan Yađurrūkum 'Illā 'Adháan Wa 'In Yuqātilūkum Yuwallūkumu Al-'Adbāra Thumma Lā Yunşarūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 112,
+            "text": "Đuribat `Alayhimu Adh-Dhillatu 'Ayna Mā Thuqifū 'Illā Biĥablin Mina Allāhi Wa Ĥablin Mina An-Nāsi Wa Bā'ū Bighađabin Mina Allāhi Wa Đuribat `Alayhimu Al-Maskanatu Dhālika Bi'annahum Kānū Yakfurūna Bi'āyāti Allāhi Wa Yaqtulūna Al-'Anbiyā'a Bighayri Ĥaqqin Dhālika Bimā `Aşaw Wa Kānū Ya`tadūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 113,
+            "text": "Laysū Sawā'an Min 'Ahli Al-Kitābi 'Ummatun Qā'imatun Yatlūna 'Āyāti Allāhi 'Ānā'a Al-Layli Wa Hum Yasjudūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 114,
+            "text": "Yu'uminūna Billāhi Wa Al-Yawmi Al-'Ākhiri Wa Ya'murūna Bil-Ma`rūfi Wa Yanhawna `Ani Al-Munkari Wa Yusāri`ūna Fī Al-Khayrāti Wa 'Ūlā'ika Mina Aş-Şāliĥīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 115,
+            "text": "Wa Mā Yaf`alū Min Khayrin Falan Yukfarūhu Wa Allāhu `Alīmun Bil-Muttaqīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 116,
+            "text": "Inna Al-Ladhīna Kafarū Lan Tughniya `Anhum 'Amwāluhum Wa Lā 'Awlāduhum Mina Allāhi Shay'āan Wa 'Ūlā'ika 'Aşĥābu An-Nāri Hum Fīhā Khālidūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 117,
+            "text": "Mathalu Mā Yunfiqūna Fī Hadhihi Al-Ĥayāati Ad-Dunyā Kamathali Rīĥin Fīhā Şirrun 'Aşābat Ĥartha Qawmin Žalamū 'Anfusahum Fa'ahlakat/hu Wa Mā Žalamahumu Allāhu Wa Lakin 'Anfusahum Yažlimūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 118,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Tattakhidhū Biţānatan Min Dūnikum Lā Ya'lūnakum Khabālāan Wa Ddū Mā `Anittum Qad Badati Al-Baghđā'u Min 'Afwāhihim Wa Mā Tukhfī Şudūruhum 'Akbaru Qad Bayyannā Lakumu Al-'Āyāti 'In Kuntum Ta`qilūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 119,
+            "text": "Hā'antum 'Ūlā'i Tuĥibbūnahum Wa Lā Yuĥibbūnakum Wa Tu'uminūna Bil-Kitābi Kullihi Wa 'Idhā Laqūkum Qālū 'Āmannā Wa 'Idhā Khalaw `Ađđū `Alaykumu Al-'Anāmila Mina Al-Ghayži Qul Mūtū Bighayžikum 'Inna Allāha `Alīmun Bidhāti Aş-Şudūri"
+        },
+        {
+            "chapter": 3,
+            "verse": 120,
+            "text": "In Tamsaskum Ĥasanatun Tasu'uhum Wa 'In Tuşibkum Sayyi'atun Yafraĥū Bihā Wa 'In Taşbirū Wa Tattaqū Lā Yađurrukum Kayduhum Shay'āan 'Inna Allāha Bimā Ya`malūna Muĥīţun"
+        },
+        {
+            "chapter": 3,
+            "verse": 121,
+            "text": "Wa 'Idh Ghadawta Min 'Ahlika Tubawwi'u Al-Mu'uminīna Maqā`ida Lilqitāli Wa Allāhu Samī`un `Alīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 122,
+            "text": "Idh Hammat Ţā'ifatāni Minkum 'An Tafshalā Wa Allāhu Walīyuhumā Wa `Alá Allāhi Falyatawakkali Al-Mu'uminūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 123,
+            "text": "Wa Laqad Naşarakumu Allāhu Bibadrin Wa 'Antum 'Adhillatun Fa Attaqū Allāha La`allakum Tashkurūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 124,
+            "text": "Idh Taqūlu Lilmu'uminīna 'Alan Yakfiyakum 'An Yumiddakum Rabbukum Bithalāthati 'Ālāfin Mina Al-Malā'ikati Munzalīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 125,
+            "text": "Balá 'In Taşbirū Wa Tattaqū Wa Ya'tūkum Min Fawrihim Hādhā Yumdidkum Rabbukum Bikhamsati 'Ālāfin Mina Al-Malā'ikati Musawwimīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 126,
+            "text": "Wa Mā Ja`alahu Allāhu 'Illā Bushrá Lakum Wa Litaţma'inna Qulūbukum Bihi Wa Mā An-Naşru 'Illā Min `Indi Allāhi Al-`Azīzi Al-Ĥakīmi"
+        },
+        {
+            "chapter": 3,
+            "verse": 127,
+            "text": "Liyaqţa`a Ţarafāan Mina Al-Ladhīna Kafarū 'Aw Yakbitahum Fayanqalibū Khā'ibīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 128,
+            "text": "Laysa Laka Mina Al-'Amri Shay'un 'Aw Yatūba `Alayhim 'Aw Yu`adhibahum Fa'innahum Žālimūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 129,
+            "text": "Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Yaghfiru Liman Yashā'u Wa Yu`adhibu Man Yashā'u Wa Allāhu Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 130,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Ta'kulū Ar-Ribā 'Ađ`āfāan Muđā`afatan Wa Attaqū Allāha La`allakum Tufliĥūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 131,
+            "text": "Wa Attaqū An-Nāra Allatī 'U`iddat Lilkāfirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 132,
+            "text": "Wa 'Aţī`ū Allāha Wa Ar-Rasūla La`allakum Turĥamūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 133,
+            "text": "Wa Sāri`ū 'Ilá Maghfiratin Min Rabbikum Wa Jannatin `Arđuhā As-Samāwātu Wa Al-'Arđu 'U`iddat Lilmuttaqīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 134,
+            "text": "Al-Ladhīna Yunfiqūna Fī As-Sarrā'i Wa Ađ-Đarrā'i Wa Al-Kāžimīna Al-Ghayža Wa Al-`Āfīna `Ani An-Nāsi Wa Allāhu Yuĥibbu Al-Muĥsinīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 135,
+            "text": "Wa Al-Ladhīna 'Idhā Fa`alū Fāĥishatan 'Aw Žalamū 'Anfusahum Dhakarū Allāha Fāstaghfarū Lidhunūbihim Wa Man Yaghfiru Adh-Dhunūba 'Illā Allāhu Wa Lam Yuşirrū `Alá Mā Fa`alū Wa Hum Ya`lamūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 136,
+            "text": "Ūlā'ika Jazā'uuhum Maghfiratun Min Rabbihim Wa Jannātun Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā Wa Ni`ma 'Ajru Al-`Āmilīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 137,
+            "text": "Qad Khalat Min Qablikum Sunanun Fasīrū Fī Al-'Arđi Fānžurū Kayfa Kāna `Āqibatu Al-Mukadhibīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 138,
+            "text": "Hādhā Bayānun Lilnnāsi Wa Hudáan Wa Maw`ižatun Lilmuttaqīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 139,
+            "text": "Wa Lā Tahinū Wa Lā Taĥzanū Wa 'Antumu Al-'A`lawna 'In Kuntum Mu'uminīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 140,
+            "text": "In Yamsaskum Qarĥun Faqad Massa Al-Qawma Qarĥun Mithluhu Wa Tilka Al-'Ayyāmu Nudāwiluhā Bayna An-Nāsi Wa Liya`lama Allāhu Al-Ladhīna 'Āmanū Wa Yattakhidha Minkum Shuhadā'a Wa Allāhu Lā Yuĥibbu Až-Žālimīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 141,
+            "text": "Wa Liyumaĥĥişa Allāhu Al-Ladhīna 'Āmanū Wa Yamĥaqa Al-Kāfirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 142,
+            "text": "Am Ĥasibtum 'An Tadkhulū Al-Jannata Wa Lammā Ya`lami Allāhu Al-Ladhīna Jāhadū Minkum Wa Ya`lama Aş-Şābirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 143,
+            "text": "Wa Laqad Kuntum Tatamannawn Al-Mawta Min Qabli 'An Talqawhu Faqad Ra'aytumūhu Wa 'Antum Tanžurūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 144,
+            "text": "Wa Mā Muĥammadun 'Illā Rasūlun Qad Khalat Min Qablihi Ar-Rusulu 'Afa'īn Māta 'Aw Qutila Anqalabtum `Alá 'A`qābikum Wa Man Yanqalib `Alá `Aqibayhi Falan Yađurra Allāha Shay'āan Wa Sayajzī Allāhu Ash-Shākirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 145,
+            "text": "Wa Mā Kāna Linafsin 'An Tamūta 'Illā Bi'idhni Allāhi Kitābāan Mu'uajjalāan Wa Man Yurid Thawāba Ad-Dunyā Nu'utihi Minhā Wa Man Yurid Thawāba Al-'Ākhirati Nu'utihi Minhā Wa Sanajzī Ash-Shākirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 146,
+            "text": "Wa Ka'ayyin Min Nabīyin Qātala Ma`ahu Ribbīyūna Kathīrun Famā Wahanū Limā 'Aşābahum Fī Sabīli Allāhi Wa Mā Đa`ufū Wa Mā Astakānū Wa Allāhu Yuĥibbu Aş-Şābirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 147,
+            "text": "Wa Mā Kāna Qawlahum 'Illā 'An Qālū Rabbanā Aghfir Lanā Dhunūbanā Wa 'Isrāfanā Fī 'Amrinā Wa Thabbit 'Aqdāmanā Wa Anşurnā `Alá Al-Qawmi Al-Kāfirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 148,
+            "text": "Fa'ātāhumu Allāhu Thawāba Ad-Dunyā Wa Ĥusna Thawābi Al-'Ākhirati Wa Allāhu Yuĥibbu Al-Muĥsinīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 149,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'In Tuţī`ū Al-Ladhīna Kafarū Yaruddūkum `Alá 'A`qābikum Fatanqalibū Khāsirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 150,
+            "text": "Bali Allāhu Mawlākum Wa Huwa Khayru An-Nāşirīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 151,
+            "text": "Sanulqī Fī Qulūbi Al-Ladhīna Kafarū Ar-Ru`ba Bimā 'Ashrakū Billāhi Mā Lam Yunazzil Bihi Sulţānāan Wa Ma'wāhumu An-Nāru Wa Bi'sa Mathwá Až-Žālimīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 152,
+            "text": "Wa Laqad Şadaqakumu Allāhu Wa`dahu 'Idh Taĥussūnahum Bi'idhnihi Ĥattá 'Idhā Fashiltum Wa Tanāza`tum Fī Al-'Amri Wa `Aşaytum Min Ba`di Mā 'Arākum Mā Tuĥibbūna Minkum Man Yurīdu Ad-Dunyā Wa Minkum Man Yurīdu Al-'Ākhirata Thumma Şarafakum `Anhum Liyabtaliyakum Wa Laqad `Afā `Ankum Wa Allāhu Dhū Fađlin `Alá Al-Mu'uminīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 153,
+            "text": "Idh Tuş`idūna Wa Lā Talwūna `Alá 'Aĥadin Wa Ar-Rasūlu Yad`ūkum Fī 'Ukhrākum Fa'athābakum Ghammāan Bighammin Likaylā Taĥzanū `Alá Mā Fātakum Wa Lā Mā 'Aşābakum Wa Allāhu Khabīrun Bimā Ta`malūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 154,
+            "text": "Thumma 'Anzala `Alaykum Min Ba`di Al-Ghammi 'Amanatan Nu`āsāan Yaghshá Ţā'ifatan Minkum Wa Ţā'ifatun Qad 'Ahammat/hum 'Anfusuhum Yažunnūna Billāhi Ghayra Al-Ĥaqqi Žanna Al-Jāhilīyati Yaqūlūna Hal Lanā Mina Al-'Amri Min Shay'in Qul 'Inna Al-'Amra Kullahu Lillāhi Yukhfūna Fī 'Anfusihim Mā Lā Yubdūna Laka Yaqūlūna Law Kāna Lanā Mina Al-'Amri Shay'un Mā Qutilnā Hāhunā Qul Law Kuntum Fī Buyūtikum Labaraza Al-Ladhīna Kutiba `Alayhimu Al-Qatlu 'Ilá Mađāji`ihim Wa Liyabtaliya Allāhu Mā Fī Şudūrikum Wa Liyumaĥĥişa Mā Fī Qulūbikum Wa Allāhu `Alīmun Bidhāti Aş-Şudūri"
+        },
+        {
+            "chapter": 3,
+            "verse": 155,
+            "text": "Inna Al-Ladhīna Tawallaw Minkum Yawma At-Taqá Al-Jam`āni 'Innamā Astazallahumu Ash-Shayţānu Biba`đi Mā Kasabū Wa Laqad `Afā Allāhu `Anhum 'Inna Allāha Ghafūrun Ĥalīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 156,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Takūnū Kālladhīna Kafarū Wa Qālū Li'khwānihim 'Idhā Đarabū Fī Al-'Arđi 'Aw Kānū Ghuzzáan Law Kānū `Indanā Mā Mātū Wa Mā Qutilū Liyaj`ala Allāhu Dhālika Ĥasratan Fī Qulūbihim Wa Allāhu Yuĥyī Wa Yumītu Wa Allāhu Bimā Ta`malūna Başīrun"
+        },
+        {
+            "chapter": 3,
+            "verse": 157,
+            "text": "Wa La'in Qutiltum Fī Sabīli Allāhi 'Aw Muttum Lamaghfiratun Mina Allāhi Wa Raĥmatun Khayrun Mimmā Yajma`ūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 158,
+            "text": "Wa La'in Muttum 'Aw Qutiltum La'ilá Allāhi Tuĥsharūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 159,
+            "text": "Fabimā Raĥmatin Mina Allāhi Linta Lahum Wa Law Kunta Fažžāan Ghalīža Al-Qalbi Lānfađđū Min Ĥawlika Fā`fu `Anhum Wa Astaghfir Lahum Wa Shāwirhum Fī Al-'Amri Fa'idhā `Azamta Fatawakkal `Alá Allāhi 'Inna Allāha Yuĥibbu Al-Mutawakkilīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 160,
+            "text": "In Yanşurkumu Allāhu Falā Ghāliba Lakum Wa 'In Yakhdhulkum Faman Dhā Al-Ladhī Yanşurukum Min Ba`dihi Wa `Alá Allāhi Falyatawakkali Al-Mu'uminūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 161,
+            "text": "Wa Mā Kāna Linabīyin 'An Yaghulla Wa Man Yaghlul Ya'ti Bimā Ghalla Yawma Al-Qiyāmati Thumma Tuwaffá Kullu Nafsin Mā Kasabat Wa Hum Lā Yužlamūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 162,
+            "text": "Afamani Attaba`a Riđwāna Allāhi Kaman Bā'a Bisakhaţin Mina Allāhi Wa Ma'wāhu Jahannamu Wa Bi'sa Al-Maşīru"
+        },
+        {
+            "chapter": 3,
+            "verse": 163,
+            "text": "Hum Darajātun `Inda Allāhi Wa Allāhu Başīrun Bimā Ya`malūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 164,
+            "text": "Laqad Manna Allāhu `Alá Al-Mu'uminīna 'Idh Ba`atha Fīhim Rasūlāan Min 'Anfusihim Yatlū `Alayhim 'Āyātihi Wa Yuzakkīhim Wa Yu`allimuhumu Al-Kitāba Wa Al-Ĥikmata Wa 'In Kānū Min Qablu Lafī Đalālin Mubīnin"
+        },
+        {
+            "chapter": 3,
+            "verse": 165,
+            "text": "Awalammā 'Aşābatkum Muşībatun Qad 'Aşabtum Mithlayhā Qultum 'Anná Hādhā Qul Huwa Min `Indi 'Anfusikum 'Inna Allāha `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 3,
+            "verse": 166,
+            "text": "Wa Mā 'Aşābakum Yawma At-Taqá Al-Jam`āni Fabi'idhni Allāhi Wa Liya`lama Al-Mu'uminīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 167,
+            "text": "Wa Liya`lama Al-Ladhīna Nāfaqū Wa Qīla Lahum Ta`ālaw Qātilū Fī Sabīli Allāhi 'Aw Adfa`ū Qālū Law Na`lamu Qitālāan Lāttaba`nākum Hum Lilkufri Yawma'idhin 'Aqrabu Minhum Lil'īmāni Yaqūlūna Bi'afwhihim Mā Laysa Fī Qulūbihim Wa Allāhu 'A`lamu Bimā Yaktumūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 168,
+            "text": "Al-Ladhīna Qālū Li'khwānihim Wa Qa`adū Law 'Aţā`ūnā Mā Qutilū Qul Fādra'ū `An 'Anfusikumu Al-Mawta 'In Kuntum Şādiqīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 169,
+            "text": "Wa Lā Taĥsabanna Al-Ladhīna Qutilū Fī Sabīli Allāhi 'Amwātāan Bal 'Aĥyā'un `Inda Rabbihim Yurzaqūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 170,
+            "text": "Fariĥīna Bimā 'Ātāhumu Allāhu Min Fađlihi Wa Yastabshirūna Bial-Ladhīna Lam Yalĥaqū Bihim Min Khalfihim 'Allā Khawfun `Alayhim Wa Lā Hum Yaĥzanūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 171,
+            "text": "Yastabshirūna Bini`matin Mina Allāhi Wa Fađlin Wa 'Anna Allāha Lā Yuđī`u 'Ajra Al-Mu'uminīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 172,
+            "text": "Al-Ladhīna Astajābū Lillāhi Wa Ar-Rasūli Min Ba`di Mā 'Aşābahumu Al-Qarĥu Lilladhīna 'Aĥsanū Minhum Wa Attaqaw 'Ajrun `Ažīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 173,
+            "text": "Al-Ladhīna Qāla Lahumu An-Nāsu 'Inna An-Nāsa Qad Jama`ū Lakum Fākhshawhum Fazādahum 'Īmānāan Wa Qālū Ĥasbunā Allāhu Wa Ni`ma Al-Wakīlu"
+        },
+        {
+            "chapter": 3,
+            "verse": 174,
+            "text": "Fānqalabū Bini`matin Mina Allāhi Wa Fađlin Lam Yamsas/hum Sū'un Wa Attaba`ū Riđwāna Allāhi Wa Allāhu Dhū Fađlin `Ažīmin"
+        },
+        {
+            "chapter": 3,
+            "verse": 175,
+            "text": "Innamā Dhalikumu Ash-Shayţānu Yukhawwifu 'Awliyā'ahu Falā Takhāfūhum Wa Khāfūni 'In Kuntum Mu'uminīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 176,
+            "text": "Wa Lā Yaĥzunka Al-Ladhīna Yusāri`ūna Fī Al-Kufri 'Innahum Lan Yađurrū Allāha Shay'āan Yurīdu Allāhu 'Allā Yaj`ala Lahum Ĥažžāan Fī Al-'Ākhirati Wa Lahum `Adhābun `Ažīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 177,
+            "text": "Inna Al-Ladhīna Ashtaraw Al-Kufra Bil-'Īmāni Lan Yađurrū Allāha Shay'āan Wa Lahum `Adhābun 'Alīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 178,
+            "text": "Wa Lā Yaĥsabanna Al-Ladhīna Kafarū 'Annamā Numlī Lahum Khayrun Li'anfusihim 'Innamā Numlī Lahum Liyazdādū 'Ithmāan Wa Lahum `Adhābun Muhīnun"
+        },
+        {
+            "chapter": 3,
+            "verse": 179,
+            "text": "Mā Kāna Allāhu Liyadhara Al-Mu'uminīna `Alá Mā 'Antum `Alayhi Ĥattá Yamīza Al-Khabītha Mina Aţ-Ţayyibi Wa Mā Kāna Allāhu Liyuţli`akum `Alá Al-Ghaybi Wa Lakinna Allāha Yajtabī Min Rusulihi Man Yashā'u Fa'āminū Billāhi Wa Rusulihi Wa 'In Tu'uminū Wa Tattaqū Falakum 'Ajrun `Ažīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 180,
+            "text": "Wa Lā Yaĥsabanna Al-Ladhīna Yabkhalūna Bimā 'Ātāhumu Allāhu Min Fađlihi Huwa Khayrāan Lahum Bal Huwa Sharrun Lahum Sayuţawwaqūna Mā Bakhilū Bihi Yawma Al-Qiyāmati Wa Lillahi Mīrāthu As-Samāwāti Wa Al-'Arđi Wa Allāhu Bimā Ta`malūna Khabīrun"
+        },
+        {
+            "chapter": 3,
+            "verse": 181,
+            "text": "Laqad Sami`a Allāhu Qawla Al-Ladhīna Qālū 'Inna Allāha Faqīrun Wa Naĥnu 'Aghniyā'u Sanaktubu Mā Qālū Wa Qatlahumu Al-'Anbiyā'a Bighayri Ĥaqqin Wa Naqūlu Dhūqū `Adhāba Al-Ĥarīqi"
+        },
+        {
+            "chapter": 3,
+            "verse": 182,
+            "text": "Dhālika Bimā Qaddamat 'Aydīkum Wa 'Anna Allāha Laysa Bižallāmin Lil`abīdi"
+        },
+        {
+            "chapter": 3,
+            "verse": 183,
+            "text": "Al-Ladhīna Qālū 'Inna Allāha `Ahida 'Ilaynā 'Allā Nu'umina Lirasūlin Ĥattá Ya'tiyanā Biqurbānin Ta'kuluhu An-Nāru Qul Qad Jā'akum Rusulun Min Qablī Bil-Bayyināti Wa Bial-Ladhī Qultum Falima Qataltumūhum 'In Kuntum Şādiqīna"
+        },
+        {
+            "chapter": 3,
+            "verse": 184,
+            "text": "Fa'in Kadhabūka Faqad Kudhiba Rusulun Min Qablika Jā'ū Bil-Bayyināti Wa Az-Zuburi Wa Al-Kitābi Al-Munīri"
+        },
+        {
+            "chapter": 3,
+            "verse": 185,
+            "text": "Kullu Nafsin Dhā'iqatu Al-Mawti Wa 'Innamā Tuwaffawna 'Ujūrakum Yawma Al-Qiyāmati Faman Zuĥziĥa `Ani An-Nāri Wa 'Udkhila Al-Jannata Faqad Fāza Wa Mā Al-Ĥayāatu Ad-Dunyā 'Illā Matā`u Al-Ghurūri"
+        },
+        {
+            "chapter": 3,
+            "verse": 186,
+            "text": "Latublawunna Fī 'Amwālikum Wa 'Anfusikum Wa Latasma`unna Mina Al-Ladhīna 'Ūtū Al-Kitāba Min Qablikum Wa Mina Al-Ladhīna 'Ashrakū 'Adháan Kathīrāan Wa 'In Taşbirū Wa Tattaqū Fa'inna Dhālika Min `Azmi Al-'Umūri"
+        },
+        {
+            "chapter": 3,
+            "verse": 187,
+            "text": "Wa 'Idh 'Akhadha Allāhu Mīthāqa Al-Ladhīna 'Ūtū Al-Kitāba Latubayyinunnahu Lilnnāsi Wa Lā Taktumūnahu Fanabadhūhu Warā'a Žuhūrihim Wa Ashtaraw Bihi Thamanāan Qalīlāan Fabi'sa Mā Yashtarūna"
+        },
+        {
+            "chapter": 3,
+            "verse": 188,
+            "text": "Lā Taĥsabanna Al-Ladhīna Yafraĥūna Bimā 'Ataw Wa Yuĥibbūna 'An Yuĥmadū Bimā Lam Yaf`alū Falā Taĥsabannahum Bimafāzatin Mina Al-`Adhābi Wa Lahum `Adhābun 'Alīmun"
+        },
+        {
+            "chapter": 3,
+            "verse": 189,
+            "text": "Wa Lillahi Mulku As-Samāwāti Wa Al-'Arđi Wa Allāhu `Alá Kulli Shay'in Qadīrun"
+        },
+        {
+            "chapter": 3,
+            "verse": 190,
+            "text": "Inna Fī Khalqi As-Samāwāti Wa Al-'Arđi Wa Akhtilāfi Al-Layli Wa An-Nahāri La'āyātin Li'wlī Al-'Albābi"
+        },
+        {
+            "chapter": 3,
+            "verse": 191,
+            "text": "Al-Ladhīna Yadhkurūna Allāha Qiyāmāan Wa Qu`ūdāan Wa `Alá Junūbihim Wa Yatafakkarūna Fī Khalqi As-Samāwāti Wa Al-'Arđi Rabbanā Mā Khalaqta Hādhā Bāţilāan Subĥānaka Faqinā `Adhāba An-Nāri"
+        },
+        {
+            "chapter": 3,
+            "verse": 192,
+            "text": "Rabbanā 'Innaka Man Tudkhili An-Nāra Faqad 'Akhzaytahu Wa Mā Lilžžālimīna Min 'Anşārin"
+        },
+        {
+            "chapter": 3,
+            "verse": 193,
+            "text": "Rabbanā 'Innanā Sami`nā Munādīāan Yunādī Lil'īmāni 'An 'Āminū Birabbikum Fa'āmannā Rabbanā Fāghfir Lanā Dhunūbanā Wa Kaffir `Annā Sayyi'ātinā Wa Tawaffanā Ma`a Al-'Abrāri"
+        },
+        {
+            "chapter": 3,
+            "verse": 194,
+            "text": "Rabbanā Wa 'Ātinā Mā Wa`adtanā `Alá Rusulika Wa Lā Tukhzinā Yawma Al-Qiyāmati 'Innaka Lā Tukhlifu Al-Mī`āda"
+        },
+        {
+            "chapter": 3,
+            "verse": 195,
+            "text": "Fāstajāba Lahum Rabbuhum 'Annī Lā 'Uđī`u `Amala `Āmilin Minkum Min Dhakarin 'Aw 'Unthá Ba`đukum Min Ba`đin Fa-Al-Ladhīna Hājarū Wa 'Ukhrijū Min Diyārihim Wa 'Ūdhū Fī Sabīlī Wa Qātalū Wa Qutilū La'ukaffiranna `Anhum Sayyi'ātihim Wa La'udkhilannahum Jannātin Tajrī Min Taĥtihā Al-'Anhāru Thawābāan Min `Indi Allāhi Wa Allāhu `Indahu Ĥusnu Ath-Thawābi"
+        },
+        {
+            "chapter": 3,
+            "verse": 196,
+            "text": "Lā Yaghurrannaka Taqallubu Al-Ladhīna Kafarū Fī Al-Bilādi"
+        },
+        {
+            "chapter": 3,
+            "verse": 197,
+            "text": "Matā`un Qalīlun Thumma Ma'wāhum Jahannamu Wa Bi'sa Al-Mihādu"
+        },
+        {
+            "chapter": 3,
+            "verse": 198,
+            "text": "Lakini Al-Ladhīna Attaqaw Rabbahum Lahum Jannātun Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā Nuzulāan Min `Indi Allāhi Wa Mā `Inda Allāhi Khayrun Lil'abrāri"
+        },
+        {
+            "chapter": 3,
+            "verse": 199,
+            "text": "Wa 'Inna Min 'Ahli Al-Kitābi Laman Yu'uminu Billāhi Wa Mā 'Unzila 'Ilaykum Wa Mā 'Unzila 'Ilayhim Khāshi`īna Lillāhi Lā Yashtarūna Bi'āyāti Allāhi Thamanāan Qalīlāan 'Ūlā'ika Lahum 'Ajruhum `Inda Rabbihim 'Inna Allāha Sarī`u Al-Ĥisābi"
+        },
+        {
+            "chapter": 3,
+            "verse": 200,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Aşbirū Wa Şābirū Wa Rābiţū Wa Attaqū Allāha La`allakum Tufliĥūna"
+        },
+        {
+            "chapter": 4,
+            "verse": 1,
+            "text": "Yā 'Ayyuhā An-Nāsu Attaqū Rabbakumu Al-Ladhī Khalaqakum Min Nafsin Wāĥidatin Wa Khalaqa Minhā Zawjahā Wa Baththa Minhumā Rijālāan Kathīrāan Wa Nisā'an Wa Attaqū Allāha Al-Ladhī Tatasā'alūna Bihi Wa Al-'Arĥāma 'Inna Allāha Kāna `Alaykum Raqībāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 2,
+            "text": "Wa 'Ātū Al-Yatāmá 'Amwālahum Wa Lā Tatabaddalū Al-Khabītha Biţ-Ţayyibi Wa Lā Ta'kulū 'Amwālahum 'Ilá 'Amwālikum 'Innahu Kāna Ĥūbāan Kabīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 3,
+            "text": "Wa 'In Khiftum 'Allā Tuqsiţū Fī Al-Yatāmá Fānkiĥū Mā Ţāba Lakum Mina An-Nisā' Mathná Wa Thulātha Wa Rubā`a Fa'in Khiftum 'Allā Ta`dilū Fawāĥidatan 'Aw Mā Malakat 'Aymānukum Dhālika 'Adná 'Allā Ta`ūlū"
+        },
+        {
+            "chapter": 4,
+            "verse": 4,
+            "text": "Wa 'Ātū An-Nisā' Şaduqātihinna Niĥlatan Fa'in Ţibna Lakum `An Shay'in Minhu Nafsāan Fakulūhu Hanī'āan Marī'āan"
+        },
+        {
+            "chapter": 4,
+            "verse": 5,
+            "text": "Wa Lā Tu'utū As-Sufahā'a 'Amwālakumu Allatī Ja`ala Allāhu Lakum Qiyāmāan Wa Arzuqūhum Fīhā Wa Aksūhum Wa Qūlū Lahum Qawlāan Ma`rūfāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 6,
+            "text": "Wa Abtalū Al-Yatāmá Ĥattá 'Idhā Balaghū An-Nikāĥa Fa'in 'Ānastum Minhum Rushdāan Fādfa`ū 'Ilayhim 'Amwālahum Wa Lā Ta'kulūhā 'Isrāfāan Wa Bidārāan 'An Yakbarū Wa Man Kāna Ghanīyāan Falyasta`fif Wa Man Kāna Faqīrāan Falya'kul Bil-Ma`rūfi Fa'idhā Dafa`tum 'Ilayhim 'Amwālahum Fa'ash/hidū `Alayhim Wa Kafá Billāhi Ĥasībāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 7,
+            "text": "Lilrrijāli Naşībun Mimmā Taraka Al-Wālidāni Wa Al-'Aqrabūna Wa Lilnnisā'i Naşībun Mimmā Taraka Al-Wālidāni Wa Al-'Aqrabūna Mimmā Qalla Minhu 'Aw Kathura Naşībāan Mafrūđāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 8,
+            "text": "Wa 'Idhā Ĥađara Al-Qismata 'Ūlū Al-Qurbá Wa Al-Yatāmá Wa Al-Masākīnu Fārzuqūhum Minhu Wa Qūlū Lahum Qawlāan Ma`rūfāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 9,
+            "text": "Wa Līakhsha Al-Ladhīna Law Tarakū Min Khalfihim Dhurrīyatan Đi`āfāan Khāfū `Alayhim Falyattaqū Allāha Wa Līaqūlū Qawlāan Sadīdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 10,
+            "text": "Inna Al-Ladhīna Ya'kulūna 'Amwāla Al-Yatāmá Žulmāan 'Innamā Ya'kulūna Fī Buţūnihim Nārāan Wa Sayaşlawna Sa`īrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 11,
+            "text": "Yūşīkumu Allāhu Fī 'Awlādikum Lildhakari Mithlu Ĥažži Al-'Unthayayni Fa'in Kunna Nisā'an Fawqa Athnatayni Falahunna Thuluthā Mā Taraka Wa 'In Kānat Wāĥidatan Falahā An-Nişfu Wa Li'abawayhi Likulli Wāĥidin Minhumā As-Sudusu Mimmā Taraka 'In Kāna Lahu Waladun Fa'in Lam Yakun Lahu Waladun Wa Warithahu 'Abawāhu Fali'ammihi Ath-Thuluthu Fa'in Kāna Lahu 'Ikhwatun Fali'ammihi As-Sudusu Min Ba`di Waşīyatin Yūşī Bihā 'Aw Daynin 'Ābā'uukum Wa 'Abnā'uukum Lā Tadrūna 'Ayyuhum 'Aqrabu Lakum Naf`āan Farīđatan Mina Allāhi 'Inna Allāha Kāna `Alīmāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 12,
+            "text": "Wa Lakum Nişfu Mā Taraka 'Azwājukum 'In Lam Yakun Lahunna Waladun Fa'in Kāna Lahunna Waladun Falakumu Ar-Rubu`u Mimmā Tarakna Min Ba`di Waşīyatin Yūşīna Bihā 'Aw Daynin Wa Lahunna Ar-Rubu`u Mimmā Taraktum 'In Lam Yakun Lakum Waladun Fa'in Kāna Lakum Waladun Falahunna Ath-Thumunu Mimmā Taraktum Min Ba`di Waşīyatin Tūşūna Bihā 'Aw Daynin Wa 'In Kāna Rajulun Yūrathu Kalālatan 'Aw Amra'atun Wa Lahu 'Akhun 'Aw 'Ukhtun Falikulli Wāĥidin Minhumā As-Sudusu Fa'in Kānū 'Akthara Min Dhālika Fahum Shurakā'u Fī Ath-Thuluthi Min Ba`di Waşīyatin Yūşá Bihā 'Aw Daynin Ghayra Muđārrin Waşīyatan Mina Allāhi Wa Allāhu `Alīmun Ĥalīmun"
+        },
+        {
+            "chapter": 4,
+            "verse": 13,
+            "text": "Tilka Ĥudūdu Allāhi Wa Man Yuţi`i Allāha Wa Rasūlahu Yudkhilhu Jannātin Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā Wa Dhalika Al-Fawzu Al-`Ažīmu"
+        },
+        {
+            "chapter": 4,
+            "verse": 14,
+            "text": "Wa Man Ya`şi Allāha Wa Rasūlahu Wa Yata`adda Ĥudūdahu Yudkhilhu Nārāan Khālidāan Fīhā Wa Lahu `Adhābun Muhīnun"
+        },
+        {
+            "chapter": 4,
+            "verse": 15,
+            "text": "Wa Al-Lātī Ya'tīna Al-Fāĥishata Min Nisā'ikum Fāstash/hidū `Alayhinna 'Arba`atan Minkum Fa'in Shahidū Fa'amsikūhunna Fī Al-Buyūti Ĥattá Yatawaffāhunna Al-Mawtu 'Aw Yaj`ala Allāhu Lahunna Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 16,
+            "text": "Wa Al-Ladhāni Ya'tiyānihā Minkum Fa'ādhūhumā Fa'in Tābā Wa 'Aşlaĥā Fa'a`riđū `Anhumā 'Inna Allāha Kāna Tawwābāan Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 17,
+            "text": "Innamā At-Tawbatu `Alá Allāhi Lilladhīna Ya`malūna As-Sū'a Bijahālatin Thumma Yatūbūna Min Qarībin Fa'ūlā'ika Yatūbu Allāhu `Alayhim Wa Kāna Allāhu `Alīmāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 18,
+            "text": "Wa Laysati At-Tawbatu Lilladhīna Ya`malūna As-Sayyi'āti Ĥattá 'Idhā Ĥađara 'Aĥadahumu Al-Mawtu Qāla 'Innī Tubtu Al-'Āna Wa Lā Al-Ladhīna Yamūtūna Wa Hum Kuffārun 'Ūlā'ika 'A`tadnā Lahum `Adhābāan 'Alīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 19,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Yaĥillu Lakum 'An Tarithū An-Nisā' Karhāan Wa Lā Ta`đulūhunna Litadh/habū Biba`đi Mā 'Ātaytumūhunna 'Illā 'An Ya'tīna Bifāĥishatin Mubayyinatin Wa `Āshirūhunna Bil-Ma`rūfi Fa'in Karihtumūhunna Fa`asá 'An Takrahū Shay'āan Wa Yaj`ala Allāhu Fīhi Khayrāan Kathīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 20,
+            "text": "Wa 'In 'Aradtumu Astibdāla Zawjin Makāna Zawjin Wa 'Ātaytum 'Iĥdāhunna Qinţārāan Falā Ta'khudhū Minhu Shay'āan 'Ata'khudhūnahu Buhtānāan Wa 'Ithmāan Mubīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 21,
+            "text": "Wa Kayfa Ta'khudhūnahu Wa Qad 'Afđá Ba`đukum 'Ilá Ba`đin Wa 'Akhadhna Minkum Mīthāqāan Ghalīžāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 22,
+            "text": "Wa Lā Tankiĥū Mā Nakaĥa 'Ābā'uukum Mina An-Nisā' 'Illā Mā Qad Salafa 'Innahu Kāna Fāĥishatan Wa Maqtāan Wa Sā'a Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 23,
+            "text": "Ĥurrimat `Alaykum 'Ummahātukum Wa Banātukum Wa 'Akhawātukum Wa `Ammātukum Wa Khālātukum Wa Banātu Al-'Akhi Wa Banātu Al-'Ukhti Wa 'Ummahātukumu Al-Lātī 'Arđa`nakum Wa 'Akhawātukum Mina Ar-Rađā`ati Wa 'Ummahātu Nisā'ikum Wa Rabā'ibukumu Al-Lātī Fī Ĥujūrikum Min Nisā'ikumu Al-Lātī Dakhaltum Bihinna Fa'in Lam Takūnū Dakhaltum Bihinna Falā Junāĥa `Alaykum Wa Ĥalā'ilu 'Abnā'ikumu Al-Ladhīna Min 'Aşlābikum Wa 'An Tajma`ū Bayna Al-'Ukhtayni 'Illā Mā Qad Salafa 'Inna Allāha Kāna Ghafūrāan Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 24,
+            "text": "Wa Al-Muĥşanātu Mina An-Nisā' 'Illā Mā Malakat 'Aymānukum Kitāba Allāhi `Alaykum Wa 'Uĥilla Lakum Mā Warā'a Dhālikum 'An Tabtaghū Bi'amwālikum Muĥşinīna Ghayra Musāfiĥīna Famā Astamta`tum Bihi Minhunna Fa'ātūhunna 'Ujūrahunna Farīđatan Wa Lā Junāĥa `Alaykum Fīmā Tarāđaytum Bihi Min Ba`di Al-Farīđati 'Inna Allāha Kāna `Alīmāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 25,
+            "text": "Wa Man Lam Yastaţi` Minkum Ţawlāan 'An Yankiĥa Al-Muĥşanāti Al-Mu'umināti Famin Mā Malakat 'Aymānukum Min Fatayātikumu Al-Mu'umināti Wa Allāhu 'A`lamu Bi'īmānikum Ba`đukum Min Ba`đin Fānkiĥūhunna Bi'idhni 'Ahlihinna Wa 'Ātūhunna 'Ujūrahunna Bil-Ma`rūfi Muĥşanātin Ghayra Musāfiĥātin Wa Lā Muttakhidhāti 'Akhdānin Fa'idhā 'Uĥşinna Fa'in 'Atayna Bifāĥishatin Fa`alayhinna Nişfu Mā `Alá Al-Muĥşanāti Mina Al-`Adhābi Dhālika Liman Khashiya Al-`Anata Minkum Wa 'An Taşbirū Khayrun Lakum Wa Allāhu Ghafūrun Raĥīmun"
+        },
+        {
+            "chapter": 4,
+            "verse": 26,
+            "text": "Yurīdu Allāhu Liyubayyina Lakum Wa Yahdiyakum Sunana Al-Ladhīna Min Qablikum Wa Yatūba `Alaykum Wa Allāhu `Alīmun Ĥakīmun"
+        },
+        {
+            "chapter": 4,
+            "verse": 27,
+            "text": "Wa Allāhu Yurīdu 'An Yatūba `Alaykum Wa Yurīdu Al-Ladhīna Yattabi`ūna Ash-Shahawāti 'An Tamīlū Maylāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 28,
+            "text": "Yurīdu Allāhu 'An Yukhaffifa `Ankum Wa Khuliqa Al-'Insānu Đa`īfāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 29,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Ta'kulū 'Amwālakum Baynakum Bil-Bāţili 'Illā 'An Takūna Tijāratan `An Tarāđin Minkum Wa Lā Taqtulū 'Anfusakum 'Inna Allāha Kāna Bikum Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 30,
+            "text": "Wa Man Yaf`al Dhālika `Udwānāan Wa Žulmāan Fasawfa Nuşlīhi Nārāan Wa Kāna Dhālika `Alá Allāhi Yasīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 31,
+            "text": "In Tajtanibū Kabā'ira Mā Tunhawna `Anhu Nukaffir `Ankum Sayyi'ātikum Wa Nudkhilkum Mudkhalāan Karīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 32,
+            "text": "Wa Lā Tatamannaw Mā Fađđala Allāhu Bihi Ba`đakum `Alá Ba`đin Lilrrijāli Naşībun Mimmā Aktasabū Wa Lilnnisā'i Naşībun Mimmā Aktasabna Wa As'alū Allāha Min Fađlihi 'Inna Allāha Kāna Bikulli Shay'in `Alīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 33,
+            "text": "Wa Likullin Ja`alnā Mawāliya Mimmā Taraka Al-Wālidāni Wa Al-'Aqrabūna Wa Al-Ladhīna `Aqadat 'Aymānukum Fa'ātūhum Naşībahum 'Inna Allāha Kāna `Alá Kulli Shay'in Shahīdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 34,
+            "text": "Ar-Rijālu Qawwāmūna `Alá An-Nisā' Bimā Fađđala Allāhu Ba`đahum `Alá Ba`đin Wa Bimā 'Anfaqū Min 'Amwālihim Fālşşāliĥātu Qānitātun Ĥāfižātun Lilghaybi Bimā Ĥafiža Allāhu Wa Al-Lātī Takhāfūna Nushūzahunna Fa`ižūhunna Wa Ahjurūhunna Fī Al-Mađāji`i Wa Ađribūhunna Fa'in 'Aţa`nakum Falā Tabghū `Alayhinna Sabīlāan 'Inna Allāha Kāna `Alīyāan Kabīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 35,
+            "text": "Wa 'In Khiftum Shiqāqa Baynihimā Fāb`athū Ĥakamāan Min 'Ahlihi Wa Ĥakamāan Min 'Ahlihā 'In Yurīdā 'Işlāĥāan Yuwaffiqi Allāhu Baynahumā 'Inna Allāha Kāna `Alīmāan Khabīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 36,
+            "text": "Wa A`budū Allāha Wa Lā Tushrikū Bihi Shay'āan Wa Bil-Wālidayni 'Iĥsānāan Wa Bidhī Al-Qurbá Wa Al-Yatāmá Wa Al-Masākīni Wa Al-Jāri Dhī Al-Qurbá Wa Al-Jāri Al-Junubi Wa Aş-Şāĥibi Bil-Janbi Wa Abni As-Sabīli Wa Mā Malakat 'Aymānukum 'Inna Allāha Lā Yuĥibbu Man Kāna Mukhtālāan Fakhūrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 37,
+            "text": "Al-Ladhīna Yabkhalūna Wa Ya'murūna An-Nāsa Bil-Bukhli Wa Yaktumūna Mā 'Ātāhumu Allāhu Min Fađlihi Wa 'A`tadnā Lilkāfirīna `Adhābāan Muhīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 38,
+            "text": "Wa Al-Ladhīna Yunfiqūna 'Amwālahum Ri'ā'a An-Nāsi Wa Lā Yu'uminūna Billāhi Wa Lā Bil-Yawmi Al-'Ākhiri Wa Man Yakuni Ash-Shayţānu Lahu Qarīnāan Fasā'a Qarīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 39,
+            "text": "Wa Mādhā `Alayhim Law 'Āmanū Billāhi Wa Al-Yawmi Al-'Ākhiri Wa 'Anfaqū Mimmā Razaqahumu Allāhu Wa Kāna Allāhu Bihim `Alīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 40,
+            "text": "Inna Allāha Lā Yažlimu Mithqāla Dharratin Wa 'In Taku Ĥasanatan Yuđā`ifhā Wa Yu'uti Min Ladunhu 'Ajrāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 41,
+            "text": "Fakayfa 'Idhā Ji'nā Min Kulli 'Ummatin Bishahīdin Wa Ji'nā Bika `Alá Hā'uulā' Shahīdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 42,
+            "text": "Yawma'idhin Yawaddu Al-Ladhīna Kafarū Wa `Aşaw Ar-Rasūla Law Tusawwá Bihimu Al-'Arđu Wa Lā Yaktumūna Allāha Ĥadīthāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 43,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Taqrabū Aş-Şalāata Wa 'Antum Sukārá Ĥattá Ta`lamū Mā Taqūlūna Wa Lā Junubāan 'Illā `Ābirī Sabīlin Ĥattá Taghtasilū Wa 'In Kuntum Marđá 'Aw `Alá Safarin 'Aw Jā'a 'Aĥadun Minkum Mina Al-Ghā'iţi 'Aw Lāmastumu An-Nisā' Falam Tajidū Mā'an Fatayammamū Şa`īdāan Ţayyibāan Fāmsaĥū Biwujūhikum Wa 'Aydīkum 'Inna Allāha Kāna `Afūwāan Ghafūrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 44,
+            "text": "Alam Tara 'Ilá Al-Ladhīna 'Ūtū Naşībāan Mina Al-Kitābi Yashtarūna Ađ-Đalālata Wa Yurīdūna 'An Tađillū As-Sabīla"
+        },
+        {
+            "chapter": 4,
+            "verse": 45,
+            "text": "Wa Allāhu 'A`lamu Bi'a`dā'ikum Wa Kafá Billāhi Walīyāan Wa Kafá Billāhi Naşīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 46,
+            "text": "Mina Al-Ladhīna Hādū Yuĥarrifūna Al-Kalima `An Mawāđi`ihi Wa Yaqūlūna Sami`nā Wa `Aşaynā Wa Asma` Ghayra Musma`in Wa Rā`inā Layyāan Bi'alsinatihim Wa Ţa`nāan Fī Ad-Dīni Wa Law 'Annahum Qālū Sami`nā Wa 'Aţa`nā Wa Asma` Wa Anžurnā Lakāna Khayrāan Lahum Wa 'Aqwama Wa Lakin La`anahumu Allāhu Bikufrihim Falā Yu'uminūna 'Illā Qalīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 47,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Ūtū Al-Kitāba 'Āminū Bimā Nazzalnā Muşaddiqāan Limā Ma`akum Min Qabli 'An Naţmisa Wujūhāan Fanaruddahā `Alá 'Adbārihā 'Aw Nal`anahum Kamā La`annā 'Aşĥāba As-Sabti Wa Kāna 'Amru Allāhi Maf`ūlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 48,
+            "text": "Inna Allāha Lā Yaghfiru 'An Yushraka Bihi Wa Yaghfiru Mā Dūna Dhālika Liman Yashā'u Wa Man Yushrik Billāhi Faqadi Aftará 'Ithmāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 49,
+            "text": "Alam Tara 'Ilá Al-Ladhīna Yuzakkūna 'Anfusahum Bali Allāhu Yuzakkī Man Yashā'u Wa Lā Yužlamūna Fatīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 50,
+            "text": "Anžur Kayfa Yaftarūna `Alá Allāhi Al-Kadhiba Wa Kafá Bihi 'Ithmāan Mubīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 51,
+            "text": "Alam Tara 'Ilá Al-Ladhīna 'Ūtū Naşībāan Mina Al-Kitābi Yu'uminūna Bil-Jibti Wa Aţ-Ţāghūti Wa Yaqūlūna Lilladhīna Kafarū Hā'uulā' 'Ahdá Mina Al-Ladhīna 'Āmanū Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 52,
+            "text": "Ūlā'ika Al-Ladhīna La`anahumu Allāhu Wa Man Yal`ani Allāhu Falan Tajida Lahu Naşīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 53,
+            "text": "Am Lahum Naşībun Mina Al-Mulki Fa'idhāan Lā Yu'utūna An-Nāsa Naqīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 54,
+            "text": "Am Yaĥsudūna An-Nāsa `Alá Mā 'Ātāhumu Allāhu Min Fađlihi Faqad 'Ātaynā 'Āla 'Ibrāhīma Al-Kitāba Wa Al-Ĥikmata Wa 'Ātaynāhum Mulkāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 55,
+            "text": "Faminhum Man 'Āmana Bihi Wa Minhum Man Şadda `Anhu Wa Kafá Bijahannama Sa`īrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 56,
+            "text": "Inna Al-Ladhīna Kafarū Bi'āyātinā Sawfa Nuşlīhim Nārāan Kullamā Nađijat Julūduhum Baddalnāhum Julūdāan Ghayrahā Liyadhūqū Al-`Adhāba 'Inna Allāha Kāna `Azīzāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 57,
+            "text": "Wa Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Sanudkhiluhum Jannātin Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā 'Abadāan Lahum Fīhā 'Azwājun Muţahharatun Wa Nudkhiluhum Žillā Žalīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 58,
+            "text": "Inna Allāha Ya'murukum 'An Tu'uaddū Al-'Amānāti 'Ilá 'Ahlihā Wa 'Idhā Ĥakamtum Bayna An-Nāsi 'An Taĥkumū Bil-`Adli 'Inna Allāha Ni`immā Ya`ižukum Bihi 'Inna Allāha Kāna Samī`āan Başīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 59,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'Aţī`ū Allāha Wa 'Aţī`ū Ar-Rasūla Wa 'Ūlī Al-'Amri Minkum Fa'in Tanāza`tum Fī Shay'in Faruddūhu 'Ilá Allāhi Wa Ar-Rasūli 'In Kuntum Tu'uminūna Billāhi Wa Al-Yawmi Al-'Ākhiri Dhālika Khayrun Wa 'Aĥsanu Ta'wīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 60,
+            "text": "Alam Tara 'Ilá Al-Ladhīna Yaz`umūna 'Annahum 'Āmanū Bimā 'Unzila 'Ilayka Wa Mā 'Unzila Min Qablika Yurīdūna 'An Yataĥākamū 'Ilá Aţ-Ţāghūti Wa Qad 'Umirū 'An Yakfurū Bihi Wa Yurīdu Ash-Shayţānu 'An Yuđillahum Đalālāan Ba`īdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 61,
+            "text": "Wa 'Idhā Qīla Lahum Ta`ālaw 'Ilá Mā 'Anzala Allāhu Wa 'Ilá Ar-Rasūli Ra'ayta Al-Munāfiqīna Yaşuddūna `Anka Şudūdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 62,
+            "text": "Fakayfa 'Idhā 'Aşābat/hum Muşībatun Bimā Qaddamat 'Aydīhim Thumma Jā'ūka Yaĥlifūna Billāhi 'In 'Aradnā 'Illā 'Iĥsānāan Wa Tawfīqāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 63,
+            "text": "Ūlā'ika Al-Ladhīna Ya`lamu Allāhu Mā Fī Qulūbihim Fa'a`riđ `Anhum Wa `Ižhum Wa Qul Lahum Fī 'Anfusihim Qawlāan Balīghāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 64,
+            "text": "Wa Mā 'Arsalnā Min Rasūlin 'Illā Liyuţā`a Bi'idhni Allāhi Wa Law 'Annahum 'Idh Žalamū 'Anfusahum Jā'ūka Fāstaghfarū Allāha Wa Astaghfara Lahumu Ar-Rasūlu Lawajadū Allāha Tawwābāan Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 65,
+            "text": "Falā Wa Rabbika Lā Yu'uminūna Ĥattá Yuĥakkimūka Fīmā Shajara Baynahum Thumma Lā Yajidū Fī 'Anfusihim Ĥarajāan Mimmā Qađayta Wa Yusallimū Taslīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 66,
+            "text": "Wa Law 'Annā Katabnā `Alayhim 'Ani Aqtulū 'Anfusakum 'Aw Akhrujū Min Diyārikum Mā Fa`alūhu 'Illā Qalīlun Minhum Wa Law 'Annahum Fa`alū Mā Yū`ažūna Bihi Lakāna Khayrāan Lahum Wa 'Ashadda Tathbītāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 67,
+            "text": "Wa 'Idhāan La'ātaynāhum Min Ladunnā 'Ajrāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 68,
+            "text": "Wa Lahadaynāhum Şirāţāan Mustaqīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 69,
+            "text": "Wa Man Yuţi`i Allāha Wa Ar-Rasūla Fa'ūlā'ika Ma`a Al-Ladhīna 'An`ama Allāhu `Alayhim Mina An-Nabīyīna Wa Aş-Şiddīqīna Wa Ash-Shuhadā'i Wa Aş-Şāliĥīna Wa Ĥasuna 'Ūlā'ika Rafīqāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 70,
+            "text": "Dhālika Al-Fađlu Mina Allāhi Wa Kafá Billāhi `Alīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 71,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Khudhū Ĥidhrakum Fānfirū Thubātin 'Aw Anfirū Jamī`āan"
+        },
+        {
+            "chapter": 4,
+            "verse": 72,
+            "text": "Wa 'Inna Minkum Laman Layubaţţi'anna Fa'in 'Aşābatkum Muşībatun Qāla Qad 'An`ama Allāhu `Alayya 'Idh Lam 'Akun Ma`ahum Shahīdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 73,
+            "text": "Wa La'in 'Aşābakum Fađlun Mina Allāhi Layaqūlanna Ka'an Lam Takun Baynakum Wa Baynahu Mawaddatun Yā Laytanī Kuntu Ma`ahum Fa'afūza Fawzāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 74,
+            "text": "Falyuqātil Fī Sabīli Allāhi Al-Ladhīna Yashrūna Al-Ĥayāata Ad-Dunyā Bil-'Ākhirati Wa Man Yuqātil Fī Sabīli Allāhi Fayuqtal 'Aw Yaghlib Fasawfa Nu'utīhi 'Ajrāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 75,
+            "text": "Wa Mā Lakum Lā Tuqātilūna Fī Sabīli Allāhi Wa Al-Mustađ`afīna Mina Ar-Rijāli Wa An-Nisā' Wa Al-Wildāni Al-Ladhīna Yaqūlūna Rabbanā 'Akhrijnā Min Hadhihi Al-Qaryati Až-Žālimi 'Ahluhā Wa Aj`al Lanā Min Ladunka Walīyāan Wa Aj`al Lanā Min Ladunka Naşīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 76,
+            "text": "Al-Ladhīna 'Āmanū Yuqātilūna Fī Sabīli Allāhi Wa Al-Ladhīna Kafarū Yuqātilūna Fī Sabīli Aţ-Ţāghūti Faqātilū 'Awliyā'a Ash-Shayţāni 'Inna Kayda Ash-Shayţāni Kāna Đa`īfāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 77,
+            "text": "Alam Tara 'Ilá Al-Ladhīna Qīla Lahum Kuffū 'Aydiyakum Wa 'Aqīmū Aş-Şalāata Wa 'Ātū Az-Zakāata Falammā Kutiba `Alayhimu Al-Qitālu 'Idhā Farīqun Minhum Yakhshawna An-Nāsa Kakhashyati Allāhi 'Aw 'Ashadda Khashyatan Wa Qālū Rabbanā Lima Katabta `Alaynā Al-Qitāla Lawlā 'Akhkhartanā 'Ilá 'Ajalin Qarībin Qul Matā`u Ad-Dunyā Qalīlun Wa Al-'Ākhiratu Khayrun Limani Attaqá Wa Lā Tužlamūna Fatīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 78,
+            "text": "Aynamā Takūnū Yudrikkumu Al-Mawtu Wa Law Kuntum Fī Burūjin Mushayyadatin Wa 'In Tuşibhum Ĥasanatun Yaqūlū Hadhihi Min `Indi Allāhi Wa 'In Tuşibhum Sayyi'atun Yaqūlū Hadhihi Min `Indika Qul Kullun Min `Indi Allāhi Famāli Hā'uulā' Al-Qawmi Lā Yakādūna Yafqahūna Ĥadīthāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 79,
+            "text": "Mā 'Aşābaka Min Ĥasanatin Famina Allāhi Wa Mā 'Aşābaka Min Sayyi'atin Famin Nafsika Wa 'Arsalnāka Lilnnāsi Rasūlāan Wa Kafá Billāhi Shahīdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 80,
+            "text": "Man Yuţi`i Ar-Rasūla Faqad 'Aţā`a Allāha Wa Man Tawallá Famā 'Arsalnāka `Alayhim Ĥafīžāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 81,
+            "text": "Wa Yaqūlūna Ţā`atun Fa'idhā Barazū Min `Indika Bayyata Ţā'ifatun Minhum Ghayra Al-Ladhī Taqūlu Wa Allāhu Yaktubu Mā Yubayyitūna Fa'a`riđ `Anhum Wa Tawakkal `Alá Allāhi Wa Kafá Billāhi Wa Kīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 82,
+            "text": "Afalā Yatadabbarūna Al-Qur'āna Wa Law Kāna Min `Indi Ghayri Allāhi Lawajadū Fīhi Akhtilāfāan Kathīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 83,
+            "text": "Wa 'Idhā Jā'ahum 'Amrun Mina Al-'Amni 'Awi Al-Khawfi 'Adhā`ū Bihi Wa Law Raddūhu 'Ilá Ar-Rasūli Wa 'Ilá 'Ūlī Al-'Amri Minhum La`alimahu Al-Ladhīna Yastanbiţūnahu Minhum Wa Lawlā Fađlu Allāhi `Alaykum Wa Raĥmatuhu Lāttaba`tumu Ash-Shayţāna 'Illā Qalīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 84,
+            "text": "Faqātil Fī Sabīli Allāhi Lā Tukallafu 'Illā Nafsaka Wa Ĥarriđi Al-Mu'uminīna `Asá Allāhu 'An Yakuffa Ba'sa Al-Ladhīna Kafarū Wa Allāhu 'Ashaddu Ba'sāan Wa 'Ashaddu Tankīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 85,
+            "text": "Man Yashfa` Shafā`atan Ĥasanatan Yakun Lahu Naşībun Minhā Wa Man Yashfa` Shafā`atan Sayyi'atan Yakun Lahu Kiflun Minhā Wa Kāna Allāhu `Alá Kulli Shay'in Muqītāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 86,
+            "text": "Wa 'Idhā Ĥuyyītum Bitaĥīyatin Faĥayyū Bi'aĥsana Minhā 'Aw Ruddūhā 'Inna Allāha Kāna `Alá Kulli Shay'in Ĥasībāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 87,
+            "text": "Allāhu Lā 'Ilāha 'Illā Huwa Layajma`annakum 'Ilá Yawmi Al-Qiyāmati Lā Rayba Fīhi Wa Man 'Aşdaqu Mina Allāhi Ĥadīthāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 88,
+            "text": "Famā Lakum Fī Al-Munāfiqīna Fi'atayni Wa Allāhu 'Arkasahum Bimā Kasabū 'Aturīdūna 'An Tahdū Man 'Ađalla Allāhu Wa Man Yuđlili Allāhu Falan Tajida Lahu Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 89,
+            "text": "Wa Ddū Law Takfurūna Kamā Kafarū Fatakūnūna Sawā'an Falā Tattakhidhū Minhum 'Awliyā'a Ĥattá Yuhājirū Fī Sabīli Allāhi Fa'in Tawallaw Fakhudhūhum Wāqtulūhum Ĥaythu Wajadtumūhum Wa Lā Tattakhidhū Minhum Walīyāan Wa Lā Naşīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 90,
+            "text": "Illā Al-Ladhīna Yaşilūna 'Ilá Qawmin Baynakum Wa Baynahum Mīthāqun 'Aw Jā'ūkum Ĥaşirat Şudūruhum 'An Yuqātilūkum 'Aw Yuqātilū Qawmahum Wa Law Shā'a Allāhu Lasallaţahum `Alaykum Falaqātalūkum Fa'ini A`tazalūkum Falam Yuqātilūkum Wa 'Alqaw 'Ilaykumu As-Salama Famā Ja`ala Allāhu Lakum `Alayhim Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 91,
+            "text": "Satajidūna 'Ākharīna Yurīdūna 'An Ya'manūkum Wa Ya'manū Qawmahum Kulla Mā Ruddū 'Ilá Al-Fitnati 'Urkisū Fīhā Fa'in Lam Ya`tazilūkum Wa Yulqū 'Ilaykumu As-Salama Wa Yakuffū 'Aydiyahum Fakhudhūhum Wāqtulūhum Ĥaythu Thaqiftumūhum Wa 'Ūla'ikum Ja`alnā Lakum `Alayhim Sulţānāan Mubīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 92,
+            "text": "Wa Mā Kāna Limu'uminin 'An Yaqtula Mu'umināan 'Illā Khaţa'an Wa Man Qatala Mu'umināan Khaţa'an Fataĥrīru Raqabatin Mu'uminatin Wa Diyatun Musallamatun 'Ilá 'Ahlihi 'Illā 'An Yaşşaddaqū Fa'in Kāna Min Qawmin `Adūwin Lakum Wa Huwa Mu'uminun Fataĥrīru Raqabatin Mu'uminatin Wa 'In Kāna Min Qawmin Baynakum Wa Baynahum Mīthāqun Fadiyatun Musallamatun 'Ilá 'Ahlihi Wa Taĥrīru Raqabatin Mu'uminatin Faman Lam Yajid Faşiyāmu Shahrayni Mutatābi`ayni Tawbatan Mina Allāhi Wa Kāna Allāhu `Alīmāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 93,
+            "text": "Wa Man Yaqtul Mu'umināan Muta`ammidāan Fajazā'uuhu Jahannamu Khālidāan Fīhā Wa Ghađiba Allāhu `Alayhi Wa La`anahu Wa 'A`adda Lahu `Adhābāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 94,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'Idhā Đarabtum Fī Sabīli Allāhi Fatabayyanū Wa Lā Taqūlū Liman 'Alqá 'Ilaykumu As-Salāma Lasta Mu'umināan Tabtaghūna `Arađa Al-Ĥayāati Ad-Dunyā Fa`inda Allāhi Maghānimu Kathīratun Kadhālika Kuntum Min Qablu Famanna Allāhu `Alaykum Fatabayyanū 'Inna Allāha Kāna Bimā Ta`malūna Khabīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 95,
+            "text": "Lā Yastawī Al-Qā`idūna Mina Al-Mu'uminīna Ghayru 'Ūlī Ađ-Đarari Wa Al-Mujāhidūna Fī Sabīli Allāhi Bi'amwālihim Wa 'Anfusihim Fađđala Allāhu Al-Mujāhidīna Bi'amwālihim Wa 'Anfusihim `Alá Al-Qā`idīna Darajatan Wa Kullāan Wa`ada Allāhu Al-Ĥusná Wa Fađđala Allāhu Al-Mujāhidīna `Alá Al-Qā`idīna 'Ajrāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 96,
+            "text": "Darajātin Minhu Wa Maghfiratan Wa Raĥmatan Wa Kāna Allāhu Ghafūrāan Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 97,
+            "text": "Inna Al-Ladhīna Tawaffāhumu Al-Malā'ikatu Žālimī 'Anfusihim Qālū Fīma Kuntum Qālū Kunnā Mustađ`afīna Fī Al-'Arđi Qālū 'Alam Takun 'Arđu Allāhi Wāsi`atan Fatuhājirū Fīhā Fa'ūlā'ika Ma'wāhum Jahannamu Wa Sā'at Maşīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 98,
+            "text": "Illā Al-Mustađ`afīna Mina Ar-Rijāli Wa An-Nisā' Wa Al-Wildāni Lā Yastaţī`ūna Ĥīlatan Wa Lā Yahtadūna Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 99,
+            "text": "Fa'ūlā'ika `Asá Allāhu 'An Ya`fuwa `Anhum Wa Kāna Allāhu `Afūwāan Ghafūrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 100,
+            "text": "Wa Man Yuhājir Fī Sabīli Allāhi Yajid Fī Al-'Arđi Murāghamāan Kathīrāan Wa Sa`atan Wa Man Yakhruj Min Baytihi Muhājirāan 'Ilá Allāhi Wa Rasūlihi Thumma Yudrik/hu Al-Mawtu Faqad Waqa`a 'Ajruhu `Alá Allāhi Wa Kāna Allāhu Ghafūrāan Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 101,
+            "text": "Wa 'Idhā Đarabtum Fī Al-'Arđi Falaysa `Alaykum Junāĥun 'An Taqşurū Mina Aş-Şalāati 'In Khiftum 'An Yaftinakumu Al-Ladhīna Kafarū 'Inna Al-Kāfirīna Kānū Lakum `Adūwāan Mubīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 102,
+            "text": "Wa 'Idhā Kunta Fīhim Fa'aqamta Lahumu Aş-Şalāata Faltaqum Ţā'ifatun Minhum Ma`aka Wa Līa'khudhū 'Asliĥatahum Fa'idhā Sajadū Falyakūnū Min Warā'ikum Wa Lta'ti Ţā'ifatun 'Ukhrá Lam Yuşallū Falyuşallū Ma`aka Wa Līa'khudhū Ĥidhrahum Wa 'Asliĥatahum Wadda Al-Ladhīna Kafarū Law Taghfulūna `An 'Asliĥatikum Wa 'Amti`atikum Fayamīlūna `Alaykum Maylatan Wāĥidatan Wa Lā Junāĥa `Alaykum 'In Kāna Bikum 'Adháan Min Maţarin 'Aw Kuntum Marđá 'An Tađa`ū 'Asliĥatakum Wa Khudhū Ĥidhrakum 'Inna Allāha 'A`adda Lilkāfirīna `Adhābāan Muhīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 103,
+            "text": "Fa'idhā Qađaytumu Aş-Şalāata Fādhkurū Allāha Qiyāmāan Wa Qu`ūdāan Wa `Alá Junūbikum Fa'idhā Aţma'nantum Fa'aqīmū Aş-Şalāata 'Inna Aş-Şalāata Kānat `Alá Al-Mu'uminīna Kitābāan Mawqūtāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 104,
+            "text": "Wa Lā Tahinū Fī Abtighā'i Al-Qawmi 'In Takūnū Ta'lamūna Fa'innahum Ya'lamūna Kamā Ta'lamūna Wa Tarjūna Mina Allāhi Mā Lā Yarjūna Wa Kāna Allāhu `Alīmāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 105,
+            "text": "Innā 'Anzalnā 'Ilayka Al-Kitāba Bil-Ĥaqqi Litaĥkuma Bayna An-Nāsi Bimā 'Arāka Allāhu Wa Lā Takun Lilkhā'inīna Khaşīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 106,
+            "text": "Wa Astaghfiri Allāha 'Inna Allāha Kāna Ghafūrāan Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 107,
+            "text": "Wa Lā Tujādil `Ani Al-Ladhīna Yakhtānūna 'Anfusahum 'Inna Allāha Lā Yuĥibbu Man Kāna Khawwānāan 'Athīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 108,
+            "text": "Yastakhfūna Mina An-Nāsi Wa Lā Yastakhfūna Mina Allāhi Wa Huwa Ma`ahum 'Idh Yubayyitūna Mā Lā Yarđá Mina Al-Qawli Wa Kāna Allāhu Bimā Ya`malūna Muĥīţāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 109,
+            "text": "Hā'antum Hā'uulā' Jādaltum `Anhum Fī Al-Ĥayāati Ad-Dunyā Faman Yujādilu Allāha `Anhum Yawma Al-Qiyāmati 'Am Man Yakūnu `Alayhim Wa Kīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 110,
+            "text": "Wa Man Ya`mal Sū'āan 'Aw Yažlim Nafsahu Thumma Yastaghfiri Allāha Yajidi Allāha Ghafūrāan Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 111,
+            "text": "Wa Man Yaksib 'Ithmāan Fa'innamā Yaksibuhu `Alá Nafsihi Wa Kāna Allāhu `Alīmāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 112,
+            "text": "Wa Man Yaksib Khaţī'atan 'Aw 'Ithmāan Thumma Yarmi Bihi Barī'āan Faqadi Aĥtamala Buhtānāan Wa 'Ithmāan Mubīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 113,
+            "text": "Wa Lawlā Fađlu Allāhi `Alayka Wa Raĥmatuhu Lahammat Ţā'ifatun Minhum 'An Yuđillūka Wa Mā Yuđillūna 'Illā 'Anfusahum Wa Mā Yađurrūnaka Min Shay'in Wa 'Anzala Allāhu `Alayka Al-Kitāba Wa Al-Ĥikmata Wa `Allamaka Mā Lam Takun Ta`lamu Wa Kāna Fađlu Allāhi `Alayka `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 114,
+            "text": "Lā Khayra Fī Kathīrin Min Najwāhum 'Illā Man 'Amara Bişadaqatin 'Aw Ma`rūfin 'Aw 'Işlāĥin Bayna An-Nāsi Wa Man Yaf`al Dhālika Abtighā'a Marđāati Allāhi Fasawfa Nu'utīhi 'Ajrāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 115,
+            "text": "Wa Man Yushāqiqi Ar-Rasūla Min Ba`di Mā Tabayyana Lahu Al-Hudá Wa Yattabi` Ghayra Sabīli Al-Mu'uminīna Nuwallihi Mā Tawallá Wa Nuşlihi Jahannama Wa Sā'at Maşīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 116,
+            "text": "Inna Allāha Lā Yaghfiru 'An Yushraka Bihi Wa Yaghfiru Mā Dūna Dhālika Liman Yashā'u Wa Man Yushrik Billāhi Faqad Đalla Đalālāan Ba`īdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 117,
+            "text": "In Yad`ūna Min Dūnihi 'Illā 'Ināthāan Wa 'In Yad`ūna 'Illā Shayţānāan Marīdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 118,
+            "text": "La`anahu Allāhu Wa Qāla La'attakhidhanna Min `Ibādika Naşībāan Mafrūđāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 119,
+            "text": "Wa La'uđillannahum Wa La'umanniyannahum Wa La'āmurannahum Falayubattikunna 'Ādhāna Al-'An`ām Wa La'āmurannahum Falayughayyirunna Khalqa Allāhi Wa Man Yattakhidhi Ash-Shayţāna Walīyāan Min Dūni Allāhi Faqad Khasira Khusrānāan Mubīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 120,
+            "text": "Ya`iduhum Wa Yumannīhim Wa Mā Ya`iduhumu Ash-Shayţānu 'Illā Ghurūrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 121,
+            "text": "Ūlā'ika Ma'wāhum Jahannamu Wa Lā Yajidūna `Anhā Maĥīşāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 122,
+            "text": "Wa Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Sanudkhiluhum Jannātin Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā 'Abadāan Wa`da Allāhi Ĥaqqāan Wa Man 'Aşdaqu Mina Allāhi Qīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 123,
+            "text": "Laysa Bi'amānīyikum Wa Lā 'Amānīyi 'Ahli Al-Kitābi Man Ya`mal Sū'āan Yujza Bihi Wa Lā Yajid Lahu Min Dūni Allāhi Walīyāan Wa Lā Naşīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 124,
+            "text": "Wa Man Ya`mal Mina Aş-Şāliĥāti Min Dhakarin 'Aw 'Unthá Wa Huwa Mu'uminun Fa'ūlā'ika Yadkhulūna Al-Jannata Wa Lā Yužlamūna Naqīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 125,
+            "text": "Wa Man 'Aĥsanu Dīnāan Mimman 'Aslama Wajhahu Lillāhi Wa Huwa Muĥsinun Wa Attaba`a Millata 'Ibrāhīma Ĥanīfāan Wa Attakhadha Allāhu 'Ibrāhīma Khalīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 126,
+            "text": "Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Kāna Allāhu Bikulli Shay'in Muĥīţāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 127,
+            "text": "Wa Yastaftūnaka Fī An-Nisā' Quli Allāhu Yuftīkum Fīhinna Wa Mā Yutlá `Alaykum Fī Al-Kitābi Fī Yatāmá An-Nisā' Al-Lātī Lā Tu'utūnahunna Mā Kutiba Lahunna Wa Targhabūna 'An Tankiĥūhunna Wa Al-Mustađ`afīna Mina Al-Wildāni Wa 'An Taqūmū Lilyatāmá Bil-Qisţi Wa Mā Taf`alū Min Khayrin Fa'inna Allāha Kāna Bihi `Alīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 128,
+            "text": "Wa 'Ini Amra'atun Khāfat Min Ba`lihā Nushūzāan 'Aw 'I`rāđāan Falā Junāĥa `Alayhimā 'An Yuşliĥā Baynahumā Şulĥāan Wa Aş-Şulĥu Khayrun Wa 'Uĥđirati Al-'Anfusu Ash-Shuĥĥa Wa 'In Tuĥsinū Wa Tattaqū Fa'inna Allāha Kāna Bimā Ta`malūna Khabīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 129,
+            "text": "Wa Lan Tastaţī`ū 'An Ta`dilū Bayna An-Nisā' Wa Law Ĥaraştum Falā Tamīlū Kulla Al-Mayli Fatadharūhā Kālmu`allaqati Wa 'In Tuşliĥū Wa Tattaqū Fa'inna Allāha Kāna Ghafūrāan Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 130,
+            "text": "Wa 'In Yatafarraqā Yughni Allāhu Kullā Min Sa`atihi Wa Kāna Allāhu Wāsi`āan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 131,
+            "text": "Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Laqad Waşşaynā Al-Ladhīna 'Ūtū Al-Kitāba Min Qablikum Wa 'Īyākum 'Ani Attaqū Allāha Wa 'In Takfurū Fa'inna Lillāhi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Kāna Allāhu Ghanīyāan Ĥamīdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 132,
+            "text": "Wa Lillahi Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Kafá Billāhi Wa Kīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 133,
+            "text": "In Yasha' Yudh/hibkum 'Ayyuhā An-Nāsu Wa Ya'ti Bi'ākharīna Wa Kāna Allāhu `Alá Dhālika Qadīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 134,
+            "text": "Man Kāna Yurīdu Thawāba Ad-Dunyā Fa`inda Allāhi Thawābu Ad-Dunyā Wa Al-'Ākhirati Wa Kāna Allāhu Samī`āan Başīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 135,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Kūnū Qawwāmīna Bil-Qisţi Shuhadā'a Lillāhi Wa Law `Alá 'Anfusikum 'Awi Al-Wālidayni Wa Al-'Aqrabīna 'In Yakun Ghanīyāan 'Aw Faqīrāan Fa-Allāhu 'Awlá Bihimā Falā Tattabi`ū Al-Hawá 'An Ta`dilū Wa 'In Talwū 'Aw Tu`riđū Fa'inna Allāha Kāna Bimā Ta`malūna Khabīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 136,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū 'Āminū Billāhi Wa Rasūlihi Wa Al-Kitābi Al-Ladhī Nazzala `Alá Rasūlihi Wa Al-Kitābi Al-Ladhī 'Anzala Min Qablu Wa Man Yakfur Billāhi Wa Malā'ikatihi Wa Kutubihi Wa Rusulihi Wa Al-Yawmi Al-'Ākhiri Faqad Đalla Đalālāan Ba`īdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 137,
+            "text": "Inna Al-Ladhīna 'Āmanū Thumma Kafarū Thumma 'Āmanū Thumma Kafarū Thumma Azdādū Kufrāan Lam Yakuni Allāhu Liyaghfira Lahum Wa Lā Liyahdiyahum Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 138,
+            "text": "Bashiri Al-Munāfiqīna Bi'anna Lahum `Adhābāan 'Alīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 139,
+            "text": "Al-Ladhīna Yattakhidhūna Al-Kāfirīna 'Awliyā'a Min Dūni Al-Mu'uminīna 'Ayabtaghūna `Indahumu Al-`Izzata Fa'inna Al-`Izzata Lillāhi Jamī`āan"
+        },
+        {
+            "chapter": 4,
+            "verse": 140,
+            "text": "Wa Qad Nazzala `Alaykum Fī Al-Kitābi 'An 'Idhā Sami`tum 'Āyāti Allāhi Yukfaru Bihā Wa Yustahza'u Bihā Falā Taq`udū Ma`ahum Ĥattá Yakhūđū Fī Ĥadīthin Ghayrihi 'Innakum 'Idhāan Mithluhum 'Inna Allāha Jāmi`u Al-Munāfiqīna Wa Al-Kāfirīna Fī Jahannama Jamī`āan"
+        },
+        {
+            "chapter": 4,
+            "verse": 141,
+            "text": "Al-Ladhīna Yatarabbaşūna Bikum Fa'in Kāna Lakum Fatĥun Mina Allāhi Qālū 'Alam Nakun Ma`akum Wa 'In Kāna Lilkāfirīna Naşībun Qālū 'Alam Nastaĥwidh `Alaykum Wa Namna`kum Mina Al-Mu'uminīna Fa-Allāhu Yaĥkumu Baynakum Yawma Al-Qiyāmati Wa Lan Yaj`ala Allāhu Lilkāfirīna `Alá Al-Mu'uminīna Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 142,
+            "text": "Inna Al-Munāfiqīna Yukhādi`ūna Allāha Wa Huwa Khādi`uhum Wa 'Idhā Qāmū 'Ilá Aş-Şalāati Qāmū Kusālá Yurā'ūna An-Nāsa Wa Lā Yadhkurūna Allāha 'Illā Qalīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 143,
+            "text": "Mudhabdhabīna Bayna Dhālika Lā 'Ilá Hā'uulā' Wa Lā 'Ilá Hā'uulā' Wa Man Yuđlili Allāhu Falan Tajida Lahu Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 144,
+            "text": "Yā 'Ayyuhā Al-Ladhīna 'Āmanū Lā Tattakhidhū Al-Kāfirīna 'Awliyā'a Min Dūni Al-Mu'uminīna 'Aturīdūna 'An Taj`alū Lillāhi `Alaykum Sulţānāan Mubīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 145,
+            "text": "Inna Al-Munāfiqīna Fī Ad-Darki Al-'Asfali Mina An-Nāri Wa Lan Tajida Lahum Naşīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 146,
+            "text": "Illā Al-Ladhīna Tābū Wa 'Aşlaĥū Wa A`taşamū Billāhi Wa 'Akhlaşū Dīnahum Lillāhi Fa'ūlā'ika Ma`a Al-Mu'uminīna Wa Sawfa Yu'uti Allāhu Al-Mu'uminīna 'Ajrāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 147,
+            "text": "Mā Yaf`alu Allāhu Bi`adhābikum 'In Shakartum Wa 'Āmantum Wa Kāna Allāhu Shākirāan `Alīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 148,
+            "text": "Lā Yuĥibbu Allāhu Al-Jahra Bis-Sū'i Mina Al-Qawli 'Illā Man Žulima Wa Kāna Allāhu Samī`āan `Alīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 149,
+            "text": "In Tubdū Khayrāan 'Aw Tukhfūhu 'Aw Ta`fū `An Sū'in Fa'inna Allāha Kāna `Afūwāan Qadīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 150,
+            "text": "Inna Al-Ladhīna Yakfurūna Billāhi Wa Rusulihi Wa Yurīdūna 'An Yufarriqū Bayna Allāhi Wa Rusulihi Wa Yaqūlūna Nu'uminu Biba`đin Wa Nakfuru Biba`đin Wa Yurīdūna 'An Yattakhidhū Bayna Dhālika Sabīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 151,
+            "text": "Ūlā'ika Humu Al-Kāfirūna Ĥaqqāan Wa 'A`tadnā Lilkāfirīna `Adhābāan Muhīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 152,
+            "text": "Wa Al-Ladhīna 'Āmanū Billāhi Wa Rusulihi Wa Lam Yufarriqū Bayna 'Aĥadin Minhum 'Ūlā'ika Sawfa Yu'utīhim 'Ujūrahum Wa Kāna Allāhu Ghafūrāan Raĥīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 153,
+            "text": "Yas'aluka 'Ahlu Al-Kitābi 'An Tunazzila `Alayhim Kitābāan Mina As-Samā'i Faqad Sa'alū Mūsá 'Akbara Min Dhālika Faqālū 'Arinā Allāha Jahratan Fa'akhadhat/humu Aş-Şā`iqatu Bižulmihim Thumma Attakhadhū Al-`Ijla Min Ba`di Mā Jā'at/humu Al-Bayyinātu Fa`afawnā `An Dhālika Wa 'Ātaynā Mūsá Sulţānāan Mubīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 154,
+            "text": "Wa Rafa`nā Fawqahumu Aţ-Ţūra Bimīthāqihim Wa Qulnā Lahum Adkhulū Al-Bāba Sujjadāan Wa Qulnā Lahumu Lā Ta`dū Fī As-Sabti Wa 'Akhadhnā Minhum Mīthāqāan Ghalīžāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 155,
+            "text": "Fabimā Naqđihim Mīthāqahum Wa Kufrihim Bi'āyāti Allāhi Wa Qatlihimu Al-'Anbiyā'a Bighayri Ĥaqqin Wa Qawlihim Qulūbunā Ghulfun Bal Ţaba`a Allāhu `Alayhā Bikufrihim Falā Yu'uminūna 'Illā Qalīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 156,
+            "text": "Wa Bikufrihim Wa Qawlihim `Alá Maryama Buhtānāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 157,
+            "text": "Wa Qawlihim 'Innā Qatalnā Al-Masīĥa `Īsá Abna Maryama Rasūla Allāhi Wa Mā Qatalūhu Wa Mā Şalabūhu Wa Lakin Shubbiha Lahum Wa 'Inna Al-Ladhīna Akhtalafū Fīhi Lafī Shakkin Minhu Mā Lahum Bihi Min `Ilmin 'Illā Attibā`a Až-Žanni Wa Mā Qatalūhu Yaqīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 158,
+            "text": "Bal Rafa`ahu Allāhu 'Ilayhi Wa Kāna Allāhu `Azīzāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 159,
+            "text": "Wa 'In Min 'Ahli Al-Kitābi 'Illā Layu'uminanna Bihi Qabla Mawtihi Wa Yawma Al-Qiyāmati Yakūnu `Alayhim Shahīdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 160,
+            "text": "Fabižulmin Mina Al-Ladhīna Hādū Ĥarramnā `Alayhim Ţayyibātin 'Uĥillat Lahum Wa Bişaddihim `An Sabīli Allāhi Kathīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 161,
+            "text": "Wa 'Akhdhihimu Ar-Ribā Wa Qad Nuhū `Anhu Wa 'Aklihim 'Amwāla An-Nāsi Bil-Bāţili Wa 'A`tadnā Lilkāfirīna Minhum `Adhābāan 'Alīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 162,
+            "text": "Lakini Ar-Rāsikhūna Fī Al-`Ilmi Minhum Wa Al-Mu'uminūna Yu'uminūna Bimā 'Unzila 'Ilayka Wa Mā 'Unzila Min Qablika Wa Al-Muqīmīna Aş-Şalāata Wa Al-Mu'utūna Az-Zakāata Wa Al-Mu'uminūna Billāhi Wa Al-Yawmi Al-'Ākhiri 'Ūlā'ika Sanu'utīhim 'Ajrāan `Ažīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 163,
+            "text": "Innā 'Awĥaynā 'Ilayka Kamā 'Awĥaynā 'Ilá Nūĥin Wa An-Nabīyīna Min Ba`dihi Wa 'Awĥaynā 'Ilá 'Ibrāhīma Wa 'Ismā`īla Wa 'Isĥāqa Wa Ya`qūba Wa Al-'Asbāţi Wa `Īsá Wa 'Ayyūba Wa Yūnus Wa Hārūna Wa Sulaymāna Wa 'Ātaynā Dāwūda Zabūrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 164,
+            "text": "Wa Rusulāan Qad Qaşaşnāhum `Alayka Min Qablu Wa Rusulāan Lam Naqşuşhum `Alayka Wa Kallama Allāhu Mūsá Taklīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 165,
+            "text": "Rusulāan Mubashirīna Wa Mundhirīna Li'llā Yakūna Lilnnāsi `Alá Allāhi Ĥujjatun Ba`da Ar-Rusuli Wa Kāna Allāhu `Azīzāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 166,
+            "text": "Lakini Allāhu Yash/hadu Bimā 'Anzala 'Ilayka 'Anzalahu Bi`ilmihi Wa Al-Malā'ikatu Yash/hadūna Wa Kafá Billāhi Shahīdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 167,
+            "text": "Inna Al-Ladhīna Kafarū Wa Şaddū `An Sabīli Allāhi Qad Đallū Đalālāan Ba`īdāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 168,
+            "text": "Inna Al-Ladhīna Kafarū Wa Žalamū Lam Yakuni Allāhu Liyaghfira Lahum Wa Lā Liyahdiyahum Ţarīqāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 169,
+            "text": "Illā Ţarīqa Jahannama Khālidīna Fīhā 'Abadāan Wa Kāna Dhālika `Alá Allāhi Yasīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 170,
+            "text": "Yā 'Ayyuhā An-Nāsu Qad Jā'akumu Ar-Rasūlu Bil-Ĥaqqi Min Rabbikum Fa'āminū Khayrāan Lakum Wa 'In Takfurū Fa'inna Lillāhi Mā Fī As-Samāwāti Wa Al-'Arđi Wa Kāna Allāhu `Alīmāan Ĥakīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 171,
+            "text": "Yā 'Ahla Al-Kitābi Lā Taghlū Fī Dīnikum Wa Lā Taqūlū `Alá Allāhi 'Illā Al-Ĥaqqa 'Innamā Al-Masīĥu `Īsá Abnu Maryama Rasūlu Allāhi Wa Kalimatuhu 'Alqāhā 'Ilá Maryama Wa Rūĥun Minhu Fa'āminū Billāhi Wa Rusulihi Wa Lā Taqūlū Thalāthatun Antahū Khayrāan Lakum 'Innamā Allāhu 'Ilahun Wāĥidun Subĥānahu 'An Yakūna Lahu Waladun Lahu Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Kafá Billāhi Wa Kīlāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 172,
+            "text": "Lan Yastankifa Al-Masīĥu 'An Yakūna `Abdāan Lillāhi Wa Lā Al-Malā'ikatu Al-Muqarrabūna Wa Man Yastankif `An `Ibādatihi Wa Yastakbir Fasayaĥshuruhum 'Ilayhi Jamī`āan"
+        },
+        {
+            "chapter": 4,
+            "verse": 173,
+            "text": "Fa'ammā Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Fayuwaffīhim 'Ujūrahum Wa Yazīduhum Min Fađlihi Wa 'Ammā Al-Ladhīna Astankafū Wa Astakbarū Fayu`adhibuhum `Adhābāan 'Alīmāan Wa Lā Yajidūna Lahum Min Dūni Allāhi Walīyāan Wa Lā Naşīrāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 174,
+            "text": "Yā 'Ayyuhā An-Nāsu Qad Jā'akum Burhānun Min Rabbikum Wa 'Anzalnā 'Ilaykum Nūrāan Mubīnāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 175,
+            "text": "Fa'ammā Al-Ladhīna 'Āmanū Billāhi Wa A`taşamū Bihi Fasayudkhiluhum Fī Raĥmatin Minhu Wa Fađlin Wa Yahdīhim 'Ilayhi Şirāţāan Mustaqīmāan"
+        },
+        {
+            "chapter": 4,
+            "verse": 176,
+            "text": "Yastaftūnaka Quli Allāhu Yuftīkum Fī Al-Kalālati 'Ini Amru'uun Halaka Laysa Lahu Waladun Wa Lahu 'Ukhtun Falahā Nişfu Mā Taraka Wa Huwa Yarithuhā 'In Lam Yakun Lahā Waladun Fa'in Kānatā Athnatayni Falahumā Ath-Thuluthāni Mimmā Taraka Wa 'In Kānū 'Ikhwatan Rijālāan Wa Nisā'an Falildhakari Mithlu Ĥažži Al-'Unthayayni Yubayyinu Allāhu Lakum 'An Tađillū Wa Allāhu Bikulli Shay'in `Alīmun"
+        }
+    ]
+}

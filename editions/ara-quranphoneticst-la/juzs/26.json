@@ -1,0 +1,979 @@
+{
+    "juzs": [
+        {
+            "chapter": 46,
+            "verse": 1,
+            "text": "Ha-Mim"
+        },
+        {
+            "chapter": 46,
+            "verse": 2,
+            "text": "Tanzilu Al-Kitabi Mina Allahi Al-`Azizi Al-Hakimi"
+        },
+        {
+            "chapter": 46,
+            "verse": 3,
+            "text": "Ma Khalaqna As-Samawati Wa Al-'Arđa Wa Ma Baynahuma 'Illa Bil-Haqqi Wa 'Ajalin Musammaan Wa Al-Ladhina Kafaru `Amma 'Undhiru Mu`riđuna"
+        },
+        {
+            "chapter": 46,
+            "verse": 4,
+            "text": "Qul 'Ara'aytum Ma Tad`una Min Duni Allahi 'Aruni Madha Khalaqu Mina Al-'Arđi 'Am Lahum Shirkun Fi As-Samawati Ai'tuni Bikitabin Min Qabli Hadha 'Aw 'Atharatin Min `Ilmin 'In Kuntum Sadiqina"
+        },
+        {
+            "chapter": 46,
+            "verse": 5,
+            "text": "Wa Man 'Ađallu Mimman Yad`u Min Duni Allahi Man La Yastajibu Lahu 'Ila Yawmi Al-Qiyamati Wa Hum `An Du`a'ihim Ghafiluna"
+        },
+        {
+            "chapter": 46,
+            "verse": 6,
+            "text": "Wa 'Idha Hushira An-Nasu Kanu Lahum 'A`da'an Wa Kanu Bi`ibadatihim Kafirina"
+        },
+        {
+            "chapter": 46,
+            "verse": 7,
+            "text": "Wa 'Idha Tutla `Alayhim 'Ayatuna Bayyinatin Qala Al-Ladhina Kafaru Lilhaqqi Lamma Ja'ahum Hadha Sihrun Mubinun"
+        },
+        {
+            "chapter": 46,
+            "verse": 8,
+            "text": "Am Yaquluna Aftarahu Qul 'Ini Aftaraytuhu Fala Tamlikuna Li Mina Allahi Shay'aan Huwa 'A`lamu Bima Tufiđuna Fihi Kafa Bihi Shahidaan Bayni Wa Baynakum Wa Huwa Al-Ghafuru Ar-Rahimu"
+        },
+        {
+            "chapter": 46,
+            "verse": 9,
+            "text": "Qul Ma Kuntu Bid`aan Mina Ar-Rusuli Wa Ma 'Adri Ma Yuf`alu Bi Wa La Bikum 'In 'Attabi`u 'Illa Ma Yuha 'Ilayya Wa Ma 'Ana 'Illa Nadhirun Mubinun"
+        },
+        {
+            "chapter": 46,
+            "verse": 10,
+            "text": "Qul 'Ara'aytum 'In Kana Min `Indi Allahi Wa Kafartum Bihi Wa Shahida Shahidun Min Bani 'Isra'ila `Ala Mithlihi Fa'amana Wa Astakbartum 'Inna Allaha La Yahdi Al-Qawma Az-Zalimina"
+        },
+        {
+            "chapter": 46,
+            "verse": 11,
+            "text": "Wa Qala Al-Ladhina Kafaru Lilladhina 'Amanu Law Kana Khayraan Ma Sabaquna 'Ilayhi Wa 'Idh Lam Yahtadu Bihi Fasayaquluna Hadha 'Ifkun Qadimun"
+        },
+        {
+            "chapter": 46,
+            "verse": 12,
+            "text": "Wa Min Qablihi Kitabu Musa 'Imamaan Wa Rahmatan Wa Hadha Kitabun Musaddiqun Lisanaan `Arabiyaan Liyundhira Al-Ladhina Zalamu Wa Bushra Lilmuhsinina"
+        },
+        {
+            "chapter": 46,
+            "verse": 13,
+            "text": "Inna Al-Ladhina Qalu Rabbuna Allahu Thumma Astaqamu Fala Khawfun `Alayhim Wa La Hum Yahzanuna"
+        },
+        {
+            "chapter": 46,
+            "verse": 14,
+            "text": "Ula'ika 'Ashabu Al-Jannati Khalidina Fiha Jaza'an Bima Kanu Ya`maluna"
+        },
+        {
+            "chapter": 46,
+            "verse": 15,
+            "text": "Wa Wassayna Al-'Insana Biwalidayhi 'Ihsanaan Hamalat/hu 'Ummuhu Kurhaan Wa Wađa`at/hu Kurhaan Wa Hamluhu Wa Fisaluhu Thalathuna Shahraan Hatta 'Idha Balagha 'Ashuddahu Wa Balagha 'Arba`ina Sanatan Qala Rabbi 'Awzi`ni 'An 'Ashkura Ni`mataka Allati 'An`amta `Alayya Wa `Ala Wa A-Dayya Wa 'An 'A`mala Salihaan Tarđahu Wa 'Aslih Li Fi Dhurriyati 'Inni Tubtu 'Ilayka Wa 'Inni Mina Al-Muslimina"
+        },
+        {
+            "chapter": 46,
+            "verse": 16,
+            "text": "Ula'ika Al-Ladhina Nataqabbalu `Anhum 'Ahsana Ma `Amilu Wa Natajawazu `An Sayyi'atihim Fi 'Ashabi Al-Jannati Wa`da As-Sidqi Al-Ladhi Kanu Yu`aduna"
+        },
+        {
+            "chapter": 46,
+            "verse": 17,
+            "text": "Wa Al-Ladhi Qala Liwalidayhi 'Uffin Lakuma 'Ata`idanini 'An 'Ukhraja Wa Qad Khalati Al-Qurunu Min Qabli Wa Huma Yastaghithani Allaha Waylaka 'Amin 'Inna Wa`da Allahi Haqqun Fayaqulu Ma Hadha 'Illa 'Asatiru Al-'Awwalina"
+        },
+        {
+            "chapter": 46,
+            "verse": 18,
+            "text": "Ula'ika Al-Ladhina Haqqa `Alayhimu Al-Qawlu Fi 'Umamin Qad Khalat Min Qablihim Mina Al-Jinni Wa Al-'Insi 'Innahum Kanu Khasirina"
+        },
+        {
+            "chapter": 46,
+            "verse": 19,
+            "text": "Wa Likullin Darajatun Mimma `Amilu Wa Liyuwaffiyahum 'A`malahum Wa Hum La Yuzlamuna"
+        },
+        {
+            "chapter": 46,
+            "verse": 20,
+            "text": "Wa Yawma Yu`rađu Al-Ladhina Kafaru `Ala An-Nari 'Adh/habtum Tayyibatikum Fi Hayatikumu Ad-Dunya Wa Astamta`tum Biha Falyawma Tujzawna `Adhaba Al-Huni Bima Kuntum Tastakbiruna Fi Al-'Arđi Bighayri Al-Haqqi Wa Bima Kuntum Tafsuquna"
+        },
+        {
+            "chapter": 46,
+            "verse": 21,
+            "text": "Wa Adhkur 'Akha `Adin 'Idh 'Andhara Qawmahu Bil-'Ahqafi Wa Qad Khalati An-Nudhuru Min Bayni Yadayhi Wa Min Khalfihi 'Alla Ta`budu 'Illa Allaha 'Inni 'Akhafu `Alaykum `Adhaba Yawmin `Azimin"
+        },
+        {
+            "chapter": 46,
+            "verse": 22,
+            "text": "Qalu 'Aji'tana Lita'fikana `An 'Alihatina Fa'tina Bima Ta`iduna 'In Kunta Mina As-Sadiqina"
+        },
+        {
+            "chapter": 46,
+            "verse": 23,
+            "text": "Qala 'Innama Al-`Ilmu `Inda Allahi Wa 'Uballighukum Ma 'Ursiltu Bihi Wa Lakinni 'Arakum Qawmaan Tajhaluna"
+        },
+        {
+            "chapter": 46,
+            "verse": 24,
+            "text": "Falamma Ra'awhu `Ariđaan Mustaqbila 'Awdiyatihim Qalu Hadha `Ariđun Mumtiruna Bal Huwa Ma Asta`jaltum Bihi Rihun Fiha `Adhabun 'Alimun"
+        },
+        {
+            "chapter": 46,
+            "verse": 25,
+            "text": "Tudammiru Kulla Shay'in Bi'amri Rabbiha Fa'asbahu La Yura 'Illa Masakinuhum Kadhalika Najzi Al-Qawma Al-Mujrimina"
+        },
+        {
+            "chapter": 46,
+            "verse": 26,
+            "text": "Wa Laqad Makkannahum Fima 'In Makkannakum Fihi Wa Ja`alna Lahum Sam`aan Wa 'Absaraan Wa 'Af'idatan Fama 'Aghna `Anhum Sam`uhum Wa La 'Absaruhum Wa La 'Af'idatuhum Min Shay'in 'Idh Kanu Yajhaduna Bi'ayati Allahi Wa Haqa Bihim Ma Kanu Bihi Yastahzi'un"
+        },
+        {
+            "chapter": 46,
+            "verse": 27,
+            "text": "Wa Laqad 'Ahlakna Ma Hawlakum Mina Al-Qura Wa Sarrafna Al-'Ayati La`allahum Yarji`una"
+        },
+        {
+            "chapter": 46,
+            "verse": 28,
+            "text": "Falawla Nasarahumu Al-Ladhina Attakhadhu Min Duni Allahi Qurbanaan 'Alihatan Bal Đallu `Anhum Wa Dhalika 'Ifkuhum Wa Ma Kanu Yaftaruna"
+        },
+        {
+            "chapter": 46,
+            "verse": 29,
+            "text": "Wa 'Idh Sarafna 'Ilayka Nafaraan Mina Al-Jinni Yastami`una Al-Qur'ana Falamma Hađaruhu Qalu 'Ansitu Falamma Quđiya Wa Llaw 'Ila Qawmihim Mundhirina"
+        },
+        {
+            "chapter": 46,
+            "verse": 30,
+            "text": "Qalu Ya Qawmana 'Inna Sami`na Kitabaan 'Unzila Min Ba`di Musa Musaddiqaan Lima Bayna Yadayhi Yahdi 'Ila Al-Haqqi Wa 'Ila Tariqin Mustaqimin"
+        },
+        {
+            "chapter": 46,
+            "verse": 31,
+            "text": "Ya Qawmana 'Ajibu Da`iya Allahi Wa 'Aminu Bihi Yaghfir Lakum Min Dhunubikum Wa Yujirkum Min `Adhabin 'Alimin"
+        },
+        {
+            "chapter": 46,
+            "verse": 32,
+            "text": "Wa Man La Yujib Da`iya Allahi Falaysa Bimu`jizin Fi Al-'Arđi Wa Laysa Lahu Min Dunihi 'Awliya'u 'Ula'ika Fi Đalalin Mubinin"
+        },
+        {
+            "chapter": 46,
+            "verse": 33,
+            "text": "Awalam Yaraw 'Anna Allaha Al-Ladhi Khalaqa As-Samawati Wa Al-'Arđa Wa Lam Ya`ya Bikhalqihinna Biqadirin `Ala 'An Yuhyiya Al-Mawta Bala 'Innahu `Ala Kulli Shay'in Qadirun"
+        },
+        {
+            "chapter": 46,
+            "verse": 34,
+            "text": "Wa Yawma Yu`rađu Al-Ladhina Kafaru `Ala An-Nari 'Alaysa Hadha Bil-Haqqi Qalu Bala Wa Rabbina Qala Fadhuqu Al-`Adhaba Bima Kuntum Takfuruna"
+        },
+        {
+            "chapter": 46,
+            "verse": 35,
+            "text": "Fasbir Kama Sabara 'Ulu Al-`Azmi Mina Ar-Rusuli Wa La Tasta`jil Lahum Ka'annahum Yawma Yarawna Ma Yu`aduna Lam Yalbathu 'Illa Sa`atan Min Naharin Balaghun Fahal Yuhlaku 'Illa Al-Qawmu Al-Fasiquna"
+        },
+        {
+            "chapter": 47,
+            "verse": 1,
+            "text": "Al-Ladhina Kafaru Wa Saddu `An Sabili Allahi 'Ađalla 'A`malahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 2,
+            "text": "Wa Al-Ladhina 'Amanu Wa `Amilu As-Salihati Wa 'Amanu Bima Nuzzila `Ala Muhammadin Wa Huwa Al-Haqqu Min Rabbihim Kaffara `Anhum Sayyi'atihim Wa 'Aslaha Balahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 3,
+            "text": "Dhalika Bi'anna Al-Ladhina Kafaru Attaba`u Al-Batila Wa 'Anna Al-Ladhina 'Amanu Attaba`u Al-Haqqa Min Rabbihim Kadhalika Yađribu Allahu Lilnnasi 'Amthalahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 4,
+            "text": "Fa'idha Laqitumu Al-Ladhina Kafaru Fađarba Ar-Riqabi Hatta 'Idha 'Athkhantumuhum Fashuddu Al-Wathaqa Fa'imma Mannaan Ba`du Wa 'Imma Fida'an Hatta Tađa`a Al-Harbu 'Awzaraha Dhalika Wa Law Yasha'u Allahu Lantasara Minhum Wa Lakin Liyabluwa Ba`đakum Biba`đin Wa Al-Ladhina Qutilu Fi Sabili Allahi Falan Yuđilla 'A`malahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 5,
+            "text": "Sayahdihim Wa Yuslihu Balahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 6,
+            "text": "Wa Yudkhiluhumu Al-Jannata `Arrafaha Lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 7,
+            "text": "Ya 'Ayyuha Al-Ladhina 'Amanu 'In Tansuru Allaha Yansurkum Wa Yuthabbit 'Aqdamakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 8,
+            "text": "Wa Al-Ladhina Kafaru Fata`saan Lahum Wa 'Ađalla 'A`malahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 9,
+            "text": "Dhalika Bi'annahum Karihu Ma 'Anzala Allahu Fa'ahbata 'A`malahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 10,
+            "text": "Afalam Yasiru Fi Al-'Arđi Fayanzuru Kayfa Kana `Aqibatu Al-Ladhina Min Qablihim Dammara Allahu `Alayhim Wa Lilkafirina 'Amthaluha"
+        },
+        {
+            "chapter": 47,
+            "verse": 11,
+            "text": "Dhalika Bi'anna Allaha Mawla Al-Ladhina 'Amanu Wa 'Anna Al-Kafirina La Mawla Lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 12,
+            "text": "Inna Allaha Yudkhilu Al-Ladhina 'Amanu Wa `Amilu As-Salihati Jannatin Tajri Min Tahtiha Al-'Anharu Wa Al-Ladhina Kafaru Yatamatta`una Wa Ya'kuluna Kama Ta'kulu Al-'An`am Wa An-Naru Mathwaan Lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 13,
+            "text": "Wa Ka'ayyin Min Qaryatin Hiya 'Ashaddu Quwatan Min Qaryatika Allati 'Akhrajatka 'Ahlaknahum Fala Nasira Lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 14,
+            "text": "Afaman Kana `Ala Bayyinatin Min Rabbihi Kaman Zuyyina Lahu Su'u `Amalihi Wa Attaba`u 'Ahwa'ahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 15,
+            "text": "Mathalu Al-Jannati Allati Wu`ida Al-Muttaquna Fiha 'Anharun Min Ma'in Ghayri 'Asinin Wa 'Anharun Min Labanin Lam Yataghayyar Ta`muhu Wa 'Anharun Min Khamrin Ladhatin Lilsharibina Wa 'Anharun Min `Asalin Musaffaan Wa Lahum Fiha Min Kulli Ath-Thamarati Wa Maghfiratun Min Rabbihim Kaman Huwa Khalidun Fi An-Nari Wa Suqu Ma'an Hamimaan Faqatta`a 'Am`a'ahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 16,
+            "text": "Wa Minhum Man Yastami`u 'Ilayka Hatta 'Idha Kharaju Min `Indika Qalu Lilladhina 'Utu Al-`Ilma Madha Qala 'Anifaan 'Ula'ika Al-Ladhina Taba`a Allahu `Ala Qulubihim Wa Attaba`u 'Ahwa'ahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 17,
+            "text": "Wa Al-Ladhina Ahtadaw Zadahum Hudaan Wa 'Atahum Taqwhum"
+        },
+        {
+            "chapter": 47,
+            "verse": 18,
+            "text": "Fahal Yanzuruna 'Illa As-Sa`ata 'An Ta'tiyahum Baghtatan Faqad Ja'a 'Ashratuha Fa'anna Lahum 'Idha Ja'at/hum Dhikrahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 19,
+            "text": "Fa`lam 'Annahu La 'Ilaha 'Illa Allahu Wa Astaghfir Lidhanbika Wa Lilmu'uminina Wa Al-Mu'uminati Wa Allahu Ya`lamu Mutaqallabakum Wa Mathwakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 20,
+            "text": "Wa Yaqulu Al-Ladhina 'Amanu Lawla Nuzzilat Suratun Fa'idha 'Unzilat Suratun Muhkamatun Wa Dhukira Fiha Al-Qitalu Ra'ayta Al-Ladhina Fi Qulubihim Marađun Yanzuruna 'Ilayka Nazara Al-Maghshiyi `Alayhi Mina Al-Mawti Fa'awla Lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 21,
+            "text": "Ta`atun Wa Qawlun Ma`rufun Fa'idha `Azama Al-'Amru Falaw Sadaqu Allaha Lakana Khayraan Lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 22,
+            "text": "Fahal `Asaytum 'In Tawallaytum 'An Tufsidu Fi Al-'Arđi Wa Tuqatti`u 'Arhamakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 23,
+            "text": "Ula'ika Al-Ladhina La`anahumu Allahu Fa'asammahum Wa 'A`ma 'Absarahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 24,
+            "text": "Afala Yatadabbaruna Al-Qur'ana 'Am `Ala Qulubin 'Aqfaluha"
+        },
+        {
+            "chapter": 47,
+            "verse": 25,
+            "text": "Inna Al-Ladhina Artaddu `Ala 'Adbarihim Min Ba`di Ma Tabayyana Lahumu Al-Huda Ash-Shaytanu Sawwala Lahum Wa 'Amla Lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 26,
+            "text": "Dhalika Bi'annahum Qalu Lilladhina Karihu Ma Nazzala Allahu Sanuti`ukum Fi Ba`đi Al-'Amri Wa Allahu Ya`lamu 'Israrahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 27,
+            "text": "Fakayfa 'Idha Tawaffat/humu Al-Mala'ikatu Yađribuna Wujuhahum Wa 'Adbarahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 28,
+            "text": "Dhalika Bi'annahumu Attaba`u Ma 'Askhata Allaha Wa Karihu Riđwanahu Fa'ahbata 'A`malahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 29,
+            "text": "Am Hasiba Al-Ladhina Fi Qulubihim Marađun 'An Lan Yukhrija Allahu 'Ađghanahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 30,
+            "text": "Wa Law Nasha'u La'araynakahum Fala`araftahum Bisimahum Wa Lata`rifannahum Fi Lahni Al-Qawli Wa Allahu Ya`lamu 'A`malakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 31,
+            "text": "Wa Lanabluwannakum Hatta Na`lama Al-Mujahidina Minkum Wa As-Sabirina Wa Nabluwa 'Akhbarakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 32,
+            "text": "Inna Al-Ladhina Kafaru Wa Saddu `An Sabili Allahi Wa Shaqqu Ar-Rasula Min Ba`di Ma Tabayyana Lahumu Al-Huda Lan Yađurru Allaha Shay'aan Wa Sayuhbitu 'A`malahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 33,
+            "text": "Ya 'Ayyuha Al-Ladhina 'Amanu 'Ati`u Allaha Wa 'Ati`u Ar-Rasula Wa La Tubtilu 'A`malakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 34,
+            "text": "Inna Al-Ladhina Kafaru Wa Saddu `An Sabili Allahi Thumma Matu Wa Hum Kuffarun Falan Yaghfira Allahu Lahum"
+        },
+        {
+            "chapter": 47,
+            "verse": 35,
+            "text": "Fala Tahinu Wa Tad`u 'Ila As-Salmi Wa 'Antumu Al-'A`lawna Wa Allahu Ma`akum Wa Lan Yatirakum 'A`malakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 36,
+            "text": "Innama Al-Hayaatu Ad-Dunya La`ibun Wa Lahwun Wa 'In Tu'uminu Wa Tattaqu Yu'utikum 'Ujurakum Wa La Yas'alkum 'Amwalakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 37,
+            "text": "In Yas'alkumuha Fayuhfikum Tabkhalu Wa Yukhrij 'Ađghanakum"
+        },
+        {
+            "chapter": 47,
+            "verse": 38,
+            "text": "Ha'antum Ha'uula' Tud`awna Litunfiqu Fi Sabili Allahi Faminkum Man Yabkhalu Wa Man Yabkhal Fa'innama Yabkhalu `An Nafsihi Wa Allahu Al-Ghaniyu Wa 'Antumu Al-Fuqara'u Wa 'In Tatawallaw Yastabdil Qawmaan Ghayrakum Thumma La Yakunu 'Amthalakum"
+        },
+        {
+            "chapter": 48,
+            "verse": 1,
+            "text": "Inna Fatahna Laka Fathaan Mubinaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 2,
+            "text": "Liyaghfira Laka Allahu Ma Taqaddama Min Dhanbika Wa Ma Ta'akhkhara Wa Yutimma Ni`matahu `Alayka Wa Yahdiyaka Sirataan Mustaqimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 3,
+            "text": "Wa Yansuraka Allahu Nasraan `Azizaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 4,
+            "text": "Huwa Al-Ladhi 'Anzala As-Sakinata Fi Qulubi Al-Mu'uminina Liyazdadu 'Imanaan Ma`a 'Imanihim Wa Lillahi Junudu As-Samawati Wa Al-'Arđi Wa Kana Allahu `Alimaan Hakimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 5,
+            "text": "Liyudkhila Al-Mu'uminina Wa Al-Mu'uminati Jannatin Tajri Min Tahtiha Al-'Anharu Khalidina Fiha Wa Yukaffira `Anhum Sayyi'atihim Wa Kana Dhalika `Inda Allahi Fawzaan `Azimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 6,
+            "text": "Wa Yu`adhiba Al-Munafiqina Wa Al-Munafiqati Wa Al-Mushrikina Wa Al-Mushrikati Az-Zannina Billahi Zanna As-Saw'i `Alayhim Da'iratu As-Saw'i Wa Ghađiba Allahu `Alayhim Wa La`anahum Wa 'A`adda Lahum Jahannama Wa Sa'at Masiraan"
+        },
+        {
+            "chapter": 48,
+            "verse": 7,
+            "text": "Wa Lillahi Junudu As-Samawati Wa Al-'Arđi Wa Kana Allahu `Azizaan Hakimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 8,
+            "text": "Inna 'Arsalnaka Shahidaan Wa Mubashiraan Wa Nadhiraan"
+        },
+        {
+            "chapter": 48,
+            "verse": 9,
+            "text": "Litu'uminu Billahi Wa Rasulihi Wa Tu`azziruhu Wa Tuwaqqiruhu Wa Tusabbihuhu Bukratan Wa 'Asilaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 10,
+            "text": "Inna Al-Ladhina Yubayi`unaka 'Innama Yubayi`una Allaha Yadu Allahi Fawqa 'Aydihim Faman Nakatha Fa'innama Yankuthu `Ala Nafsihi Wa Man 'Awfa Bima `Ahada `Alayhu Allaha Fasayu'utihi 'Ajraan `Azimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 11,
+            "text": "Sayaqulu Laka Al-Mukhallafuna Mina Al-'A`rabi Shaghalatna 'Amwaluna Wa 'Ahluna Fastaghfir Lana Yaquluna Bi'alsinatihim Ma Laysa Fi Qulubihim Qul Faman Yamliku Lakum Mina Allahi Shay'aan 'In 'Arada Bikum Đarraan 'Aw 'Arada Bikum Naf`aan Bal Kana Allahu Bima Ta`maluna Khabiraan"
+        },
+        {
+            "chapter": 48,
+            "verse": 12,
+            "text": "Bal Zanantum 'An Lan Yanqaliba Ar-Rasulu Wa Al-Mu'uminuna 'Ila 'Ahlihim 'Abadaan Wa Zuyyina Dhalika Fi Qulubikum Wa Zanantum Zanna As-Saw'i Wa Kuntum Qawmaan Buraan"
+        },
+        {
+            "chapter": 48,
+            "verse": 13,
+            "text": "Wa Man Lam Yu'umin Billahi Wa Rasulihi Fa'inna 'A`tadna Lilkafirina Sa`iraan"
+        },
+        {
+            "chapter": 48,
+            "verse": 14,
+            "text": "Wa Lillahi Mulku As-Samawati Wa Al-'Arđi Yaghfiru Liman Yasha'u Wa Yu`adhibu Man Yasha'u Wa Kana Allahu Ghafuraan Rahimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 15,
+            "text": "Sayaqulu Al-Mukhallafuna 'Idha Antalaqtum 'Ila Maghanima Lita'khudhuha Dharuna Nattabi`kum Yuriduna 'An Yubaddilu Kalama Allahi Qul Lan Tattabi`una Kadhalikum Qala Allahu Min Qablu Fasayaquluna Bal Tahsudunana Bal Kanu La Yafqahuna 'Illa Qalilaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 16,
+            "text": "Qul Lilmukhallafina Mina Al-'A`rabi Satud`awna 'Ila Qawmin 'Uli Ba'sin Shadidin Tuqatilunahum 'Aw Yuslimuna Fa'in Tuti`u Yu'utikumu Allahu 'Ajraan Hasanaan Wa 'In Tatawallaw Kama Tawallaytum Min Qablu Yu`adhibkum `Adhabaan 'Alimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 17,
+            "text": "Laysa `Ala Al-'A`ma Harajun Wa La `Ala Al-'A`raji Harajun Wa La `Ala Al-Mariđi Harajun Wa Man Yuti`i Allaha Wa Rasulahu Yudkhilhu Jannatin Tajri Min Tahtiha Al-'Anharu Wa Man Yatawalla Yu`adhibhu `Adhabaan 'Alimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 18,
+            "text": "Laqad Rađiya Allahu `Ani Al-Mu'uminina 'Idh Yubayi`unaka Tahta Ash-Shajarati Fa`alima Ma Fi Qulubihim Fa'anzala As-Sakinata `Alayhim Wa 'Athabahum Fathaan Qaribaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 19,
+            "text": "Wa Maghanima Kathiratan Ya'khudhunaha Wa Kana Allahu `Azizaan Hakimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 20,
+            "text": "Wa`adakumu Allahu Maghanima Kathiratan Ta'khudhunaha Fa`ajjala Lakum Hadhihi Wa Kaffa 'Aydiya An-Nasi `Ankum Wa Litakuna 'Ayatan Lilmu'uminina Wa Yahdiyakum Sirataan Mustaqimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 21,
+            "text": "Wa 'Ukhra Lam Taqdiru `Alayha Qad 'Ahata Allahu Biha Wa Kana Allahu `Ala Kulli Shay'in Qadiraan"
+        },
+        {
+            "chapter": 48,
+            "verse": 22,
+            "text": "Wa Law Qatalakumu Al-Ladhina Kafaru Lawallaw Al-'Adbara Thumma La Yajiduna Waliyaan Wa La Nasiraan"
+        },
+        {
+            "chapter": 48,
+            "verse": 23,
+            "text": "Sunnata Allahi Allati Qad Khalat Min Qablu Wa Lan Tajida Lisunnati Allahi Tabdilaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 24,
+            "text": "Wa Huwa Al-Ladhi Kaffa 'Aydiyahum `Ankum Wa 'Aydiyakum `Anhum Bibatni Makkata Min Ba`di 'An 'Azfarakum `Alayhim Wa Kana Allahu Bima Ta`maluna Basiraan"
+        },
+        {
+            "chapter": 48,
+            "verse": 25,
+            "text": "Humu Al-Ladhina Kafaru Wa Saddukum `Ani Al-Masjidi Al-Harami Wa Al-Hadya Ma`kufaan 'An Yablugha Mahillahu Wa Lawla Rijalun Mu'uminuna Wa Nisa'un Mu'uminatun Lam Ta`lamuhum 'An Tata'uhum Fatusibakum Minhum Ma`arratun Bighayri `Ilmin Liyudkhila Allahu Fi Rahmatihi Man Yasha'u Law Tazayyalu La`adhabna Al-Ladhina Kafaru Minhum `Adhabaan 'Alimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 26,
+            "text": "Idh Ja`ala Al-Ladhina Kafaru Fi Qulubihimu Al-Hamiyata Hamiyata Al-Jahiliyati Fa'anzala Allahu Sakinatahu `Ala Rasulihi Wa `Ala Al-Mu'uminina Wa 'Alzamahum Kalimata At-Taqwa Wa Kanu 'Ahaqqa Biha Wa 'Ahlaha Wa Kana Allahu Bikulli Shay'in `Alimaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 27,
+            "text": "Laqad Sadaqa Allahu Rasulahu Ar-Ru'uya Bil-Haqqi Latadkhulunna Al-Masjida Al-Harama 'In Sha'a Allahu 'Aminina Muhalliqina Ru'usakum Wa Muqassirina La Takhafuna Fa`alima Ma Lam Ta`lamu Faja`ala Min Duni Dhalika Fathaan Qaribaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 28,
+            "text": "Huwa Al-Ladhi 'Arsala Rasulahu Bil-Huda Wa Dini Al-Haqqi Liyuzhirahu `Ala Ad-Dini Kullihi Wa Kafa Billahi Shahidaan"
+        },
+        {
+            "chapter": 48,
+            "verse": 29,
+            "text": "Muhammadun Rasulu Allahi Wa Al-Ladhina Ma`ahu 'Ashidda'u `Ala Al-Kuffari Ruhama'u Baynahum Tarahum Rukka`aan Sujjadaan Yabtaghuna Fađlaan Mina Allahi Wa Riđwanaan Simahum Fi Wujuhihim Min 'Athari As-Sujudi Dhalika Mathaluhum Fi At-Tawraati Wa Mathaluhum Fi Al-'Injili Kazar`in 'Akhraja Shat'ahu Fa'azarahu Fastaghlaza Fastawa `Ala Suqihi Yu`jibu Az-Zurra`a Liyaghiza Bihimu Al-Kuffara Wa`ada Allahu Al-Ladhina 'Amanu Wa `Amilu As-Salihati Minhum Maghfiratan Wa 'Ajraan `Azimaan"
+        },
+        {
+            "chapter": 49,
+            "verse": 1,
+            "text": "Ya 'Ayyuha Al-Ladhina 'Amanu La Tuqaddimu Bayna Yadayi Allahi Wa Rasulihi Wa Attaqu Allaha 'Inna Allaha Sami`un `Alimun"
+        },
+        {
+            "chapter": 49,
+            "verse": 2,
+            "text": "Ya 'Ayyuha Al-Ladhina 'Amanu La Tarfa`u 'Aswatakum Fawqa Sawti An-Nabiyi Wa La Tajharu Lahu Bil-Qawli Kajahri Ba`đikum Liba`đin 'An Tahbata 'A`malukum Wa 'Antum La Tash`uruna"
+        },
+        {
+            "chapter": 49,
+            "verse": 3,
+            "text": "Inna Al-Ladhina Yaghuđđuna 'Aswatahum `Inda Rasuli Allahi 'Ula'ika Al-Ladhina Amtahana Allahu Qulubahum Lilttaqwa Lahum Maghfiratun Wa 'Ajrun `Azimun"
+        },
+        {
+            "chapter": 49,
+            "verse": 4,
+            "text": "Inna Al-Ladhina Yunadunaka Min Wara'i Al-Hujurati 'Aktharuhum La Ya`qiluna"
+        },
+        {
+            "chapter": 49,
+            "verse": 5,
+            "text": "Wa Law 'Annahum Sabaru Hatta Takhruja 'Ilayhim Lakana Khayraan Lahum Wa Allahu Ghafurun Rahimun"
+        },
+        {
+            "chapter": 49,
+            "verse": 6,
+            "text": "Ya 'Ayyuha Al-Ladhina 'Amanu 'In Ja'akum Fasiqun Binaba'iin Fatabayyanu 'An Tusibu Qawmaan Bijahalatin Fatusbihu `Ala Ma Fa`altum Nadimina"
+        },
+        {
+            "chapter": 49,
+            "verse": 7,
+            "text": "Wa A`lamu 'Anna Fikum Rasula Allahi Law Yuti`ukum Fi Kathirin Mina Al-'Amri La`anittum Wa Lakinna Allaha Habbaba 'Ilaykumu Al-'Imana Wa Zayyanahu Fi Qulubikum Wa Karraha 'Ilaykumu Al-Kufra Wa Al-Fusuqa Wa Al-`Isyana 'Ula'ika Humu Ar-Rashiduna"
+        },
+        {
+            "chapter": 49,
+            "verse": 8,
+            "text": "Fađlaan Mina Allahi Wa Ni`matan Wa Allahu `Alimun Hakimun"
+        },
+        {
+            "chapter": 49,
+            "verse": 9,
+            "text": "Wa 'In Ta'ifatani Mina Al-Mu'uminina Aqtatalu Fa'aslihu Baynahuma Fa'in Baghat 'Ihdahuma `Ala Al-'Ukhra Faqatilu Allati Tabghi Hatta Tafi'a 'Ila 'Amri Allahi Fa'in Fa'at Fa'aslihu Baynahuma Bil-`Adli Wa 'Aqsitu 'Inna Allaha Yuhibbu Al-Muqsitina"
+        },
+        {
+            "chapter": 49,
+            "verse": 10,
+            "text": "Innama Al-Mu'uminuna 'Ikhwatun Fa'aslihu Bayna 'Akhawaykum Wa Attaqu Allaha La`allakum Turhamuna"
+        },
+        {
+            "chapter": 49,
+            "verse": 11,
+            "text": "Ya 'Ayyuha Al-Ladhina 'Amanu La Yaskhar Qawmun Min Qawmin `Asa 'An Yakunu Khayraan Minhum Wa La Nisa'un Min Nisa'in `Asa 'An Yakunna Khayraan Minhunna Wa La Talmizu 'Anfusakum Wa La Tanabazu Bil-'Alqabi Bi'sa Al-Aismu Al-Fusuqu Ba`da Al-'Imani Wa Man Lam Yatub Fa'ula'ika Humu Az-Zalimuna"
+        },
+        {
+            "chapter": 49,
+            "verse": 12,
+            "text": "Ya 'Ayyuha Al-Ladhina 'Amanu Ajtanibu Kathiraan Mina Az-Zanni 'Inna Ba`đa Az-Zanni 'Ithmun Wa La Tajassasu Wa La Yaghtab Ba`đukum Ba`đaan 'Ayuhibbu 'Ahadukum 'An Ya'kula Lahma 'Akhihi Maytaan Fakarihtumuhu Wa Attaqu Allaha 'Inna Allaha Tawwabun Rahimun"
+        },
+        {
+            "chapter": 49,
+            "verse": 13,
+            "text": "Ya 'Ayyuha An-Nasu 'Inna Khalaqnakum Min Dhakarin Wa 'Untha Wa Ja`alnakum Shu`ubaan Wa Qaba'ila Lita`arafu 'Inna 'Akramakum `Inda Allahi 'Atqakum 'Inna Allaha `Alimun Khabirun"
+        },
+        {
+            "chapter": 49,
+            "verse": 14,
+            "text": "Qalati Al-'A`rabu 'Amanna Qul Lam Tu'uminu Wa Lakin Qulu 'Aslamna Wa Lamma Yadkhuli Al-'Imanu Fi Qulubikum Wa 'In Tuti`u Allaha Wa Rasulahu La Yalitkum Min 'A`malikum Shay'aan 'Inna Allaha Ghafurun Rahimun"
+        },
+        {
+            "chapter": 49,
+            "verse": 15,
+            "text": "Innama Al-Mu'uminuna Al-Ladhina 'Amanu Billahi Wa Rasulihi Thumma Lam Yartabu Wa Jahadu Bi'amwalihim Wa 'Anfusihim Fi Sabili Allahi 'Ula'ika Humu As-Sadiquna"
+        },
+        {
+            "chapter": 49,
+            "verse": 16,
+            "text": "Qul 'Atu`allimuna Allaha Bidinikum Wa Allahu Ya`lamu Ma Fi As-Samawati Wa Ma Fi Al-'Arđi Wa Allahu Bikulli Shay'in `Alimun"
+        },
+        {
+            "chapter": 49,
+            "verse": 17,
+            "text": "Yamunnuna `Alayka 'An 'Aslamu Qul La Tamunnu `Alayya 'Islamakum Bali Allahu Yamunnu `Alaykum 'An Hadakum Lil'imani 'In Kuntum Sadiqina"
+        },
+        {
+            "chapter": 49,
+            "verse": 18,
+            "text": "Inna Allaha Ya`lamu Ghayba As-Samawati Wa Al-'Arđi Wa Allahu Basirun Bima Ta`maluna"
+        },
+        {
+            "chapter": 50,
+            "verse": 1,
+            "text": "Qaf Wa Al-Qur'ani Al-Majidi"
+        },
+        {
+            "chapter": 50,
+            "verse": 2,
+            "text": "Bal `Ajibu 'An Ja'ahum Mundhirun Minhum Faqala Al-Kafiruna Hadha Shay'un `Ajibun"
+        },
+        {
+            "chapter": 50,
+            "verse": 3,
+            "text": "A'idha Mitna Wa Kunna Turabaan Dhalika Raj`un Ba`idun"
+        },
+        {
+            "chapter": 50,
+            "verse": 4,
+            "text": "Qad `Alimna Ma Tanqusu Al-'Arđu Minhum Wa `Indana Kitabun Hafizun"
+        },
+        {
+            "chapter": 50,
+            "verse": 5,
+            "text": "Bal Kadhabu Bil-Haqqi Lamma Ja'ahum Fahum Fi 'Amrin Marijin"
+        },
+        {
+            "chapter": 50,
+            "verse": 6,
+            "text": "Afalam Yanzuru 'Ila As-Sama'i Fawqahum Kayfa Banaynaha Wa Zayyannaha Wa Ma Laha Min Furujin"
+        },
+        {
+            "chapter": 50,
+            "verse": 7,
+            "text": "Wa Al-'Arđa Madadnaha Wa 'Alqayna Fiha Rawasiya Wa 'Anbatna Fiha Min Kulli Zawjin Bahijin"
+        },
+        {
+            "chapter": 50,
+            "verse": 8,
+            "text": "Tabsiratan Wa Dhikra Likulli `Abdin Munibin"
+        },
+        {
+            "chapter": 50,
+            "verse": 9,
+            "text": "Wa Nazzalna Mina As-Sama'i Ma'an Mubarakaan Fa'anbatna Bihi Jannatin Wa Habba Al-Hasidi"
+        },
+        {
+            "chapter": 50,
+            "verse": 10,
+            "text": "Wa An-Nakhla Basiqatin Laha Tal`un Nađidun"
+        },
+        {
+            "chapter": 50,
+            "verse": 11,
+            "text": "Rizqaan Lil`ibadi Wa 'Ahyayna Bihi Baldatan Maytaan Kadhalika Al-Khuruju"
+        },
+        {
+            "chapter": 50,
+            "verse": 12,
+            "text": "Kadhabat Qablahum Qawmu Nuhin Wa 'Ashabu Ar-Rassi Wa Thamudu"
+        },
+        {
+            "chapter": 50,
+            "verse": 13,
+            "text": "Wa `Adun Wa Fir`awnu Wa 'Ikhwanu Lutin"
+        },
+        {
+            "chapter": 50,
+            "verse": 14,
+            "text": "Wa 'Ashabu Al-'Aykati Wa Qawmu Tubba`in Kullun Kadhaba Ar-Rusula Fahaqqa Wa`idi"
+        },
+        {
+            "chapter": 50,
+            "verse": 15,
+            "text": "Afa`ayina Bil-Khalqi Al-'Awwali Bal Hum Fi Labsin Min Khalqin Jadidin"
+        },
+        {
+            "chapter": 50,
+            "verse": 16,
+            "text": "Wa Laqad Khalaqna Al-'Insana Wa Na`lamu Ma Tuwaswisu Bihi Nafsuhu Wa Nahnu 'Aqrabu 'Ilayhi Min Habli Al-Waridi"
+        },
+        {
+            "chapter": 50,
+            "verse": 17,
+            "text": "Idh Yatalaqqa Al-Mutalaqqiyani `Ani Al-Yamini Wa `Ani Ash-Shimali Qa`idun"
+        },
+        {
+            "chapter": 50,
+            "verse": 18,
+            "text": "Ma Yalfizu Min Qawlin 'Illa Ladayhi Raqibun `Atidun"
+        },
+        {
+            "chapter": 50,
+            "verse": 19,
+            "text": "Wa Ja'at Sakratu Al-Mawti Bil-Haqqi Dhalika Ma Kunta Minhu Tahidu"
+        },
+        {
+            "chapter": 50,
+            "verse": 20,
+            "text": "Wa Nufikha Fi As-Suri Dhalika Yawmu Al-Wa`idi"
+        },
+        {
+            "chapter": 50,
+            "verse": 21,
+            "text": "Wa Ja'at Kullu Nafsin Ma`aha Sa'iqun Wa Shahidun"
+        },
+        {
+            "chapter": 50,
+            "verse": 22,
+            "text": "Laqad Kunta Fi Ghaflatin Min Hadha Fakashafna `Anka Ghita'aka Fabasaruka Al-Yawma Hadidun"
+        },
+        {
+            "chapter": 50,
+            "verse": 23,
+            "text": "Wa Qala Qarinuhu Hadha Ma Ladayya `Atidun"
+        },
+        {
+            "chapter": 50,
+            "verse": 24,
+            "text": "Alqiya Fi Jahannama Kulla Kaffarin `Anidin"
+        },
+        {
+            "chapter": 50,
+            "verse": 25,
+            "text": "Manna`in Lilkhayri Mu`tadin Muribin"
+        },
+        {
+            "chapter": 50,
+            "verse": 26,
+            "text": "Al-Ladhi Ja`ala Ma`a Allahi 'Ilahaan 'Akhara Fa'alqiyahu Fi Al-`Adhabi Ash-Shadidi"
+        },
+        {
+            "chapter": 50,
+            "verse": 27,
+            "text": "Qala Qarinuhu Rabbana Ma 'Atghaytuhu Wa Lakin Kana Fi Đalalin Ba`idin"
+        },
+        {
+            "chapter": 50,
+            "verse": 28,
+            "text": "Qala La Takhtasimu Ladayya Wa Qad Qaddamtu 'Ilaykum Bil-Wa`idi"
+        },
+        {
+            "chapter": 50,
+            "verse": 29,
+            "text": "Ma Yubaddalu Al-Qawlu Ladayya Wa Ma 'Ana Bizallamin Lil`abidi"
+        },
+        {
+            "chapter": 50,
+            "verse": 30,
+            "text": "Yawma Naqulu Lijahannama Hal Amtala'ti Wa Taqulu Hal Min Mazidin"
+        },
+        {
+            "chapter": 50,
+            "verse": 31,
+            "text": "Wa 'Uzlifati Al-Jannatu Lilmuttaqina Ghayra Ba`idin"
+        },
+        {
+            "chapter": 50,
+            "verse": 32,
+            "text": "Hadha Ma Tu`aduna Likulli 'Awwabin Hafizin"
+        },
+        {
+            "chapter": 50,
+            "verse": 33,
+            "text": "Man Khashiya Ar-Rahmana Bil-Ghaybi Wa Ja'a Biqalbin Munibin"
+        },
+        {
+            "chapter": 50,
+            "verse": 34,
+            "text": "Adkhuluha Bisalamin Dhalika Yawmu Al-Khuludi"
+        },
+        {
+            "chapter": 50,
+            "verse": 35,
+            "text": "Lahum Ma Yasha'una Fiha Wa Ladayna Mazidun"
+        },
+        {
+            "chapter": 50,
+            "verse": 36,
+            "text": "Wa Kam 'Ahlakna Qablahum Min Qarnin Hum 'Ashaddu Minhum Batshaan Fanaqqabu Fi Al-Biladi Hal Min Mahisin"
+        },
+        {
+            "chapter": 50,
+            "verse": 37,
+            "text": "Inna Fi Dhalika Ladhikra Liman Kana Lahu Qalbun 'Aw 'Alqa As-Sam`a Wa Huwa Shahidun"
+        },
+        {
+            "chapter": 50,
+            "verse": 38,
+            "text": "Wa Laqad Khalaqna As-Samawati Wa Al-'Arđa Wa Ma Baynahuma Fi Sittati 'Ayyamin Wa Ma Massana Min Lughubin"
+        },
+        {
+            "chapter": 50,
+            "verse": 39,
+            "text": "Fasbir `Ala Ma Yaquluna Wa Sabbih Bihamdi Rabbika Qabla Tulu`i Ash-Shamsi Wa Qabla Al-Ghurubi"
+        },
+        {
+            "chapter": 50,
+            "verse": 40,
+            "text": "Wa Mina Al-Layli Fasabbihhu Wa 'Adbara As-Sujudi"
+        },
+        {
+            "chapter": 50,
+            "verse": 41,
+            "text": "Wa Astami` Yawma Yunadi Al-Munadi Min Makanin Qaribin"
+        },
+        {
+            "chapter": 50,
+            "verse": 42,
+            "text": "Yawma Yasma`una As-Sayhata Bil-Haqqi Dhalika Yawmu Al-Khuruji"
+        },
+        {
+            "chapter": 50,
+            "verse": 43,
+            "text": "Inna Nahnu Nuhyi Wa Numitu Wa 'Ilayna Al-Masiru"
+        },
+        {
+            "chapter": 50,
+            "verse": 44,
+            "text": "Yawma Tashaqqaqu Al-'Arđu `Anhum Sira`aan Dhalika Hashrun `Alayna Yasirun"
+        },
+        {
+            "chapter": 50,
+            "verse": 45,
+            "text": "Nahnu 'A`lamu Bima Yaquluna Wa Ma 'Anta `Alayhim Bijabbarin Fadhakkir Bil-Qur'ani Man Yakhafu Wa`idi"
+        },
+        {
+            "chapter": 51,
+            "verse": 1,
+            "text": "Wa Adh-Dhariyati Dharwan"
+        },
+        {
+            "chapter": 51,
+            "verse": 2,
+            "text": "Falhamilati Wiqraan"
+        },
+        {
+            "chapter": 51,
+            "verse": 3,
+            "text": "Faljariyati Yusraan"
+        },
+        {
+            "chapter": 51,
+            "verse": 4,
+            "text": "Falmuqassimati 'Amraan"
+        },
+        {
+            "chapter": 51,
+            "verse": 5,
+            "text": "Innama Tu`aduna Lasadiqun"
+        },
+        {
+            "chapter": 51,
+            "verse": 6,
+            "text": "Wa 'Inna Ad-Dina Lawaqi`un"
+        },
+        {
+            "chapter": 51,
+            "verse": 7,
+            "text": "Wa As-Sama'i Dhati Al-Hubuki"
+        },
+        {
+            "chapter": 51,
+            "verse": 8,
+            "text": "Innakum Lafi Qawlin Mukhtalifin"
+        },
+        {
+            "chapter": 51,
+            "verse": 9,
+            "text": "Yu'ufaku `Anhu Man 'Ufika"
+        },
+        {
+            "chapter": 51,
+            "verse": 10,
+            "text": "Qutila Al-Kharrasuna"
+        },
+        {
+            "chapter": 51,
+            "verse": 11,
+            "text": "Al-Ladhina Hum Fi Ghamratin Sahuna"
+        },
+        {
+            "chapter": 51,
+            "verse": 12,
+            "text": "Yas'aluna 'Ayyana Yawmu Ad-Dini"
+        },
+        {
+            "chapter": 51,
+            "verse": 13,
+            "text": "Yawma Hum `Ala An-Nari Yuftanuna"
+        },
+        {
+            "chapter": 51,
+            "verse": 14,
+            "text": "Dhuqu Fitnatakum Hadha Al-Ladhi Kuntum Bihi Tasta`jiluna"
+        },
+        {
+            "chapter": 51,
+            "verse": 15,
+            "text": "Inna Al-Muttaqina Fi Jannatin Wa `Uyunin"
+        },
+        {
+            "chapter": 51,
+            "verse": 16,
+            "text": "Akhidhina Ma 'Atahum Rabbuhum 'Innahum Kanu Qabla Dhalika Muhsinina"
+        },
+        {
+            "chapter": 51,
+            "verse": 17,
+            "text": "Kanu Qalilaan Mina Al-Layli Ma Yahja`una"
+        },
+        {
+            "chapter": 51,
+            "verse": 18,
+            "text": "Wa Bil-'Ashari Hum Yastaghfiruna"
+        },
+        {
+            "chapter": 51,
+            "verse": 19,
+            "text": "Wa Fi 'Amwalihim Haqqun Lilssa'ili Wa Al-Mahrumi"
+        },
+        {
+            "chapter": 51,
+            "verse": 20,
+            "text": "Wa Fi Al-'Arđi 'Ayatun Lilmuqinina"
+        },
+        {
+            "chapter": 51,
+            "verse": 21,
+            "text": "Wa Fi 'Anfusikum 'Afala Tubsiruna"
+        },
+        {
+            "chapter": 51,
+            "verse": 22,
+            "text": "Wa Fi As-Sama'i Rizqukum Wa Ma Tu`aduna"
+        },
+        {
+            "chapter": 51,
+            "verse": 23,
+            "text": "Fawarabbi As-Sama'i Wa Al-'Arđi 'Innahu Lahaqqun Mithla Ma 'Annakum Tantiquna"
+        },
+        {
+            "chapter": 51,
+            "verse": 24,
+            "text": "Hal 'Ataka Hadithu Đayfi 'Ibrahima Al-Mukramina"
+        },
+        {
+            "chapter": 51,
+            "verse": 25,
+            "text": "Idh Dakhalu `Alayhi Faqalu Salamaan Qala Salamun Qawmun Munkaruna"
+        },
+        {
+            "chapter": 51,
+            "verse": 26,
+            "text": "Faragha 'Ila 'Ahlihi Faja'a Bi`ijlin Saminin"
+        },
+        {
+            "chapter": 51,
+            "verse": 27,
+            "text": "Faqarrabahu 'Ilayhim Qala 'Ala Ta'kuluna"
+        },
+        {
+            "chapter": 51,
+            "verse": 28,
+            "text": "Fa'awjasa Minhum Khifatan Qalu La Takhaf Wa Basharuhu Bighulamin `Alimin"
+        },
+        {
+            "chapter": 51,
+            "verse": 29,
+            "text": "Fa'aqbalati Amra'atuhu Fi Sarratin Fasakkat Wajhaha Wa Qalat `Ajuzun `Aqimun"
+        },
+        {
+            "chapter": 51,
+            "verse": 30,
+            "text": "Qalu Kadhaliki Qala Rabbuki 'Innahu Huwa Al-Hakimu Al-`Alimu"
+        }
+    ]
+}

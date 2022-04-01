@@ -1,0 +1,374 @@
+{
+    "maqras": [
+        {
+            "chapter": 56,
+            "verse": 1,
+            "text": "Idhā Waqa`ati Al-Wāqi`ahu"
+        },
+        {
+            "chapter": 56,
+            "verse": 2,
+            "text": "Laysa Liwaq`atihā Kādhibahun"
+        },
+        {
+            "chapter": 56,
+            "verse": 3,
+            "text": "Khāfiđatun Rāfi`ahun"
+        },
+        {
+            "chapter": 56,
+            "verse": 4,
+            "text": "Idhā Rujjati Al-'Arđu Rajjāan"
+        },
+        {
+            "chapter": 56,
+            "verse": 5,
+            "text": "Wa Bussati Al-Jibālu Bassāan"
+        },
+        {
+            "chapter": 56,
+            "verse": 6,
+            "text": "Fakānat Habā'an Munbaththāan"
+        },
+        {
+            "chapter": 56,
+            "verse": 7,
+            "text": "Wa Kuntum 'Azwājāan Thalāthahan"
+        },
+        {
+            "chapter": 56,
+            "verse": 8,
+            "text": "Fa'aşĥābu Al-Maymanati Mā 'Aşĥābu Al-Maymanahi"
+        },
+        {
+            "chapter": 56,
+            "verse": 9,
+            "text": "Wa 'Aşĥābu Al-Mash'amati Mā 'Aşĥābu Al-Mash'amahi"
+        },
+        {
+            "chapter": 56,
+            "verse": 10,
+            "text": "Wa As-Sābiqūna As-Sābiqūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 11,
+            "text": "Ūlā'ika Al-Muqarrabūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 12,
+            "text": "Fī Jannāti An-Na`īmi"
+        },
+        {
+            "chapter": 56,
+            "verse": 13,
+            "text": "Thullatun Mina Al-'Awwalīna"
+        },
+        {
+            "chapter": 56,
+            "verse": 14,
+            "text": "Wa Qalīlun Mina Al-'Ākhirīna"
+        },
+        {
+            "chapter": 56,
+            "verse": 15,
+            "text": "Alá Sururin Mawđūnahin"
+        },
+        {
+            "chapter": 56,
+            "verse": 16,
+            "text": "Muttaki'īna `Alayhā Mutaqābilīna"
+        },
+        {
+            "chapter": 56,
+            "verse": 17,
+            "text": "Yaţūfu `Alayhim Wildānun Mukhalladūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 18,
+            "text": "Bi'akwābin Wa 'Abārīqa Wa Ka'sin Min Ma`īnin"
+        },
+        {
+            "chapter": 56,
+            "verse": 19,
+            "text": "Lā Yuşadda`ūna `Anhā Wa Lā Yunzifūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 20,
+            "text": "Wa Fākihatin Mimmā Yatakhayyarūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 21,
+            "text": "Wa Laĥmi Ţayrin Mimmā Yashtahūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 22,
+            "text": "Wa Ĥūrun `Īnun"
+        },
+        {
+            "chapter": 56,
+            "verse": 23,
+            "text": "Ka'amthāli Al-Lu'ulu'ui Al-Maknūni"
+        },
+        {
+            "chapter": 56,
+            "verse": 24,
+            "text": "Jazā'an Bimā Kānū Ya`malūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 25,
+            "text": "Lā Yasma`ūna Fīhā Laghwan Wa Lā Ta'thīmāan"
+        },
+        {
+            "chapter": 56,
+            "verse": 26,
+            "text": "Illā Qīlāan Salāmāan Salāmāan"
+        },
+        {
+            "chapter": 56,
+            "verse": 27,
+            "text": "Wa 'Aşĥābu Al-Yamīni Mā 'Aşĥābu Al-Yamīni"
+        },
+        {
+            "chapter": 56,
+            "verse": 28,
+            "text": "Fī Sidrin Makhđūdin"
+        },
+        {
+            "chapter": 56,
+            "verse": 29,
+            "text": "Wa Ţalĥin Manđūdin"
+        },
+        {
+            "chapter": 56,
+            "verse": 30,
+            "text": "Wa Žillin Mamdūdin"
+        },
+        {
+            "chapter": 56,
+            "verse": 31,
+            "text": "Wa Mā'in Maskūbin"
+        },
+        {
+            "chapter": 56,
+            "verse": 32,
+            "text": "Wa Fākihatin Kathīrahin"
+        },
+        {
+            "chapter": 56,
+            "verse": 33,
+            "text": "Lā Maqţū`atin Wa Lā Mamnū`ahin"
+        },
+        {
+            "chapter": 56,
+            "verse": 34,
+            "text": "Wa Furushin Marfū`ahin"
+        },
+        {
+            "chapter": 56,
+            "verse": 35,
+            "text": "Innā 'Ansha'nāhunna 'Inshā'an"
+        },
+        {
+            "chapter": 56,
+            "verse": 36,
+            "text": "Faja`alnāhunna 'Abkārāan"
+        },
+        {
+            "chapter": 56,
+            "verse": 37,
+            "text": "Urubāan 'Atrābāan"
+        },
+        {
+            "chapter": 56,
+            "verse": 38,
+            "text": "Li'aşĥābi Al-Yamīni"
+        },
+        {
+            "chapter": 56,
+            "verse": 39,
+            "text": "Thullatun Mina Al-'Awwalīna"
+        },
+        {
+            "chapter": 56,
+            "verse": 40,
+            "text": "Wa Thullatun Mina Al-'Ākhirīna"
+        },
+        {
+            "chapter": 56,
+            "verse": 41,
+            "text": "Wa 'Aşĥābu Ash-Shimāli Mā 'Aşĥābu Ash-Shimāli"
+        },
+        {
+            "chapter": 56,
+            "verse": 42,
+            "text": "Fī Samūmin Wa Ĥamīmin"
+        },
+        {
+            "chapter": 56,
+            "verse": 43,
+            "text": "Wa Žillin Min Yaĥmūmin"
+        },
+        {
+            "chapter": 56,
+            "verse": 44,
+            "text": "Lā Bāridin Wa Lā Karīmin"
+        },
+        {
+            "chapter": 56,
+            "verse": 45,
+            "text": "Innahum Kānū Qabla Dhālika Mutrafīna"
+        },
+        {
+            "chapter": 56,
+            "verse": 46,
+            "text": "Wa Kānū Yuşirrūna `Alá Al-Ĥinthi Al-`Ažīmi"
+        },
+        {
+            "chapter": 56,
+            "verse": 47,
+            "text": "Wa Kānū Yaqūlūna 'A'idhā Mitnā Wa Kunnā Turābāan Wa `Ižāmāan 'A'innā Lamab`ūthūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 48,
+            "text": "Awa 'Ābā'uunā Al-'Awwalūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 49,
+            "text": "Qul 'Inna Al-'Awwalīna Wa Al-'Ākhirīna"
+        },
+        {
+            "chapter": 56,
+            "verse": 50,
+            "text": "Lamajmū`ūna 'Ilá Mīqāti Yawmin Ma`lūmin"
+        },
+        {
+            "chapter": 56,
+            "verse": 51,
+            "text": "Thumma 'Innakum 'Ayyuhā Ađ-Đāllūna Al-Mukadhibūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 52,
+            "text": "La'ākilūna Min Shajarin Min Zaqqūmin"
+        },
+        {
+            "chapter": 56,
+            "verse": 53,
+            "text": "Famāli'ūna Minhā Al-Buţūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 54,
+            "text": "Fashāribūna `Alayhi Mina Al-Ĥamīmi"
+        },
+        {
+            "chapter": 56,
+            "verse": 55,
+            "text": "Fashāribūna Shurba Al-Hīmi"
+        },
+        {
+            "chapter": 56,
+            "verse": 56,
+            "text": "Hādhā Nuzuluhum Yawma Ad-Dīni"
+        },
+        {
+            "chapter": 56,
+            "verse": 57,
+            "text": "Naĥnu Khalaqnākum Falawlā Tuşaddiqūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 58,
+            "text": "Afara'aytum Mā Tumnūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 59,
+            "text": "A'antum Takhluqūnahu 'Am Naĥnu Al-Khāliqūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 60,
+            "text": "Naĥnu Qaddarnā Baynakumu Al-Mawta Wa Mā Naĥnu Bimasbūqīna"
+        },
+        {
+            "chapter": 56,
+            "verse": 61,
+            "text": "Alá 'An Nubaddila 'Amthālakum Wa Nunshi'akum Fī Mā Lā Ta`lamūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 62,
+            "text": "Wa Laqad `Alimtumu An-Nash'ata Al-'Ūlá Falawlā Tadhkkarūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 63,
+            "text": "Afara'aytum Mā Taĥruthūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 64,
+            "text": "A'antum Tazra`ūnahu 'Am Naĥnu Az-Zāri`ūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 65,
+            "text": "Law Nashā'u Laja`alnāhu Ĥuţāmāan Fažalaltum Tafakkahūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 66,
+            "text": "Innā Lamughramūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 67,
+            "text": "Bal Naĥnu Maĥrūmūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 68,
+            "text": "Afara'aytumu Al-Mā'a Al-Ladhī Tashrabūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 69,
+            "text": "A'antum 'Anzaltumūhu Mina Al-Muzni 'Am Naĥnu Al-Munzilūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 70,
+            "text": "Law Nashā'u Ja`alnāhu 'Ujājāan Falawlā Tashkurūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 71,
+            "text": "Afara'aytumu An-Nāra Allatī Tūrūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 72,
+            "text": "A'antum 'Ansha'tum Shajaratahā 'Am Naĥnu Al-Munshi'ūna"
+        },
+        {
+            "chapter": 56,
+            "verse": 73,
+            "text": "Naĥnu Ja`alnāhā Tadhkiratan Wa Matā`āan Lilmuqwīna"
+        },
+        {
+            "chapter": 56,
+            "verse": 74,
+            "text": "Fasabbiĥ Biāsmi Rabbika Al-`Ažīmi"
+        }
+    ]
+}

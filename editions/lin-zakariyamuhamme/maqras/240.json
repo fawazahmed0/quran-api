@@ -1,0 +1,414 @@
+{
+    "maqras": [
+        {
+            "chapter": 100,
+            "verse": 9,
+            "text": "Ayebi te ntango bakobimisa maye mazwami na malita"
+        },
+        {
+            "chapter": 100,
+            "verse": 10,
+            "text": "Mpe maye mabombamaki na mitema mikobima polele"
+        },
+        {
+            "chapter": 100,
+            "verse": 11,
+            "text": "Ya sólo, mokolo wana Nkolo na bango ayebi sango na bango malamu mpenza"
+        },
+        {
+            "chapter": 101,
+            "verse": 1,
+            "text": "Bobangi"
+        },
+        {
+            "chapter": 101,
+            "verse": 2,
+            "text": "Eloko nini yango bobangi"
+        },
+        {
+            "chapter": 101,
+            "verse": 3,
+            "text": "Nani akoyebisa yo eloko nini bobangi"
+        },
+        {
+            "chapter": 101,
+            "verse": 4,
+            "text": "Mokolo moye bato bakozala lokola bapomboli ya kopanzana"
+        },
+        {
+            "chapter": 101,
+            "verse": 5,
+            "text": "Mpe bangomba bikozalaka lokola bilamba bilemba"
+        },
+        {
+            "chapter": 101,
+            "verse": 6,
+            "text": "Mpona moto oyo emekelo naye ekozala nkilo"
+        },
+        {
+            "chapter": 101,
+            "verse": 7,
+            "text": "Akozala na bomoyi ya esengo"
+        },
+        {
+            "chapter": 101,
+            "verse": 8,
+            "text": "Kasi mpona moto oyo emekelo naye ekozanga kilo"
+        },
+        {
+            "chapter": 101,
+            "verse": 9,
+            "text": "Bozongi mpe bofandi naye ekozala libulu ya mozindo makasi"
+        },
+        {
+            "chapter": 101,
+            "verse": 10,
+            "text": "Mpe nani akoyebisa yo ntina na yango"
+        },
+        {
+            "chapter": 101,
+            "verse": 11,
+            "text": "Ezali nde moto ya makasi"
+        },
+        {
+            "chapter": 102,
+            "verse": 1,
+            "text": "Kowela bomengo ezali kokosa bino"
+        },
+        {
+            "chapter": 102,
+            "verse": 2,
+            "text": "Kino bokoya kotala malita (boko mona liwa)"
+        },
+        {
+            "chapter": 102,
+            "verse": 3,
+            "text": "Kasi bokoyeba"
+        },
+        {
+            "chapter": 102,
+            "verse": 4,
+            "text": "Sima lisusu bokoyeba"
+        },
+        {
+            "chapter": 102,
+            "verse": 5,
+            "text": "Kasi soki boyebaki yango ya soló"
+        },
+        {
+            "chapter": 102,
+            "verse": 6,
+            "text": "Ya soló bokomona lifelo"
+        },
+        {
+            "chapter": 102,
+            "verse": 7,
+            "text": "Sima bokomona yango ya sólo na miso na bino"
+        },
+        {
+            "chapter": 102,
+            "verse": 8,
+            "text": "Мре ya sólo, bokotunama mokolo wana na ntina ya bisengo (ya Allah) apesaki bino"
+        },
+        {
+            "chapter": 103,
+            "verse": 1,
+            "text": "(Na lapi) na eleko"
+        },
+        {
+            "chapter": 103,
+            "verse": 2,
+            "text": "Ya soló, moto azali na kati ya bozangi"
+        },
+        {
+            "chapter": 103,
+            "verse": 3,
+            "text": "Longola sé baye bandimi mpe basali misala ya malamu, mpe bazali komisalisana na bosembo, mpe bazali komisalisana na koyika mpiko"
+        },
+        {
+            "chapter": 104,
+            "verse": 1,
+            "text": "Etumbu ezali тропа moto nyoso ya songisongi тре maloba mabe"
+        },
+        {
+            "chapter": 104,
+            "verse": 2,
+            "text": "Oyó azali kosangisa bomengo naye mpe azali kotanga yango"
+        },
+        {
+            "chapter": 104,
+            "verse": 3,
+            "text": "Akanisi ete bomengo naye ekopesa ye bomoyi ya seko"
+        },
+        {
+            "chapter": 104,
+            "verse": 4,
+            "text": "Kasi te. Ya soló, akobwakama na kati ya Hutwama"
+        },
+        {
+            "chapter": 104,
+            "verse": 5,
+            "text": "Nani akoyebisa yo eloko nini Hutwama"
+        },
+        {
+            "chapter": 104,
+            "verse": 6,
+            "text": "Moto ya Allah oyo ezali ya kopelisama"
+        },
+        {
+            "chapter": 104,
+            "verse": 7,
+            "text": "Oyo ezali komata na motema"
+        },
+        {
+            "chapter": 104,
+            "verse": 8,
+            "text": "Ya sólo, yango ekozipa bango"
+        },
+        {
+            "chapter": 104,
+            "verse": 9,
+            "text": "Na makonzi (ya moto) mitandami na molongo"
+        },
+        {
+            "chapter": 105,
+            "verse": 1,
+            "text": "Omonaki te ndenge Nkolo nayo asalaki na bato ya nzoku"
+        },
+        {
+            "chapter": 105,
+            "verse": 2,
+            "text": "Asukisaki mayele na bango te"
+        },
+        {
+            "chapter": 105,
+            "verse": 3,
+            "text": "Atindaki likolo na bango mapinga ya bandeke"
+        },
+        {
+            "chapter": 105,
+            "verse": 4,
+            "text": "Babwakelaki bango mabanga ya mabele"
+        },
+        {
+            "chapter": 105,
+            "verse": 5,
+            "text": "Mpe ekomisaki bango lokola misisa miliami"
+        },
+        {
+            "chapter": 106,
+            "verse": 1,
+            "text": "Ezali тропа elaka ya baquraych"
+        },
+        {
+            "chapter": 106,
+            "verse": 2,
+            "text": "Na mibeko mia bango mitali mibembo na ntango ya elanga mpe ntango ya molunge"
+        },
+        {
+            "chapter": 106,
+            "verse": 3,
+            "text": "Esengeli na bango babondela Nkolo ya ndako oyo (ka’aba)"
+        },
+        {
+            "chapter": 106,
+            "verse": 4,
+            "text": "Ye oyo azali koleisa bango o’tango ya nzala mpe kobatela bango na tango ya bobangi"
+        },
+        {
+            "chapter": 107,
+            "verse": 1,
+            "text": "Omoni te oyo azali kozwa mokolo ya suka na lokuta"
+        },
+        {
+            "chapter": 107,
+            "verse": 2,
+            "text": "Ye wana nde azali kobengana mwana ya etike"
+        },
+        {
+            "chapter": 107,
+            "verse": 3,
+            "text": "Мре azali kotinda te baleisa babola"
+        },
+        {
+            "chapter": 107,
+            "verse": 4,
+            "text": "Etumbu ezali pona basambeli"
+        },
+        {
+            "chapter": 107,
+            "verse": 5,
+            "text": "Baye bazali kolekisa ngonga ya losambo na ntina te"
+        },
+        {
+            "chapter": 107,
+            "verse": 6,
+            "text": "Baye bazali kosambela тропа bamona bango"
+        },
+        {
+            "chapter": 107,
+            "verse": 7,
+            "text": "Mpe bazali kopekisa bisengelami"
+        },
+        {
+            "chapter": 108,
+            "verse": 1,
+            "text": "Ya soló, topesaki yo kawtsar"
+        },
+        {
+            "chapter": 108,
+            "verse": 2,
+            "text": "Sambela тропа Nkolo nayo mpe bonzela ye mbeka"
+        },
+        {
+            "chapter": 108,
+            "verse": 3,
+            "text": "Ya sôló, oyo akoyina yo ye wana nde akolimwa mpe akozala na mokitani te"
+        },
+        {
+            "chapter": 109,
+            "verse": 1,
+            "text": "Loba oh bino bapagano"
+        },
+        {
+            "chapter": 109,
+            "verse": 2,
+            "text": "Na kobondela te oyo bozali kobondela"
+        },
+        {
+            "chapter": 109,
+            "verse": 3,
+            "text": "Bino mpe bokobondela te oyo nazali kobondela"
+        },
+        {
+            "chapter": 109,
+            "verse": 4,
+            "text": "Mpe ngai na kobondela sókó шоке te oyo bozali kobondela"
+        },
+        {
+            "chapter": 109,
+            "verse": 5,
+            "text": "Bino mpe lokola bokobondela sókó moke te oyo nga nazali kobondela"
+        },
+        {
+            "chapter": 109,
+            "verse": 6,
+            "text": "Bino na lingomba na bino ngai mpe na oyo ya ngai lingomba atonda ngolu"
+        },
+        {
+            "chapter": 110,
+            "verse": 1,
+            "text": "Ntango lisungi y a Nkolo nayo mpe elonga naye ekoya"
+        },
+        {
+            "chapter": 110,
+            "verse": 2,
+            "text": "Мре okomona bato ebele bakoyingela o’lingomba ya Allah"
+        },
+        {
+            "chapter": 110,
+            "verse": 3,
+            "text": "S anzola matondo ya Nkolo nayo mpe senga ye bolimbisi, mpo ete ye ya soló, ayambaka tubela"
+        },
+        {
+            "chapter": 111,
+            "verse": 1,
+            "text": "Tika ete maboko ya Abu lahabe mabebisama"
+        },
+        {
+            "chapter": 111,
+            "verse": 2,
+            "text": "Bomengo bwaye na maye azwa ekosalisa ye te"
+        },
+        {
+            "chapter": 111,
+            "verse": 3,
+            "text": "Akozikisama na moto ya kopela"
+        },
+        {
+            "chapter": 111,
+            "verse": 4,
+            "text": "Mpela moko na mwasi naye mokumbi nkoni"
+        },
+        {
+            "chapter": 111,
+            "verse": 5,
+            "text": "Monyololo mokozala na kingo naye"
+        },
+        {
+            "chapter": 112,
+            "verse": 1,
+            "text": "Loba: Allah azali sé moko"
+        },
+        {
+            "chapter": 112,
+            "verse": 2,
+            "text": "Allah akoka"
+        },
+        {
+            "chapter": 112,
+            "verse": 3,
+            "text": "Abota te mpe abotama te"
+        },
+        {
+            "chapter": 112,
+            "verse": 4,
+            "text": "Mpe akokani na eloko moko te"
+        },
+        {
+            "chapter": 113,
+            "verse": 1,
+            "text": "Loba: Nazali kosenga libateli epai ya Nkolo oyo atanisaka ntongo"
+        },
+        {
+            "chapter": 113,
+            "verse": 2,
+            "text": "Kowuta na mabe oyo ye akela"
+        },
+        {
+            "chapter": 113,
+            "verse": 3,
+            "text": "Kowuta na mabe ya molili ya makasi"
+        },
+        {
+            "chapter": 113,
+            "verse": 4,
+            "text": "Mpe kowuta na mabe ya baye bazali kofula mopepe ya mabe na mazita"
+        },
+        {
+            "chapter": 113,
+            "verse": 5,
+            "text": "Mpe kowuta na mabe ya bato ya mitema likunya ntango bazali kosala likunya"
+        },
+        {
+            "chapter": 114,
+            "verse": 1,
+            "text": "Loba: Nasengi libateli epai ya Nkolo ya bato"
+        },
+        {
+            "chapter": 114,
+            "verse": 2,
+            "text": "Mokonzi ya bato"
+        },
+        {
+            "chapter": 114,
+            "verse": 3,
+            "text": "Nzambe ya bato"
+        },
+        {
+            "chapter": 114,
+            "verse": 4,
+            "text": "Kowuta na komekama ya milimo mabe"
+        },
+        {
+            "chapter": 114,
+            "verse": 5,
+            "text": "Oyo azali kofula makanisi mabe o’mitema mia bato"
+        },
+        {
+            "chapter": 114,
+            "verse": 6,
+            "text": "Azala okati ya bilima to bato"
+        }
+    ]
+}
