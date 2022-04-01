@@ -90,7 +90,7 @@ Refer [font-full](https://github.com/fawazahmed0/quran-api/blob/1/fontfull.md) t
 - Use [Google Noto Fonts](https://www.google.com/get/noto/) to display the translation. By default OS doesn't have font installed for every language. So you will have to use fonts for few languages such as [Burmese](https://www.google.com/get/noto/#serif-mymr) etc, to show properly. Otherwise you will end up with [tofu characters](https://english.stackexchange.com/questions/62524/what-do-you-call-the-phenomenon-where-a-rectangle-is-shown-because-a-font-lack).
 
 ### Languages Available:
-By the mercy of God, there are [92 different language](https://github.com/fawazahmed0/quran-api/blob/1/Translations.md) translations available and a collection of  [440+ translations](https://github.com/fawazahmed0/quran-api/blob/1/editions.json).
+By the mercy of God, there are [98 different language](https://github.com/fawazahmed0/quran-api/blob/1/Translations.md) translations available and a collection of  [440+ translations](https://github.com/fawazahmed0/quran-api/blob/1/editions.json).
 Few of the translations were [OCRed](https://github.com/fawazahmed0/quran-api/blob/1/Translations.md#ocred) and may contain mistakes. Please do [report the mistakes](https://github.com/fawazahmed0/quran-api/issues/new).
 
 - [List of Languages Available](https://github.com/fawazahmed0/quran-api/blob/1/Translations.md)
