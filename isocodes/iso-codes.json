@@ -35,6 +35,9 @@
         "iso1": "",
         "iso2": "afa"
     },
+    "aghem": {
+        "iso2": "agq"
+    },
     "ainu": {
         "iso1": "",
         "iso2": "ain"
@@ -47,6 +50,12 @@
         "iso1": "",
         "iso2": "akk"
     },
+    "akoose": {
+        "iso2": "bss"
+    },
+    "alabama": {
+        "iso2": "akz"
+    },
     "albanian": {
         "iso1": "sq",
         "iso2": "sqi"
@@ -54,6 +63,9 @@
     "aleut": {
         "iso1": "",
         "iso2": "ale"
+    },
+    "algerianarabic": {
+        "iso2": "arq"
     },
     "algonquian": {
         "iso1": "",
@@ -63,6 +75,9 @@
         "iso1": "",
         "iso2": "tut"
     },
+    "americansignlanguage": {
+        "iso2": "ase"
+    },
     "amharic": {
         "iso1": "am",
         "iso2": "amh"
@@ -70,6 +85,9 @@
     "angika": {
         "iso1": "",
         "iso2": "anp"
+    },
+    "aonaga": {
+        "iso2": "njo"
     },
     "apache": {
         "iso1": "",
@@ -87,6 +105,9 @@
         "iso1": "",
         "iso2": "arc"
     },
+    "araona": {
+        "iso2": "aro"
+    },
     "arapaho": {
         "iso1": "",
         "iso2": "arp"
@@ -103,6 +124,9 @@
         "iso1": "",
         "iso2": "rup"
     },
+    "arpitan": {
+        "iso2": "frp"
+    },
     "artificial": {
         "iso1": "",
         "iso2": "art"
@@ -115,9 +139,18 @@
         "iso1": "",
         "iso2": "ast"
     },
+    "asu": {
+        "iso2": "asa"
+    },
     "athapascan": {
         "iso1": "",
         "iso2": "ath"
+    },
+    "atikamekw": {
+        "iso2": "atj"
+    },
+    "atsam": {
+        "iso2": "cch"
     },
     "australian": {
         "iso1": "",
@@ -147,6 +180,18 @@
         "iso1": "az",
         "iso2": "aze"
     },
+    "badaga": {
+        "iso2": "bfq"
+    },
+    "bafia": {
+        "iso2": "ksf"
+    },
+    "bafut": {
+        "iso2": "bfd"
+    },
+    "bakhtiari": {
+        "iso2": "bqi"
+    },
     "balinese": {
         "iso1": "",
         "iso2": "ban"
@@ -167,9 +212,15 @@
         "iso1": "",
         "iso2": "bai"
     },
+    "bamun": {
+        "iso2": "bax"
+    },
     "banda": {
         "iso1": "",
         "iso2": "bad"
+    },
+    "banjar": {
+        "iso2": "bjn"
     },
     "bantu": {
         "iso1": "",
@@ -191,6 +242,12 @@
         "iso1": "",
         "iso2": "btk"
     },
+    "bataktoba": {
+        "iso2": "bbc"
+    },
+    "bavarian": {
+        "iso2": "bar"
+    },
     "beja": {
         "iso1": "",
         "iso2": "bej"
@@ -203,6 +260,9 @@
         "iso1": "",
         "iso2": "bem"
     },
+    "bena": {
+        "iso2": "bez"
+    },
     "bengali": {
         "iso1": "bn",
         "iso2": "ben"
@@ -210,6 +270,9 @@
     "berber": {
         "iso1": "",
         "iso2": "ber"
+    },
+    "betawi": {
+        "iso2": "bew"
     },
     "bhojpuri": {
         "iso1": "",
@@ -227,6 +290,9 @@
         "iso1": "",
         "iso2": "bin"
     },
+    "bishnupriya": {
+        "iso2": "bpy"
+    },
     "bislama": {
         "iso1": "bi",
         "iso2": "bis"
@@ -239,9 +305,19 @@
         "iso1": "",
         "iso2": "zbl"
     },
+    "bodo": {
+        "iso2": "brx"
+    },
+    "bokml": {
+        "iso1": "nb",
+        "iso2": "nob"
+    },
     "bosnian": {
         "iso1": "bs",
         "iso2": "bos"
+    },
+    "brahui": {
+        "iso2": "brh"
     },
     "braj": {
         "iso1": "",
@@ -259,6 +335,9 @@
         "iso1": "bg",
         "iso2": "bul"
     },
+    "bulu": {
+        "iso2": "bum"
+    },
     "buriat": {
         "iso1": "",
         "iso2": "bua"
@@ -271,6 +350,18 @@
         "iso1": "",
         "iso2": "cad"
     },
+    "cajunfrench": {
+        "iso2": "frc"
+    },
+    "cantonese": {
+        "iso2": "yue"
+    },
+    "capiznon": {
+        "iso2": "cps"
+    },
+    "carolinaalgonquian": {
+        "iso2": "crr"
+    },
     "catalan": {
         "iso1": "ca",
         "iso2": "cat"
@@ -278,6 +369,9 @@
     "caucasian": {
         "iso1": "",
         "iso2": "cau"
+    },
+    "cayuga": {
+        "iso2": "cay"
     },
     "cebuano": {
         "iso1": "",
@@ -291,9 +385,30 @@
         "iso1": "",
         "iso2": "cai"
     },
+    "centralatlastamazight": {
+        "iso2": "tzm"
+    },
+    "centraldusun": {
+        "iso2": "dtp"
+    },
+    "centralkurdish": {
+        "iso2": "ckb"
+    },
+    "centralojibwa": {
+        "iso2": "ojc"
+    },
+    "centralyupik": {
+        "iso2": "esu"
+    },
+    "chadianarabic": {
+        "iso2": "shu"
+    },
     "chagatai": {
         "iso1": "",
         "iso2": "chg"
+    },
+    "chakma": {
+        "iso2": "ccp"
     },
     "chamic": {
         "iso1": "",
@@ -322,6 +437,18 @@
     "chichewa": {
         "iso1": "ny",
         "iso2": "nya"
+    },
+    "chickasaw": {
+        "iso2": "cic"
+    },
+    "chiga": {
+        "iso2": "cgg"
+    },
+    "chilcotin": {
+        "iso2": "clc"
+    },
+    "chimborazohighlandquichua": {
+        "iso2": "qug"
     },
     "chinese(simplified)": {
         "iso1": "zh",
@@ -362,6 +489,12 @@
     "classicalsyriac": {
         "iso1": "",
         "iso2": "syc"
+    },
+    "colognian": {
+        "iso2": "ksh"
+    },
+    "comorian": {
+        "iso2": "swb"
     },
     "coptic": {
         "iso1": "",
@@ -434,7 +567,10 @@
     "dari": {
         "iso1": "",
         "iso2": "prs"
-    },	
+    },
+    "dazaga": {
+        "iso2": "dzg"
+    },
     "delaware": {
         "iso1": "",
         "iso2": "del"
@@ -479,9 +615,15 @@
         "iso1": "dz",
         "iso2": "dzo"
     },
+    "easterncanadianinuktitut": {
+        "iso2": "ike"
+    },
     "easternfrisian": {
         "iso1": "",
         "iso2": "frs"
+    },
+    "easternojibwa": {
+        "iso2": "ojg"
     },
     "efik": {
         "iso1": "",
@@ -491,6 +633,9 @@
         "iso1": "",
         "iso2": "egy"
     },
+    "egyptianarabic": {
+        "iso2": "arz"
+    },
     "ekajuk": {
         "iso1": "",
         "iso2": "eka"
@@ -498,6 +643,12 @@
     "elamite": {
         "iso1": "",
         "iso2": "elx"
+    },
+    "embu": {
+        "iso2": "ebu"
+    },
+    "emilian": {
+        "iso2": "egl"
     },
     "english": {
         "iso1": "en",
@@ -531,6 +682,9 @@
         "iso1": "",
         "iso2": "ewo"
     },
+    "extremaduran": {
+        "iso2": "ext"
+    },
     "fang": {
         "iso1": "",
         "iso2": "fan"
@@ -547,6 +701,9 @@
         "iso1": "fj",
         "iso2": "fij"
     },
+    "fijihindi": {
+        "iso2": "hif"
+    },
     "filipino": {
         "iso1": "",
         "iso2": "fil"
@@ -562,6 +719,9 @@
     "fon": {
         "iso1": "",
         "iso2": "fon"
+    },
+    "frafra": {
+        "iso2": "gur"
     },
     "french": {
         "iso1": "fr",
@@ -595,6 +755,9 @@
         "iso1": "gd",
         "iso2": "gla"
     },
+    "gagauz": {
+        "iso2": "gag"
+    },
     "galibicarib": {
         "iso1": "",
         "iso2": "car"
@@ -602,6 +765,9 @@
     "galician": {
         "iso1": "gl",
         "iso2": "glg"
+    },
+    "ganchinese": {
+        "iso2": "gan"
     },
     "ganda": {
         "iso1": "lg",
@@ -639,9 +805,21 @@
         "iso1": "",
         "iso2": "goh"
     },
+    "ghegalbanian": {
+        "iso2": "aln"
+    },
+    "ghomala": {
+        "iso2": "bbj"
+    },
+    "gilaki": {
+        "iso2": "glk"
+    },
     "gilbertese": {
         "iso1": "",
         "iso2": "gil"
+    },
+    "goankonkani": {
+        "iso2": "gom"
     },
     "gondi": {
         "iso1": "",
@@ -675,6 +853,9 @@
         "iso1": "gu",
         "iso2": "guj"
     },
+    "gusii": {
+        "iso2": "guz"
+    },
     "gwichin": {
         "iso1": "",
         "iso2": "gwi"
@@ -686,6 +867,12 @@
     "haitian": {
         "iso1": "ht",
         "iso2": "hat"
+    },
+    "hakkachinese": {
+        "iso2": "hak"
+    },
+    "halkomelem": {
+        "iso2": "hur"
     },
     "hausa": {
         "iso1": "ha",
@@ -727,6 +914,9 @@
         "iso1": "",
         "iso2": "hmn"
     },
+    "hmongnjua": {
+        "iso2": "hnj"
+    },
     "hungarian": {
         "iso1": "hu",
         "iso2": "hun"
@@ -738,6 +928,9 @@
     "iban": {
         "iso1": "",
         "iso2": "iba"
+    },
+    "ibibio": {
+        "iso2": "ibb"
     },
     "icelandic": {
         "iso1": "is",
@@ -775,9 +968,15 @@
         "iso1": "id",
         "iso2": "ind"
     },
+    "ingrian": {
+        "iso2": "izh"
+    },
     "ingush": {
         "iso1": "",
         "iso2": "inh"
+    },
+    "innuaimun": {
+        "iso2": "moe"
     },
     "interlingua": {
         "iso1": "ia",
@@ -799,7 +998,7 @@
         "iso1": "",
         "iso2": "ira"
     },
-	"iranun": {
+    "iranun": {
         "iso1": "",
         "iso2": "ilp"
     },
@@ -823,6 +1022,9 @@
         "iso1": "it",
         "iso2": "ita"
     },
+    "jamaicancreoleenglish": {
+        "iso2": "jam"
+    },
     "japanese": {
         "iso1": "ja",
         "iso2": "jpn"
@@ -830,6 +1032,12 @@
     "javanese": {
         "iso1": "jv",
         "iso2": "jav"
+    },
+    "jju": {
+        "iso2": "kaj"
+    },
+    "jolafonyi": {
+        "iso2": "dyo"
     },
     "judeoarabic": {
         "iso1": "",
@@ -839,9 +1047,15 @@
         "iso1": "",
         "iso2": "jpr"
     },
+    "jutish": {
+        "iso2": "jut"
+    },
     "kabardian": {
         "iso1": "",
         "iso2": "kbd"
+    },
+    "kabuverdianu": {
+        "iso2": "kea"
     },
     "kabyle": {
         "iso1": "",
@@ -851,9 +1065,18 @@
         "iso1": "",
         "iso2": "kac"
     },
+    "kaingang": {
+        "iso2": "kgp"
+    },
+    "kako": {
+        "iso2": "kkj"
+    },
     "kalaallisut": {
         "iso1": "kl",
         "iso2": "kal"
+    },
+    "kalenjin": {
+        "iso2": "kln"
     },
     "kalmyk": {
         "iso1": "",
@@ -862,6 +1085,9 @@
     "kamba": {
         "iso1": "",
         "iso2": "kam"
+    },
+    "kanembu": {
+        "iso2": "kbl"
     },
     "kannada": {
         "iso1": "kn",
@@ -907,6 +1133,9 @@
         "iso1": "",
         "iso2": "knx"
     },
+    "kenyang": {
+        "iso2": "ken"
+    },
     "khasi": {
         "iso1": "",
         "iso2": "kha"
@@ -923,6 +1152,12 @@
         "iso1": "",
         "iso2": "kho"
     },
+    "khowar": {
+        "iso2": "khw"
+    },
+    "kiche": {
+        "iso2": "quc"
+    },
     "kikuyu": {
         "iso1": "ki",
         "iso2": "kik"
@@ -930,6 +1165,9 @@
     "kimbundu": {
         "iso1": "",
         "iso2": "kmb"
+    },
+    "kinaraya": {
+        "iso2": "krj"
     },
     "kinyarwanda": {
         "iso1": "rw",
@@ -939,13 +1177,22 @@
         "iso1": "ky",
         "iso2": "kir"
     },
+    "kirmanjki": {
+        "iso2": "kiu"
+    },
     "klingon": {
         "iso1": "",
         "iso2": "tlh"
     },
+    "kom": {
+        "iso2": "bkm"
+    },
     "komi": {
         "iso1": "kv",
         "iso2": "kom"
+    },
+    "komipermyak": {
+        "iso2": "koi"
     },
     "kongo": {
         "iso1": "kg",
@@ -959,13 +1206,28 @@
         "iso1": "ko",
         "iso2": "kor"
     },
+    "koro": {
+        "iso2": "kfo"
+    },
     "kosraean": {
         "iso1": "",
         "iso2": "kos"
     },
+    "kotava": {
+        "iso2": "avk"
+    },
+    "koyraborosenni": {
+        "iso2": "ses"
+    },
+    "koyrachiini": {
+        "iso2": "khq"
+    },
     "kpelle": {
         "iso1": "",
         "iso2": "kpe"
+    },
+    "krio": {
+        "iso2": "kri"
     },
     "kru": {
         "iso1": "",
@@ -983,7 +1245,7 @@
         "iso1": "ku",
         "iso2": "kur"
     },
-	"kurmanji": {
+    "kurmanji": {
         "iso1": "",
         "iso2": "kmr"
     },
@@ -995,6 +1257,12 @@
         "iso1": "",
         "iso2": "kut"
     },
+    "kwakwala": {
+        "iso2": "kwk"
+    },
+    "kwasio": {
+        "iso2": "nmg"
+    },
     "ladino": {
         "iso1": "",
         "iso2": "lad"
@@ -1002,6 +1270,9 @@
     "lahnda": {
         "iso1": "",
         "iso2": "lah"
+    },
+    "lakota": {
+        "iso2": "lkt"
     },
     "lamba": {
         "iso1": "",
@@ -1011,9 +1282,15 @@
         "iso1": "",
         "iso2": "day"
     },
+    "langi": {
+        "iso2": "lag"
+    },
     "lao": {
         "iso1": "lo",
         "iso2": "lao"
+    },
+    "latgalian": {
+        "iso2": "ltg"
     },
     "latin": {
         "iso1": "la",
@@ -1023,9 +1300,18 @@
         "iso1": "lv",
         "iso2": "lav"
     },
+    "laz": {
+        "iso2": "lzz"
+    },
     "lezghian": {
         "iso1": "",
         "iso2": "lez"
+    },
+    "ligurian": {
+        "iso2": "lij"
+    },
+    "lillooet": {
+        "iso2": "lil"
     },
     "limburgan": {
         "iso1": "li",
@@ -1035,13 +1321,31 @@
         "iso1": "ln",
         "iso2": "lin"
     },
+    "linguafrancanova": {
+        "iso2": "lfn"
+    },
+    "literarychinese": {
+        "iso2": "lzh"
+    },
     "lithuanian": {
         "iso1": "lt",
         "iso2": "lit"
     },
+    "livonian": {
+        "iso2": "liv"
+    },
     "lojban": {
         "iso1": "",
         "iso2": "jbo"
+    },
+    "lombard": {
+        "iso2": "lmo"
+    },
+    "louisianacreole": {
+        "iso2": "lou"
+    },
+    "lowersilesian": {
+        "iso2": "sli"
     },
     "lowersorbian": {
         "iso1": "",
@@ -1087,21 +1391,33 @@
         "iso1": "lb",
         "iso2": "ltz"
     },
-	"luyia": {
+    "luyia": {
         "iso1": "",
         "iso2": "luy"
+    },
+    "maba": {
+        "iso2": "mde"
     },
     "macedonian": {
         "iso1": "mk",
         "iso2": "mkd"
     },
+    "machame": {
+        "iso2": "jmc"
+    },
     "madurese": {
         "iso1": "",
         "iso2": "mad"
     },
+    "mafa": {
+        "iso2": "maf"
+    },
     "magahi": {
         "iso1": "",
         "iso2": "mag"
+    },
+    "mainfranconian": {
+        "iso2": "vmf"
     },
     "maithili": {
         "iso1": "",
@@ -1110,6 +1426,12 @@
     "makasar": {
         "iso1": "",
         "iso2": "mak"
+    },
+    "makhuwameetto": {
+        "iso2": "mgh"
+    },
+    "makonde": {
+        "iso2": "kde"
     },
     "malagasy": {
         "iso1": "mg",
@@ -1122,6 +1444,9 @@
     "malayalam": {
         "iso1": "ml",
         "iso2": "mal"
+    },
+    "malecite": {
+        "iso2": "pqm"
     },
     "maltese": {
         "iso1": "mt",
@@ -1187,9 +1512,27 @@
         "iso1": "",
         "iso2": "myn"
     },
+    "mazanderani": {
+        "iso2": "mzn"
+    },
+    "medumba": {
+        "iso2": "byv"
+    },
     "mende": {
         "iso1": "",
         "iso2": "men"
+    },
+    "mentawai": {
+        "iso2": "mwv"
+    },
+    "meru": {
+        "iso2": "mer"
+    },
+    "meta": {
+        "iso2": "mgo"
+    },
+    "michif": {
+        "iso2": "crg"
     },
     "mikmaq": {
         "iso1": "",
@@ -1198,6 +1541,12 @@
     "minangkabau": {
         "iso1": "",
         "iso2": "min"
+    },
+    "mingrelian": {
+        "iso2": "xmf"
+    },
+    "minnanchinese": {
+        "iso2": "nan"
     },
     "mirandese": {
         "iso1": "",
@@ -1227,6 +1576,15 @@
         "iso1": "",
         "iso2": "cnr"
     },
+    "moosecree": {
+        "iso2": "crm"
+    },
+    "morisyen": {
+        "iso2": "mfe"
+    },
+    "moroccanarabic": {
+        "iso2": "ary"
+    },
     "mossi": {
         "iso1": "",
         "iso2": "mos"
@@ -1239,9 +1597,24 @@
         "iso1": "",
         "iso2": "mun"
     },
+    "mundang": {
+        "iso2": "mua"
+    },
+    "muslimtat": {
+        "iso2": "ttt"
+    },
+    "myene": {
+        "iso2": "mye"
+    },
     "nahuatl": {
         "iso1": "",
         "iso2": "nah"
+    },
+    "najdiarabic": {
+        "iso2": "ars"
+    },
+    "nama": {
+        "iso2": "naq"
     },
     "nauru": {
         "iso1": "na",
@@ -1267,9 +1640,24 @@
         "iso1": "ne",
         "iso2": "nep"
     },
+    "ngambay": {
+        "iso2": "sba"
+    },
+    "ngiemboon": {
+        "iso2": "nnh"
+    },
+    "ngomba": {
+        "iso2": "jgo"
+    },
+    "nheengatu": {
+        "iso2": "yrl"
+    },
     "nias": {
         "iso1": "",
         "iso2": "nia"
+    },
+    "nigerianpidgin": {
+        "iso2": "pcm"
     },
     "nigerkordofanian": {
         "iso1": "",
@@ -1303,17 +1691,32 @@
         "iso1": "",
         "iso2": "nai"
     },
+    "northerneastcree": {
+        "iso2": "crl"
+    },
     "northernfrisian": {
         "iso1": "",
         "iso2": "frr"
+    },
+    "northernhaida": {
+        "iso2": "hdn"
+    },
+    "northernluri": {
+        "iso2": "lrc"
     },
     "northernsami": {
         "iso1": "se",
         "iso2": "sme"
     },
+    "northerntutchone": {
+        "iso2": "ttm"
+    },
     "northndebele": {
         "iso1": "nd",
         "iso2": "nde"
+    },
+    "northwesternojibwa": {
+        "iso2": "ojb"
     },
     "norwegian": {
         "iso1": "no",
@@ -1323,13 +1726,15 @@
         "iso1": "nn",
         "iso2": "nno"
     },
-    "bokml": {
-        "iso1": "nb",
-        "iso2": "nob"
+    "novial": {
+        "iso2": "nov"
     },
     "nubian": {
         "iso1": "",
         "iso2": "nub"
+    },
+    "nuer": {
+        "iso2": "nus"
     },
     "nyamwezi": {
         "iso1": "",
@@ -1355,6 +1760,12 @@
         "iso1": "oj",
         "iso2": "oji"
     },
+    "ojicree": {
+        "iso2": "ojs"
+    },
+    "okanagan": {
+        "iso2": "oka"
+    },
     "oriya": {
         "iso1": "or",
         "iso2": "ori"
@@ -1378,6 +1789,9 @@
     "pahlavi": {
         "iso1": "",
         "iso2": "pal"
+    },
+    "palatinegerman": {
+        "iso2": "pfl"
     },
     "palauan": {
         "iso1": "",
@@ -1411,6 +1825,9 @@
         "iso1": "",
         "iso2": "nso"
     },
+    "pennsylvaniagerman": {
+        "iso2": "pdc"
+    },
     "persian": {
         "iso1": "fa",
         "iso2": "fas"
@@ -1427,6 +1844,18 @@
         "iso1": "",
         "iso2": "phn"
     },
+    "picard": {
+        "iso2": "pcd"
+    },
+    "piedmontese": {
+        "iso2": "pms"
+    },
+    "plainscree": {
+        "iso2": "crk"
+    },
+    "plautdietsch": {
+        "iso2": "pdt"
+    },
     "pohnpeian": {
         "iso1": "",
         "iso2": "pon"
@@ -1434,6 +1863,9 @@
     "polish": {
         "iso1": "pl",
         "iso2": "pol"
+    },
+    "pontic": {
+        "iso2": "pnt"
     },
     "portuguese": {
         "iso1": "pt",
@@ -1446,6 +1878,9 @@
     "provenalold": {
         "iso1": "",
         "iso2": "pro"
+    },
+    "prussian": {
+        "iso2": "prg"
     },
     "pushto": {
         "iso1": "ps",
@@ -1467,6 +1902,15 @@
         "iso1": "",
         "iso2": "rar"
     },
+    "riffian": {
+        "iso2": "rif"
+    },
+    "rohingya": {
+        "iso2": "rhg"
+    },
+    "romagnol": {
+        "iso2": "rgn"
+    },
     "romance": {
         "iso1": "",
         "iso2": "roa"
@@ -1483,6 +1927,15 @@
         "iso1": "",
         "iso2": "rom"
     },
+    "rombo": {
+        "iso2": "rof"
+    },
+    "rotuman": {
+        "iso2": "rtm"
+    },
+    "roviana": {
+        "iso2": "rug"
+    },
     "rundi": {
         "iso1": "rn",
         "iso2": "run"
@@ -1490,6 +1943,15 @@
     "russian": {
         "iso1": "ru",
         "iso2": "rus"
+    },
+    "rusyn": {
+        "iso2": "rue"
+    },
+    "rwa": {
+        "iso2": "rwk"
+    },
+    "saho": {
+        "iso2": "ssy"
     },
     "salishan": {
         "iso1": "",
@@ -1499,6 +1961,9 @@
         "iso1": "",
         "iso2": "sam"
     },
+    "samburu": {
+        "iso2": "saq"
+    },
     "sami": {
         "iso1": "",
         "iso2": "smi"
@@ -1507,6 +1972,9 @@
         "iso1": "sm",
         "iso2": "smo"
     },
+    "samogitian": {
+        "iso2": "sgs"
+    },
     "sandawe": {
         "iso1": "",
         "iso2": "sad"
@@ -1514,6 +1982,9 @@
     "sango": {
         "iso1": "sg",
         "iso2": "sag"
+    },
+    "sangu": {
+        "iso2": "sbp"
     },
     "sanskrit": {
         "iso1": "sa",
@@ -1531,9 +2002,21 @@
         "iso1": "",
         "iso2": "sas"
     },
+    "sassaresesardinian": {
+        "iso2": "sdc"
+    },
+    "saterlandfrisian": {
+        "iso2": "stq"
+    },
+    "saurashtra": {
+        "iso2": "saz"
+    },
     "scots": {
         "iso1": "",
         "iso2": "sco"
+    },
+    "selayar": {
+        "iso2": "sly"
     },
     "selkup": {
         "iso1": "",
@@ -1543,13 +2026,31 @@
         "iso1": "",
         "iso2": "sem"
     },
+    "sena": {
+        "iso2": "seh"
+    },
+    "seneca": {
+        "iso2": "see"
+    },
     "serbian": {
         "iso1": "sr",
         "iso2": "srp"
     },
+    "serbocroatian": {
+        "iso1": "sh"
+    },
     "serer": {
         "iso1": "",
         "iso2": "srr"
+    },
+    "seri": {
+        "iso2": "sei"
+    },
+    "seselwacreolefrench": {
+        "iso2": "crs"
+    },
+    "shambala": {
+        "iso2": "ksb"
     },
     "shan": {
         "iso1": "",
@@ -1578,6 +2079,9 @@
     "siksika": {
         "iso1": "",
         "iso2": "bla"
+    },
+    "silesian": {
+        "iso2": "szl"
     },
     "sindhi": {
         "iso1": "sd",
@@ -1615,6 +2119,9 @@
         "iso1": "sl",
         "iso2": "slv"
     },
+    "soga": {
+        "iso2": "xog"
+    },
     "sogdian": {
         "iso1": "",
         "iso2": "sog"
@@ -1647,9 +2154,24 @@
         "iso1": "",
         "iso2": "alt"
     },
+    "southerneastcree": {
+        "iso2": "crj"
+    },
+    "southernhaida": {
+        "iso2": "hax"
+    },
+    "southernkurdish": {
+        "iso2": "sdh"
+    },
+    "southernlushootseed": {
+        "iso2": "slh"
+    },
     "southernsami": {
         "iso1": "",
         "iso2": "sma"
+    },
+    "southerntutchone": {
+        "iso2": "tce"
     },
     "southndebele": {
         "iso1": "nr",
@@ -1666,6 +2188,9 @@
     "standardmoroccantamazight": {
         "iso1": "",
         "iso2": "zgh"
+    },
+    "straitssalish": {
+        "iso2": "str"
     },
     "sukuma": {
         "iso1": "",
@@ -1687,6 +2212,9 @@
         "iso1": "sw",
         "iso2": "swa"
     },
+    "swampycree": {
+        "iso2": "csw"
+    },
     "swati": {
         "iso1": "ss",
         "iso2": "ssw"
@@ -1703,21 +2231,39 @@
         "iso1": "",
         "iso2": "syr"
     },
+    "tachelhit": {
+        "iso2": "shi"
+    },
     "tagalog": {
         "iso1": "tl",
         "iso2": "tgl"
+    },
+    "tagish": {
+        "iso2": "tgx"
     },
     "tahitian": {
         "iso1": "ty",
         "iso2": "tah"
     },
+    "tahltan": {
+        "iso2": "tht"
+    },
     "tai": {
         "iso1": "",
         "iso2": "tai"
     },
+    "taidam": {
+        "iso2": "blt"
+    },
+    "taita": {
+        "iso2": "dav"
+    },
     "tajik": {
         "iso1": "tg",
         "iso2": "tgk"
+    },
+    "talysh": {
+        "iso2": "tly"
     },
     "tamashek": {
         "iso1": "",
@@ -1726,6 +2272,12 @@
     "tamil": {
         "iso1": "ta",
         "iso2": "tam"
+    },
+    "taroko": {
+        "iso2": "trv"
+    },
+    "tasawaq": {
+        "iso2": "twq"
     },
     "tatar": {
         "iso1": "tt",
@@ -1738,6 +2290,9 @@
     "tereno": {
         "iso1": "",
         "iso2": "ter"
+    },
+    "teso": {
+        "iso2": "teo"
     },
     "tetum": {
         "iso1": "",
@@ -1787,6 +2342,18 @@
         "iso1": "to",
         "iso2": "ton"
     },
+    "tornedalenfinnish": {
+        "iso2": "fit"
+    },
+    "torwali": {
+        "iso2": "trw"
+    },
+    "tsakhur": {
+        "iso2": "tkr"
+    },
+    "tsakonian": {
+        "iso2": "tsd"
+    },
     "tsimshian": {
         "iso1": "",
         "iso2": "tsi"
@@ -1799,9 +2366,15 @@
         "iso1": "tn",
         "iso2": "tsn"
     },
+    "tulu": {
+        "iso2": "tcy"
+    },
     "tumbuka": {
         "iso1": "",
         "iso2": "tum"
+    },
+    "tunisianarabic": {
+        "iso2": "aeb"
     },
     "tupi": {
         "iso1": "",
@@ -1819,6 +2392,9 @@
         "iso1": "tk",
         "iso2": "tuk"
     },
+    "turoyo": {
+        "iso2": "tru"
+    },
     "tuvalu": {
         "iso1": "",
         "iso2": "tvl"
@@ -1830,6 +2406,9 @@
     "twi": {
         "iso1": "tw",
         "iso2": "twi"
+    },
+    "tyap": {
+        "iso2": "kcg"
     },
     "udmurt": {
         "iso1": "",
@@ -1879,6 +2458,12 @@
         "iso1": "ve",
         "iso2": "ven"
     },
+    "venetian": {
+        "iso2": "vec"
+    },
+    "veps": {
+        "iso2": "vep"
+    },
     "vietnamese": {
         "iso1": "vi",
         "iso2": "vie"
@@ -1891,6 +2476,12 @@
         "iso1": "",
         "iso2": "vot"
     },
+    "vro": {
+        "iso2": "vro"
+    },
+    "vunjo": {
+        "iso2": "vun"
+    },
     "wakashan": {
         "iso1": "",
         "iso2": "wak"
@@ -1899,17 +2490,41 @@
         "iso1": "wa",
         "iso2": "wln"
     },
+    "walser": {
+        "iso2": "wae"
+    },
     "waray": {
         "iso1": "",
         "iso2": "war"
+    },
+    "warlpiri": {
+        "iso2": "wbp"
     },
     "washo": {
         "iso1": "",
         "iso2": "was"
     },
+    "wayuu": {
+        "iso2": "guc"
+    },
     "welsh": {
         "iso1": "cy",
         "iso2": "cym"
+    },
+    "westernbalochi": {
+        "iso2": "bgn"
+    },
+    "westerncanadianinuktitut": {
+        "iso2": "ikt"
+    },
+    "westernmari": {
+        "iso2": "mrj"
+    },
+    "westernojibwa": {
+        "iso2": "ojw"
+    },
+    "westflemish": {
+        "iso2": "vls"
     },
     "wolaitta": {
         "iso1": "",
@@ -1919,25 +2534,40 @@
         "iso1": "wo",
         "iso2": "wol"
     },
+    "woodscree": {
+        "iso2": "cwd"
+    },
+    "wuchinese": {
+        "iso2": "wuu"
+    },
     "xhosa": {
         "iso1": "xh",
         "iso2": "xho"
+    },
+    "xiangchinese": {
+        "iso2": "hsn"
     },
     "yakut": {
         "iso1": "",
         "iso2": "sah"
     },
+    "yangben": {
+        "iso2": "yav"
+    },
     "yao": {
         "iso1": "",
         "iso2": "yao"
     },
-    "yau": {
-        "iso1": "",
-        "iso2": "yuw"
-    },	
     "yapese": {
         "iso1": "",
         "iso2": "yap"
+    },
+    "yau": {
+        "iso1": "",
+        "iso2": "yuw"
+    },
+    "yemba": {
+        "iso2": "ybb"
     },
     "yiddish": {
         "iso1": "yi",
@@ -1959,9 +2589,15 @@
         "iso1": "",
         "iso2": "zap"
     },
+    "zarma": {
+        "iso2": "dje"
+    },
     "zaza": {
         "iso1": "",
         "iso2": "zza"
+    },
+    "zeelandic": {
+        "iso2": "zea"
     },
     "zenaga": {
         "iso1": "",
@@ -1970,6 +2606,9 @@
     "zhuang": {
         "iso1": "za",
         "iso2": "zha"
+    },
+    "zoroastriandari": {
+        "iso2": "gbz"
     },
     "zulu": {
         "iso1": "zu",
