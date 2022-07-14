@@ -2579,6 +2579,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.min.json"
     },
+    "mya_basein": {
+        "name": "mya-basein",
+        "author": "Ba Sein",
+        "language": "Burmese",
+        "direction": "ltr",
+        "source": "http://quran.mmsy.info , Muslim students Myanmar Youth Student and Youth Online Organization",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-basein.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-basein.min.json"
+    },
     "mya_ghazimohammadha": {
         "name": "mya-ghazimohammadha",
         "author": "Ghazi Mohammad Hashim",
@@ -2598,16 +2608,6 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-hashimtinmyint.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-hashimtinmyint.min.json"
-    },
-    "mya_thiripyanchiuba": {
-        "name": "mya-thiripyanchiuba",
-        "author": "Thiri Pyan Chi U Ba Sein",
-        "language": "Burmese",
-        "direction": "ltr",
-        "source": "http://quran.mmsy.info , Muslim students Myanmar Youth Student and Youth Online Organization",
-        "comments": "",
-        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-thiripyanchiuba.json",
-        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-thiripyanchiuba.min.json"
     },
     "nep_ahlalhadithcent_la": {
         "name": "nep-ahlalhadithcent-la",

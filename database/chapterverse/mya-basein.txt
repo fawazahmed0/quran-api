@@ -6235,12 +6235,12 @@
 114|5|အို-တမန်တော်၊ ဟောပြောလော့၊ ဂျင်နတ်သားနှင့် လူသားတို့အလယ်တွင် လူသားတို့၏ စိတ်နှလုံးအတွင်း ဝင်ရောက်သွေးဆောင်သော ရှိုင်တန် မာရ်နတ်၏ လှညြ့်ဖားခြင်းကို အောင်နိုင်စေခြင်းငှာ လူသားတို့၏ အရှင်သခင်၊ လူသားတို့၏ ဘုရင်၊ လူသားတို့၏ ဘုရားသခင်၌ အကျွနု်ပ်သည် ခိုလှုံပါ၏။
 114|6|အို-တမန်တော်၊ ဟောပြောလော့၊ ဂျင်နတ်သားနှင့် လူသားတို့အလယ်တွင် လူသားတို့၏ စိတ်နှလုံးအတွင်း ဝင်ရောက်သွေးဆောင်သော ရှိုင်တန် မာရ်နတ်၏ လှညြ့်ဖားခြင်းကို အောင်နိုင်စေခြင်းငှာ လူသားတို့၏ အရှင်သခင်၊ လူသားတို့၏ ဘုရင်၊ လူသားတို့၏ ဘုရားသခင်၌ အကျွနု်ပ်သည် ခိုလှုံပါ၏။
 {
-    "name": "mya-thiripyanchiuba",
-    "author": "Thiri Pyan Chi U Ba Sein",
+    "name": "mya-basein",
+    "author": "Ba Sein",
     "language": "Burmese",
     "direction": "ltr",
     "source": "http://quran.mmsy.info , Muslim students Myanmar Youth Student and Youth Online Organization",
     "comments": "",
-    "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-thiripyanchiuba.json",
-    "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-thiripyanchiuba.min.json"
+    "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-basein.json",
+    "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-basein.min.json"
 }
