@@ -6,7 +6,6 @@ on:
   push:
     branches: [ 1 ]
     paths:
-    - 'start/*'
     - 'command.txt'
 
   workflow_dispatch:
