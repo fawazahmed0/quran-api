@@ -339,6 +339,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-sirajtafseer.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-sirajtafseer.min.json"
     },
+    "ara_sirajtafseernod": {
+        "name": "ara-sirajtafseernod",
+        "author": "Siraj Tafseer No Diacritics",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://quranenc.com",
+        "comments": "Diacritics removed for easier searching",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-sirajtafseernod.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-sirajtafseernod.min.json"
+    },
     "asm_shaykhrafeequli_la": {
         "name": "asm-shaykhrafeequli-la",
         "author": "Shaykh Rafeequl Islam Habibur Rahman",
