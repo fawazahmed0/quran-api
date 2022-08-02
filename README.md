@@ -9,7 +9,7 @@
 
 -------------
 
-**Note:** There is also API available for Hadiths at [here](https://github.com/fawazahmed0/hadith-api)
+**Note:** There is also API available for Hadiths at [here](https://github.com/fawazahmed0/hadith-api#readme)
 
 -------------
 
