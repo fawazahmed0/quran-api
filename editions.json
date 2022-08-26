@@ -4519,6 +4519,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.min.json"
     },
+    "urd_muhammadtaqiusm": {
+        "name": "urd-muhammadtaqiusm",
+        "author": "Muhammad Taqi Usmani",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtaqiusm.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtaqiusm.min.json"
+    },
     "urd_syedzeeshanhaid": {
         "name": "urd-syedzeeshanhaid",
         "author": "Syed Zeeshan Haider Jawadi",
