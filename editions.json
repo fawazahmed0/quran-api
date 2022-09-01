@@ -4519,6 +4519,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar.min.json"
     },
+    "urd_muhammadjunagar1": {
+        "name": "urd-muhammadjunagar1",
+        "author": "Muhammad Junagarhi, Muhammad Kazim",
+        "language": "Urdu",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.min.json"
+    },
     "urd_muhammadtaqiusm": {
         "name": "urd-muhammadtaqiusm",
         "author": "Muhammad Taqi Usmani",
