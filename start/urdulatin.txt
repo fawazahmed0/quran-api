@@ -6757,6 +6757,6 @@ Sureem rom
 
 
 {
-"author":"Muhammad Junagarhi Muhammad Kazim",
+"author":"Muhammad Junagarhi, Muhammad Kazim",
 "language":"Urdu"
 }
