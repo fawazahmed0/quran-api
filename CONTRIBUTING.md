@@ -11,6 +11,7 @@
 ```bash
 git clone --filter=blob:none --no-checkout --depth 1  --sparse <YourFork.git>
 cd quran-api
+git sparse-checkout reapply --no-cone
 git sparse-checkout add start/* command.txt
 git checkout
 ```
