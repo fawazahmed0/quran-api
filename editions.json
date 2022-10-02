@@ -2589,6 +2589,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/msa-abdullahmuhamma.min.json"
     },
+    "mya_alinuyin": {
+        "name": "mya-alinuyin",
+        "author": "Alin U Yin",
+        "language": "Burmese",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-alinuyin.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/mya-alinuyin.min.json"
+    },
     "mya_basein": {
         "name": "mya-basein",
         "author": "Ba Sein",
