@@ -279,6 +279,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranshouba.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranshouba.min.json"
     },
+    "ara_quransimple": {
+        "name": "ara-quransimple",
+        "author": "Quran Simple",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://api.alquran.cloud/v1/quran/quran-simple",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransimple.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransimple.min.json"
+    },
     "ara_quransoosi": {
         "name": "ara-quransoosi",
         "author": "Quran Soosi",
