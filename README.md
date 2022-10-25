@@ -13,7 +13,7 @@
 
 -------------
 
-**In the name of God, who have guided me to do this work**
+**In the name of God, who has guided me to do this work**
 
 
 This repo contains collection of Quran Translations and to allow development of websites, apps etc, it is structured in REST Architectural Style.
