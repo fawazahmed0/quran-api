@@ -6237,5 +6237,5 @@
 {
     "author": "Muhammad Karam Shah Al Azhari",
     "language": "Urdu",
-    "source": "https://dailyayat.com",
+    "source": "https://dailyayat.com"
 }

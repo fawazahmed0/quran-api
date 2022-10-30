@@ -6237,5 +6237,5 @@
 {
     "author": "Mahmood Ul Hassan",
     "language": "Urdu",
-    "source": "https://dailyayat.com",
+    "source": "https://dailyayat.com"
 }
