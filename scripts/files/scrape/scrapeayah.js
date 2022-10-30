@@ -1,3 +1,5 @@
+// Doesn't work properly, gives duplicates
+
 const { firefox } = require('playwright');
 const fs = require('fs')
 const path = require('path')
