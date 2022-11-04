@@ -4509,6 +4509,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-fatehmuhammadja.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-fatehmuhammadja.min.json"
     },
+    "urd_mahmoodulhassan": {
+        "name": "urd-mahmoodulhassan",
+        "author": "Mahmood Ul Hassan",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "https://dailyayat.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-mahmoodulhassan.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-mahmoodulhassan.min.json"
+    },
     "urd_muhammadhussain": {
         "name": "urd-muhammadhussain",
         "author": "Muhammad Hussain Najafi",
@@ -4548,6 +4558,16 @@
         "comments": "",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadjunagar1.min.json"
+    },
+    "urd_muhammadkaramsh": {
+        "name": "urd-muhammadkaramsh",
+        "author": "Muhammad Karam Shah Al Azhari",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "https://dailyayat.com",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadkaramsh.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadkaramsh.min.json"
     },
     "urd_muhammadtaqiusm": {
         "name": "urd-muhammadtaqiusm",
