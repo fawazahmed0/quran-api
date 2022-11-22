@@ -329,6 +329,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.min.json"
     },
+    "ara_quranuthmanihaf1": {
+        "name": "ara-quranuthmanihaf1",
+        "author": "Quran Uthmani Hafs No Diacritics",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://qurancomplex.gov.sa/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf1.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf1.min.json"
+    },
     "ara_quranwarsh": {
         "name": "ara-quranwarsh",
         "author": "Quran Warsh",
