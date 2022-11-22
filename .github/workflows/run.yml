@@ -31,6 +31,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '19'
+          
+
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3          
 
       # Partial clone
       - name: Partial clone
