@@ -92,26 +92,6 @@ jobs:
         run: py -3 -m pip install --upgrade pip setuptools wheel
         shell: bash
 
-      - name: Get cache directories for npm and pip
-        id: cache-dir
-        shell: bash
-        run: |
-          echo "::set-output name=pipcache::$(pip3 cache dir)"
-          echo "::set-output name=npmcache::$(npm config get cache)"
-
-      - name: Trying to use the old cache if available
-        uses: actions/cache@v2
-        with:
-          path: |
-            ${{ steps.cache-dir.outputs.pipcache }}
-            ${{ steps.cache-dir.outputs.npmcache }}
-          key: ${{ runner.os }}-cache-${{ hashFiles('**/package.json') }}-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-cache-${{ hashFiles('**/package.json') }}
-            ${{ runner.os }}-cache-${{ hashFiles('**/requirements.txt') }}
-            ${{ runner.os }}-cache-
-            ${{ runner.os }}-
-
       - name: Install Dependencies
         run: |
           pip3 install -r requirements.txt
