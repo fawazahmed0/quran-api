@@ -103,9 +103,6 @@ jobs:
           npm install
 
 
-      - name: Setup tmate session
-        uses: mxschmitt/action-tmate@v3    
-
       - name: Running the command
         run: node apiscript.js ${{ env.mycmd }} ${{ env.myargs }}
 
