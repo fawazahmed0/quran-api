@@ -175,7 +175,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 7 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex bazzi fonts with full suffix to view this text properly",
+        "comments": "Version 7 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use bazzi fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranbazzi.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranbazzi.min.json"
     },
@@ -185,7 +185,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) and also 'ۭ'(u+06ED)->'ٜ'(u+065c), Please use Quran complex doori fonts with full suffix to view this text properly",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) and also 'ۭ'(u+06ED)->'ٜ'(u+065c), You can use doori fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoori.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-qurandoori.min.json"
     },
@@ -255,7 +255,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex qaloon fonts with full suffix to view this text properly",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use qaloon fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqaloon.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqaloon.min.json"
     },
@@ -265,7 +265,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 7 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex qumbul fonts with full suffix to view this text properly",
+        "comments": "Version 7 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use qumbul fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqumbul.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranqumbul.min.json"
     },
@@ -275,7 +275,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 7, Please use the quran complex shouba fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex shouba fonts with full suffix to view this text properly",
+        "comments": "Version 7, Please use the quran complex shouba fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use shouba fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranshouba.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranshouba.min.json"
     },
@@ -295,7 +295,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) and also 'ۭ'(u+06ED)->'ٜ'(u+065c), Please use Quran complex soosi fonts with full suffix to view this text properly",
+        "comments": "Version 8 ,The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/ , The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) and also 'ۭ'(u+06ED)->'ٜ'(u+065c), You can use soosi fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosi.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosi.min.json"
     },
@@ -325,7 +325,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 13, Please use the quran complex Uthamnic fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex Uthamnic hafs fonts with full suffix to view this text properly",
+        "comments": "Version 13, Please use the quran complex Uthamnic fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use uthamic hafs fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.min.json"
     },
@@ -345,7 +345,7 @@
         "language": "Arabic",
         "direction": "rtl",
         "source": "https://qurancomplex.gov.sa/",
-        "comments": "Version 8, The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , Please use Quran complex warsh fonts with full suffix to view this text properly",
+        "comments": "Version 8, The verse numbering of this quran has been changed to Uthmanic version, so that Apps can easily use this, and people can benefit from it, If you want the copy with original verse numbering, please go to https://fonts.qurancomplex.gov.sa/, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use warsh fonts with full suffix to view this text",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranwarsh.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranwarsh.min.json"
     },
