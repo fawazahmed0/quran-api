@@ -3609,6 +3609,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-abdulraheemmoha.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-abdulraheemmoha.min.json"
     },
+    "tel_muhammadazizurr": {
+        "name": "tel-muhammadazizurr",
+        "author": "Muhammad Aziz Ur Rehman",
+        "language": "Telugu",
+        "direction": "ltr",
+        "source": "",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-muhammadazizurr.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/tel-muhammadazizurr.min.json"
+    },
     "tgk_abdolmohammaday_la": {
         "name": "tgk-abdolmohammaday-la",
         "author": "Abdolmohammad Ayati",
