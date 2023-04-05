@@ -4589,6 +4589,16 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadkaramsh.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadkaramsh.min.json"
     },
+    "urd_muhammadtahirul": {
+        "name": "urd-muhammadtahirul",
+        "author": "Muhammad Tahir Ul Qadri",
+        "language": "Urdu",
+        "direction": "rtl",
+        "source": "https://irfan-ul-quran.com/",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtahirul.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/urd-muhammadtahirul.min.json"
+    },
     "urd_muhammadtaqiusm": {
         "name": "urd-muhammadtaqiusm",
         "author": "Muhammad Taqi Usmani",
