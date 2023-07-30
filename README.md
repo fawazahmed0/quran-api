@@ -127,6 +127,7 @@ Projects using Quran API:
 - [Quran Recitation Videos](https://github.com/fawazahmed0/quran-videos)
 - [Quran Verse Detection](https://github.com/fawazahmed0/quran-verse-detection)
 - [Quran Hadith Search Engine](https://fawazahmed0.github.io/quran-hadith-search/)
+- [Random Verse Generator](https://rrakibul.github.io/quran-quotes/)
 
 ### Other Similar Projects:
 - [Hadith-api](https://github.com/fawazahmed0/hadith-api)
