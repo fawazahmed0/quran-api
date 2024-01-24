@@ -9,7 +9,10 @@
 
 -------------
 
-**Note:** There is also API available for Hadiths at [here](https://github.com/fawazahmed0/hadith-api#readme)
+**Note:** 
+> An API for accessing Hadiths is also available [here](https://github.com/fawazahmed0/hadith-api#readme).
+
+> Additionally, there is an API for Tafsir, which can be found [here](https://github.com/spa5k/tafsir_api#readme).
 
 -------------
 
