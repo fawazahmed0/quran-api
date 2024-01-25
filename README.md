@@ -7,11 +7,6 @@
 [![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/quran-api/badge)](https://www.jsdelivr.com/package/gh/fawazahmed0/quran-api)
 [![](https://data.jsdelivr.com/v1/package/gh/fawazahmed0/quran-api/badge/rank)](https://www.jsdelivr.com/package/gh/fawazahmed0/quran-api)
 
--------------
-
-**Note:** There is also API available for Hadiths at [here](https://github.com/fawazahmed0/hadith-api#readme)
-
--------------
 
 **In the name of God, who has guided me to do this work**
 
@@ -130,8 +125,8 @@ Projects using Quran API:
 - [Random Verse Generator](https://rrakibul.github.io/quran-quotes/)
 
 ### Other Similar Projects:
-- [Hadith-api](https://github.com/fawazahmed0/hadith-api)
-
+- [Hadith API](https://github.com/fawazahmed0/hadith-api#readme)
+- [Tafsir API](https://github.com/spa5k/tafsir_api#readme)
 
 ### Share:
 Please [Share](https://fawazahmed0.github.io/donate.html?mymsg=Thanks%20for%20using%20this%20API%2C%20I%20am%20Fawaz%20Ahmed%20(fawazahmed0)%20developer%20of%20this%20repo.%20I%20made%20this%20API%2C%20for%20three%20main%20reasons%3A%3Cbr%3E%3Cbr%3E%0A1.%20To%20spread%20the%20word%20of%20God%20around%20the%20world.%3Cbr%3E%3Cbr%3E%0A2.%20So%20the%20developers%20don't%20have%20to%20start%20from%20scratch.%3Cbr%3E%3Cbr%3E%0A3.%20To%20make%20a%20free%20unlimited%20service%2C%20which%20doesn't%20depend%20on%20any%20donation%20or%20any%20single%20person%20for%20it's%20future%20existence.%3Cbr%3EMy%20death%20won't%20have%20any%20effect%20on%20it%20by%20God's%20grace%2C%20as%20this%20API%20depends%20on%20the%20Free%20Open%20Source%20services%2C%20which%20todays%20internet%20infrastructure%20depends%20upon.%0A%3Cbr%3E%3Cbr%3E%3Cbr%3E%0AIf%20you%20like%20to%20be%20part%20of%20this%20ongoing%20charity%2C%20then%20please%20do%20share%20this%20API%20with%20your%20fellow%20mates&sharelink=https%3A%2F%2Fgithub.com%2Ffawazahmed0%2Fquran-api&smallsharetext=Free%20Quran%20API%20Service&largesharetext=Quran%20API%20Service%20with%2090%2B%20different%20languages%20and%20400%2B%20translations%20for%20Free&sharebtnmsg=Share%20the%20Quran%20API%20Service&nodonatebtn=yes) this repo with your fellow mates and Star this repo by clicking on [:star: button](#) above [:arrow_upper_right:](#)
