@@ -314,8 +314,8 @@
         "author": "Quran Uthmani Enc",
         "language": "Arabic",
         "direction": "rtl",
-        "source": "https://quranenc.com",
-        "comments": "",
+        "source": "",
+        "comments": "This is a copy of ara-quranacademy",
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanienc.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanienc.min.json"
     },
