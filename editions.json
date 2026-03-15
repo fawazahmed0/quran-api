@@ -309,6 +309,26 @@
         "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosinonun.json",
         "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quransoosinonun.min.json"
     },
+    "ara_quranspelled": {
+        "name": "ara-quranspelled",
+        "author": "Quran Spelled",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_(%D8%A8%D8%A7%D9%84%D8%B1%D8%B3%D9%85_%D8%A7%D9%84%D8%A5%D9%85%D9%84%D8%A7%D8%A6%D9%8A)/%D8%A7%D9%84%D9%86%D8%B5_%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%88%D9%84",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranspelled.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranspelled.min.json"
+    },
+    "ara_quranspellednod": {
+        "name": "ara-quranspellednod",
+        "author": "Quran Spelled No Diacritics",
+        "language": "Arabic",
+        "direction": "rtl",
+        "source": "https://ar.wikisource.org/wiki/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_(%D8%A8%D8%A7%D9%84%D8%B1%D8%B3%D9%85_%D8%A7%D9%84%D8%A5%D9%85%D9%84%D8%A7%D8%A6%D9%8A)/%D8%A7%D9%84%D9%86%D8%B5_%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%88%D9%84",
+        "comments": "",
+        "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranspellednod.json",
+        "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranspellednod.min.json"
+    },
     "ara_quranuthmanienc": {
         "name": "ara-quranuthmanienc",
         "author": "Quran Uthmani Enc",
