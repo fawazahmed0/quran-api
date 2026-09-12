@@ -6123,7 +6123,7 @@
 96|17|فَلۡيَدۡعُ نَادِيَهُۥ
 96|18|سَنَدۡعُ ٱلزَّبَانِيَةَ
 96|19|كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩
-97|1|ٱلرَّحِيمِإِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ
+97|1|إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ
 97|2|وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ
 97|3|لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرࣱ مِّنۡ أَلۡفِ شَهۡرࣲ‏
 97|4|تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرࣲ‏
@@ -6240,7 +6240,7 @@
     "language": "Arabic",
     "direction": "rtl",
     "source": "https://qurancomplex.gov.sa/",
-    "comments": "Version 13, Please use the quran complex Uthamnic fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) ,  You can use uthamic hafs fonts with full suffix to view this text",
+    "comments": "Version 13, Please use the quran complex Uthamnic fonts to view this text properly, The following characters were replaced (to open fathatan,dammatan and kasratan) to conform to unicode standard,'ٖ'(u+0656)->'ࣲ'(u+08f2),'ٗ'(u+0657)->'ࣰ'(u+08f0),'ٞ'(u+065E)->'ࣱ'(u+08f1) , You can use uthamic hafs fonts with full suffix to view this text",
     "link": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.json",
     "linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/editions/ara-quranuthmanihaf.min.json"
 }
