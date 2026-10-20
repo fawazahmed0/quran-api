@@ -6233,7 +6233,7 @@ Maliki alnnasi
 Ilahi alnnasi
 Min sharri alwaswasi alkhannasi
 Allathee yuwaswisu fee sudoori alnnasi
-Mina aljinnati wa alnnasm
+Mina aljinnati wa alnnasi
 {
     "name": "ara-quran-la",
     "author": "Quran Transliteration",

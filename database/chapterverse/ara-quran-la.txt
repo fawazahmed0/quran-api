@@ -6233,7 +6233,7 @@
 114|3|Ilahi alnnasi
 114|4|Min sharri alwaswasi alkhannasi
 114|5|Allathee yuwaswisu fee sudoori alnnasi
-114|6|Mina aljinnati wa alnnasm
+114|6|Mina aljinnati wa alnnasi
 {
     "name": "ara-quran-la",
     "author": "Quran Transliteration",
